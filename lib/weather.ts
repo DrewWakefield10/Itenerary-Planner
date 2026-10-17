@@ -1,0 +1,4 @@
+import {z} from 'zod';
+export const weatherSchema=z.object({daily:z.object({time:z.array(z.string()),temperature_2m_max:z.array(z.number().nullable()),precipitation_probability_max:z.array(z.number().nullable()),weather_code:z.array(z.number().nullable())})});
+export type Forecast={available:boolean;message?:string;date?:string;temperature?:number|null;rain?:number|null;condition?:string;retrievedAt?:string};
+export function condition(code:number|null){if(code===null)return 'Conditions unavailable';if(code===0)return 'Clear sky';if(code<=3)return 'Partly cloudy / overcast';if(code<=48)return 'Fog';if(code<=67)return 'Drizzle or rain';if(code<=77)return 'Wintry precipitation';if(code<=82)return 'Rain showers';if(code<=86)return 'Snow showers';if(code>=95)return 'Thunderstorms';return 'Variable conditions';}
