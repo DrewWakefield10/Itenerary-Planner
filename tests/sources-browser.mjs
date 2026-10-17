@@ -1,0 +1,58 @@
+import {chromium,expect} from '@playwright/test';
+import assert from 'node:assert/strict';
+import {readFile} from 'node:fs/promises';
+const browser=await chromium.launch({channel:'chrome',headless:true});
+try{
+ const page=await browser.newPage({viewport:{width:1280,height:900}});
+ const errors=[];page.on('pageerror',e=>errors.push(e.message));
+ await page.goto('http://127.0.0.1:5173/destinations/baguio');
+ const checked=page.getByRole('link',{name:'Burnham Park location context: Checked Oct. 2026 — City Government of Baguio — VISITA',exact:true});
+ await expect(checked).toHaveAttribute('href','https://visita.baguio.gov.ph/');
+ await expect(page.locator('.detail-facts .source-estimate')).toHaveCount(2);
+ await page.setViewportSize({width:390,height:844});
+ await expect(checked).toBeVisible();
+ assert.equal(await page.evaluate(()=>document.documentElement.scrollWidth>innerWidth),false);
+ await page.screenshot({path:'tests/sources-destination-mobile.png',fullPage:true});
+ await page.goto('http://127.0.0.1:5173/planner?destinations=baguio&days=3');
+ await expect(page.getByLabel('Number of days')).toHaveValue('3');
+ for(let i=0;i<5;i++)await page.getByRole('button',{name:'Next chapter'}).click();
+ await page.getByRole('button',{name:'Generate demo itinerary'}).click();
+ await expect(page.getByRole('heading',{name:'Baguio — my island story'})).toBeVisible();
+ const url=page.url();
+ let park=page.locator('.activity-card').filter({has:page.getByRole('heading',{name:'Burnham Park',exact:true})});
+ await park.getByText('Transport, booking & source',{exact:true}).click();
+ await expect(park.getByRole('link',{name:'Location context: Checked Oct. 2026 — City Government of Baguio — VISITA',exact:true})).toBeVisible();
+ await expect(park.locator('.activity-meta .source-estimate')).toHaveText('Estimate');
+ await page.getByRole('button',{name:'Edit Burnham Park',exact:true}).click();
+ await page.getByLabel('Start time',{exact:true}).fill('15:00');
+ await page.getByRole('button',{name:'Save activity',exact:true}).click();
+ await page.reload();
+ park=page.locator('.activity-card').filter({has:page.getByRole('heading',{name:'Burnham Park',exact:true})});
+ await park.getByText('Transport, booking & source',{exact:true}).click();
+ await expect(park.locator('.source-verified').first()).toBeVisible();
+ const pending=page.waitForEvent('download');
+ await page.getByRole('button',{name:'Export backup',exact:true}).click();
+ const download=await pending;
+ const trip=JSON.parse(await readFile(await download.path(),'utf8'));
+ const exported=trip.days.flatMap(d=>d.activities).find(a=>a.name==='Burnham Park');
+ assert.equal(exported.sources.location.status,'verified');
+ assert.equal(exported.sources.price.status,'estimate');
+ assert.equal(trip.destinationInfo[0].sources.location.dateChecked,'2026-10-18');
+ // Import a genuinely old shape, then inspect its UI and upgraded saved record.
+ const legacy=structuredClone(trip);delete legacy.destinationInfo;
+ for(const d of legacy.days)for(const a of d.activities){delete a.sources;delete a.advisories;delete a.locationDetails;delete a.accessibility;}
+ await page.goto('http://127.0.0.1:5173/my-trips');
+ await expect(page.locator('.postcard')).toHaveCount(1);
+ await page.getByLabel('Restore a Lakbay JSON backup').setInputFiles({name:'legacy.json',mimeType:'application/json',buffer:Buffer.from(JSON.stringify(legacy))});
+ await expect(page.getByText('Backup restored as a new trip.')).toBeVisible();
+ const stored=await page.evaluate(()=>JSON.parse(localStorage.getItem('lakbay:trips')));
+ assert.equal(stored[0].days[0].activities[0].sources.location.status,'unverified');
+ await page.goto(url);
+ await page.getByRole('button',{name:'Share snapshot',exact:true}).click();
+ const link=await page.getByLabel('Read-only trip link').inputValue();
+ const snapshot=JSON.parse(decodeURIComponent(atob(new URL(link).hash.slice(1))));
+ assert.deepEqual(snapshot.destinationInfo,trip.destinationInfo);
+ assert.equal(snapshot.days.flatMap(d=>d.activities).find(a=>a.name==='Burnham Park').sources.location.status,'verified');
+ assert.deepEqual(errors,[]);
+ console.log('Sources browser: mobile badges/links, mixed statuses, edited/reloaded metadata, export, legacy import, and shared snapshot passed.');
+}finally{await browser.close();}

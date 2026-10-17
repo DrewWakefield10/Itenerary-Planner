@@ -1,9 +1,15 @@
 "use client";
 import { useEffect, useRef, useState } from "react";
 import { X, Check } from "lucide-react";
-import { activitySchema, expenseCategories, type Activity, type TripRequest } from "@/lib/trip";
-import {destination} from '@/lib/destinations';
-import {fromStop} from '@/lib/engine';
+import {
+  activitySchema,
+  expenseCategories,
+  type Activity,
+  type TripRequest,
+} from "@/lib/trip";
+import { destination } from "@/lib/destinations";
+import { fromStop } from "@/lib/engine";
+import { updateActivityField } from "@/lib/activity-sources";
 export default function ActivityEditor({
   activity,
   slug,
@@ -24,7 +30,7 @@ export default function ActivityEditor({
     dialog.current?.showModal();
   }, []);
   function field<K extends keyof Activity>(key: K, value: Activity[K]) {
-    setA({ ...a, [key]: value });
+    setA(updateActivityField(a, key, value));
   }
   return (
     <dialog ref={dialog} className="editor-dialog" onCancel={onClose}>
@@ -65,10 +71,21 @@ export default function ActivityEditor({
         <h2>
           Make this stop <em>yours.</em>
         </h2>
-        <label>Replace with a destination stop
-          <select value="" onChange={e=>{const stop=destination(slug)?.stops.find(s=>s.name===e.target.value);if(stop)setA({...fromStop(stop,request,a.start),id:a.id});}}>
+        <label>
+          Replace with a destination stop
+          <select
+            value=""
+            onChange={(e) => {
+              const stop = destination(slug)?.stops.find(
+                (s) => s.name === e.target.value,
+              );
+              if (stop) setA({ ...fromStop(stop, request, a.start), id: a.id });
+            }}
+          >
             <option value="">Keep current stop / choose an alternative</option>
-            {destination(slug)?.stops.map(s=><option key={s.name}>{s.name}</option>)}
+            {destination(slug)?.stops.map((s) => (
+              <option key={s.name}>{s.name}</option>
+            ))}
           </select>
         </label>
         <label>
@@ -177,6 +194,14 @@ export default function ActivityEditor({
             maxLength={600}
             value={a.transport}
             onChange={(e) => field("transport", e.target.value)}
+          />
+        </label>
+        <label>
+          Accessibility notes
+          <textarea
+            maxLength={1000}
+            value={a.accessibility}
+            onChange={(e) => field("accessibility", e.target.value)}
           />
         </label>
         <label>

@@ -1,3 +1,9 @@
+import {
+  defaultFactSources,
+  type FactSources,
+  type SourceMetadata,
+  type SourcedLink,
+} from "./sources";
 export type Stop = {
   name: string;
   lat: number;
@@ -7,6 +13,11 @@ export type Stop = {
   minutes: number;
   outdoor: boolean;
   cluster: string;
+  locationDetails: string;
+  accessibility: string;
+  transport: string;
+  sources: FactSources;
+  advisories: SourcedLink[];
 };
 export type Destination = {
   slug: string;
@@ -23,6 +34,10 @@ export type Destination = {
   transport: string;
   food: string;
   stops: Stop[];
+  locationDetails: string;
+  accessibility: string;
+  sources: FactSources;
+  advisories: SourcedLink[];
 };
 const s = (
   name: string,
@@ -33,8 +48,29 @@ const s = (
   cluster: string,
   outdoor = true,
   minutes = 90,
-): Stop => ({ name, lat, lng, category, cost, cluster, outdoor, minutes });
-export const destinations: Destination[] = [
+): Stop => ({
+  name,
+  lat,
+  lng,
+  category,
+  cost,
+  cluster,
+  outdoor,
+  minutes,
+  locationDetails: "Location context has not been independently checked.",
+  accessibility:
+    "Accessibility has not been verified. Confirm step-free access and individual needs with the venue or operator.",
+  transport:
+    cluster === "boat"
+      ? "Boat operator, terminal, permit, and conditions must be confirmed."
+      : "Local movement allowance only; route and actual travel time unverified.",
+  sources: defaultFactSources(),
+  advisories: [],
+});
+const seeds: Omit<
+  Destination,
+  "locationDetails" | "accessibility" | "sources" | "advisories"
+>[] = [
   {
     slug: "palawan",
     name: "Palawan",
@@ -396,6 +432,113 @@ export const destinations: Destination[] = [
     ],
   },
 ];
+// These dates record an actual source review on 18 October 2026. Do not advance
+// dates automatically during generation or infer verification for adjacent facts.
+const reviewed = (sourceName: string, sourceUrl: string): SourceMetadata => ({
+  sourceName,
+  sourceUrl,
+  dateChecked: "2026-10-18",
+  status: "verified",
+});
+const baguioSource = reviewed(
+  "City Government of Baguio — VISITA",
+  "https://visita.baguio.gov.ph/",
+);
+const cebuSource = reviewed(
+  "National Museum of the Philippines — Cebu museum inauguration",
+  "https://www.nationalmuseum.gov.ph/2023/07/31/nmp-inaugurates-component-museum-in-cebu/",
+);
+const elNidoSource = reviewed(
+  "Travel Philippines — El Nido",
+  "https://app.philippines.travel/interests/el-nido",
+);
+export const officialAdvisories: SourcedLink[] = [
+  {
+    label: "PAGASA tropical cyclone bulletin page",
+    source: reviewed(
+      "DOST-PAGASA",
+      "https://www.pagasa.dost.gov.ph/tropical-cyclone/severe-weather-bulletin",
+    ),
+  },
+];
+export const officialTravelLinks: SourcedLink[] = [
+  {
+    label: "Official eTravel portal",
+    source: reviewed(
+      "Philippine Travel Information System",
+      "https://etravel.gov.ph/",
+    ),
+  },
+  {
+    label: "Bureau of Immigration portal",
+    source: reviewed("Bureau of Immigration", "https://immigration.gov.ph/"),
+  },
+];
+const checkedLocations: Record<
+  string,
+  { text: string; source: SourceMetadata }
+> = {
+  baguio: {
+    text: "Baguio’s city tourism portal lists Burnham among its parks and attractions.",
+    source: baguioSource,
+  },
+  cebu: {
+    text: "The National Museum’s Cebu site is at Plaza Independencia, near Fort San Pedro in Cebu City.",
+    source: cebuSource,
+  },
+  palawan: {
+    text: "El Nido is at the northern end of Palawan.",
+    source: elNidoSource,
+  },
+};
+const checkedStops: Record<string, { text: string; source: SourceMetadata }> = {
+  "Burnham Park": {
+    text: "Burnham is listed among Baguio City’s parks and attractions.",
+    source: baguioSource,
+  },
+  "Fort San Pedro": {
+    text: "Fort San Pedro is near the National Museum’s Plaza Independencia site in Cebu City.",
+    source: cebuSource,
+  },
+  "El Nido town walk": {
+    text: "El Nido is at the northern end of Palawan.",
+    source: elNidoSource,
+  },
+};
+export const destinations: Destination[] = seeds.map((d) => {
+  const location = checkedLocations[d.slug];
+  const sources = defaultFactSources();
+  if (location) sources.location = { ...location.source };
+  const transport =
+    d.slug === "palawan"
+      ? "Puerto Princesa to El Nido is an overland journey. Confirm the operator, arrival airport, and current travel time before booking."
+      : d.transport;
+  // Only the existence of this overland access option was checked, not a schedule,
+  // fare, service availability, or travel-time guarantee.
+  if (d.slug === "palawan") sources.transport = { ...elNidoSource };
+  return {
+    ...d,
+    transport,
+    locationDetails:
+      location?.text || "Location context has not been independently checked.",
+    accessibility:
+      "Accessibility has not been verified. Confirm step-free access and individual needs with venues and transport operators.",
+    sources,
+    advisories: structuredClone(officialAdvisories),
+    stops: d.stops.map((stop) => {
+      const checked = checkedStops[stop.name];
+      return {
+        ...stop,
+        locationDetails: checked?.text || stop.locationDetails,
+        sources: {
+          ...stop.sources,
+          ...(checked ? { location: { ...checked.source } } : {}),
+        },
+        advisories: structuredClone(officialAdvisories),
+      };
+    }),
+  };
+});
 export const categories = [
   "All",
   "Beaches",

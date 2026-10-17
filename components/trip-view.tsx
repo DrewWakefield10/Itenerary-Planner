@@ -35,7 +35,12 @@ import {
   type Activity,
 } from "@/lib/trip";
 import { readTrips, saveTrip } from "@/lib/trip-storage";
-import { peso, destination } from "@/lib/destinations";
+import {
+  peso,
+  destination,
+  officialAdvisories,
+  officialTravelLinks,
+} from "@/lib/destinations";
 import {
   budgetSummary,
   dayCost,
@@ -50,7 +55,12 @@ import {
   modifyBudget,
 } from "@/lib/engine";
 import ActivityEditor from "./activity-editor";
-import WeatherPanel from './weather-panel';
+import WeatherPanel from "./weather-panel";
+import {
+  SourceIndicator,
+  SourceReviewNote,
+  AdvisorySources,
+} from "./source-indicator";
 const TripMap = lazy(() => import("./trip-map"));
 type Tab = "Itinerary" | "Map" | "Budget" | "Essentials";
 function download(trip: Trip) {
@@ -391,7 +401,57 @@ export default function TripView() {
                 <h2>{day.title}</h2>
                 <p>{peso(dayCost(day))} estimated for the group</p>
               </div>
-              <WeatherPanel key={day.id} slug={day.destination} date={day.date}/>
+              <WeatherPanel
+                key={day.id}
+                slug={day.destination}
+                date={day.date}
+              />
+              {trip.destinationInfo
+                .filter((d) => d.slug === day.destination)
+                .map((d) => (
+                  <details
+                    className="activity-details destination-field-notes"
+                    key={d.slug}
+                  >
+                    <summary>Destination field notes & sources</summary>
+                    <p>
+                      {d.locationDetails}{" "}
+                      <SourceIndicator
+                        source={d.sources.location}
+                        label="Destination location context"
+                      />
+                    </p>
+                    <p>
+                      {d.transport}{" "}
+                      <SourceIndicator
+                        source={d.sources.transport}
+                        label="Destination transport guidance"
+                      />
+                    </p>
+                    <p>
+                      {d.accessibility}{" "}
+                      <SourceIndicator
+                        source={d.sources.accessibility}
+                        label="Destination accessibility"
+                      />
+                    </p>
+                    <p>
+                      Guide allowance: {peso(d.daily)} / person / day{" "}
+                      <SourceIndicator
+                        source={d.sources.price}
+                        label="Guide daily allowance"
+                      />
+                    </p>
+                    <p>
+                      Destination map pin{" "}
+                      <SourceIndicator
+                        source={d.sources.coordinates}
+                        label="Destination map coordinates"
+                      />
+                    </p>
+                    <SourceReviewNote />
+                  </details>
+                ))}
               {warnings.length > 0 && (
                 <details className="validation-notes" open>
                   <summary>
@@ -518,8 +578,11 @@ export default function TripView() {
                     <button
                       className="activity-number"
                       aria-label={`Show ${a.name} on map`}
-                      disabled={a.lat===null}
-                      onClick={() => {setSelected(a.id);if(window.innerWidth<=760)setTab('Map');}}
+                      disabled={a.lat === null}
+                      onClick={() => {
+                        setSelected(a.id);
+                        if (window.innerWidth <= 760) setTab("Map");
+                      }}
                     >
                       {i + 1}
                     </button>
@@ -537,12 +600,65 @@ export default function TripView() {
                       <h3>{a.name}</h3>
                       <p>{a.description}</p>
                       <span className="activity-meta">
-                        {a.kind} · {peso(a.cost)} estimated for the group
+                        {a.kind} · {peso(a.cost)} for the group{" "}
+                        <SourceIndicator
+                          source={a.sources.price}
+                          label="Activity price"
+                        />
                       </span>
                       <details className="activity-details">
                         <summary>Transport, booking & source</summary>
-                        <p>{a.transport}</p>
-                        <p>{a.booking}</p>
+                        <p>
+                          {a.locationDetails}{" "}
+                          <SourceIndicator
+                            source={a.sources.location}
+                            label="Location context"
+                          />
+                        </p>
+                        <p>
+                          Map coordinates{" "}
+                          <SourceIndicator
+                            source={a.sources.coordinates}
+                            label="Map coordinates"
+                          />
+                        </p>
+                        <p>
+                          {a.transport}{" "}
+                          <SourceIndicator
+                            source={a.sources.transport}
+                            label="Activity transport"
+                          />
+                        </p>
+                        <p>
+                          {a.accessibility}{" "}
+                          <SourceIndicator
+                            source={a.sources.accessibility}
+                            label="Activity accessibility"
+                          />
+                        </p>
+                        <p>
+                          {a.booking}{" "}
+                          <SourceIndicator
+                            source={a.sources.booking}
+                            label="Booking notes"
+                          />
+                        </p>
+                        <p>
+                          Proposed time and duration{" "}
+                          <SourceIndicator
+                            source={a.sources.schedule}
+                            label="Activity schedule"
+                          />
+                        </p>
+                        <p>
+                          Activity description{" "}
+                          <SourceIndicator
+                            source={a.sources.description}
+                            label="Activity description"
+                          />
+                        </p>
+                        <AdvisorySources links={a.advisories} />
+                        <SourceReviewNote />
                         <p>
                           {a.source} · {a.provenance}
                         </p>
@@ -741,16 +857,79 @@ export default function TripView() {
       )}
       <div className="print-journal">
         <h2>Complete travel journal</h2>
+        {trip.destinationInfo.map((d) => (
+          <section key={d.slug}>
+            <h3>{d.name} · destination sources</h3>
+            <p>
+              {d.locationDetails}{" "}
+              <SourceIndicator
+                source={d.sources.location}
+                label="Location context"
+              />
+            </p>
+            <p>
+              {d.transport}{" "}
+              <SourceIndicator
+                source={d.sources.transport}
+                label="Transport guidance"
+              />
+            </p>
+            <p>
+              {d.accessibility}{" "}
+              <SourceIndicator
+                source={d.sources.accessibility}
+                label="Accessibility"
+              />
+            </p>
+          </section>
+        ))}
         {trip.days.map((d, i) => (
           <section key={d.id}>
             <h3>
               Day {i + 1} · {d.date} · {d.title}
             </h3>
             {d.activities.map((a) => (
-              <p key={a.id}>
-                {a.start}–{endTime(a)} · {a.name} · {peso(a.cost)} ·{" "}
-                {a.description}
-              </p>
+              <div key={a.id}>
+                <p>
+                  {a.start}–{endTime(a)} · {a.name} · {peso(a.cost)} ·{" "}
+                  {a.description}{" "}
+                  <SourceIndicator source={a.sources.price} label="Price" />
+                </p>
+                <p>
+                  {a.locationDetails}{" "}
+                  <SourceIndicator
+                    source={a.sources.location}
+                    label="Location context"
+                  />
+                </p>
+                <p>
+                  {a.transport}{" "}
+                  <SourceIndicator
+                    source={a.sources.transport}
+                    label="Transport"
+                  />
+                </p>
+                <p>
+                  {a.accessibility}{" "}
+                  <SourceIndicator
+                    source={a.sources.accessibility}
+                    label="Accessibility"
+                  />
+                </p>
+                <p>
+                  Map coordinates{" "}
+                  <SourceIndicator
+                    source={a.sources.coordinates}
+                    label="Map coordinates"
+                  />{" "}
+                  · Proposed time{" "}
+                  <SourceIndicator
+                    source={a.sources.schedule}
+                    label="Schedule"
+                  />
+                </p>
+                <AdvisorySources links={a.advisories} />
+              </div>
             ))}
             <p>Day allowance: {peso(dayCost(d))}</p>
           </section>
@@ -764,6 +943,7 @@ export default function TripView() {
         <h3>Personal notes</h3>
         <p>{trip.notes}</p>
         <p>All prices and travel times are estimates requiring confirmation.</p>
+        <SourceReviewNote />
       </div>
     </section>
   );
@@ -917,8 +1097,21 @@ function Budget({
           categories recorded. Actual spending does not replace planned costs.
         </p>
         <h4>Edit fixed day allowances</h4>
-        <label>Arrival / return flights allowance for the group (₱)
-          <input type="number" min={0} max={10000000} step={1} disabled={readonly} value={trip.flightAllowance} onChange={e=>{const n=Number(e.target.value);if(Number.isInteger(n)&&n>=0&&n<=10000000)commit({...trip,flightAllowance:n});}}/>
+        <label>
+          Arrival / return flights allowance for the group (₱)
+          <input
+            type="number"
+            min={0}
+            max={10000000}
+            step={1}
+            disabled={readonly}
+            value={trip.flightAllowance}
+            onChange={(e) => {
+              const n = Number(e.target.value);
+              if (Number.isInteger(n) && n >= 0 && n <= 10000000)
+                commit({ ...trip, flightAllowance: n });
+            }}
+          />
         </label>
         <p>
           Replace estimates with confirmed group costs. Changes recalculate
@@ -1086,25 +1279,12 @@ function Essentials({
             international arrival, check current passport, visa, and applicable
             eTravel procedures.
           </p>
-          <div className="official-links">
-            <a target="_blank" rel="noreferrer" href="https://etravel.gov.ph/">
-              Official eTravel <ArrowUpRight size={15} />
-            </a>
-            <a
-              target="_blank"
-              rel="noreferrer"
-              href="https://immigration.gov.ph/"
-            >
-              Bureau of Immigration <ArrowUpRight size={15} />
-            </a>
-            <a
-              target="_blank"
-              rel="noreferrer"
-              href="https://www.pagasa.dost.gov.ph/"
-            >
-              PAGASA weather advisories <ArrowUpRight size={15} />
-            </a>
-          </div>
+          <AdvisorySources
+            links={officialTravelLinks}
+            note="Only these official portal links were checked. Your personal entry, visa, and registration requirements have not been assessed."
+          />
+          <AdvisorySources links={officialAdvisories} />
+          <SourceReviewNote />
           <h4>Local arrangements</h4>
           <p>
             Confirm permits, environmental fees, baggage rules, insurance,
@@ -1114,8 +1294,8 @@ function Essentials({
           <h4>Weather</h4>
           <p>
             Check the day’s weather panel for forecast availability and PAGASA
-            for official advisories. “Make a Plan B” lets you report a disruption.
-            A generic forecast cannot establish marine safety.
+            for official advisories. “Make a Plan B” lets you report a
+            disruption. A generic forecast cannot establish marine safety.
           </p>
         </div>
       </aside>

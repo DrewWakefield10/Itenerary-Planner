@@ -33,6 +33,11 @@ import { readLocal, writeLocal } from "@/lib/storage";
 import Planner from "./planner";
 import TripView from "./trip-view";
 import SavedTrips from "./saved-trips";
+import {
+  SourceIndicator,
+  SourceReviewNote,
+  AdvisorySources,
+} from "./source-indicator";
 export function Photo({
   slug,
   className = "",
@@ -609,12 +614,19 @@ function Details({ slug }: { slug: string }) {
       </Link>
       <div className="detail-hero">
         <div>
-          <span className="eyebrow">{d.region} / PHILIPPINES</span>
+          <span className="eyebrow">
+            {d.region} / PHILIPPINES{" "}
+            <SourceIndicator source={d.sources.region} label="Region" />
+          </span>
           <h1>
             {d.name}
             <span className="handwritten">{d.caption}</span>
           </h1>
           <p className="lede">{d.description}</p>
+          <SourceIndicator
+            source={d.sources.description}
+            label="Destination description"
+          />
           <div className="chips">
             {d.tags.map((t) => (
               <span key={t}>{t}</span>
@@ -638,14 +650,20 @@ function Details({ slug }: { slug: string }) {
           <strong>
             {d.days}–{d.days + 2} days
           </strong>
+          <SourceIndicator
+            source={d.sources.schedule}
+            label="Suggested duration"
+          />
         </div>
         <div>
           <span>A DAILY ALLOWANCE</span>
           <strong>{peso(d.daily)} / person*</strong>
+          <SourceIndicator source={d.sources.price} label="Daily allowance" />
         </div>
         <div>
           <span>A LITTLE LOCAL FLAVOR</span>
           <p>{d.food}</p>
+          <SourceIndicator source={d.sources.food} label="Food suggestions" />
         </div>
       </div>
       <div className="details-columns">
@@ -653,28 +671,71 @@ function Details({ slug }: { slug: string }) {
           <span className="eyebrow">PUT THESE IN YOUR JOURNAL</span>
           <h2>Start exploring.</h2>
           {d.stops.map((s) => (
-            <a
-              className="attraction-row"
-              href={`https://www.openstreetmap.org/?mlat=${s.lat}&mlon=${s.lng}#map=16/${s.lat}/${s.lng}`}
-              key={s.name}
-              target="_blank"
-              rel="noreferrer"
-            >
-              <MapPin size={21} />
-              <span>
-                <h3>{s.name}</h3>
-                <small>{s.category} · View location</small>
-              </span>
-              <ArrowUpRight size={17} />
-            </a>
+            <article className="attraction-source-row" key={s.name}>
+              <a
+                className="attraction-row"
+                href={`https://www.openstreetmap.org/?mlat=${s.lat}&mlon=${s.lng}#map=16/${s.lat}/${s.lng}`}
+                target="_blank"
+                rel="noreferrer"
+              >
+                <MapPin size={21} />
+                <span>
+                  <h3>{s.name}</h3>
+                  <small>{s.category} · View location</small>
+                </span>
+                <ArrowUpRight size={17} />
+              </a>
+              <p>
+                {s.locationDetails}{" "}
+                <SourceIndicator
+                  source={s.sources.location}
+                  label={`${s.name} location context`}
+                />
+              </p>
+              <p className="coordinate-source">
+                Map pin{" "}
+                <SourceIndicator
+                  source={s.sources.coordinates}
+                  label={`${s.name} coordinates`}
+                />
+              </p>
+            </article>
           ))}
         </section>
         <aside className="paper-note">
           <h3>Before you go</h3>
+          <h4>Location context</h4>
+          <p>
+            {d.locationDetails}{" "}
+            <SourceIndicator
+              source={d.sources.location}
+              label="Destination location context"
+            />
+          </p>
           <h4>Getting around</h4>
-          <p>{d.transport}</p>
+          <p>
+            {d.transport}{" "}
+            <SourceIndicator
+              source={d.sources.transport}
+              label="Destination transport guidance"
+            />
+          </p>
           <h4>Seasons & flexibility</h4>
-          <p>{d.season}</p>
+          <p>
+            {d.season}{" "}
+            <SourceIndicator
+              source={d.sources.season}
+              label="Seasonal guidance"
+            />
+          </p>
+          <h4>Accessibility</h4>
+          <p>
+            {d.accessibility}{" "}
+            <SourceIndicator
+              source={d.sources.accessibility}
+              label="Destination accessibility"
+            />
+          </p>
           <h4>Travel intensity</h4>
           <p>
             Choose Chill for fewer stops and longer breaks. Confirm
@@ -684,6 +745,9 @@ function Details({ slug }: { slug: string }) {
             *Illustrative allowances and approximate map pins. No live prices or
             verified operating hours.
           </small>
+          <h4>Official advisory sources</h4>
+          <AdvisorySources links={d.advisories} />
+          <SourceReviewNote />
           <a
             className="text-link"
             href="https://philippines.travel/destinations"

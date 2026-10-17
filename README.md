@@ -78,6 +78,8 @@ The next phase is authoritative transport/pricing data and reservation-aware sch
 
 ## Credits and sources
 
+Travel facts now carry individual source names, URLs, checked dates, and verified/estimate/unverified statuses. See [source review scope and maintenance notes](docs/source-verification.md). Run `node tests/sources-browser.mjs` with the local development server for the focused source-label, editing, export, sharing, and older-import browser check.
+
 Photos and licenses: [image credits](docs/image-credits.md), also exposed in the application via `/image-credits.txt`. Fonts: Fraunces, DM Sans, and Caveat via Google Fonts. Maps: [Leaflet](https://leafletjs.com/) and [OpenStreetMap](https://www.openstreetmap.org/copyright). Destination inspiration: [Philippine Department of Tourism](https://philippines.travel/destinations). Organization reference: [Nordic Visitor](https://www.nordicvisitor.com/). Optional weather: [Open-Meteo documentation](https://open-meteo.com/en/docs). Official traveler links: [eTravel](https://etravel.gov.ph/), [Bureau of Immigration](https://immigration.gov.ph/), and [PAGASA](https://www.pagasa.dost.gov.ph/).
 
 The retained Sites/Vinext runtime documentation is in [docs/starter-runtime.md](docs/starter-runtime.md).

@@ -1,5 +1,6 @@
 import { z } from "zod";
 import { destinations } from "./destinations";
+import { factSourcesSchema, sourcedLinkSchema } from "./sources";
 const date = z
   .string()
   .regex(/^\d{4}-\d{2}-\d{2}$/)
@@ -80,12 +81,29 @@ export const activitySchema = z.object({
   booking: z.string().max(600),
   provenance: z.enum(["estimate", "user", "demo"]),
   source: z.string().max(500),
+  locationDetails: z
+    .string()
+    .max(1000)
+    .default("Location context has not been independently checked."),
+  accessibility: z
+    .string()
+    .max(1000)
+    .default(
+      "Accessibility has not been verified. Confirm your needs with the venue or operator.",
+    ),
+  sources: factSourcesSchema.default({}),
+  advisories: z.array(sourcedLinkSchema).max(10).default([]),
 });
 export type Activity = z.infer<typeof activitySchema>;
 export const daySchema = z.object({
   id: z.string(),
   date,
-  destination: z.string().refine(v => destinations.some(d => d.slug === v), 'Unknown destination'),
+  destination: z
+    .string()
+    .refine(
+      (v) => destinations.some((d) => d.slug === v),
+      "Unknown destination",
+    ),
   title: z.string().max(200),
   transfer: z.boolean(),
   activities: z.array(activitySchema).max(30),
@@ -94,38 +112,98 @@ export const daySchema = z.object({
   transport: money,
 });
 export type TripDay = z.infer<typeof daySchema>;
-export const tripSchema = z.object({
-  version: z.literal(1),
-  id: z.string().min(1).max(100).regex(/^[a-zA-Z0-9_-]+$/),
-  title: z.string().min(1).max(160),
-  createdAt: z.string(),
-  mode: z.enum(["demo", "ai"]),
-  request: requestSchema,
-  days: z.array(daySchema).min(2).max(21),
-  notes: z.string().max(20000),
-  checklist: z
-    .array(
-      z.object({
-        id: z.string(),
-        text: z.string().max(200),
-        done: z.boolean(),
-      }),
-    )
-    .max(100),
-  actual: z.record(z.enum(expenseCategories), money),
-  warnings: z.array(z.string().max(1500)).max(100),
-  flightAllowance: money,
-}).superRefine((trip, ctx) => {
-  if (trip.days.length !== trip.request.days) ctx.addIssue({code:'custom',message:'Day count does not match request'});
-  const ids = trip.days.flatMap(d => [d.id, ...d.activities.map(a => a.id)]);
-  if (new Set(ids).size !== ids.length) ctx.addIssue({code:'custom',message:'Duplicate day or activity identifiers'});
-  trip.days.forEach((d,i) => {
-    const expected = new Date(trip.request.startDate+'T12:00:00Z'); expected.setUTCDate(expected.getUTCDate()+i);
-    if(Number.isNaN(expected.getTime()) || d.date !== expected.toISOString().slice(0,10)) ctx.addIssue({code:'custom',message:'Day dates must be consecutive'});
-    if (!trip.request.destinations.includes(d.destination)) ctx.addIssue({code:'custom',message:'Day destination is outside request'});
-    if(d.activities.some(a=>(a.lat===null)!==(a.lng===null))) ctx.addIssue({code:'custom',message:'Coordinates must be supplied together'});
-  });
+const destinationInfoSchema = z.object({
+  slug: z
+    .string()
+    .refine(
+      (v) => destinations.some((d) => d.slug === v),
+      "Unknown destination",
+    ),
+  name: z.string().max(100),
+  locationDetails: z.string().max(1000),
+  transport: z.string().max(1000),
+  accessibility: z.string().max(1000),
+  lat: z.number().min(-90).max(90),
+  lng: z.number().min(-180).max(180),
+  daily: money,
+  sources: factSourcesSchema,
+  advisories: z.array(sourcedLinkSchema).max(10),
 });
+export const tripSchema = z
+  .object({
+    version: z.literal(1),
+    id: z
+      .string()
+      .min(1)
+      .max(100)
+      .regex(/^[a-zA-Z0-9_-]+$/),
+    title: z.string().min(1).max(160),
+    createdAt: z.string(),
+    mode: z.enum(["demo", "ai"]),
+    request: requestSchema,
+    days: z.array(daySchema).min(2).max(21),
+    destinationInfo: z.array(destinationInfoSchema).max(3).default([]),
+    notes: z.string().max(20000),
+    checklist: z
+      .array(
+        z.object({
+          id: z.string(),
+          text: z.string().max(200),
+          done: z.boolean(),
+        }),
+      )
+      .max(100),
+    actual: z.record(z.enum(expenseCategories), money),
+    warnings: z.array(z.string().max(1500)).max(100),
+    flightAllowance: money,
+  })
+  .superRefine((trip, ctx) => {
+    if (
+      trip.destinationInfo.some(
+        (d) => !trip.request.destinations.includes(d.slug),
+      )
+    )
+      ctx.addIssue({
+        code: "custom",
+        message: "Destination notes are outside this trip",
+      });
+    if (trip.days.length !== trip.request.days)
+      ctx.addIssue({
+        code: "custom",
+        message: "Day count does not match request",
+      });
+    const ids = trip.days.flatMap((d) => [
+      d.id,
+      ...d.activities.map((a) => a.id),
+    ]);
+    if (new Set(ids).size !== ids.length)
+      ctx.addIssue({
+        code: "custom",
+        message: "Duplicate day or activity identifiers",
+      });
+    trip.days.forEach((d, i) => {
+      const expected = new Date(trip.request.startDate + "T12:00:00Z");
+      expected.setUTCDate(expected.getUTCDate() + i);
+      if (
+        Number.isNaN(expected.getTime()) ||
+        d.date !== expected.toISOString().slice(0, 10)
+      )
+        ctx.addIssue({
+          code: "custom",
+          message: "Day dates must be consecutive",
+        });
+      if (!trip.request.destinations.includes(d.destination))
+        ctx.addIssue({
+          code: "custom",
+          message: "Day destination is outside request",
+        });
+      if (d.activities.some((a) => (a.lat === null) !== (a.lng === null)))
+        ctx.addIssue({
+          code: "custom",
+          message: "Coordinates must be supplied together",
+        });
+    });
+  });
 export type Trip = z.infer<typeof tripSchema>;
 export const defaultRequest: TripRequest = {
   departure: "Manila",

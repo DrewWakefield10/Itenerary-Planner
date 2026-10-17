@@ -8,6 +8,7 @@ import {
   type Activity,
   type TripDay,
 } from "./trip";
+import { defaultFactSources, estimatedSource } from "./sources";
 export const uid = () => crypto.randomUUID();
 export const minutes = (t: string) => {
   const [h, m] = t.split(":").map(Number);
@@ -48,6 +49,11 @@ export function blankActivity(
     booking: "No booking has been made.",
     provenance: "user",
     source: "Added by traveler",
+    locationDetails: "Location context has not been independently checked.",
+    accessibility:
+      "Accessibility has not been verified. Confirm your needs with the venue or operator.",
+    sources: defaultFactSources(),
+    advisories: [],
   };
 }
 export function fromStop(s: Stop, r: TripRequest, start: string): Activity {
@@ -61,15 +67,20 @@ export function fromStop(s: Stop, r: TripRequest, start: string): Activity {
     category: s.category === "Food" ? "Food" : "Attractions",
     outdoor: s.outdoor,
     cluster: s.cluster,
-    transport:
-      s.cluster === "boat"
-        ? "Boat operator, terminal, permit, and conditions must be confirmed."
-        : "Local movement allowance only; route and actual travel time unverified.",
+    transport: s.transport,
+    locationDetails: s.locationDetails,
+    accessibility: s.accessibility,
+    sources: {
+      ...structuredClone(s.sources),
+      description: defaultFactSources().description,
+      schedule: defaultFactSources().schedule,
+    },
+    advisories: structuredClone(s.advisories),
     booking:
       "Illustrative allowance, not a quoted entrance fee. Confirm availability and hours.",
     provenance: "estimate",
     source:
-      "Lakbay seed collection; approximate coordinates; no live verification",
+      "Lakbay seed collection; see fact-specific sources for review status.",
   };
 }
 export function recommendDestinations(interests: string[], budget = 10000) {
@@ -126,7 +137,8 @@ export function makeDay(
   pool.sort((a, b) => Number(match(b)) - Number(match(a)) || a.cost - b.cost);
   const first = pool[(localIndex + variant) % Math.max(1, pool.length)];
   const cluster = first?.cluster;
-  const count = index === 0 || r.pace === "Chill" ? 1 : r.pace === "Balanced" ? 2 : 3;
+  const count =
+    index === 0 || r.pace === "Chill" ? 1 : r.pace === "Balanced" ? 2 : 3;
   const chosen = first
     ? [
         first,
@@ -138,11 +150,14 @@ export function makeDay(
   const meal = d.stops.find((s) => s.category === "Food");
   let mealAdded = false;
   const addMeal = (start: number) => {
-    if(!meal || mealAdded) return;
+    if (!meal || mealAdded) return;
     const a = fromStop(meal, r, clock(start));
     a.description = `Meal idea: ${d.food} ${r.diet ? "Dietary requirements must be confirmed with the venue." : ""}`;
-    a.lat = null; a.lng = null; a.cluster = 'local';
-    activities.push(a); mealAdded = true;
+    a.lat = null;
+    a.lng = null;
+    a.cluster = "local";
+    activities.push(a);
+    mealAdded = true;
   };
   if (index === 0)
     activities.push({
@@ -153,12 +168,21 @@ export function makeDay(
       provenance: "demo",
     });
   for (const s of chosen) {
-    if(index!==0 && cursor>=12*60 && !mealAdded && s.cluster!=='boat') {addMeal(cursor);cursor+=135;}
+    if (
+      index !== 0 &&
+      cursor >= 12 * 60 &&
+      !mealAdded &&
+      s.cluster !== "boat"
+    ) {
+      addMeal(cursor);
+      cursor += 135;
+    }
     if (cursor + s.minutes > 18 * 60) break;
     activities.push(fromStop(s, r, clock(cursor)));
     cursor += s.minutes + 45;
   }
-  if(!mealAdded) addMeal(Math.max(index===0?18*60:12*60+30,cursor));
+  if (!mealAdded)
+    addMeal(Math.max(index === 0 ? 18 * 60 : 12 * 60 + 30, cursor));
   activities.push({
     ...blankActivity(
       r.pace === "Chill"
@@ -279,6 +303,21 @@ export function generateDemo(input: TripRequest): Trip {
     mode: "demo",
     request: r,
     days,
+    destinationInfo: r.destinations.map((slug) => {
+      const d = destination(slug)!;
+      return structuredClone({
+        slug: d.slug,
+        name: d.name,
+        locationDetails: d.locationDetails,
+        transport: d.transport,
+        accessibility: d.accessibility,
+        lat: d.lat,
+        lng: d.lng,
+        daily: d.daily,
+        sources: d.sources,
+        advisories: d.advisories,
+      });
+    }),
     notes: "",
     checklist: checklist.map((text) => ({ id: uid(), text, done: false })),
     actual: {},
@@ -369,6 +408,8 @@ export function reflow(activities: Activity[]): Activity[] {
     if (a.locked) cursor = Math.max(cursor, minutes(a.start) + a.duration + 45);
     else {
       next.start = clock(Math.min(cursor, 23 * 60));
+      if (next.start !== a.start)
+        next.sources = { ...a.sources, schedule: estimatedSource() };
       cursor += a.duration + 45;
     }
     return next;
