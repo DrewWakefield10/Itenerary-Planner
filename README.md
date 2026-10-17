@@ -4,7 +4,7 @@ A Philippine travel journal with a vintage scrapbook interface, practical itiner
 
 ## Run locally
 
-Requires Node.js 22.13 or later.
+Requires Node.js 24.x.
 
 ```powershell
 cd "C:\Users\Ryzen\Desktop\itenerary planner\lakbay"
@@ -12,7 +12,11 @@ npm run install:ci
 npm run dev
 ```
 
-Open http://127.0.0.1:5173. Dependencies already exist in this checkout; installation is needed only for a fresh checkout or changed dependencies. `npm run build` creates the production Worker and browser bundles. `npm start` serves that build locally.
+Open http://127.0.0.1:5173. Dependencies already exist in this checkout; installation is needed only for a fresh checkout or changed dependencies. `npm run build` creates the Sites/Vinext production Worker and browser bundles. `npm run build:vercel` creates a native Next.js production build. `npm start` serves the Sites/Vinext build locally.
+
+## Vercel deployment
+
+`vercel.json` explicitly selects the Next.js framework and runs `npm run build:vercel`. Leave Vercel's Output Directory unset so its Next.js integration handles `.next` and server routes. The regular `npm run build` command remains the Vinext build for Sites/Cloudflare. Node.js is pinned to 24.x, supported by Vercel.
 
 ## What works
 
@@ -50,6 +54,9 @@ npm run lint
 npm test
 # Keep the development server running on port 5173 in another terminal:
 npm run test:browser
+# Native Next.js build used by Vercel:
+npm run build:vercel
+# Sites/Vinext Worker build:
 npm run build
 ```
 
