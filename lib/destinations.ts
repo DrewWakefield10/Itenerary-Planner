@@ -4,6 +4,7 @@ import {
   type SourceMetadata,
   type SourcedLink,
 } from "./sources";
+import type { DisruptionSensitivity, OpeningHours } from "./disruptions";
 export type Stop = {
   name: string;
   lat: number;
@@ -18,6 +19,8 @@ export type Stop = {
   transport: string;
   sources: FactSources;
   advisories: SourcedLink[];
+  disruptionSensitivities?: DisruptionSensitivity[];
+  openingHours?: OpeningHours;
 };
 export type Destination = {
   slug: string;
@@ -505,6 +508,33 @@ const checkedStops: Record<string, { text: string; source: SourceMetadata }> = {
     source: elNidoSource,
   },
 };
+const casaSource = reviewed(
+  "Casa Gorordo Museum — official visitor information",
+  "https://www.casagorordomuseum.org/",
+);
+// This registry identifies planning ideas, not guaranteed access or current safety.
+export const rainAlternativeSeeds: Record<
+  string,
+  {
+    stopName: string;
+    visitMinutes: number;
+    transferBufferMinutes: number;
+    note: string;
+  }
+> = {
+  baguio: {
+    stopName: "Session Road cafe break",
+    visitMinutes: 45,
+    transferBufferMinutes: 45,
+    note: "A flexible indoor café break near Session Road. Choose an indoor venue and confirm its opening hours, access, and dietary suitability.",
+  },
+  cebu: {
+    stopName: "Casa Gorordo Museum area",
+    visitMinutes: 60,
+    transferBufferMinutes: 45,
+    note: "Consider an indoor museum visit in Parian. Confirm current hours, guided-visit duration, access, and admission before going.",
+  },
+};
 export const destinations: Destination[] = seeds.map((d) => {
   const location = checkedLocations[d.slug];
   const sources = defaultFactSources();
@@ -529,6 +559,22 @@ export const destinations: Destination[] = seeds.map((d) => {
       const checked = checkedStops[stop.name];
       return {
         ...stop,
+        disruptionSensitivities: stop.outdoor
+          ? ([
+              "heavy-rain",
+              ...(stop.cluster === "boat" ? ["marine-conditions"] : []),
+            ] as DisruptionSensitivity[])
+          : [],
+        ...(stop.name === "Casa Gorordo Museum area"
+          ? {
+              openingHours: {
+                weekdays: [1, 2, 3, 4, 5, 6],
+                opens: "09:00",
+                closes: "17:00",
+                source: { ...casaSource },
+              },
+            }
+          : {}),
         locationDetails: checked?.text || stop.locationDetails,
         sources: {
           ...stop.sources,

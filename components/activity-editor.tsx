@@ -10,6 +10,7 @@ import {
 import { destination } from "@/lib/destinations";
 import { fromStop } from "@/lib/engine";
 import { updateActivityField } from "@/lib/activity-sources";
+import { disruptionSensitivitySchema } from "@/lib/disruptions";
 export default function ActivityEditor({
   activity,
   slug,
@@ -220,6 +221,30 @@ export default function ActivityEditor({
           />
           Outdoor activity
         </label>
+        <fieldset className="sensitivity-fields">
+          <legend>Weather sensitivities (optional)</legend>
+          {disruptionSensitivitySchema.options.map((tag) => (
+            <label className="check-label" key={tag}>
+              <input
+                type="checkbox"
+                checked={a.disruptionSensitivities.includes(tag)}
+                onChange={(e) =>
+                  field(
+                    "disruptionSensitivities",
+                    e.target.checked
+                      ? [...a.disruptionSensitivities, tag]
+                      : a.disruptionSensitivities.filter((t) => t !== tag),
+                  )
+                }
+              />
+              {tag === "heavy-rain"
+                ? "Rain-sensitive"
+                : tag === "marine-conditions"
+                  ? "Marine conditions (tag only)"
+                  : "Heat (tag only)"}
+            </label>
+          ))}
+        </fieldset>
         <label className="check-label">
           <input
             type="checkbox"

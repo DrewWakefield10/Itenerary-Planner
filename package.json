@@ -14,7 +14,7 @@
     "db:generate": "drizzle-kit generate",
     "typecheck": "tsc --noEmit",
     "test": "tsx --test tests/*.test.ts",
-    "test:browser": "node tests/foundation.mjs && node tests/planner.mjs && node tests/interactive.mjs && node tests/portability.mjs && node tests/sources-browser.mjs"
+    "test:browser": "node tests/foundation.mjs && node tests/planner.mjs && node tests/interactive.mjs && node tests/portability.mjs && node tests/sources-browser.mjs && node tests/rain-browser.mjs"
   },
   "dependencies": {
     "@base-ui/react": "^1.7.0",

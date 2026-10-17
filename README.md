@@ -68,6 +68,8 @@ Unit tests cover low-budget Baguio, Cebu–Bohol connections, relaxed Palawan fa
 
 ## Data boundaries and remaining work
 
+Rain-sensitive activities in Baguio and Cebu City can now receive destination-specific alternatives from fresh forecast planning signals or a traveler's manual rain report. Every change requires a preview and explicit acceptance. See [supported alternatives, trigger thresholds, and limitations](docs/rain-planning.md).
+
 Costs are illustrative planning allowances, not verified fees or booking quotes. Map coordinates are approximate; opening hours, accessibility, dietary suitability, transport connections, and local requirements need confirmation. Small seed catalogs can repeat stops on longer trips. Free-text reservations and must-visit/avoid requests are retained for review; they are not guaranteed constraints. Add confirmed bookings as locked activities.
 
 Guest data is local to each browser and origin. Clearing site data removes it; JSON exports can be restored as new trips. Shared links contain a static encoded snapshot, are not encrypted or revocable, and require access to the hosted Site. Sensitive preference fields and journal notes are omitted, but activity notes, dates, checklists, and expenses remain in the snapshot. Review before sharing. This is not multi-user collaboration or cross-device account sync.

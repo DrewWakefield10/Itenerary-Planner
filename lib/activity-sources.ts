@@ -41,6 +41,8 @@ export function updateActivityField<K extends keyof Activity>(
     sources,
     ...(key === "name"
       ? {
+          disruptionSensitivities: [],
+          openingHours: null,
           locationDetails:
             "Location context has not been independently checked.",
           accessibility:

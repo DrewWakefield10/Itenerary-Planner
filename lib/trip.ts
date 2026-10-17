@@ -1,6 +1,7 @@
 import { z } from "zod";
 import { destinations } from "./destinations";
 import { factSourcesSchema, sourcedLinkSchema } from "./sources";
+import { disruptionSensitivitySchema, openingHoursSchema } from "./disruptions";
 const date = z
   .string()
   .regex(/^\d{4}-\d{2}-\d{2}$/)
@@ -75,6 +76,11 @@ export const activitySchema = z.object({
   category: z.enum(expenseCategories),
   kind: z.string().max(50),
   outdoor: z.boolean(),
+  disruptionSensitivities: z
+    .array(disruptionSensitivitySchema)
+    .max(3)
+    .default([]),
+  openingHours: openingHoursSchema.nullable().default(null),
   cluster: z.string().max(100),
   locked: z.boolean(),
   transport: z.string().max(600),

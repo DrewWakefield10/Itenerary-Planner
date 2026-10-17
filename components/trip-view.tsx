@@ -57,6 +57,12 @@ import {
 import ActivityEditor from "./activity-editor";
 import WeatherPanel from "./weather-panel";
 import {
+  previewRainReplacement,
+  affectedRainActivities,
+  rainScheduleDifference,
+  type RainAlternative,
+} from "@/lib/rain-planning";
+import {
   SourceIndicator,
   SourceReviewNote,
   AdvisorySources,
@@ -87,11 +93,14 @@ export default function TripView() {
   const [planB, setPlanB] = useState(false);
   const [scenario, setScenario] = useState<string>("Heavy rain");
   const [proposal, setProposal] = useState<Trip | null>(null);
+  const [rainPreview, setRainPreview] = useState<RainAlternative | null>(null);
+  const [rainPreviewOrigin,setRainPreviewOrigin]=useState<'forecast'|'manual'>('forecast');
   const [share, setShare] = useState("");
   const [variant, setVariant] = useState(1);
   useEffect(() => {
     setDayIndex(0);
     setHistory([]);
+    setRainPreview(null);
     setReadonly(false);
     try {
       if (path.split("/")[2] === "shared") {
@@ -134,6 +143,7 @@ export default function TripView() {
     setTrip(parsed.data);
     setMessage("Saved to your travel journal.");
     setProposal(null);
+    setRainPreview(null);
   }
   function updateActivities(activities: Activity[]) {
     if (!trip) return;
@@ -158,6 +168,46 @@ export default function TripView() {
           ?.scrollIntoView({ behavior: "smooth", block: "center" }),
       50,
     );
+  }
+  function previewRain(suggestion: RainAlternative,origin:'forecast'|'manual'='forecast') {
+    if (!trip || readonly) return;
+    try {
+      setProposal(previewRainReplacement(trip, dayIndex, suggestion));
+      setRainPreview(suggestion);
+      setRainPreviewOrigin(origin);
+      setScenario("Heavy rain");
+      setPlanB(true);
+      setTimeout(
+        () =>
+          document
+            .getElementById("plan-b-preview")
+            ?.scrollIntoView({ behavior: "smooth", block: "center" }),
+        50,
+      );
+    } catch (error) {
+      setMessage(
+        error instanceof Error
+          ? error.message
+          : "Preview could not be prepared.",
+      );
+    }
+  }
+  function confirmProposal() {
+    if (!trip || !proposal || readonly) return;
+    try {
+      commit(
+        rainPreview
+          ? previewRainReplacement(trip, dayIndex, rainPreview)
+          : proposal,
+      );
+      setPlanB(false);
+    } catch (error) {
+      setMessage(
+        error instanceof Error
+          ? error.message
+          : "This preview is no longer valid.",
+      );
+    }
   }
   if (!loaded)
     return <div className="page empty">Opening your travel journal…</div>;
@@ -383,6 +433,7 @@ export default function TripView() {
                   setSelected("");
                   setProposal(null);
                   setPlanB(false);
+                  setRainPreview(null);
                 }}
               >
                 Day {i + 1}
@@ -405,6 +456,9 @@ export default function TripView() {
                 key={day.id}
                 slug={day.destination}
                 date={day.date}
+                trip={trip}
+                dayIndex={dayIndex}
+                onPreview={readonly ? undefined : previewRain}
               />
               {trip.destinationInfo
                 .filter((d) => d.slug === day.destination)
@@ -481,6 +535,7 @@ export default function TripView() {
                     onClick={() => {
                       setPlanB(!planB);
                       setProposal(null);
+                      setRainPreview(null);
                     }}
                   >
                     <CloudRain size={16} />
@@ -489,12 +544,14 @@ export default function TripView() {
                 </div>
               )}
               {planB && (
-                <div className="plan-b paper-note">
+                <div className="plan-b paper-note" id="plan-b-preview">
                   <h3>Keep the adventure flexible.</h3>
                   <p>
-                    Report a disruption manually. Locked stops and other days
-                    stay unchanged.
+                    {rainPreview
+                      ? "Review this rain alternative, its transfer allowances, and venue details before deciding."
+                      : "Report a disruption manually. Locked stops and other days stay unchanged."}
                   </p>
+                  {rainPreview&&<p>{rainPreviewOrigin==='manual'?'Based on your manual rain report. No forecast or official advisory has been inferred.':'A daily forecast planning signal prompted this idea. Review current local conditions and official advice before traveling.'}</p>}
                   <label>
                     What changed?
                     <select
@@ -502,6 +559,7 @@ export default function TripView() {
                       onChange={(e) => {
                         setScenario(e.target.value);
                         setProposal(null);
+                        setRainPreview(null);
                       }}
                     >
                       {disruptions.map((s) => (
@@ -511,9 +569,14 @@ export default function TripView() {
                   </label>
                   <button
                     className="button small"
-                    onClick={() =>
-                      setProposal(alternativePlan(trip, dayIndex, scenario))
-                    }
+                    onClick={() => {
+                      if(scenario==='Heavy rain'){
+                        const rain=affectedRainActivities(trip,dayIndex).find(item=>item.alternative)?.alternative;
+                        if(rain){previewRain(rain,'manual');return;}
+                      }
+                      setRainPreview(null);
+                      setProposal(alternativePlan(trip, dayIndex, scenario));
+                    }}
                   >
                     Preview alternative
                   </button>
@@ -529,12 +592,61 @@ export default function TripView() {
                           <span className="old-plan">
                             {day.activities.find((x) => x.id === a.id)?.name}
                           </span>
+                          <small>
+                            Original:{" "}
+                            {day.activities.find((x) => x.id === a.id)?.start}–
+                            {endTime(
+                              day.activities.find((x) => x.id === a.id)!,
+                            )}{" "}
+                            ·{" "}
+                            {peso(
+                              day.activities.find((x) => x.id === a.id)!.cost,
+                            )}{" "}
+                            <SourceIndicator
+                              source={
+                                day.activities.find((x) => x.id === a.id)!
+                                  .sources.price
+                              }
+                              label="Original price"
+                            />
+                          </small>
                           <strong>→ {a.name}</strong>
                           <small>
-                            {a.start}–{endTime(a)} · {peso(a.cost)}
+                            {a.start}–{endTime(a)} · {peso(a.cost)}{" "}
+                            <SourceIndicator
+                              source={a.sources.price}
+                              label="Replacement price"
+                            />
                           </small>
                         </div>
                       ))}
+                      {rainPreview && (
+                        <div className="rain-preview-details">
+                          <h4>Schedule & estimated cost difference</h4>
+                          <p>{rainScheduleDifference(rainPreview)}</p>
+                          <p>
+                            {rainPreview.costDifference >= 0 ? "+" : "−"}
+                            {peso(Math.abs(rainPreview.costDifference))}{" "}
+                            estimated group cost difference. Fixed day
+                            allowances stay as planned.
+                          </p>
+                          {rainPreview.notes.map((note) => (
+                            <p key={note}>{note}</p>
+                          ))}
+                          {rainPreview.replacement.openingHours && (
+                            <p>
+                              Published venue hours{" "}
+                              <SourceIndicator
+                                source={
+                                  rainPreview.replacement.openingHours.source
+                                }
+                                label="Published opening hours"
+                              />
+                            </p>
+                          )}
+                          <SourceReviewNote />
+                        </div>
+                      )}
                       {!changed.length && (
                         <p>
                           No unlocked activities match this scenario. Review
@@ -550,16 +662,16 @@ export default function TripView() {
                         <button
                           className="button small"
                           disabled={!changed.length}
-                          onClick={() => {
-                            commit(proposal);
-                            setPlanB(false);
-                          }}
+                          onClick={confirmProposal}
                         >
                           Confirm & apply
                         </button>
                         <button
                           className="button secondary small"
-                          onClick={() => setProposal(null)}
+                          onClick={() => {
+                            setProposal(null);
+                            setRainPreview(null);
+                          }}
                         >
                           Keep original
                         </button>
@@ -608,6 +720,45 @@ export default function TripView() {
                       </span>
                       <details className="activity-details">
                         <summary>Transport, booking & source</summary>
+                        <p>
+                          Weather sensitivities:{" "}
+                          {a.disruptionSensitivities.length
+                            ? a.disruptionSensitivities
+                                .map((t) =>
+                                  t === "heavy-rain"
+                                    ? "Rain"
+                                    : t === "heat"
+                                      ? "Heat (tag only)"
+                                      : "Marine conditions (tag only)",
+                                )
+                                .join(", ")
+                            : "None recorded; this does not establish that conditions are favorable."}
+                        </p>
+                        {a.openingHours && (
+                          <p>
+                            Published venue hours: {a.openingHours.opens}–
+                            {a.openingHours.closes},{" "}
+                            {a.openingHours.weekdays
+                              .map(
+                                (n) =>
+                                  [
+                                    "Sun",
+                                    "Mon",
+                                    "Tue",
+                                    "Wed",
+                                    "Thu",
+                                    "Fri",
+                                    "Sat",
+                                  ][n],
+                              )
+                              .join(", ")}
+                            . Check for changes and special closures.{" "}
+                            <SourceIndicator
+                              source={a.openingHours.source}
+                              label="Published opening hours"
+                            />
+                          </p>
+                        )}
                         <p>
                           {a.locationDetails}{" "}
                           <SourceIndicator
