@@ -34,6 +34,7 @@ import { readLocal, writeLocal } from "@/lib/storage";
 import Planner from "./planner";
 import TripView from "./trip-view";
 import SavedTrips from "./saved-trips";
+import Discover, { DiscoveryTeaser } from "./discover";
 import {
   SourceIndicator,
   SourceReviewNote,
@@ -147,6 +148,7 @@ export default function Lakbay() {
         </Link>
         <nav className={menu ? "open" : ""} aria-label="Main navigation">
           {[
+            ["/discover", "Discover"],
             ["/explore", "Explore"],
             ["/planner", "Plan a Trip"],
             ["/templates", "Travel Guides"],
@@ -188,6 +190,8 @@ export default function Lakbay() {
           <Home />
         ) : path === "/explore" ? (
           <Explore />
+        ) : path === "/discover" || path.startsWith("/discover/") ? (
+          <Discover key={slug || "all"} placeId={slug} />
         ) : path.startsWith("/destinations/") ? (
           <Details slug={slug} />
         ) : path === "/templates" ? (
@@ -324,6 +328,7 @@ function Home() {
           travel to the destination.
         </p>
       </section>
+      <DiscoveryTeaser />
       <section className="personality-section">
         <div className="page personality-layout">
           <div>

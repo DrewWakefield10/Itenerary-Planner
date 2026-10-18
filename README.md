@@ -20,6 +20,7 @@ Open http://127.0.0.1:5173. Dependencies already exist in this checkout; install
 
 ## What works
 
+- Discover at `/discover`: reviewed bases and stops, sourced place details, verified-pin nearby distances, and explicitly confirmed additions to compatible saved-trip days. [Editing, free Wikimedia refresh, and coverage notes](docs/discover.md).
 - Responsive scrapbook homepage; 11 Philippine destinations with local licensed photos, search, category filters, favorites, destination guides, and 8 customizable trip templates.
 - Six-step questionnaire with browser-local draft persistence, multi-destination selection, adults/children, interests, budgets, emergency reserve, pace, and optional preferences.
 - Deterministic demo generation; Zod-validated structured trips; grouped nearby stops; arrival/departure buffers and explicit unverified connection days.

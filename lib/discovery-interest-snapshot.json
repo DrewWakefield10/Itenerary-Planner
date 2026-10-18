@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "updatedAt": null,
+  "lastAttemptAt": "2026-10-18T20:49:13.507Z",
+  "retryAfter": null,
+  "thresholds": {
+    "baseline": 700,
+    "absoluteGrowth": 200,
+    "percentGrowth": 20,
+    "freshnessHours": 72
+  },
+  "records": {
+    "base-baguio": {
+      "lastSuccess": null,
+      "error": "The complete fourteen-day coverage is not available. Missing days are not zero interest."
+    },
+    "base-cebu": {
+      "lastSuccess": null,
+      "error": "The complete fourteen-day coverage is not available. Missing days are not zero interest."
+    },
+    "base-el-nido": {
+      "lastSuccess": null,
+      "error": "The complete fourteen-day coverage is not available. Missing days are not zero interest."
+    },
+    "base-coron": {
+      "lastSuccess": null,
+      "error": "The complete fourteen-day coverage is not available. Missing days are not zero interest."
+    },
+    "base-puerto-princesa": {
+      "lastSuccess": null,
+      "error": "The complete fourteen-day coverage is not available. Missing days are not zero interest."
+    },
+    "baguio-burnham-park": {
+      "lastSuccess": null,
+      "error": "The complete fourteen-day coverage is not available. Missing days are not zero interest."
+    },
+    "baguio-botanical-garden": {
+      "lastSuccess": null,
+      "error": "The complete fourteen-day coverage is not available. Missing days are not zero interest."
+    },
+    "baguio-wright-park": {
+      "lastSuccess": null,
+      "error": "The complete fourteen-day coverage is not available. Missing days are not zero interest."
+    }
+  }
+}
