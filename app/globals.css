@@ -1503,6 +1503,22 @@ textarea {
   border: 0;
   padding: 0;
 }
+.destination-group {
+  margin-top: 24px;
+  padding-top: 18px;
+  border-top: 1px dashed var(--line);
+}
+.destination-group h3 {
+  font-size: 21px;
+  margin: 0 0 10px;
+}
+.destination-group .fine-print { margin: 0 0 14px; }
+.legacy-base-note {
+  padding: 14px;
+  background: #f4ebd7;
+  border-left: 3px solid var(--teal);
+  font-size: 13px;
+}
 .destination-choices {
   display: grid;
   grid-template-columns: repeat(4, 1fr);

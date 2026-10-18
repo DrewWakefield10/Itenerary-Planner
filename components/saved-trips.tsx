@@ -5,7 +5,7 @@ import { BookOpen, ArrowUpRight, Copy, Trash2 } from "lucide-react";
 import { tripSchema, type Trip } from "@/lib/trip";
 import { readTrips, saveTrip, deleteTrip } from "@/lib/trip-storage";
 import { budgetSummary, uid } from "@/lib/engine";
-import { peso } from "@/lib/destinations";
+import { peso, destinationImage } from "@/lib/destinations";
 export default function SavedTrips() {
   const [trips, setTrips] = useState<Trip[]>([]);
   const [message, setMessage] = useState('');
@@ -54,7 +54,7 @@ export default function SavedTrips() {
             <article className="postcard" key={t.id}>
               <Link href={`/trips/${t.id}`}>
                 <img
-                  src={`/images/${t.request.destinations[0]}.jpg`}
+                  src={destinationImage(t.request.destinations[0])}
                   alt="Trip destination"
                 />
               </Link>

@@ -41,7 +41,7 @@ test("Cebu–Bohol reserves a full unverified connection day", () => {
   );
   assert.equal(t.days.at(-1)?.destination, "bohol");
 });
-test("relaxed Palawan family has rest and limited sightseeing", () => {
+test("relaxed El Nido family has rest and limited sightseeing", () => {
   const t = generateDemo({ ...base, children: 2, pace: "Chill" });
   assert.ok(
     t.days

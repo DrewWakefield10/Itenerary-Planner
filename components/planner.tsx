@@ -14,7 +14,8 @@ import {
   LoaderCircle,
 } from "lucide-react";
 import {
-  destinations,
+  selectableDestinations,
+  destinationImage,
   personalities,
   peso,
   destination,
@@ -46,6 +47,11 @@ export default function Planner() {
   const [mode, setMode] = useState("demo");
   const [error, setError] = useState("");
   const [busy, setBusy] = useState(false);
+  const hasLegacyBase = r.destinations.some(slug => destination(slug)?.legacyOnly);
+  const baseGroups = [
+    {name: "Palawan", choices: selectableDestinations.filter(d => d.province === "Palawan")},
+    {name: "Other overnight bases", choices: selectableDestinations.filter(d => d.province !== "Palawan")},
+  ];
   useEffect(() => {
     const saved = readLocal<TripRequest>("draft", {
       ...defaultRequest,
@@ -75,6 +81,10 @@ export default function Planner() {
     setError("");
   }
   function next() {
+    if (step === 0 && hasLegacyBase) {
+      setError("Choose an explicit overnight base to replace the legacy Palawan selection for this new trip.");
+      return;
+    }
     const parsed = requestSchema.safeParse(r);
     if (step === 0 && !parsed.success) {
       const e = parsed.error.issues.filter((i) =>
@@ -104,6 +114,11 @@ export default function Planner() {
     window.scrollTo({ top: 0, behavior: "smooth" });
   }
   async function generate(demo = false) {
+    if (hasLegacyBase) {
+      setStep(0);
+      setError("Choose an explicit overnight base to replace the legacy Palawan selection for this new trip.");
+      return;
+    }
     const parsed = requestSchema.safeParse(r);
     if (!parsed.success) {
       setError(parsed.error.issues.map((i) => i.message).join(" "));
@@ -193,8 +208,8 @@ export default function Planner() {
                 Where are we <em>headed?</em>
               </h2>
               <p>
-                Choose up to three destinations. Multi-stop trips need time for
-                connections.
+                Choose up to three overnight bases, in visit order. Nearby
+                attractions are stops within each base; changing bases needs a connection day.
               </p>
               <div className="form-grid">
                 <label>
@@ -264,29 +279,41 @@ export default function Planner() {
                   <Sparkles size={15} /> Surprise me
                 </button>
               </div>
-              <div className="destination-choices">
-                {destinations.map((d) => (
+              {hasLegacyBase && <p className="legacy-base-note" role="status">
+                Your draft uses the older “Palawan” label. Saved trips remain readable.
+                For this new trip, choose an explicit overnight base below; choosing a base replaces that legacy selection.
+              </p>}
+              {baseGroups.map(group => <section className="destination-group" key={group.name} aria-label={group.name}>
+                <h3>{group.name}</h3>
+                {group.name === "Palawan" && <p className="fine-print">One island region, three separate places to stay. Select each base you plan to sleep in.</p>}
+                <div className="destination-choices">
+                {group.choices.map((d) => (
                   <button
+                    aria-label={d.name}
+                    aria-description={r.destinations.includes(d.slug) ? `Visit order ${r.destinations.indexOf(d.slug) + 1}` : undefined}
                     aria-pressed={r.destinations.includes(d.slug)}
                     className={
                       r.destinations.includes(d.slug) ? "selected" : ""
                     }
                     key={d.slug}
                     onClick={() => {
-                      const picks = r.destinations.includes(d.slug)
-                        ? r.destinations.filter((x) => x !== d.slug)
-                        : [...r.destinations, d.slug];
+                      const current = r.destinations.filter(slug => !destination(slug)?.legacyOnly);
+                      const picks = current.includes(d.slug)
+                        ? current.filter((x) => x !== d.slug)
+                        : [...current, d.slug];
                       if (picks.length <= 3) change("destinations", picks);
+                      else setError("Choose up to three overnight bases. Remove a selected base before adding another.");
                     }}
                   >
-                    <img src={`/images/${d.slug}.jpg`} alt="" />
+                    <img src={destinationImage(d.slug)} alt="" />
                     <span>{d.name}</span>
                     {r.destinations.includes(d.slug) && (
                       <b>{r.destinations.indexOf(d.slug) + 1}</b>
                     )}
                   </button>
                 ))}
-              </div>
+                </div>
+              </section>)}
               <p className="fine-print">
                 Arrival and departure buffers are included. A full connection
                 day is reserved between destinations; transport must be verified

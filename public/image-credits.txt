@@ -1,6 +1,6 @@
 # Destination image credits
 
-Photographs downloaded from Wikimedia Commons on 2026-10-13. Images were resized and JPEG-compressed for the website. License links and original source pages are provided below. CC BY-SA images remain available under their stated licenses. Hero image reuses palawan.jpg.
+Original photographs downloaded from Wikimedia Commons on 2026-10-13; later additions have their download dates listed below. Images were resized and JPEG-compressed for the website. License links and original source pages are provided below. CC BY-SA images remain available under their stated licenses. Hero image reuses palawan.jpg.
 
 ## palawan.jpg
 - Photo: [Island lagoon in Bacuit Bay, El Nido, Palawan, Philippines.jpg](https://commons.wikimedia.org/wiki/File:Island_lagoon_in_Bacuit_Bay,_El_Nido,_Palawan,_Philippines.jpg)
@@ -56,3 +56,15 @@ Photographs downloaded from Wikimedia Commons on 2026-10-13. Images were resized
 - Photo: [Davao City skyline at night.jpg](https://commons.wikimedia.org/wiki/File:Davao_City_skyline_at_night.jpg)
 - Author: MadayawDavao
 - License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
+
+## coron.jpg
+- Photo: [Mount Tapyas - Tapyas1700.jpg](https://commons.wikimedia.org/wiki/File:Mount_Tapyas_-_Tapyas1700.jpg) — Coron town and port viewed from Mount Tapyas.
+- Author: [lumoplank](https://www.flickr.com/people/lumoplankter/)
+- License: [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)
+- Downloaded and license checked: 2026-10-19. Resized to 1200 × 800 pixels and JPEG-compressed; no crop.
+
+## puerto-princesa.jpg
+- Photo: [Puerto Princesa City Baywalk (Puerto Princesa, Palawan; 08-03-2023).jpg](https://commons.wikimedia.org/wiki/File:Puerto_Princesa_City_Baywalk_(Puerto_Princesa,_Palawan;_08-03-2023).jpg) — Puerto Princesa City Baywalk.
+- Author: [Patrickroque01](https://commons.wikimedia.org/wiki/User:Patrickroque01)
+- License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
+- Downloaded and license checked: 2026-10-19. Resized to 1200 × 900 pixels and JPEG-compressed; no crop. This resized image remains available under CC BY-SA 4.0.

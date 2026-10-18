@@ -213,7 +213,7 @@ export const tripSchema = z
 export type Trip = z.infer<typeof tripSchema>;
 export const defaultRequest: TripRequest = {
   departure: "Manila",
-  destinations: ["palawan"],
+  destinations: ["el-nido"],
   startDate: "",
   days: 5,
   adults: 2,

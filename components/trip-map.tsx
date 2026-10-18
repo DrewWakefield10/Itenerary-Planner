@@ -2,7 +2,7 @@
 import { useEffect, useRef, useState } from "react";
 import type { Map as LeafletMap, LayerGroup, Marker } from "leaflet";
 import type { Activity } from "@/lib/trip";
-import { destination } from "@/lib/destinations";
+import { destinationCenter, activityLocation } from "@/lib/map-locations";
 export default function TripMap({
   activities,
   slug,
@@ -27,10 +27,9 @@ export default function TripMap({
     import("leaflet")
       .then((L) => {
         if (cancelled || !container.current) return;
-        const d = destination(slug)!;
         map.current = L.map(container.current, {
           scrollWheelZoom: false,
-        }).setView([d.lat, d.lng], 12);
+        }).setView(destinationCenter(slug), 12);
         const tiles = L.tileLayer(
           "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
           {
@@ -63,8 +62,8 @@ export default function TripMap({
       markers.current.clear();
       const points: [number, number][] = [];
       activities.forEach((a, i) => {
-        if (a.lat === null || a.lng === null) return;
-        const p: [number, number] = [a.lat, a.lng];
+        const p = activityLocation(a);
+        if (!p) return;
         points.push(p);
         const icon = L.divIcon({
           html: `<span class="map-pin">${i + 1}</span>`,
@@ -88,8 +87,7 @@ export default function TripMap({
           maxZoom: 14,
         });
       else {
-        const d = destination(slug)!;
-        map.current.setView([d.lat, d.lng], 12);
+        map.current.setView(destinationCenter(slug), 12);
       }
       map.current.invalidateSize();
       const focused=markers.current.get(selected);

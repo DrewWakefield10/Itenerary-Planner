@@ -22,7 +22,8 @@ import {
   ArrowLeft,
 } from "lucide-react";
 import {
-  destinations,
+  selectableDestinations,
+  destinationImage,
   destination,
   categories,
   templates,
@@ -50,7 +51,7 @@ export function Photo({
   return (
     <img
       className={className}
-      src={`/images/${slug}.jpg`}
+      src={destinationImage(slug)}
       alt={`${destination(slug)?.name || slug} scenery`}
       loading={eager ? "eager" : "lazy"}
     />
@@ -99,7 +100,7 @@ export function DestinationCard({
         <Heart size={19} fill={saved ? "currentColor" : "none"} />
       </button>
       <div className="postcard-body">
-        <small>{d.region}</small>
+        <small>{d.province ? `${d.province} · ${d.region}` : d.region}</small>
         <Link href={`/destinations/${d.slug}`}>
           <h3>
             {d.name}
@@ -314,7 +315,7 @@ function Home() {
           </Link>
         </div>
         <div className="featured-grid">
-          {destinations.slice(0, 3).map((d, i) => (
+          {selectableDestinations.filter(d => ["el-nido", "siargao", "cebu"].includes(d.slug)).map((d, i) => (
             <DestinationCard d={d} index={i} key={d.slug} />
           ))}
         </div>
@@ -516,10 +517,10 @@ function Explore() {
     setSaved(readLocal("favorites", []));
     setReady(true);
   }, []);
-  const filtered = destinations.filter(
+  const filtered = selectableDestinations.filter(
     (d) =>
       (category === "All" || d.tags.includes(category)) &&
-      `${d.name} ${d.region} ${d.description}`
+      `${d.name} ${d.province || ""} ${d.region} ${d.description}`
         .toLowerCase()
         .includes(search.toLowerCase()) &&
       (!favorites || saved.includes(d.slug)),
@@ -615,7 +616,7 @@ function Details({ slug }: { slug: string }) {
       <div className="detail-hero">
         <div>
           <span className="eyebrow">
-            {d.region} / PHILIPPINES{" "}
+            {d.province ? `${d.province} / ` : ""}{d.region} / PHILIPPINES{" "}
             <SourceIndicator source={d.sources.region} label="Region" />
           </span>
           <h1>
@@ -636,7 +637,7 @@ function Details({ slug }: { slug: string }) {
             className="button"
             href={`/planner?destinations=${d.slug}&days=${d.days}`}
           >
-            Plan my {d.name} adventure <ArrowUpRight size={18} />
+            {d.legacyOnly ? "Choose a Palawan base" : `Plan my ${d.name} adventure`} <ArrowUpRight size={18} />
           </Link>
         </div>
         <div className="detail-photo">
@@ -764,7 +765,7 @@ function Details({ slug }: { slug: string }) {
         </h2>
       </div>
       <div className="featured-grid">
-        {destinations
+        {selectableDestinations
           .filter(
             (x) => x.slug !== d.slug && x.tags.some((t) => d.tags.includes(t)),
           )

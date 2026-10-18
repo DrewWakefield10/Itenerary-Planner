@@ -1,4 +1,4 @@
-import { destination, destinations, type Stop } from "./destinations";
+import { destination, selectableDestinations, type Stop } from "./destinations";
 import {
   requestSchema,
   tripSchema,
@@ -99,7 +99,7 @@ export function recommendDestinations(interests: string[], budget = 10000) {
     "City Wanderer": "Culture",
     "Slow Traveler": "Family",
   };
-  return [...destinations]
+  return [...selectableDestinations]
     .sort((a, b) => {
       const score = (d: typeof a) =>
         interests.reduce((n, i) => n + (d.tags.includes(map[i]) ? 3 : 0), 0) +

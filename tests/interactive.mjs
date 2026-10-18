@@ -10,10 +10,12 @@ for(let i=0;i<5;i++)await page.getByRole('button',{name:'Next chapter'}).click()
 await page.getByRole('button',{name:'Generate demo itinerary'}).click();
 await expect(page.getByRole('heading',{name:'Baguio — my island story'})).toBeVisible();
 await page.getByRole('button',{name:'Day 2 Baguio'}).click();
-await page.getByRole('button',{name:'Lock Baguio Cathedral area',exact:true}).click();
-await expect(page.getByRole('button',{name:'Edit Baguio Cathedral area',exact:true})).toBeDisabled();
+const lock=page.getByRole('button',{name:/^Lock /}).first();
+const lockedName=(await lock.getAttribute('aria-label')).slice('Lock '.length);
+await lock.click();
+await expect(page.getByRole('button',{name:`Edit ${lockedName}`,exact:true})).toBeDisabled();
 await page.getByRole('button',{name:'Regenerate day',exact:true}).click();
-await expect(page.getByRole('button',{name:'Unlock Baguio Cathedral area',exact:true})).toBeVisible();
+await expect(page.getByRole('button',{name:`Unlock ${lockedName}`,exact:true})).toBeVisible();
 await page.getByRole('button',{name:'Add activity',exact:true}).click();
 await page.getByLabel('Activity name',{exact:true}).fill('My test detour');
 await page.getByLabel('Estimated cost for whole group').fill('350');
