@@ -676,18 +676,17 @@ function Details({ slug }: { slug: string }) {
         <section>
           <span className="eyebrow">PUT THESE IN YOUR JOURNAL</span>
           <h2>Start exploring.</h2>
-          {d.stops.map((s) => (
+          <Link className="text-link" href={`/discover?base=${d.slug}`}>Browse this base's full catalog and practical notes ↗</Link>
+          {d.stops.filter(s=>s.distinct&&s.mode!=="separate-base").map((s) => (
             <article className="attraction-source-row" key={s.name}>
               <a
                 className="attraction-row"
-                href={`https://www.openstreetmap.org/?mlat=${s.lat}&mlon=${s.lng}#map=16/${s.lat}/${s.lng}`}
-                target="_blank"
-                rel="noreferrer"
+                href={`/discover/${s.id}`}
               >
                 <MapPin size={21} />
                 <span>
                   <h3>{s.name}</h3>
-                  <small>{s.category} · View location</small>
+                  <small>{s.category} · {s.mode === "local" ? "Local visit" : "Separate full-day outing"} · Practical notes</small>
                 </span>
                 <ArrowUpRight size={17} />
               </a>

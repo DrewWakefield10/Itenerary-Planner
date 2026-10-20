@@ -8,6 +8,7 @@ import {
   type TripRequest,
 } from "@/lib/trip";
 import { destination } from "@/lib/destinations";
+import {addableStop} from "@/lib/catalog/planning";
 import { fromStop } from "@/lib/engine";
 import { updateActivityField } from "@/lib/activity-sources";
 import { disruptionSensitivitySchema } from "@/lib/disruptions";
@@ -78,14 +79,14 @@ export default function ActivityEditor({
             value=""
             onChange={(e) => {
               const stop = destination(slug)?.stops.find(
-                (s) => s.name === e.target.value,
+                (s) => s.id === e.target.value,
               );
               if (stop) setA({ ...fromStop(stop, request, a.start), id: a.id });
             }}
           >
             <option value="">Keep current stop / choose an alternative</option>
-            {destination(slug)?.stops.map((s) => (
-              <option key={s.name}>{s.name}</option>
+            {destination(slug)?.stops.filter(s=>addableStop(s)).map((s) => (
+              <option key={s.id} value={s.id}>{s.name}{s.mode!=="local"?" (full-day excursion)":""}</option>
             ))}
           </select>
         </label>

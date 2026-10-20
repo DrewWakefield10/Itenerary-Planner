@@ -504,6 +504,8 @@ export default function Planner() {
                   </button>
                 ))}
               </div>
+              <label className="check-label"><input type="checkbox" checked={r.includeExcursions} onChange={e=>change("includeExcursions",e.target.checked)} /> Include separate full-day excursions or tour proposals</label>
+              <p className="fine-print">Opt in to reserve entire days for outlying visits. Routes, guides, permits and availability need confirmation; no booking is made.</p>
             </>
           )}
           {step === 4 && (

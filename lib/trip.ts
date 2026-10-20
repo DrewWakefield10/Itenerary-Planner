@@ -2,6 +2,8 @@ import { z } from "zod";
 import { destinations } from "./destinations";
 import { factSourcesSchema, sourcedLinkSchema } from "./sources";
 import { disruptionSensitivitySchema, openingHoursSchema } from "./disruptions";
+import {entryPriceSchema, visitModeSchema} from "./catalog/schema";
+import {geographySchema} from "./catalog/directory-schema";
 const date = z
   .string()
   .regex(/^\d{4}-\d{2}-\d{2}$/)
@@ -31,6 +33,7 @@ export const requestSchema = z
     adults: z.number().int().min(1).max(20),
     children: z.number().int().min(0).max(10),
     interests: z.array(z.string().max(50)).max(9),
+    includeExcursions: z.boolean().default(false),
     budget: z.number().int().min(500).max(2000000),
     budgetMode: z.enum(["total", "person"]),
     tier: z.enum(["Backpacker", "Budget", "Comfortable", "Premium", "Custom"]),
@@ -65,8 +68,16 @@ export const expenseCategories = [
 ] as const;
 const money = z.number().int().min(0).max(10000000);
 export const activitySchema = z.object({
+  geography:geographySchema.nullable().default(null),
   id: z.string().min(1).max(100),
   name: z.string().min(1).max(160),
+  catalogStopId: z.string().max(100).nullable().default(null),
+  canonicalStopId: z.string().max(100).nullable().default(null),
+  entryPrice: entryPriceSchema.nullable().default(null),
+  visitMode: visitModeSchema.default("local"),
+  transferMinutes: z.number().int().min(0).max(720).default(45),
+  bookingRequired: z.boolean().default(false),
+  includedStopIds: z.array(z.string().max(100)).max(100).default([]),
   description: z.string().max(1500),
   lat: z.number().min(-90).max(90).nullable(),
   lng: z.number().min(-180).max(180).nullable(),
@@ -219,6 +230,7 @@ export const defaultRequest: TripRequest = {
   adults: 2,
   children: 0,
   interests: ["Nature Lover"],
+  includeExcursions: false,
   budget: 25000,
   budgetMode: "total",
   tier: "Comfortable",

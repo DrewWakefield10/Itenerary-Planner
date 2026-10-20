@@ -1,0 +1,4482 @@
+[
+  {
+    "id": "cebu-fort-san-pedro",
+    "name": "Fort San Pedro",
+    "destination_group": "Cebu",
+    "region": "Central Visayas",
+    "province": "Cebu",
+    "city_municipality": "Cebu City",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Culture",
+    "description": "Historic fort in Cebu’s port district.",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "itinerary_base_slug": "cebu",
+    "catalog_stop_id": "cebu-fort-san-pedro",
+    "status": "accepted",
+    "decision_reason": "Named physical place and actual municipality confirmed by the cited source; current access is not guaranteed.",
+    "sources": {
+      "identity": {
+        "sourceName": "Province of Cebu — heritage and attractions",
+        "sourceUrl": "https://www.cebu.gov.ph/about/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Province of Cebu — heritage and attractions",
+        "sourceUrl": "https://www.cebu.gov.ph/about/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "cebu-magellan-s-cross-area",
+    "name": "Magellan’s Cross",
+    "destination_group": "Cebu",
+    "region": "Central Visayas",
+    "province": "Cebu",
+    "city_municipality": "Cebu City",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Culture",
+    "description": "A religious landmark beside the Santo Niño basilica.",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "itinerary_base_slug": "cebu",
+    "catalog_stop_id": "cebu-magellan-s-cross-area",
+    "status": "accepted",
+    "decision_reason": "Named physical place and actual municipality confirmed by the cited source; current access is not guaranteed.",
+    "sources": {
+      "identity": {
+        "sourceName": "Province of Cebu — heritage and attractions",
+        "sourceUrl": "https://www.cebu.gov.ph/about/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Province of Cebu — heritage and attractions",
+        "sourceUrl": "https://www.cebu.gov.ph/about/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "cebu-casa-gorordo",
+    "name": "Casa Gorordo Museum",
+    "destination_group": "Cebu",
+    "region": "Central Visayas",
+    "province": "Cebu",
+    "city_municipality": "Cebu City",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Culture",
+    "description": "House museum in the historic Parian district.",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "itinerary_base_slug": "cebu",
+    "catalog_stop_id": "cebu-casa-gorordo",
+    "status": "accepted",
+    "decision_reason": "Named physical place and actual municipality confirmed by the cited source; current access is not guaranteed.",
+    "sources": {
+      "identity": {
+        "sourceName": "Casa Gorordo Museum — official information",
+        "sourceUrl": "https://www.casagorordomuseum.org/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Casa Gorordo Museum — official information",
+        "sourceUrl": "https://www.casagorordomuseum.org/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "cebu-basilica-santo-nino",
+    "name": "Basilica Minore del Santo Niño",
+    "destination_group": "Cebu",
+    "region": "Central Visayas",
+    "province": "Cebu",
+    "city_municipality": "Cebu City",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Culture",
+    "description": "A working basilica associated with Santo Niño devotion.",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "itinerary_base_slug": "cebu",
+    "catalog_stop_id": "cebu-basilica-santo-nino",
+    "status": "accepted",
+    "decision_reason": "Named physical place and actual municipality confirmed by the cited source; current access is not guaranteed.",
+    "sources": {
+      "identity": {
+        "sourceName": "Province of Cebu — heritage and attractions",
+        "sourceUrl": "https://www.cebu.gov.ph/about/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Province of Cebu — heritage and attractions",
+        "sourceUrl": "https://www.cebu.gov.ph/about/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "cebu-national-museum",
+    "name": "National Museum of the Philippines — Cebu",
+    "destination_group": "Cebu",
+    "region": "Central Visayas",
+    "province": "Cebu",
+    "city_municipality": "Cebu City",
+    "barangay": "San Roque",
+    "address": "A. Pigafetta Street, Barangay San Roque (Ciudad), Cebu City 6000",
+    "latitude": 10.29167,
+    "longitude": 123.90444,
+    "category": "Culture",
+    "description": "Museum galleries in the former customs building.",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "itinerary_base_slug": "cebu",
+    "catalog_stop_id": "cebu-national-museum",
+    "status": "accepted",
+    "decision_reason": "Named physical place and actual municipality confirmed by the cited source; current access is not guaranteed.",
+    "sources": {
+      "identity": {
+        "sourceName": "National Museum of the Philippines — Cebu",
+        "sourceUrl": "https://www.nationalmuseum.gov.ph/nmp-cebu-2/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "National Museum of the Philippines — Cebu",
+        "sourceUrl": "https://www.nationalmuseum.gov.ph/nmp-cebu-2/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": "National Museum of the Philippines — Cebu",
+        "sourceUrl": "https://www.nationalmuseum.gov.ph/nmp-cebu-2/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "coordinates": {
+        "sourceName": "Wikipedia — National Museum Cebu building reference coordinates",
+        "sourceUrl": "https://en.wikipedia.org/wiki/National_Museum_of_the_Philippines_(Cebu)",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "cebu-heritage-monument",
+    "name": "Heritage of Cebu Monument",
+    "destination_group": "Cebu",
+    "region": "Central Visayas",
+    "province": "Cebu",
+    "city_municipality": "Cebu City",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Culture",
+    "description": "A sculptural landmark in Parian.",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "itinerary_base_slug": "cebu",
+    "catalog_stop_id": "cebu-heritage-monument",
+    "status": "accepted",
+    "decision_reason": "Named physical place and actual municipality confirmed by the cited source; current access is not guaranteed.",
+    "sources": {
+      "identity": {
+        "sourceName": "Department of Tourism — Cebu City",
+        "sourceUrl": "https://philippines.travel/destinations/cebu-city/index",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Department of Tourism — Cebu City",
+        "sourceUrl": "https://philippines.travel/destinations/cebu-city/index",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "cebu-taoist-temple",
+    "name": "Cebu Taoist Temple",
+    "destination_group": "Cebu",
+    "region": "Central Visayas",
+    "province": "Cebu",
+    "city_municipality": "Cebu City",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Culture",
+    "description": "A temple complex in Beverly Hills subdivision.",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "itinerary_base_slug": "cebu",
+    "catalog_stop_id": "cebu-taoist-temple",
+    "status": "accepted",
+    "decision_reason": "Named physical place and actual municipality confirmed by the cited source; current access is not guaranteed.",
+    "sources": {
+      "identity": {
+        "sourceName": "Department of Tourism — Cebu City",
+        "sourceUrl": "https://philippines.travel/destinations/cebu-city/index",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Department of Tourism — Cebu City",
+        "sourceUrl": "https://philippines.travel/destinations/cebu-city/index",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "cebu-museo-sugbo",
+    "name": "Museo Sugbo",
+    "destination_group": "Cebu",
+    "region": "Central Visayas",
+    "province": "Cebu",
+    "city_municipality": "Cebu City",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Culture",
+    "description": "Provincial museum housed in a historic former jail.",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "itinerary_base_slug": "cebu",
+    "catalog_stop_id": "cebu-museo-sugbo",
+    "status": "accepted",
+    "decision_reason": "Named physical place and actual municipality confirmed by the cited source; current access is not guaranteed.",
+    "sources": {
+      "identity": {
+        "sourceName": "Province of Cebu — heritage and attractions",
+        "sourceUrl": "https://www.cebu.gov.ph/about/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Province of Cebu — heritage and attractions",
+        "sourceUrl": "https://www.cebu.gov.ph/about/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "cebu-yap-sandiego-house",
+    "name": "Yap-Sandiego Ancestral House",
+    "destination_group": "Cebu",
+    "region": "Central Visayas",
+    "province": "Cebu",
+    "city_municipality": "Cebu City",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Culture",
+    "description": "A surviving ancestral house in the city.",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "itinerary_base_slug": "cebu",
+    "catalog_stop_id": "cebu-yap-sandiego-house",
+    "status": "accepted",
+    "decision_reason": "Named physical place and actual municipality confirmed by the cited source; current access is not guaranteed.",
+    "sources": {
+      "identity": {
+        "sourceName": "Province of Cebu — heritage and attractions",
+        "sourceUrl": "https://www.cebu.gov.ph/about/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Province of Cebu — heritage and attractions",
+        "sourceUrl": "https://www.cebu.gov.ph/about/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "cebu-colon-street",
+    "name": "Colon Street",
+    "destination_group": "Cebu",
+    "region": "Central Visayas",
+    "province": "Cebu",
+    "city_municipality": "Cebu City",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Culture",
+    "description": "A historic downtown shopping street.",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "itinerary_base_slug": "cebu",
+    "catalog_stop_id": "cebu-colon-street",
+    "status": "accepted",
+    "decision_reason": "Named physical place and actual municipality confirmed by the cited source; current access is not guaranteed.",
+    "sources": {
+      "identity": {
+        "sourceName": "Province of Cebu — heritage and attractions",
+        "sourceUrl": "https://www.cebu.gov.ph/about/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Province of Cebu — heritage and attractions",
+        "sourceUrl": "https://www.cebu.gov.ph/about/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "cebu-sugbo-mercado",
+    "name": "Sugbo Mercado — IT Park",
+    "destination_group": "Cebu",
+    "region": "Central Visayas",
+    "province": "Cebu",
+    "city_municipality": "Cebu City",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Food & drink",
+    "description": "An open-air food market at Cebu IT Park.",
+    "interests": [
+      "Food Hunter"
+    ],
+    "itinerary_base_slug": "cebu",
+    "catalog_stop_id": "cebu-sugbo-mercado",
+    "status": "accepted",
+    "decision_reason": "Named physical place and actual municipality confirmed by the cited source; current access is not guaranteed.",
+    "sources": {
+      "identity": {
+        "sourceName": "Department of Tourism — Cebu City",
+        "sourceUrl": "https://philippines.travel/destinations/cebu-city/index",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Department of Tourism — Cebu City",
+        "sourceUrl": "https://philippines.travel/destinations/cebu-city/index",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "cebu-sirao-garden",
+    "name": "Sirao Garden",
+    "destination_group": "Cebu",
+    "region": "Central Visayas",
+    "province": "Cebu",
+    "city_municipality": "Cebu City",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Nature",
+    "description": "A flower-garden attraction in the city’s uplands.",
+    "interests": [
+      "Nature Lover",
+      "Slow Traveler"
+    ],
+    "itinerary_base_slug": "cebu",
+    "catalog_stop_id": "cebu-sirao-garden",
+    "status": "accepted",
+    "decision_reason": "Named physical place and actual municipality confirmed by the cited source; current access is not guaranteed.",
+    "sources": {
+      "identity": {
+        "sourceName": "Department of Tourism — Cebu City",
+        "sourceUrl": "https://philippines.travel/destinations/cebu-city/index",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Department of Tourism — Cebu City",
+        "sourceUrl": "https://philippines.travel/destinations/cebu-city/index",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "cebu-temple-of-leah",
+    "name": "Temple of Leah",
+    "destination_group": "Cebu",
+    "region": "Central Visayas",
+    "province": "Cebu",
+    "city_municipality": "Cebu City",
+    "barangay": null,
+    "address": null,
+    "latitude": 10.368913701256984,
+    "longitude": 123.87333595072559,
+    "category": "Culture",
+    "description": "A monumental attraction in the Busay highlands.",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "itinerary_base_slug": "cebu",
+    "catalog_stop_id": "cebu-temple-of-leah",
+    "status": "accepted",
+    "decision_reason": "Named physical place and actual municipality confirmed by the cited source; current access is not guaranteed.",
+    "sources": {
+      "identity": {
+        "sourceName": "Department of Tourism — Cebu City",
+        "sourceUrl": "https://philippines.travel/destinations/cebu-city/index",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Department of Tourism — Cebu City",
+        "sourceUrl": "https://philippines.travel/destinations/cebu-city/index",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": "Wikipedia — Temple of Leah reference coordinates",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Temple_of_Leah",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "cebu-tops-lookout",
+    "name": "TOPS",
+    "destination_group": "Cebu",
+    "region": "Central Visayas",
+    "province": "Cebu",
+    "city_municipality": "Cebu City",
+    "barangay": "Busay",
+    "address": "Tops Road, Busay, Cebu City",
+    "latitude": null,
+    "longitude": null,
+    "category": "Nature",
+    "description": "A hilltop viewpoint and dining complex.",
+    "interests": [
+      "Nature Lover",
+      "Slow Traveler"
+    ],
+    "itinerary_base_slug": "cebu",
+    "catalog_stop_id": "cebu-tops-lookout",
+    "status": "accepted",
+    "decision_reason": "Named physical place and actual municipality confirmed by the cited source; current access is not guaranteed.",
+    "sources": {
+      "identity": {
+        "sourceName": "TOPS — official visitor information",
+        "sourceUrl": "https://www.topscebu.ph/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "TOPS — official visitor information",
+        "sourceUrl": "https://www.topscebu.ph/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": "TOPS — official visitor information",
+        "sourceUrl": "https://www.topscebu.ph/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "cebu-ocean-park",
+    "name": "Cebu Ocean Park",
+    "destination_group": "Cebu",
+    "region": "Central Visayas",
+    "province": "Cebu",
+    "city_municipality": "Cebu City",
+    "barangay": "Mambaling",
+    "address": "SM Seaside Complex, Mambaling, Cebu City, Cebu 6000",
+    "latitude": null,
+    "longitude": null,
+    "category": "Attractions",
+    "description": "A ticketed aquarium and marine-themed visitor attraction.",
+    "interests": [
+      "Nature Lover",
+      "Slow Traveler"
+    ],
+    "itinerary_base_slug": "cebu",
+    "catalog_stop_id": "cebu-ocean-park",
+    "status": "accepted",
+    "decision_reason": "Named physical place and actual municipality confirmed by the cited source; current access is not guaranteed.",
+    "sources": {
+      "identity": {
+        "sourceName": "Cebu Ocean Park — official information",
+        "sourceUrl": "https://www.cebuoceanpark.com/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Cebu Ocean Park — official information",
+        "sourceUrl": "https://www.cebuoceanpark.com/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": "Cebu Ocean Park — official information",
+        "sourceUrl": "https://www.cebuoceanpark.com/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "cebu-kawasan-falls",
+    "name": "Kawasan Falls",
+    "destination_group": "Cebu",
+    "region": "Central Visayas",
+    "province": "Cebu",
+    "city_municipality": "Badian",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Nature",
+    "description": "A waterfall attraction in southern Cebu.",
+    "interests": [
+      "Nature Lover",
+      "Slow Traveler"
+    ],
+    "itinerary_base_slug": null,
+    "catalog_stop_id": "cebu-kawasan-falls",
+    "status": "accepted",
+    "decision_reason": "Identity and Badian location confirmed. Provincial rehabilitation/access restrictions need separate confirmation; not an ordinary Cebu City stop.",
+    "sources": {
+      "identity": {
+        "sourceName": "Province of Cebu — heritage and attractions",
+        "sourceUrl": "https://www.cebu.gov.ph/about/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Province of Cebu — heritage and attractions",
+        "sourceUrl": "https://www.cebu.gov.ph/about/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "cebu-sumilon-island",
+    "name": "Sumilon Island",
+    "destination_group": "Cebu",
+    "region": "Central Visayas",
+    "province": "Cebu",
+    "city_municipality": "Oslob",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Nature",
+    "description": "An island destination off Oslob.",
+    "interests": [
+      "Nature Lover",
+      "Slow Traveler"
+    ],
+    "itinerary_base_slug": null,
+    "catalog_stop_id": null,
+    "status": "accepted",
+    "decision_reason": "Named physical place and actual municipality confirmed by the cited source; current access is not guaranteed.",
+    "sources": {
+      "identity": {
+        "sourceName": "Province of Cebu — heritage and attractions",
+        "sourceUrl": "https://www.cebu.gov.ph/about/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Province of Cebu — heritage and attractions",
+        "sourceUrl": "https://www.cebu.gov.ph/about/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "cebu-tingko-beach",
+    "name": "Tingko Beach",
+    "destination_group": "Cebu",
+    "region": "Central Visayas",
+    "province": "Cebu",
+    "city_municipality": "Alcoy",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Nature",
+    "description": "A beach on Cebu’s southeastern coast.",
+    "interests": [
+      "Nature Lover",
+      "Slow Traveler"
+    ],
+    "itinerary_base_slug": null,
+    "catalog_stop_id": null,
+    "status": "accepted",
+    "decision_reason": "Named physical place and actual municipality confirmed by the cited source; current access is not guaranteed.",
+    "sources": {
+      "identity": {
+        "sourceName": "Cebu Provincial Tourism Office — Alcoy",
+        "sourceUrl": "https://tourism.cebu.gov.ph/explore/alcoy/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Cebu Provincial Tourism Office — Alcoy",
+        "sourceUrl": "https://tourism.cebu.gov.ph/explore/alcoy/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "cebu-safari-adventure-park",
+    "name": "Cebu Safari and Adventure Park",
+    "destination_group": "Cebu",
+    "region": "Central Visayas",
+    "province": "Cebu",
+    "city_municipality": "Carmen",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Attractions",
+    "description": "A wildlife and adventure visitor park.",
+    "interests": [
+      "Nature Lover",
+      "Slow Traveler"
+    ],
+    "itinerary_base_slug": null,
+    "catalog_stop_id": null,
+    "status": "accepted",
+    "decision_reason": "Named physical place and actual municipality confirmed by the cited source; current access is not guaranteed.",
+    "sources": {
+      "identity": {
+        "sourceName": "Cebu Provincial Tourism Office — Carmen",
+        "sourceUrl": "https://tourism.cebu.gov.ph/explore/carmen/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Cebu Provincial Tourism Office — Carmen",
+        "sourceUrl": "https://tourism.cebu.gov.ph/explore/carmen/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "cebu-boljoon-church",
+    "name": "Boljoon Church",
+    "destination_group": "Cebu",
+    "region": "Central Visayas",
+    "province": "Cebu",
+    "city_municipality": "Boljoon",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Culture",
+    "description": "A heritage church in southern Cebu.",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "itinerary_base_slug": null,
+    "catalog_stop_id": null,
+    "status": "accepted",
+    "decision_reason": "Named physical place and actual municipality confirmed by the cited source; current access is not guaranteed.",
+    "sources": {
+      "identity": {
+        "sourceName": "Cebu Provincial Tourism Office — Boljoon",
+        "sourceUrl": "https://tourism.cebu.gov.ph/explore/boljoon/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Cebu Provincial Tourism Office — Boljoon",
+        "sourceUrl": "https://tourism.cebu.gov.ph/explore/boljoon/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "cebu-bantayan-peter-paul-church",
+    "name": "Saints Peter and Paul Parish Church — Bantayan",
+    "destination_group": "Cebu",
+    "region": "Central Visayas",
+    "province": "Cebu",
+    "city_municipality": "Bantayan",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Culture",
+    "description": "A parish church in Bantayan town.",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "itinerary_base_slug": null,
+    "catalog_stop_id": null,
+    "status": "accepted",
+    "decision_reason": "Named physical place and actual municipality confirmed by the cited source; current access is not guaranteed.",
+    "sources": {
+      "identity": {
+        "sourceName": "Cebu Provincial Tourism Office — Bantayan",
+        "sourceUrl": "https://tourism.cebu.gov.ph/explore/bantayan/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Cebu Provincial Tourism Office — Bantayan",
+        "sourceUrl": "https://tourism.cebu.gov.ph/explore/bantayan/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "cebu-simala-shrine",
+    "name": "Simala Shrine",
+    "destination_group": "Cebu",
+    "region": "Central Visayas",
+    "province": "Cebu",
+    "city_municipality": "Sibonga",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Culture",
+    "description": "A Marian pilgrimage shrine in Sibonga.",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "itinerary_base_slug": null,
+    "catalog_stop_id": null,
+    "status": "accepted",
+    "decision_reason": "Named physical place and actual municipality confirmed by the cited source; current access is not guaranteed.",
+    "sources": {
+      "identity": {
+        "sourceName": "Cebu Provincial Tourism Office — Sibonga",
+        "sourceUrl": "https://tourism.cebu.gov.ph/explore/sibonga/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Cebu Provincial Tourism Office — Sibonga",
+        "sourceUrl": "https://tourism.cebu.gov.ph/explore/sibonga/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "cebu-buwakan-ni-alejandra",
+    "name": "Buwakan ni Alejandra",
+    "destination_group": "Cebu",
+    "region": "Central Visayas",
+    "province": "Cebu",
+    "city_municipality": "Balamban",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Nature",
+    "description": "A flower garden in the Balamban uplands.",
+    "interests": [
+      "Nature Lover",
+      "Slow Traveler"
+    ],
+    "itinerary_base_slug": null,
+    "catalog_stop_id": null,
+    "status": "accepted",
+    "decision_reason": "Named physical place and actual municipality confirmed by the cited source; current access is not guaranteed.",
+    "sources": {
+      "identity": {
+        "sourceName": "Cebu Provincial Tourism Office — Balamban",
+        "sourceUrl": "https://tourism.cebu.gov.ph/explore/balamban/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Cebu Provincial Tourism Office — Balamban",
+        "sourceUrl": "https://tourism.cebu.gov.ph/explore/balamban/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "cebu-mactan-shrine",
+    "name": "Mactan Shrine",
+    "destination_group": "Cebu",
+    "region": "Central Visayas",
+    "province": "Cebu",
+    "city_municipality": "Lapu-Lapu City",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Culture",
+    "description": "A memorial site associated with the Battle of Mactan.",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "itinerary_base_slug": null,
+    "catalog_stop_id": null,
+    "status": "accepted",
+    "decision_reason": "Named physical place and actual municipality confirmed by the cited source; current access is not guaranteed.",
+    "sources": {
+      "identity": {
+        "sourceName": "National Quincentennial Committee — Lapulapu National Monument site",
+        "sourceUrl": "https://www.nqc.gov.ph/wp-content/uploads/2020/07/Lapulapu-National-Monument-Design-Competition-Guidelines-1.pdf",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "National Quincentennial Committee — Lapulapu National Monument site",
+        "sourceUrl": "https://www.nqc.gov.ph/wp-content/uploads/2020/07/Lapulapu-National-Monument-Design-Competition-Guidelines-1.pdf",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "cebu-carcar-new-public-market",
+    "name": "Carcar City New Public Market",
+    "destination_group": "Cebu",
+    "region": "Central Visayas",
+    "province": "Cebu",
+    "city_municipality": "Carcar City",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Parks & markets",
+    "description": "A public market in Carcar City.",
+    "interests": [
+      "Nature Lover",
+      "Slow Traveler"
+    ],
+    "itinerary_base_slug": null,
+    "catalog_stop_id": null,
+    "status": "accepted",
+    "decision_reason": "Named physical place and actual municipality confirmed by the cited source; current access is not guaranteed.",
+    "sources": {
+      "identity": {
+        "sourceName": "JCI Cebu — event at Carcar City New Public Market",
+        "sourceUrl": "https://jcicebu.org/2026/05/26/kidtrepreneurship-5-0-empowers-young-entrepreneurs-in-carcar-city/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "JCI Cebu — event at Carcar City New Public Market",
+        "sourceUrl": "https://jcicebu.org/2026/05/26/kidtrepreneurship-5-0-empowers-young-entrepreneurs-in-carcar-city/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "bohol-alona-beach-walk",
+    "name": "Alona Beach",
+    "destination_group": "Bohol",
+    "region": "Central Visayas",
+    "province": "Bohol",
+    "city_municipality": "Panglao",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Nature",
+    "description": "A beach in Panglao municipality.",
+    "interests": [
+      "Nature Lover",
+      "Slow Traveler"
+    ],
+    "itinerary_base_slug": "bohol",
+    "catalog_stop_id": "bohol-alona-beach-walk",
+    "status": "accepted",
+    "decision_reason": "Named physical place and actual municipality confirmed by the cited source; current access is not guaranteed.",
+    "sources": {
+      "identity": {
+        "sourceName": "Bohol Provincial Tourism Office — Panglao",
+        "sourceUrl": "https://tourism.bohol.gov.ph/visitbohol-panglao/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Bohol Provincial Tourism Office — Panglao",
+        "sourceUrl": "https://tourism.bohol.gov.ph/visitbohol-panglao/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "bohol-danao-beach-afternoon",
+    "name": "Danao Beach",
+    "destination_group": "Bohol",
+    "region": "Central Visayas",
+    "province": "Bohol",
+    "city_municipality": "Panglao",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Nature",
+    "description": "A beach near Panglao’s Alona visitor area.",
+    "interests": [
+      "Nature Lover",
+      "Slow Traveler"
+    ],
+    "itinerary_base_slug": "bohol",
+    "catalog_stop_id": "bohol-danao-beach-afternoon",
+    "status": "accepted",
+    "decision_reason": "Named physical place and actual municipality confirmed by the cited source; current access is not guaranteed.",
+    "sources": {
+      "identity": {
+        "sourceName": "Panglao Tourism — Danao Beach",
+        "sourceUrl": "https://www.panglaotourism.com/beaches/danao-beach/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Panglao Tourism — Danao Beach",
+        "sourceUrl": "https://www.panglaotourism.com/beaches/danao-beach/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "bohol-saint-augustine-church",
+    "name": "Saint Augustine Parish Church",
+    "destination_group": "Bohol",
+    "region": "Central Visayas",
+    "province": "Bohol",
+    "city_municipality": "Panglao",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Culture",
+    "description": "A heritage church in Panglao town.",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "itinerary_base_slug": "bohol",
+    "catalog_stop_id": "bohol-saint-augustine-church",
+    "status": "accepted",
+    "decision_reason": "Named physical place and actual municipality confirmed by the cited source; current access is not guaranteed.",
+    "sources": {
+      "identity": {
+        "sourceName": "Bohol Provincial Tourism Office — Panglao",
+        "sourceUrl": "https://tourism.bohol.gov.ph/visitbohol-panglao/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Bohol Provincial Tourism Office — Panglao",
+        "sourceUrl": "https://tourism.bohol.gov.ph/visitbohol-panglao/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "bohol-panglao-watchtower",
+    "name": "Panglao Watchtower",
+    "destination_group": "Bohol",
+    "region": "Central Visayas",
+    "province": "Bohol",
+    "city_municipality": "Panglao",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Culture",
+    "description": "A historic tower near the town’s church.",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "itinerary_base_slug": "bohol",
+    "catalog_stop_id": "bohol-panglao-watchtower",
+    "status": "accepted",
+    "decision_reason": "Named physical place and actual municipality confirmed by the cited source; current access is not guaranteed.",
+    "sources": {
+      "identity": {
+        "sourceName": "Bohol Provincial Tourism Office — Panglao",
+        "sourceUrl": "https://tourism.bohol.gov.ph/visitbohol-panglao/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Bohol Provincial Tourism Office — Panglao",
+        "sourceUrl": "https://tourism.bohol.gov.ph/visitbohol-panglao/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "bohol-nova-shell-museum",
+    "name": "Nova Shell Museum",
+    "destination_group": "Bohol",
+    "region": "Central Visayas",
+    "province": "Bohol",
+    "city_municipality": "Panglao",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Culture",
+    "description": "A museum displaying marine shells.",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "itinerary_base_slug": "bohol",
+    "catalog_stop_id": "bohol-nova-shell-museum",
+    "status": "accepted",
+    "decision_reason": "Named physical place and actual municipality confirmed by the cited source; current access is not guaranteed.",
+    "sources": {
+      "identity": {
+        "sourceName": "Bohol Provincial Tourism Office — Panglao",
+        "sourceUrl": "https://tourism.bohol.gov.ph/visitbohol-panglao/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Bohol Provincial Tourism Office — Panglao",
+        "sourceUrl": "https://tourism.bohol.gov.ph/visitbohol-panglao/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "bohol-doljo-beach",
+    "name": "Doljo Beach",
+    "destination_group": "Bohol",
+    "region": "Central Visayas",
+    "province": "Bohol",
+    "city_municipality": "Panglao",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Nature",
+    "description": "A beach on the Panglao coast.",
+    "interests": [
+      "Nature Lover",
+      "Slow Traveler"
+    ],
+    "itinerary_base_slug": "bohol",
+    "catalog_stop_id": "bohol-doljo-beach",
+    "status": "accepted",
+    "decision_reason": "Named physical place and actual municipality confirmed by the cited source; current access is not guaranteed.",
+    "sources": {
+      "identity": {
+        "sourceName": "Bohol Provincial Tourism Office — Panglao",
+        "sourceUrl": "https://tourism.bohol.gov.ph/visitbohol-panglao/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Bohol Provincial Tourism Office — Panglao",
+        "sourceUrl": "https://tourism.bohol.gov.ph/visitbohol-panglao/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "bohol-dumaluan-beach",
+    "name": "Dumaluan Beach",
+    "destination_group": "Bohol",
+    "region": "Central Visayas",
+    "province": "Bohol",
+    "city_municipality": "Panglao",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Nature",
+    "description": "A sandy coastal destination in Panglao.",
+    "interests": [
+      "Nature Lover",
+      "Slow Traveler"
+    ],
+    "itinerary_base_slug": "bohol",
+    "catalog_stop_id": "bohol-dumaluan-beach",
+    "status": "accepted",
+    "decision_reason": "Named physical place and actual municipality confirmed by the cited source; current access is not guaranteed.",
+    "sources": {
+      "identity": {
+        "sourceName": "Bohol Provincial Tourism Office — Panglao",
+        "sourceUrl": "https://tourism.bohol.gov.ph/visitbohol-panglao/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Bohol Provincial Tourism Office — Panglao",
+        "sourceUrl": "https://tourism.bohol.gov.ph/visitbohol-panglao/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "bohol-libaong-beach",
+    "name": "Libaong Beach",
+    "destination_group": "Bohol",
+    "region": "Central Visayas",
+    "province": "Bohol",
+    "city_municipality": "Panglao",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Nature",
+    "description": "A beach in Panglao municipality.",
+    "interests": [
+      "Nature Lover",
+      "Slow Traveler"
+    ],
+    "itinerary_base_slug": "bohol",
+    "catalog_stop_id": "bohol-libaong-beach",
+    "status": "accepted",
+    "decision_reason": "Named physical place and actual municipality confirmed by the cited source; current access is not guaranteed.",
+    "sources": {
+      "identity": {
+        "sourceName": "Bohol Provincial Tourism Office — Panglao",
+        "sourceUrl": "https://tourism.bohol.gov.ph/visitbohol-panglao/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Bohol Provincial Tourism Office — Panglao",
+        "sourceUrl": "https://tourism.bohol.gov.ph/visitbohol-panglao/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "bohol-hinagdanan-cave",
+    "name": "Hinagdanan Cave",
+    "destination_group": "Bohol",
+    "region": "Central Visayas",
+    "province": "Bohol",
+    "city_municipality": "Dauis",
+    "barangay": "Bingag",
+    "address": null,
+    "latitude": 9.62528,
+    "longitude": 123.80111,
+    "category": "Nature",
+    "description": "A limestone cave with an underground pool.",
+    "interests": [
+      "Nature Lover",
+      "Slow Traveler"
+    ],
+    "itinerary_base_slug": "bohol",
+    "catalog_stop_id": "bohol-hinagdanan-cave",
+    "status": "accepted",
+    "decision_reason": "Named physical place and actual municipality confirmed by the cited source; current access is not guaranteed.",
+    "sources": {
+      "identity": {
+        "sourceName": "Bohol Provincial Tourism Office — Dauis",
+        "sourceUrl": "https://tourism.bohol.gov.ph/visitbohol-dauis/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Bohol Provincial Tourism Office — Dauis",
+        "sourceUrl": "https://tourism.bohol.gov.ph/visitbohol-dauis/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": "Wikipedia — Hinagdanan Cave reference coordinates",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Hinagdanan_Cave",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "bohol-dauis-church",
+    "name": "Assumption of Our Lady Shrine-Parish",
+    "destination_group": "Bohol",
+    "region": "Central Visayas",
+    "province": "Bohol",
+    "city_municipality": "Dauis",
+    "barangay": null,
+    "address": null,
+    "latitude": 9.62581,
+    "longitude": 123.865,
+    "category": "Culture",
+    "description": "A heritage Catholic church in Dauis.",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "itinerary_base_slug": "bohol",
+    "catalog_stop_id": "bohol-dauis-church",
+    "status": "accepted",
+    "decision_reason": "Named physical place and actual municipality confirmed by the cited source; current access is not guaranteed.",
+    "sources": {
+      "identity": {
+        "sourceName": "Bohol Provincial Tourism Office — Dauis",
+        "sourceUrl": "https://tourism.bohol.gov.ph/visitbohol-dauis/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Bohol Provincial Tourism Office — Dauis",
+        "sourceUrl": "https://tourism.bohol.gov.ph/visitbohol-dauis/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": "Wikipedia — Dauis Church reference coordinates",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Dauis_Church",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "bohol-bohol-bee-farm",
+    "name": "Bohol Bee Farm",
+    "destination_group": "Bohol",
+    "region": "Central Visayas",
+    "province": "Bohol",
+    "city_municipality": "Dauis",
+    "barangay": "Dao",
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Food & drink",
+    "description": "A farm and dining destination in Dauis.",
+    "interests": [
+      "Food Hunter"
+    ],
+    "itinerary_base_slug": "bohol",
+    "catalog_stop_id": "bohol-bohol-bee-farm",
+    "status": "accepted",
+    "decision_reason": "Named physical place and actual municipality confirmed by the cited source; current access is not guaranteed.",
+    "sources": {
+      "identity": {
+        "sourceName": "Bohol Provincial Tourism Office — Dauis",
+        "sourceUrl": "https://tourism.bohol.gov.ph/visitbohol-dauis/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Bohol Provincial Tourism Office — Dauis",
+        "sourceUrl": "https://tourism.bohol.gov.ph/visitbohol-dauis/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "bohol-common-crew",
+    "name": "Common Crew Coffee Roasters & Brewers",
+    "destination_group": "Bohol",
+    "region": "Central Visayas",
+    "province": "Bohol",
+    "city_municipality": "Panglao",
+    "barangay": "Tawala",
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Food & drink",
+    "description": "A café roasting Philippine coffee and serving kombucha.",
+    "interests": [
+      "Food Hunter"
+    ],
+    "itinerary_base_slug": "bohol",
+    "catalog_stop_id": "bohol-common-crew",
+    "status": "accepted",
+    "decision_reason": "Named physical place and actual municipality confirmed by the cited source; current access is not guaranteed.",
+    "sources": {
+      "identity": {
+        "sourceName": "Common Crew Bohol — brew bar",
+        "sourceUrl": "https://www.commoncrewbohol.com/coffee-kombucha-brew-bar",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Waze — Common Crew address",
+        "sourceUrl": "https://www.waze.com/live-map/directions/ph/central-visayas/panglao/common-crew-coffee-roasters-and-brewers?to=place.ChIJX4kyTwmtqzMRawE20lKe-RE",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "bohol-shaka-panglao",
+    "name": "Shaka Cafes — Panglao",
+    "destination_group": "Bohol",
+    "region": "Central Visayas",
+    "province": "Bohol",
+    "city_municipality": "Panglao",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Food & drink",
+    "description": "Shaka’s café branch on Panglao Island.",
+    "interests": [
+      "Food Hunter"
+    ],
+    "itinerary_base_slug": "bohol",
+    "catalog_stop_id": "bohol-shaka-panglao",
+    "status": "accepted",
+    "decision_reason": "Named physical place and actual municipality confirmed by the cited source; current access is not guaranteed.",
+    "sources": {
+      "identity": {
+        "sourceName": "Shaka Cafes — operator company profile",
+        "sourceUrl": "https://www.linkedin.com/company/shaka-cafes",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Waze — Shaka Panglao branch",
+        "sourceUrl": "https://www.waze.com/live-map/directions/ph/central-visayas/panglao/shaka-panglao-bohol?to=place.ChIJf9cEEJisqzMRtTllqEy2rCY",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "bohol-chocolate-hills",
+    "name": "Chocolate Hills viewpoint — Carmen",
+    "destination_group": "Bohol",
+    "region": "Central Visayas",
+    "province": "Bohol",
+    "city_municipality": "Carmen",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Nature",
+    "description": "A viewpoint over Bohol’s limestone hill landscape.",
+    "interests": [
+      "Nature Lover",
+      "Slow Traveler"
+    ],
+    "itinerary_base_slug": null,
+    "catalog_stop_id": "bohol-chocolate-hills",
+    "status": "accepted",
+    "decision_reason": "Carmen viewpoint context confirmed. This is a physical countryside attraction, not a Panglao-local stop or package.",
+    "sources": {
+      "identity": {
+        "sourceName": "Bohol Provincial Tourism Office — Carmen",
+        "sourceUrl": "https://tourism.bohol.gov.ph/visitbohol-carmen/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Bohol Provincial Tourism Office — Carmen",
+        "sourceUrl": "https://tourism.bohol.gov.ph/visitbohol-carmen/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "bohol-baclayon-church",
+    "name": "Baclayon Church",
+    "destination_group": "Bohol",
+    "region": "Central Visayas",
+    "province": "Bohol",
+    "city_municipality": "Baclayon",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Culture",
+    "description": "A heritage parish church in Baclayon.",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "itinerary_base_slug": null,
+    "catalog_stop_id": null,
+    "status": "accepted",
+    "decision_reason": "Named physical place and actual municipality confirmed by the cited source; current access is not guaranteed.",
+    "sources": {
+      "identity": {
+        "sourceName": "Municipality of Baclayon — tourism",
+        "sourceUrl": "https://baclayon.bohol.gov.ph/tourism/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Municipality of Baclayon — tourism",
+        "sourceUrl": "https://baclayon.bohol.gov.ph/tourism/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "bohol-loboc-church",
+    "name": "Loboc Church",
+    "destination_group": "Bohol",
+    "region": "Central Visayas",
+    "province": "Bohol",
+    "city_municipality": "Loboc",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Culture",
+    "description": "A historic parish church in Loboc.",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "itinerary_base_slug": null,
+    "catalog_stop_id": null,
+    "status": "accepted",
+    "decision_reason": "Named physical place and actual municipality confirmed by the cited source; current access is not guaranteed.",
+    "sources": {
+      "identity": {
+        "sourceName": "Bohol Provincial Tourism Office — Loboc",
+        "sourceUrl": "https://tourism.bohol.gov.ph/visitbohol-loboc/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Bohol Provincial Tourism Office — Loboc",
+        "sourceUrl": "https://tourism.bohol.gov.ph/visitbohol-loboc/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "bohol-national-museum",
+    "name": "National Museum of the Philippines — Bohol",
+    "destination_group": "Bohol",
+    "region": "Central Visayas",
+    "province": "Bohol",
+    "city_municipality": "Tagbilaran City",
+    "barangay": "Poblacion 3",
+    "address": "Km. 0, Carlos P. Garcia Avenue, Poblacion 3, Tagbilaran City, Bohol 6300",
+    "latitude": null,
+    "longitude": null,
+    "category": "Culture",
+    "description": "Museum galleries occupy the former provincial capitol.",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "itinerary_base_slug": null,
+    "catalog_stop_id": null,
+    "status": "accepted",
+    "decision_reason": "Named physical place and actual municipality confirmed by the cited source; current access is not guaranteed.",
+    "sources": {
+      "identity": {
+        "sourceName": "National Museum of the Philippines — Bohol",
+        "sourceUrl": "https://www.nationalmuseum.gov.ph/our-museums/regional-area-and-site-museums/bohol/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "National Museum of the Philippines — Bohol",
+        "sourceUrl": "https://www.nationalmuseum.gov.ph/our-museums/regional-area-and-site-museums/bohol/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": "National Museum of the Philippines — Bohol",
+        "sourceUrl": "https://www.nationalmuseum.gov.ph/our-museums/regional-area-and-site-museums/bohol/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "bohol-pamilacan-island",
+    "name": "Pamilacan Island",
+    "destination_group": "Bohol",
+    "region": "Central Visayas",
+    "province": "Bohol",
+    "city_municipality": "Baclayon",
+    "barangay": "Pamilacan",
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Nature",
+    "description": "An island and barangay administered by Baclayon.",
+    "interests": [
+      "Nature Lover",
+      "Slow Traveler"
+    ],
+    "itinerary_base_slug": null,
+    "catalog_stop_id": null,
+    "status": "accepted",
+    "decision_reason": "Named physical place and actual municipality confirmed by the cited source; current access is not guaranteed.",
+    "sources": {
+      "identity": {
+        "sourceName": "Municipality of Baclayon — tourism",
+        "sourceUrl": "https://baclayon.bohol.gov.ph/tourism/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Municipality of Baclayon — tourism",
+        "sourceUrl": "https://baclayon.bohol.gov.ph/tourism/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "bohol-panglao-local-lunch",
+    "name": "Panglao local lunch",
+    "destination_group": "Bohol",
+    "region": "Central Visayas",
+    "province": "Bohol",
+    "city_municipality": null,
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Food & drink",
+    "description": "Legacy flexible meal slot without a named venue.",
+    "interests": [
+      "Food Hunter"
+    ],
+    "itinerary_base_slug": null,
+    "catalog_stop_id": null,
+    "status": "rejected",
+    "decision_reason": "Generic meal slot; not a distinct physical venue. Kept as a reviewed exclusion.",
+    "sources": {
+      "identity": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "municipality": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "bohol-loboc-river-cruise",
+    "name": "Loboc River cruise",
+    "destination_group": "Bohol",
+    "region": "Central Visayas",
+    "province": "Bohol",
+    "city_municipality": "Loboc",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Attractions",
+    "description": "An operator-dependent river-cruise activity.",
+    "interests": [
+      "Nature Lover",
+      "Slow Traveler"
+    ],
+    "itinerary_base_slug": null,
+    "catalog_stop_id": null,
+    "status": "rejected",
+    "decision_reason": "A cruise activity/package, not a uniquely identified physical venue.",
+    "sources": {
+      "identity": {
+        "sourceName": "Bohol Provincial Tourism Office — Loboc",
+        "sourceUrl": "https://tourism.bohol.gov.ph/visitbohol-loboc/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Bohol Provincial Tourism Office — Loboc",
+        "sourceUrl": "https://tourism.bohol.gov.ph/visitbohol-loboc/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "bohol-countryside-tour",
+    "name": "Bohol countryside tour",
+    "destination_group": "Bohol",
+    "region": "Central Visayas",
+    "province": "Bohol",
+    "city_municipality": null,
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Attractions",
+    "description": "A multi-stop excursion concept.",
+    "interests": [
+      "Nature Lover",
+      "Slow Traveler"
+    ],
+    "itinerary_base_slug": null,
+    "catalog_stop_id": null,
+    "status": "rejected",
+    "decision_reason": "Tour/package concept, not one physical place.",
+    "sources": {
+      "identity": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "municipality": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "bohol-virgin-island",
+    "name": "Virgin Island — Panglao-area candidate",
+    "destination_group": "Bohol",
+    "region": "Central Visayas",
+    "province": "Bohol",
+    "city_municipality": null,
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Nature",
+    "description": "An offshore island named by the tourism office.",
+    "interests": [
+      "Nature Lover",
+      "Slow Traveler"
+    ],
+    "itinerary_base_slug": null,
+    "catalog_stop_id": null,
+    "status": "unresolved",
+    "decision_reason": "Reviewed page names the island but does not establish its actual municipal jurisdiction or current public access.",
+    "sources": {
+      "identity": {
+        "sourceName": "Bohol Provincial Tourism Office — Panglao",
+        "sourceUrl": "https://tourism.bohol.gov.ph/visitbohol-panglao/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "boracay-white-beach-station-2",
+    "name": "White Beach — Station 2",
+    "destination_group": "Boracay",
+    "region": "Western Visayas",
+    "province": "Aklan",
+    "city_municipality": "Malay",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Nature",
+    "description": "A representative section of Boracay’s west-coast beach.",
+    "interests": [
+      "Beach Bum",
+      "Nature Lover"
+    ],
+    "itinerary_base_slug": "boracay",
+    "catalog_stop_id": "boracay-white-beach-station-2",
+    "status": "accepted",
+    "decision_reason": "Physical place identified on Boracay; the island’s actual municipality is Malay, Aklan. Identity does not guarantee access.",
+    "sources": {
+      "identity": {
+        "sourceName": "Philippine Department of Tourism Australia and New Zealand — Boracay",
+        "sourceUrl": "https://www.tourismphilippines.com.au/where/boracay",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Wikipedia — Boracay administrative geography",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Boracay",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "boracay-d-mall-food-stroll",
+    "name": "D’Mall",
+    "destination_group": "Boracay",
+    "region": "Western Visayas",
+    "province": "Aklan",
+    "city_municipality": "Malay",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Parks & markets",
+    "description": "An open-air shopping and dining area.",
+    "interests": [
+      "City Wanderer"
+    ],
+    "itinerary_base_slug": "boracay",
+    "catalog_stop_id": "boracay-d-mall-food-stroll",
+    "status": "accepted",
+    "decision_reason": "Physical place identified on Boracay; the island’s actual municipality is Malay, Aklan. Identity does not guarantee access.",
+    "sources": {
+      "identity": {
+        "sourceName": "Philippine Department of Tourism Australia and New Zealand — Boracay",
+        "sourceUrl": "https://www.tourismphilippines.com.au/where/boracay",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Wikipedia — Boracay administrative geography",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Boracay",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "boracay-bulabog-beach-walk",
+    "name": "Bulabog Beach",
+    "destination_group": "Boracay",
+    "region": "Western Visayas",
+    "province": "Aklan",
+    "city_municipality": "Malay",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Nature",
+    "description": "A beach on the island’s eastern side.",
+    "interests": [
+      "Beach Bum",
+      "Nature Lover"
+    ],
+    "itinerary_base_slug": "boracay",
+    "catalog_stop_id": "boracay-bulabog-beach-walk",
+    "status": "accepted",
+    "decision_reason": "Physical place identified on Boracay; the island’s actual municipality is Malay, Aklan. Identity does not guarantee access.",
+    "sources": {
+      "identity": {
+        "sourceName": "Tourism Promotions Board — Boracay map, April 2020 place reference",
+        "sourceUrl": "https://www.tpb.gov.ph/wp-content/uploads/2023/10/Boracay-Map.pdf",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Wikipedia — Boracay administrative geography",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Boracay",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "boracay-willys-rock",
+    "name": "Willy’s Rock",
+    "destination_group": "Boracay",
+    "region": "Western Visayas",
+    "province": "Aklan",
+    "city_municipality": "Malay",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Culture",
+    "description": "A rock landmark beside White Beach.",
+    "interests": [
+      "Culture Seeker"
+    ],
+    "itinerary_base_slug": "boracay",
+    "catalog_stop_id": "boracay-willys-rock",
+    "status": "accepted",
+    "decision_reason": "Physical place identified on Boracay; the island’s actual municipality is Malay, Aklan. Identity does not guarantee access.",
+    "sources": {
+      "identity": {
+        "sourceName": "Tourism Promotions Board — Boracay map, April 2020 place reference",
+        "sourceUrl": "https://www.tpb.gov.ph/wp-content/uploads/2023/10/Boracay-Map.pdf",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Wikipedia — Boracay administrative geography",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Boracay",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "boracay-diniwid-beach",
+    "name": "Diniwid Beach",
+    "destination_group": "Boracay",
+    "region": "Western Visayas",
+    "province": "Aklan",
+    "city_municipality": "Malay",
+    "barangay": null,
+    "address": null,
+    "latitude": 11.9765,
+    "longitude": 121.91177777777779,
+    "category": "Nature",
+    "description": "A cove beach north of White Beach.",
+    "interests": [
+      "Beach Bum",
+      "Nature Lover"
+    ],
+    "itinerary_base_slug": "boracay",
+    "catalog_stop_id": "boracay-diniwid-beach",
+    "status": "accepted",
+    "decision_reason": "Physical place identified on Boracay; the island’s actual municipality is Malay, Aklan. Identity does not guarantee access.",
+    "sources": {
+      "identity": {
+        "sourceName": "Tourism Promotions Board — Boracay map, April 2020 place reference",
+        "sourceUrl": "https://www.tpb.gov.ph/wp-content/uploads/2023/10/Boracay-Map.pdf",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Wikipedia — Boracay administrative geography",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Boracay",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": "DENR-EMB Region VI — Diniwid Beach monitoring-station reference, not an entrance",
+        "sourceUrl": "https://r6.emb.gov.ph/wp-content/uploads/2023/02/RSOBER-2021-WESTERN-VISAYAS.pdf",
+        "dateChecked": "2026-10-19",
+        "status": "estimate"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "boracay-puka-shell-beach",
+    "name": "Puka Shell Beach",
+    "destination_group": "Boracay",
+    "region": "Western Visayas",
+    "province": "Aklan",
+    "city_municipality": "Malay",
+    "barangay": null,
+    "address": null,
+    "latitude": 11.99625,
+    "longitude": 121.91586111111111,
+    "category": "Nature",
+    "description": "A beach on northern Boracay.",
+    "interests": [
+      "Beach Bum",
+      "Nature Lover"
+    ],
+    "itinerary_base_slug": "boracay",
+    "catalog_stop_id": "boracay-puka-shell-beach",
+    "status": "accepted",
+    "decision_reason": "Physical place identified on Boracay; the island’s actual municipality is Malay, Aklan. Identity does not guarantee access.",
+    "sources": {
+      "identity": {
+        "sourceName": "Tourism Promotions Board — Boracay map, April 2020 place reference",
+        "sourceUrl": "https://www.tpb.gov.ph/wp-content/uploads/2023/10/Boracay-Map.pdf",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Wikipedia — Boracay administrative geography",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Boracay",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": "DENR-EMB Region VI — Puka Beach monitoring-station reference, not an entrance",
+        "sourceUrl": "https://r6.emb.gov.ph/wp-content/uploads/2023/02/RSOBER-2021-WESTERN-VISAYAS.pdf",
+        "dateChecked": "2026-10-19",
+        "status": "estimate"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "boracay-ilig-iligan-beach",
+    "name": "Ilig-Iligan Beach",
+    "destination_group": "Boracay",
+    "region": "Western Visayas",
+    "province": "Aklan",
+    "city_municipality": "Malay",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Nature",
+    "description": "A beach on the island’s northeastern side.",
+    "interests": [
+      "Beach Bum",
+      "Nature Lover"
+    ],
+    "itinerary_base_slug": "boracay",
+    "catalog_stop_id": "boracay-ilig-iligan-beach",
+    "status": "accepted",
+    "decision_reason": "Physical place identified on Boracay; the island’s actual municipality is Malay, Aklan. Identity does not guarantee access.",
+    "sources": {
+      "identity": {
+        "sourceName": "Tourism Promotions Board — Boracay map, April 2020 place reference",
+        "sourceUrl": "https://www.tpb.gov.ph/wp-content/uploads/2023/10/Boracay-Map.pdf",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Wikipedia — Boracay administrative geography",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Boracay",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "boracay-tambisaan-beach",
+    "name": "Tambisaan Beach",
+    "destination_group": "Boracay",
+    "region": "Western Visayas",
+    "province": "Aklan",
+    "city_municipality": "Malay",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Nature",
+    "description": "A beach on southeastern Boracay.",
+    "interests": [
+      "Beach Bum",
+      "Nature Lover"
+    ],
+    "itinerary_base_slug": "boracay",
+    "catalog_stop_id": "boracay-tambisaan-beach",
+    "status": "accepted",
+    "decision_reason": "Physical place identified on Boracay; the island’s actual municipality is Malay, Aklan. Identity does not guarantee access.",
+    "sources": {
+      "identity": {
+        "sourceName": "Tourism Promotions Board — Boracay map, April 2020 place reference",
+        "sourceUrl": "https://www.tpb.gov.ph/wp-content/uploads/2023/10/Boracay-Map.pdf",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Wikipedia — Boracay administrative geography",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Boracay",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "boracay-tulubhan-beach",
+    "name": "Tulubhan Beach",
+    "destination_group": "Boracay",
+    "region": "Western Visayas",
+    "province": "Aklan",
+    "city_municipality": "Malay",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Nature",
+    "description": "A beach on Boracay’s eastern coast.",
+    "interests": [
+      "Beach Bum",
+      "Nature Lover"
+    ],
+    "itinerary_base_slug": "boracay",
+    "catalog_stop_id": "boracay-tulubhan-beach",
+    "status": "accepted",
+    "decision_reason": "Physical place identified on Boracay; the island’s actual municipality is Malay, Aklan. Identity does not guarantee access.",
+    "sources": {
+      "identity": {
+        "sourceName": "Tourism Promotions Board — Boracay map, April 2020 place reference",
+        "sourceUrl": "https://www.tpb.gov.ph/wp-content/uploads/2023/10/Boracay-Map.pdf",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Wikipedia — Boracay administrative geography",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Boracay",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "boracay-balinghai-beach",
+    "name": "Balinghai Beach",
+    "destination_group": "Boracay",
+    "region": "Western Visayas",
+    "province": "Aklan",
+    "city_municipality": "Malay",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Nature",
+    "description": "A small northern-island beach.",
+    "interests": [
+      "Beach Bum",
+      "Nature Lover"
+    ],
+    "itinerary_base_slug": "boracay",
+    "catalog_stop_id": "boracay-balinghai-beach",
+    "status": "accepted",
+    "decision_reason": "Named beach identity and island jurisdiction confirmed. Property access and any resort permissions remain unknown.",
+    "sources": {
+      "identity": {
+        "sourceName": "Tourism Promotions Board — Boracay map, April 2020 place reference",
+        "sourceUrl": "https://www.tpb.gov.ph/wp-content/uploads/2023/10/Boracay-Map.pdf",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Wikipedia — Boracay administrative geography",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Boracay",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "boracay-newcoast-keyhole",
+    "name": "Boracay Newcoast Keyhole",
+    "destination_group": "Boracay",
+    "region": "Western Visayas",
+    "province": "Aklan",
+    "city_municipality": "Malay",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Attractions",
+    "description": "A rock formation within the Newcoast development.",
+    "interests": [
+      "Beach Bum",
+      "Nature Lover"
+    ],
+    "itinerary_base_slug": "boracay",
+    "catalog_stop_id": "boracay-newcoast-keyhole",
+    "status": "accepted",
+    "decision_reason": "Operator confirms the physical rock formation. Estate access and current viewing restrictions require confirmation.",
+    "sources": {
+      "identity": {
+        "sourceName": "Boracay Newcoast — official coves and Keyhole information",
+        "sourceUrl": "https://boracaynewcoastph.com/coves/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Wikipedia — Boracay administrative geography",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Boracay",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "boracay-balabag-wetland-park",
+    "name": "Balabag Wetland Park",
+    "destination_group": "Boracay",
+    "region": "Western Visayas",
+    "province": "Aklan",
+    "city_municipality": "Malay",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Parks & markets",
+    "description": "A rehabilitated lagoon and linear park.",
+    "interests": [
+      "City Wanderer"
+    ],
+    "itinerary_base_slug": "boracay",
+    "catalog_stop_id": "boracay-balabag-wetland-park",
+    "status": "accepted",
+    "decision_reason": "Physical place identified on Boracay; the island’s actual municipality is Malay, Aklan. Identity does not guarantee access.",
+    "sources": {
+      "identity": {
+        "sourceName": "Aboitiz — annual and sustainability report, Balabag Wetland Park",
+        "sourceUrl": "https://sustainability.aboitiz.com/wp-content/uploads/2023/11/2020-Annual-and-Sustainability-Report-1.pdf",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Wikipedia — Boracay administrative geography",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Boracay",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "boracay-dtalipapa-market",
+    "name": "D’Talipapa market",
+    "destination_group": "Boracay",
+    "region": "Western Visayas",
+    "province": "Aklan",
+    "city_municipality": "Malay",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Food & drink",
+    "description": "A wet-market and seafood dining area.",
+    "interests": [
+      "Food Hunter"
+    ],
+    "itinerary_base_slug": "boracay",
+    "catalog_stop_id": "boracay-dtalipapa-market",
+    "status": "accepted",
+    "decision_reason": "Physical place identified on Boracay; the island’s actual municipality is Malay, Aklan. Identity does not guarantee access.",
+    "sources": {
+      "identity": {
+        "sourceName": "Philippine Department of Tourism Australia and New Zealand — Boracay",
+        "sourceUrl": "https://www.tourismphilippines.com.au/where/boracay",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Wikipedia — Boracay administrative geography",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Boracay",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "boracay-nonies-ondus",
+    "name": "Nonie’s — Ondus Hotel",
+    "destination_group": "Boracay",
+    "region": "Western Visayas",
+    "province": "Aklan",
+    "city_municipality": "Malay",
+    "barangay": "Manoc-Manoc",
+    "address": "Ondus Hotel beachfront, Station 3, Barangay Manoc-Manoc, Boracay Island, Aklan",
+    "latitude": null,
+    "longitude": null,
+    "category": "Food & drink",
+    "description": "A beachfront restaurant serving Filipino-inspired food.",
+    "interests": [
+      "Food Hunter"
+    ],
+    "itinerary_base_slug": "boracay",
+    "catalog_stop_id": "boracay-nonies-ondus",
+    "status": "accepted",
+    "decision_reason": "Current operator identifies Ondus Station 3 location. Hotel dining-access terms need direct confirmation.",
+    "sources": {
+      "identity": {
+        "sourceName": "Nonie’s — official Boracay restaurant",
+        "sourceUrl": "https://www.nonies.com.ph/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Wikipedia — Boracay administrative geography",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Boracay",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": "Ondus Hotel — dining and address",
+        "sourceUrl": "https://ondus.com.ph/index.php/dining/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "boracay-giuseppe-station-three",
+    "name": "Giuseppe Pizzeria & Sicilian Roast — Boracay",
+    "destination_group": "Boracay",
+    "region": "Western Visayas",
+    "province": "Aklan",
+    "city_municipality": "Malay",
+    "barangay": null,
+    "address": "Villanueva Building, Station 3, Boracay",
+    "latitude": null,
+    "longitude": null,
+    "category": "Food & drink",
+    "description": "An Italian restaurant at Station 3.",
+    "interests": [
+      "Food Hunter"
+    ],
+    "itinerary_base_slug": null,
+    "catalog_stop_id": null,
+    "status": "accepted",
+    "decision_reason": "Physical place identified on Boracay; the island’s actual municipality is Malay, Aklan. Identity does not guarantee access.",
+    "sources": {
+      "identity": {
+        "sourceName": "Giuseppe — official Boracay branch",
+        "sourceUrl": "https://giuseppe.ph/boracay/index.html",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Wikipedia — Boracay administrative geography",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Boracay",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": "Giuseppe — official Boracay branch",
+        "sourceUrl": "https://giuseppe.ph/boracay/index.html",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "boracay-little-taj",
+    "name": "Little Taj",
+    "destination_group": "Boracay",
+    "region": "Western Visayas",
+    "province": "Aklan",
+    "city_municipality": "Malay",
+    "barangay": "Balabag",
+    "address": "D’Mall Boracay, Station 2, Balabag, Malay, Aklan",
+    "latitude": null,
+    "longitude": null,
+    "category": "Food & drink",
+    "description": "An Indian restaurant inside D’Mall.",
+    "interests": [
+      "Food Hunter"
+    ],
+    "itinerary_base_slug": null,
+    "catalog_stop_id": null,
+    "status": "accepted",
+    "decision_reason": "Physical place identified on Boracay; the island’s actual municipality is Malay, Aklan. Identity does not guarantee access.",
+    "sources": {
+      "identity": {
+        "sourceName": "Little Taj — official visitor location",
+        "sourceUrl": "https://www.littletaj.com/visit",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Little Taj — official visitor location",
+        "sourceUrl": "https://www.littletaj.com/visit",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": "Little Taj — official visitor location",
+        "sourceUrl": "https://www.littletaj.com/visit",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "boracay-mount-luho",
+    "name": "Mount Luho viewpoint",
+    "destination_group": "Boracay",
+    "region": "Western Visayas",
+    "province": "Aklan",
+    "city_municipality": "Malay",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Nature",
+    "description": "A historical viewpoint candidate with uncertain current access.",
+    "interests": [
+      "Beach Bum",
+      "Nature Lover"
+    ],
+    "itinerary_base_slug": null,
+    "catalog_stop_id": null,
+    "status": "unresolved",
+    "decision_reason": "Historical decks and a closure report exist; no currently operating specific deck was established. Not accepted.",
+    "sources": {
+      "identity": {
+        "sourceName": "Tourism Promotions Board — Boracay map, April 2020 place reference",
+        "sourceUrl": "https://www.tpb.gov.ph/wp-content/uploads/2023/10/Boracay-Map.pdf",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Wikipedia — Boracay administrative geography",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Boracay",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "boracay-white-beach-station-1",
+    "name": "White Beach — Station 1",
+    "destination_group": "Boracay",
+    "region": "Western Visayas",
+    "province": "Aklan",
+    "city_municipality": "Malay",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Nature",
+    "description": "Another section of the same White Beach.",
+    "interests": [
+      "Beach Bum",
+      "Nature Lover"
+    ],
+    "itinerary_base_slug": null,
+    "catalog_stop_id": null,
+    "status": "rejected",
+    "decision_reason": "Duplicate physical beach; Station 2 represents White Beach once in accepted coverage.",
+    "sources": {
+      "identity": {
+        "sourceName": "Philippine Department of Tourism Australia and New Zealand — Boracay",
+        "sourceUrl": "https://www.tourismphilippines.com.au/where/boracay",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Wikipedia — Boracay administrative geography",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Boracay",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "boracay-white-beach-station-3",
+    "name": "White Beach — Station 3",
+    "destination_group": "Boracay",
+    "region": "Western Visayas",
+    "province": "Aklan",
+    "city_municipality": "Malay",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Nature",
+    "description": "A southern section of the same White Beach.",
+    "interests": [
+      "Beach Bum",
+      "Nature Lover"
+    ],
+    "itinerary_base_slug": null,
+    "catalog_stop_id": null,
+    "status": "rejected",
+    "decision_reason": "Duplicate physical beach; station labels do not create additional beaches.",
+    "sources": {
+      "identity": {
+        "sourceName": "Philippine Department of Tourism Australia and New Zealand — Boracay",
+        "sourceUrl": "https://www.tourismphilippines.com.au/where/boracay",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Wikipedia — Boracay administrative geography",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Boracay",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "boracay-spider-house",
+    "name": "Spider House — historical Diniwid candidate",
+    "destination_group": "Boracay",
+    "region": "Western Visayas",
+    "province": "Aklan",
+    "city_municipality": null,
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Food & drink",
+    "description": "A historical venue name associated with Diniwid.",
+    "interests": [
+      "Food Hunter"
+    ],
+    "itinerary_base_slug": null,
+    "catalog_stop_id": null,
+    "status": "unresolved",
+    "decision_reason": "Current venue identity and operation were not established. Not accepted.",
+    "sources": {
+      "identity": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "municipality": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "boracay-paraw-sunset-cruise",
+    "name": "Boracay paraw sunset cruise",
+    "destination_group": "Boracay",
+    "region": "Western Visayas",
+    "province": "Aklan",
+    "city_municipality": "Malay",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Attractions",
+    "description": "An operator-dependent sailing activity.",
+    "interests": [
+      "Beach Bum",
+      "Nature Lover"
+    ],
+    "itinerary_base_slug": null,
+    "catalog_stop_id": null,
+    "status": "rejected",
+    "decision_reason": "Activity/package concept rather than one physical venue.",
+    "sources": {
+      "identity": {
+        "sourceName": "Philippine Department of Tourism Australia and New Zealand — Boracay",
+        "sourceUrl": "https://www.tourismphilippines.com.au/where/boracay",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Wikipedia — Boracay administrative geography",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Boracay",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "boracay-crystal-cove-island",
+    "name": "Crystal Cove Island — offshore candidate",
+    "destination_group": "Boracay",
+    "region": "Western Visayas",
+    "province": "Aklan",
+    "city_municipality": null,
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Nature",
+    "description": "An offshore island candidate requiring jurisdiction confirmation.",
+    "interests": [
+      "Beach Bum",
+      "Nature Lover"
+    ],
+    "itinerary_base_slug": null,
+    "catalog_stop_id": null,
+    "status": "unresolved",
+    "decision_reason": "Offshore listing does not by itself establish the actual municipal boundary or current public access.",
+    "sources": {
+      "identity": {
+        "sourceName": "Tourism Promotions Board — Boracay map, April 2020 place reference",
+        "sourceUrl": "https://www.tpb.gov.ph/wp-content/uploads/2023/10/Boracay-Map.pdf",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "iloilo-iloilo-river-esplanade",
+    "name": "Iloilo River Esplanade",
+    "destination_group": "Iloilo",
+    "region": "Western Visayas",
+    "province": "Iloilo",
+    "city_municipality": "Iloilo City",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Nature",
+    "description": "A riverside public promenade.",
+    "interests": [
+      "Nature Lover",
+      "Slow Traveler"
+    ],
+    "itinerary_base_slug": "iloilo",
+    "catalog_stop_id": "iloilo-iloilo-river-esplanade",
+    "status": "accepted",
+    "decision_reason": "Named physical place and actual municipality confirmed by the cited source; current access is not guaranteed.",
+    "sources": {
+      "identity": {
+        "sourceName": "Regional Statistics Committee VI — tourism attractions table",
+        "sourceUrl": "https://rsc6.gov.ph/wp-content/uploads/2024/10/WV-RSET-Chapter-8-TOURISM.pdf",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Regional Statistics Committee VI — tourism attractions table",
+        "sourceUrl": "https://rsc6.gov.ph/wp-content/uploads/2024/10/WV-RSET-Chapter-8-TOURISM.pdf",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "iloilo-molo-church-plaza",
+    "name": "Molo Church",
+    "destination_group": "Iloilo",
+    "region": "Western Visayas",
+    "province": "Iloilo",
+    "city_municipality": "Iloilo City",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Culture",
+    "description": "A heritage parish church in Molo.",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "itinerary_base_slug": "iloilo",
+    "catalog_stop_id": "iloilo-molo-church-plaza",
+    "status": "accepted",
+    "decision_reason": "Named physical place and actual municipality confirmed by the cited source; current access is not guaranteed.",
+    "sources": {
+      "identity": {
+        "sourceName": "Congress of the Philippines — Iloilo City heritage-site declaration",
+        "sourceUrl": "https://ldr.senate.gov.ph/sites/default/files/2023-03/1380811653%21.pdf",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Congress of the Philippines — Iloilo City heritage-site declaration",
+        "sourceUrl": "https://ldr.senate.gov.ph/sites/default/files/2023-03/1380811653%21.pdf",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "iloilo-jaro-plaza-heritage-area",
+    "name": "Jaro Plaza",
+    "destination_group": "Iloilo",
+    "region": "Western Visayas",
+    "province": "Iloilo",
+    "city_municipality": "Iloilo City",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Parks & markets",
+    "description": "A historic public square in Jaro.",
+    "interests": [
+      "Nature Lover",
+      "Slow Traveler"
+    ],
+    "itinerary_base_slug": "iloilo",
+    "catalog_stop_id": "iloilo-jaro-plaza-heritage-area",
+    "status": "accepted",
+    "decision_reason": "Named physical place and actual municipality confirmed by the cited source; current access is not guaranteed.",
+    "sources": {
+      "identity": {
+        "sourceName": "Congress of the Philippines — Iloilo City heritage-site declaration",
+        "sourceUrl": "https://ldr.senate.gov.ph/sites/default/files/2023-03/1380811653%21.pdf",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Congress of the Philippines — Iloilo City heritage-site declaration",
+        "sourceUrl": "https://ldr.senate.gov.ph/sites/default/files/2023-03/1380811653%21.pdf",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "iloilo-molo-mansion",
+    "name": "Molo Mansion",
+    "destination_group": "Iloilo",
+    "region": "Western Visayas",
+    "province": "Iloilo",
+    "city_municipality": "Iloilo City",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Culture",
+    "description": "A heritage house in Molo.",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "itinerary_base_slug": "iloilo",
+    "catalog_stop_id": "iloilo-molo-mansion",
+    "status": "accepted",
+    "decision_reason": "Named physical place and actual municipality confirmed by the cited source; current access is not guaranteed.",
+    "sources": {
+      "identity": {
+        "sourceName": "Iloilo City — comprehensive land use plan, indexed heritage-place references",
+        "sourceUrl": "https://iloilocity.gov.ph/main/wp-content/uploads/2021/03/Vol1_CLUP-3-3-21-final-draft-1.pdf",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Iloilo City — comprehensive land use plan, indexed heritage-place references",
+        "sourceUrl": "https://iloilocity.gov.ph/main/wp-content/uploads/2021/03/Vol1_CLUP-3-3-21-final-draft-1.pdf",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "iloilo-national-museum-western-visayas",
+    "name": "National Museum Western Visayas",
+    "destination_group": "Iloilo",
+    "region": "Western Visayas",
+    "province": "Iloilo",
+    "city_municipality": "Iloilo City",
+    "barangay": null,
+    "address": "Iloilo Provincial Capitol Complex, Bonifacio Drive, City Proper, Iloilo City",
+    "latitude": 10.703222,
+    "longitude": 122.5687667,
+    "category": "Culture",
+    "description": "Museum galleries in the former provincial jail.",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "itinerary_base_slug": "iloilo",
+    "catalog_stop_id": "iloilo-national-museum-western-visayas",
+    "status": "accepted",
+    "decision_reason": "Named physical place and actual municipality confirmed by the cited source; current access is not guaranteed.",
+    "sources": {
+      "identity": {
+        "sourceName": "National Museum — Western Visayas at Iloilo Provincial Jail",
+        "sourceUrl": "https://www.nationalmuseum.gov.ph/our-museums/regional-area-and-site-museums/western-visayas/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "National Museum — Western Visayas at Iloilo Provincial Jail",
+        "sourceUrl": "https://www.nationalmuseum.gov.ph/our-museums/regional-area-and-site-museums/western-visayas/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": "National Museum — Western Visayas at Iloilo Provincial Jail",
+        "sourceUrl": "https://www.nationalmuseum.gov.ph/our-museums/regional-area-and-site-museums/western-visayas/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "coordinates": {
+        "sourceName": "Wikipedia — National Museum Western Visayas reference coordinates",
+        "sourceUrl": "https://en.wikipedia.org/wiki/National_Museum_Western_Visayas",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "iloilo-casa-real",
+    "name": "Casa Real de Iloilo",
+    "destination_group": "Iloilo",
+    "region": "Western Visayas",
+    "province": "Iloilo",
+    "city_municipality": "Iloilo City",
+    "barangay": null,
+    "address": "General Luna Street and Muelle Loney Street, Iloilo City",
+    "latitude": null,
+    "longitude": null,
+    "category": "Culture",
+    "description": "The historic former provincial capitol building.",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "itinerary_base_slug": "iloilo",
+    "catalog_stop_id": "iloilo-casa-real",
+    "status": "accepted",
+    "decision_reason": "Named physical place and actual municipality confirmed by the cited source; current access is not guaranteed.",
+    "sources": {
+      "identity": {
+        "sourceName": "Iloilo Provincial Government — Casa Real de Iloilo",
+        "sourceUrl": "https://www.iloilo.gov.ph/en/gallery/casa-real-de-iloilo",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Iloilo Provincial Government — Casa Real de Iloilo",
+        "sourceUrl": "https://www.iloilo.gov.ph/en/gallery/casa-real-de-iloilo",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": "Iloilo Provincial Government — Casa Real de Iloilo",
+        "sourceUrl": "https://www.iloilo.gov.ph/en/gallery/casa-real-de-iloilo",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "iloilo-jaro-cathedral",
+    "name": "Jaro Cathedral",
+    "destination_group": "Iloilo",
+    "region": "Western Visayas",
+    "province": "Iloilo",
+    "city_municipality": "Iloilo City",
+    "barangay": null,
+    "address": null,
+    "latitude": 10.72351,
+    "longitude": 122.55622,
+    "category": "Culture",
+    "description": "A cathedral and shrine in Jaro.",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "itinerary_base_slug": "iloilo",
+    "catalog_stop_id": "iloilo-jaro-cathedral",
+    "status": "accepted",
+    "decision_reason": "Named physical place and actual municipality confirmed by the cited source; current access is not guaranteed.",
+    "sources": {
+      "identity": {
+        "sourceName": "Congress of the Philippines — Iloilo City heritage-site declaration",
+        "sourceUrl": "https://ldr.senate.gov.ph/sites/default/files/2023-03/1380811653%21.pdf",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Congress of the Philippines — Iloilo City heritage-site declaration",
+        "sourceUrl": "https://ldr.senate.gov.ph/sites/default/files/2023-03/1380811653%21.pdf",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": "Wikipedia — Jaro Cathedral reference coordinates",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Jaro_Cathedral",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "iloilo-calle-real",
+    "name": "Calle Real heritage streets",
+    "destination_group": "Iloilo",
+    "region": "Western Visayas",
+    "province": "Iloilo",
+    "city_municipality": "Iloilo City",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Culture",
+    "description": "A historic downtown commercial area.",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "itinerary_base_slug": "iloilo",
+    "catalog_stop_id": "iloilo-calle-real",
+    "status": "accepted",
+    "decision_reason": "Named physical place and actual municipality confirmed by the cited source; current access is not guaranteed.",
+    "sources": {
+      "identity": {
+        "sourceName": "Iloilo City — comprehensive land use plan, indexed heritage-place references",
+        "sourceUrl": "https://iloilocity.gov.ph/main/wp-content/uploads/2021/03/Vol1_CLUP-3-3-21-final-draft-1.pdf",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Iloilo City — comprehensive land use plan, indexed heritage-place references",
+        "sourceUrl": "https://iloilocity.gov.ph/main/wp-content/uploads/2021/03/Vol1_CLUP-3-3-21-final-draft-1.pdf",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "iloilo-plaza-libertad",
+    "name": "Plaza Libertad",
+    "destination_group": "Iloilo",
+    "region": "Western Visayas",
+    "province": "Iloilo",
+    "city_municipality": "Iloilo City",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Parks & markets",
+    "description": "A historic square in Iloilo City Proper.",
+    "interests": [
+      "Nature Lover",
+      "Slow Traveler"
+    ],
+    "itinerary_base_slug": "iloilo",
+    "catalog_stop_id": "iloilo-plaza-libertad",
+    "status": "accepted",
+    "decision_reason": "Named physical place and actual municipality confirmed by the cited source; current access is not guaranteed.",
+    "sources": {
+      "identity": {
+        "sourceName": "Congress of the Philippines — Iloilo City heritage-site declaration",
+        "sourceUrl": "https://ldr.senate.gov.ph/sites/default/files/2023-03/1380811653%21.pdf",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Congress of the Philippines — Iloilo City heritage-site declaration",
+        "sourceUrl": "https://ldr.senate.gov.ph/sites/default/files/2023-03/1380811653%21.pdf",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "iloilo-baking-studio-theos",
+    "name": "Baking Studio by Theo’s — North Grove",
+    "destination_group": "Iloilo",
+    "region": "Western Visayas",
+    "province": "Iloilo",
+    "city_municipality": "Iloilo City",
+    "barangay": "North Fundidor",
+    "address": "North Grove, Avanceña Street, North Fundidor, Molo, Iloilo City, Iloilo 5000",
+    "latitude": null,
+    "longitude": null,
+    "category": "Food & drink",
+    "description": "A bakery and café in Molo.",
+    "interests": [
+      "Food Hunter"
+    ],
+    "itinerary_base_slug": "iloilo",
+    "catalog_stop_id": "iloilo-baking-studio-theos",
+    "status": "accepted",
+    "decision_reason": "Named physical place and actual municipality confirmed by the cited source; current access is not guaranteed.",
+    "sources": {
+      "identity": {
+        "sourceName": "Theo’s — Baking Studio North Grove visitor information",
+        "sourceUrl": "https://www.theosrestaurantandbakery.com/bakingstudiobytheos",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Theo’s — Baking Studio North Grove visitor information",
+        "sourceUrl": "https://www.theosrestaurantandbakery.com/bakingstudiobytheos",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": "Theo’s — Baking Studio North Grove visitor information",
+        "sourceUrl": "https://www.theosrestaurantandbakery.com/bakingstudiobytheos",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "iloilo-biscocho-haus",
+    "name": "Original Biscocho Haus — Jaro",
+    "destination_group": "Iloilo",
+    "region": "Western Visayas",
+    "province": "Iloilo",
+    "city_municipality": "Iloilo City",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Food & drink",
+    "description": "A bakery and delicacy shop in Jaro.",
+    "interests": [
+      "Food Hunter"
+    ],
+    "itinerary_base_slug": "iloilo",
+    "catalog_stop_id": "iloilo-biscocho-haus",
+    "status": "accepted",
+    "decision_reason": "Named physical place and actual municipality confirmed by the cited source; current access is not guaranteed.",
+    "sources": {
+      "identity": {
+        "sourceName": "Original Biscocho Haus — official Jaro store reference",
+        "sourceUrl": "https://biscochohaus.com/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Original Biscocho Haus — official Jaro store reference",
+        "sourceUrl": "https://biscochohaus.com/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "iloilo-economic-history-museum",
+    "name": "Museum of Philippine Economic History",
+    "destination_group": "Iloilo",
+    "region": "Western Visayas",
+    "province": "Iloilo",
+    "city_municipality": "Iloilo City",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Culture",
+    "description": "Museum galleries exploring the country’s economic history.",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "itinerary_base_slug": "iloilo",
+    "catalog_stop_id": "iloilo-economic-history-museum",
+    "status": "accepted",
+    "decision_reason": "Named physical place and actual municipality confirmed by the cited source; current access is not guaranteed.",
+    "sources": {
+      "identity": {
+        "sourceName": "Regional Statistics Committee VI — tourism attractions table",
+        "sourceUrl": "https://rsc6.gov.ph/wp-content/uploads/2024/10/WV-RSET-Chapter-8-TOURISM.pdf",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Regional Statistics Committee VI — tourism attractions table",
+        "sourceUrl": "https://rsc6.gov.ph/wp-content/uploads/2024/10/WV-RSET-Chapter-8-TOURISM.pdf",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "iloilo-miagao-church",
+    "name": "Miagao Church",
+    "destination_group": "Iloilo",
+    "region": "Western Visayas",
+    "province": "Iloilo",
+    "city_municipality": "Miagao",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Culture",
+    "description": "A heritage church in Miagao.",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "itinerary_base_slug": null,
+    "catalog_stop_id": null,
+    "status": "accepted",
+    "decision_reason": "Named physical place and actual municipality confirmed by the cited source; current access is not guaranteed.",
+    "sources": {
+      "identity": {
+        "sourceName": "Iloilo Provincial Government — First District heritage sites",
+        "sourceUrl": "https://www.iloilo.gov.ph/1st-district",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Iloilo Provincial Government — First District heritage sites",
+        "sourceUrl": "https://www.iloilo.gov.ph/1st-district",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "iloilo-san-joaquin-church",
+    "name": "San Joaquin Church",
+    "destination_group": "Iloilo",
+    "region": "Western Visayas",
+    "province": "Iloilo",
+    "city_municipality": "San Joaquin",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Culture",
+    "description": "A historic parish church in San Joaquin.",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "itinerary_base_slug": null,
+    "catalog_stop_id": null,
+    "status": "accepted",
+    "decision_reason": "Named physical place and actual municipality confirmed by the cited source; current access is not guaranteed.",
+    "sources": {
+      "identity": {
+        "sourceName": "Iloilo Provincial Government — First District heritage sites",
+        "sourceUrl": "https://www.iloilo.gov.ph/1st-district",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Iloilo Provincial Government — First District heritage sites",
+        "sourceUrl": "https://www.iloilo.gov.ph/1st-district",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "iloilo-bucari-pine-forest",
+    "name": "Bucari Pine Forest",
+    "destination_group": "Iloilo",
+    "region": "Western Visayas",
+    "province": "Iloilo",
+    "city_municipality": "Leon",
+    "barangay": "Bucari",
+    "address": "Sitio Tabionan, Barangay Bucari, Leon, Iloilo",
+    "latitude": null,
+    "longitude": null,
+    "category": "Nature",
+    "description": "A pine-forest visitor destination in the Leon uplands.",
+    "interests": [
+      "Nature Lover",
+      "Slow Traveler"
+    ],
+    "itinerary_base_slug": null,
+    "catalog_stop_id": null,
+    "status": "accepted",
+    "decision_reason": "Named physical place and actual municipality confirmed by the cited source; current access is not guaranteed.",
+    "sources": {
+      "identity": {
+        "sourceName": "Philippine News Agency — Bucari Pine Forest, Leon",
+        "sourceUrl": "https://www.pna.gov.ph/articles/1066964",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Iloilo Provincial Government — Leon",
+        "sourceUrl": "https://www.iloilo.gov.ph/en/node/162",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": "Philippine News Agency — Bucari Pine Forest, Leon",
+        "sourceUrl": "https://www.pna.gov.ph/articles/1066964",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "iloilo-molo-neighborhood-food-stop",
+    "name": "Molo neighborhood food stop",
+    "destination_group": "Iloilo",
+    "region": "Western Visayas",
+    "province": "Iloilo",
+    "city_municipality": null,
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Food & drink",
+    "description": "Legacy flexible meal slot without a named venue.",
+    "interests": [
+      "Food Hunter"
+    ],
+    "itinerary_base_slug": null,
+    "catalog_stop_id": null,
+    "status": "rejected",
+    "decision_reason": "Generic meal placeholder; not a distinct physical venue.",
+    "sources": {
+      "identity": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "municipality": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "iloilo-gigantes-island-hopping",
+    "name": "Gigantes island-hopping tour",
+    "destination_group": "Iloilo",
+    "region": "Western Visayas",
+    "province": "Iloilo",
+    "city_municipality": null,
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Attractions",
+    "description": "A multi-island boat-excursion concept.",
+    "interests": [
+      "Nature Lover",
+      "Slow Traveler"
+    ],
+    "itinerary_base_slug": null,
+    "catalog_stop_id": null,
+    "status": "rejected",
+    "decision_reason": "Tour/package concept rather than one uniquely identified physical place.",
+    "sources": {
+      "identity": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "municipality": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "iloilo-guimaras-island",
+    "name": "Guimaras Island",
+    "destination_group": "Iloilo",
+    "region": "Western Visayas",
+    "province": "Guimaras",
+    "city_municipality": null,
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Nature",
+    "description": "An island province distinct from Iloilo.",
+    "interests": [
+      "Nature Lover",
+      "Slow Traveler"
+    ],
+    "itinerary_base_slug": null,
+    "catalog_stop_id": null,
+    "status": "rejected",
+    "decision_reason": "Outside the Iloilo province directory group; Guimaras is a separate province.",
+    "sources": {
+      "identity": {
+        "sourceName": "Provincial Government of Guimaras — province identity",
+        "sourceUrl": "https://guimaras.gov.ph/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "iloilo-tangke-lagoon",
+    "name": "Tangke Saltwater Lagoon",
+    "destination_group": "Iloilo",
+    "region": "Western Visayas",
+    "province": "Iloilo",
+    "city_municipality": null,
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Nature",
+    "description": "A lagoon candidate in the Gigantes islands.",
+    "interests": [
+      "Nature Lover",
+      "Slow Traveler"
+    ],
+    "itinerary_base_slug": null,
+    "catalog_stop_id": null,
+    "status": "unresolved",
+    "decision_reason": "Historical access-restriction reports surfaced, but this session did not obtain sufficient municipality/current-access evidence for acceptance.",
+    "sources": {
+      "identity": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "municipality": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "cebu-cebu-heritage-food-break",
+    "name": "Cebu heritage food break",
+    "destination_group": "Cebu",
+    "region": "Central Visayas",
+    "province": "Cebu",
+    "city_municipality": null,
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Food & drink",
+    "description": "Legacy flexible meal slot without a named venue.",
+    "interests": [],
+    "itinerary_base_slug": null,
+    "catalog_stop_id": null,
+    "status": "rejected",
+    "decision_reason": "Generic meal placeholder; not a distinct physical venue.",
+    "sources": {
+      "identity": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "municipality": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "cebu-moalboal-coast",
+    "name": "Moalboal coast",
+    "destination_group": "Cebu",
+    "region": "Central Visayas",
+    "province": "Cebu",
+    "city_municipality": null,
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Nature",
+    "description": "A broad municipal coastal-area concept.",
+    "interests": [],
+    "itinerary_base_slug": null,
+    "catalog_stop_id": null,
+    "status": "rejected",
+    "decision_reason": "A municipality-wide coastal label without a specific identified attraction; not counted as an additional physical spot.",
+    "sources": {
+      "identity": {
+        "sourceName": "Province of Cebu — heritage and attractions",
+        "sourceUrl": "https://www.cebu.gov.ph/about/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "cebu-sirao-flower-gardens-candidate",
+    "name": "Sirao Flower Gardens — ambiguous candidate",
+    "destination_group": "Cebu",
+    "region": "Central Visayas",
+    "province": "Cebu",
+    "city_municipality": null,
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Nature",
+    "description": "A broad name used for Sirao garden attractions.",
+    "interests": [],
+    "itinerary_base_slug": null,
+    "catalog_stop_id": null,
+    "status": "unresolved",
+    "decision_reason": "The plural garden label does not distinguish a second physical venue from accepted Sirao Garden.",
+    "sources": {
+      "identity": {
+        "sourceName": "Province of Cebu — heritage and attractions",
+        "sourceUrl": "https://www.cebu.gov.ph/about/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "cebu-lapulapu-memorial-museum",
+    "name": "Lapulapu Memorial Shrine and Museum",
+    "destination_group": "Cebu",
+    "region": "Central Visayas",
+    "province": "Cebu",
+    "city_municipality": null,
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Culture",
+    "description": "A proposed museum-project candidate.",
+    "interests": [],
+    "itinerary_base_slug": null,
+    "catalog_stop_id": null,
+    "status": "unresolved",
+    "decision_reason": "Reviewed material describes a proposed project; a separate completed visitor venue was not established.",
+    "sources": {
+      "identity": {
+        "sourceName": "Wikipedia — proposed Lapulapu Memorial Shrine and Museum",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Lapulapu_Memorial_Shrine_and_Museum",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  }
+]

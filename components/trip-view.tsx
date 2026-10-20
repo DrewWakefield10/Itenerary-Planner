@@ -720,6 +720,9 @@ export default function TripView() {
                       </span>
                       <details className="activity-details">
                         <summary>Transport, booking & source</summary>
+                        {a.entryPrice && <p>Entry price: {a.entryPrice.amount===null?"Unknown; confirm with the venue.":`${peso(a.entryPrice.amount)} per ${a.entryPrice.basis}`} <SourceIndicator source={a.entryPrice.source} label="Entry price" />. This is separate from the group's planning allowance above.</p>}
+                        {a.visitMode!=="local"&&<p>Separate full-day outing. Confirm transfers, guides, permits and return arrangements. Included stops must not be added or charged again independently.</p>}
+                        {!a.openingHours&&<p>Opening hours are unknown. Confirm access at the planned time.</p>}
                         <p>
                           Weather sensitivities:{" "}
                           {a.disruptionSensitivities.length

@@ -1,13 +1,17 @@
+import type {DirectoryCandidate} from "./catalog/directory-schema";
 import type { SourceMetadata } from "./sources";
 
 export type DiscoveryPlace = {
   id: string;
   kind: "base" | "spot";
   name: string;
-  baseSlug: string;
+  baseSlug: string | null;
+  directory?: DirectoryCandidate;
   category: string;
   /** Exact, reviewed mapping into the itinerary catalog. Never fuzzy-match. */
   stopName?: string;
+  stopId?: string;
+  interests?: string[];
   description: string;
   reason: string;
   platform:
@@ -19,7 +23,7 @@ export type DiscoveryPlace = {
     | "Other";
   source: SourceMetadata;
   supports: string;
-  reviewedOn: string;
+  reviewedOn: string | null;
   reviewExpiresOn?: string;
   originalPostUrl?: string;
   coordinates?: { lat: number; lng: number; source: SourceMetadata };

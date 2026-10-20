@@ -1,0 +1,3033 @@
+[
+  {
+    "id": "el-nido-nacpan-beach",
+    "baseSlug": "el-nido",
+    "name": "Nacpan Beach",
+    "category": "Beaches",
+    "interests": [
+      "Beach Bum",
+      "Nature Lover"
+    ],
+    "description": "A mainland beach north of El Nido.",
+    "cluster": "nacpan",
+    "lat": 11.32208,
+    "lng": 119.42206,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 300,
+    "outdoor": true,
+    "mode": "excursion",
+    "booking": "Confirm road access and your return vehicle. A beach visit is separate from any island-hopping tour.",
+    "transport": "Reserve a separate excursion block and confirm return transport from the overnight base. Travel time is an estimate.",
+    "locationDetails": "Mainland El Nido; separate road outing from town. Pin is a sourced map reference, not a surveyed entrance or navigation instruction.",
+    "evidence": [
+      {
+        "fields": [
+          "description",
+          "location"
+        ],
+        "sourceName": "Love Philippines — El Nido guide",
+        "sourceUrl": "https://www.philippines.travel/destinations/palawan-el-nido/index",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      },
+      {
+        "fields": [
+          "coordinates"
+        ],
+        "sourceName": "Mapcarta / OpenStreetMap — Nacpan beach reference",
+        "sourceUrl": "https://mapcarta.com/W576119742",
+        "dateChecked": "2026-10-19",
+        "status": "estimate"
+      }
+    ],
+    "aliases": [
+      "Nagpan Beach"
+    ]
+  },
+  {
+    "id": "el-nido-maremegmeg-beach",
+    "baseSlug": "el-nido",
+    "name": "Maremegmeg Beach",
+    "category": "Beaches",
+    "interests": [
+      "Beach Bum",
+      "Nature Lover"
+    ],
+    "description": "Mainland beach also called Las Cabañas.",
+    "cluster": "corong-corong",
+    "lat": 11.14689,
+    "lng": 119.39696,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 120,
+    "outdoor": true,
+    "mode": "local",
+    "booking": "Check current admission, opening hours, and access with the venue. No booking is made by Lakbay.",
+    "transport": "Arrange local transport; the route, fare, and travel time have not been verified.",
+    "locationDetails": "South of El Nido town. Pin is a sourced map reference, not a surveyed entrance or navigation instruction.",
+    "evidence": [
+      {
+        "fields": [
+          "description",
+          "location"
+        ],
+        "sourceName": "Love Philippines — El Nido guide",
+        "sourceUrl": "https://www.philippines.travel/destinations/palawan-el-nido/index",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      },
+      {
+        "fields": [
+          "coordinates"
+        ],
+        "sourceName": "Mapcarta / OpenStreetMap — Marimegmeg beach reference",
+        "sourceUrl": "https://mapcarta.com/N12506433601",
+        "dateChecked": "2026-10-19",
+        "status": "estimate"
+      }
+    ],
+    "aliases": [
+      "Marimegmeg Beach",
+      "Las Cabañas Beach",
+      "Las Cabanas Beach"
+    ]
+  },
+  {
+    "id": "el-nido-duli-beach",
+    "baseSlug": "el-nido",
+    "name": "Duli Beach",
+    "category": "Beaches",
+    "interests": [
+      "Beach Bum",
+      "Nature Lover"
+    ],
+    "description": "Beach at Sitio Duli, Barangay Bucana.",
+    "cluster": "duli",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 360,
+    "outdoor": true,
+    "mode": "excursion",
+    "booking": "Arrange a separate mainland outing; confirm current beach access and return transport with the local host.",
+    "transport": "Reserve a separate excursion block and confirm return transport from the overnight base. Travel time is an estimate.",
+    "locationDetails": "Barangay Bucana, El Nido.",
+    "evidence": [
+      {
+        "fields": [
+          "description",
+          "location"
+        ],
+        "sourceName": "Duli Beach Resort — location",
+        "sourceUrl": "https://dulibeach.com/contact/",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      }
+    ]
+  },
+  {
+    "id": "el-nido-nagkalit-kalit-falls",
+    "baseSlug": "el-nido",
+    "name": "Nagkalit-kalit Falls",
+    "category": "Adventure",
+    "interests": [
+      "Adventure Junkie",
+      "Nature Lover"
+    ],
+    "description": "Waterfall reached by an inland trail.",
+    "cluster": "pasadena",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 300,
+    "outdoor": true,
+    "mode": "excursion",
+    "booking": "Confirm trail access and local guide arrangements before departure. Stream crossings and weather can affect access.",
+    "transport": "Reserve a separate excursion block and confirm return transport from the overnight base. Travel time is an estimate.",
+    "locationDetails": "Off the road toward Nacpan.",
+    "evidence": [
+      {
+        "fields": [
+          "description",
+          "location"
+        ],
+        "sourceName": "Lonely Planet — Nagkalit-kalit Waterfalls",
+        "sourceUrl": "https://www.lonelyplanet.com/points-of-interest/nagkalit-kalit-waterfalls/1502041",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      }
+    ]
+  },
+  {
+    "id": "el-nido-seven-commandos-beach",
+    "baseSlug": "el-nido",
+    "name": "Seven Commandos Beach",
+    "category": "Beaches",
+    "interests": [
+      "Beach Bum",
+      "Nature Lover"
+    ],
+    "description": "Beach included in the Tour A route.",
+    "cluster": "boat",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 60,
+    "outdoor": true,
+    "mode": "excursion",
+    "booking": "Browse this place as a tour component. Choose the linked package rather than scheduling or charging the component separately. Confirm the actual operator route and access.",
+    "transport": "Reached as part of an operator-arranged boat trip; this is not a local road stop. Confirm departure point, current conditions, and return arrangements.",
+    "locationDetails": "Bacuit Bay boat-tour area.",
+    "evidence": [
+      {
+        "fields": [
+          "description",
+          "location"
+        ],
+        "sourceName": "Discover El Nido — Tour A",
+        "sourceUrl": "https://www.discoverelnido.com/tours/tour-a/",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      }
+    ],
+    "componentOf": [
+      "el-nido-tour-a"
+    ],
+    "aliases": [
+      "7 Commando Beach",
+      "Seven Commando Beach"
+    ]
+  },
+  {
+    "id": "el-nido-shimizu-island",
+    "baseSlug": "el-nido",
+    "name": "Shimizu Island",
+    "category": "Nature",
+    "interests": [
+      "Nature Lover",
+      "Slow Traveler"
+    ],
+    "description": "Island included in Tour A.",
+    "cluster": "boat",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 60,
+    "outdoor": true,
+    "mode": "excursion",
+    "booking": "Browse this place as a tour component. Choose the linked package rather than scheduling or charging the component separately. Confirm the actual operator route and access.",
+    "transport": "Reached as part of an operator-arranged boat trip; this is not a local road stop. Confirm departure point, current conditions, and return arrangements.",
+    "locationDetails": "Bacuit Bay boat-tour area.",
+    "evidence": [
+      {
+        "fields": [
+          "description",
+          "location"
+        ],
+        "sourceName": "Discover El Nido — Tour A",
+        "sourceUrl": "https://www.discoverelnido.com/tours/tour-a/",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      }
+    ],
+    "componentOf": [
+      "el-nido-tour-a"
+    ],
+    "aliases": []
+  },
+  {
+    "id": "el-nido-secret-lagoon",
+    "baseSlug": "el-nido",
+    "name": "Secret Lagoon",
+    "category": "Nature",
+    "interests": [
+      "Nature Lover",
+      "Slow Traveler"
+    ],
+    "description": "Lagoon included in Tour A.",
+    "cluster": "boat",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 60,
+    "outdoor": true,
+    "mode": "excursion",
+    "booking": "Browse this place as a tour component. Choose the linked package rather than scheduling or charging the component separately. Confirm the actual operator route and access.",
+    "transport": "Reached as part of an operator-arranged boat trip; this is not a local road stop. Confirm departure point, current conditions, and return arrangements.",
+    "locationDetails": "Bacuit Bay boat-tour area.",
+    "evidence": [
+      {
+        "fields": [
+          "description",
+          "location"
+        ],
+        "sourceName": "Discover El Nido — Tour A",
+        "sourceUrl": "https://www.discoverelnido.com/tours/tour-a/",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      }
+    ],
+    "componentOf": [
+      "el-nido-tour-a"
+    ],
+    "aliases": []
+  },
+  {
+    "id": "el-nido-snake-island",
+    "baseSlug": "el-nido",
+    "name": "Snake Island",
+    "category": "Nature",
+    "interests": [
+      "Nature Lover",
+      "Slow Traveler"
+    ],
+    "description": "Sandbar stop on Tour B.",
+    "cluster": "boat",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 60,
+    "outdoor": true,
+    "mode": "excursion",
+    "booking": "Browse this place as a tour component. Choose the linked package rather than scheduling or charging the component separately. Confirm the actual operator route and access.",
+    "transport": "Reached as part of an operator-arranged boat trip; this is not a local road stop. Confirm departure point, current conditions, and return arrangements.",
+    "locationDetails": "Bacuit Bay boat-tour area.",
+    "evidence": [
+      {
+        "fields": [
+          "description",
+          "location"
+        ],
+        "sourceName": "Discover El Nido — Tour B",
+        "sourceUrl": "https://www.discoverelnido.com/tours/tour-b/",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      }
+    ],
+    "componentOf": [
+      "el-nido-tour-b"
+    ],
+    "aliases": []
+  },
+  {
+    "id": "el-nido-cudugnon-cave",
+    "baseSlug": "el-nido",
+    "name": "Cudugnon Cave",
+    "category": "Culture",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "description": "Cave stop included in Tour B.",
+    "cluster": "boat",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 60,
+    "outdoor": true,
+    "mode": "excursion",
+    "booking": "Browse this place as a tour component. Choose the linked package rather than scheduling or charging the component separately. Confirm the actual operator route and access.",
+    "transport": "Reached as part of an operator-arranged boat trip; this is not a local road stop. Confirm departure point, current conditions, and return arrangements.",
+    "locationDetails": "Bacuit Bay boat-tour area.",
+    "evidence": [
+      {
+        "fields": [
+          "description",
+          "location"
+        ],
+        "sourceName": "Discover El Nido — Tour B",
+        "sourceUrl": "https://www.discoverelnido.com/tours/tour-b/",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      }
+    ],
+    "componentOf": [
+      "el-nido-tour-b"
+    ],
+    "aliases": []
+  },
+  {
+    "id": "el-nido-cathedral-cave",
+    "baseSlug": "el-nido",
+    "name": "Cathedral Cave",
+    "category": "Nature",
+    "interests": [
+      "Nature Lover",
+      "Slow Traveler"
+    ],
+    "description": "Cave stop included in Tour B.",
+    "cluster": "boat",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 60,
+    "outdoor": true,
+    "mode": "excursion",
+    "booking": "Browse this place as a tour component. Choose the linked package rather than scheduling or charging the component separately. Confirm the actual operator route and access.",
+    "transport": "Reached as part of an operator-arranged boat trip; this is not a local road stop. Confirm departure point, current conditions, and return arrangements.",
+    "locationDetails": "Bacuit Bay boat-tour area.",
+    "evidence": [
+      {
+        "fields": [
+          "description",
+          "location"
+        ],
+        "sourceName": "Discover El Nido — Tour B",
+        "sourceUrl": "https://www.discoverelnido.com/tours/tour-b/",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      }
+    ],
+    "componentOf": [
+      "el-nido-tour-b"
+    ],
+    "aliases": []
+  },
+  {
+    "id": "el-nido-entalula-beach",
+    "baseSlug": "el-nido",
+    "name": "Entalula Beach",
+    "category": "Beaches",
+    "interests": [
+      "Beach Bum",
+      "Nature Lover"
+    ],
+    "description": "Beach stop included in Tour B.",
+    "cluster": "boat",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 60,
+    "outdoor": true,
+    "mode": "excursion",
+    "booking": "Browse this place as a tour component. Choose the linked package rather than scheduling or charging the component separately. Confirm the actual operator route and access.",
+    "transport": "Reached as part of an operator-arranged boat trip; this is not a local road stop. Confirm departure point, current conditions, and return arrangements.",
+    "locationDetails": "Bacuit Bay boat-tour area.",
+    "evidence": [
+      {
+        "fields": [
+          "description",
+          "location"
+        ],
+        "sourceName": "Discover El Nido — Tour B",
+        "sourceUrl": "https://www.discoverelnido.com/tours/tour-b/",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      }
+    ],
+    "componentOf": [
+      "el-nido-tour-b"
+    ],
+    "aliases": []
+  },
+  {
+    "id": "el-nido-hidden-beach",
+    "baseSlug": "el-nido",
+    "name": "Hidden Beach",
+    "category": "Beaches",
+    "interests": [
+      "Beach Bum",
+      "Nature Lover"
+    ],
+    "description": "Beach stop included in Tour C.",
+    "cluster": "boat",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 60,
+    "outdoor": true,
+    "mode": "excursion",
+    "booking": "Browse this place as a tour component. Choose the linked package rather than scheduling or charging the component separately. Confirm the actual operator route and access.",
+    "transport": "Reached as part of an operator-arranged boat trip; this is not a local road stop. Confirm departure point, current conditions, and return arrangements.",
+    "locationDetails": "Bacuit Bay boat-tour area.",
+    "evidence": [
+      {
+        "fields": [
+          "description",
+          "location"
+        ],
+        "sourceName": "Discover El Nido — Tour C",
+        "sourceUrl": "https://www.discoverelnido.com/tours/tour-c/",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      }
+    ],
+    "componentOf": [
+      "el-nido-tour-c"
+    ],
+    "aliases": []
+  },
+  {
+    "id": "el-nido-secret-beach",
+    "baseSlug": "el-nido",
+    "name": "Secret Beach",
+    "category": "Beaches",
+    "interests": [
+      "Beach Bum",
+      "Nature Lover"
+    ],
+    "description": "Beach stop included in Tour C.",
+    "cluster": "boat",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 60,
+    "outdoor": true,
+    "mode": "excursion",
+    "booking": "Browse this place as a tour component. Choose the linked package rather than scheduling or charging the component separately. Confirm the actual operator route and access.",
+    "transport": "Reached as part of an operator-arranged boat trip; this is not a local road stop. Confirm departure point, current conditions, and return arrangements.",
+    "locationDetails": "Bacuit Bay boat-tour area.",
+    "evidence": [
+      {
+        "fields": [
+          "description",
+          "location"
+        ],
+        "sourceName": "Discover El Nido — Tour C",
+        "sourceUrl": "https://www.discoverelnido.com/tours/tour-c/",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      }
+    ],
+    "componentOf": [
+      "el-nido-tour-c"
+    ],
+    "aliases": []
+  },
+  {
+    "id": "el-nido-helicopter-island",
+    "baseSlug": "el-nido",
+    "name": "Helicopter Island",
+    "category": "Nature",
+    "interests": [
+      "Nature Lover",
+      "Slow Traveler"
+    ],
+    "description": "Island stop included in Tour C.",
+    "cluster": "boat",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 60,
+    "outdoor": true,
+    "mode": "excursion",
+    "booking": "Browse this place as a tour component. Choose the linked package rather than scheduling or charging the component separately. Confirm the actual operator route and access.",
+    "transport": "Reached as part of an operator-arranged boat trip; this is not a local road stop. Confirm departure point, current conditions, and return arrangements.",
+    "locationDetails": "Bacuit Bay boat-tour area.",
+    "evidence": [
+      {
+        "fields": [
+          "description",
+          "location"
+        ],
+        "sourceName": "Discover El Nido — Tour C",
+        "sourceUrl": "https://www.discoverelnido.com/tours/tour-c/",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      }
+    ],
+    "componentOf": [
+      "el-nido-tour-c"
+    ],
+    "aliases": []
+  },
+  {
+    "id": "el-nido-small-lagoon",
+    "baseSlug": "el-nido",
+    "name": "Small Lagoon",
+    "category": "Nature",
+    "interests": [
+      "Nature Lover",
+      "Slow Traveler"
+    ],
+    "description": "Lagoon included in Tour D.",
+    "cluster": "boat",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 60,
+    "outdoor": true,
+    "mode": "excursion",
+    "booking": "Browse this place as a tour component. Choose the linked package rather than scheduling or charging the component separately. Confirm the actual operator route and access.",
+    "transport": "Reached as part of an operator-arranged boat trip; this is not a local road stop. Confirm departure point, current conditions, and return arrangements.",
+    "locationDetails": "Bacuit Bay boat-tour area.",
+    "evidence": [
+      {
+        "fields": [
+          "description",
+          "location"
+        ],
+        "sourceName": "Discover El Nido — Tour D",
+        "sourceUrl": "https://www.discoverelnido.com/tours/tour-d/",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      }
+    ],
+    "componentOf": [
+      "el-nido-tour-d"
+    ],
+    "aliases": []
+  },
+  {
+    "id": "el-nido-cadlao-lagoon",
+    "baseSlug": "el-nido",
+    "name": "Cadlao Lagoon",
+    "category": "Nature",
+    "interests": [
+      "Nature Lover",
+      "Slow Traveler"
+    ],
+    "description": "Lagoon included in Tour D.",
+    "cluster": "boat",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 60,
+    "outdoor": true,
+    "mode": "excursion",
+    "booking": "Browse this place as a tour component. Choose the linked package rather than scheduling or charging the component separately. Confirm the actual operator route and access.",
+    "transport": "Reached as part of an operator-arranged boat trip; this is not a local road stop. Confirm departure point, current conditions, and return arrangements.",
+    "locationDetails": "Bacuit Bay boat-tour area.",
+    "evidence": [
+      {
+        "fields": [
+          "description",
+          "location"
+        ],
+        "sourceName": "Discover El Nido — Tour D",
+        "sourceUrl": "https://www.discoverelnido.com/tours/tour-d/",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      }
+    ],
+    "componentOf": [
+      "el-nido-tour-d"
+    ],
+    "aliases": []
+  },
+  {
+    "id": "el-nido-tour-a",
+    "baseSlug": "el-nido",
+    "name": "El Nido Tour A — boat-day package",
+    "category": "Adventure",
+    "interests": [
+      "Adventure Junkie",
+      "Nature Lover"
+    ],
+    "description": "Operator-listed island-hopping route.",
+    "cluster": "boat",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 480,
+    "outdoor": true,
+    "mode": "package",
+    "booking": "Request a dated package quote including permits, equipment, lunch, and return arrangements. Listed places are components, not separate tickets or visits. Routes may change; the package has not been booked.",
+    "transport": "Reached as part of an operator-arranged boat trip; this is not a local road stop. Confirm departure point, current conditions, and return arrangements.",
+    "locationDetails": "Boat excursion from the El Nido base.",
+    "evidence": [
+      {
+        "fields": [
+          "description",
+          "location"
+        ],
+        "sourceName": "Discover El Nido — Tour A",
+        "sourceUrl": "https://www.discoverelnido.com/tours/tour-a/",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      }
+    ],
+    "includes": [
+      "el-nido-big-lagoon",
+      "el-nido-secret-lagoon",
+      "el-nido-shimizu-island",
+      "el-nido-seven-commandos-beach"
+    ]
+  },
+  {
+    "id": "el-nido-tour-b",
+    "baseSlug": "el-nido",
+    "name": "El Nido Tour B — boat-day package",
+    "category": "Adventure",
+    "interests": [
+      "Adventure Junkie",
+      "Nature Lover"
+    ],
+    "description": "Operator-listed island-hopping route.",
+    "cluster": "boat",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 480,
+    "outdoor": true,
+    "mode": "package",
+    "booking": "Request a dated package quote including permits, equipment, lunch, and return arrangements. Listed places are components, not separate tickets or visits. Routes may change; the package has not been booked.",
+    "transport": "Reached as part of an operator-arranged boat trip; this is not a local road stop. Confirm departure point, current conditions, and return arrangements.",
+    "locationDetails": "Boat excursion from the El Nido base.",
+    "evidence": [
+      {
+        "fields": [
+          "description",
+          "location"
+        ],
+        "sourceName": "Discover El Nido — Tour B",
+        "sourceUrl": "https://www.discoverelnido.com/tours/tour-b/",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      }
+    ],
+    "includes": [
+      "el-nido-entalula-beach",
+      "el-nido-snake-island",
+      "el-nido-cudugnon-cave",
+      "el-nido-cathedral-cave"
+    ]
+  },
+  {
+    "id": "el-nido-tour-c",
+    "baseSlug": "el-nido",
+    "name": "El Nido Tour C — boat-day package",
+    "category": "Adventure",
+    "interests": [
+      "Adventure Junkie",
+      "Nature Lover"
+    ],
+    "description": "Operator-listed island-hopping route.",
+    "cluster": "boat",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 480,
+    "outdoor": true,
+    "mode": "package",
+    "booking": "Request a dated package quote including permits, equipment, lunch, and return arrangements. Listed places are components, not separate tickets or visits. Routes may change; the package has not been booked.",
+    "transport": "Reached as part of an operator-arranged boat trip; this is not a local road stop. Confirm departure point, current conditions, and return arrangements.",
+    "locationDetails": "Boat excursion from the El Nido base.",
+    "evidence": [
+      {
+        "fields": [
+          "description",
+          "location"
+        ],
+        "sourceName": "Discover El Nido — Tour C",
+        "sourceUrl": "https://www.discoverelnido.com/tours/tour-c/",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      }
+    ],
+    "includes": [
+      "el-nido-hidden-beach",
+      "el-nido-secret-beach",
+      "el-nido-helicopter-island"
+    ]
+  },
+  {
+    "id": "el-nido-tour-d",
+    "baseSlug": "el-nido",
+    "name": "El Nido Tour D — boat-day package",
+    "category": "Adventure",
+    "interests": [
+      "Adventure Junkie",
+      "Nature Lover"
+    ],
+    "description": "Operator-listed island-hopping route.",
+    "cluster": "boat",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 480,
+    "outdoor": true,
+    "mode": "package",
+    "booking": "Request a dated package quote including permits, equipment, lunch, and return arrangements. Listed places are components, not separate tickets or visits. Routes may change; the package has not been booked.",
+    "transport": "Reached as part of an operator-arranged boat trip; this is not a local road stop. Confirm departure point, current conditions, and return arrangements.",
+    "locationDetails": "Boat excursion from the El Nido base.",
+    "evidence": [
+      {
+        "fields": [
+          "description",
+          "location"
+        ],
+        "sourceName": "Discover El Nido — Tour D",
+        "sourceUrl": "https://www.discoverelnido.com/tours/tour-d/",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      }
+    ],
+    "includes": [
+      "el-nido-small-lagoon",
+      "el-nido-cadlao-lagoon"
+    ]
+  },
+  {
+    "id": "coron-saint-augustine-parish",
+    "baseSlug": "coron",
+    "name": "Saint Augustine Parish Church",
+    "category": "Culture",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "description": "Parish church included in town tours.",
+    "cluster": "waterfront",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 45,
+    "outdoor": false,
+    "mode": "local",
+    "booking": "Check current admission, opening hours, and access with the venue. No booking is made by Lakbay.",
+    "transport": "Arrange local transport; the route, fare, and travel time have not been verified.",
+    "locationDetails": "Coron town, Busuanga Island.",
+    "evidence": [
+      {
+        "fields": [
+          "description",
+          "location"
+        ],
+        "sourceName": "I Capture Travel — Coron tour routes",
+        "sourceUrl": "https://www.corontravel.com/coron",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      }
+    ],
+    "aliases": [
+      "St. Augustine Parish Church"
+    ]
+  },
+  {
+    "id": "coron-maquinit-hot-springs",
+    "baseSlug": "coron",
+    "name": "Maquinit Hot Springs",
+    "category": "Nature",
+    "interests": [
+      "Nature Lover",
+      "Slow Traveler"
+    ],
+    "description": "Hot-spring destination outside Coron town.",
+    "cluster": "maquinit",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 240,
+    "outdoor": true,
+    "mode": "excursion",
+    "booking": "Confirm admission and return transport. Hot-water bathing suitability and accessible routes have not been verified.",
+    "transport": "Reserve a separate excursion block and confirm return transport from the overnight base. Travel time is an estimate.",
+    "locationDetails": "Road outing from Coron town.",
+    "evidence": [
+      {
+        "fields": [
+          "description",
+          "location"
+        ],
+        "sourceName": "Department of Tourism — Coron",
+        "sourceUrl": "https://www.tourism.gov.ph/destination/mimaropa/coron/",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      }
+    ]
+  },
+  {
+    "id": "coron-kayangan-lake",
+    "baseSlug": "coron",
+    "name": "Kayangan Lake",
+    "category": "Nature",
+    "interests": [
+      "Nature Lover",
+      "Slow Traveler"
+    ],
+    "description": "Lake on an operator-listed boat route.",
+    "cluster": "boat",
+    "lat": 11.9541,
+    "lng": 120.2243,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 60,
+    "outdoor": true,
+    "mode": "excursion",
+    "booking": "Browse this place as a tour component. Choose the linked package rather than scheduling or charging the component separately. Confirm the actual operator route and access.",
+    "transport": "Reached as part of an operator-arranged boat trip; this is not a local road stop. Confirm departure point, current conditions, and return arrangements.",
+    "locationDetails": "Offshore excursion from Coron town. Pin is a sourced map reference, not a surveyed entrance or navigation instruction.",
+    "evidence": [
+      {
+        "fields": [
+          "description",
+          "location"
+        ],
+        "sourceName": "I Capture Travel — Coron tour routes",
+        "sourceUrl": "https://www.corontravel.com/coron",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      },
+      {
+        "fields": [
+          "coordinates"
+        ],
+        "sourceName": "Wikipedia — Kayangan Lake reference coordinates",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Kayangan_Lake",
+        "dateChecked": "2026-10-19",
+        "status": "estimate"
+      }
+    ],
+    "componentOf": [
+      "coron-super-ultimate",
+      "coron-tour-a"
+    ]
+  },
+  {
+    "id": "coron-barracuda-lake",
+    "baseSlug": "coron",
+    "name": "Barracuda Lake",
+    "category": "Nature",
+    "interests": [
+      "Nature Lover",
+      "Slow Traveler"
+    ],
+    "description": "Lake on an operator-listed boat route.",
+    "cluster": "boat",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 60,
+    "outdoor": true,
+    "mode": "excursion",
+    "booking": "Browse this place as a tour component. Choose the linked package rather than scheduling or charging the component separately. Confirm the actual operator route and access.",
+    "transport": "Reached as part of an operator-arranged boat trip; this is not a local road stop. Confirm departure point, current conditions, and return arrangements.",
+    "locationDetails": "Offshore Coron waters.",
+    "evidence": [
+      {
+        "fields": [
+          "description",
+          "location"
+        ],
+        "sourceName": "I Capture Travel — Coron tour routes",
+        "sourceUrl": "https://www.corontravel.com/coron",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      }
+    ],
+    "componentOf": [
+      "coron-super-ultimate"
+    ]
+  },
+  {
+    "id": "coron-twin-lagoon",
+    "baseSlug": "coron",
+    "name": "Twin Lagoon",
+    "category": "Nature",
+    "interests": [
+      "Nature Lover",
+      "Slow Traveler"
+    ],
+    "description": "Lagoon on an operator-listed boat route.",
+    "cluster": "boat",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 60,
+    "outdoor": true,
+    "mode": "excursion",
+    "booking": "Browse this place as a tour component. Choose the linked package rather than scheduling or charging the component separately. Confirm the actual operator route and access.",
+    "transport": "Reached as part of an operator-arranged boat trip; this is not a local road stop. Confirm departure point, current conditions, and return arrangements.",
+    "locationDetails": "Offshore Coron waters.",
+    "evidence": [
+      {
+        "fields": [
+          "description",
+          "location"
+        ],
+        "sourceName": "I Capture Travel — Coron tour routes",
+        "sourceUrl": "https://www.corontravel.com/coron",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      }
+    ],
+    "componentOf": [
+      "coron-super-ultimate"
+    ]
+  },
+  {
+    "id": "coron-skeleton-wreck",
+    "baseSlug": "coron",
+    "name": "Skeleton Wreck",
+    "category": "Adventure",
+    "interests": [
+      "Adventure Junkie",
+      "Nature Lover"
+    ],
+    "description": "Wreck stop on an operator-listed route.",
+    "cluster": "boat",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 60,
+    "outdoor": true,
+    "mode": "excursion",
+    "booking": "Browse this place as a tour component. Choose the linked package rather than scheduling or charging the component separately. Confirm the actual operator route and access.",
+    "transport": "Reached as part of an operator-arranged boat trip; this is not a local road stop. Confirm departure point, current conditions, and return arrangements.",
+    "locationDetails": "Offshore Coron waters.",
+    "evidence": [
+      {
+        "fields": [
+          "description",
+          "location"
+        ],
+        "sourceName": "I Capture Travel — Coron tour routes",
+        "sourceUrl": "https://www.corontravel.com/coron",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      }
+    ],
+    "componentOf": [
+      "coron-super-ultimate"
+    ]
+  },
+  {
+    "id": "coron-malcapuya-island",
+    "baseSlug": "coron",
+    "name": "Malcapuya Island",
+    "category": "Beaches",
+    "interests": [
+      "Beach Bum",
+      "Nature Lover"
+    ],
+    "description": "Island on an Island Escapade route.",
+    "cluster": "boat",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 60,
+    "outdoor": true,
+    "mode": "excursion",
+    "booking": "Browse this place as a tour component. Choose the linked package rather than scheduling or charging the component separately. Confirm the actual operator route and access.",
+    "transport": "Reached as part of an operator-arranged boat trip; this is not a local road stop. Confirm departure point, current conditions, and return arrangements.",
+    "locationDetails": "Offshore Coron waters.",
+    "evidence": [
+      {
+        "fields": [
+          "description",
+          "location"
+        ],
+        "sourceName": "I Capture Travel — Coron tour routes",
+        "sourceUrl": "https://www.corontravel.com/coron",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      }
+    ],
+    "componentOf": [
+      "coron-island-escapade",
+      "coron-island-escapade-c1"
+    ]
+  },
+  {
+    "id": "coron-banana-island",
+    "baseSlug": "coron",
+    "name": "Banana Island",
+    "category": "Beaches",
+    "interests": [
+      "Beach Bum",
+      "Nature Lover"
+    ],
+    "description": "Island on the C2 excursion route.",
+    "cluster": "boat",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 60,
+    "outdoor": true,
+    "mode": "excursion",
+    "booking": "Browse this place as a tour component. Choose the linked package rather than scheduling or charging the component separately. Confirm the actual operator route and access.",
+    "transport": "Reached as part of an operator-arranged boat trip; this is not a local road stop. Confirm departure point, current conditions, and return arrangements.",
+    "locationDetails": "Offshore Coron waters.",
+    "evidence": [
+      {
+        "fields": [
+          "description",
+          "location"
+        ],
+        "sourceName": "I Capture Travel — Coron tour routes",
+        "sourceUrl": "https://www.corontravel.com/coron",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      }
+    ],
+    "componentOf": [
+      "coron-island-escapade"
+    ]
+  },
+  {
+    "id": "coron-bulog-dos-island",
+    "baseSlug": "coron",
+    "name": "Bulog Dos Island",
+    "category": "Beaches",
+    "interests": [
+      "Beach Bum",
+      "Nature Lover"
+    ],
+    "description": "Island on the C2 excursion route.",
+    "cluster": "boat",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 60,
+    "outdoor": true,
+    "mode": "excursion",
+    "booking": "Browse this place as a tour component. Choose the linked package rather than scheduling or charging the component separately. Confirm the actual operator route and access.",
+    "transport": "Reached as part of an operator-arranged boat trip; this is not a local road stop. Confirm departure point, current conditions, and return arrangements.",
+    "locationDetails": "Offshore Coron waters.",
+    "evidence": [
+      {
+        "fields": [
+          "description",
+          "location"
+        ],
+        "sourceName": "I Capture Travel — Coron tour routes",
+        "sourceUrl": "https://www.corontravel.com/coron",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      }
+    ],
+    "componentOf": [
+      "coron-island-escapade"
+    ]
+  },
+  {
+    "id": "coron-ditaytayan-sandbar",
+    "baseSlug": "coron",
+    "name": "Ditaytayan Sandbar",
+    "category": "Nature",
+    "interests": [
+      "Nature Lover",
+      "Slow Traveler"
+    ],
+    "description": "Sandbar on the C1 excursion route.",
+    "cluster": "boat",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 60,
+    "outdoor": true,
+    "mode": "excursion",
+    "booking": "Browse this place as a tour component. Choose the linked package rather than scheduling or charging the component separately. Confirm the actual operator route and access.",
+    "transport": "Reached as part of an operator-arranged boat trip; this is not a local road stop. Confirm departure point, current conditions, and return arrangements.",
+    "locationDetails": "Offshore Coron waters.",
+    "evidence": [
+      {
+        "fields": [
+          "description",
+          "location"
+        ],
+        "sourceName": "I Capture Travel — Coron tour routes",
+        "sourceUrl": "https://www.corontravel.com/coron",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      }
+    ],
+    "componentOf": [
+      "coron-island-escapade-c1"
+    ]
+  },
+  {
+    "id": "coron-cyc-beach",
+    "baseSlug": "coron",
+    "name": "CYC Beach",
+    "category": "Beaches",
+    "interests": [
+      "Beach Bum",
+      "Nature Lover"
+    ],
+    "description": "Beach on the operator’s Tour A.",
+    "cluster": "boat",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 60,
+    "outdoor": true,
+    "mode": "excursion",
+    "booking": "Browse this place as a tour component. Choose the linked package rather than scheduling or charging the component separately. Confirm the actual operator route and access.",
+    "transport": "Reached as part of an operator-arranged boat trip; this is not a local road stop. Confirm departure point, current conditions, and return arrangements.",
+    "locationDetails": "Offshore Coron waters.",
+    "evidence": [
+      {
+        "fields": [
+          "description",
+          "location"
+        ],
+        "sourceName": "I Capture Travel — Coron tour routes",
+        "sourceUrl": "https://www.corontravel.com/coron",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      }
+    ],
+    "componentOf": [
+      "coron-tour-a"
+    ]
+  },
+  {
+    "id": "coron-pass-island",
+    "baseSlug": "coron",
+    "name": "Pass Island",
+    "category": "Beaches",
+    "interests": [
+      "Beach Bum",
+      "Nature Lover"
+    ],
+    "description": "Island on a Reef and Wrecks route.",
+    "cluster": "boat",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 60,
+    "outdoor": true,
+    "mode": "excursion",
+    "booking": "Browse this place as a tour component. Choose the linked package rather than scheduling or charging the component separately. Confirm the actual operator route and access.",
+    "transport": "Reached as part of an operator-arranged boat trip; this is not a local road stop. Confirm departure point, current conditions, and return arrangements.",
+    "locationDetails": "Offshore Coron waters.",
+    "evidence": [
+      {
+        "fields": [
+          "description",
+          "location"
+        ],
+        "sourceName": "I Capture Travel — Coron tour routes",
+        "sourceUrl": "https://www.corontravel.com/coron",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      }
+    ],
+    "componentOf": [
+      "coron-reef-and-wrecks"
+    ]
+  },
+  {
+    "id": "coron-lusong-coral-garden",
+    "baseSlug": "coron",
+    "name": "Lusong Coral Garden",
+    "category": "Nature",
+    "interests": [
+      "Nature Lover",
+      "Slow Traveler"
+    ],
+    "description": "Reef on a Reef and Wrecks route.",
+    "cluster": "boat",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 60,
+    "outdoor": true,
+    "mode": "excursion",
+    "booking": "Browse this place as a tour component. Choose the linked package rather than scheduling or charging the component separately. Confirm the actual operator route and access.",
+    "transport": "Reached as part of an operator-arranged boat trip; this is not a local road stop. Confirm departure point, current conditions, and return arrangements.",
+    "locationDetails": "Offshore Coron waters.",
+    "evidence": [
+      {
+        "fields": [
+          "description",
+          "location"
+        ],
+        "sourceName": "I Capture Travel — Coron tour routes",
+        "sourceUrl": "https://www.corontravel.com/coron",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      }
+    ],
+    "componentOf": [
+      "coron-reef-and-wrecks"
+    ]
+  },
+  {
+    "id": "coron-lusong-gunboat",
+    "baseSlug": "coron",
+    "name": "Lusong Gunboat",
+    "category": "Adventure",
+    "interests": [
+      "Adventure Junkie",
+      "Nature Lover"
+    ],
+    "description": "Wreck on a Reef and Wrecks route.",
+    "cluster": "boat",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 60,
+    "outdoor": true,
+    "mode": "excursion",
+    "booking": "Browse this place as a tour component. Choose the linked package rather than scheduling or charging the component separately. Confirm the actual operator route and access.",
+    "transport": "Reached as part of an operator-arranged boat trip; this is not a local road stop. Confirm departure point, current conditions, and return arrangements.",
+    "locationDetails": "Offshore Coron waters.",
+    "evidence": [
+      {
+        "fields": [
+          "description",
+          "location"
+        ],
+        "sourceName": "I Capture Travel — Coron tour routes",
+        "sourceUrl": "https://www.corontravel.com/coron",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      }
+    ],
+    "componentOf": [
+      "coron-reef-and-wrecks"
+    ]
+  },
+  {
+    "id": "coron-east-tangat-wreck",
+    "baseSlug": "coron",
+    "name": "East Tangat Wreck",
+    "category": "Adventure",
+    "interests": [
+      "Adventure Junkie",
+      "Nature Lover"
+    ],
+    "description": "Wreck on a Reef and Wrecks route.",
+    "cluster": "boat",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 60,
+    "outdoor": true,
+    "mode": "excursion",
+    "booking": "Browse this place as a tour component. Choose the linked package rather than scheduling or charging the component separately. Confirm the actual operator route and access.",
+    "transport": "Reached as part of an operator-arranged boat trip; this is not a local road stop. Confirm departure point, current conditions, and return arrangements.",
+    "locationDetails": "Offshore Coron waters.",
+    "evidence": [
+      {
+        "fields": [
+          "description",
+          "location"
+        ],
+        "sourceName": "I Capture Travel — Coron tour routes",
+        "sourceUrl": "https://www.corontravel.com/coron",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      }
+    ],
+    "componentOf": [
+      "coron-reef-and-wrecks"
+    ]
+  },
+  {
+    "id": "coron-super-ultimate",
+    "baseSlug": "coron",
+    "name": "Coron lake-and-lagoon boat-day package",
+    "category": "Adventure",
+    "interests": [
+      "Adventure Junkie",
+      "Nature Lover"
+    ],
+    "description": "Operator-listed marine excursion.",
+    "cluster": "boat",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 540,
+    "outdoor": true,
+    "mode": "package",
+    "booking": "Choose one excursion package and obtain a dated quote with inclusions and return arrangements. Included places must not be scheduled or charged separately. Exact route, availability, permits, and current conditions require confirmation.",
+    "transport": "Reached as part of an operator-arranged boat trip; this is not a local road stop. Confirm departure point, current conditions, and return arrangements.",
+    "locationDetails": "Departs from the Coron overnight base.",
+    "evidence": [
+      {
+        "fields": [
+          "description",
+          "location"
+        ],
+        "sourceName": "I Capture Travel — Coron tour routes",
+        "sourceUrl": "https://www.corontravel.com/coron",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      }
+    ],
+    "includes": [
+      "coron-kayangan-lake",
+      "coron-barracuda-lake",
+      "coron-twin-lagoon",
+      "coron-skeleton-wreck"
+    ]
+  },
+  {
+    "id": "coron-island-escapade",
+    "baseSlug": "coron",
+    "name": "Coron Island Escapade C2 boat-day package",
+    "category": "Adventure",
+    "interests": [
+      "Adventure Junkie",
+      "Nature Lover"
+    ],
+    "description": "Operator-listed marine excursion.",
+    "cluster": "boat",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 540,
+    "outdoor": true,
+    "mode": "package",
+    "booking": "Choose one excursion package and obtain a dated quote with inclusions and return arrangements. Included places must not be scheduled or charged separately. Exact route, availability, permits, and current conditions require confirmation.",
+    "transport": "Reached as part of an operator-arranged boat trip; this is not a local road stop. Confirm departure point, current conditions, and return arrangements.",
+    "locationDetails": "Departs from the Coron overnight base.",
+    "evidence": [
+      {
+        "fields": [
+          "description",
+          "location"
+        ],
+        "sourceName": "I Capture Travel — Coron tour routes",
+        "sourceUrl": "https://www.corontravel.com/coron",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      }
+    ],
+    "includes": [
+      "coron-malcapuya-island",
+      "coron-banana-island",
+      "coron-bulog-dos-island"
+    ]
+  },
+  {
+    "id": "coron-island-escapade-c1",
+    "baseSlug": "coron",
+    "name": "Coron Island Escapade C1 boat-day package",
+    "category": "Adventure",
+    "interests": [
+      "Adventure Junkie",
+      "Nature Lover"
+    ],
+    "description": "Operator-listed marine excursion.",
+    "cluster": "boat",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 540,
+    "outdoor": true,
+    "mode": "package",
+    "booking": "Choose one excursion package and obtain a dated quote with inclusions and return arrangements. Included places must not be scheduled or charged separately. Exact route, availability, permits, and current conditions require confirmation.",
+    "transport": "Reached as part of an operator-arranged boat trip; this is not a local road stop. Confirm departure point, current conditions, and return arrangements.",
+    "locationDetails": "Departs from the Coron overnight base.",
+    "evidence": [
+      {
+        "fields": [
+          "description",
+          "location"
+        ],
+        "sourceName": "I Capture Travel — Coron tour routes",
+        "sourceUrl": "https://www.corontravel.com/coron",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      }
+    ],
+    "includes": [
+      "coron-malcapuya-island",
+      "coron-ditaytayan-sandbar"
+    ]
+  },
+  {
+    "id": "coron-reef-and-wrecks",
+    "baseSlug": "coron",
+    "name": "Coron Reef and Wrecks boat-day package",
+    "category": "Adventure",
+    "interests": [
+      "Adventure Junkie",
+      "Nature Lover"
+    ],
+    "description": "Operator-listed marine excursion.",
+    "cluster": "boat",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 540,
+    "outdoor": true,
+    "mode": "package",
+    "booking": "Choose one excursion package and obtain a dated quote with inclusions and return arrangements. Included places must not be scheduled or charged separately. Exact route, availability, permits, and current conditions require confirmation.",
+    "transport": "Reached as part of an operator-arranged boat trip; this is not a local road stop. Confirm departure point, current conditions, and return arrangements.",
+    "locationDetails": "Departs from the Coron overnight base.",
+    "evidence": [
+      {
+        "fields": [
+          "description",
+          "location"
+        ],
+        "sourceName": "I Capture Travel — Coron tour routes",
+        "sourceUrl": "https://www.corontravel.com/coron",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      }
+    ],
+    "includes": [
+      "coron-pass-island",
+      "coron-lusong-coral-garden",
+      "coron-lusong-gunboat",
+      "coron-east-tangat-wreck"
+    ]
+  },
+  {
+    "id": "coron-tour-a",
+    "baseSlug": "coron",
+    "name": "Coron Tour A boat-day package",
+    "category": "Adventure",
+    "interests": [
+      "Adventure Junkie",
+      "Nature Lover"
+    ],
+    "description": "Operator-listed marine excursion.",
+    "cluster": "boat",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 540,
+    "outdoor": true,
+    "mode": "package",
+    "booking": "Choose one excursion package and obtain a dated quote with inclusions and return arrangements. Included places must not be scheduled or charged separately. Exact route, availability, permits, and current conditions require confirmation.",
+    "transport": "Reached as part of an operator-arranged boat trip; this is not a local road stop. Confirm departure point, current conditions, and return arrangements.",
+    "locationDetails": "Departs from the Coron overnight base.",
+    "evidence": [
+      {
+        "fields": [
+          "description",
+          "location"
+        ],
+        "sourceName": "I Capture Travel — Coron tour routes",
+        "sourceUrl": "https://www.corontravel.com/coron",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      }
+    ],
+    "includes": [
+      "coron-kayangan-lake",
+      "coron-cyc-beach"
+    ]
+  },
+  {
+    "id": "puerto-princesa-mendoza-park",
+    "baseSlug": "puerto-princesa",
+    "name": "Mendoza Park",
+    "category": "Culture",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "description": "Park commemorating Dr. Higinio Mendoza.",
+    "cluster": "old-town",
+    "lat": 9.740038888888888,
+    "lng": 118.73726944444445,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 45,
+    "outdoor": true,
+    "mode": "local",
+    "booking": "Check current admission, opening hours, and access with the venue. No booking is made by Lakbay.",
+    "transport": "Arrange local transport; the route, fare, and travel time have not been verified.",
+    "locationDetails": "Puerto Princesa city proper. Pin is a sourced map reference, not a surveyed entrance or navigation instruction.",
+    "evidence": [
+      {
+        "fields": [
+          "description",
+          "location"
+        ],
+        "sourceName": "Puerto Princesa City Tourism — Historical landmarks",
+        "sourceUrl": "https://citytourism.puertoprincesa.ph/historical-landmarks/",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      },
+      {
+        "fields": [
+          "coordinates"
+        ],
+        "sourceName": "Wikidata — Mendoza Park reference coordinates",
+        "sourceUrl": "https://www.wikidata.org/wiki/Q55507340",
+        "dateChecked": "2026-10-19",
+        "status": "estimate"
+      }
+    ]
+  },
+  {
+    "id": "puerto-princesa-princess-eulalia-park",
+    "baseSlug": "puerto-princesa",
+    "name": "Princess Eulalia Park",
+    "category": "Culture",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "description": "Park with a city-foundation memorial.",
+    "cluster": "old-town",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 45,
+    "outdoor": true,
+    "mode": "local",
+    "booking": "Check current admission, opening hours, and access with the venue. No booking is made by Lakbay.",
+    "transport": "Arrange local transport; the route, fare, and travel time have not been verified.",
+    "locationDetails": "Puerto Princesa city proper.",
+    "evidence": [
+      {
+        "fields": [
+          "description",
+          "location"
+        ],
+        "sourceName": "Puerto Princesa City Tourism — Historical landmarks",
+        "sourceUrl": "https://citytourism.puertoprincesa.ph/historical-landmarks/",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      }
+    ]
+  },
+  {
+    "id": "puerto-princesa-palawan-heritage-center",
+    "baseSlug": "puerto-princesa",
+    "name": "Palawan Heritage Center",
+    "category": "Culture",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "description": "Museum in the provincial heritage inventory.",
+    "cluster": "capitol",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 90,
+    "outdoor": false,
+    "mode": "local",
+    "booking": "Check current admission, opening hours, and access with the venue. No booking is made by Lakbay.",
+    "transport": "Arrange local transport; the route, fare, and travel time have not been verified.",
+    "locationDetails": "Tanglaw, Puerto Princesa.",
+    "evidence": [
+      {
+        "fields": [
+          "description",
+          "location"
+        ],
+        "sourceName": "Puerto Princesa City Tourism — 2018–2027 master plan",
+        "sourceUrl": "https://www.puertoprincesatourism.com/_files/ugd/3668db_31558baedb484e898e1bd7efb719f797.pdf",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      }
+    ]
+  },
+  {
+    "id": "puerto-princesa-palawan-museum",
+    "baseSlug": "puerto-princesa",
+    "name": "Palawan Museum",
+    "category": "Culture",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "description": "Museum interpreting Palawan’s cultural heritage.",
+    "cluster": "old-town",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 90,
+    "outdoor": false,
+    "mode": "local",
+    "booking": "Check current admission, opening hours, and access with the venue. No booking is made by Lakbay.",
+    "transport": "Arrange local transport; the route, fare, and travel time have not been verified.",
+    "locationDetails": "Puerto Princesa city proper.",
+    "evidence": [
+      {
+        "fields": [
+          "description",
+          "location"
+        ],
+        "sourceName": "Puerto Princesa City Tourism — Palawan Museum",
+        "sourceUrl": "https://www.puertoprincesatourism.com/palawan-museum",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      }
+    ]
+  },
+  {
+    "id": "puerto-princesa-world-war-ii-memorial-museum",
+    "baseSlug": "puerto-princesa",
+    "name": "World War II Memorial Museum",
+    "category": "Culture",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "description": "Collection of wartime objects and displays.",
+    "cluster": "airport",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 90,
+    "outdoor": false,
+    "mode": "local",
+    "booking": "Check current admission, opening hours, and access with the venue. No booking is made by Lakbay.",
+    "transport": "Arrange local transport; the route, fare, and travel time have not been verified.",
+    "locationDetails": "Puerto Princesa; confirm entrance location.",
+    "evidence": [
+      {
+        "fields": [
+          "description",
+          "location"
+        ],
+        "sourceName": "Puerto Princesa City Tourism — Destination map",
+        "sourceUrl": "https://citytourism.puertoprincesa.ph/destination-map/",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      }
+    ],
+    "aliases": [
+      "Special Battalion World War II Memorial Museum"
+    ]
+  },
+  {
+    "id": "puerto-princesa-butterfly-ecological-garden",
+    "baseSlug": "puerto-princesa",
+    "name": "Palawan Butterfly Ecological Garden",
+    "category": "Nature",
+    "interests": [
+      "Nature Lover",
+      "Slow Traveler"
+    ],
+    "description": "Garden featuring local butterflies.",
+    "cluster": "santa-monica",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 120,
+    "outdoor": true,
+    "mode": "local",
+    "booking": "Check current admission, opening hours, and access with the venue. No booking is made by Lakbay.",
+    "transport": "Arrange local transport; the route, fare, and travel time have not been verified.",
+    "locationDetails": "Separate local outing within Puerto Princesa.",
+    "evidence": [
+      {
+        "fields": [
+          "description",
+          "location"
+        ],
+        "sourceName": "Puerto Princesa City Tourism — Destination map",
+        "sourceUrl": "https://citytourism.puertoprincesa.ph/destination-map/",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      }
+    ],
+    "aliases": [
+      "Butterfly Garden",
+      "Palawan Butterfly Eco-Garden"
+    ]
+  },
+  {
+    "id": "puerto-princesa-mitra-ranch",
+    "baseSlug": "puerto-princesa",
+    "name": "Mitra’s Ranch",
+    "category": "Nature",
+    "interests": [
+      "Nature Lover",
+      "Slow Traveler"
+    ],
+    "description": "Ranch with views over the city.",
+    "cluster": "santa-monica",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 90,
+    "outdoor": true,
+    "mode": "local",
+    "booking": "Check current admission, opening hours, and access with the venue. No booking is made by Lakbay.",
+    "transport": "Arrange local transport; the route, fare, and travel time have not been verified.",
+    "locationDetails": "Rancho Santa Monica, Puerto Princesa.",
+    "evidence": [
+      {
+        "fields": [
+          "description",
+          "location"
+        ],
+        "sourceName": "Puerto Princesa City Tourism — Destination map",
+        "sourceUrl": "https://citytourism.puertoprincesa.ph/destination-map/",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      }
+    ],
+    "aliases": [
+      "Mitra Ranch",
+      "Rancho Sta. Monica"
+    ]
+  },
+  {
+    "id": "puerto-princesa-wildlife-rescue-center",
+    "baseSlug": "puerto-princesa",
+    "name": "Palawan Wildlife Rescue and Conservation Center",
+    "category": "Nature",
+    "interests": [
+      "Nature Lover",
+      "Slow Traveler"
+    ],
+    "description": "Facility conserving Philippine crocodile species.",
+    "cluster": "iwahig",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 240,
+    "outdoor": true,
+    "mode": "excursion",
+    "booking": "Confirm visitor access, guided-tour arrangements, and admission directly. Animal encounters or feeding are not promised.",
+    "transport": "Reserve a separate excursion block and confirm return transport from the overnight base. Travel time is an estimate.",
+    "locationDetails": "Separate road outing from downtown.",
+    "evidence": [
+      {
+        "fields": [
+          "description",
+          "location"
+        ],
+        "sourceName": "Puerto Princesa City Tourism — Destination map",
+        "sourceUrl": "https://citytourism.puertoprincesa.ph/destination-map/",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      }
+    ],
+    "aliases": [
+      "Crocodile Farm and Nature Park",
+      "Crocodile Farm"
+    ]
+  },
+  {
+    "id": "puerto-princesa-iwahig-firefly-watching",
+    "baseSlug": "puerto-princesa",
+    "name": "Iwahig Firefly Watching",
+    "category": "Nature",
+    "interests": [
+      "Nature Lover",
+      "Slow Traveler"
+    ],
+    "description": "Community-run riverbank firefly excursion.",
+    "cluster": "iwahig",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 240,
+    "outdoor": true,
+    "mode": "excursion",
+    "booking": "Evening excursion: ask the community operator for current tour availability, boat arrangements, and return transport. Firefly sightings are not guaranteed.",
+    "transport": "Separate road transfer and operator-arranged river outing; confirm travel time, fares, and return service.",
+    "locationDetails": "Iwahig River, outside city proper.",
+    "evidence": [
+      {
+        "fields": [
+          "description",
+          "location"
+        ],
+        "sourceName": "Puerto Princesa City Tourism — Community destinations",
+        "sourceUrl": "https://citytourism.puertoprincesa.ph/cbst-destinations/",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      }
+    ]
+  },
+  {
+    "id": "puerto-princesa-ugong-rock",
+    "baseSlug": "puerto-princesa",
+    "name": "Ugong Rock",
+    "category": "Adventure",
+    "interests": [
+      "Adventure Junkie",
+      "Nature Lover"
+    ],
+    "description": "Limestone rock attraction in Tagabinet.",
+    "cluster": "sabang-road",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 360,
+    "outdoor": true,
+    "mode": "excursion",
+    "booking": "Confirm current guided-access and optional zipline arrangements. Equipment, fees, access, and activity suitability are not established by this listing.",
+    "transport": "Reserve a separate excursion block and confirm return transport from the overnight base. Travel time is an estimate.",
+    "locationDetails": "Barangay Tagabinet; separate road excursion.",
+    "evidence": [
+      {
+        "fields": [
+          "description",
+          "location"
+        ],
+        "sourceName": "Puerto Princesa City Tourism — Community destinations",
+        "sourceUrl": "https://citytourism.puertoprincesa.ph/cbst-destinations/",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      }
+    ]
+  },
+  {
+    "id": "puerto-princesa-underground-river",
+    "baseSlug": "puerto-princesa",
+    "name": "Puerto Princesa Underground River",
+    "category": "Adventure",
+    "interests": [
+      "Adventure Junkie",
+      "Nature Lover"
+    ],
+    "description": "Protected underground-river visitor attraction.",
+    "cluster": "sabang",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 540,
+    "outdoor": true,
+    "mode": "excursion",
+    "booking": "An entry permit and visitor identification are required. Confirm a dated permit slot with park management or a licensed operator before arranging the excursion. No permit, booking, or sailing is confirmed.",
+    "transport": "Allow a full excursion day from city proper to Sabang, then confirm the boat transfer and return road service. This is not a downtown stop.",
+    "locationDetails": "Sitio Sabang, Barangay Cabayugan.",
+    "evidence": [
+      {
+        "fields": [
+          "description",
+          "location"
+        ],
+        "sourceName": "Puerto Princesa City Tourism — Underground River access",
+        "sourceUrl": "https://citytourism.puertoprincesa.ph/ppur/",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      },
+      {
+        "fields": [
+          "booking"
+        ],
+        "sourceName": "Puerto Princesa Underground River — January 2026 travel advisory",
+        "sourceUrl": "https://undergroundriver.puertoprincesa.ph/travel-advisory/travel-advisory-2/",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      }
+    ],
+    "requiresBooking": true
+  },
+  {
+    "id": "puerto-princesa-buenavista-viewdeck",
+    "baseSlug": "puerto-princesa",
+    "name": "Buenavista Viewdeck",
+    "category": "Nature",
+    "interests": [
+      "Nature Lover",
+      "Slow Traveler"
+    ],
+    "description": "Viewpoint overlooking Ulugan Bay.",
+    "cluster": "sabang-road",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 300,
+    "outdoor": true,
+    "mode": "excursion",
+    "booking": "Reserve a separate road outing or confirm inclusion in your Sabang excursion. Avoid adding it again when your operator itinerary already includes it.",
+    "transport": "Reserve a separate excursion block and confirm return transport from the overnight base. Travel time is an estimate.",
+    "locationDetails": "Buenavista road corridor, outside downtown.",
+    "evidence": [
+      {
+        "fields": [
+          "description",
+          "location"
+        ],
+        "sourceName": "Puerto Princesa City Tourism — Community destinations",
+        "sourceUrl": "https://citytourism.puertoprincesa.ph/cbst-destinations/",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      }
+    ]
+  },
+  {
+    "id": "siargao-naked-island",
+    "baseSlug": "siargao",
+    "name": "Naked Island",
+    "category": "Beaches",
+    "interests": [
+      "Beach Bum",
+      "Nature Lover"
+    ],
+    "description": "Sandbar in the tri-island route.",
+    "cluster": "boat",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 60,
+    "outdoor": true,
+    "mode": "excursion",
+    "booking": "Browse this place as a tour component. Choose the linked package rather than scheduling or charging the component separately. Confirm the actual operator route and access.",
+    "transport": "Reached as part of an operator-arranged boat trip; this is not a local road stop. Confirm departure point, current conditions, and return arrangements.",
+    "locationDetails": "Offshore from the General Luna base.",
+    "evidence": [
+      {
+        "fields": [
+          "description",
+          "location"
+        ],
+        "sourceName": "Tourism Promotions Board — PHITEX 2024 itinerary",
+        "sourceUrl": "https://www.tpb.gov.ph/wp-content/uploads/2024/07/ITINERARY-PHITEX2024.pdf",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      }
+    ],
+    "componentOf": [
+      "siargao-tri-island-package"
+    ]
+  },
+  {
+    "id": "siargao-daku-island",
+    "baseSlug": "siargao",
+    "name": "Daku Island",
+    "category": "Beaches",
+    "interests": [
+      "Beach Bum",
+      "Nature Lover"
+    ],
+    "description": "Island in the tri-island route.",
+    "cluster": "boat",
+    "lat": 9.73861111111111,
+    "lng": 126.16361111111112,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 60,
+    "outdoor": true,
+    "mode": "excursion",
+    "booking": "Browse this place as a tour component. Choose the linked package rather than scheduling or charging the component separately. Confirm the actual operator route and access.",
+    "transport": "Reached as part of an operator-arranged boat trip; this is not a local road stop. Confirm departure point, current conditions, and return arrangements.",
+    "locationDetails": "Offshore from the General Luna base. Pin is a sourced map reference, not a surveyed entrance or navigation instruction.",
+    "evidence": [
+      {
+        "fields": [
+          "description",
+          "location"
+        ],
+        "sourceName": "Tourism Promotions Board — PHITEX 2024 itinerary",
+        "sourceUrl": "https://www.tpb.gov.ph/wp-content/uploads/2024/07/ITINERARY-PHITEX2024.pdf",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      },
+      {
+        "fields": [
+          "coordinates"
+        ],
+        "sourceName": "Wikidata / Geographic Names Server — Daku Island reference",
+        "sourceUrl": "https://www.wikidata.org/wiki/Q16555043",
+        "dateChecked": "2026-10-19",
+        "status": "estimate"
+      }
+    ],
+    "componentOf": [
+      "siargao-tri-island-package"
+    ]
+  },
+  {
+    "id": "siargao-guyam-island",
+    "baseSlug": "siargao",
+    "name": "Guyam Island",
+    "category": "Beaches",
+    "interests": [
+      "Beach Bum",
+      "Nature Lover"
+    ],
+    "description": "Islet in the tri-island route.",
+    "cluster": "boat",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 60,
+    "outdoor": true,
+    "mode": "excursion",
+    "booking": "Browse this place as a tour component. Choose the linked package rather than scheduling or charging the component separately. Confirm the actual operator route and access.",
+    "transport": "Reached as part of an operator-arranged boat trip; this is not a local road stop. Confirm departure point, current conditions, and return arrangements.",
+    "locationDetails": "Offshore from the General Luna base.",
+    "evidence": [
+      {
+        "fields": [
+          "description",
+          "location"
+        ],
+        "sourceName": "Tourism Promotions Board — PHITEX 2024 itinerary",
+        "sourceUrl": "https://www.tpb.gov.ph/wp-content/uploads/2024/07/ITINERARY-PHITEX2024.pdf",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      }
+    ],
+    "componentOf": [
+      "siargao-tri-island-package"
+    ]
+  },
+  {
+    "id": "siargao-tri-island-package",
+    "baseSlug": "siargao",
+    "name": "Siargao tri-island boat-day package",
+    "category": "Adventure",
+    "interests": [
+      "Adventure Junkie",
+      "Nature Lover"
+    ],
+    "description": "Boat route grouping three named islands.",
+    "cluster": "boat",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 480,
+    "outdoor": true,
+    "mode": "package",
+    "booking": "Ask an operator for the current tri-island itinerary, dated total quote, equipment, meals, permits, and return arrangements. Included islands are components of one outing, not additional separately scheduled visits.",
+    "transport": "Reached as part of an operator-arranged boat trip; this is not a local road stop. Confirm departure point, current conditions, and return arrangements.",
+    "locationDetails": "Excursion from General Luna.",
+    "evidence": [
+      {
+        "fields": [
+          "description",
+          "location"
+        ],
+        "sourceName": "Tourism Promotions Board — PHITEX 2024 itinerary",
+        "sourceUrl": "https://www.tpb.gov.ph/wp-content/uploads/2024/07/ITINERARY-PHITEX2024.pdf",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      }
+    ],
+    "includes": [
+      "siargao-naked-island",
+      "siargao-daku-island",
+      "siargao-guyam-island"
+    ]
+  },
+  {
+    "id": "siargao-magpupungko-rock-pools",
+    "baseSlug": "siargao",
+    "name": "Magpupungko Rock Pools",
+    "category": "Nature",
+    "interests": [
+      "Nature Lover",
+      "Slow Traveler"
+    ],
+    "description": "Tidal-pool attraction in Pilar.",
+    "cluster": "pilar",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 360,
+    "outdoor": true,
+    "mode": "excursion",
+    "booking": "Confirm the current tide window and any municipal closure before committing to a separate road excursion. The January 2026 closure notice establishes a management practice, not current opening status.",
+    "transport": "Reserve a separate excursion block and confirm return transport from the overnight base. Travel time is an estimate.",
+    "locationDetails": "Pilar municipality, outside General Luna.",
+    "evidence": [
+      {
+        "fields": [
+          "description",
+          "location"
+        ],
+        "sourceName": "Philippine News Agency — Pilar tourism advisory, January 2026",
+        "sourceUrl": "https://www.pna.gov.ph/articles/1267976",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      }
+    ]
+  },
+  {
+    "id": "siargao-sugba-lagoon",
+    "baseSlug": "siargao",
+    "name": "Sugba Lagoon",
+    "category": "Nature",
+    "interests": [
+      "Nature Lover",
+      "Slow Traveler"
+    ],
+    "description": "Lagoon associated with Del Carmen mangroves.",
+    "cluster": "del-carmen",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 480,
+    "outdoor": true,
+    "mode": "excursion",
+    "booking": "Confirm the lagoon’s current opening status and boat allocation directly with the Del Carmen visitor office or operator. Do not add a second lagoon charge if included in a booked package.",
+    "transport": "Separate road transfer to Del Carmen, followed by an arranged boat trip. Confirm total travel time, permits, operation, and return.",
+    "locationDetails": "Boat excursion via Del Carmen.",
+    "evidence": [
+      {
+        "fields": [
+          "description",
+          "location"
+        ],
+        "sourceName": "TIEZA — Sugba Lagoon and Del Carmen mangroves",
+        "sourceUrl": "https://tieza.gov.ph/development-of-mangrove-protection-and-information-center-and-sugba-lagoon-del-carmen-surigao-del-norte-4/",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      }
+    ]
+  },
+  {
+    "id": "siargao-maasin-river",
+    "baseSlug": "siargao",
+    "name": "Maasin River",
+    "category": "Nature",
+    "interests": [
+      "Nature Lover",
+      "Slow Traveler"
+    ],
+    "description": "River visited on inland excursions.",
+    "cluster": "maasin",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 300,
+    "outdoor": true,
+    "mode": "excursion",
+    "booking": "Arrange a separate inland outing or confirm your land-tour inclusion. Check current paddle-boat and guide arrangements; jumping and swimming are not assumed.",
+    "transport": "Reserve a separate excursion block and confirm return transport from the overnight base. Travel time is an estimate.",
+    "locationDetails": "Inland Siargao, outside General Luna.",
+    "evidence": [
+      {
+        "fields": [
+          "description",
+          "location"
+        ],
+        "sourceName": "Javalava Tours — Siargao day trips",
+        "sourceUrl": "https://www.gojavalava.com/siargaotours",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      }
+    ]
+  },
+  {
+    "id": "siargao-coconut-viewdeck",
+    "baseSlug": "siargao",
+    "name": "Coconut Mountain View Deck",
+    "category": "Nature",
+    "interests": [
+      "Nature Lover",
+      "Slow Traveler"
+    ],
+    "description": "Roadside viewpoint over coconut-covered terrain.",
+    "cluster": "maasin",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 240,
+    "outdoor": true,
+    "mode": "excursion",
+    "booking": "Confirm a suitable stopping point and return vehicle. Include only once if already part of your inland tour.",
+    "transport": "Reserve a separate excursion block and confirm return transport from the overnight base. Travel time is an estimate.",
+    "locationDetails": "Inland road excursion from General Luna.",
+    "evidence": [
+      {
+        "fields": [
+          "description",
+          "location"
+        ],
+        "sourceName": "Javalava Tours — Siargao day trips",
+        "sourceUrl": "https://www.gojavalava.com/siargaotours",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      }
+    ]
+  },
+  {
+    "id": "siargao-tayangban-cave-pool",
+    "baseSlug": "siargao",
+    "name": "Tayangban Cave Pool",
+    "category": "Adventure",
+    "interests": [
+      "Adventure Junkie",
+      "Nature Lover"
+    ],
+    "description": "Cave-pool destination on inland tours.",
+    "cluster": "pilar",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 360,
+    "outdoor": true,
+    "mode": "excursion",
+    "booking": "Confirm current cave access, guide requirements, water conditions, and equipment with the site before arranging a visit. No access or activity suitability is established.",
+    "transport": "Reserve a separate excursion block and confirm return transport from the overnight base. Travel time is an estimate.",
+    "locationDetails": "Separate inland outing from General Luna.",
+    "evidence": [
+      {
+        "fields": [
+          "description",
+          "location"
+        ],
+        "sourceName": "Javalava Tours — Siargao day trips",
+        "sourceUrl": "https://www.gojavalava.com/siargaotours",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      }
+    ]
+  },
+  {
+    "id": "siargao-pacifico-beach",
+    "baseSlug": "siargao",
+    "name": "Pacifico Beach",
+    "category": "Beaches",
+    "interests": [
+      "Beach Bum",
+      "Nature Lover"
+    ],
+    "description": "Beach in a northern surf community.",
+    "cluster": "north-siargao",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 480,
+    "outdoor": true,
+    "mode": "excursion",
+    "booking": "Reserve a northern excursion day and confirm a return vehicle. Consider a separate overnight stay for repeated northern outings rather than daily commuting.",
+    "transport": "Reserve a separate excursion block and confirm return transport from the overnight base. Travel time is an estimate.",
+    "locationDetails": "San Isidro; distant from General Luna.",
+    "evidence": [
+      {
+        "fields": [
+          "description",
+          "location"
+        ],
+        "sourceName": "Department of Tourism London — Siargao brochure",
+        "sourceUrl": "https://itsmorefuninthephilippines.co.uk/wp-content/uploads/PDOTL_Siargao_Web.pdf",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      }
+    ]
+  },
+  {
+    "id": "siargao-alegria-beach",
+    "baseSlug": "siargao",
+    "name": "Alegria Beach",
+    "category": "Beaches",
+    "interests": [
+      "Beach Bum",
+      "Nature Lover"
+    ],
+    "description": "Beach in Siargao’s northern Santa Monica area.",
+    "cluster": "north-siargao",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 540,
+    "outdoor": true,
+    "mode": "excursion",
+    "booking": "A distant northern excursion, requiring confirmed return transport. It is not an ordinary local stop beside General Luna.",
+    "transport": "Reserve a separate excursion block and confirm return transport from the overnight base. Travel time is an estimate.",
+    "locationDetails": "Northern Siargao; not General Luna.",
+    "evidence": [
+      {
+        "fields": [
+          "description",
+          "location"
+        ],
+        "sourceName": "Department of Tourism London — Siargao brochure",
+        "sourceUrl": "https://itsmorefuninthephilippines.co.uk/wp-content/uploads/PDOTL_Siargao_Web.pdf",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      }
+    ]
+  },
+  {
+    "id": "siargao-taktak-falls",
+    "baseSlug": "siargao",
+    "name": "Taktak Falls",
+    "category": "Nature",
+    "interests": [
+      "Nature Lover",
+      "Slow Traveler"
+    ],
+    "description": "Waterfall destination near Santa Monica.",
+    "cluster": "north-siargao",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 540,
+    "outdoor": true,
+    "mode": "excursion",
+    "booking": "Check current waterfall access, weather, and local guide arrangements. Reserve a northern excursion day with confirmed return transport.",
+    "transport": "Reserve a separate excursion block and confirm return transport from the overnight base. Travel time is an estimate.",
+    "locationDetails": "Santa Monica, northern Siargao.",
+    "evidence": [
+      {
+        "fields": [
+          "description",
+          "location"
+        ],
+        "sourceName": "Department of Tourism London — Siargao brochure",
+        "sourceUrl": "https://itsmorefuninthephilippines.co.uk/wp-content/uploads/PDOTL_Siargao_Web.pdf",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      }
+    ]
+  },
+  {
+    "id": "siargao-santa-monica-pier",
+    "baseSlug": "siargao",
+    "name": "Santa Monica Pier",
+    "category": "Culture",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "description": "Pier listed in northern Siargao tourism guidance.",
+    "cluster": "north-siargao",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 540,
+    "outdoor": true,
+    "mode": "excursion",
+    "booking": "Plan as a northern excursion or during a separate northern overnight stay. Confirm current public access and return transport, especially for evening visits.",
+    "transport": "Reserve a separate excursion block and confirm return transport from the overnight base. Travel time is an estimate.",
+    "locationDetails": "Santa Monica; far from General Luna.",
+    "evidence": [
+      {
+        "fields": [
+          "description",
+          "location"
+        ],
+        "sourceName": "Department of Tourism London — Siargao brochure",
+        "sourceUrl": "https://itsmorefuninthephilippines.co.uk/wp-content/uploads/PDOTL_Siargao_Web.pdf",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      }
+    ]
+  },
+  {
+    "id": "siargao-catangnan-bridge",
+    "baseSlug": "siargao",
+    "name": "Catangnan Bridge",
+    "category": "Nature",
+    "interests": [
+      "Nature Lover",
+      "Slow Traveler"
+    ],
+    "description": "Bridge area on General Luna tour routes.",
+    "cluster": "cloud9",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 45,
+    "outdoor": true,
+    "mode": "local",
+    "booking": "View from designated pedestrian areas and confirm local access restrictions. This is distinct from booking a surf lesson or boat outing.",
+    "transport": "Arrange local transport; the route, fare, and travel time have not been verified.",
+    "locationDetails": "Catangnan, General Luna.",
+    "evidence": [
+      {
+        "fields": [
+          "description",
+          "location"
+        ],
+        "sourceName": "Javalava Tours — Siargao day trips",
+        "sourceUrl": "https://www.gojavalava.com/siargaotours",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      }
+    ],
+    "aliases": [
+      "Catangnan–Cabitoonan Bridge"
+    ]
+  },
+  {
+    "id": "davao-national-museum",
+    "baseSlug": "davao",
+    "name": "National Museum of the Philippines – Davao",
+    "category": "Culture",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "description": "Exhibits on regional history, nature, and art.",
+    "cluster": "central",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 150,
+    "outdoor": false,
+    "mode": "local",
+    "booking": "Confirm current visitor and gallery access with NMP-Davao. Exhibition maintenance or local closures can affect which galleries are open.",
+    "transport": "Arrange local transport; the route, fare, and travel time have not been verified.",
+    "locationDetails": "People’s Park Compound, J. Palma Gil Street.",
+    "evidence": [
+      {
+        "fields": [
+          "description",
+          "location"
+        ],
+        "sourceName": "National Museum of the Philippines — Davao",
+        "sourceUrl": "https://www.nationalmuseum.gov.ph/nmp-davao/",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      }
+    ]
+  },
+  {
+    "id": "davao-bone-collector-museum",
+    "baseSlug": "davao",
+    "name": "D’ Bone Collector Museum",
+    "category": "Culture",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "description": "Natural-history museum displaying animal skeletons.",
+    "cluster": "bucana",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 90,
+    "outdoor": false,
+    "mode": "local",
+    "booking": "Contact the museum to arrange a tour or confirm walk-in access, current admission, and opening times.",
+    "transport": "Arrange local transport; the route, fare, and travel time have not been verified.",
+    "locationDetails": "San Pedro Extension, Bucana, Barangay 76-A.",
+    "evidence": [
+      {
+        "fields": [
+          "description",
+          "location"
+        ],
+        "sourceName": "D’ Bone Collector Museum — official visitor page",
+        "sourceUrl": "https://d.bone.museum/",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      }
+    ]
+  },
+  {
+    "id": "davao-roxas-night-market",
+    "baseSlug": "davao",
+    "name": "Roxas Night Market",
+    "category": "Food",
+    "interests": [
+      "Food Hunter",
+      "City Wanderer"
+    ],
+    "description": "Named night-market destination on Roxas Avenue.",
+    "cluster": "roxas",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 90,
+    "outdoor": true,
+    "mode": "local",
+    "booking": "Evening market: confirm current trading dates, vendor hours, and access. Food purchases are separate and prices vary.",
+    "transport": "Arrange local transport; the route, fare, and travel time have not been verified.",
+    "locationDetails": "Roxas Avenue, Poblacion District.",
+    "evidence": [
+      {
+        "fields": [
+          "description",
+          "location"
+        ],
+        "sourceName": "Davao City Tourism — Roxas Night Market",
+        "sourceUrl": "https://tourism.davaocity.gov.ph/explore-the-city/restaurants/night-market/roxas-night-market/",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      }
+    ]
+  },
+  {
+    "id": "davao-kadayawan-cultural-village",
+    "baseSlug": "davao",
+    "name": "Kadayawan Cultural Village",
+    "category": "Culture",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "description": "Traditional-house exhibits representing Davao communities.",
+    "cluster": "magsaysay",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 120,
+    "outdoor": true,
+    "mode": "local",
+    "booking": "Confirm current houses, visitor access, and cultural-program arrangements. Festival performances are not assumed to occur daily.",
+    "transport": "Arrange local transport; the route, fare, and travel time have not been verified.",
+    "locationDetails": "Inside Magsaysay Park.",
+    "evidence": [
+      {
+        "fields": [
+          "description",
+          "location"
+        ],
+        "sourceName": "City Government of Davao — Kadayawan Village, August 2025",
+        "sourceUrl": "https://davaocity.gov.ph/tourism/kadayawan-village-remains-open-to-public-says-ctoo/",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      }
+    ],
+    "aliases": [
+      "Kadayawan Tribal Village"
+    ]
+  },
+  {
+    "id": "davao-chinatown",
+    "baseSlug": "davao",
+    "name": "Davao Chinatown",
+    "category": "Culture",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "description": "Heritage district along Ramon Magsaysay Avenue.",
+    "cluster": "magsaysay",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 120,
+    "outdoor": true,
+    "mode": "local",
+    "booking": "A self-paced district visit does not reserve the city’s organized Chinatown walking tour. Confirm availability separately if seeking a guided tour.",
+    "transport": "Arrange local transport; the route, fare, and travel time have not been verified.",
+    "locationDetails": "Ramon Magsaysay Avenue heritage-walk corridor.",
+    "evidence": [
+      {
+        "fields": [
+          "description",
+          "location"
+        ],
+        "sourceName": "City Government of Davao — Chinatown heritage walk, June 2026",
+        "sourceUrl": "https://davaocity.gov.ph/tourism/bound-to-the-friendship-arch-davao-city-chinatown-walk-boosts-tourism-and-cultural-heritage/",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      }
+    ]
+  },
+  {
+    "id": "davao-rizal-park",
+    "baseSlug": "davao",
+    "name": "Rizal Park",
+    "category": "Culture",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "description": "Civic park in the city heritage inventory.",
+    "cluster": "central",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 45,
+    "outdoor": true,
+    "mode": "local",
+    "booking": "Check current admission, opening hours, and access with the venue. No booking is made by Lakbay.",
+    "transport": "Arrange local transport; the route, fare, and travel time have not been verified.",
+    "locationDetails": "San Pedro Street, Davao City.",
+    "evidence": [
+      {
+        "fields": [
+          "description",
+          "location"
+        ],
+        "sourceName": "City Planning and Development Office of Davao — Heritage inventory",
+        "sourceUrl": "https://cpdo.davaocity.gov.ph/wp-content/uploads/2023/07/Volume-3-Sectoral_Studies_compressed.pdf",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      }
+    ]
+  },
+  {
+    "id": "davao-osmena-park",
+    "baseSlug": "davao",
+    "name": "Osmeña Park",
+    "category": "Culture",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "description": "Park included in the city heritage inventory.",
+    "cluster": "central",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 45,
+    "outdoor": true,
+    "mode": "local",
+    "booking": "Check current admission, opening hours, and access with the venue. No booking is made by Lakbay.",
+    "transport": "Arrange local transport; the route, fare, and travel time have not been verified.",
+    "locationDetails": "C. M. Recto, San Pedro, and A. Pichon streets.",
+    "evidence": [
+      {
+        "fields": [
+          "description",
+          "location"
+        ],
+        "sourceName": "City Planning and Development Office of Davao — Heritage inventory",
+        "sourceUrl": "https://cpdo.davaocity.gov.ph/wp-content/uploads/2023/07/Volume-3-Sectoral_Studies_compressed.pdf",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      }
+    ],
+    "aliases": [
+      "Osmena Park"
+    ]
+  },
+  {
+    "id": "davao-dona-vicenta-park",
+    "baseSlug": "davao",
+    "name": "Doña Vicenta Park",
+    "category": "Nature",
+    "interests": [
+      "Nature Lover",
+      "Slow Traveler"
+    ],
+    "description": "City park with walking and community spaces.",
+    "cluster": "mabini",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 90,
+    "outdoor": true,
+    "mode": "local",
+    "booking": "Check current admission, opening hours, and access with the venue. No booking is made by Lakbay.",
+    "transport": "Arrange local transport; the route, fare, and travel time have not been verified.",
+    "locationDetails": "Doña Vicenta Village, Barangay 9-A.",
+    "evidence": [
+      {
+        "fields": [
+          "description",
+          "location"
+        ],
+        "sourceName": "City Government of Davao — Doña Vicenta Park",
+        "sourceUrl": "https://davaocity.gov.ph/environment/dona-vicenta-park-now-open/",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      }
+    ],
+    "aliases": [
+      "Dona Vicenta Park"
+    ]
+  },
+  {
+    "id": "davao-eden-nature-park",
+    "baseSlug": "davao",
+    "name": "Eden Nature Park",
+    "category": "Nature",
+    "interests": [
+      "Nature Lover",
+      "Slow Traveler"
+    ],
+    "description": "Mountain resort in Barangay Eden.",
+    "cluster": "toril",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 480,
+    "outdoor": true,
+    "mode": "excursion",
+    "booking": "Confirm day-visitor access and the exact package or optional activities. Reserve a separate excursion day and return transport; the Matina reservations office is not the resort entrance.",
+    "transport": "Reserve a separate excursion block and confirm return transport from the overnight base. Travel time is an estimate.",
+    "locationDetails": "Barangay Eden, Toril, Davao City.",
+    "evidence": [
+      {
+        "fields": [
+          "description",
+          "location",
+          "hours"
+        ],
+        "sourceName": "Eden Nature Park — official resort information",
+        "sourceUrl": "https://www.edennaturepark.com.ph/",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      }
+    ],
+    "openingHours": {
+      "weekdays": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "opens": "09:00",
+      "closes": "17:00",
+      "source": {
+        "sourceName": "Eden Nature Park — official resort information",
+        "sourceUrl": "https://www.edennaturepark.com.ph/",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      }
+    }
+  },
+  {
+    "id": "davao-philippine-eagle-center",
+    "baseSlug": "davao",
+    "name": "Philippine Eagle Center",
+    "category": "Nature",
+    "interests": [
+      "Nature Lover",
+      "Slow Traveler"
+    ],
+    "description": "Conservation and education facility for Philippine eagles.",
+    "cluster": "malagos",
+    "lat": 7.18488,
+    "lng": 125.41529,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 480,
+    "outdoor": true,
+    "mode": "excursion",
+    "booking": "Confirm current visitor access, conservation-program offerings, and admission directly with the foundation. Reserve a separate road-excursion block and return transport.",
+    "transport": "Reserve a separate excursion block and confirm return transport from the overnight base. Travel time is an estimate.",
+    "locationDetails": "Malagos, Baguio District, Davao City. Pin is a sourced map reference, not a surveyed entrance or navigation instruction.",
+    "evidence": [
+      {
+        "fields": [
+          "description",
+          "location"
+        ],
+        "sourceName": "Philippine Eagle Foundation — Philippine Eagle Center",
+        "sourceUrl": "https://www.philippineeaglefoundation.org/copy-of-the-pec-1",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      },
+      {
+        "fields": [
+          "coordinates"
+        ],
+        "sourceName": "Mapcarta / OpenStreetMap — Philippine Eagle Center reference",
+        "sourceUrl": "https://mapcarta.com/N747886405",
+        "dateChecked": "2026-10-19",
+        "status": "estimate"
+      }
+    ]
+  },
+  {
+    "id": "davao-malagos-garden-resort",
+    "baseSlug": "davao",
+    "name": "Malagos Garden Resort",
+    "category": "Nature",
+    "interests": [
+      "Nature Lover",
+      "Slow Traveler"
+    ],
+    "description": "Garden resort in the Davao tourism catalog.",
+    "cluster": "malagos",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 480,
+    "outdoor": true,
+    "mode": "excursion",
+    "booking": "Confirm day-visitor packages, current included attractions, and admission. Do not price or schedule activities included in a resort package again.",
+    "transport": "Reserve a separate excursion block and confirm return transport from the overnight base. Travel time is an estimate.",
+    "locationDetails": "Malagos, Baguio District, Davao City. The Agdao corporate office is separate from the resort.",
+    "evidence": [
+      {
+        "fields": [
+          "description",
+          "location"
+        ],
+        "sourceName": "Malagos Garden Resort — official contact and resort address",
+        "sourceUrl": "https://www.malagos.com/contact",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      }
+    ]
+  },
+  {
+    "id": "davao-imin-museum",
+    "baseSlug": "davao",
+    "name": "IMIN Philippine–Japan Historical Museum",
+    "category": "Culture",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "description": "Museum documenting Philippine–Japanese community history.",
+    "cluster": "calinan",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 360,
+    "outdoor": false,
+    "mode": "excursion",
+    "booking": "Confirm opening days and visitor arrangements with the museum. Calinan requires a separate road-excursion block from central Davao.",
+    "transport": "Reserve a separate excursion block and confirm return transport from the overnight base. Travel time is an estimate.",
+    "locationDetails": "Purok 18, Durian Village, Calinan.",
+    "evidence": [
+      {
+        "fields": [
+          "description",
+          "location"
+        ],
+        "sourceName": "Davao City Tourism — IMIN Philippine–Japan Historical Museum",
+        "sourceUrl": "https://tourism.davaocity.gov.ph/explore-the-city/attractions/musuems/imin-philippine-japan-historical-museum/",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      }
+    ],
+    "aliases": [
+      "Philippine-Japan Historical Museum"
+    ]
+  },
+  {
+    "id": "davao-bago-esplanade",
+    "baseSlug": "davao",
+    "name": "Bago Esplanade",
+    "category": "Nature",
+    "interests": [
+      "Nature Lover",
+      "Slow Traveler"
+    ],
+    "description": "Coastal-road park listed by city government.",
+    "cluster": "coastal-road",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 90,
+    "outdoor": true,
+    "mode": "local",
+    "booking": "Confirm current public access, opening times, and entrance location. Exposed coastal weather can affect a planned walk.",
+    "transport": "Arrange local transport; the route, fare, and travel time have not been verified.",
+    "locationDetails": "Along Davao City Coastal Road.",
+    "evidence": [
+      {
+        "fields": [
+          "description",
+          "location"
+        ],
+        "sourceName": "City Government of Davao — City parks, June 2024",
+        "sourceUrl": "https://davaocity.gov.ph/sustainable-environment/city-to-open-more-green-spaces-parks/",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      }
+    ]
+  },
+  {
+    "id": "davao-gulf-view-esplanade",
+    "baseSlug": "davao",
+    "name": "Gulf View Esplanade",
+    "category": "Nature",
+    "interests": [
+      "Nature Lover",
+      "Slow Traveler"
+    ],
+    "description": "Coastal-road park listed by city government.",
+    "cluster": "coastal-road",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 90,
+    "outdoor": true,
+    "mode": "local",
+    "booking": "Confirm current public access, opening times, and entrance location. Exposed coastal weather can affect a planned walk.",
+    "transport": "Arrange local transport; the route, fare, and travel time have not been verified.",
+    "locationDetails": "Along Davao City Coastal Road.",
+    "evidence": [
+      {
+        "fields": [
+          "description",
+          "location"
+        ],
+        "sourceName": "City Government of Davao — City parks, June 2024",
+        "sourceUrl": "https://davaocity.gov.ph/sustainable-environment/city-to-open-more-green-spaces-parks/",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      }
+    ]
+  },
+  {
+    "id": "davao-crocodile-park",
+    "baseSlug": "davao",
+    "name": "Davao Crocodile Park",
+    "category": "Nature",
+    "interests": [
+      "Nature Lover",
+      "Slow Traveler"
+    ],
+    "description": "Attraction listed by Davao City Tourism.",
+    "cluster": "maa",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 180,
+    "outdoor": true,
+    "mode": "local",
+    "booking": "Confirm current admission, visitor access, and any package inclusions directly. Animal shows or interactive encounters are not promised.",
+    "transport": "Arrange local transport; the route, fare, and travel time have not been verified.",
+    "locationDetails": "Davao City; confirm visitor entrance.",
+    "evidence": [
+      {
+        "fields": [
+          "description",
+          "location"
+        ],
+        "sourceName": "Davao City Tourism — Amusements",
+        "sourceUrl": "https://tourism.davaocity.gov.ph/explore-the-city/attractions/amusements-2/",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      }
+    ]
+  }
+]

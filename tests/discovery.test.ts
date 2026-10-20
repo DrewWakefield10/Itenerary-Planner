@@ -84,9 +84,11 @@ test("discovery IDs, exact spot-to-base mappings, and canonical article identiti
     discoveryPlaces.length,
   );
   for (const p of discoveryPlaces.filter((p) => p.kind === "spot")) {
-    assert.ok(discoveryStop(p), p.id);
-    assert.equal(p.reviewedOn, p.source.dateChecked);
-    assert.ok(p.source.sourceUrl?.startsWith("https://"));
+    if(p.stopId)assert.ok(discoveryStop(p), p.id);
+    else assert.equal(discoveryStop(p),null);
+    assert.ok(p.reviewedOn! >= p.source.dateChecked!);
+    if(p.source.status==="verified")assert.ok(p.source.sourceUrl?.startsWith("https://"));
+    else assert.equal(p.source.dateChecked,null);
   }
   assert.equal(
     articleMappings.find((m) => m.placeId === "base-coron")?.title,
@@ -322,7 +324,7 @@ test("nearby discoveries use only reviewed coordinates and explicitly keep spots
     verifiedPlaceCoordinates(discoveryPlace("cebu-casa-gorordo")!),
     null,
   );
-  assert.deepEqual(nearbyDiscoveries("cebu").spots, []);
+  assert.ok(nearbyDiscoveries("cebu").spots.every(({place})=>verifiedPlaceCoordinates(place)&&place.baseSlug==="cebu"));
 });
 function tripAt(slug = "baguio") {
   const trip = generateDemo({
@@ -414,7 +416,7 @@ test("additions reject wrong bases, connection days, duplicates, overlaps, inval
   );
   assert.throws(
     () => previewDiscoveryAddition(added, 1, "baguio-wright-park", "18:00"),
-    /already in that day/,
+    /already in this trip/,
   );
   assert.ok(suggestedDiscoveryTime(trip, 1, "baguio-wright-park"));
   const cebu = tripAt("cebu");

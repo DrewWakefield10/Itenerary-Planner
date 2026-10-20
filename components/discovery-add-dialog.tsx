@@ -223,6 +223,9 @@ export default function DiscoveryAddDialog({
                     . This is not a quoted fee; a zero allowance does not mean
                     free entry.
                   </p>
+                  <p>{preview.activity.booking} <SourceIndicator source={preview.activity.sources.booking} label="Booking" /></p>
+                  <p>{preview.activity.transport} <SourceIndicator source={preview.activity.sources.transport} label="Transport" /></p>
+                  {preview.activity.entryPrice&&<p>Entry price: {preview.activity.entryPrice.amount===null?"Unknown; confirm with the venue.":`${peso(preview.activity.entryPrice.amount)} per ${preview.activity.entryPrice.basis}`} <SourceIndicator source={preview.activity.entryPrice.source} label="Entry price" /></p>}
                   <p>
                     {preview.activity.openingHours
                       ? "This fits the recorded regular opening hours. Check special closures and reservations."

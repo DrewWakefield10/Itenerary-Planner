@@ -11,6 +11,13 @@ const base={...defaultRequest,startDate:'2026-12-10',days:3};
 const now=Date.parse('2026-12-10T00:00:00Z');
 const forecast:Forecast={available:true,date:'2026-12-10',rain:80,weatherCode:63,retrievedAt:new Date(now).toISOString()};
 const baguio=()=>generateDemo({...base,destinations:['baguio']});
+const cebu=(date=base.startDate)=>{
+  const trip=generateDemo({...base,startDate:date,destinations:['cebu']});
+  trip.days[0].activities=trip.days[0].activities.filter(a=>!a.catalogStopId);
+  trip.days[0].activities.push(fromStop(destination('cebu')!.stops.find(s=>s.name==='Fort San Pedro')!,trip.request,'14:00'));
+  for(const day of trip.days.slice(1))day.activities=day.activities.filter(a=>a.name!=='Casa Gorordo Museum area');
+  return trip;
+};
 const parkId=(trip:ReturnType<typeof baguio>)=>trip.days[0].activities.find(a=>a.name==='Burnham Park')!.id;
 
 test('fresh daily rain signals use explicit thresholds; missing, stale, future-dated, and mismatched data never imply favorable conditions',()=>{
@@ -35,8 +42,8 @@ test('suggestions match the destination and recorded rain tag; marine/heat tags 
   }
   const unsupported=generateDemo({...base,destinations:['palawan']});
   assert.ok(affectedRainActivities(unsupported,0).every(x=>!x.alternative));
-  const cebu=generateDemo({...base,destinations:['cebu']});
-  const candidate=affectedRainActivities(cebu,0).find(x=>x.alternative)!.alternative!;
+  const cebuTrip=cebu();
+  const candidate=affectedRainActivities(cebuTrip,0).find(x=>x.alternative)!.alternative!;
   assert.equal(candidate.replacement.name,'Casa Gorordo Museum area');
   assert.equal(candidate.replacement.openingHours?.source.sourceUrl,'https://www.casagorordomuseum.org/');
 });
@@ -51,9 +58,9 @@ test('time buffers, known opening hours, locks, duplicates, and location uncerta
   assert.match(rainAlternativeFor(remote,0,id).reason!,/local planning area/);
   const duplicate=structuredClone(trip);duplicate.days[0].activities.push(fromStop(destination('baguio')!.stops.find(s=>s.name==='Session Road cafe break')!,base,'17:00'));
   assert.match(rainAlternativeFor(duplicate,0,id).reason!,/already in this day/);
-  const sunday=generateDemo({...base,startDate:'2026-12-13',destinations:['cebu']});
+  const sunday=cebu('2026-12-13');
   assert.ok(affectedRainActivities(sunday,0).every(x=>!x.alternative&&/opening/.test(x.unavailableReason||'')));
-  const late=generateDemo({...base,destinations:['cebu']});const stop=late.days[0].activities.find(a=>a.disruptionSensitivities.includes('heavy-rain'))!;stop.start='17:00';
+  const late=cebu();const stop=late.days[0].activities.find(a=>a.disruptionSensitivities.includes('heavy-rain'))!;stop.start='17:00';
   assert.equal(rainAlternativeFor(late,0,stop.id).alternative,undefined);
 });
 
@@ -72,7 +79,7 @@ test('previews are immutable; acceptance changes exactly one stop and recalculat
 });
 
 test('replacement and serialized tags/hours retain independent metadata and estimate labels',()=>{
-  const trip=generateDemo({...base,destinations:['cebu']});const alt=affectedRainActivities(trip,0).find(x=>x.alternative)!.alternative!;
+  const trip=cebu();const alt=affectedRainActivities(trip,0).find(x=>x.alternative)!.alternative!;
   const proposed=previewRainReplacement(trip,0,alt);
   const imported=tripSchema.parse(JSON.parse(JSON.stringify(proposed)));
   const stop=imported.days[0].activities.find(a=>a.id===alt.original.id)!;

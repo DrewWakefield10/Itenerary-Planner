@@ -35,7 +35,7 @@ test("each base generates its own stops and evidence survives regeneration and J
       assert.deepEqual(a.sources.coordinates, stop.sources.coordinates);
       assert.deepEqual(a.sources.location, stop.sources.location);
       assert.equal(a.sources.price.status, "estimate");
-      assert.equal(a.sources.description.status, "unverified");
+      assert.deepEqual(a.sources.description, stop.sources.description);
     }
     assert.equal(trip.destinationInfo[0].slug, slug);
     assert.deepEqual(tripSchema.parse(JSON.parse(JSON.stringify(trip))), trip);

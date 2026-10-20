@@ -60,10 +60,10 @@ export function rainAlternativeFor(
     (s) => s.name === config.stopName,
   );
   if (!seed) return { reason: "The alternative seed is unavailable." };
-  if (day.activities.some((a) => a.name === seed.name))
+  if (trip.days.some(d=>d.activities.some((a) => a.name === seed.name)))
     return {
       reason:
-        "The curated indoor or flexible stop is already in this day. No duplicate visit is suggested.",
+        "The curated indoor or flexible stop is already in this day or another day of your trip. No duplicate visit is suggested.",
     };
   const candidate = fromStop(seed, trip.request, original.start);
   if (original.cluster !== candidate.cluster || !nearby(original, candidate))
@@ -130,8 +130,10 @@ export function rainAlternativeFor(
   candidate.start = clock(visitStart);
   candidate.duration = config.visitMinutes;
   candidate.description = config.note;
+  candidate.sources.description = estimatedSource();
   candidate.transport = `Reserve ${config.transferBufferMinutes} minutes before and after the visit using the original slot or existing gaps. This is a planning allowance, not a routed travel-time estimate. Confirm current local transport and conditions.`;
   candidate.sources.schedule = estimatedSource();
+  candidate.sources.transport = estimatedSource();
   const notes = [
     config.note,
     `${config.transferBufferMinutes}-minute transfer buffers are reserved. No road route or journey duration has been verified.`,

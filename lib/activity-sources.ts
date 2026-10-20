@@ -39,8 +39,15 @@ export function updateActivityField<K extends keyof Activity>(
     ...activity,
     [key]: value,
     sources,
+    ...((key==="lat"||key==="lng")&&activity.geography?{geography:{...activity.geography,[key==="lat"?"latitude":"longitude"]:value,sources:{...activity.geography.sources,coordinates:unverifiedSource()}}}:{}),
     ...(key === "name"
       ? {
+          catalogStopId: null,
+          geography:null,
+          canonicalStopId: null,
+          entryPrice: null,
+          includedStopIds: [],
+          bookingRequired: false,
           disruptionSensitivities: [],
           openingHours: null,
           locationDetails:

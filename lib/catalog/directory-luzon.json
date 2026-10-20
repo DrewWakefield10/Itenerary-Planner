@@ -1,0 +1,3533 @@
+[
+  {
+    "id": "baguio-baguio-museum",
+    "name": "Baguio Museum",
+    "destination_group": "Baguio",
+    "region": "Cordillera Administrative Region",
+    "province": null,
+    "city_municipality": "Baguio City",
+    "barangay": null,
+    "address": "Governor Pack Road",
+    "latitude": null,
+    "longitude": null,
+    "category": "Culture",
+    "description": "A museum on Governor Pack Road in central Baguio.",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "itinerary_base_slug": "baguio",
+    "catalog_stop_id": "baguio-baguio-museum",
+    "status": "accepted",
+    "decision_reason": "Distinct named place with official city identity and municipality evidence.",
+    "sources": {
+      "identity": {
+        "sourceName": "Baguio City Government - tourist directory",
+        "sourceUrl": "https://infoboard.baguio.gov.ph/tourists-spots",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Baguio City Government - tourist directory",
+        "sourceUrl": "https://infoboard.baguio.gov.ph/tourists-spots",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": "Baguio City Government - tourist directory",
+        "sourceUrl": "https://infoboard.baguio.gov.ph/tourists-spots",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "baguio-tam-awan-village",
+    "name": "Tam-awan Village",
+    "destination_group": "Baguio",
+    "region": "Cordillera Administrative Region",
+    "province": null,
+    "city_municipality": "Baguio City",
+    "barangay": null,
+    "address": "366-C Long Long Benguet Road",
+    "latitude": null,
+    "longitude": null,
+    "category": "Culture",
+    "description": "Tam-awan Village on Long Long Benguet Road.",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "itinerary_base_slug": "baguio",
+    "catalog_stop_id": "baguio-tam-awan-village",
+    "status": "accepted",
+    "decision_reason": "Distinct named place with official city identity and municipality evidence.",
+    "sources": {
+      "identity": {
+        "sourceName": "Baguio City Government - tourist directory",
+        "sourceUrl": "https://infoboard.baguio.gov.ph/tourists-spots",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Baguio City Government - tourist directory",
+        "sourceUrl": "https://infoboard.baguio.gov.ph/tourists-spots",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": "Baguio City Government - tourist directory",
+        "sourceUrl": "https://infoboard.baguio.gov.ph/tourists-spots",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "baguio-camp-john-hay",
+    "name": "Camp John Hay",
+    "destination_group": "Baguio",
+    "region": "Cordillera Administrative Region",
+    "province": null,
+    "city_municipality": "Baguio City",
+    "barangay": null,
+    "address": "Loakan Road",
+    "latitude": null,
+    "longitude": null,
+    "category": "Nature",
+    "description": "A recreation destination along Loakan Road.",
+    "interests": [
+      "Nature Lover",
+      "Slow Traveler"
+    ],
+    "itinerary_base_slug": "baguio",
+    "catalog_stop_id": "baguio-camp-john-hay",
+    "status": "accepted",
+    "decision_reason": "Distinct named place with official city identity and municipality evidence.",
+    "sources": {
+      "identity": {
+        "sourceName": "Baguio City Government - tourist directory",
+        "sourceUrl": "https://infoboard.baguio.gov.ph/tourists-spots",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Baguio City Government - tourist directory",
+        "sourceUrl": "https://infoboard.baguio.gov.ph/tourists-spots",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": "Baguio City Government - tourist directory",
+        "sourceUrl": "https://infoboard.baguio.gov.ph/tourists-spots",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "baguio-easter-weaving-room",
+    "name": "Easter Weaving Room",
+    "destination_group": "Baguio",
+    "region": "Cordillera Administrative Region",
+    "province": null,
+    "city_municipality": "Baguio City",
+    "barangay": null,
+    "address": "2 Easter Road, Guisad",
+    "latitude": null,
+    "longitude": null,
+    "category": "Culture",
+    "description": "A weaving venue in Guisad on Easter Road.",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "itinerary_base_slug": "baguio",
+    "catalog_stop_id": "baguio-easter-weaving-room",
+    "status": "accepted",
+    "decision_reason": "Distinct named place with official city identity and municipality evidence.",
+    "sources": {
+      "identity": {
+        "sourceName": "Baguio City Government - tourist directory",
+        "sourceUrl": "https://infoboard.baguio.gov.ph/tourists-spots",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Baguio City Government - tourist directory",
+        "sourceUrl": "https://infoboard.baguio.gov.ph/tourists-spots",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": "Baguio City Government - tourist directory",
+        "sourceUrl": "https://infoboard.baguio.gov.ph/tourists-spots",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "baguio-ili-likha",
+    "name": "Ili-Likha Artists' Wateringhole",
+    "destination_group": "Baguio",
+    "region": "Cordillera Administrative Region",
+    "province": null,
+    "city_municipality": "Baguio City",
+    "barangay": null,
+    "address": "32 Assumption Road",
+    "latitude": null,
+    "longitude": null,
+    "category": "Culture",
+    "description": "An artists' venue on Assumption Road.",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "itinerary_base_slug": "baguio",
+    "catalog_stop_id": "baguio-ili-likha",
+    "status": "accepted",
+    "decision_reason": "Distinct named place with official city identity and municipality evidence.",
+    "sources": {
+      "identity": {
+        "sourceName": "Baguio City Government - tourist directory",
+        "sourceUrl": "https://infoboard.baguio.gov.ph/tourists-spots",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Baguio City Government - tourist directory",
+        "sourceUrl": "https://infoboard.baguio.gov.ph/tourists-spots",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": "Baguio City Government - tourist directory",
+        "sourceUrl": "https://infoboard.baguio.gov.ph/tourists-spots",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "baguio-aguinaldo-museum",
+    "name": "Emilio F. Aguinaldo Museum",
+    "destination_group": "Baguio",
+    "region": "Cordillera Administrative Region",
+    "province": null,
+    "city_municipality": "Baguio City",
+    "barangay": null,
+    "address": "Happy Glen Loop Road",
+    "latitude": null,
+    "longitude": null,
+    "category": "Culture",
+    "description": "The Emilio Aguinaldo museum on Happy Glen Loop Road.",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "itinerary_base_slug": "baguio",
+    "catalog_stop_id": "baguio-aguinaldo-museum",
+    "status": "accepted",
+    "decision_reason": "Distinct named place with official city identity and municipality evidence.",
+    "sources": {
+      "identity": {
+        "sourceName": "Baguio City Government - tourist directory",
+        "sourceUrl": "https://infoboard.baguio.gov.ph/tourists-spots",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Baguio City Government - tourist directory",
+        "sourceUrl": "https://infoboard.baguio.gov.ph/tourists-spots",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": "Baguio City Government - tourist directory",
+        "sourceUrl": "https://infoboard.baguio.gov.ph/tourists-spots",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "baguio-maryknoll-sanctuary",
+    "name": "Maryknoll Ecological Sanctuary",
+    "destination_group": "Baguio",
+    "region": "Cordillera Administrative Region",
+    "province": null,
+    "city_municipality": "Baguio City",
+    "barangay": null,
+    "address": "North Santo Tomas Road",
+    "latitude": null,
+    "longitude": null,
+    "category": "Nature",
+    "description": "An ecological sanctuary on North Santo Tomas Road.",
+    "interests": [
+      "Nature Lover",
+      "Slow Traveler"
+    ],
+    "itinerary_base_slug": "baguio",
+    "catalog_stop_id": "baguio-maryknoll-sanctuary",
+    "status": "accepted",
+    "decision_reason": "Distinct named place with official city identity and municipality evidence.",
+    "sources": {
+      "identity": {
+        "sourceName": "Baguio City Government - tourist directory",
+        "sourceUrl": "https://infoboard.baguio.gov.ph/tourists-spots",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Baguio City Government - tourist directory",
+        "sourceUrl": "https://infoboard.baguio.gov.ph/tourists-spots",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": "Baguio City Government - tourist directory",
+        "sourceUrl": "https://infoboard.baguio.gov.ph/tourists-spots",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "baguio-lourdes-grotto",
+    "name": "Lourdes Grotto and Chapel",
+    "destination_group": "Baguio",
+    "region": "Cordillera Administrative Region",
+    "province": null,
+    "city_municipality": "Baguio City",
+    "barangay": null,
+    "address": "15 Saint Theresa Extension",
+    "latitude": null,
+    "longitude": null,
+    "category": "Culture",
+    "description": "A religious grotto and chapel on Saint Theresa Extension.",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "itinerary_base_slug": "baguio",
+    "catalog_stop_id": "baguio-lourdes-grotto",
+    "status": "accepted",
+    "decision_reason": "Distinct named place with official city identity and municipality evidence.",
+    "sources": {
+      "identity": {
+        "sourceName": "Baguio City Government - tourist directory",
+        "sourceUrl": "https://infoboard.baguio.gov.ph/tourists-spots",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Baguio City Government - tourist directory",
+        "sourceUrl": "https://infoboard.baguio.gov.ph/tourists-spots",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": "Baguio City Government - tourist directory",
+        "sourceUrl": "https://infoboard.baguio.gov.ph/tourists-spots",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "baguio-heritage-hill",
+    "name": "Heritage Hill and Nature Park Garden",
+    "destination_group": "Baguio",
+    "region": "Cordillera Administrative Region",
+    "province": null,
+    "city_municipality": "Baguio City",
+    "barangay": null,
+    "address": "Dominican Hill, Diplomat Road",
+    "latitude": null,
+    "longitude": null,
+    "category": "Culture",
+    "description": "Heritage park at the Old Diplomat Hotel site.",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "itinerary_base_slug": "baguio",
+    "catalog_stop_id": "baguio-heritage-hill",
+    "status": "accepted",
+    "decision_reason": "Distinct named place with official city identity and municipality evidence.",
+    "sources": {
+      "identity": {
+        "sourceName": "Baguio City Government - tourist directory",
+        "sourceUrl": "https://infoboard.baguio.gov.ph/tourists-spots",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Baguio City Government - tourist directory",
+        "sourceUrl": "https://infoboard.baguio.gov.ph/tourists-spots",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": "Baguio City Government - tourist directory",
+        "sourceUrl": "https://infoboard.baguio.gov.ph/tourists-spots",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "baguio-museo-kordilyera",
+    "name": "Museo Kordilyera",
+    "destination_group": "Baguio",
+    "region": "Cordillera Administrative Region",
+    "province": null,
+    "city_municipality": "Baguio City",
+    "barangay": null,
+    "address": "UP Baguio campus, 30 Governor Pack Road",
+    "latitude": null,
+    "longitude": null,
+    "category": "Culture",
+    "description": "UP Baguio's museum of Cordillera cultures.",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "itinerary_base_slug": "baguio",
+    "catalog_stop_id": "baguio-museo-kordilyera",
+    "status": "accepted",
+    "decision_reason": "Distinct named place with official city identity and municipality evidence.",
+    "sources": {
+      "identity": {
+        "sourceName": "Baguio City Government - tourist directory",
+        "sourceUrl": "https://infoboard.baguio.gov.ph/tourists-spots",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Baguio City Government - tourist directory",
+        "sourceUrl": "https://infoboard.baguio.gov.ph/tourists-spots",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": "Baguio City Government - tourist directory",
+        "sourceUrl": "https://infoboard.baguio.gov.ph/tourists-spots",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "baguio-mansion-house",
+    "name": "Baguio Mansion House Presidential Museum",
+    "destination_group": "Baguio",
+    "region": "Cordillera Administrative Region",
+    "province": null,
+    "city_municipality": "Baguio City",
+    "barangay": null,
+    "address": "Romulo Drive",
+    "latitude": 16.412222,
+    "longitude": 120.621389,
+    "category": "Culture",
+    "description": "Presidential history in the former summer residence.",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "itinerary_base_slug": "baguio",
+    "catalog_stop_id": "baguio-mansion-house",
+    "status": "accepted",
+    "decision_reason": "Distinct named place with official city identity and municipality evidence.",
+    "sources": {
+      "identity": {
+        "sourceName": "Baguio City Government - tourist directory",
+        "sourceUrl": "https://infoboard.baguio.gov.ph/tourists-spots",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Baguio City Government - tourist directory",
+        "sourceUrl": "https://infoboard.baguio.gov.ph/tourists-spots",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": "Baguio City Government - tourist directory",
+        "sourceUrl": "https://infoboard.baguio.gov.ph/tourists-spots",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "coordinates": {
+        "sourceName": "Wikipedia - The Mansion (Baguio), reference coordinates",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Mansion_(Baguio)",
+        "dateChecked": "2026-10-19",
+        "status": "estimate"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "baguio-burnham-park",
+    "name": "Burnham Park",
+    "destination_group": "Baguio",
+    "region": "Cordillera Administrative Region",
+    "province": null,
+    "city_municipality": "Baguio City",
+    "barangay": null,
+    "address": "Jose Abad Santos Drive",
+    "latitude": 16.41056,
+    "longitude": 120.59472,
+    "category": "Parks & markets",
+    "description": "A historic urban park in downtown Baguio.",
+    "interests": [
+      "Nature Lover",
+      "Slow Traveler"
+    ],
+    "itinerary_base_slug": "baguio",
+    "catalog_stop_id": "baguio-burnham-park",
+    "status": "accepted",
+    "decision_reason": "Distinct named place with official city identity and municipality evidence.",
+    "sources": {
+      "identity": {
+        "sourceName": "Baguio City Government - tourist directory",
+        "sourceUrl": "https://infoboard.baguio.gov.ph/tourists-spots",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Baguio City Government - tourist directory",
+        "sourceUrl": "https://infoboard.baguio.gov.ph/tourists-spots",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": "Baguio City Government - tourist directory",
+        "sourceUrl": "https://infoboard.baguio.gov.ph/tourists-spots",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "coordinates": {
+        "sourceName": "Wikipedia — Burnham Park (Baguio)",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Burnham_Park_(Baguio)",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "baguio-botanical-garden",
+    "name": "Baguio Botanical Garden",
+    "destination_group": "Baguio",
+    "region": "Cordillera Administrative Region",
+    "province": null,
+    "city_municipality": "Baguio City",
+    "barangay": null,
+    "address": "Leonard Wood Road",
+    "latitude": 16.41456217,
+    "longitude": 120.61319207,
+    "category": "Nature",
+    "description": "A garden on Leonard Wood Road in Baguio.",
+    "interests": [
+      "Nature Lover",
+      "Slow Traveler"
+    ],
+    "itinerary_base_slug": "baguio",
+    "catalog_stop_id": "baguio-botanical-garden",
+    "status": "accepted",
+    "decision_reason": "Distinct named place with official city identity and municipality evidence.",
+    "sources": {
+      "identity": {
+        "sourceName": "Baguio City Government - tourist directory",
+        "sourceUrl": "https://infoboard.baguio.gov.ph/tourists-spots",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Baguio City Government - tourist directory",
+        "sourceUrl": "https://infoboard.baguio.gov.ph/tourists-spots",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": "Baguio City Government - tourist directory",
+        "sourceUrl": "https://infoboard.baguio.gov.ph/tourists-spots",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "coordinates": {
+        "sourceName": "Wikipedia - reference coordinates",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Baguio_Botanical_Garden",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "baguio-wright-park",
+    "name": "Wright Park",
+    "destination_group": "Baguio",
+    "region": "Cordillera Administrative Region",
+    "province": null,
+    "city_municipality": "Baguio City",
+    "barangay": null,
+    "address": "Romulo Drive",
+    "latitude": 16.41533,
+    "longitude": 120.6185,
+    "category": "Nature",
+    "description": "A park on Romulo Drive near The Mansion.",
+    "interests": [
+      "Nature Lover",
+      "Slow Traveler"
+    ],
+    "itinerary_base_slug": "baguio",
+    "catalog_stop_id": "baguio-wright-park",
+    "status": "accepted",
+    "decision_reason": "Distinct named place with official city identity and municipality evidence.",
+    "sources": {
+      "identity": {
+        "sourceName": "Baguio City Government - tourist directory",
+        "sourceUrl": "https://infoboard.baguio.gov.ph/tourists-spots",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Baguio City Government - tourist directory",
+        "sourceUrl": "https://infoboard.baguio.gov.ph/tourists-spots",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": "Baguio City Government - tourist directory",
+        "sourceUrl": "https://infoboard.baguio.gov.ph/tourists-spots",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "coordinates": {
+        "sourceName": "Wikipedia - reference coordinates",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Wright_Park_(Baguio)",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "baguio-baguio-cathedral-area",
+    "name": "Baguio Cathedral",
+    "destination_group": "Baguio",
+    "region": "Cordillera Administrative Region",
+    "province": null,
+    "city_municipality": "Baguio City",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Culture",
+    "description": "Baguio's Cathedral of Our Lady of the Atonement.",
+    "interests": [
+      "Culture Seeker",
+      "Slow Traveler"
+    ],
+    "itinerary_base_slug": "baguio",
+    "catalog_stop_id": "baguio-baguio-cathedral-area",
+    "status": "accepted",
+    "decision_reason": "Distinct named place with official city identity and municipality evidence.",
+    "sources": {
+      "identity": {
+        "sourceName": "Baguio City Government - tourist directory",
+        "sourceUrl": "https://infoboard.baguio.gov.ph/tourists-spots",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Baguio City Government - tourist directory",
+        "sourceUrl": "https://infoboard.baguio.gov.ph/tourists-spots",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "baguio-mirador-hill",
+    "name": "Mirador Hill",
+    "destination_group": "Baguio",
+    "region": "Cordillera Administrative Region",
+    "province": null,
+    "city_municipality": "Baguio City",
+    "barangay": null,
+    "address": "15 Saint Theresa Extension",
+    "latitude": null,
+    "longitude": null,
+    "category": "Nature",
+    "description": "A hill attraction on Saint Theresa Extension.",
+    "interests": [
+      "Nature Lover",
+      "Slow Traveler"
+    ],
+    "itinerary_base_slug": "baguio",
+    "catalog_stop_id": null,
+    "status": "accepted",
+    "decision_reason": "Distinct named place with official city identity and municipality evidence.",
+    "sources": {
+      "identity": {
+        "sourceName": "Baguio City Government - tourist directory",
+        "sourceUrl": "https://infoboard.baguio.gov.ph/tourists-spots",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Baguio City Government - tourist directory",
+        "sourceUrl": "https://infoboard.baguio.gov.ph/tourists-spots",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": "Baguio City Government - tourist directory",
+        "sourceUrl": "https://infoboard.baguio.gov.ph/tourists-spots",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "baguio-bell-church",
+    "name": "Bell Church",
+    "destination_group": "Baguio",
+    "region": "Cordillera Administrative Region",
+    "province": "Benguet",
+    "city_municipality": "La Trinidad",
+    "barangay": null,
+    "address": "Bell Church Road",
+    "latitude": null,
+    "longitude": null,
+    "category": "Culture",
+    "description": "A named city visitor stop.",
+    "interests": [
+      "Culture Seeker",
+      "Slow Traveler"
+    ],
+    "itinerary_base_slug": null,
+    "catalog_stop_id": null,
+    "status": "rejected",
+    "decision_reason": "Outside Baguio City; actual municipality is La Trinidad. Excluded from this city-focused shortlist.",
+    "sources": {
+      "identity": {
+        "sourceName": "Baguio City Government - tourist directory",
+        "sourceUrl": "https://infoboard.baguio.gov.ph/tourists-spots",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Baguio City Government - tourist directory",
+        "sourceUrl": "https://infoboard.baguio.gov.ph/tourists-spots",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": "Baguio City Government - tourist directory",
+        "sourceUrl": "https://infoboard.baguio.gov.ph/tourists-spots",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "baguio-loakan-airport",
+    "name": "Loakan Airport",
+    "destination_group": "Baguio",
+    "region": "Cordillera Administrative Region",
+    "province": null,
+    "city_municipality": "Baguio City",
+    "barangay": null,
+    "address": "Loakan Road",
+    "latitude": null,
+    "longitude": null,
+    "category": "Attractions",
+    "description": "A named city visitor stop.",
+    "interests": [
+      "Culture Seeker",
+      "Slow Traveler"
+    ],
+    "itinerary_base_slug": null,
+    "catalog_stop_id": null,
+    "status": "rejected",
+    "decision_reason": "Transport facility rather than a selected visitor attraction.",
+    "sources": {
+      "identity": {
+        "sourceName": "Baguio City Government - tourist directory",
+        "sourceUrl": "https://infoboard.baguio.gov.ph/tourists-spots",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Baguio City Government - tourist directory",
+        "sourceUrl": "https://infoboard.baguio.gov.ph/tourists-spots",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": "Baguio City Government - tourist directory",
+        "sourceUrl": "https://infoboard.baguio.gov.ph/tourists-spots",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "baguio-sm-city-baguio",
+    "name": "SM City Baguio",
+    "destination_group": "Baguio",
+    "region": "Cordillera Administrative Region",
+    "province": null,
+    "city_municipality": "Baguio City",
+    "barangay": null,
+    "address": "Luneta Hill, Upper Session Road",
+    "latitude": null,
+    "longitude": null,
+    "category": "Parks & markets",
+    "description": "A named city visitor stop.",
+    "interests": [
+      "Culture Seeker",
+      "Slow Traveler"
+    ],
+    "itinerary_base_slug": "baguio",
+    "catalog_stop_id": null,
+    "status": "rejected",
+    "decision_reason": "Real commercial mall omitted in favor of distinctive cultural and outdoor places.",
+    "sources": {
+      "identity": {
+        "sourceName": "Baguio City Government - tourist directory",
+        "sourceUrl": "https://infoboard.baguio.gov.ph/tourists-spots",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Baguio City Government - tourist directory",
+        "sourceUrl": "https://infoboard.baguio.gov.ph/tourists-spots",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": "Baguio City Government - tourist directory",
+        "sourceUrl": "https://infoboard.baguio.gov.ph/tourists-spots",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "baguio-pma",
+    "name": "Philippine Military Academy",
+    "destination_group": "Baguio",
+    "region": "Cordillera Administrative Region",
+    "province": null,
+    "city_municipality": "Baguio City",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Culture",
+    "description": "A named city visitor stop.",
+    "interests": [
+      "Culture Seeker",
+      "Slow Traveler"
+    ],
+    "itinerary_base_slug": "baguio",
+    "catalog_stop_id": null,
+    "status": "unresolved",
+    "decision_reason": "Identity and city confirmed, but current public visitor access needs confirmation before directory selection.",
+    "sources": {
+      "identity": {
+        "sourceName": "Baguio City Government - tourist directory",
+        "sourceUrl": "https://infoboard.baguio.gov.ph/tourists-spots",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Baguio City Government - tourist directory",
+        "sourceUrl": "https://infoboard.baguio.gov.ph/tourists-spots",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "sagada-sumaguing-cave",
+    "name": "Sumaguing Cave",
+    "destination_group": "Sagada",
+    "region": "Cordillera Administrative Region",
+    "province": "Mountain Province",
+    "city_municipality": "Sagada",
+    "barangay": null,
+    "address": null,
+    "latitude": 17.06673,
+    "longitude": 120.90297,
+    "category": "Nature",
+    "description": "Sagada cave known locally as Sumaging or the Big Cave.",
+    "interests": [
+      "Adventure Junkie",
+      "Nature Lover"
+    ],
+    "itinerary_base_slug": "sagada",
+    "catalog_stop_id": "sagada-sumaguing-cave",
+    "status": "accepted",
+    "decision_reason": "Distinct physical place with verified identity and actual municipality.",
+    "sources": {
+      "identity": {
+        "sourceName": "Municipality of Sagada - iPass destination directory",
+        "sourceUrl": "https://umali-kayo.sagada.gov.ph/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Municipality of Sagada - iPass destination directory",
+        "sourceUrl": "https://umali-kayo.sagada.gov.ph/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": "Wikidata / Wikimedia Commons - Sumaguing Cave, reference coordinates",
+        "sourceUrl": "https://www.wikidata.org/wiki/Q91479447",
+        "dateChecked": "2026-10-19",
+        "status": "estimate"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "sagada-lumiang-cave",
+    "name": "Lumiang Cave",
+    "destination_group": "Sagada",
+    "region": "Cordillera Administrative Region",
+    "province": "Mountain Province",
+    "city_municipality": "Sagada",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Culture",
+    "description": "A cave associated with Sagada's burial traditions.",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "itinerary_base_slug": "sagada",
+    "catalog_stop_id": "sagada-lumiang-cave",
+    "status": "accepted",
+    "decision_reason": "Distinct physical place with verified identity and actual municipality.",
+    "sources": {
+      "identity": {
+        "sourceName": "Municipality of Sagada - iPass destination directory",
+        "sourceUrl": "https://umali-kayo.sagada.gov.ph/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Municipality of Sagada - iPass destination directory",
+        "sourceUrl": "https://umali-kayo.sagada.gov.ph/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "sagada-bomod-ok-falls",
+    "name": "Bomod-ok Falls",
+    "destination_group": "Sagada",
+    "region": "Cordillera Administrative Region",
+    "province": "Mountain Province",
+    "city_municipality": "Sagada",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Nature",
+    "description": "A waterfall reached on a separately planned Sagada hike.",
+    "interests": [
+      "Nature Lover",
+      "Slow Traveler",
+      "Mountain Explorer"
+    ],
+    "itinerary_base_slug": "sagada",
+    "catalog_stop_id": "sagada-bomod-ok-falls",
+    "status": "accepted",
+    "decision_reason": "Distinct physical place with verified identity and actual municipality.",
+    "sources": {
+      "identity": {
+        "sourceName": "Municipality of Sagada - iPass destination directory",
+        "sourceUrl": "https://umali-kayo.sagada.gov.ph/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Municipality of Sagada - iPass destination directory",
+        "sourceUrl": "https://umali-kayo.sagada.gov.ph/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "sagada-hanging-coffins",
+    "name": "Hanging Coffins",
+    "destination_group": "Sagada",
+    "region": "Cordillera Administrative Region",
+    "province": "Mountain Province",
+    "city_municipality": "Sagada",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Culture",
+    "description": "Cliffside coffins reflecting Sagada's burial traditions.",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "itinerary_base_slug": "sagada",
+    "catalog_stop_id": "sagada-hanging-coffins",
+    "status": "accepted",
+    "decision_reason": "Distinct physical place with verified identity and actual municipality.",
+    "sources": {
+      "identity": {
+        "sourceName": "Municipality of Sagada - iPass destination directory",
+        "sourceUrl": "https://umali-kayo.sagada.gov.ph/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Municipality of Sagada - iPass destination directory",
+        "sourceUrl": "https://umali-kayo.sagada.gov.ph/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "sagada-bokong-falls",
+    "name": "Bokong Falls",
+    "destination_group": "Sagada",
+    "region": "Cordillera Administrative Region",
+    "province": "Mountain Province",
+    "city_municipality": "Sagada",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Nature",
+    "description": "A waterfall destination on a Sagada walking route.",
+    "interests": [
+      "Nature Lover",
+      "Slow Traveler"
+    ],
+    "itinerary_base_slug": "sagada",
+    "catalog_stop_id": "sagada-bokong-falls",
+    "status": "accepted",
+    "decision_reason": "Distinct physical place with verified identity and actual municipality.",
+    "sources": {
+      "identity": {
+        "sourceName": "Municipality of Sagada - iPass destination directory",
+        "sourceUrl": "https://umali-kayo.sagada.gov.ph/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Municipality of Sagada - iPass destination directory",
+        "sourceUrl": "https://umali-kayo.sagada.gov.ph/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "sagada-blue-soil",
+    "name": "Blue Soil Hills",
+    "destination_group": "Sagada",
+    "region": "Cordillera Administrative Region",
+    "province": "Mountain Province",
+    "city_municipality": "Sagada",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Nature",
+    "description": "Sagada hills known for their distinctive blue soil.",
+    "interests": [
+      "Nature Lover",
+      "Slow Traveler"
+    ],
+    "itinerary_base_slug": "sagada",
+    "catalog_stop_id": "sagada-blue-soil",
+    "status": "accepted",
+    "decision_reason": "Distinct physical place with verified identity and actual municipality.",
+    "sources": {
+      "identity": {
+        "sourceName": "Municipality of Sagada - iPass destination directory",
+        "sourceUrl": "https://umali-kayo.sagada.gov.ph/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Municipality of Sagada - iPass destination directory",
+        "sourceUrl": "https://umali-kayo.sagada.gov.ph/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "sagada-marlboro-hills",
+    "name": "Marlboro Hills",
+    "destination_group": "Sagada",
+    "region": "Cordillera Administrative Region",
+    "province": "Mountain Province",
+    "city_municipality": "Sagada",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Nature",
+    "description": "A Sagada hill viewpoint also called Marlboro Country.",
+    "interests": [
+      "Nature Lover",
+      "Slow Traveler",
+      "Mountain Explorer"
+    ],
+    "itinerary_base_slug": "sagada",
+    "catalog_stop_id": "sagada-marlboro-hills",
+    "status": "accepted",
+    "decision_reason": "Distinct physical place with verified identity and actual municipality.",
+    "sources": {
+      "identity": {
+        "sourceName": "Municipality of Sagada - iPass destination directory",
+        "sourceUrl": "https://umali-kayo.sagada.gov.ph/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Municipality of Sagada - iPass destination directory",
+        "sourceUrl": "https://umali-kayo.sagada.gov.ph/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "sagada-ampacao",
+    "name": "Mount Ampacao",
+    "destination_group": "Sagada",
+    "region": "Cordillera Administrative Region",
+    "province": "Mountain Province",
+    "city_municipality": "Sagada",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Nature",
+    "description": "A mountain viewpoint route above Sagada.",
+    "interests": [
+      "Nature Lover",
+      "Slow Traveler",
+      "Mountain Explorer"
+    ],
+    "itinerary_base_slug": "sagada",
+    "catalog_stop_id": "sagada-ampacao",
+    "status": "accepted",
+    "decision_reason": "Distinct physical place with verified identity and actual municipality.",
+    "sources": {
+      "identity": {
+        "sourceName": "Municipality of Sagada - iPass destination directory",
+        "sourceUrl": "https://umali-kayo.sagada.gov.ph/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Municipality of Sagada - iPass destination directory",
+        "sourceUrl": "https://umali-kayo.sagada.gov.ph/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "sagada-balangagan-cave",
+    "name": "Balangagan Cave",
+    "destination_group": "Sagada",
+    "region": "Cordillera Administrative Region",
+    "province": "Mountain Province",
+    "city_municipality": "Sagada",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Nature",
+    "description": "A cave destination for a separately arranged Sagada outing.",
+    "interests": [
+      "Adventure Junkie",
+      "Nature Lover"
+    ],
+    "itinerary_base_slug": "sagada",
+    "catalog_stop_id": "sagada-balangagan-cave",
+    "status": "accepted",
+    "decision_reason": "Distinct physical place with verified identity and actual municipality.",
+    "sources": {
+      "identity": {
+        "sourceName": "Municipality of Sagada - iPass destination directory",
+        "sourceUrl": "https://umali-kayo.sagada.gov.ph/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Municipality of Sagada - iPass destination directory",
+        "sourceUrl": "https://umali-kayo.sagada.gov.ph/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "sagada-church-of-saint-mary-area",
+    "name": "Church of Saint Mary the Virgin",
+    "destination_group": "Sagada",
+    "region": "Cordillera Administrative Region",
+    "province": "Mountain Province",
+    "city_municipality": "Sagada",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Culture",
+    "description": "An Episcopal church in Sagada.",
+    "interests": [
+      "Culture Seeker",
+      "Slow Traveler"
+    ],
+    "itinerary_base_slug": "sagada",
+    "catalog_stop_id": "sagada-church-of-saint-mary-area",
+    "status": "accepted",
+    "decision_reason": "Distinct physical place with verified identity and actual municipality.",
+    "sources": {
+      "identity": {
+        "sourceName": "Wikipedia - Church of Saint Mary the Virgin (Sagada)",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Church_of_Saint_Mary_the_Virgin_(Sagada)",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Wikipedia - Church of Saint Mary the Virgin (Sagada)",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Church_of_Saint_Mary_the_Virgin_(Sagada)",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "sagada-nabas-ang",
+    "name": "Nabas-Ang",
+    "destination_group": "Sagada",
+    "region": "Cordillera Administrative Region",
+    "province": "Mountain Province",
+    "city_municipality": "Sagada",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Nature",
+    "description": "A ridge-trail outing.",
+    "interests": [
+      "Adventure Junkie",
+      "Mountain Explorer"
+    ],
+    "itinerary_base_slug": "sagada",
+    "catalog_stop_id": "sagada-nabas-ang",
+    "status": "rejected",
+    "decision_reason": "Trail overlaps Mount Ampacao; omitted to avoid presenting a shared route as an extra independent attraction.",
+    "sources": {
+      "identity": {
+        "sourceName": "Municipality of Sagada - iPass destination directory",
+        "sourceUrl": "https://umali-kayo.sagada.gov.ph/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Municipality of Sagada - iPass destination directory",
+        "sourceUrl": "https://umali-kayo.sagada.gov.ph/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "sagada-langsayan",
+    "name": "Langsayan",
+    "destination_group": "Sagada",
+    "region": "Cordillera Administrative Region",
+    "province": "Mountain Province",
+    "city_municipality": "Sagada",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Nature",
+    "description": "A terrace-view route.",
+    "interests": [
+      "Nature Lover",
+      "Slow Traveler"
+    ],
+    "itinerary_base_slug": "sagada",
+    "catalog_stop_id": "sagada-langsayan",
+    "status": "unresolved",
+    "decision_reason": "Current visitor route and access arrangements need clearer confirmation.",
+    "sources": {
+      "identity": {
+        "sourceName": "Municipality of Sagada - iPass destination directory",
+        "sourceUrl": "https://umali-kayo.sagada.gov.ph/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Municipality of Sagada - iPass destination directory",
+        "sourceUrl": "https://umali-kayo.sagada.gov.ph/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "sagada-pongas-falls",
+    "name": "Pongas Falls",
+    "destination_group": "Sagada",
+    "region": "Cordillera Administrative Region",
+    "province": "Mountain Province",
+    "city_municipality": "Sagada",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Nature",
+    "description": "A waterfall excursion.",
+    "interests": [
+      "Nature Lover",
+      "Slow Traveler"
+    ],
+    "itinerary_base_slug": "sagada",
+    "catalog_stop_id": "sagada-pongas-falls",
+    "status": "unresolved",
+    "decision_reason": "Current trail access needs confirmation before selection.",
+    "sources": {
+      "identity": {
+        "sourceName": "Municipality of Sagada - iPass destination directory",
+        "sourceUrl": "https://umali-kayo.sagada.gov.ph/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Municipality of Sagada - iPass destination directory",
+        "sourceUrl": "https://umali-kayo.sagada.gov.ph/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "sagada-ubwa-blue-lagoon",
+    "name": "Ubwa Blue Lagoon",
+    "destination_group": "Sagada",
+    "region": "Cordillera Administrative Region",
+    "province": "Mountain Province",
+    "city_municipality": "Sagada",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Nature",
+    "description": "A lagoon outing.",
+    "interests": [
+      "Nature Lover",
+      "Slow Traveler"
+    ],
+    "itinerary_base_slug": "sagada",
+    "catalog_stop_id": "sagada-ubwa-blue-lagoon",
+    "status": "unresolved",
+    "decision_reason": "Current public route and access need clearer evidence.",
+    "sources": {
+      "identity": {
+        "sourceName": "Municipality of Sagada - iPass destination directory",
+        "sourceUrl": "https://umali-kayo.sagada.gov.ph/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Municipality of Sagada - iPass destination directory",
+        "sourceUrl": "https://umali-kayo.sagada.gov.ph/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "batanes-basco-cathedral",
+    "name": "Basco Cathedral",
+    "destination_group": "Batanes",
+    "region": "Cagayan Valley",
+    "province": "Batanes",
+    "city_municipality": "Basco",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Culture",
+    "description": "A historic limestone church in Basco.",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "itinerary_base_slug": "batanes",
+    "catalog_stop_id": "batanes-basco-cathedral",
+    "status": "accepted",
+    "decision_reason": "Distinct physical place with verified identity and actual municipality.",
+    "sources": {
+      "identity": {
+        "sourceName": "Batanes Provincial Heritage and Tourism Office - tourism map",
+        "sourceUrl": "https://breathtakingbatanes.com/maps/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Batanes Provincial Heritage and Tourism Office - tourism map",
+        "sourceUrl": "https://breathtakingbatanes.com/maps/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "batanes-valugan-boulder-beach",
+    "name": "Valugan Boulder Beach",
+    "destination_group": "Batanes",
+    "region": "Cagayan Valley",
+    "province": "Batanes",
+    "city_municipality": "Basco",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Nature",
+    "description": "A boulder shoreline near Basco.",
+    "interests": [
+      "Nature Lover",
+      "Slow Traveler"
+    ],
+    "itinerary_base_slug": "batanes",
+    "catalog_stop_id": "batanes-valugan-boulder-beach",
+    "status": "accepted",
+    "decision_reason": "Distinct physical place with verified identity and actual municipality.",
+    "sources": {
+      "identity": {
+        "sourceName": "Batanes Provincial Heritage and Tourism Office - tourism map",
+        "sourceUrl": "https://breathtakingbatanes.com/maps/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Batanes Provincial Heritage and Tourism Office - tourism map",
+        "sourceUrl": "https://breathtakingbatanes.com/maps/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "batanes-vayang-rolling-hills",
+    "name": "Basco Rolling Hills (Vayang)",
+    "destination_group": "Batanes",
+    "region": "Cagayan Valley",
+    "province": "Batanes",
+    "city_municipality": "Basco",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Nature",
+    "description": "A hillside landscape in North Batan.",
+    "interests": [
+      "Nature Lover",
+      "Slow Traveler"
+    ],
+    "itinerary_base_slug": "batanes",
+    "catalog_stop_id": "batanes-vayang-rolling-hills",
+    "status": "accepted",
+    "decision_reason": "Distinct physical place with verified identity and actual municipality.",
+    "sources": {
+      "identity": {
+        "sourceName": "Batanes Provincial Heritage and Tourism Office - tourism map",
+        "sourceUrl": "https://breathtakingbatanes.com/maps/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Batanes Provincial Heritage and Tourism Office - tourism map",
+        "sourceUrl": "https://breathtakingbatanes.com/maps/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "batanes-tukon-chapel",
+    "name": "Tukon Chapel",
+    "destination_group": "Batanes",
+    "region": "Cagayan Valley",
+    "province": "Batanes",
+    "city_municipality": "Basco",
+    "barangay": null,
+    "address": null,
+    "latitude": 20.43,
+    "longitude": 121.97056,
+    "category": "Culture",
+    "description": "A chapel on the North Batan circuit.",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "itinerary_base_slug": "batanes",
+    "catalog_stop_id": "batanes-tukon-chapel",
+    "status": "accepted",
+    "decision_reason": "Distinct physical place with verified identity and actual municipality.",
+    "sources": {
+      "identity": {
+        "sourceName": "Batanes Provincial Heritage and Tourism Office - tourism map",
+        "sourceUrl": "https://breathtakingbatanes.com/maps/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Batanes Provincial Heritage and Tourism Office - tourism map",
+        "sourceUrl": "https://breathtakingbatanes.com/maps/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": "Wikipedia - Tukon Chapel, reference coordinates",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Tukon_Chapel",
+        "dateChecked": "2026-10-19",
+        "status": "estimate"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "batanes-dipnaysupuan-tunnel",
+    "name": "Dipnaysupuan Japanese Tunnel",
+    "destination_group": "Batanes",
+    "region": "Cagayan Valley",
+    "province": "Batanes",
+    "city_municipality": "Basco",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Culture",
+    "description": "A wartime tunnel in the Tukon hills.",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "itinerary_base_slug": "batanes",
+    "catalog_stop_id": "batanes-dipnaysupuan-tunnel",
+    "status": "accepted",
+    "decision_reason": "Distinct physical place with verified identity and actual municipality.",
+    "sources": {
+      "identity": {
+        "sourceName": "Batanes Provincial Heritage and Tourism Office - tourism map",
+        "sourceUrl": "https://breathtakingbatanes.com/maps/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Batanes Provincial Heritage and Tourism Office - tourism map",
+        "sourceUrl": "https://breathtakingbatanes.com/maps/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "batanes-fundacion-pacita",
+    "name": "Fundacion Pacita",
+    "destination_group": "Batanes",
+    "region": "Cagayan Valley",
+    "province": "Batanes",
+    "city_municipality": "Basco",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Culture",
+    "description": "An art-associated lodge at Chanarian-Tukon.",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "itinerary_base_slug": "batanes",
+    "catalog_stop_id": "batanes-fundacion-pacita",
+    "status": "accepted",
+    "decision_reason": "Distinct physical place with verified identity and actual municipality.",
+    "sources": {
+      "identity": {
+        "sourceName": "Batanes Provincial Heritage and Tourism Office - tourism map",
+        "sourceUrl": "https://breathtakingbatanes.com/maps/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Batanes Provincial Heritage and Tourism Office - tourism map",
+        "sourceUrl": "https://breathtakingbatanes.com/maps/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "batanes-san-carlos-borromeo",
+    "name": "San Carlos Borromeo Church",
+    "destination_group": "Batanes",
+    "region": "Cagayan Valley",
+    "province": "Batanes",
+    "city_municipality": "Mahatao",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Culture",
+    "description": "A heritage church in Mahatao.",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "itinerary_base_slug": null,
+    "catalog_stop_id": "batanes-san-carlos-borromeo",
+    "status": "accepted",
+    "decision_reason": "Distinct physical place with verified identity and actual municipality.",
+    "sources": {
+      "identity": {
+        "sourceName": "Batanes Provincial Heritage and Tourism Office - tourism map",
+        "sourceUrl": "https://breathtakingbatanes.com/maps/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Batanes Provincial Heritage and Tourism Office - tourism map",
+        "sourceUrl": "https://breathtakingbatanes.com/maps/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "batanes-rakuh-a-payaman",
+    "name": "Rakuh-a-Payaman",
+    "destination_group": "Batanes",
+    "region": "Cagayan Valley",
+    "province": "Batanes",
+    "city_municipality": "Mahatao",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Nature",
+    "description": "A communal pasture landscape in Mahatao.",
+    "interests": [
+      "Nature Lover",
+      "Slow Traveler"
+    ],
+    "itinerary_base_slug": null,
+    "catalog_stop_id": "batanes-rakuh-a-payaman",
+    "status": "accepted",
+    "decision_reason": "Distinct physical place with verified identity and actual municipality.",
+    "sources": {
+      "identity": {
+        "sourceName": "Batanes Provincial Heritage and Tourism Office - tourism map",
+        "sourceUrl": "https://breathtakingbatanes.com/maps/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Batanes Provincial Heritage and Tourism Office - tourism map",
+        "sourceUrl": "https://breathtakingbatanes.com/maps/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "batanes-diura-village",
+    "name": "Diura Fishing Village",
+    "destination_group": "Batanes",
+    "region": "Cagayan Valley",
+    "province": "Batanes",
+    "city_municipality": "Mahatao",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Culture",
+    "description": "A working fishing community in Mahatao.",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "itinerary_base_slug": null,
+    "catalog_stop_id": "batanes-diura-village",
+    "status": "accepted",
+    "decision_reason": "Distinct physical place with verified identity and actual municipality.",
+    "sources": {
+      "identity": {
+        "sourceName": "Batanes Provincial Heritage and Tourism Office - tourism map",
+        "sourceUrl": "https://breathtakingbatanes.com/maps/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Batanes Provincial Heritage and Tourism Office - tourism map",
+        "sourceUrl": "https://breathtakingbatanes.com/maps/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "batanes-house-of-dakay",
+    "name": "House of Dakay",
+    "destination_group": "Batanes",
+    "region": "Cagayan Valley",
+    "province": "Batanes",
+    "city_municipality": "Ivana",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Culture",
+    "description": "A historic house in Ivana.",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "itinerary_base_slug": null,
+    "catalog_stop_id": "batanes-house-of-dakay",
+    "status": "accepted",
+    "decision_reason": "Distinct physical place with verified identity and actual municipality.",
+    "sources": {
+      "identity": {
+        "sourceName": "Batanes Provincial Heritage and Tourism Office - tourism map",
+        "sourceUrl": "https://breathtakingbatanes.com/maps/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Batanes Provincial Heritage and Tourism Office - tourism map",
+        "sourceUrl": "https://breathtakingbatanes.com/maps/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "batanes-basco-plaza",
+    "name": "Basco Plaza",
+    "destination_group": "Batanes",
+    "region": "Cagayan Valley",
+    "province": "Batanes",
+    "city_municipality": "Basco",
+    "barangay": null,
+    "address": "National Road",
+    "latitude": null,
+    "longitude": null,
+    "category": "Parks & markets",
+    "description": "A plaza stop in Basco town.",
+    "interests": [
+      "Nature Lover",
+      "Slow Traveler"
+    ],
+    "itinerary_base_slug": "batanes",
+    "catalog_stop_id": "batanes-basco-plaza",
+    "status": "accepted",
+    "decision_reason": "Distinct physical place with verified identity and actual municipality.",
+    "sources": {
+      "identity": {
+        "sourceName": "Wikivoyage - Basco visitor listings",
+        "sourceUrl": "https://en.wikivoyage.org/wiki/Basco",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Wikivoyage - Basco visitor listings",
+        "sourceUrl": "https://en.wikivoyage.org/wiki/Basco",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": "Wikivoyage - Basco visitor listings",
+        "sourceUrl": "https://en.wikivoyage.org/wiki/Basco",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "batanes-basco-lighthouse-area",
+    "name": "Basco Lighthouse",
+    "destination_group": "Batanes",
+    "region": "Cagayan Valley",
+    "province": "Batanes",
+    "city_municipality": "Basco",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Culture",
+    "description": "A lighthouse on Naidi Hills.",
+    "interests": [
+      "Culture Seeker",
+      "Slow Traveler"
+    ],
+    "itinerary_base_slug": "batanes",
+    "catalog_stop_id": "batanes-basco-lighthouse-area",
+    "status": "accepted",
+    "decision_reason": "Distinct physical place with verified identity and actual municipality.",
+    "sources": {
+      "identity": {
+        "sourceName": "Batanes Provincial Heritage and Tourism Office - tourism map",
+        "sourceUrl": "https://breathtakingbatanes.com/maps/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Batanes Provincial Heritage and Tourism Office - tourism map",
+        "sourceUrl": "https://breathtakingbatanes.com/maps/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "batanes-casa-real",
+    "name": "Casa Real",
+    "destination_group": "Batanes",
+    "region": "Cagayan Valley",
+    "province": "Batanes",
+    "city_municipality": "Basco",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Culture",
+    "description": "The provincial capitol heritage building.",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "itinerary_base_slug": "batanes",
+    "catalog_stop_id": "batanes-casa-real",
+    "status": "rejected",
+    "decision_reason": "Working government building omitted in favor of places with clearer visitor purpose.",
+    "sources": {
+      "identity": {
+        "sourceName": "Batanes Provincial Heritage and Tourism Office - tourism map",
+        "sourceUrl": "https://breathtakingbatanes.com/maps/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Batanes Provincial Heritage and Tourism Office - tourism map",
+        "sourceUrl": "https://breathtakingbatanes.com/maps/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "batanes-mount-iraya",
+    "name": "Mount Iraya",
+    "destination_group": "Batanes",
+    "region": "Cagayan Valley",
+    "province": "Batanes",
+    "city_municipality": "Basco",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Nature",
+    "description": "A mountain route above Basco.",
+    "interests": [
+      "Adventure Junkie",
+      "Mountain Explorer"
+    ],
+    "itinerary_base_slug": "batanes",
+    "catalog_stop_id": "batanes-mount-iraya",
+    "status": "unresolved",
+    "decision_reason": "Current guided climbing access and permit arrangements need confirmation.",
+    "sources": {
+      "identity": {
+        "sourceName": "Department of Tourism Region 2 - Batanes",
+        "sourceUrl": "https://www.region2fun.ph/official/batanes-2/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Department of Tourism Region 2 - Batanes",
+        "sourceUrl": "https://www.region2fun.ph/official/batanes-2/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "batanes-chadpidan-bay",
+    "name": "Chadpidan Bay",
+    "destination_group": "Batanes",
+    "region": "Cagayan Valley",
+    "province": "Batanes",
+    "city_municipality": "Basco",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Nature",
+    "description": "A coastal walking destination from Basco.",
+    "interests": [
+      "Nature Lover",
+      "Slow Traveler"
+    ],
+    "itinerary_base_slug": "batanes",
+    "catalog_stop_id": "batanes-chadpidan-bay",
+    "status": "unresolved",
+    "decision_reason": "Current trail access and visitor arrangements need clearer confirmation.",
+    "sources": {
+      "identity": {
+        "sourceName": "Department of Tourism Region 2 - Batanes",
+        "sourceUrl": "https://www.region2fun.ph/official/batanes-2/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Department of Tourism Region 2 - Batanes",
+        "sourceUrl": "https://www.region2fun.ph/official/batanes-2/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "manila-national-museum-fine-arts",
+    "name": "National Museum of Fine Arts",
+    "destination_group": "Manila",
+    "region": "National Capital Region",
+    "province": null,
+    "city_municipality": "Manila",
+    "barangay": null,
+    "address": null,
+    "latitude": 14.5869,
+    "longitude": 120.9812,
+    "category": "Culture",
+    "description": "Philippine paintings and sculpture in a historic building.",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "itinerary_base_slug": "manila",
+    "catalog_stop_id": "manila-national-museum-fine-arts",
+    "status": "accepted",
+    "decision_reason": "Distinct physical visitor place with verified identity and actual city.",
+    "sources": {
+      "identity": {
+        "sourceName": "National Museum - National Museum of Fine Arts",
+        "sourceUrl": "https://www.nationalmuseum.gov.ph/our-museums/national-museum-of-fine-arts/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "National Museum - central complex visitor directory",
+        "sourceUrl": "https://reservation.nationalmuseum.gov.ph/reservation/book/region-museum",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": "Wikipedia - National Museum of Fine Arts (Manila), reference coordinates",
+        "sourceUrl": "https://en.wikipedia.org/wiki/National_Museum_of_Fine_Arts_(Manila)",
+        "dateChecked": "2026-10-19",
+        "status": "estimate"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "manila-national-museum-anthropology",
+    "name": "National Museum of Anthropology",
+    "destination_group": "Manila",
+    "region": "National Capital Region",
+    "province": null,
+    "city_municipality": "Manila",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Culture",
+    "description": "Archaeological and ethnographic collections.",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "itinerary_base_slug": "manila",
+    "catalog_stop_id": "manila-national-museum-anthropology",
+    "status": "accepted",
+    "decision_reason": "Distinct physical visitor place with verified identity and actual city.",
+    "sources": {
+      "identity": {
+        "sourceName": "National Museum - National Museum of Anthropology",
+        "sourceUrl": "https://www.nationalmuseum.gov.ph/our-museums/national-museum-of-anthropology/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "National Museum - central complex visitor directory",
+        "sourceUrl": "https://reservation.nationalmuseum.gov.ph/reservation/book/region-museum",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "manila-national-museum-natural-history",
+    "name": "National Museum of Natural History",
+    "destination_group": "Manila",
+    "region": "National Capital Region",
+    "province": null,
+    "city_municipality": "Manila",
+    "barangay": null,
+    "address": null,
+    "latitude": 14.583306,
+    "longitude": 120.982194,
+    "category": "Culture",
+    "description": "Botanical, zoological, and geological displays.",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "itinerary_base_slug": "manila",
+    "catalog_stop_id": "manila-national-museum-natural-history",
+    "status": "accepted",
+    "decision_reason": "Distinct physical visitor place with verified identity and actual city.",
+    "sources": {
+      "identity": {
+        "sourceName": "National Museum - National Museum of Natural History",
+        "sourceUrl": "https://www.nationalmuseum.gov.ph/our-museums/national-museum-of-natural-history/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "National Museum - central complex visitor directory",
+        "sourceUrl": "https://reservation.nationalmuseum.gov.ph/reservation/book/region-museum",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": "Wikipedia - National Museum of Natural History (Manila), reference coordinates",
+        "sourceUrl": "https://en.wikipedia.org/wiki/National_Museum_of_Natural_History_(Manila)",
+        "dateChecked": "2026-10-19",
+        "status": "estimate"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "manila-fort-santiago-area",
+    "name": "Fort Santiago",
+    "destination_group": "Manila",
+    "region": "National Capital Region",
+    "province": null,
+    "city_municipality": "Manila",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Culture",
+    "description": "A historic fortress beside the Pasig River.",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "itinerary_base_slug": "manila",
+    "catalog_stop_id": "manila-fort-santiago-area",
+    "status": "accepted",
+    "decision_reason": "Distinct physical visitor place with verified identity and actual city.",
+    "sources": {
+      "identity": {
+        "sourceName": "Intramuros Administration - Fort Santiago",
+        "sourceUrl": "https://intramuros.gov.ph/fs/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Intramuros Administration - Fort Santiago",
+        "sourceUrl": "https://intramuros.gov.ph/fs/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "manila-manila-cathedral-area",
+    "name": "Manila Cathedral",
+    "destination_group": "Manila",
+    "region": "National Capital Region",
+    "province": null,
+    "city_municipality": "Manila",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Culture",
+    "description": "A cathedral in the walled city.",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "itinerary_base_slug": "manila",
+    "catalog_stop_id": "manila-manila-cathedral-area",
+    "status": "accepted",
+    "decision_reason": "Distinct physical visitor place with verified identity and actual city.",
+    "sources": {
+      "identity": {
+        "sourceName": "Intramuros Administration - sites",
+        "sourceUrl": "https://intramuros.gov.ph/sites/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Intramuros Administration - sites",
+        "sourceUrl": "https://intramuros.gov.ph/sites/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "manila-san-agustin-museum-area",
+    "name": "San Agustin Museum",
+    "destination_group": "Manila",
+    "region": "National Capital Region",
+    "province": null,
+    "city_municipality": "Manila",
+    "barangay": null,
+    "address": "General Luna Street, Intramuros",
+    "latitude": null,
+    "longitude": null,
+    "category": "Culture",
+    "description": "Religious heritage in the historic monastery.",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "itinerary_base_slug": "manila",
+    "catalog_stop_id": "manila-san-agustin-museum-area",
+    "status": "accepted",
+    "decision_reason": "Distinct physical visitor place with verified identity and actual city.",
+    "sources": {
+      "identity": {
+        "sourceName": "Intramuros Administration - museum directory",
+        "sourceUrl": "https://intramuros.gov.ph/sites-museums/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Intramuros Administration - museum directory",
+        "sourceUrl": "https://intramuros.gov.ph/sites-museums/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": "Intramuros Administration - museum directory",
+        "sourceUrl": "https://intramuros.gov.ph/sites-museums/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "manila-casa-manila",
+    "name": "Casa Manila Museum",
+    "destination_group": "Manila",
+    "region": "National Capital Region",
+    "province": null,
+    "city_municipality": "Manila",
+    "barangay": null,
+    "address": "Plaza San Luis Complex, General Luna corner Real Streets, Intramuros",
+    "latitude": null,
+    "longitude": null,
+    "category": "Culture",
+    "description": "A museum of historical domestic life.",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "itinerary_base_slug": "manila",
+    "catalog_stop_id": "manila-casa-manila",
+    "status": "accepted",
+    "decision_reason": "Distinct physical visitor place with verified identity and actual city.",
+    "sources": {
+      "identity": {
+        "sourceName": "Intramuros Administration - Casa Manila",
+        "sourceUrl": "https://intramuros.gov.ph/cmm/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Intramuros Administration - Casa Manila",
+        "sourceUrl": "https://intramuros.gov.ph/cmm/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": "Intramuros Administration - Casa Manila",
+        "sourceUrl": "https://intramuros.gov.ph/cmm/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "manila-centro-turismo",
+    "name": "Centro de Turismo Intramuros",
+    "destination_group": "Manila",
+    "region": "National Capital Region",
+    "province": null,
+    "city_municipality": "Manila",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Culture",
+    "description": "A visitor hub exploring the walled city.",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "itinerary_base_slug": "manila",
+    "catalog_stop_id": "manila-centro-turismo",
+    "status": "accepted",
+    "decision_reason": "Distinct physical visitor place with verified identity and actual city.",
+    "sources": {
+      "identity": {
+        "sourceName": "Intramuros Administration - Centro launch",
+        "sourceUrl": "https://intramuros.gov.ph/2024/06/09/intramuros-unveils-centro-de-turismo-a-gateway-to-the-past-present-and-future/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Intramuros Administration - Centro launch",
+        "sourceUrl": "https://intramuros.gov.ph/2024/06/09/intramuros-unveils-centro-de-turismo-a-gateway-to-the-past-present-and-future/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "manila-paco-park",
+    "name": "Paco Park",
+    "destination_group": "Manila",
+    "region": "National Capital Region",
+    "province": null,
+    "city_municipality": "Manila",
+    "barangay": null,
+    "address": "Belen Street, Paco",
+    "latitude": null,
+    "longitude": null,
+    "category": "Parks & markets",
+    "description": "A former cemetery preserved as a park.",
+    "interests": [
+      "Nature Lover",
+      "Slow Traveler"
+    ],
+    "itinerary_base_slug": "manila",
+    "catalog_stop_id": "manila-paco-park",
+    "status": "accepted",
+    "decision_reason": "Distinct physical visitor place with verified identity and actual city.",
+    "sources": {
+      "identity": {
+        "sourceName": "National Parks Development Committee - Paco Park",
+        "sourceUrl": "https://npdc.gov.ph/paco-park/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "National Parks Development Committee - Paco Park",
+        "sourceUrl": "https://npdc.gov.ph/paco-park/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": "National Parks Development Committee - Paco Park",
+        "sourceUrl": "https://npdc.gov.ph/paco-park/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "manila-rizal-park",
+    "name": "Rizal Park",
+    "destination_group": "Manila",
+    "region": "National Capital Region",
+    "province": null,
+    "city_municipality": "Manila",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Parks & markets",
+    "description": "A national park and memorial landscape.",
+    "interests": [
+      "Nature Lover",
+      "Slow Traveler"
+    ],
+    "itinerary_base_slug": "manila",
+    "catalog_stop_id": null,
+    "status": "accepted",
+    "decision_reason": "Distinct physical visitor place with verified identity and actual city.",
+    "sources": {
+      "identity": {
+        "sourceName": "National Parks Development Committee - Rizal Park",
+        "sourceUrl": "https://npdc.gov.ph/rizal-park/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "National Parks Development Committee - Rizal Park",
+        "sourceUrl": "https://npdc.gov.ph/rizal-park/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "manila-ayala-museum",
+    "name": "Ayala Museum",
+    "destination_group": "Manila",
+    "region": "National Capital Region",
+    "province": null,
+    "city_municipality": "Makati City",
+    "barangay": null,
+    "address": "Makati Avenue corner De La Rosa Street, Greenbelt Park",
+    "latitude": null,
+    "longitude": null,
+    "category": "Culture",
+    "description": "A museum visit in Greenbelt Park.",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "itinerary_base_slug": null,
+    "catalog_stop_id": null,
+    "status": "accepted",
+    "decision_reason": "Distinct physical visitor place with verified identity and actual city.",
+    "sources": {
+      "identity": {
+        "sourceName": "Ayala Museum - visitor information",
+        "sourceUrl": "https://www.ayalamuseum.org/visit",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Ayala Museum - visitor information",
+        "sourceUrl": "https://www.ayalamuseum.org/visit",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": "Ayala Museum - visitor information",
+        "sourceUrl": "https://www.ayalamuseum.org/visit",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "manila-yuchengco-museum",
+    "name": "Yuchengco Museum",
+    "destination_group": "Manila",
+    "region": "National Capital Region",
+    "province": null,
+    "city_municipality": "Makati City",
+    "barangay": null,
+    "address": "RCBC Plaza, Ayala corner Senator Gil J. Puyat Avenues",
+    "latitude": null,
+    "longitude": null,
+    "category": "Culture",
+    "description": "An art museum at RCBC Plaza.",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "itinerary_base_slug": null,
+    "catalog_stop_id": null,
+    "status": "accepted",
+    "decision_reason": "Distinct physical visitor place with verified identity and actual city.",
+    "sources": {
+      "identity": {
+        "sourceName": "Yuchengco Museum - visitor information",
+        "sourceUrl": "https://yuchengcomuseum.org/visit/visitor-information/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Yuchengco Museum - visitor information",
+        "sourceUrl": "https://yuchengcomuseum.org/visit/visitor-information/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": "Yuchengco Museum - visitor information",
+        "sourceUrl": "https://yuchengcomuseum.org/visit/visitor-information/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "manila-pasig-city-museum",
+    "name": "Pasig City Museum",
+    "destination_group": "Manila",
+    "region": "National Capital Region",
+    "province": null,
+    "city_municipality": "Pasig City",
+    "barangay": "San Jose",
+    "address": "Plaza Rizal",
+    "latitude": null,
+    "longitude": null,
+    "category": "Culture",
+    "description": "City history in the former Concepcion Mansion.",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "itinerary_base_slug": null,
+    "catalog_stop_id": null,
+    "status": "accepted",
+    "decision_reason": "Distinct physical visitor place with verified identity and actual city.",
+    "sources": {
+      "identity": {
+        "sourceName": "Pasig City Government - museum visitor location",
+        "sourceUrl": "https://pasigcity.gov.ph/news-and-releases/free-guided-tour-sa-pasig-city-museum-991",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Pasig City Government - museum visitor location",
+        "sourceUrl": "https://pasigcity.gov.ph/news-and-releases/free-guided-tour-sa-pasig-city-museum-991",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": "Pasig City Government - museum visitor location",
+        "sourceUrl": "https://pasigcity.gov.ph/news-and-releases/free-guided-tour-sa-pasig-city-museum-991",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "manila-museo-el-deposito",
+    "name": "Museo El Deposito",
+    "destination_group": "Manila",
+    "region": "National Capital Region",
+    "province": null,
+    "city_municipality": "San Juan City",
+    "barangay": null,
+    "address": "Pinaglabanan",
+    "latitude": null,
+    "longitude": null,
+    "category": "Culture",
+    "description": "A museum associated with historic water infrastructure.",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "itinerary_base_slug": null,
+    "catalog_stop_id": null,
+    "status": "accepted",
+    "decision_reason": "Distinct physical visitor place with verified identity and actual city.",
+    "sources": {
+      "identity": {
+        "sourceName": "NHCP - El Deposito registry",
+        "sourceUrl": "https://philhistoricsites.nhcp.gov.ph/registry_database/el-deposito/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "NHCP - El Deposito registry",
+        "sourceUrl": "https://philhistoricsites.nhcp.gov.ph/registry_database/el-deposito/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": "NHCP - El Deposito registry",
+        "sourceUrl": "https://philhistoricsites.nhcp.gov.ph/registry_database/el-deposito/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "manila-museo-ng-katipunan",
+    "name": "Museo ng Katipunan",
+    "destination_group": "Manila",
+    "region": "National Capital Region",
+    "province": null,
+    "city_municipality": "San Juan City",
+    "barangay": null,
+    "address": "Pinaglabanan Road",
+    "latitude": null,
+    "longitude": null,
+    "category": "Culture",
+    "description": "A museum at the Pinaglabanan memorial site.",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "itinerary_base_slug": null,
+    "catalog_stop_id": null,
+    "status": "accepted",
+    "decision_reason": "Distinct physical visitor place with verified identity and actual city.",
+    "sources": {
+      "identity": {
+        "sourceName": "NHCP - Pinaglabanan Memorial Shrine registry",
+        "sourceUrl": "https://philhistoricsites.nhcp.gov.ph/registry_database/pang-alaalang-dambana-ng-pinaglabanan/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "NHCP - Pinaglabanan Memorial Shrine registry",
+        "sourceUrl": "https://philhistoricsites.nhcp.gov.ph/registry_database/pang-alaalang-dambana-ng-pinaglabanan/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": "NHCP - Pinaglabanan Memorial Shrine registry",
+        "sourceUrl": "https://philhistoricsites.nhcp.gov.ph/registry_database/pang-alaalang-dambana-ng-pinaglabanan/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "manila-quezon-memorial-shrine",
+    "name": "Quezon Memorial Shrine",
+    "destination_group": "Manila",
+    "region": "National Capital Region",
+    "province": null,
+    "city_municipality": "Quezon City",
+    "barangay": "Central",
+    "address": "Quezon Memorial Circle, Elliptical Road, Diliman",
+    "latitude": null,
+    "longitude": null,
+    "category": "Culture",
+    "description": "A memorial and museum honoring Manuel Quezon.",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "itinerary_base_slug": null,
+    "catalog_stop_id": null,
+    "status": "accepted",
+    "decision_reason": "Distinct physical visitor place with verified identity and actual city.",
+    "sources": {
+      "identity": {
+        "sourceName": "Quezon City Government - Quezon Memorial Shrine",
+        "sourceUrl": "https://quezoncity.gov.ph/place/quezon-memorial-shrine-museo-ni-manuel-quezon/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Quezon City Government - Quezon Memorial Shrine",
+        "sourceUrl": "https://quezoncity.gov.ph/place/quezon-memorial-shrine-museo-ni-manuel-quezon/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": "Quezon City Government - Quezon Memorial Shrine",
+        "sourceUrl": "https://quezoncity.gov.ph/place/quezon-memorial-shrine-museo-ni-manuel-quezon/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "manila-marikina-shoe-museum",
+    "name": "Marikina Shoe Museum",
+    "destination_group": "Manila",
+    "region": "National Capital Region",
+    "province": null,
+    "city_municipality": "Marikina City",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Culture",
+    "description": "A museum reflecting Marikina shoe heritage.",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "itinerary_base_slug": null,
+    "catalog_stop_id": null,
+    "status": "accepted",
+    "decision_reason": "Distinct physical visitor place with verified identity and actual city.",
+    "sources": {
+      "identity": {
+        "sourceName": "Marikina City Government - tourism ordinance",
+        "sourceUrl": "https://www.marikina.gov.ph/ordinance/ORDINANCE%20NO.%2065%20S.%202015.pdf",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Marikina City Government - tourism ordinance",
+        "sourceUrl": "https://www.marikina.gov.ph/ordinance/ORDINANCE%20NO.%2065%20S.%202015.pdf",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "manila-bamboo-organ",
+    "name": "Las Piñas Bamboo Organ",
+    "destination_group": "Manila",
+    "region": "National Capital Region",
+    "province": null,
+    "city_municipality": "Las Piñas City",
+    "barangay": "Daniel Fajardo",
+    "address": "P. Diego Cera Avenue",
+    "latitude": null,
+    "longitude": null,
+    "category": "Culture",
+    "description": "A historic organ at Saint Joseph Church.",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "itinerary_base_slug": null,
+    "catalog_stop_id": null,
+    "status": "accepted",
+    "decision_reason": "Distinct physical visitor place with verified identity and actual city.",
+    "sources": {
+      "identity": {
+        "sourceName": "Las Pinas City Government - Bamboo Organ",
+        "sourceUrl": "https://laspinascity.gov.ph/lifestyle/18/index",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Las Pinas City Government - Bamboo Organ",
+        "sourceUrl": "https://laspinascity.gov.ph/lifestyle/18/index",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": "Las Pinas City Government - Bamboo Organ",
+        "sourceUrl": "https://laspinascity.gov.ph/lifestyle/18/index",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "manila-mind-museum",
+    "name": "The Mind Museum",
+    "destination_group": "Manila",
+    "region": "National Capital Region",
+    "province": null,
+    "city_municipality": "Taguig City",
+    "barangay": null,
+    "address": "JY Campos Park, 3rd Avenue, Bonifacio Global City",
+    "latitude": null,
+    "longitude": null,
+    "category": "Attractions",
+    "description": "An interactive science museum.",
+    "interests": [
+      "Nature Lover",
+      "Slow Traveler"
+    ],
+    "itinerary_base_slug": null,
+    "catalog_stop_id": null,
+    "status": "accepted",
+    "decision_reason": "Distinct physical visitor place with verified identity and actual city.",
+    "sources": {
+      "identity": {
+        "sourceName": "The Mind Museum - visitor directions",
+        "sourceUrl": "https://www.themindmuseum.org/visit-us/plan-your-visit",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "The Mind Museum - visitor directions",
+        "sourceUrl": "https://www.themindmuseum.org/visit-us/plan-your-visit",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": "The Mind Museum - visitor directions",
+        "sourceUrl": "https://www.themindmuseum.org/visit-us/plan-your-visit",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "manila-art-in-island",
+    "name": "Art in Island",
+    "destination_group": "Manila",
+    "region": "National Capital Region",
+    "province": null,
+    "city_municipality": "Quezon City",
+    "barangay": "Socorro",
+    "address": "175 15th Avenue, Cubao",
+    "latitude": null,
+    "longitude": null,
+    "category": "Attractions",
+    "description": "An interactive multimedia art venue.",
+    "interests": [
+      "Nature Lover",
+      "Slow Traveler"
+    ],
+    "itinerary_base_slug": null,
+    "catalog_stop_id": null,
+    "status": "accepted",
+    "decision_reason": "Distinct physical visitor place with verified identity and actual city.",
+    "sources": {
+      "identity": {
+        "sourceName": "Quezon City Public Library - Art in Island",
+        "sourceUrl": "https://qcpl.quezoncity.gov.ph/article/p0dpurpscoqaz4agdffagnq5",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Quezon City Public Library - Art in Island",
+        "sourceUrl": "https://qcpl.quezoncity.gov.ph/article/p0dpurpscoqaz4agdffagnq5",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": "Quezon City Public Library - Art in Island",
+        "sourceUrl": "https://qcpl.quezoncity.gov.ph/article/p0dpurpscoqaz4agdffagnq5",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "manila-museo-intramuros",
+    "name": "Museo de Intramuros",
+    "destination_group": "Manila",
+    "region": "National Capital Region",
+    "province": null,
+    "city_municipality": "Manila",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Culture",
+    "description": "A museum of religious material culture.",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "itinerary_base_slug": "manila",
+    "catalog_stop_id": "manila-museo-intramuros",
+    "status": "rejected",
+    "decision_reason": "Real venue omitted from the 20-place selection to broaden coverage across the actual cities of Metro Manila.",
+    "sources": {
+      "identity": {
+        "sourceName": "Intramuros Administration - sites",
+        "sourceUrl": "https://intramuros.gov.ph/sites/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Intramuros Administration - sites",
+        "sourceUrl": "https://intramuros.gov.ph/sites/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "manila-destileria-limtuaco",
+    "name": "Destileria Limtuaco Museum",
+    "destination_group": "Manila",
+    "region": "National Capital Region",
+    "province": null,
+    "city_municipality": "Manila",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Culture",
+    "description": "An Intramuros museum visit.",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "itinerary_base_slug": "manila",
+    "catalog_stop_id": "manila-destileria-limtuaco",
+    "status": "rejected",
+    "decision_reason": "Real venue omitted from the 20-place selection to broaden coverage across the actual cities of Metro Manila.",
+    "sources": {
+      "identity": {
+        "sourceName": "Intramuros Administration - sites",
+        "sourceUrl": "https://intramuros.gov.ph/sites/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Intramuros Administration - sites",
+        "sourceUrl": "https://intramuros.gov.ph/sites/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  },
+  {
+    "id": "manila-bahay-tsinoy",
+    "name": "Bahay Tsinoy",
+    "destination_group": "Manila",
+    "region": "National Capital Region",
+    "province": null,
+    "city_municipality": "Manila",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Culture",
+    "description": "An Intramuros museum visit.",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "itinerary_base_slug": "manila",
+    "catalog_stop_id": "manila-bahay-tsinoy",
+    "status": "rejected",
+    "decision_reason": "Real venue omitted from the 20-place selection to broaden coverage across the actual cities of Metro Manila.",
+    "sources": {
+      "identity": {
+        "sourceName": "Intramuros Administration - sites",
+        "sourceUrl": "https://intramuros.gov.ph/sites/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Intramuros Administration - sites",
+        "sourceUrl": "https://intramuros.gov.ph/sites/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21"
+  }
+]

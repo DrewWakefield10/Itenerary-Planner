@@ -1,0 +1,2006 @@
+[
+  {
+    "id": "baguio-baguio-museum",
+    "baseSlug": "baguio",
+    "name": "Baguio Museum",
+    "category": "Culture",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "description": "A city-listed museum visit.",
+    "cluster": "central",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 90,
+    "outdoor": false,
+    "mode": "local",
+    "booking": "Current opening hours, access rules, and any reservation requirement are unknown. Confirm with the venue before visiting.",
+    "transport": "Route, fare, and travel time are unverified. Arrange local transport and allow a separate travel buffer.",
+    "locationDetails": "Governor Pack Road, Baguio.",
+    "evidence": [
+      {
+        "sourceName": "Baguio City Government — Tourist spots",
+        "sourceUrl": "https://infoboard.baguio.gov.ph/tourists-spots",
+        "dateChecked": "2026-10-19",
+        "status": "verified",
+        "fields": [
+          "description",
+          "location"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "baguio-tam-awan-village",
+    "baseSlug": "baguio",
+    "name": "Tam-awan Village",
+    "category": "Culture",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "description": "A city-listed village attraction.",
+    "cluster": "tam-awan",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 90,
+    "outdoor": true,
+    "mode": "local",
+    "booking": "Current opening hours, access rules, and any reservation requirement are unknown. Confirm with the venue before visiting.",
+    "transport": "Route, fare, and travel time are unverified. Arrange local transport and allow a separate travel buffer.",
+    "locationDetails": "Long Long Benguet Road, Baguio.",
+    "evidence": [
+      {
+        "sourceName": "Baguio City Government — Tourist spots",
+        "sourceUrl": "https://infoboard.baguio.gov.ph/tourists-spots",
+        "dateChecked": "2026-10-19",
+        "status": "verified",
+        "fields": [
+          "description",
+          "location"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "baguio-camp-john-hay",
+    "baseSlug": "baguio",
+    "name": "Camp John Hay",
+    "category": "Nature",
+    "interests": [
+      "Nature Lover",
+      "Slow Traveler"
+    ],
+    "description": "A city-listed recreation destination.",
+    "cluster": "john-hay",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 150,
+    "outdoor": true,
+    "mode": "local",
+    "booking": "Confirm which recreation areas are open and any admission arrangements. This entry does not promise access to private facilities.",
+    "transport": "Route, fare, and travel time are unverified. Arrange local transport and allow a separate travel buffer.",
+    "locationDetails": "Loakan Road, Baguio.",
+    "evidence": [
+      {
+        "sourceName": "Baguio City Government — Tourist spots",
+        "sourceUrl": "https://infoboard.baguio.gov.ph/tourists-spots",
+        "dateChecked": "2026-10-19",
+        "status": "verified",
+        "fields": [
+          "description",
+          "location"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "baguio-easter-weaving-room",
+    "baseSlug": "baguio",
+    "name": "Easter Weaving Room",
+    "category": "Culture",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "description": "A city-listed weaving venue.",
+    "cluster": "guisad",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 60,
+    "outdoor": false,
+    "mode": "local",
+    "booking": "Current opening hours, access rules, and any reservation requirement are unknown. Confirm with the venue before visiting.",
+    "transport": "Route, fare, and travel time are unverified. Arrange local transport and allow a separate travel buffer.",
+    "locationDetails": "Easter Road, Guisad, Baguio.",
+    "evidence": [
+      {
+        "sourceName": "Baguio City Government — Tourist spots",
+        "sourceUrl": "https://infoboard.baguio.gov.ph/tourists-spots",
+        "dateChecked": "2026-10-19",
+        "status": "verified",
+        "fields": [
+          "description",
+          "location"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "baguio-ili-likha",
+    "baseSlug": "baguio",
+    "name": "Ili-Likha Artists' Wateringhole",
+    "category": "Culture",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "description": "A city-listed creative venue.",
+    "cluster": "central",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 60,
+    "outdoor": false,
+    "mode": "local",
+    "booking": "Current opening hours, access rules, and any reservation requirement are unknown. Confirm with the venue before visiting.",
+    "transport": "Route, fare, and travel time are unverified. Arrange local transport and allow a separate travel buffer.",
+    "locationDetails": "32 Assumption Road, Baguio.",
+    "evidence": [
+      {
+        "sourceName": "Baguio City Government — Tourist spots",
+        "sourceUrl": "https://infoboard.baguio.gov.ph/tourists-spots",
+        "dateChecked": "2026-10-19",
+        "status": "verified",
+        "fields": [
+          "description",
+          "location"
+        ]
+      }
+    ],
+    "aliases": [
+      "Ili-Likha Artists Village"
+    ]
+  },
+  {
+    "id": "baguio-aguinaldo-museum",
+    "baseSlug": "baguio",
+    "name": "Emilio F. Aguinaldo Museum",
+    "category": "Culture",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "description": "A city-listed museum stop.",
+    "cluster": "central",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 60,
+    "outdoor": false,
+    "mode": "local",
+    "booking": "Current opening hours, access rules, and any reservation requirement are unknown. Confirm with the venue before visiting.",
+    "transport": "Route, fare, and travel time are unverified. Arrange local transport and allow a separate travel buffer.",
+    "locationDetails": "Happy Glen Loop Road, Baguio.",
+    "evidence": [
+      {
+        "sourceName": "Baguio City Government — Tourist spots",
+        "sourceUrl": "https://infoboard.baguio.gov.ph/tourists-spots",
+        "dateChecked": "2026-10-19",
+        "status": "verified",
+        "fields": [
+          "description",
+          "location"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "baguio-maryknoll-sanctuary",
+    "baseSlug": "baguio",
+    "name": "Maryknoll Ecological Sanctuary",
+    "category": "Nature",
+    "interests": [
+      "Nature Lover",
+      "Slow Traveler"
+    ],
+    "description": "A city-listed ecological sanctuary.",
+    "cluster": "maryknoll",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 90,
+    "outdoor": true,
+    "mode": "local",
+    "booking": "Current opening hours, access rules, and any reservation requirement are unknown. Confirm with the venue before visiting.",
+    "transport": "Route, fare, and travel time are unverified. Arrange local transport and allow a separate travel buffer.",
+    "locationDetails": "North Santo Tomas Road, Baguio.",
+    "evidence": [
+      {
+        "sourceName": "Baguio City Government — Tourist spots",
+        "sourceUrl": "https://infoboard.baguio.gov.ph/tourists-spots",
+        "dateChecked": "2026-10-19",
+        "status": "verified",
+        "fields": [
+          "description",
+          "location"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "baguio-lourdes-grotto",
+    "baseSlug": "baguio",
+    "name": "Lourdes Grotto and Chapel",
+    "category": "Culture",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "description": "A city-listed religious site.",
+    "cluster": "dominican-hill",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 90,
+    "outdoor": true,
+    "mode": "local",
+    "booking": "Current opening hours, access rules, and any reservation requirement are unknown. Confirm with the venue before visiting.",
+    "transport": "Route, fare, and travel time are unverified. Arrange local transport and allow a separate travel buffer.",
+    "locationDetails": "Saint Theresa Extension, Baguio.",
+    "evidence": [
+      {
+        "sourceName": "Baguio City Government — Tourist spots",
+        "sourceUrl": "https://infoboard.baguio.gov.ph/tourists-spots",
+        "dateChecked": "2026-10-19",
+        "status": "verified",
+        "fields": [
+          "description",
+          "location"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "baguio-heritage-hill",
+    "baseSlug": "baguio",
+    "name": "Heritage Hill and Nature Park Garden",
+    "category": "Culture",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "description": "A city-listed heritage hill park.",
+    "cluster": "dominican-hill",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 90,
+    "outdoor": true,
+    "mode": "local",
+    "booking": "Confirm current grounds access. This listing does not assume entry into the old hotel structure.",
+    "transport": "Route, fare, and travel time are unverified. Arrange local transport and allow a separate travel buffer.",
+    "locationDetails": "Dominican Hill, Diplomat Road, Baguio.",
+    "evidence": [
+      {
+        "sourceName": "Baguio City Government — Tourist spots",
+        "sourceUrl": "https://infoboard.baguio.gov.ph/tourists-spots",
+        "dateChecked": "2026-10-19",
+        "status": "verified",
+        "fields": [
+          "description",
+          "location"
+        ]
+      }
+    ],
+    "aliases": [
+      "Old Diplomat Hotel"
+    ]
+  },
+  {
+    "id": "baguio-museo-kordilyera",
+    "baseSlug": "baguio",
+    "name": "Museo Kordilyera",
+    "category": "Culture",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "description": "UP Baguio's museum of Cordillera cultures.",
+    "cluster": "central",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 90,
+    "outdoor": false,
+    "mode": "local",
+    "booking": "Current opening hours, access rules, and any reservation requirement are unknown. Confirm with the venue before visiting.",
+    "transport": "Route, fare, and travel time are unverified. Arrange local transport and allow a separate travel buffer.",
+    "locationDetails": "UP Baguio campus, Governor Pack Road.",
+    "evidence": [
+      {
+        "sourceName": "UP Baguio — Museo Kordilyera",
+        "sourceUrl": "https://museokordilyera.upb.edu.ph/",
+        "dateChecked": "2026-10-19",
+        "status": "verified",
+        "fields": [
+          "description",
+          "location"
+        ]
+      },
+      {
+        "sourceName": "Baguio City Government — Tourist spots",
+        "sourceUrl": "https://infoboard.baguio.gov.ph/tourists-spots",
+        "dateChecked": "2026-10-19",
+        "status": "verified",
+        "fields": [
+          "location"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "baguio-mansion-house",
+    "baseSlug": "baguio",
+    "name": "Baguio Mansion House Presidential Museum",
+    "category": "Culture",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "description": "Presidential history in the former summer residence.",
+    "cluster": "leonard-wood",
+    "lat": 16.412222,
+    "lng": 120.621389,
+    "cost": 0,
+    "costBasis": "person",
+    "minutes": 90,
+    "outdoor": false,
+    "mode": "local",
+    "booking": "Private tours require reservations. Walk-ins depend on available tour slots; confirm before visiting.",
+    "transport": "Route, fare, and travel time are unverified. Arrange local transport and allow a separate travel buffer.",
+    "locationDetails": "Romulo Drive, eastern Baguio.",
+    "evidence": [
+      {
+        "sourceName": "Baguio Mansion House — official visitor information",
+        "sourceUrl": "https://baguiomansionhouse.gov.ph/",
+        "dateChecked": "2026-10-19",
+        "status": "verified",
+        "fields": [
+          "description",
+          "location"
+        ]
+      },
+      {
+        "sourceName": "Baguio Mansion House — official visitor information",
+        "sourceUrl": "https://baguiomansionhouse.gov.ph/",
+        "dateChecked": "2026-10-19",
+        "status": "verified",
+        "fields": [
+          "price",
+          "booking"
+        ]
+      },
+      {
+        "sourceName": "Baguio City Government — Tourist spots",
+        "sourceUrl": "https://infoboard.baguio.gov.ph/tourists-spots",
+        "dateChecked": "2026-10-19",
+        "status": "verified",
+        "fields": [
+          "location"
+        ]
+      },
+      {
+        "fields": [
+          "coordinates"
+        ],
+        "sourceName": "Wikipedia - The Mansion (Baguio), reference coordinates",
+        "sourceUrl": "https://en.wikipedia.org/wiki/The_Mansion_(Baguio)",
+        "dateChecked": "2026-10-19",
+        "status": "estimate"
+      }
+    ],
+    "openingHours": {
+      "weekdays": [
+        0,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "opens": "09:00",
+      "closes": "18:00",
+      "source": {
+        "sourceName": "Baguio Mansion House — official visitor information",
+        "sourceUrl": "https://baguiomansionhouse.gov.ph/",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      }
+    }
+  },
+  {
+    "id": "sagada-ampacao",
+    "baseSlug": "sagada",
+    "name": "Mount Ampacao",
+    "category": "Adventure",
+    "interests": [
+      "Adventure Junkie",
+      "Mountain Explorer"
+    ],
+    "description": "A mountain viewpoint route.",
+    "cluster": "ampacao",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 360,
+    "outdoor": true,
+    "mode": "excursion",
+    "booking": "Consult municipal tourism and an accredited guide about current access, registration, route suitability, and any required permits before scheduling. No guide or tour is booked.",
+    "transport": "Separate excursion planning is required. Trail or cave access, road transfer, and total duration are unverified; confirm with municipal tourism. The duration shown is only a planning allowance.",
+    "locationDetails": "Sagada, Mountain Province.",
+    "evidence": [
+      {
+        "sourceName": "Municipality of Sagada — iPass destination directory",
+        "sourceUrl": "https://umali-kayo.sagada.gov.ph/",
+        "dateChecked": "2026-10-19",
+        "status": "verified",
+        "fields": [
+          "description",
+          "location"
+        ]
+      }
+    ],
+    "aliases": [
+      "Mt. Ampacao"
+    ]
+  },
+  {
+    "id": "sagada-balangagan-cave",
+    "baseSlug": "sagada",
+    "name": "Balangagan Cave",
+    "category": "Adventure",
+    "interests": [
+      "Adventure Junkie",
+      "Mountain Explorer"
+    ],
+    "description": "A cave outing.",
+    "cluster": "balangagan",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 240,
+    "outdoor": true,
+    "mode": "excursion",
+    "booking": "Consult municipal tourism and an accredited guide about current access, registration, route suitability, and any required permits before scheduling. No guide or tour is booked.",
+    "transport": "Separate excursion planning is required. Trail or cave access, road transfer, and total duration are unverified; confirm with municipal tourism. The duration shown is only a planning allowance.",
+    "locationDetails": "Sagada, Mountain Province.",
+    "evidence": [
+      {
+        "sourceName": "Municipality of Sagada — iPass destination directory",
+        "sourceUrl": "https://umali-kayo.sagada.gov.ph/",
+        "dateChecked": "2026-10-19",
+        "status": "verified",
+        "fields": [
+          "description",
+          "location"
+        ]
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "id": "sagada-blue-soil",
+    "baseSlug": "sagada",
+    "name": "Blue Soil Hills",
+    "category": "Nature",
+    "interests": [
+      "Nature Lover",
+      "Slow Traveler"
+    ],
+    "description": "A distinctive soil-landscape outing.",
+    "cluster": "blue-soil",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 240,
+    "outdoor": true,
+    "mode": "excursion",
+    "booking": "Consult municipal tourism and an accredited guide about current access, registration, route suitability, and any required permits before scheduling. No guide or tour is booked.",
+    "transport": "Separate excursion planning is required. Trail or cave access, road transfer, and total duration are unverified; confirm with municipal tourism. The duration shown is only a planning allowance.",
+    "locationDetails": "Sagada, Mountain Province.",
+    "evidence": [
+      {
+        "sourceName": "Municipality of Sagada — iPass destination directory",
+        "sourceUrl": "https://umali-kayo.sagada.gov.ph/",
+        "dateChecked": "2026-10-19",
+        "status": "verified",
+        "fields": [
+          "description",
+          "location"
+        ]
+      }
+    ],
+    "aliases": [
+      "Kaman-Utek"
+    ]
+  },
+  {
+    "id": "sagada-bokong-falls",
+    "baseSlug": "sagada",
+    "name": "Bokong Falls",
+    "category": "Nature",
+    "interests": [
+      "Nature Lover",
+      "Slow Traveler"
+    ],
+    "description": "A waterfall walking route.",
+    "cluster": "bokong",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 150,
+    "outdoor": true,
+    "mode": "excursion",
+    "booking": "Consult municipal tourism and an accredited guide about current access, registration, route suitability, and any required permits before scheduling. No guide or tour is booked.",
+    "transport": "Separate excursion planning is required. Trail or cave access, road transfer, and total duration are unverified; confirm with municipal tourism. The duration shown is only a planning allowance.",
+    "locationDetails": "Sagada, Mountain Province.",
+    "evidence": [
+      {
+        "sourceName": "Municipality of Sagada — iPass destination directory",
+        "sourceUrl": "https://umali-kayo.sagada.gov.ph/",
+        "dateChecked": "2026-10-19",
+        "status": "verified",
+        "fields": [
+          "description",
+          "location"
+        ]
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "id": "sagada-bomod-ok-falls",
+    "baseSlug": "sagada",
+    "name": "Bomod-ok Falls",
+    "category": "Adventure",
+    "interests": [
+      "Adventure Junkie",
+      "Mountain Explorer"
+    ],
+    "description": "A waterfall hike.",
+    "cluster": "bomod-ok",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 300,
+    "outdoor": true,
+    "mode": "excursion",
+    "booking": "Consult municipal tourism and an accredited guide about current access, registration, route suitability, and any required permits before scheduling. No guide or tour is booked.",
+    "transport": "Separate excursion planning is required. Trail or cave access, road transfer, and total duration are unverified; confirm with municipal tourism. The duration shown is only a planning allowance.",
+    "locationDetails": "Sagada, Mountain Province.",
+    "evidence": [
+      {
+        "sourceName": "Municipality of Sagada — iPass destination directory",
+        "sourceUrl": "https://umali-kayo.sagada.gov.ph/",
+        "dateChecked": "2026-10-19",
+        "status": "verified",
+        "fields": [
+          "description",
+          "location"
+        ]
+      }
+    ],
+    "aliases": [
+      "Bomodok Falls"
+    ]
+  },
+  {
+    "id": "sagada-hanging-coffins",
+    "baseSlug": "sagada",
+    "name": "Hanging Coffins",
+    "category": "Culture",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "description": "A culturally sensitive burial site.",
+    "cluster": "echo-valley",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 150,
+    "outdoor": true,
+    "mode": "excursion",
+    "booking": "Consult municipal tourism and an accredited guide about current access, registration, route suitability, and any required permits before scheduling. No guide or tour is booked.",
+    "transport": "Separate excursion planning is required. Trail or cave access, road transfer, and total duration are unverified; confirm with municipal tourism. The duration shown is only a planning allowance.",
+    "locationDetails": "Sagada, Mountain Province.",
+    "evidence": [
+      {
+        "sourceName": "Municipality of Sagada — iPass destination directory",
+        "sourceUrl": "https://umali-kayo.sagada.gov.ph/",
+        "dateChecked": "2026-10-19",
+        "status": "verified",
+        "fields": [
+          "description",
+          "location"
+        ]
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "id": "sagada-langsayan",
+    "baseSlug": "sagada",
+    "name": "Langsayan",
+    "category": "Nature",
+    "interests": [
+      "Nature Lover",
+      "Slow Traveler"
+    ],
+    "description": "A terrace-view route.",
+    "cluster": "langsayan",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 300,
+    "outdoor": true,
+    "mode": "excursion",
+    "booking": "Consult municipal tourism and an accredited guide about current access, registration, route suitability, and any required permits before scheduling. No guide or tour is booked.",
+    "transport": "Separate excursion planning is required. Trail or cave access, road transfer, and total duration are unverified; confirm with municipal tourism. The duration shown is only a planning allowance.",
+    "locationDetails": "Sagada, Mountain Province.",
+    "evidence": [
+      {
+        "sourceName": "Municipality of Sagada — iPass destination directory",
+        "sourceUrl": "https://umali-kayo.sagada.gov.ph/",
+        "dateChecked": "2026-10-19",
+        "status": "verified",
+        "fields": [
+          "description",
+          "location"
+        ]
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "id": "sagada-latang-underground-river",
+    "baseSlug": "sagada",
+    "name": "Latang Underground River",
+    "category": "Adventure",
+    "interests": [
+      "Adventure Junkie",
+      "Mountain Explorer"
+    ],
+    "description": "An underground river outing.",
+    "cluster": "latang",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 240,
+    "outdoor": true,
+    "mode": "excursion",
+    "booking": "Consult municipal tourism and an accredited guide about current access, registration, route suitability, and any required permits before scheduling. No guide or tour is booked.",
+    "transport": "Separate excursion planning is required. Trail or cave access, road transfer, and total duration are unverified; confirm with municipal tourism. The duration shown is only a planning allowance.",
+    "locationDetails": "Sagada, Mountain Province.",
+    "evidence": [
+      {
+        "sourceName": "Municipality of Sagada — iPass destination directory",
+        "sourceUrl": "https://umali-kayo.sagada.gov.ph/",
+        "dateChecked": "2026-10-19",
+        "status": "verified",
+        "fields": [
+          "description",
+          "location"
+        ]
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "id": "sagada-lumiang-cave",
+    "baseSlug": "sagada",
+    "name": "Lumiang Cave",
+    "category": "Culture",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "description": "A culturally significant cave site.",
+    "cluster": "lumiang",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 180,
+    "outdoor": true,
+    "mode": "excursion",
+    "booking": "Consult municipal tourism and an accredited guide about current access, registration, route suitability, and any required permits before scheduling. No guide or tour is booked.",
+    "transport": "Separate excursion planning is required. Trail or cave access, road transfer, and total duration are unverified; confirm with municipal tourism. The duration shown is only a planning allowance.",
+    "locationDetails": "Sagada, Mountain Province.",
+    "evidence": [
+      {
+        "sourceName": "Municipality of Sagada — iPass destination directory",
+        "sourceUrl": "https://umali-kayo.sagada.gov.ph/",
+        "dateChecked": "2026-10-19",
+        "status": "verified",
+        "fields": [
+          "description",
+          "location"
+        ]
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "id": "sagada-marlboro-hills",
+    "baseSlug": "sagada",
+    "name": "Marlboro Hills",
+    "category": "Nature",
+    "interests": [
+      "Nature Lover",
+      "Slow Traveler"
+    ],
+    "description": "A hill viewpoint route.",
+    "cluster": "marlboro",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 240,
+    "outdoor": true,
+    "mode": "excursion",
+    "booking": "Consult municipal tourism and an accredited guide about current access, registration, route suitability, and any required permits before scheduling. No guide or tour is booked.",
+    "transport": "Separate excursion planning is required. Trail or cave access, road transfer, and total duration are unverified; confirm with municipal tourism. The duration shown is only a planning allowance.",
+    "locationDetails": "Sagada, Mountain Province.",
+    "evidence": [
+      {
+        "sourceName": "Municipality of Sagada — iPass destination directory",
+        "sourceUrl": "https://umali-kayo.sagada.gov.ph/",
+        "dateChecked": "2026-10-19",
+        "status": "verified",
+        "fields": [
+          "description",
+          "location"
+        ]
+      }
+    ],
+    "aliases": [
+      "Marlboro Country"
+    ]
+  },
+  {
+    "id": "sagada-nabas-ang",
+    "baseSlug": "sagada",
+    "name": "Nabas-Ang",
+    "category": "Adventure",
+    "interests": [
+      "Adventure Junkie",
+      "Mountain Explorer"
+    ],
+    "description": "A ridge-trail outing.",
+    "cluster": "ampacao",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 300,
+    "outdoor": true,
+    "mode": "excursion",
+    "booking": "Consult municipal tourism and an accredited guide about current access, registration, route suitability, and any required permits before scheduling. No guide or tour is booked.",
+    "transport": "Separate excursion planning is required. Trail or cave access, road transfer, and total duration are unverified; confirm with municipal tourism. The duration shown is only a planning allowance.",
+    "locationDetails": "Sagada, Mountain Province.",
+    "evidence": [
+      {
+        "sourceName": "Municipality of Sagada — iPass destination directory",
+        "sourceUrl": "https://umali-kayo.sagada.gov.ph/",
+        "dateChecked": "2026-10-19",
+        "status": "verified",
+        "fields": [
+          "description",
+          "location"
+        ]
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "id": "sagada-pongas-falls",
+    "baseSlug": "sagada",
+    "name": "Pongas Falls",
+    "category": "Nature",
+    "interests": [
+      "Nature Lover",
+      "Slow Traveler"
+    ],
+    "description": "A waterfall excursion.",
+    "cluster": "pongas",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 300,
+    "outdoor": true,
+    "mode": "excursion",
+    "booking": "Consult municipal tourism and an accredited guide about current access, registration, route suitability, and any required permits before scheduling. No guide or tour is booked.",
+    "transport": "Separate excursion planning is required. Trail or cave access, road transfer, and total duration are unverified; confirm with municipal tourism. The duration shown is only a planning allowance.",
+    "locationDetails": "Sagada, Mountain Province.",
+    "evidence": [
+      {
+        "sourceName": "Municipality of Sagada — iPass destination directory",
+        "sourceUrl": "https://umali-kayo.sagada.gov.ph/",
+        "dateChecked": "2026-10-19",
+        "status": "verified",
+        "fields": [
+          "description",
+          "location"
+        ]
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "id": "sagada-sumaguing-cave",
+    "baseSlug": "sagada",
+    "name": "Sumaguing Cave",
+    "category": "Adventure",
+    "interests": [
+      "Adventure Junkie",
+      "Mountain Explorer"
+    ],
+    "description": "A cave exploration outing.",
+    "cluster": "sumaguing",
+    "lat": 17.06673,
+    "lng": 120.90297,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 240,
+    "outdoor": true,
+    "mode": "excursion",
+    "booking": "Consult municipal tourism and an accredited guide about current access, registration, route suitability, and any required permits before scheduling. No guide or tour is booked.",
+    "transport": "Separate excursion planning is required. Trail or cave access, road transfer, and total duration are unverified; confirm with municipal tourism. The duration shown is only a planning allowance.",
+    "locationDetails": "Sagada, Mountain Province.",
+    "evidence": [
+      {
+        "sourceName": "Municipality of Sagada — iPass destination directory",
+        "sourceUrl": "https://umali-kayo.sagada.gov.ph/",
+        "dateChecked": "2026-10-19",
+        "status": "verified",
+        "fields": [
+          "description",
+          "location"
+        ]
+      },
+      {
+        "fields": [
+          "coordinates"
+        ],
+        "sourceName": "Wikidata / Wikimedia Commons - Sumaguing Cave, reference coordinates",
+        "sourceUrl": "https://www.wikidata.org/wiki/Q91479447",
+        "dateChecked": "2026-10-19",
+        "status": "estimate"
+      }
+    ],
+    "aliases": [
+      "Sumaging Cave"
+    ]
+  },
+  {
+    "id": "sagada-ubwa-blue-lagoon",
+    "baseSlug": "sagada",
+    "name": "Ubwa Blue Lagoon",
+    "category": "Nature",
+    "interests": [
+      "Nature Lover",
+      "Slow Traveler"
+    ],
+    "description": "A lagoon outing.",
+    "cluster": "ubwa",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 300,
+    "outdoor": true,
+    "mode": "excursion",
+    "booking": "Consult municipal tourism and an accredited guide about current access, registration, route suitability, and any required permits before scheduling. No guide or tour is booked.",
+    "transport": "Separate excursion planning is required. Trail or cave access, road transfer, and total duration are unverified; confirm with municipal tourism. The duration shown is only a planning allowance.",
+    "locationDetails": "Sagada, Mountain Province.",
+    "evidence": [
+      {
+        "sourceName": "Municipality of Sagada — iPass destination directory",
+        "sourceUrl": "https://umali-kayo.sagada.gov.ph/",
+        "dateChecked": "2026-10-19",
+        "status": "verified",
+        "fields": [
+          "description",
+          "location"
+        ]
+      }
+    ],
+    "aliases": [
+      "Obwa Canyon",
+      "Obwa Falls"
+    ]
+  },
+  {
+    "id": "manila-casa-manila",
+    "baseSlug": "manila",
+    "name": "Casa Manila Museum",
+    "category": "Culture",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "description": "A museum of historical domestic life.",
+    "cluster": "intramuros",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 90,
+    "outdoor": false,
+    "mode": "local",
+    "booking": "Current opening hours, access rules, and any reservation requirement are unknown. Confirm with the venue before visiting.",
+    "transport": "Route, fare, and travel time are unverified. Arrange local transport and allow a separate travel buffer.",
+    "locationDetails": "Intramuros, Manila.",
+    "evidence": [
+      {
+        "sourceName": "Intramuros Administration — Sites",
+        "sourceUrl": "https://intramuros.gov.ph/sites/",
+        "dateChecked": "2026-10-19",
+        "status": "verified",
+        "fields": [
+          "description",
+          "location"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "manila-museo-intramuros",
+    "baseSlug": "manila",
+    "name": "Museo de Intramuros",
+    "category": "Culture",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "description": "A museum of religious material culture.",
+    "cluster": "intramuros",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 90,
+    "outdoor": false,
+    "mode": "local",
+    "booking": "Official visitor pages differ on admission arrangements. Confirm public access and any group reservation requirement with Intramuros Administration before scheduling.",
+    "transport": "Route, fare, and travel time are unverified. Arrange local transport and allow a separate travel buffer.",
+    "locationDetails": "Intramuros, Manila.",
+    "evidence": [
+      {
+        "sourceName": "Intramuros Administration — Sites",
+        "sourceUrl": "https://intramuros.gov.ph/sites/",
+        "dateChecked": "2026-10-19",
+        "status": "verified",
+        "fields": [
+          "description",
+          "location"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "manila-centro-turismo",
+    "baseSlug": "manila",
+    "name": "Centro de Turismo Intramuros",
+    "category": "Culture",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "description": "A visitor center and history museum.",
+    "cluster": "intramuros",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 90,
+    "outdoor": false,
+    "mode": "local",
+    "booking": "Current opening hours, access rules, and any reservation requirement are unknown. Confirm with the venue before visiting.",
+    "transport": "Route, fare, and travel time are unverified. Arrange local transport and allow a separate travel buffer.",
+    "locationDetails": "Intramuros, Manila.",
+    "evidence": [
+      {
+        "sourceName": "Intramuros Administration — Sites",
+        "sourceUrl": "https://intramuros.gov.ph/sites/",
+        "dateChecked": "2026-10-19",
+        "status": "verified",
+        "fields": [
+          "description",
+          "location"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "manila-baluarte-san-diego",
+    "baseSlug": "manila",
+    "name": "Baluarte de San Diego",
+    "category": "Culture",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "description": "A surviving defensive heritage site.",
+    "cluster": "intramuros",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 60,
+    "outdoor": true,
+    "mode": "local",
+    "booking": "Current opening hours, access rules, and any reservation requirement are unknown. Confirm with the venue before visiting.",
+    "transport": "Route, fare, and travel time are unverified. Arrange local transport and allow a separate travel buffer.",
+    "locationDetails": "Intramuros, Manila.",
+    "evidence": [
+      {
+        "sourceName": "Intramuros Administration — Sites",
+        "sourceUrl": "https://intramuros.gov.ph/sites/",
+        "dateChecked": "2026-10-19",
+        "status": "verified",
+        "fields": [
+          "description",
+          "location"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "manila-bahay-tsinoy",
+    "baseSlug": "manila",
+    "name": "Bahay Tsinoy",
+    "category": "Culture",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "description": "An Intramuros museum visit.",
+    "cluster": "intramuros",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 90,
+    "outdoor": false,
+    "mode": "local",
+    "booking": "Current opening hours, access rules, and any reservation requirement are unknown. Confirm with the venue before visiting.",
+    "transport": "Route, fare, and travel time are unverified. Arrange local transport and allow a separate travel buffer.",
+    "locationDetails": "Intramuros, Manila.",
+    "evidence": [
+      {
+        "sourceName": "Intramuros Administration — Sites",
+        "sourceUrl": "https://intramuros.gov.ph/sites/",
+        "dateChecked": "2026-10-19",
+        "status": "verified",
+        "fields": [
+          "description",
+          "location"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "manila-destileria-limtuaco",
+    "baseSlug": "manila",
+    "name": "Destileria Limtuaco Museum",
+    "category": "Culture",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "description": "An Intramuros museum visit.",
+    "cluster": "intramuros",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 90,
+    "outdoor": false,
+    "mode": "local",
+    "booking": "Confirm museum access directly. This entry does not include or recommend an alcohol tasting.",
+    "transport": "Route, fare, and travel time are unverified. Arrange local transport and allow a separate travel buffer.",
+    "locationDetails": "Intramuros, Manila.",
+    "evidence": [
+      {
+        "sourceName": "Intramuros Administration — Sites",
+        "sourceUrl": "https://intramuros.gov.ph/sites/",
+        "dateChecked": "2026-10-19",
+        "status": "verified",
+        "fields": [
+          "description",
+          "location"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "manila-plaza-roma",
+    "baseSlug": "manila",
+    "name": "Plaza Roma",
+    "category": "Culture",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "description": "A historic district plaza.",
+    "cluster": "intramuros",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 45,
+    "outdoor": true,
+    "mode": "local",
+    "booking": "Current opening hours, access rules, and any reservation requirement are unknown. Confirm with the venue before visiting.",
+    "transport": "Route, fare, and travel time are unverified. Arrange local transport and allow a separate travel buffer.",
+    "locationDetails": "Intramuros, Manila.",
+    "evidence": [
+      {
+        "sourceName": "Intramuros Administration — Sites",
+        "sourceUrl": "https://intramuros.gov.ph/sites/",
+        "dateChecked": "2026-10-19",
+        "status": "verified",
+        "fields": [
+          "description",
+          "location"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "manila-puerta-real-gardens",
+    "baseSlug": "manila",
+    "name": "Puerta Real Gardens",
+    "category": "Nature",
+    "interests": [
+      "Nature Lover",
+      "Slow Traveler"
+    ],
+    "description": "A garden in the walled city.",
+    "cluster": "intramuros",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 60,
+    "outdoor": true,
+    "mode": "local",
+    "booking": "Current opening hours, access rules, and any reservation requirement are unknown. Confirm with the venue before visiting.",
+    "transport": "Route, fare, and travel time are unverified. Arrange local transport and allow a separate travel buffer.",
+    "locationDetails": "Intramuros, Manila.",
+    "evidence": [
+      {
+        "sourceName": "Intramuros Administration — Sites",
+        "sourceUrl": "https://intramuros.gov.ph/sites/",
+        "dateChecked": "2026-10-19",
+        "status": "verified",
+        "fields": [
+          "description",
+          "location"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "manila-national-museum-fine-arts",
+    "baseSlug": "manila",
+    "name": "National Museum of Fine Arts",
+    "category": "Culture",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "description": "Philippine art galleries in the former legislative building.",
+    "cluster": "rizal-park",
+    "lat": 14.5869,
+    "lng": 120.9812,
+    "cost": 0,
+    "costBasis": "person",
+    "minutes": 150,
+    "outdoor": false,
+    "mode": "local",
+    "booking": "Groups of 20–150 visitors must book ahead through the National Museum. Confirm current visitor rules and any special closures.",
+    "transport": "Route, fare, and travel time are unverified. Arrange local transport and allow a separate travel buffer.",
+    "locationDetails": "National Museum Central Complex, Ermita, Manila.",
+    "evidence": [
+      {
+        "sourceName": "National Museum — National Museum of Fine Arts",
+        "sourceUrl": "https://www.nationalmuseum.gov.ph/our-museums/national-museum-of-fine-arts/",
+        "dateChecked": "2026-10-19",
+        "status": "verified",
+        "fields": [
+          "description",
+          "location"
+        ]
+      },
+      {
+        "sourceName": "National Museum — 2026 visitor announcement",
+        "sourceUrl": "https://www.nationalmuseum.gov.ph/2026/05/28/%F0%9D%90%8D%F0%9D%90%8C%F0%9D%90%8F-%F0%9D%90%89%F0%9D%90%8E%F0%9D%90%88%F0%9D%90%8D%F0%9D%90%92-%F0%9D%90%8D%F0%9D%90%80%F0%9D%90%93%F0%9D%90%88%F0%9D%90%8E%F0%9D%90%8D%F0%9D%90%80%F0%9D%90%8B/",
+        "dateChecked": "2026-10-19",
+        "status": "verified",
+        "fields": [
+          "price"
+        ]
+      },
+      {
+        "sourceName": "National Museum — official booking guidelines",
+        "sourceUrl": "https://reservation.nationalmuseum.gov.ph/",
+        "dateChecked": "2026-10-19",
+        "status": "verified",
+        "fields": [
+          "booking",
+          "location"
+        ]
+      },
+      {
+        "fields": [
+          "coordinates"
+        ],
+        "sourceName": "Wikipedia - National Museum of Fine Arts (Manila), reference coordinates",
+        "sourceUrl": "https://en.wikipedia.org/wiki/National_Museum_of_Fine_Arts_(Manila)",
+        "dateChecked": "2026-10-19",
+        "status": "estimate"
+      }
+    ],
+    "openingHours": {
+      "weekdays": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "opens": "09:00",
+      "closes": "18:00",
+      "source": {
+        "sourceName": "National Museum — 2026 visitor announcement",
+        "sourceUrl": "https://www.nationalmuseum.gov.ph/2026/05/28/%F0%9D%90%8D%F0%9D%90%8C%F0%9D%90%8F-%F0%9D%90%89%F0%9D%90%8E%F0%9D%90%88%F0%9D%90%8D%F0%9D%90%92-%F0%9D%90%8D%F0%9D%90%80%F0%9D%90%93%F0%9D%90%88%F0%9D%90%8E%F0%9D%90%8D%F0%9D%90%80%F0%9D%90%8B/",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      }
+    }
+  },
+  {
+    "id": "manila-national-museum-anthropology",
+    "baseSlug": "manila",
+    "name": "National Museum of Anthropology",
+    "category": "Culture",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "description": "Archaeology and ethnographic collections in Manila.",
+    "cluster": "rizal-park",
+    "lat": null,
+    "lng": null,
+    "cost": 0,
+    "costBasis": "person",
+    "minutes": 150,
+    "outdoor": false,
+    "mode": "local",
+    "booking": "Groups of 20–150 visitors must book ahead through the National Museum. Confirm current visitor rules and any special closures.",
+    "transport": "Route, fare, and travel time are unverified. Arrange local transport and allow a separate travel buffer.",
+    "locationDetails": "National Museum Central Complex, Ermita, Manila.",
+    "evidence": [
+      {
+        "sourceName": "National Museum — National Museum of Anthropology",
+        "sourceUrl": "https://www.nationalmuseum.gov.ph/our-museums/national-museum-of-anthropology/",
+        "dateChecked": "2026-10-19",
+        "status": "verified",
+        "fields": [
+          "description",
+          "location"
+        ]
+      },
+      {
+        "sourceName": "National Museum — 2026 visitor announcement",
+        "sourceUrl": "https://www.nationalmuseum.gov.ph/2026/05/28/%F0%9D%90%8D%F0%9D%90%8C%F0%9D%90%8F-%F0%9D%90%89%F0%9D%90%8E%F0%9D%90%88%F0%9D%90%8D%F0%9D%90%92-%F0%9D%90%8D%F0%9D%90%80%F0%9D%90%93%F0%9D%90%88%F0%9D%90%8E%F0%9D%90%8D%F0%9D%90%80%F0%9D%90%8B/",
+        "dateChecked": "2026-10-19",
+        "status": "verified",
+        "fields": [
+          "price"
+        ]
+      },
+      {
+        "sourceName": "National Museum — official booking guidelines",
+        "sourceUrl": "https://reservation.nationalmuseum.gov.ph/",
+        "dateChecked": "2026-10-19",
+        "status": "verified",
+        "fields": [
+          "booking",
+          "location"
+        ]
+      }
+    ],
+    "openingHours": {
+      "weekdays": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "opens": "09:00",
+      "closes": "18:00",
+      "source": {
+        "sourceName": "National Museum — 2026 visitor announcement",
+        "sourceUrl": "https://www.nationalmuseum.gov.ph/2026/05/28/%F0%9D%90%8D%F0%9D%90%8C%F0%9D%90%8F-%F0%9D%90%89%F0%9D%90%8E%F0%9D%90%88%F0%9D%90%8D%F0%9D%90%92-%F0%9D%90%8D%F0%9D%90%80%F0%9D%90%93%F0%9D%90%88%F0%9D%90%8E%F0%9D%90%8D%F0%9D%90%80%F0%9D%90%8B/",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      }
+    }
+  },
+  {
+    "id": "manila-national-museum-natural-history",
+    "baseSlug": "manila",
+    "name": "National Museum of Natural History",
+    "category": "Culture",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "description": "Botanical, zoological, and geological collections.",
+    "cluster": "rizal-park",
+    "lat": 14.583306,
+    "lng": 120.982194,
+    "cost": 0,
+    "costBasis": "person",
+    "minutes": 150,
+    "outdoor": false,
+    "mode": "local",
+    "booking": "Groups of 20–150 visitors must book ahead through the National Museum. Confirm current visitor rules and any special closures.",
+    "transport": "Route, fare, and travel time are unverified. Arrange local transport and allow a separate travel buffer.",
+    "locationDetails": "National Museum Central Complex, Ermita, Manila.",
+    "evidence": [
+      {
+        "sourceName": "National Museum — National Museum of Natural History",
+        "sourceUrl": "https://www.nationalmuseum.gov.ph/our-museums/national-museum-of-natural-history/",
+        "dateChecked": "2026-10-19",
+        "status": "verified",
+        "fields": [
+          "description",
+          "location"
+        ]
+      },
+      {
+        "sourceName": "National Museum — 2026 visitor announcement",
+        "sourceUrl": "https://www.nationalmuseum.gov.ph/2026/05/28/%F0%9D%90%8D%F0%9D%90%8C%F0%9D%90%8F-%F0%9D%90%89%F0%9D%90%8E%F0%9D%90%88%F0%9D%90%8D%F0%9D%90%92-%F0%9D%90%8D%F0%9D%90%80%F0%9D%90%93%F0%9D%90%88%F0%9D%90%8E%F0%9D%90%8D%F0%9D%90%80%F0%9D%90%8B/",
+        "dateChecked": "2026-10-19",
+        "status": "verified",
+        "fields": [
+          "price"
+        ]
+      },
+      {
+        "sourceName": "National Museum — official booking guidelines",
+        "sourceUrl": "https://reservation.nationalmuseum.gov.ph/",
+        "dateChecked": "2026-10-19",
+        "status": "verified",
+        "fields": [
+          "booking",
+          "location"
+        ]
+      },
+      {
+        "fields": [
+          "coordinates"
+        ],
+        "sourceName": "Wikipedia - National Museum of Natural History (Manila), reference coordinates",
+        "sourceUrl": "https://en.wikipedia.org/wiki/National_Museum_of_Natural_History_(Manila)",
+        "dateChecked": "2026-10-19",
+        "status": "estimate"
+      }
+    ],
+    "openingHours": {
+      "weekdays": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "opens": "09:00",
+      "closes": "18:00",
+      "source": {
+        "sourceName": "National Museum — 2026 visitor announcement",
+        "sourceUrl": "https://www.nationalmuseum.gov.ph/2026/05/28/%F0%9D%90%8D%F0%9D%90%8C%F0%9D%90%8F-%F0%9D%90%89%F0%9D%90%8E%F0%9D%90%88%F0%9D%90%8D%F0%9D%90%92-%F0%9D%90%8D%F0%9D%90%80%F0%9D%90%93%F0%9D%90%88%F0%9D%90%8E%F0%9D%90%8D%F0%9D%90%80%F0%9D%90%8B/",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      }
+    }
+  },
+  {
+    "id": "manila-paco-park",
+    "baseSlug": "manila",
+    "name": "Paco Park",
+    "category": "Culture",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "description": "A former cemetery preserved as a park.",
+    "cluster": "paco",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 90,
+    "outdoor": true,
+    "mode": "local",
+    "booking": "Current opening hours, access rules, and any reservation requirement are unknown. Confirm with the venue before visiting.",
+    "transport": "Route, fare, and travel time are unverified. Arrange local transport and allow a separate travel buffer.",
+    "locationDetails": "Belen Street, Paco, Manila.",
+    "evidence": [
+      {
+        "sourceName": "National Parks Development Committee — Paco Park",
+        "sourceUrl": "https://npdc.gov.ph/paco-park/",
+        "dateChecked": "2026-10-19",
+        "status": "verified",
+        "fields": [
+          "description",
+          "location"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "batanes-basco-cathedral",
+    "baseSlug": "batanes",
+    "name": "Basco Cathedral",
+    "category": "Culture",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "description": "A historic limestone church in Basco.",
+    "cluster": "basco",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 60,
+    "outdoor": true,
+    "mode": "local",
+    "booking": "Confirm current access and any local registration, guide, or reservation requirements. Private-property and religious-site access must be arranged respectfully.",
+    "transport": "Local movement within Basco; route, fare, and journey time are unverified.",
+    "locationDetails": "Basco, Batan Island.",
+    "evidence": [
+      {
+        "sourceName": "Department of Tourism Region 2 — Batanes",
+        "sourceUrl": "https://www.region2fun.ph/official/batanes-2/",
+        "dateChecked": "2026-10-19",
+        "status": "verified",
+        "fields": [
+          "description",
+          "location"
+        ]
+      }
+    ],
+    "aliases": [
+      "Santo Domingo Church",
+      "Immaculate Conception Cathedral"
+    ]
+  },
+  {
+    "id": "batanes-basco-plaza",
+    "baseSlug": "batanes",
+    "name": "Basco Plaza",
+    "category": "Culture",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "description": "A plaza stop in Basco town.",
+    "cluster": "basco",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 45,
+    "outdoor": true,
+    "mode": "local",
+    "booking": "Confirm current access and any local registration, guide, or reservation requirements. Private-property and religious-site access must be arranged respectfully.",
+    "transport": "Local movement within Basco; route, fare, and journey time are unverified.",
+    "locationDetails": "Basco town proper.",
+    "evidence": [
+      {
+        "sourceName": "Tourism Promotions Board — Batanes inspection itinerary",
+        "sourceUrl": "https://tpb.gov.ph/wp-content/uploads/2024/11/Annex-B_Itinerary-Batanes.pdf",
+        "dateChecked": "2026-10-19",
+        "status": "verified",
+        "fields": [
+          "description",
+          "location"
+        ]
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "id": "batanes-casa-real",
+    "baseSlug": "batanes",
+    "name": "Casa Real",
+    "category": "Culture",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "description": "The provincial capitol heritage building.",
+    "cluster": "basco",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 45,
+    "outdoor": true,
+    "mode": "local",
+    "booking": "Exterior heritage stop only. Do not assume entry into government offices.",
+    "transport": "Local movement within Basco; route, fare, and journey time are unverified.",
+    "locationDetails": "Basco town proper.",
+    "evidence": [
+      {
+        "sourceName": "Tourism Promotions Board — Batanes inspection itinerary",
+        "sourceUrl": "https://tpb.gov.ph/wp-content/uploads/2024/11/Annex-B_Itinerary-Batanes.pdf",
+        "dateChecked": "2026-10-19",
+        "status": "verified",
+        "fields": [
+          "description",
+          "location"
+        ]
+      }
+    ],
+    "aliases": [
+      "Batanes Provincial Capitol"
+    ]
+  },
+  {
+    "id": "batanes-valugan-boulder-beach",
+    "baseSlug": "batanes",
+    "name": "Valugan Boulder Beach",
+    "category": "Nature",
+    "interests": [
+      "Nature Lover",
+      "Slow Traveler"
+    ],
+    "description": "A boulder shoreline near Basco.",
+    "cluster": "valugan",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 180,
+    "outdoor": true,
+    "mode": "excursion",
+    "booking": "Confirm current access and any local registration, guide, or reservation requirements. Private-property and religious-site access must be arranged respectfully.",
+    "transport": "A separately arranged outing on Batan Island from the Basco overnight base. Confirm a vehicle or guide and current route conditions; duration is a planning allowance.",
+    "locationDetails": "Basco, Batan Island.",
+    "evidence": [
+      {
+        "sourceName": "Department of Tourism Region 2 — Batanes",
+        "sourceUrl": "https://www.region2fun.ph/official/batanes-2/",
+        "dateChecked": "2026-10-19",
+        "status": "verified",
+        "fields": [
+          "description",
+          "location"
+        ]
+      }
+    ],
+    "aliases": [
+      "Valugan Bay"
+    ]
+  },
+  {
+    "id": "batanes-vayang-rolling-hills",
+    "baseSlug": "batanes",
+    "name": "Vayang Rolling Hills",
+    "category": "Nature",
+    "interests": [
+      "Nature Lover",
+      "Slow Traveler"
+    ],
+    "description": "A hillside landscape in North Batan.",
+    "cluster": "vayang",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 180,
+    "outdoor": true,
+    "mode": "excursion",
+    "booking": "Confirm current access and any local registration, guide, or reservation requirements. Private-property and religious-site access must be arranged respectfully.",
+    "transport": "A separately arranged outing on Batan Island from the Basco overnight base. Confirm a vehicle or guide and current route conditions; duration is a planning allowance.",
+    "locationDetails": "Basco, Batan Island.",
+    "evidence": [
+      {
+        "sourceName": "Tourism Promotions Board — Batanes inspection itinerary",
+        "sourceUrl": "https://tpb.gov.ph/wp-content/uploads/2024/11/Annex-B_Itinerary-Batanes.pdf",
+        "dateChecked": "2026-10-19",
+        "status": "verified",
+        "fields": [
+          "description",
+          "location"
+        ]
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "id": "batanes-tukon-chapel",
+    "baseSlug": "batanes",
+    "name": "Tukon Chapel",
+    "category": "Culture",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "description": "A chapel on the North Batan circuit.",
+    "cluster": "tukon",
+    "lat": 20.43,
+    "lng": 121.97056,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 180,
+    "outdoor": true,
+    "mode": "excursion",
+    "booking": "Confirm current access and any local registration, guide, or reservation requirements. Private-property and religious-site access must be arranged respectfully.",
+    "transport": "A separately arranged outing on Batan Island from the Basco overnight base. Confirm a vehicle or guide and current route conditions; duration is a planning allowance.",
+    "locationDetails": "Basco, Batan Island.",
+    "evidence": [
+      {
+        "sourceName": "Tourism Promotions Board — Batanes inspection itinerary",
+        "sourceUrl": "https://tpb.gov.ph/wp-content/uploads/2024/11/Annex-B_Itinerary-Batanes.pdf",
+        "dateChecked": "2026-10-19",
+        "status": "verified",
+        "fields": [
+          "description",
+          "location"
+        ]
+      },
+      {
+        "fields": [
+          "coordinates"
+        ],
+        "sourceName": "Wikipedia - Tukon Chapel, reference coordinates",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Tukon_Chapel",
+        "dateChecked": "2026-10-19",
+        "status": "estimate"
+      }
+    ],
+    "aliases": [
+      "Mount Carmel Chapel"
+    ]
+  },
+  {
+    "id": "batanes-dipnaysupuan-tunnel",
+    "baseSlug": "batanes",
+    "name": "Dipnaysupuan Japanese Tunnel",
+    "category": "Culture",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "description": "A wartime tunnel in the Tukon hills.",
+    "cluster": "tukon",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 180,
+    "outdoor": true,
+    "mode": "excursion",
+    "booking": "Confirm current access and any local registration, guide, or reservation requirements. Private-property and religious-site access must be arranged respectfully.",
+    "transport": "A separately arranged outing on Batan Island from the Basco overnight base. Confirm a vehicle or guide and current route conditions; duration is a planning allowance.",
+    "locationDetails": "Tukon, Basco.",
+    "evidence": [
+      {
+        "sourceName": "Department of Tourism Region 2 — Batanes",
+        "sourceUrl": "https://www.region2fun.ph/official/batanes-2/",
+        "dateChecked": "2026-10-19",
+        "status": "verified",
+        "fields": [
+          "description",
+          "location"
+        ]
+      }
+    ],
+    "aliases": [
+      "Japanese Tunnel"
+    ]
+  },
+  {
+    "id": "batanes-fundacion-pacita",
+    "baseSlug": "batanes",
+    "name": "Fundacion Pacita",
+    "category": "Culture",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "description": "An art-associated lodge at Chanarian-Tukon.",
+    "cluster": "tukon",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 180,
+    "outdoor": true,
+    "mode": "excursion",
+    "booking": "Private accommodation property. Ask the operator about non-guest art-viewing access before scheduling; lodging and dining are not included.",
+    "transport": "A separately arranged outing on Batan Island from the Basco overnight base. Confirm a vehicle or guide and current route conditions; duration is a planning allowance.",
+    "locationDetails": "Chanarian-Tukon, Basco.",
+    "evidence": [
+      {
+        "sourceName": "Department of Tourism Region 2 — Batanes",
+        "sourceUrl": "https://www.region2fun.ph/official/batanes-2/",
+        "dateChecked": "2026-10-19",
+        "status": "verified",
+        "fields": [
+          "description",
+          "location"
+        ]
+      }
+    ],
+    "aliases": [
+      "Pacita Abad Museum"
+    ]
+  },
+  {
+    "id": "batanes-chadpidan-bay",
+    "baseSlug": "batanes",
+    "name": "Chadpidan Bay",
+    "category": "Nature",
+    "interests": [
+      "Nature Lover",
+      "Slow Traveler"
+    ],
+    "description": "A coastal walking destination from Basco.",
+    "cluster": "chadpidan",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 240,
+    "outdoor": true,
+    "mode": "excursion",
+    "booking": "Confirm current access and any local registration, guide, or reservation requirements. Private-property and religious-site access must be arranged respectfully.",
+    "transport": "A separately arranged outing on Batan Island from the Basco overnight base. Confirm a vehicle or guide and current route conditions; duration is a planning allowance.",
+    "locationDetails": "Basco, Batan Island.",
+    "evidence": [
+      {
+        "sourceName": "Department of Tourism Region 2 — Batanes",
+        "sourceUrl": "https://www.region2fun.ph/official/batanes-2/",
+        "dateChecked": "2026-10-19",
+        "status": "verified",
+        "fields": [
+          "description",
+          "location"
+        ]
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "id": "batanes-mount-iraya",
+    "baseSlug": "batanes",
+    "name": "Mount Iraya",
+    "category": "Adventure",
+    "interests": [
+      "Adventure Junkie",
+      "Mountain Explorer"
+    ],
+    "description": "A mountain route above Basco.",
+    "cluster": "iraya",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 480,
+    "outdoor": true,
+    "mode": "excursion",
+    "booking": "Confirm current access and any local registration, guide, or reservation requirements. Private-property and religious-site access must be arranged respectfully.",
+    "transport": "A separately arranged outing on Batan Island from the Basco overnight base. Confirm a vehicle or guide and current route conditions; duration is a planning allowance.",
+    "locationDetails": "Basco, Batan Island.",
+    "evidence": [
+      {
+        "sourceName": "Department of Tourism Region 2 — Batanes",
+        "sourceUrl": "https://www.region2fun.ph/official/batanes-2/",
+        "dateChecked": "2026-10-19",
+        "status": "verified",
+        "fields": [
+          "description",
+          "location"
+        ]
+      }
+    ],
+    "aliases": [
+      "Mt. Iraya"
+    ]
+  },
+  {
+    "id": "batanes-san-carlos-borromeo",
+    "baseSlug": "batanes",
+    "name": "San Carlos Borromeo Church",
+    "category": "Culture",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "description": "A heritage church in Mahatao.",
+    "cluster": "mahatao",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 240,
+    "outdoor": true,
+    "mode": "excursion",
+    "booking": "Confirm current access and any local registration, guide, or reservation requirements. Private-property and religious-site access must be arranged respectfully.",
+    "transport": "A separately arranged outing on Batan Island from the Basco overnight base. Confirm a vehicle or guide and current route conditions; duration is a planning allowance.",
+    "locationDetails": "Mahatao, Batan Island.",
+    "evidence": [
+      {
+        "sourceName": "Department of Tourism Region 2 — Batanes",
+        "sourceUrl": "https://www.region2fun.ph/official/batanes-2/",
+        "dateChecked": "2026-10-19",
+        "status": "verified",
+        "fields": [
+          "description",
+          "location"
+        ]
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "id": "batanes-rakuh-a-payaman",
+    "baseSlug": "batanes",
+    "name": "Rakuh-a-Payaman",
+    "category": "Nature",
+    "interests": [
+      "Nature Lover",
+      "Slow Traveler"
+    ],
+    "description": "A communal pasture landscape in Mahatao.",
+    "cluster": "mahatao",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 300,
+    "outdoor": true,
+    "mode": "excursion",
+    "booking": "Confirm current access and any local registration, guide, or reservation requirements. Private-property and religious-site access must be arranged respectfully.",
+    "transport": "A separately arranged outing on Batan Island from the Basco overnight base. Confirm a vehicle or guide and current route conditions; duration is a planning allowance.",
+    "locationDetails": "Mahatao, Batan Island.",
+    "evidence": [
+      {
+        "sourceName": "Department of Tourism Region 2 — Batanes",
+        "sourceUrl": "https://www.region2fun.ph/official/batanes-2/",
+        "dateChecked": "2026-10-19",
+        "status": "verified",
+        "fields": [
+          "description",
+          "location"
+        ]
+      }
+    ],
+    "aliases": [
+      "Racuh a Payaman",
+      "Marlboro Country Batanes"
+    ]
+  },
+  {
+    "id": "batanes-diura-village",
+    "baseSlug": "batanes",
+    "name": "Diura Fishing Village",
+    "category": "Culture",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "description": "A working fishing community in Mahatao.",
+    "cluster": "mahatao",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 300,
+    "outdoor": true,
+    "mode": "excursion",
+    "booking": "Arrange a respectful visit with local guidance; this is a working community. Do not assume access to private homes or participation in fishing.",
+    "transport": "A separately arranged outing on Batan Island from the Basco overnight base. Confirm a vehicle or guide and current route conditions; duration is a planning allowance.",
+    "locationDetails": "Diura, Mahatao, Batan Island.",
+    "evidence": [
+      {
+        "sourceName": "Department of Tourism Region 2 — Batanes",
+        "sourceUrl": "https://www.region2fun.ph/official/batanes-2/",
+        "dateChecked": "2026-10-19",
+        "status": "verified",
+        "fields": [
+          "description",
+          "location"
+        ]
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "id": "batanes-house-of-dakay",
+    "baseSlug": "batanes",
+    "name": "House of Dakay",
+    "category": "Culture",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "description": "A historic house in Ivana.",
+    "cluster": "ivana",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 360,
+    "outdoor": true,
+    "mode": "excursion",
+    "booking": "Confirm current access and any local registration, guide, or reservation requirements. Private-property and religious-site access must be arranged respectfully.",
+    "transport": "A separately arranged outing on Batan Island from the Basco overnight base. Confirm a vehicle or guide and current route conditions; duration is a planning allowance.",
+    "locationDetails": "Ivana, Batan Island.",
+    "evidence": [
+      {
+        "sourceName": "Department of Tourism Region 2 — Batanes",
+        "sourceUrl": "https://www.region2fun.ph/official/batanes-2/",
+        "dateChecked": "2026-10-19",
+        "status": "verified",
+        "fields": [
+          "description",
+          "location"
+        ]
+      }
+    ],
+    "aliases": []
+  }
+]

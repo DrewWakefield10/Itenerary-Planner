@@ -1,6 +1,8 @@
 import { fromStop, minutes, clock, validateDay } from "./engine";
 import { activitySchema, tripSchema, type Activity, type Trip } from "./trip";
 import { discoveryPlace, discoveryStop, reviewExpired } from "./discovery";
+import {destination} from "./destinations";
+import {activityKeys,conflictsWithUsed,addableStop} from "./catalog/planning";
 
 export function discoveryActivity(
   placeId: string,
@@ -14,6 +16,8 @@ export function discoveryActivity(
       "This place needs a current reviewed catalog mapping before it can be added.",
     );
   const activity = fromStop(stop, trip.request, start);
+  if(!addableStop(stop))throw new Error("This is a package component, another overnight base, or a venue awaiting current access confirmation. Choose a complete package or another stop instead.");
+  if(stop.mode!=="local")activity.duration=Math.max(480,activity.duration);
   return activitySchema.parse({
     ...activity,
     description: place.description,
@@ -33,17 +37,16 @@ export function previewDiscoveryAddition(
     throw new Error(
       "Choose an ordinary day at this place's exact overnight base. Connection days and ambiguous legacy bases are not eligible.",
     );
-  if (
-    day.activities.some(
-      (a) =>
-        a.name === place.stopName ||
-        a.source.startsWith(`Selected discovery: ${place.id};`),
-    )
-  )
+  const stop=discoveryStop(place);
+  const catalog=destination(place.baseSlug)!.stops;
+  const used=new Set(trip.days.filter(d=>d.destination===place.baseSlug).flatMap(d=>d.activities.flatMap(a=>[...activityKeys(a,catalog)])));
+  if (stop && conflictsWithUsed(stop,used,catalog))
     throw new Error(
-      "This stop is already in that day. Edit it in your trip instead of adding a duplicate.",
+      "This stop or an overlapping package component is already in this trip. Edit it in your trip instead of adding a duplicate.",
     );
   const activity = discoveryActivity(placeId, trip, start);
+  if(activity.visitMode!=="local" && day.activities.length)throw new Error("An excursion or package needs a separate empty day. Edit this day first; no existing activities will be replaced.");
+  if(day.activities.some(a=>a.visitMode!=="local"))throw new Error("This day already reserves a full excursion block. Choose another day.");
   const begins = minutes(start),
     ends = begins + activity.duration;
   if (ends > 24 * 60) throw new Error("The visit must finish before midnight.");

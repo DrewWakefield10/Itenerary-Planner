@@ -6,11 +6,13 @@ import { destinationCenter, activityLocation } from "@/lib/map-locations";
 export default function TripMap({
   activities,
   slug,
+  center,
   selected,
   onSelect,
 }: {
   activities: Activity[];
-  slug: string;
+  slug: string | null;
+  center?: [number,number];
   selected: string;
   onSelect: (id: string) => void;
 }) {
@@ -29,7 +31,7 @@ export default function TripMap({
         if (cancelled || !container.current) return;
         map.current = L.map(container.current, {
           scrollWheelZoom: false,
-        }).setView(destinationCenter(slug), 12);
+        }).setView(center || destinationCenter(slug!), 12);
         const tiles = L.tileLayer(
           "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
           {
@@ -87,7 +89,7 @@ export default function TripMap({
           maxZoom: 14,
         });
       else {
-        map.current.setView(destinationCenter(slug), 12);
+        map.current.setView(center || destinationCenter(slug!), 12);
       }
       map.current.invalidateSize();
       const focused=markers.current.get(selected);

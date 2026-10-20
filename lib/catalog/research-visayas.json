@@ -1,0 +1,1953 @@
+[
+  {
+    "id": "cebu-basilica-santo-nino",
+    "baseSlug": "cebu",
+    "name": "Basilica Minore del Santo Niño",
+    "category": "Culture",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "description": "A working Catholic basilica associated with the Santo Niño devotion.",
+    "cluster": "heritage",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 45,
+    "outdoor": false,
+    "mode": "local",
+    "booking": "Opening hours, entry charges, accessibility, and booking requirements are unknown. Confirm directly before visiting.",
+    "transport": "Local transfer within this overnight base; exact route, fare, and travel time are unknown.",
+    "locationDetails": "Downtown Cebu City, beside the Magellan’s Cross area.",
+    "evidence": [
+      {
+        "fields": [
+          "description",
+          "location"
+        ],
+        "sourceName": "Basilica Minore del Santo Niño — Magellan’s Cross",
+        "sourceUrl": "https://santoninodecebubasilica.org/basilica-minore-del-santo-nino/magellans-cross/",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      }
+    ]
+  },
+  {
+    "id": "cebu-national-museum",
+    "baseSlug": "cebu",
+    "name": "National Museum of the Philippines — Cebu",
+    "category": "Culture",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "description": "Museum galleries occupy Cebu’s former customs building.",
+    "cluster": "heritage",
+    "lat": 10.29167,
+    "lng": 123.90444,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 90,
+    "outdoor": false,
+    "mode": "local",
+    "booking": "Opening hours, entry charges, accessibility, and booking requirements are unknown. Confirm directly before visiting.",
+    "transport": "Local transfer within this overnight base; exact route, fare, and travel time are unknown.",
+    "locationDetails": "A. Pigafetta Street, Barangay San Roque, Cebu City.",
+    "evidence": [
+      {
+        "fields": [
+          "description",
+          "location"
+        ],
+        "sourceName": "National Museum of the Philippines — Cebu",
+        "sourceUrl": "https://www.nationalmuseum.gov.ph/nmp-cebu-2/",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      },
+      {
+        "fields": [
+          "coordinates"
+        ],
+        "sourceName": "Wikipedia — National Museum Cebu building reference coordinates",
+        "sourceUrl": "https://en.wikipedia.org/wiki/National_Museum_of_the_Philippines_(Cebu)",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      }
+    ]
+  },
+  {
+    "id": "cebu-heritage-monument",
+    "baseSlug": "cebu",
+    "name": "Heritage of Cebu Monument",
+    "category": "Culture",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "description": "A sculptural landmark recounts episodes from Cebu’s history.",
+    "cluster": "heritage",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 30,
+    "outdoor": true,
+    "mode": "local",
+    "booking": "Opening hours, entry charges, accessibility, and booking requirements are unknown. Confirm directly before visiting.",
+    "transport": "Local transfer within this overnight base; exact route, fare, and travel time are unknown.",
+    "locationDetails": "Parian district, Cebu City.",
+    "evidence": [
+      {
+        "fields": [
+          "description",
+          "location"
+        ],
+        "sourceName": "Philippine Department of Tourism — Cebu City",
+        "sourceUrl": "https://philippines.travel/destinations/cebu-city/index",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      }
+    ]
+  },
+  {
+    "id": "cebu-taoist-temple",
+    "baseSlug": "cebu",
+    "name": "Cebu Taoist Temple",
+    "category": "Culture",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "description": "A temple complex in Cebu City’s Beverly Hills neighborhood.",
+    "cluster": "lahug",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 60,
+    "outdoor": true,
+    "mode": "local",
+    "booking": "Opening hours, entry charges, accessibility, and booking requirements are unknown. Confirm directly before visiting.",
+    "transport": "Local transfer within this overnight base; exact route, fare, and travel time are unknown.",
+    "locationDetails": "Beverly Hills subdivision, Cebu City.",
+    "evidence": [
+      {
+        "fields": [
+          "description",
+          "location"
+        ],
+        "sourceName": "Philippine Department of Tourism — Cebu City",
+        "sourceUrl": "https://philippines.travel/destinations/cebu-city/index",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      }
+    ]
+  },
+  {
+    "id": "cebu-museo-sugbo",
+    "baseSlug": "cebu",
+    "name": "Museo Sugbo",
+    "category": "Culture",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "description": "Cebu’s provincial museum presents the region’s history and cultural collections.",
+    "cluster": "tejero",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 90,
+    "outdoor": false,
+    "mode": "local",
+    "booking": "Opening hours, entry charges, accessibility, and booking requirements are unknown. Confirm directly before visiting.",
+    "transport": "Local transfer within this overnight base; exact route, fare, and travel time are unknown.",
+    "locationDetails": "Cebu City; confirm the current visitor entrance.",
+    "evidence": [
+      {
+        "fields": [
+          "description",
+          "location"
+        ],
+        "sourceName": "Province of Cebu — Museo Sugbo reopening",
+        "sourceUrl": "https://www.cebu.gov.ph/2383/museo-sugbo-reopens-with-unveiling-of-cultural-property-and-provincial-marker/",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      }
+    ],
+    "aliases": [
+      "Cebu Provincial Museum"
+    ]
+  },
+  {
+    "id": "cebu-yap-sandiego-house",
+    "baseSlug": "cebu",
+    "name": "Yap-Sandiego Ancestral House",
+    "category": "Culture",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "description": "A surviving Cebu City ancestral house.",
+    "cluster": "heritage",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 45,
+    "outdoor": false,
+    "mode": "local",
+    "booking": "Opening hours, entry charges, accessibility, and booking requirements are unknown. Confirm directly before visiting.",
+    "transport": "Local transfer within this overnight base; exact route, fare, and travel time are unknown.",
+    "locationDetails": "Cebu City’s heritage district; confirm the entrance locally.",
+    "evidence": [
+      {
+        "fields": [
+          "description",
+          "location"
+        ],
+        "sourceName": "Province of Cebu — History and heritage",
+        "sourceUrl": "https://www.cebu.gov.ph/about/",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      }
+    ],
+    "aliases": [
+      "Yap-San Diego House"
+    ]
+  },
+  {
+    "id": "cebu-colon-street",
+    "baseSlug": "cebu",
+    "name": "Colon Street",
+    "category": "Culture",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "description": "A historic shopping street in downtown Cebu City.",
+    "cluster": "heritage",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 45,
+    "outdoor": true,
+    "mode": "local",
+    "booking": "Opening hours, entry charges, accessibility, and booking requirements are unknown. Confirm directly before visiting.",
+    "transport": "Local transfer within this overnight base; exact route, fare, and travel time are unknown.",
+    "locationDetails": "Downtown Cebu City.",
+    "evidence": [
+      {
+        "fields": [
+          "description",
+          "location"
+        ],
+        "sourceName": "Province of Cebu — History and heritage",
+        "sourceUrl": "https://www.cebu.gov.ph/about/",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      }
+    ]
+  },
+  {
+    "id": "cebu-sugbo-mercado",
+    "baseSlug": "cebu",
+    "name": "Sugbo Mercado — IT Park",
+    "category": "Food",
+    "interests": [
+      "Food Hunter",
+      "City Wanderer"
+    ],
+    "description": "An open-air food market at Cebu IT Park.",
+    "cluster": "it-park",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 75,
+    "outdoor": true,
+    "mode": "local",
+    "booking": "Market operating days, vendor availability, food prices, and dietary suitability are unknown; confirm before visiting.",
+    "transport": "Local transfer within this overnight base; exact route, fare, and travel time are unknown.",
+    "locationDetails": "Cebu IT Park, Cebu City.",
+    "evidence": [
+      {
+        "fields": [
+          "description",
+          "location"
+        ],
+        "sourceName": "Philippine Department of Tourism — Cebu City",
+        "sourceUrl": "https://philippines.travel/destinations/cebu-city/index",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      }
+    ]
+  },
+  {
+    "id": "cebu-sirao-garden",
+    "baseSlug": "cebu",
+    "name": "Sirao Garden",
+    "category": "Nature",
+    "interests": [
+      "Nature Lover",
+      "Slow Traveler"
+    ],
+    "description": "A flower-garden attraction in Cebu City’s uplands.",
+    "cluster": "sirao",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 120,
+    "outdoor": true,
+    "mode": "excursion",
+    "booking": "Opening hours, entry charges, accessibility, and booking requirements are unknown. Confirm directly before visiting.",
+    "transport": "Separate upland outing with road travel from downtown. Route, return transport, and journey duration remain unverified.",
+    "locationDetails": "Sirao, Cebu City uplands; confirm which garden entrance your operator uses.",
+    "evidence": [
+      {
+        "fields": [
+          "description",
+          "location"
+        ],
+        "sourceName": "Philippine Department of Tourism — Cebu City",
+        "sourceUrl": "https://philippines.travel/destinations/cebu-city/index",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      }
+    ]
+  },
+  {
+    "id": "cebu-temple-of-leah",
+    "baseSlug": "cebu",
+    "name": "Temple of Leah",
+    "category": "Culture",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "description": "A monumental attraction in the Busay highlands.",
+    "cluster": "busay",
+    "lat": 10.368913701256984,
+    "lng": 123.87333595072559,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 90,
+    "outdoor": true,
+    "mode": "excursion",
+    "booking": "Opening hours, entry charges, accessibility, and booking requirements are unknown. Confirm directly before visiting.",
+    "transport": "Separate Busay outing; confirm uphill road transport and return arrangements. Do not combine with distant southern Cebu in a city day.",
+    "locationDetails": "Busay uplands, Cebu City.",
+    "evidence": [
+      {
+        "fields": [
+          "description",
+          "location"
+        ],
+        "sourceName": "Philippine Department of Tourism — Cebu City",
+        "sourceUrl": "https://philippines.travel/destinations/cebu-city/index",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      },
+      {
+        "fields": [
+          "coordinates"
+        ],
+        "sourceName": "Wikipedia — Temple of Leah reference coordinates",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Temple_of_Leah",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      }
+    ]
+  },
+  {
+    "id": "cebu-tops-lookout",
+    "baseSlug": "cebu",
+    "name": "TOPS",
+    "category": "Nature",
+    "interests": [
+      "Nature Lover",
+      "Slow Traveler"
+    ],
+    "description": "A hilltop viewpoint with dining facilities overlooking Cebu City.",
+    "cluster": "busay",
+    "lat": null,
+    "lng": null,
+    "cost": 100,
+    "costBasis": "person",
+    "minutes": 90,
+    "outdoor": true,
+    "mode": "excursion",
+    "booking": "Official regular entry is listed at PHP100; activity add-ons and concessions differ. Confirm the current tariff and weather before visiting.",
+    "transport": "The operator lists a shuttle from IT Park Transport Terminal. Confirm its current departures and return service; fares are separate from this regular-entry amount.",
+    "locationDetails": "Tops Road, Busay, Cebu City.",
+    "evidence": [
+      {
+        "fields": [
+          "description",
+          "location",
+          "price",
+          "transport"
+        ],
+        "sourceName": "TOPS — official visitor information",
+        "sourceUrl": "https://www.topscebu.ph/",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      }
+    ],
+    "aliases": [
+      "Tops Lookout"
+    ]
+  },
+  {
+    "id": "cebu-ocean-park",
+    "baseSlug": "cebu",
+    "name": "Cebu Ocean Park",
+    "category": "Nature",
+    "interests": [
+      "Nature Lover",
+      "Slow Traveler"
+    ],
+    "description": "A ticketed aquarium and marine-themed visitor attraction.",
+    "cluster": "srp",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 150,
+    "outdoor": false,
+    "mode": "local",
+    "booking": "Ticket type, current price, availability, and accessibility require operator confirmation. Published opening hours should be rechecked before travel.",
+    "transport": "Local transfer within this overnight base; exact route, fare, and travel time are unknown.",
+    "locationDetails": "SM Seaside Complex, Mambaling, Cebu City.",
+    "evidence": [
+      {
+        "fields": [
+          "description",
+          "location"
+        ],
+        "sourceName": "Cebu Ocean Park — official visitor information",
+        "sourceUrl": "https://www.cebuoceanpark.com/",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      }
+    ]
+  },
+  {
+    "id": "cebu-moalboal-coast",
+    "baseSlug": "cebu",
+    "name": "Moalboal coast",
+    "category": "Beaches",
+    "interests": [
+      "Beach Bum",
+      "Slow Traveler"
+    ],
+    "description": "A separate coastal destination known for marine tourism.",
+    "cluster": "moalboal",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 240,
+    "outdoor": true,
+    "mode": "separate-base",
+    "booking": "Plan a separate overnight base or independently confirmed long excursion. Marine access, operator requirements, and prices are unknown.",
+    "transport": "Moalboal is outside the Cebu City base. Arrange a separate base and transfer rather than treating it as an ordinary city stop.",
+    "locationDetails": "Moalboal municipality, outside Cebu City.",
+    "evidence": [
+      {
+        "fields": [
+          "description",
+          "location"
+        ],
+        "sourceName": "Province of Cebu — History and heritage",
+        "sourceUrl": "https://www.cebu.gov.ph/about/",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      }
+    ]
+  },
+  {
+    "id": "cebu-kawasan-falls",
+    "baseSlug": "cebu",
+    "name": "Kawasan Falls",
+    "category": "Nature",
+    "interests": [
+      "Nature Lover",
+      "Slow Traveler"
+    ],
+    "description": "A waterfall attraction in Badian, southern Cebu.",
+    "cluster": "badian",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 240,
+    "outdoor": true,
+    "mode": "excursion",
+    "booking": "The province reports phased rehabilitation. Confirm current tourism-office access, guide requirements, weather restrictions, and transport. No canyoneering activity or booking is implied.",
+    "transport": "Requires separately planned southern Cebu road travel and a substantial return allowance. Journey time and road conditions are unverified.",
+    "locationDetails": "Badian municipality; not within Cebu City.",
+    "evidence": [
+      {
+        "fields": [
+          "description",
+          "location"
+        ],
+        "sourceName": "Province of Cebu — Kawasan rehabilitation update",
+        "sourceUrl": "https://www.cebu.gov.ph/13093/gov-pam-kawasan-falls-rehab-to-prioritize-environmental-restoration-not-commercial-development/",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      }
+    ]
+  },
+  {
+    "id": "cebu-oslob-sumilon-island",
+    "baseSlug": "cebu",
+    "name": "Sumilon Island outing",
+    "category": "Beaches",
+    "interests": [
+      "Beach Bum",
+      "Slow Traveler"
+    ],
+    "description": "An island visitor destination off Oslob in southern Cebu.",
+    "cluster": "oslob",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 300,
+    "outdoor": true,
+    "mode": "excursion",
+    "booking": "Confirm an authorized operator, island admission, landing access, marine conditions, and all inclusions before booking.",
+    "transport": "Southern Cebu road travel plus an operator-arranged sea crossing. Separate excursion planning is required; no route or departure is assumed.",
+    "locationDetails": "Sumilon Island, Oslob; outside the Cebu City base.",
+    "evidence": [
+      {
+        "fields": [
+          "description",
+          "location"
+        ],
+        "sourceName": "Province of Cebu — History and heritage",
+        "sourceUrl": "https://www.cebu.gov.ph/about/",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      }
+    ],
+    "requiresBooking": true
+  },
+  {
+    "id": "bohol-saint-augustine-church",
+    "baseSlug": "bohol",
+    "name": "Saint Augustine Parish Church",
+    "category": "Culture",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "description": "A heritage church in Panglao town.",
+    "cluster": "town",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 45,
+    "outdoor": false,
+    "mode": "local",
+    "booking": "Opening hours, entry charges, accessibility, and booking requirements are unknown. Confirm directly before visiting.",
+    "transport": "Local transfer within this overnight base; exact route, fare, and travel time are unknown.",
+    "locationDetails": "Panglao municipality, Panglao Island.",
+    "evidence": [
+      {
+        "fields": [
+          "description",
+          "location"
+        ],
+        "sourceName": "Bohol Provincial Tourism Office — Panglao",
+        "sourceUrl": "https://tourism.bohol.gov.ph/visitbohol-panglao/",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      }
+    ],
+    "aliases": [
+      "Panglao Church"
+    ]
+  },
+  {
+    "id": "bohol-panglao-watchtower",
+    "baseSlug": "bohol",
+    "name": "Panglao Watchtower",
+    "category": "Culture",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "description": "A historic watchtower near Panglao’s church and coast.",
+    "cluster": "town",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 30,
+    "outdoor": true,
+    "mode": "local",
+    "booking": "Opening hours, entry charges, accessibility, and booking requirements are unknown. Confirm directly before visiting.",
+    "transport": "Local transfer within this overnight base; exact route, fare, and travel time are unknown.",
+    "locationDetails": "Near Saint Augustine Parish Church, Panglao town.",
+    "evidence": [
+      {
+        "fields": [
+          "description",
+          "location"
+        ],
+        "sourceName": "Bohol Provincial Tourism Office — Panglao",
+        "sourceUrl": "https://tourism.bohol.gov.ph/visitbohol-panglao/",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      }
+    ]
+  },
+  {
+    "id": "bohol-nova-shell-museum",
+    "baseSlug": "bohol",
+    "name": "Nova Shell Museum",
+    "category": "Culture",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "description": "A museum displaying a collection of marine shells.",
+    "cluster": "town",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 60,
+    "outdoor": false,
+    "mode": "local",
+    "booking": "Opening hours, entry charges, accessibility, and booking requirements are unknown. Confirm directly before visiting.",
+    "transport": "Local transfer within this overnight base; exact route, fare, and travel time are unknown.",
+    "locationDetails": "Panglao municipality; confirm the current visitor address and access.",
+    "evidence": [
+      {
+        "fields": [
+          "description",
+          "location"
+        ],
+        "sourceName": "Bohol Provincial Tourism Office — Panglao",
+        "sourceUrl": "https://tourism.bohol.gov.ph/visitbohol-panglao/",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      }
+    ],
+    "aliases": [
+      "Novo Shell Museum"
+    ]
+  },
+  {
+    "id": "bohol-doljo-beach",
+    "baseSlug": "bohol",
+    "name": "Doljo Beach",
+    "category": "Beaches",
+    "interests": [
+      "Beach Bum",
+      "Slow Traveler"
+    ],
+    "description": "A beach on the coast of Panglao municipality.",
+    "cluster": "doljo",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 90,
+    "outdoor": true,
+    "mode": "local",
+    "booking": "Opening hours, entry charges, accessibility, and booking requirements are unknown. Confirm directly before visiting.",
+    "transport": "Local transfer within this overnight base; exact route, fare, and travel time are unknown.",
+    "locationDetails": "Doljo, Panglao municipality.",
+    "evidence": [
+      {
+        "fields": [
+          "description",
+          "location"
+        ],
+        "sourceName": "Bohol Provincial Tourism Office — Panglao",
+        "sourceUrl": "https://tourism.bohol.gov.ph/visitbohol-panglao/",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      }
+    ]
+  },
+  {
+    "id": "bohol-dumaluan-beach",
+    "baseSlug": "bohol",
+    "name": "Dumaluan Beach",
+    "category": "Beaches",
+    "interests": [
+      "Beach Bum",
+      "Slow Traveler"
+    ],
+    "description": "A sandy beach in Panglao municipality.",
+    "cluster": "dumaluan",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 90,
+    "outdoor": true,
+    "mode": "local",
+    "booking": "Beach access points, resort entry charges, facilities, and current water conditions are unknown. Confirm the chosen access route.",
+    "transport": "Local transfer within this overnight base; exact route, fare, and travel time are unknown.",
+    "locationDetails": "Panglao municipality, Panglao Island.",
+    "evidence": [
+      {
+        "fields": [
+          "description",
+          "location"
+        ],
+        "sourceName": "Bohol Provincial Tourism Office — Panglao",
+        "sourceUrl": "https://tourism.bohol.gov.ph/visitbohol-panglao/",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      }
+    ]
+  },
+  {
+    "id": "bohol-libaong-beach",
+    "baseSlug": "bohol",
+    "name": "Libaong Beach",
+    "category": "Beaches",
+    "interests": [
+      "Beach Bum",
+      "Slow Traveler"
+    ],
+    "description": "A beach on Panglao Island’s coast.",
+    "cluster": "libaong",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 90,
+    "outdoor": true,
+    "mode": "local",
+    "booking": "Opening hours, entry charges, accessibility, and booking requirements are unknown. Confirm directly before visiting.",
+    "transport": "Local transfer within this overnight base; exact route, fare, and travel time are unknown.",
+    "locationDetails": "Libaong, Panglao municipality.",
+    "evidence": [
+      {
+        "fields": [
+          "description",
+          "location"
+        ],
+        "sourceName": "Bohol Provincial Tourism Office — Panglao",
+        "sourceUrl": "https://tourism.bohol.gov.ph/visitbohol-panglao/",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      }
+    ]
+  },
+  {
+    "id": "bohol-hinagdanan-cave",
+    "baseSlug": "bohol",
+    "name": "Hinagdanan Cave",
+    "category": "Nature",
+    "interests": [
+      "Nature Lover",
+      "Slow Traveler"
+    ],
+    "description": "A limestone cave with an underground pool and rock formations.",
+    "cluster": "bingag",
+    "lat": 9.62528,
+    "lng": 123.80111,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 60,
+    "outdoor": false,
+    "mode": "local",
+    "booking": "Confirm current cave admission, guide rules, steps, lighting, and access restrictions. A visit does not imply permission or suitability for swimming.",
+    "transport": "Local transfer within this overnight base; exact route, fare, and travel time are unknown.",
+    "locationDetails": "Barangay Bingag, Dauis, on Panglao Island.",
+    "evidence": [
+      {
+        "fields": [
+          "description",
+          "location"
+        ],
+        "sourceName": "Bohol Provincial Tourism Office — Dauis",
+        "sourceUrl": "https://tourism.bohol.gov.ph/visitbohol-dauis/",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      },
+      {
+        "fields": [
+          "coordinates"
+        ],
+        "sourceName": "Wikipedia — Hinagdanan Cave reference coordinates",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Hinagdanan_Cave",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      }
+    ]
+  },
+  {
+    "id": "bohol-dauis-church",
+    "baseSlug": "bohol",
+    "name": "Assumption of Our Lady Shrine-Parish",
+    "category": "Culture",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "description": "A heritage Catholic church in Dauis.",
+    "cluster": "dauis-town",
+    "lat": 9.62581,
+    "lng": 123.865,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 45,
+    "outdoor": false,
+    "mode": "local",
+    "booking": "Opening hours, entry charges, accessibility, and booking requirements are unknown. Confirm directly before visiting.",
+    "transport": "Local transfer within this overnight base; exact route, fare, and travel time are unknown.",
+    "locationDetails": "Dauis town, on Panglao Island.",
+    "evidence": [
+      {
+        "fields": [
+          "description",
+          "location"
+        ],
+        "sourceName": "Bohol Provincial Tourism Office — Dauis",
+        "sourceUrl": "https://tourism.bohol.gov.ph/visitbohol-dauis/",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      },
+      {
+        "fields": [
+          "coordinates"
+        ],
+        "sourceName": "Wikipedia — Dauis Church reference coordinates",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Dauis_Church",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      }
+    ],
+    "aliases": [
+      "Dauis Church",
+      "Our Lady of the Assumption Church"
+    ]
+  },
+  {
+    "id": "bohol-bohol-bee-farm",
+    "baseSlug": "bohol",
+    "name": "Bohol Bee Farm",
+    "category": "Food",
+    "interests": [
+      "Food Hunter",
+      "City Wanderer"
+    ],
+    "description": "A farm and dining destination in Dauis.",
+    "cluster": "dao",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 90,
+    "outdoor": false,
+    "mode": "local",
+    "booking": "Confirm restaurant hours, menu prices, dietary suitability, farm-tour availability, and accessibility directly with the venue.",
+    "transport": "Local transfer within this overnight base; exact route, fare, and travel time are unknown.",
+    "locationDetails": "Barangay Dao, Dauis, on Panglao Island.",
+    "evidence": [
+      {
+        "fields": [
+          "description",
+          "location"
+        ],
+        "sourceName": "Bohol Provincial Tourism Office — Dauis",
+        "sourceUrl": "https://tourism.bohol.gov.ph/visitbohol-dauis/",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      }
+    ]
+  },
+  {
+    "id": "bohol-balicasag-island",
+    "baseSlug": "bohol",
+    "name": "Balicasag Island outing",
+    "category": "Adventure",
+    "interests": [
+      "Adventure Junkie",
+      "Nature Lover"
+    ],
+    "description": "An island-hopping destination reached by boat from Panglao.",
+    "cluster": "boat",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 300,
+    "outdoor": true,
+    "mode": "excursion",
+    "booking": "Confirm permits, an authorized boat operator, landing and snorkeling rules, marine conditions, and full package inclusions. No departure or wildlife encounter is promised.",
+    "transport": "Boat outing requiring separate operator coordination. Confirm departure point, crossing conditions, and return plan before scheduling.",
+    "locationDetails": "Balicasag Island, offshore from Panglao.",
+    "evidence": [
+      {
+        "fields": [
+          "description",
+          "location"
+        ],
+        "sourceName": "Bohol Provincial Tourism Office — Panglao",
+        "sourceUrl": "https://tourism.bohol.gov.ph/visitbohol-panglao/",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      }
+    ],
+    "requiresBooking": true
+  },
+  {
+    "id": "bohol-chocolate-hills",
+    "baseSlug": "bohol",
+    "name": "Chocolate Hills viewpoint outing",
+    "category": "Nature",
+    "interests": [
+      "Nature Lover",
+      "Slow Traveler"
+    ],
+    "description": "A viewpoint outing to Bohol’s cone-shaped limestone landscape.",
+    "cluster": "carmen",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 300,
+    "outdoor": true,
+    "mode": "excursion",
+    "booking": "Confirm the chosen viewpoint’s current entry rules, fees, opening hours, steps, and access. Schedule a separate countryside outing.",
+    "transport": "Arrange separate road transport from Panglao and a return allowance. The viewpoint is not an ordinary local Panglao stop.",
+    "locationDetails": "Carmen, in central Bohol; outside Panglao.",
+    "evidence": [
+      {
+        "fields": [
+          "description",
+          "location"
+        ],
+        "sourceName": "Bohol Provincial Tourism Office — Carmen",
+        "sourceUrl": "https://tourism.bohol.gov.ph/visitbohol-carmen/",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      }
+    ]
+  },
+  {
+    "id": "bohol-loboc-river-cruise",
+    "baseSlug": "bohol",
+    "name": "Loboc River cruise",
+    "category": "Food",
+    "interests": [
+      "Food Hunter",
+      "City Wanderer"
+    ],
+    "description": "A river-cruise experience associated with floating restaurants.",
+    "cluster": "loboc",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 240,
+    "outdoor": true,
+    "mode": "excursion",
+    "booking": "Confirm a specific operator, embarkation point, sailing time, meal inclusions, price, and accessibility. No cruise slot is reserved.",
+    "transport": "Separate countryside road journey from Panglao plus an operator-arranged river cruise. Travel time and current departures remain unverified.",
+    "locationDetails": "Loboc, mainland Bohol; outside Panglao.",
+    "evidence": [
+      {
+        "fields": [
+          "description",
+          "location"
+        ],
+        "sourceName": "Bohol Provincial Tourism Office — Loboc",
+        "sourceUrl": "https://tourism.bohol.gov.ph/visitbohol-loboc/",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      }
+    ],
+    "requiresBooking": true
+  },
+  {
+    "id": "boracay-willys-rock",
+    "baseSlug": "boracay",
+    "name": "Willy’s Rock",
+    "category": "Culture",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "description": "A rock landmark shown on Boracay’s tourism map.",
+    "cluster": "whitebeach",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 30,
+    "outdoor": true,
+    "mode": "local",
+    "booking": "Current access, tides, surface conditions, and any restrictions are unknown. Confirm locally; do not assume exposed rock is accessible.",
+    "transport": "Local transfer within this overnight base; exact route, fare, and travel time are unknown.",
+    "locationDetails": "White Beach, Boracay; exact access and pin unverified.",
+    "evidence": [
+      {
+        "fields": [
+          "description",
+          "location"
+        ],
+        "sourceName": "Tourism Promotions Board — Boracay map (archival place reference)",
+        "sourceUrl": "https://www.tpb.gov.ph/wp-content/uploads/2023/10/Boracay-Map.pdf",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      }
+    ]
+  },
+  {
+    "id": "boracay-diniwid-beach",
+    "baseSlug": "boracay",
+    "name": "Diniwid Beach",
+    "category": "Beaches",
+    "interests": [
+      "Beach Bum",
+      "Slow Traveler"
+    ],
+    "description": "A cove beach north of White Beach.",
+    "cluster": "diniwid",
+    "lat": 11.9765,
+    "lng": 121.91177777777779,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 90,
+    "outdoor": true,
+    "mode": "local",
+    "booking": "Opening hours, entry charges, accessibility, and booking requirements are unknown. Confirm directly before visiting.",
+    "transport": "Local transfer within this overnight base; exact route, fare, and travel time are unknown.",
+    "locationDetails": "Diniwid, Boracay Island. Map reference represents DENR’s named beach monitoring station, not a visitor entrance or current water-quality result.",
+    "evidence": [
+      {
+        "fields": [
+          "description",
+          "location"
+        ],
+        "sourceName": "Tourism Promotions Board — Boracay information",
+        "sourceUrl": "https://www.tpb.gov.ph/wp-content/uploads/2023/10/Boracay-Information.pdf",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      },
+      {
+        "fields": [
+          "coordinates"
+        ],
+        "sourceName": "DENR-EMB Region VI — Diniwid Beach monitoring-station reference, not an entrance",
+        "sourceUrl": "https://r6.emb.gov.ph/wp-content/uploads/2023/02/RSOBER-2021-WESTERN-VISAYAS.pdf",
+        "dateChecked": "2026-10-19",
+        "status": "estimate"
+      }
+    ]
+  },
+  {
+    "id": "boracay-puka-shell-beach",
+    "baseSlug": "boracay",
+    "name": "Puka Shell Beach",
+    "category": "Beaches",
+    "interests": [
+      "Beach Bum",
+      "Slow Traveler"
+    ],
+    "description": "A beach on the northern side of Boracay.",
+    "cluster": "yapak",
+    "lat": 11.99625,
+    "lng": 121.91586111111111,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 90,
+    "outdoor": true,
+    "mode": "local",
+    "booking": "Opening hours, entry charges, accessibility, and booking requirements are unknown. Confirm directly before visiting.",
+    "transport": "Local transfer within this overnight base; exact route, fare, and travel time are unknown.",
+    "locationDetails": "Northern Boracay, Barangay Yapak. Map reference represents DENR’s named beach monitoring station, not a visitor entrance or current water-quality result.",
+    "evidence": [
+      {
+        "fields": [
+          "description",
+          "location"
+        ],
+        "sourceName": "Tourism Promotions Board — Boracay map (archival place reference)",
+        "sourceUrl": "https://www.tpb.gov.ph/wp-content/uploads/2023/10/Boracay-Map.pdf",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      },
+      {
+        "fields": [
+          "coordinates"
+        ],
+        "sourceName": "DENR-EMB Region VI — Puka Beach monitoring-station reference, not an entrance",
+        "sourceUrl": "https://r6.emb.gov.ph/wp-content/uploads/2023/02/RSOBER-2021-WESTERN-VISAYAS.pdf",
+        "dateChecked": "2026-10-19",
+        "status": "estimate"
+      }
+    ],
+    "aliases": [
+      "Puka Beach"
+    ]
+  },
+  {
+    "id": "boracay-ilig-iligan-beach",
+    "baseSlug": "boracay",
+    "name": "Ilig-Iligan Beach",
+    "category": "Beaches",
+    "interests": [
+      "Beach Bum",
+      "Slow Traveler"
+    ],
+    "description": "A beach marked on Boracay’s tourism map.",
+    "cluster": "yapak-east",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 90,
+    "outdoor": true,
+    "mode": "local",
+    "booking": "Opening hours, entry charges, accessibility, and booking requirements are unknown. Confirm directly before visiting.",
+    "transport": "Local transfer within this overnight base; exact route, fare, and travel time are unknown.",
+    "locationDetails": "Northeastern Boracay; exact access and pin unverified.",
+    "evidence": [
+      {
+        "fields": [
+          "description",
+          "location"
+        ],
+        "sourceName": "Tourism Promotions Board — Boracay map (archival place reference)",
+        "sourceUrl": "https://www.tpb.gov.ph/wp-content/uploads/2023/10/Boracay-Map.pdf",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      }
+    ]
+  },
+  {
+    "id": "boracay-tambisaan-beach",
+    "baseSlug": "boracay",
+    "name": "Tambisaan Beach",
+    "category": "Beaches",
+    "interests": [
+      "Beach Bum",
+      "Slow Traveler"
+    ],
+    "description": "A beach on Boracay’s southeastern coast.",
+    "cluster": "tambisaan",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 60,
+    "outdoor": true,
+    "mode": "local",
+    "booking": "Opening hours, entry charges, accessibility, and booking requirements are unknown. Confirm directly before visiting.",
+    "transport": "Local transfer within this overnight base; exact route, fare, and travel time are unknown.",
+    "locationDetails": "Southeastern Boracay; current access route unverified.",
+    "evidence": [
+      {
+        "fields": [
+          "description",
+          "location"
+        ],
+        "sourceName": "Tourism Promotions Board — Boracay map (archival place reference)",
+        "sourceUrl": "https://www.tpb.gov.ph/wp-content/uploads/2023/10/Boracay-Map.pdf",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      }
+    ]
+  },
+  {
+    "id": "boracay-tulubhan-beach",
+    "baseSlug": "boracay",
+    "name": "Tulubhan Beach",
+    "category": "Beaches",
+    "interests": [
+      "Beach Bum",
+      "Slow Traveler"
+    ],
+    "description": "A beach on Boracay’s eastern coast.",
+    "cluster": "tulubhan",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 60,
+    "outdoor": true,
+    "mode": "local",
+    "booking": "Opening hours, entry charges, accessibility, and booking requirements are unknown. Confirm directly before visiting.",
+    "transport": "Local transfer within this overnight base; exact route, fare, and travel time are unknown.",
+    "locationDetails": "Eastern Boracay; exact access and pin unverified.",
+    "evidence": [
+      {
+        "fields": [
+          "description",
+          "location"
+        ],
+        "sourceName": "Tourism Promotions Board — Boracay map (archival place reference)",
+        "sourceUrl": "https://www.tpb.gov.ph/wp-content/uploads/2023/10/Boracay-Map.pdf",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      }
+    ]
+  },
+  {
+    "id": "boracay-balinghai-beach",
+    "baseSlug": "boracay",
+    "name": "Balinghai Beach",
+    "category": "Beaches",
+    "interests": [
+      "Beach Bum",
+      "Slow Traveler"
+    ],
+    "description": "A small beach marked on the northern island map.",
+    "cluster": "balinghai",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 90,
+    "outdoor": true,
+    "mode": "local",
+    "booking": "Current property permission, beach access, entry charges, opening hours, and conditions are unknown. Confirm directly; public access is not implied.",
+    "transport": "Local transfer within this overnight base; exact route, fare, and travel time are unknown.",
+    "locationDetails": "Northwestern Boracay; access may depend on the property entrance.",
+    "evidence": [
+      {
+        "fields": [
+          "description",
+          "location"
+        ],
+        "sourceName": "Tourism Promotions Board — Boracay map (archival place reference)",
+        "sourceUrl": "https://www.tpb.gov.ph/wp-content/uploads/2023/10/Boracay-Map.pdf",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      }
+    ]
+  },
+  {
+    "id": "boracay-mount-luho",
+    "baseSlug": "boracay",
+    "name": "Mount Luho viewpoint",
+    "category": "Nature",
+    "interests": [
+      "Nature Lover",
+      "Slow Traveler"
+    ],
+    "description": "An upland viewpoint identified on Boracay’s tourism map.",
+    "cluster": "luho",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 60,
+    "outdoor": true,
+    "mode": "local",
+    "booking": "The map is an archival place reference. Current viewpoint operation, entry fees, stairs, and public access are unverified.",
+    "transport": "Local transfer within this overnight base; exact route, fare, and travel time are unknown.",
+    "locationDetails": "Mount Luho area, Boracay; confirm the currently accessible viewpoint.",
+    "evidence": [
+      {
+        "fields": [
+          "description",
+          "location"
+        ],
+        "sourceName": "Tourism Promotions Board — Boracay map (archival place reference)",
+        "sourceUrl": "https://www.tpb.gov.ph/wp-content/uploads/2023/10/Boracay-Map.pdf",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      }
+    ]
+  },
+  {
+    "id": "boracay-dtalipapa-market",
+    "baseSlug": "boracay",
+    "name": "D’Talipapa market",
+    "category": "Food",
+    "interests": [
+      "Food Hunter",
+      "City Wanderer"
+    ],
+    "description": "A shopping and food-market area on Boracay.",
+    "cluster": "whitebeach",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 60,
+    "outdoor": true,
+    "mode": "local",
+    "booking": "Confirm vendor hours, seafood and cooking charges, hygiene, and dietary suitability. Prices and current stalls are unknown.",
+    "transport": "Local transfer within this overnight base; exact route, fare, and travel time are unknown.",
+    "locationDetails": "Boracay Island; confirm the current market entrance.",
+    "evidence": [
+      {
+        "fields": [
+          "description",
+          "location"
+        ],
+        "sourceName": "Philippine Department of Tourism Australia and New Zealand — Boracay",
+        "sourceUrl": "https://www.tourismphilippines.com.au/where/boracay",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      }
+    ],
+    "aliases": [
+      "D'Talipapa"
+    ]
+  },
+  {
+    "id": "boracay-newcoast-keyhole",
+    "baseSlug": "boracay",
+    "name": "Boracay Newcoast Keyhole",
+    "category": "Nature",
+    "interests": [
+      "Nature Lover",
+      "Slow Traveler"
+    ],
+    "description": "A rock formation within the Newcoast development.",
+    "cluster": "newcoast",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 45,
+    "outdoor": true,
+    "mode": "local",
+    "booking": "Confirm estate visitor access, any required booking or entry fee, and current viewing restrictions. Access is not guaranteed.",
+    "transport": "Local transfer within this overnight base; exact route, fare, and travel time are unknown.",
+    "locationDetails": "Boracay Newcoast, northeastern Boracay.",
+    "evidence": [
+      {
+        "fields": [
+          "description",
+          "location"
+        ],
+        "sourceName": "Boracay Newcoast — official coves information",
+        "sourceUrl": "https://boracaynewcoastph.com/coves/",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      }
+    ]
+  },
+  {
+    "id": "boracay-balabag-wetland-park",
+    "baseSlug": "boracay",
+    "name": "Balabag Wetland Park",
+    "category": "Nature",
+    "interests": [
+      "Nature Lover",
+      "Slow Traveler"
+    ],
+    "description": "A rehabilitated lagoon with a park and boardwalk.",
+    "cluster": "balabag",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 45,
+    "outdoor": true,
+    "mode": "local",
+    "booking": "The official source describes the park’s development. Current boardwalk condition, opening hours, admission, and accessibility are unknown.",
+    "transport": "Local transfer within this overnight base; exact route, fare, and travel time are unknown.",
+    "locationDetails": "Wetland No. 4, Barangay Balabag, Boracay.",
+    "evidence": [
+      {
+        "fields": [
+          "description",
+          "location"
+        ],
+        "sourceName": "Department of Environment and Natural Resources — Wetland 4",
+        "sourceUrl": "https://ncr.denr.gov.ph/news-events/unveiling-of-marker-for-boracays-wetland-4/",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      }
+    ],
+    "aliases": [
+      "Wetland No. 4"
+    ]
+  },
+  {
+    "id": "boracay-crocodile-island",
+    "baseSlug": "boracay",
+    "name": "Crocodile Island outing",
+    "category": "Adventure",
+    "interests": [
+      "Adventure Junkie",
+      "Nature Lover"
+    ],
+    "description": "An offshore site identified on Boracay’s tourism map.",
+    "cluster": "boat",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 240,
+    "outdoor": true,
+    "mode": "excursion",
+    "booking": "Arrange a separately confirmed authorized boat outing. Check marine advisories, permits, designated access, operator requirements, and package inclusions.",
+    "transport": "Boat-only outing rather than a local road stop. Departure point, crossing time, current operation, and return arrangements are unverified.",
+    "locationDetails": "Off southeastern Boracay; no landing or snorkeling location is implied.",
+    "evidence": [
+      {
+        "fields": [
+          "description",
+          "location"
+        ],
+        "sourceName": "Tourism Promotions Board — Boracay map (archival place reference)",
+        "sourceUrl": "https://www.tpb.gov.ph/wp-content/uploads/2023/10/Boracay-Map.pdf",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      }
+    ],
+    "requiresBooking": true
+  },
+  {
+    "id": "iloilo-molo-mansion",
+    "baseSlug": "iloilo",
+    "name": "Molo Mansion",
+    "category": "Culture",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "description": "A restored heritage mansion in Iloilo’s Molo district.",
+    "cluster": "molo",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 60,
+    "outdoor": false,
+    "mode": "local",
+    "booking": "Confirm current public access, interior viewing arrangements, opening hours, entry charges, and accessibility.",
+    "transport": "Local transfer within this overnight base; exact route, fare, and travel time are unknown.",
+    "locationDetails": "Molo district, Iloilo City.",
+    "evidence": [
+      {
+        "fields": [
+          "description",
+          "location"
+        ],
+        "sourceName": "Iloilo City Government — Discover Iloilo City",
+        "sourceUrl": "https://iloilocity.gov.ph/discover-iloilo-city/",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      }
+    ]
+  },
+  {
+    "id": "iloilo-national-museum-western-visayas",
+    "baseSlug": "iloilo",
+    "name": "National Museum Western Visayas",
+    "category": "Culture",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "description": "Regional museum galleries occupy the former Iloilo Provincial Jail.",
+    "cluster": "capitol",
+    "lat": 10.703222,
+    "lng": 122.5687667,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 90,
+    "outdoor": false,
+    "mode": "local",
+    "booking": "Opening hours, entry charges, accessibility, and booking requirements are unknown. Confirm directly before visiting.",
+    "transport": "Local transfer within this overnight base; exact route, fare, and travel time are unknown.",
+    "locationDetails": "Former Iloilo Provincial Jail, Iloilo City.",
+    "evidence": [
+      {
+        "fields": [
+          "description",
+          "location"
+        ],
+        "sourceName": "National Museum of the Philippines — Western Visayas",
+        "sourceUrl": "https://www.nationalmuseum.gov.ph/our-museums/regional-area-and-site-museums/western-visayas/",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      },
+      {
+        "fields": [
+          "coordinates"
+        ],
+        "sourceName": "Wikipedia — National Museum Western Visayas reference coordinates",
+        "sourceUrl": "https://en.wikipedia.org/wiki/National_Museum_Western_Visayas",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      }
+    ]
+  },
+  {
+    "id": "iloilo-casa-real",
+    "baseSlug": "iloilo",
+    "name": "Casa Real de Iloilo",
+    "category": "Culture",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "description": "Iloilo’s historic former provincial capitol building.",
+    "cluster": "capitol",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 45,
+    "outdoor": true,
+    "mode": "local",
+    "booking": "Confirm current building access, events, opening hours, any admission charges, and accessibility. Exterior viewing does not imply interior access.",
+    "transport": "Local transfer within this overnight base; exact route, fare, and travel time are unknown.",
+    "locationDetails": "General Luna Street and Muelle Loney Street, Iloilo City.",
+    "evidence": [
+      {
+        "fields": [
+          "description",
+          "location"
+        ],
+        "sourceName": "Iloilo Provincial Government — Casa Real de Iloilo",
+        "sourceUrl": "https://www.iloilo.gov.ph/en/gallery/casa-real-de-iloilo",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      }
+    ]
+  },
+  {
+    "id": "iloilo-museo-iloilo",
+    "baseSlug": "iloilo",
+    "name": "Museo Iloilo",
+    "category": "Culture",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "description": "A museum near the provincial capitol area.",
+    "cluster": "capitol",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 75,
+    "outdoor": false,
+    "mode": "local",
+    "booking": "Opening hours, entry charges, accessibility, and booking requirements are unknown. Confirm directly before visiting.",
+    "transport": "Local transfer within this overnight base; exact route, fare, and travel time are unknown.",
+    "locationDetails": "Near Casa Real and the provincial capitol, Iloilo City.",
+    "evidence": [
+      {
+        "fields": [
+          "description",
+          "location"
+        ],
+        "sourceName": "Iloilo Provincial Government — Casa Real de Iloilo",
+        "sourceUrl": "https://www.iloilo.gov.ph/en/gallery/casa-real-de-iloilo",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      }
+    ]
+  },
+  {
+    "id": "iloilo-jaro-cathedral",
+    "baseSlug": "iloilo",
+    "name": "Jaro Cathedral",
+    "category": "Culture",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "description": "The Catholic cathedral in Iloilo’s Jaro district.",
+    "cluster": "jaro",
+    "lat": 10.72351,
+    "lng": 122.55622,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 45,
+    "outdoor": false,
+    "mode": "local",
+    "booking": "Opening hours, entry charges, accessibility, and booking requirements are unknown. Confirm directly before visiting.",
+    "transport": "Local transfer within this overnight base; exact route, fare, and travel time are unknown.",
+    "locationDetails": "Jaro district, Iloilo City.",
+    "evidence": [
+      {
+        "fields": [
+          "description",
+          "location"
+        ],
+        "sourceName": "Iloilo City Government — Discover Iloilo City",
+        "sourceUrl": "https://iloilocity.gov.ph/discover-iloilo-city/",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      },
+      {
+        "fields": [
+          "coordinates"
+        ],
+        "sourceName": "Wikipedia — Jaro Cathedral reference coordinates",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Jaro_Cathedral",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      }
+    ]
+  },
+  {
+    "id": "iloilo-calle-real",
+    "baseSlug": "iloilo",
+    "name": "Calle Real heritage streets",
+    "category": "Culture",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "description": "A historic trading district with surviving heritage buildings.",
+    "cluster": "city-proper",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 60,
+    "outdoor": true,
+    "mode": "local",
+    "booking": "Opening hours, entry charges, accessibility, and booking requirements are unknown. Confirm directly before visiting.",
+    "transport": "Local transfer within this overnight base; exact route, fare, and travel time are unknown.",
+    "locationDetails": "JM Basa Street area, Iloilo City Proper.",
+    "evidence": [
+      {
+        "fields": [
+          "description",
+          "location"
+        ],
+        "sourceName": "Iloilo City cultural heritage guide — Calle Real",
+        "sourceUrl": "https://iloilocityinfoapp.site/historical13.php",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      }
+    ]
+  },
+  {
+    "id": "iloilo-plaza-libertad",
+    "baseSlug": "iloilo",
+    "name": "Plaza Libertad",
+    "category": "Culture",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "description": "A historic public square in Iloilo City.",
+    "cluster": "city-proper",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 45,
+    "outdoor": true,
+    "mode": "local",
+    "booking": "Opening hours, entry charges, accessibility, and booking requirements are unknown. Confirm directly before visiting.",
+    "transport": "Local transfer within this overnight base; exact route, fare, and travel time are unknown.",
+    "locationDetails": "Iloilo City Proper, near San Jose Church.",
+    "evidence": [
+      {
+        "fields": [
+          "description",
+          "location"
+        ],
+        "sourceName": "Iloilo City Government — Comprehensive land use plan, sectoral studies",
+        "sourceUrl": "https://iloilocity.gov.ph/main/wp-content/uploads/2022/06/Vol3_SecStud_IC-2021-2029.pdf",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      }
+    ]
+  },
+  {
+    "id": "iloilo-san-jose-church",
+    "baseSlug": "iloilo",
+    "name": "San Jose Placer Parish Church",
+    "category": "Culture",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "description": "A Catholic church beside the Plaza Libertad heritage area.",
+    "cluster": "city-proper",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 45,
+    "outdoor": false,
+    "mode": "local",
+    "booking": "Opening hours, entry charges, accessibility, and booking requirements are unknown. Confirm directly before visiting.",
+    "transport": "Local transfer within this overnight base; exact route, fare, and travel time are unknown.",
+    "locationDetails": "Plaza Libertad area, Iloilo City Proper.",
+    "evidence": [
+      {
+        "fields": [
+          "description",
+          "location"
+        ],
+        "sourceName": "Iloilo City Government — Comprehensive land use plan, sectoral studies",
+        "sourceUrl": "https://iloilocity.gov.ph/main/wp-content/uploads/2022/06/Vol3_SecStud_IC-2021-2029.pdf",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      }
+    ]
+  },
+  {
+    "id": "iloilo-baking-studio-theos",
+    "baseSlug": "iloilo",
+    "name": "Baking Studio by Theo’s — North Grove",
+    "category": "Food",
+    "interests": [
+      "Food Hunter",
+      "City Wanderer"
+    ],
+    "description": "A bakery and café serving food and baked goods.",
+    "cluster": "molo",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 45,
+    "outdoor": false,
+    "mode": "local",
+    "booking": "Confirm current hours, seating, menu prices, dietary suitability, and accessibility directly with the venue.",
+    "transport": "Local transfer within this overnight base; exact route, fare, and travel time are unknown.",
+    "locationDetails": "North Grove, Avanceña Street, North Fundidor, Molo, Iloilo City.",
+    "evidence": [
+      {
+        "fields": [
+          "description",
+          "location"
+        ],
+        "sourceName": "Theo’s Restaurant and Bakery — Baking Studio, North Grove",
+        "sourceUrl": "https://www.theosrestaurantandbakery.com/bakingstudiobytheos",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      }
+    ]
+  },
+  {
+    "id": "iloilo-biscocho-haus",
+    "baseSlug": "iloilo",
+    "name": "Original Biscocho Haus — Jaro",
+    "category": "Food",
+    "interests": [
+      "Food Hunter",
+      "City Wanderer"
+    ],
+    "description": "An Iloilo bakery and local-delicacy shop.",
+    "cluster": "jaro",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 45,
+    "outdoor": false,
+    "mode": "local",
+    "booking": "Confirm the intended branch before travel. Product prices, current hours, dietary suitability, and accessibility are unknown.",
+    "transport": "Local transfer within this overnight base; exact route, fare, and travel time are unknown.",
+    "locationDetails": "Jaro, Iloilo City, near Jaro Cathedral.",
+    "evidence": [
+      {
+        "fields": [
+          "description",
+          "location"
+        ],
+        "sourceName": "Original Biscocho Haus — official information",
+        "sourceUrl": "https://biscochohaus.com/",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      }
+    ]
+  },
+  {
+    "id": "iloilo-economic-history-museum",
+    "baseSlug": "iloilo",
+    "name": "Museum of Philippine Economic History",
+    "category": "Culture",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "description": "Museum galleries explore the Philippines’ economic development.",
+    "cluster": "city-proper",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 90,
+    "outdoor": false,
+    "mode": "local",
+    "booking": "Opening hours, entry charges, accessibility, and booking requirements are unknown. Confirm directly before visiting.",
+    "transport": "Local transfer within this overnight base; exact route, fare, and travel time are unknown.",
+    "locationDetails": "Ynchausti y Compañia building, Iloilo City.",
+    "evidence": [
+      {
+        "fields": [
+          "description",
+          "location"
+        ],
+        "sourceName": "Regional Statistics Committee VI — Tourism chapter",
+        "sourceUrl": "https://rsc6.gov.ph/wp-content/uploads/2024/10/WV-RSET-Chapter-8-TOURISM.pdf",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      }
+    ]
+  },
+  {
+    "id": "iloilo-business-park",
+    "baseSlug": "iloilo",
+    "name": "Iloilo Business Park",
+    "category": "Culture",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "description": "A modern district with public spaces and dining establishments.",
+    "cluster": "mandurriao",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 60,
+    "outdoor": true,
+    "mode": "local",
+    "booking": "Confirm current public-space access and any specific venue’s hours or charges. No event admission is included.",
+    "transport": "Local transfer within this overnight base; exact route, fare, and travel time are unknown.",
+    "locationDetails": "Iloilo Business Park, Iloilo City.",
+    "evidence": [
+      {
+        "fields": [
+          "description",
+          "location"
+        ],
+        "sourceName": "Iloilo City Government — Discover Iloilo City",
+        "sourceUrl": "https://iloilocity.gov.ph/discover-iloilo-city/",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      }
+    ]
+  },
+  {
+    "id": "bohol-common-crew",
+    "baseSlug": "bohol",
+    "name": "Common Crew Coffee Roasters & Brewers",
+    "category": "Food",
+    "interests": [
+      "Food Hunter",
+      "Slow Traveler"
+    ],
+    "description": "A Panglao café roasting Philippine coffee and serving kombucha.",
+    "cluster": "tawala",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 60,
+    "outdoor": true,
+    "mode": "local",
+    "booking": "Confirm café hours, seating, menu prices, dietary suitability, and accessibility directly. The venue describes al fresco space; indoor weather protection is not assumed.",
+    "transport": "Local transfer within this overnight base; exact route, fare, and travel time are unknown.",
+    "locationDetails": "Tawala, Panglao Island; exact entrance pin remains unknown.",
+    "evidence": [
+      {
+        "fields": [
+          "description",
+          "location"
+        ],
+        "sourceName": "Common Crew Bohol — coffee and kombucha brew bar",
+        "sourceUrl": "https://www.commoncrewbohol.com/coffee-kombucha-brew-bar",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      },
+      {
+        "fields": [
+          "location"
+        ],
+        "sourceName": "Common Crew Bohol — location and coworking information",
+        "sourceUrl": "https://www.commoncrewbohol.com/coworking-space",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      }
+    ]
+  },
+  {
+    "id": "bohol-shaka-panglao",
+    "baseSlug": "bohol",
+    "name": "Shaka Cafes — Panglao",
+    "category": "Food",
+    "interests": [
+      "Food Hunter",
+      "Slow Traveler"
+    ],
+    "description": "Shaka’s café branch on Panglao Island.",
+    "cluster": "alona",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 60,
+    "outdoor": true,
+    "mode": "local",
+    "booking": "Confirm the current branch address, operating hours, seating, menu prices, dietary suitability, and accessibility directly. The operator’s main website could not be opened reliably.",
+    "transport": "Local transfer within this overnight base; exact route, fare, and travel time are unknown.",
+    "locationDetails": "Panglao Island. The operator lists Ester Lim Road; confirm the current street address before travelling.",
+    "evidence": [
+      {
+        "fields": [
+          "description",
+          "location"
+        ],
+        "sourceName": "Shaka Cafes — operator company profile and locations",
+        "sourceUrl": "https://www.linkedin.com/company/shaka-cafes",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      }
+    ]
+  },
+  {
+    "id": "boracay-nonies-ondus",
+    "baseSlug": "boracay",
+    "name": "Nonie’s — Ondus Hotel",
+    "category": "Food",
+    "interests": [
+      "Food Hunter",
+      "Slow Traveler"
+    ],
+    "description": "A beachfront restaurant serving Filipino-inspired dishes.",
+    "cluster": "whitebeach",
+    "lat": null,
+    "lng": null,
+    "cost": null,
+    "costBasis": "unknown",
+    "minutes": 60,
+    "outdoor": true,
+    "mode": "local",
+    "booking": "Confirm visitor dining access, reservations, current service hours, menu prices, dietary suitability, and indoor seating. Hotel dining access terms may differ; no table is reserved.",
+    "transport": "Local transfer within this overnight base; exact route, fare, and travel time are unknown.",
+    "locationDetails": "Ondus Hotel beachfront, Station 3, Boracay; this is the location currently listed by the operator.",
+    "evidence": [
+      {
+        "fields": [
+          "description",
+          "location"
+        ],
+        "sourceName": "Nonie’s — official Boracay restaurant information",
+        "sourceUrl": "https://www.nonies.com.ph/",
+        "dateChecked": "2026-10-19",
+        "status": "verified"
+      }
+    ]
+  }
+]

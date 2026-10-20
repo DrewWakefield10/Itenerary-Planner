@@ -5,23 +5,10 @@ import {
   type SourcedLink,
 } from "./sources";
 import type { DisruptionSensitivity, OpeningHours } from "./disruptions";
-export type Stop = {
-  name: string;
-  lat: number;
-  lng: number;
-  category: string;
-  cost: number;
-  minutes: number;
-  outdoor: boolean;
-  cluster: string;
-  locationDetails: string;
-  accessibility: string;
-  transport: string;
-  sources: FactSources;
-  advisories: SourcedLink[];
-  disruptionSensitivities?: DisruptionSensitivity[];
-  openingHours?: OpeningHours;
-};
+import type {Stop, LegacyStop} from "./catalog/types";
+import {enrichLegacyStop} from "./catalog/build";
+import {catalogForBase} from "./catalog";
+export type {Stop} from "./catalog/types";
 export type Destination = {
   slug: string;
   name: string;
@@ -56,7 +43,7 @@ const s = (
   cluster: string,
   outdoor = true,
   minutes = 90,
-): Stop => ({
+): LegacyStop => ({
   name,
   lat,
   lng,
@@ -77,8 +64,8 @@ const s = (
 });
 type DestinationSeed = Omit<
   Destination,
-  "locationDetails" | "accessibility" | "sources" | "advisories"
->;
+  "locationDetails" | "accessibility" | "sources" | "advisories" | "stops"
+> & {stops:LegacyStop[]};
 // The legacy Palawan catalog already used these El Nido stops. Share the seed
 // collection, without migrating a traveler's ambiguous Palawan request.
 const elNidoSeed: DestinationSeed = {
@@ -653,9 +640,9 @@ export const destinations: Destination[] = seeds.map((d) => {
       "Accessibility has not been verified. Confirm step-free access and individual needs with venues and transport operators.",
     sources,
     advisories: structuredClone(officialAdvisories),
-    stops: d.stops.map((stop) => {
+    stops: catalogForBase(d.slug, d.stops.map((stop) => {
       const checked = checkedStops[stop.name];
-      return {
+      return enrichLegacyStop(d.slug, {
         ...stop,
         disruptionSensitivities: stop.outdoor
           ? ([
@@ -680,8 +667,8 @@ export const destinations: Destination[] = seeds.map((d) => {
           ...(stopCoordinates[stop.name] ? {coordinates: {...stopCoordinates[stop.name]}} : {}),
         },
         advisories: structuredClone(officialAdvisories),
-      };
-    }),
+      });
+    })),
   };
 });
 // Use this list for all new-trip discovery. Keep the complete catalog for
@@ -711,7 +698,7 @@ export const personalities = [
   "Slow Traveler",
   "Hidden Gem Collector",
 ];
-export const destination = (slug: string) =>
+export const destination = (slug: string | null) =>
   destinations.find((d) => d.slug === slug);
 export const peso = (n: number) =>
   new Intl.NumberFormat("en-PH", {

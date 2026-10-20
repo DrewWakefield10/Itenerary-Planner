@@ -9,6 +9,7 @@ import {
   type TripDay,
 } from "./trip";
 import { defaultFactSources, estimatedSource } from "./sources";
+import {activityKeys, conflictsWithUsed, markUsed, mentioned, visitStart, closeEnough, addableStop} from "./catalog/planning";
 export const uid = () => crypto.randomUUID();
 export const minutes = (t: string) => {
   const [h, m] = t.split(":").map(Number);
@@ -32,7 +33,15 @@ export function blankActivity(
 ): Activity {
   return {
     id: uid(),
+    geography:null,
     name,
+    catalogStopId: null,
+    canonicalStopId: null,
+    entryPrice: null,
+    visitMode: "local",
+    transferMinutes: 45,
+    bookingRequired: false,
+    includedStopIds: [],
     description:
       "Personal planning placeholder. Confirm details before travel.",
     lat: null,
@@ -61,11 +70,19 @@ export function blankActivity(
 export function fromStop(s: Stop, r: TripRequest, start: string): Activity {
   return {
     ...blankActivity(s.name, start, s.category),
-    description: `Explore at your own pace. ${s.outdoor ? "Outdoor stop; keep a weather alternative." : "Confirm venue and opening hours."}`,
+    description: s.description,
+    geography:s.geography?structuredClone(s.geography):null,
+    catalogStopId: s.id,
+    canonicalStopId: s.canonicalId,
+    entryPrice: structuredClone(s.entryPrice),
+    visitMode: s.mode,
+    transferMinutes: s.transferMinutes,
+    bookingRequired: s.requiresBooking,
+    includedStopIds: [...s.includes],
     lat: s.lat,
     lng: s.lng,
-    duration: s.minutes,
-    cost: s.cost * travelers(r),
+    duration: s.mode === "local" ? s.minutes : Math.max(480, s.minutes),
+    cost: s.cost * (s.costBasis === "group" ? 1 : travelers(r)),
     category: s.category === "Food" ? "Food" : "Attractions",
     outdoor: s.outdoor,
     disruptionSensitivities: [...(s.disruptionSensitivities || [])],
@@ -76,12 +93,11 @@ export function fromStop(s: Stop, r: TripRequest, start: string): Activity {
     accessibility: s.accessibility,
     sources: {
       ...structuredClone(s.sources),
-      description: defaultFactSources().description,
+      description: structuredClone(s.sources.description),
       schedule: defaultFactSources().schedule,
     },
     advisories: structuredClone(s.advisories),
-    booking:
-      "Illustrative allowance, not a quoted entrance fee. Confirm availability and hours.",
+    booking: s.booking,
     provenance: "estimate",
     source:
       "Lakbay seed collection; see fact-specific sources for review status.",
@@ -109,128 +125,68 @@ export function recommendDestinations(interests: string[], budget = 10000) {
     .slice(0, 3);
 }
 export function makeDay(
-  r: TripRequest,
-  slug: string,
-  index: number,
-  localIndex: number,
-  variant = 0,
+  r: TripRequest, slug: string, index: number, localIndex: number,
+  variant = 0, used = new Set<string>(),
 ): TripDay {
   const d = destination(slug)!;
   const n = travelers(r);
-  const available = (totalBudget(r) * (1 - r.reserve / 100)) / r.days / n;
-  const economy =
-    available < d.daily || r.tier === "Budget" || r.tier === "Backpacker";
-  let pool = d.stops.filter(
-    (s) =>
-      s.category !== "Food" &&
-      (!r.avoid || !r.avoid.toLowerCase().includes(s.name.toLowerCase())),
-  );
-  // A boat outing is a separate activity block, never squeezed between town stops.
-  if (economy || r.accessibility || r.pace === "Chill")
-    pool = pool.filter((s) => s.cluster !== "boat");
-  const match = (s: Stop) =>
-    r.interests.some((i) =>
-      i
-        .toLowerCase()
-        .includes(
-          s.category === "Beaches"
-            ? "beach"
-            : s.category.toLowerCase().split(" ")[0],
-        ),
-    );
-  pool.sort((a, b) => Number(match(b)) - Number(match(a)) || a.cost - b.cost);
-  const first = pool[(localIndex + variant) % Math.max(1, pool.length)];
-  const cluster = first?.cluster;
-  const count =
-    index === 0 || r.pace === "Chill" ? 1 : r.pace === "Balanced" ? 2 : 3;
-  const chosen = first
-    ? [
-        first,
-        ...pool.filter((s) => s !== first && s.cluster === cluster),
-      ].slice(0, first.cluster === "boat" ? 1 : count)
-    : [];
-  let cursor = index === 0 ? 14 * 60 : 9 * 60;
-  const activities: Activity[] = [];
-  const meal = d.stops.find((s) => s.category === "Food");
-  let mealAdded = false;
-  const addMeal = (start: number) => {
-    if (!meal || mealAdded) return;
-    const a = fromStop(meal, r, clock(start));
-    a.description = `Meal idea: ${d.food} ${r.diet ? "Dietary requirements must be confirmed with the venue." : ""}`;
-    a.lat = null;
-    a.lng = null;
-    a.cluster = "local";
-    activities.push(a);
-    mealAdded = true;
-  };
-  if (index === 0)
-    activities.push({
-      ...blankActivity("Arrival & check-in buffer", "09:00", "Travel"),
-      duration: 240,
-      description: `Travel from ${r.departure} is not verified. Confirm arrival before accepting afternoon activities. Move them if your journey needs a full day.`,
-      transport: "No departure schedule or direct connection assumed.",
-      provenance: "demo",
-    });
-  for (const s of chosen) {
-    if (
-      index !== 0 &&
-      cursor >= 12 * 60 &&
-      !mealAdded &&
-      s.cluster !== "boat"
-    ) {
-      addMeal(cursor);
-      cursor += 135;
-    }
-    if (cursor + s.minutes > 18 * 60) break;
-    activities.push(fromStop(s, r, clock(cursor)));
-    cursor += s.minutes + 45;
+  const available = totalBudget(r) * (1-r.reserve/100) / r.days / n;
+  const economy = available < d.daily || r.tier === "Budget" || r.tier === "Backpacker";
+  const date = dateOffset(r.startDate,index);
+  const arrival = index === 0, departure = index === r.days-1;
+  const dayEnd = departure ? 12*60+15 : 18*60;
+  const start = arrival ? 14*60 : 9*60;
+  const score = (s:Stop) => (mentioned(s,r.must)?100:0) + s.interests.filter(i=>r.interests.includes(i)).length*10 - (economy?s.cost/50:s.cost/1000);
+  let pool = d.stops.filter(s=>s.distinct && addableStop(s) && !conflictsWithUsed(s,used,d.stops)
+    && !mentioned(s,r.avoid) && (!s.requiresBooking || mentioned(s,r.reservations))
+    && (s.mode === "local" || (r.includeExcursions && !arrival && !departure && !economy && !r.accessibility))
+    && (!r.accessibility || s.mode === "local"));
+  pool.sort((a,b)=>score(b)-score(a)||a.cost-b.cost||a.id.localeCompare(b.id));
+  // Regeneration changes the leading choice without reintroducing used places.
+  if(variant && pool.length)pool=[...pool.slice(variant%pool.length),...pool.slice(0,variant%pool.length)];
+  // Explicit excursion opt-in reserves one whole day; never append other visits.
+  const excursion = r.includeExcursions && localIndex%2===1 ? pool.find(s=>s.mode!=="local") : undefined;
+  if(excursion)pool=[excursion,...pool.filter(s=>s!==excursion)];
+  const activities:Activity[]=[];
+  if(arrival)activities.push({...blankActivity("Arrival & check-in buffer","09:00","Travel"),duration:240,
+    description:`Travel from ${r.departure} is not verified. Confirm arrival before accepting afternoon activities. Move them if your journey needs a full day.`,transport:"No departure schedule or direct connection assumed.",provenance:"demo"});
+  let cursor=start;
+  let first:Stop|undefined;
+  const target=arrival||r.pace==="Chill"?1:r.pace==="Balanced"?2:3;
+  for(const s of pool) {
+    if(first&&(s.mode!=="local"||!closeEnough(first,s)))continue;
+    if(conflictsWithUsed(s,used,d.stops))continue;
+    const duration=s.mode!=="local"?Math.max(480,s.minutes):s.minutes;
+    const begins=visitStart(s,date,cursor,dayEnd,duration);
+    if(begins===null)continue;
+    const activity=fromStop(s,r,clock(begins));
+    activity.duration=duration;
+    if(s.mode!=="local")activity.description += " Reserve this full block for the visit and transfers. Confirm the route, booking and return time; this is not a timetable.";
+    activities.push(activity);markUsed(s,used,d.stops);
+    first ??= s;
+    cursor=begins+duration+s.transferMinutes;
+    if(s.mode!=="local"||activities.filter(a=>a.catalogStopId).length>=target)break;
   }
-  if (!mealAdded)
-    addMeal(Math.max(index === 0 ? 18 * 60 : 12 * 60 + 30, cursor));
-  activities.push({
-    ...blankActivity(
-      r.pace === "Chill"
-        ? "A long, unhurried rest"
-        : "Free time & a little breathing room",
-      clock(Math.max(index === 0 ? 19 * 60 + 30 : 16 * 60 + 30, cursor + 135)),
-    ),
-    duration: r.pace === "Chill" ? 120 : 60,
-    description: "Keep this time open. No activity or reservation is assumed.",
-    provenance: "demo",
-  });
-  activities.sort((a, b) => minutes(a.start) - minutes(b.start));
-  if (index === r.days - 1) {
-    for (let j = activities.length - 1; j >= 0; j--)
-      if (minutes(activities[j].start) + activities[j].duration > 13 * 60)
-        activities.splice(j, 1);
-    activities.push({
-      ...blankActivity("Departure & onward travel buffer", "13:00", "Travel"),
-      duration: 300,
-      description:
-        "Confirm transport and check-out. This is a reserved buffer, not a transport timetable.",
-      provenance: "demo",
-    });
+  const visits=activities.filter(a=>a.catalogStopId);
+  // A flexible meal placeholder uses the day's food budget, not a repeated venue
+  // or another admission allowance. Its location and availability remain unknown.
+  if(!departure&&(!first||first.mode==="local")) {
+    const meal=blankActivity("Flexible meal break",clock(Math.max(arrival?18*60:12*60+30,cursor)),"Food");
+    meal.description=`Meal ideas: ${d.food} Use the day's food allowance. Confirm a venue and dietary needs locally.`;
+    meal.duration=60;meal.provenance="demo";
+    activities.push(meal);cursor=minutes(meal.start)+meal.duration+45;
   }
-  return {
-    id: uid(),
-    date: dateOffset(r.startDate, index),
-    destination: slug,
-    title:
-      index === 0
-        ? "Arrive, settle in, take it slow"
-        : index === r.days - 1
-          ? "One last look, then onward"
-          : `${d.name}, at your own pace`,
-    transfer: false,
-    activities,
-    stay:
-      r.accommodation && index < r.days - 1
-        ? (economy ? 800 : r.tier === "Premium" ? 4500 : 2000) *
-          Math.ceil(n / 2)
-        : 0,
-    food: (economy ? 350 : 550) * n,
-    transport: (economy ? 200 : 400) * n,
-  };
+  if(!departure)activities.push({...blankActivity(r.pace==="Chill"?"A long, unhurried rest":"Free time & a little breathing room",clock(Math.min(21*60,Math.max(16*60+30,cursor)))),
+    duration:r.pace==="Chill"?120:60,provenance:"demo",
+    description:visits.length===0?"Too few suitable unique stops fit this date, preferences and remaining time. Browse the catalog for alternatives or an excursion; no duplicate visit was added.":"Keep this time open. No activity or reservation is assumed."});
+  else {
+    if(!visits.length)activities.push({...blankActivity("An open morning","09:00"),description:"Too few suitable unique stops fit before departure. Browse alternatives; no duplicate visit was added.",provenance:"demo"});
+    activities.push({...blankActivity("Departure & onward travel buffer","13:00","Travel"),duration:300,description:"Confirm transport and check-out. This is a reserved buffer, not a transport timetable.",provenance:"demo"});
+  }
+  return {id:uid(),date,destination:slug,title:arrival?"Arrive, settle in, take it slow":departure?"One last look, then onward":`${d.name}, at your own pace`,transfer:false,
+    activities:activities.sort((a,b)=>minutes(a.start)-minutes(b.start)),
+    stay:r.accommodation&&!departure?(economy?800:r.tier==="Premium"?4500:2000)*Math.ceil(n/2):0,
+    food:Math.max(0,(economy?350:550)*n-activities.filter(a=>a.kind==="Food").reduce((sum,a)=>sum+a.cost,0)),transport:(economy?200:400)*n};
 }
 const checklist = [
   "Identification and required documents",
@@ -248,6 +204,7 @@ export function generateDemo(input: TripRequest): Trip {
   const k = r.destinations.length;
   const localDays = r.days - (k - 1);
   const days: TripDay[] = [];
+  const used = new Set<string>();
   r.destinations.forEach((slug, i) => {
     if (i > 0) {
       days.push({
@@ -278,12 +235,16 @@ export function generateDemo(input: TripRequest): Trip {
       });
     }
     const count = Math.floor(localDays / k) + (i < localDays % k ? 1 : 0);
-    for (let j = 0; j < count; j++) days.push(makeDay(r, slug, days.length, j));
+    for (let j = 0; j < count; j++) days.push(makeDay(r, slug, days.length, j, 0, used));
   });
   const warnings = [
     "All costs are planning allowances, not quotes. Operating hours, transport times, availability, and map locations need confirmation.",
     "Airport/terminal access and local transport allowances are estimates; replace them with confirmed costs.",
   ];
+  if(days.some(d=>d.activities.some(a=>a.description.startsWith("Too few suitable"))))warnings.push("Some days have too few suitable unique stops. Browse the catalog for alternatives; excursions need a full day and explicit opt-in.");
+  if(r.accessibility)warnings.push("Step-free access is unknown at most stops. Local suggestions are provisional; confirm your specific requirements with venues before relying on them.");
+  const missingMust=r.must && r.destinations.flatMap(slug=>destination(slug)!.stops).filter(s=>mentioned(s,r.must)&&!used.has(s.canonicalId));
+  if(missingMust&&missingMust.length)warnings.push(`Requested places not scheduled: ${missingMust.map(s=>s.name).join(", ")}. Check hours, booking, excursion opt-in and available days.`);
   if (!r.flights)
     warnings.push(
       "Travel to and from your first/last destination is excluded. Add confirmed flights, bus fares, or other arrival costs.",
@@ -386,8 +347,7 @@ export function validateDay(day: TripDay): string[] {
         a.cluster !== last.cluster &&
         a.cluster !== "local" &&
         last.cluster !== "local" &&
-        a.lat !== null &&
-        last.lat !== null
+        a.kind !== "Rest" && last.kind !== "Rest"
       )
         warnings.push(
           `${a.name}: travel between areas needs a confirmed route and duration.`,
@@ -423,12 +383,15 @@ export function regenerateDay(trip: Trip, index: number, variant = 1): Trip {
   const next = structuredClone(trip),
     old = next.days[index];
   if (old.transfer) return next;
+  const catalog = destination(old.destination)!.stops;
+  const used = new Set(next.days.flatMap((d,i)=>d.activities.filter(a=>i!==index||a.locked).flatMap(a=>[...activityKeys(a,catalog)])));
   const generated = makeDay(
     next.request,
     old.destination,
     index,
     index,
     variant,
+    used,
   );
   const locked = old.activities.filter((a) => a.locked);
   generated.id = old.id;
@@ -436,6 +399,7 @@ export function regenerateDay(trip: Trip, index: number, variant = 1): Trip {
     ...locked,
     ...generated.activities.filter(
       (a) =>
+        (!a.catalogStopId || locked.every(l=>!l.catalogStopId || l.cluster===a.cluster)) &&
         !locked.some((l) => l.name === a.name) &&
         !locked.some(
           (l) =>
