@@ -1,4 +1,4 @@
-import {z} from "zod";
+import {z} from "zod/v3";
 import {candidateStops,makeDay,refreshSelectionWarnings} from "./engine";
 import type {Trip} from "./trip";
 

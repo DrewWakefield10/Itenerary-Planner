@@ -34,6 +34,9 @@ import { readLocal, writeLocal } from "@/lib/storage";
 import Planner from "./planner";
 import TripView from "./trip-view";
 import SavedTrips from "./saved-trips";
+import SavedPlaces,{BookmarkButton} from "./bookmarks";
+import AccountPage from "./account-page";
+import {AccountMenu,useAccount} from "./account-provider";
 import Discover, { DiscoveryTeaser } from "./discover";
 import {
   SourceIndicator,
@@ -74,6 +77,7 @@ export function DestinationCard({
   d: Destination;
   index?: number;
 }) {
+  const account=useAccount();
   const [saved, setSaved] = useState(false);
   useEffect(() => {
     setSaved(readLocal<string[]>("favorites", []).includes(d.slug));
@@ -84,9 +88,10 @@ export function DestinationCard({
         <Photo slug={d.slug} />
         <span className="destination-tag">{d.tags[0]}</span>
       </Link>
-      <button
+      {!account.enabled&&<button
         className={`heart ${saved ? "saved" : ""}`}
-        aria-label={`${saved ? "Unsave" : "Save"} ${d.name}`}
+        aria-label={`${saved ? "Unsave" : "Save"} ${d.name} on this device`}
+        title="Device favorite; not an account bookmark"
         onClick={() => {
           const list = readLocal<string[]>("favorites", []);
           if (
@@ -99,7 +104,7 @@ export function DestinationCard({
         }}
       >
         <Heart size={19} fill={saved ? "currentColor" : "none"} />
-      </button>
+      </button>}
       <div className="postcard-body">
         <small>{d.province ? `${d.province} · ${d.region}` : d.region}</small>
         <Link href={`/destinations/${d.slug}`}>
@@ -109,6 +114,7 @@ export function DestinationCard({
           </h3>
         </Link>
         <p>{d.caption}</p>
+        <BookmarkButton placeId={`base-${d.slug}`} name={d.name}/>
         <div className="card-meta">
           <span>
             {d.days}–{d.days + 2} days of discovery
@@ -121,6 +127,7 @@ export function DestinationCard({
 }
 export default function Lakbay() {
   const path = usePathname();
+  const account=useAccount();
   const [menu, setMenu] = useState(false);
   const [hydrated, setHydrated] = useState(false);
   const [storageError, setStorageError] = useState(false);
@@ -153,6 +160,7 @@ export default function Lakbay() {
             ["/planner", "Plan a Trip"],
             ["/templates", "Travel Guides"],
             ["/my-trips", "My Trips"],
+            ["/saved-places", "Saved Places"],
           ].map(([url, name]) => (
             <Link
               className={path.startsWith(url) ? "active" : ""}
@@ -162,6 +170,7 @@ export default function Lakbay() {
               {name}
             </Link>
           ))}
+          <AccountMenu/>
         </nav>
         <Link href="/planner" className="button small header-cta">
           Let’s get lost <ArrowUpRight size={16} />
@@ -202,6 +211,10 @@ export default function Lakbay() {
           <TripEntry />
         ) : path === "/my-trips" ? (
           <SavedEntry />
+        ) : path === "/saved-places" ? (
+          <SavedPlaces key={account.user?.id||"guest"}/>
+        ) : path === "/account" ? (
+          <AccountPage key={account.user?.id||"guest"}/>
         ) : path === "/profile" ? (
           <Profile />
         ) : (
@@ -505,12 +518,13 @@ function Home() {
         <Link href="/my-trips" className="button">
           My travel journal <BookOpen size={18} />
         </Link>
-        <span className="handwritten">Locally saved. Always yours.</span>
+        <span className="handwritten">Your plans. Your next chapter.</span>
       </section>
     </>
   );
 }
 function Explore() {
+  const account=useAccount();
   const [ready, setReady] = useState(false);
   const [search, setSearch] = useState("");
   const [category, setCategory] = useState("All");
@@ -528,7 +542,7 @@ function Explore() {
       `${d.name} ${d.province || ""} ${d.region} ${d.description}`
         .toLowerCase()
         .includes(search.toLowerCase()) &&
-      (!favorites || saved.includes(d.slug)),
+      (!favorites || (account.enabled?account.bookmarks.includes(`base-${d.slug}`):saved.includes(d.slug))),
   );
   return (
     <section className="page section">
@@ -561,7 +575,7 @@ function Explore() {
             setFavorites(!favorites);
           }}
         >
-          <Heart size={17} /> {favorites ? "All destinations" : "My favorites"}
+          <Heart size={17} /> {favorites ? "All destinations" : account.enabled?"My favorites":"Device favorites"}
         </button>
       </div>
       <div className="chips">
@@ -629,6 +643,7 @@ function Details({ slug }: { slug: string }) {
             <span className="handwritten">{d.caption}</span>
           </h1>
           <p className="lede">{d.description}</p>
+          {!d.legacyOnly&&<BookmarkButton placeId={`base-${d.slug}`} name={d.name}/>}
           <SourceIndicator
             source={d.sources.description}
             label="Destination description"
@@ -860,9 +875,7 @@ function Profile() {
         {saved && <p role="status">Saved on this browser.</p>}
         <h3>A note about your data</h3>
         <p>
-          Trips, favorites, and planner drafts stay in this browser. Clearing
-          browser data removes them. Export a backup from your trip. Accounts
-          and shared editing are not connected.
+          Guest trips, destination favorites and planner drafts stay in this browser. Account trips and saved places are stored privately after Google sign-in and an explicit save. Export a backup before clearing browser drafts.
         </p>
         <h3>About the travel information</h3>
         <p>
@@ -886,8 +899,8 @@ function PlannerEntry() {
   return <Planner />;
 }
 function TripEntry() {
-  return <TripView />;
+  const account=useAccount();return <TripView key={account.user?.id||"guest"}/>;
 }
 function SavedEntry() {
-  return <SavedTrips />;
+  const account=useAccount();return <SavedTrips key={account.user?.id||"guest"}/>;
 }

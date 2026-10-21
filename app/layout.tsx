@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import "./globals.css";
 import "./map.css";
+import AccountProvider from "@/components/account-provider";
 
 export const metadata: Metadata = {
   title: "Lakbay — Your Philippines, Your Adventure",
@@ -19,7 +20,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className="antialiased">{children}</body>
+      <body className="antialiased"><AccountProvider>{children}</AccountProvider></body>
     </html>
   );
 }

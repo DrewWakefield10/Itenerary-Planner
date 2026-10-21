@@ -1,5 +1,5 @@
 // Server/maintenance code only. No component or visitor request imports this.
-import { z } from "zod";
+import { z } from "zod/v3";
 import {
   articleMappings,
   compareReadership,

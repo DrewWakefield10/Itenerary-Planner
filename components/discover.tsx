@@ -38,6 +38,7 @@ import {
 import { SourceIndicator, SourceReviewNote } from "./source-indicator";
 import {directoryDetails} from "@/lib/catalog/directory-details";
 import {unverifiedSource} from "@/lib/sources";
+import {BookmarkButton} from "./bookmarks";
 const AddDialog = lazy(() => import("./discovery-add-dialog"));
 const TripMap = lazy(() => import("./trip-map"));
 const dayLabel = (date: string) =>
@@ -112,6 +113,7 @@ function PlaceCard({
           </h3>
         </Link>
         <p>{place.description}</p>
+        <BookmarkButton placeId={place.id} name={place.name}/>
         <p className="discovery-reason">
           <Sparkles size={14} />
           {signal ? signalLabel : place.reason}
@@ -842,6 +844,7 @@ function PlaceDetails({
           <h1 className="page-title">{place.name}</h1>
           <p className="lede">{place.description}</p>
           <SourceIndicator source={place.source} label="Description" />
+          <BookmarkButton placeId={place.id} name={place.name}/>
           <p className="discovery-reason">{place.reason}</p>
           <div className="discovery-actions">
             <Link

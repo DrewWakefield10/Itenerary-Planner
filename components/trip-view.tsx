@@ -1,5 +1,5 @@
 "use client";
-import { useEffect, useState, lazy, Suspense } from "react";
+import { useEffect, useState, useRef, lazy, Suspense } from "react";
 import { usePathname } from "next/navigation";
 import Link from "next/link";
 import {
@@ -20,7 +20,6 @@ import {
   Check,
   Download,
   Printer,
-  Share2,
   CloudRain,
   Wallet,
   ClipboardList,
@@ -35,6 +34,14 @@ import {
   type Activity,
 } from "@/lib/trip";
 import { readTrips, saveTrip } from "@/lib/trip-storage";
+import {deleteTrip} from "@/lib/trip-storage";
+import {useAccount,GoogleSignIn} from "./account-provider";
+import {loadAccountTrip,saveAccountTrip,pendingAction,privateDraftKey,AccountClientError} from "@/lib/account-client";
+import type {AccountTrip} from "@/lib/account-contract";
+import ConfirmDialog from "./confirm-dialog";
+import TextEditDialog from "./text-edit-dialog";
+import {discoveryPlace} from "@/lib/discovery";
+import {dateOffset} from "@/lib/engine";
 import {
   peso,
   destination,
@@ -81,7 +88,15 @@ function download(trip: Trip) {
 }
 export default function TripView() {
   const path = usePathname();
+  const account=useAccount();
+  const [record,setRecord]=useState<AccountTrip|null>(null),[ownerLock,setOwnerLock]=useState<string|null>(null),[saving,setSaving]=useState(false),[saveError,setSaveError]=useState("");
+  const [editDates,setEditDates]=useState(false);
+  const latestTrip=useRef<Trip|null>(null);
+  const currentUser=useRef(account.user?.id);currentUser.current=account.user?.id;
+  const [leaveTo,setLeaveTo]=useState(""),[rename,setRename]=useState(false),[titleDraft,setTitleDraft]=useState(""),[dateDraft,setDateDraft]=useState("");
+  const ignoreLeave=useRef(false),attempt=useRef<{snapshot:string;id:string}|null>(null),autoSaving=useRef(false);
   const [trip, setTrip] = useState<Trip | null>(null);
+  latestTrip.current=trip;
   const [loaded, setLoaded] = useState(false);
   const [dayIndex, setDayIndex] = useState(0);
   const [tab, setTab] = useState<Tab>("Itinerary");
@@ -95,26 +110,41 @@ export default function TripView() {
   const [proposal, setProposal] = useState<Trip | null>(null);
   const [rainPreview, setRainPreview] = useState<RainAlternative | null>(null);
   const [rainPreviewOrigin,setRainPreviewOrigin]=useState<'forecast'|'manual'>('forecast');
-  const [share, setShare] = useState("");
   const [variant, setVariant] = useState(1);
   useEffect(() => {
+    if(account.loading)return;
+    let cancelled=false;
+    setLoaded(false);setTrip(null);setRecord(null);setOwnerLock(null);setSaveError("");
     setDayIndex(0);
     setHistory([]);
     setRainPreview(null);
     setReadonly(false);
-    try {
+    async function open(){try {
       if (path.split("/")[2] === "shared") {
-        const encoded = location.hash.slice(1);
-        if (encoded.length > 180000)
-          throw new Error("Shared plan is too large.");
-        const data = JSON.parse(decodeURIComponent(atob(encoded)));
-        setTrip(tripSchema.parse(data));
-        setReadonly(true);
-      } else
-        setTrip(readTrips().find((t) => t.id === path.split("/")[2]) || null);
-    } catch {
-      setMessage("This shared trip is invalid or incomplete.");
-    }
+        setTrip(null);setReadonly(true);setMessage("Public snapshot links are disabled. Restore a JSON backup into your own drafts instead.");
+      } else {
+        const id=path.split("/")[2];
+        if(account.user){
+          try{
+            const saved=await loadAccountTrip(id);if(cancelled)return;
+            setRecord(saved);setOwnerLock(saved.ownerId);
+            let snapshot=saved.trip;
+            try{const raw=sessionStorage.getItem(privateDraftKey(saved.ownerId,id));if(raw){const draft=JSON.parse(raw);const parsed=tripSchema.safeParse(draft.trip);if(parsed.success){snapshot=parsed.data;if(draft.revision!==saved.revision){setRecord({...saved,revision:draft.revision});setSaveError("This trip changed on another device. Your recovery draft is preserved. Reload the account version or save a copy.");}}}}catch{}
+            setTrip(snapshot);
+          }catch(e){
+            if(cancelled)return;
+            const draft=readTrips().find(t=>t.id===id);
+            if(e instanceof AccountClientError&&e.status===404)setTrip(draft||null);
+            else if(draft){setTrip(draft);setSaveError("Your account version could not be checked. This is the browser draft; retry saving when your connection returns.");}
+            else setMessage(e instanceof Error?e.message:"Could not open this account trip. Retry.");
+          }
+        }else{
+          const id=path.split("/")[2],previous=sessionStorage.getItem("lakbay:last-account");
+          if(previous&&sessionStorage.getItem(privateDraftKey(previous,id)))setOwnerLock(previous);
+          else setTrip(readTrips().find(t=>t.id===id)||null);
+        }
+      }
+    } catch {if(!cancelled)setMessage("This trip is invalid or incomplete.");}
     setTab(
       path.endsWith("/budget")
         ? "Budget"
@@ -122,8 +152,37 @@ export default function TripView() {
           ? "Essentials"
           : "Itinerary",
     );
-    setLoaded(true);
-  }, [path]);
+    if(!cancelled)setLoaded(true);
+    }void open();return()=>{cancelled=true;};
+  }, [path,account.loading,account.user?.id]);
+  const dirty=!!record&&!!trip&&JSON.stringify(trip)!==JSON.stringify(record.trip);
+  useEffect(()=>{
+    if(!dirty)return;
+    const unload=(e:BeforeUnloadEvent)=>{if(!ignoreLeave.current){e.preventDefault();e.returnValue="";}};
+    const click=(e:MouseEvent)=>{if(ignoreLeave.current||e.defaultPrevented||e.ctrlKey||e.metaKey||e.shiftKey)return;const link=(e.target as Element)?.closest?.("a[href]") as HTMLAnchorElement|null;if(link&&link.target!=="_blank"&&link.href!==location.href&&!link.getAttribute("href")?.startsWith("#")){e.preventDefault();e.stopPropagation();setLeaveTo(link.href);}};
+    window.addEventListener("beforeunload",unload);document.addEventListener("click",click,true);
+    return()=>{window.removeEventListener("beforeunload",unload);document.removeEventListener("click",click,true);};
+  },[dirty]);
+  async function saveToAccount(snapshot=trip){
+    if(!snapshot||!account.user||saving)return;
+    if(ownerLock&&ownerLock!==account.user.id){setSaveError("Sign in with the account that owns this trip.");return;}
+    setSaving(true);setSaveError("");
+    const serialized=JSON.stringify(snapshot);
+    if(attempt.current?.snapshot!==serialized)attempt.current={snapshot:serialized,id:uid()};
+    try{
+      const result=await saveAccountTrip(snapshot,record?.revision||0,attempt.current!.id);
+      if(currentUser.current!==result.ownerId)return;
+      setRecord(result);setOwnerLock(result.ownerId);
+      const newer=latestTrip.current&&JSON.stringify(latestTrip.current)!==serialized?latestTrip.current:null;
+      if(!newer)setTrip(result.trip);deleteTrip(snapshot.id);
+      if(newer)sessionStorage.setItem(privateDraftKey(result.ownerId,snapshot.id),JSON.stringify({trip:newer,revision:result.revision}));else sessionStorage.removeItem(privateDraftKey(result.ownerId,snapshot.id));pendingAction(null);setMessage(newer?"Earlier changes saved. Your latest edits still need Save Changes.":"Saved to your account. Available on your other devices.");
+    }catch(e){setSaveError(e instanceof Error?e.message:"Could not save. Retry; your edits are preserved.");if(record)pendingAction({kind:"trip",id:snapshot.id,ownerId:record.ownerId});}
+    finally{setSaving(false);}
+  }
+  useEffect(()=>{
+    const action=pendingAction();
+    if(loaded&&trip&&account.user&&action?.kind==="trip"&&action.id===trip.id&&(!action.ownerId||action.ownerId===account.user.id)&&!autoSaving.current){autoSaving.current=true;void saveToAccount().finally(()=>{autoSaving.current=false;});}
+  },[loaded,trip?.id,account.user?.id]);
   function commit(next: Trip) {
     if (!trip || readonly) return;
     const parsed = tripSchema.safeParse(next);
@@ -133,15 +192,16 @@ export default function TripView() {
       );
       return;
     }
-    if (!saveTrip(parsed.data)) {
+    if (!record&&!saveTrip(parsed.data)) {
       setMessage(
         "Could not save this change. The previous version is preserved.",
       );
       return;
     }
     setHistory([...history.slice(-19), trip]);
+    if(record){try{sessionStorage.setItem(privateDraftKey(record.ownerId,trip.id),JSON.stringify({trip:parsed.data,revision:record.revision}));}catch{setSaveError("Recovery storage is unavailable. Keep this tab open and export a backup before signing in again.");}}
     setTrip(parsed.data);
-    setMessage("Saved to your travel journal.");
+    setMessage(record?"Unsaved changes. Select Save Changes to update your account.":"Browser draft updated. This trip is not yet stored in your account.");
     setProposal(null);
     setRainPreview(null);
   }
@@ -211,14 +271,17 @@ export default function TripView() {
   }
   if (!loaded)
     return <div className="page empty">Opening your travel journal…</div>;
+  if(ownerLock&&(!account.user||ownerLock!==account.user.id))return <section className="page section"><h1 className="page-title">Return to <em>your trip.</em></h1><p>Your session ended. Sign in with the same Google account to reopen this private trip and recover pending edits.</p><GoogleSignIn returnTo={path} before={()=>pendingAction({kind:"trip",id:path.split("/")[2],ownerId:ownerLock})}/><Link href="/my-trips" className="text-link">My Trips</Link></section>;
   if (!trip)
     return (
       <div className="page empty">
         <BookOpen size={40} />
-        <h2>This trip isn’t in this browser.</h2>
+        <h2>This trip is not available here.</h2>
         <p>
           {message || "Open a saved journal here, or start a new adventure."}
         </p>
+        <GoogleSignIn returnTo={path}/>
+        <button className="button secondary" onClick={()=>location.reload()}>Retry opening trip</button>
         <Link href="/planner" className="button">
           Start a new adventure
         </Link>
@@ -241,7 +304,7 @@ export default function TripView() {
         </Link>
         <span className="saved-label">
           <Check size={13} />
-          {readonly ? "Read-only shared snapshot" : "Saved on this browser"}
+          {readonly ? "Read-only shared snapshot" : record?dirty?"Unsaved changes":"Saved to your account":"Browser draft · not saved to an account"}
         </span>
       </div>
       <span className="eyebrow">
@@ -256,9 +319,7 @@ export default function TripView() {
             className="icon-button"
             aria-label="Rename trip"
             onClick={() => {
-              const title = prompt("Trip title", trip.title);
-              if (title?.trim())
-                commit({ ...trip, title: title.trim().slice(0, 160) });
+              setTitleDraft(trip.title);setRename(true);
             }}
           >
             <Pencil size={17} />
@@ -270,6 +331,8 @@ export default function TripView() {
         travelers · {trip.request.pace} pace · {trip.request.startDate}
       </p>
       <div className="trip-toolbar">
+        {!readonly&&(account.user?<button className="button small trip-account-save" aria-busy={saving} disabled={saving||!!record&&!dirty} onClick={()=>saveToAccount()}>{saving?"Saving…":record?"Save Changes":"Save Trip"}</button>:<GoogleSignIn returnTo={path} before={()=>pendingAction({kind:"trip",id:trip.id,ownerId:ownerLock||undefined})}>Save Trip</GoogleSignIn>)}
+        {!readonly&&<button className="button secondary small" onClick={()=>{setDateDraft(trip.request.startDate);setEditDates(true);setRename(false);setTitleDraft("");}}>Update travel dates</button>}
         <button
           className="button secondary small"
           onClick={() => window.print()}
@@ -288,40 +351,11 @@ export default function TripView() {
           <>
             <button
               className="button secondary small"
-              onClick={() => {
-                const sanitized = {
-                  ...trip,
-                  notes: "",
-                  request: {
-                    ...trip.request,
-                    diet: "",
-                    accessibility: "",
-                    reservations: "",
-                    requirements: "",
-                  },
-                };
-                const hash = btoa(
-                  encodeURIComponent(JSON.stringify(sanitized)),
-                );
-                if (hash.length > 120000) {
-                  setMessage(
-                    "This trip is too large for a share link. Export a backup instead.",
-                  );
-                  return;
-                }
-                setShare(`${location.origin}/trips/shared#${hash}`);
-              }}
-            >
-              <Share2 size={16} />
-              Share snapshot
-            </button>
-            <button
-              className="button secondary small"
               disabled={!history.length}
               onClick={() => {
                 const previous = history.at(-1)!;
-                if (saveTrip(previous)) {
-                  setTrip(previous);
+                {
+                  commit(previous);
                   setHistory(history.slice(0, -1));
                   setProposal(null);
                   setMessage("Last change undone.");
@@ -334,47 +368,17 @@ export default function TripView() {
           </>
         )}
       </div>
+      {saveError&&<div className="notice error" role="alert">{saveError}<div className="trip-toolbar"><button className="button secondary small" disabled={saving} onClick={()=>saveToAccount()}>Retry save</button>{record&&<><button className="button secondary small" onClick={()=>{sessionStorage.removeItem(privateDraftKey(record.ownerId,trip.id));ignoreLeave.current=true;location.reload();}}>Reload account version</button><button className="button secondary small" disabled={saving} onClick={async()=>{const copy={...structuredClone(trip),id:uid(),title:`${trip.title.slice(0,145)} (copy)`,createdAt:new Date().toISOString()};try{await saveAccountTrip(copy,0,uid());ignoreLeave.current=true;location.assign(`/trips/${copy.id}`);}catch(e){setSaveError(e instanceof Error?e.message:"Could not save a copy.");}}}>Save a copy</button></>}</div></div>}
+      {!!trip.days.flatMap(d=>d.activities).filter(a=>a.catalogStopId&&!discoveryPlace(a.catalogStopId)).length&&<p className="notice">Some saved locations are no longer in the current directory. Their saved descriptions and source details are preserved; confirm current availability.</p>}
+      {rename&&<TextEditDialog initial={titleDraft} onClose={()=>setRename(false)} onSave={title=>{commit({...trip,title});setRename(false);}}/>}
+      {editDates&&<div className="paper-note"><label>Trip start date<input type="date" value={dateDraft} onChange={e=>setDateDraft(e.target.value)}/></label><div className="trip-toolbar"><button className="button" onClick={()=>{try{const next=structuredClone(trip);next.request.startDate=dateDraft;next.days.forEach((d,i)=>d.date=dateOffset(dateDraft,i));if(!tripSchema.safeParse(next).success)throw new Error();commit(next);setEditDates(false);}catch{setMessage("Choose a valid travel date.");}}}>Update dates</button><button className="button secondary" onClick={()=>setEditDates(false)}>Cancel</button></div><p className="fine-print">Saved stops are preserved. Review recorded opening days and any dated reservations after changing dates.</p></div>}
+      {leaveTo&&<ConfirmDialog title="Leave with unsaved changes?" action="Leave page" onClose={()=>setLeaveTo("")} onConfirm={()=>{ignoreLeave.current=true;location.assign(leaveTo);}}><p>Your edits are not saved to your account. A recovery draft stays in this tab until you sign out; export a backup if needed.</p></ConfirmDialog>}
       {message && (
         <div className="notice" role="status">
           {message}
           <button onClick={() => setMessage("")} aria-label="Dismiss message">
             <X size={15} />
           </button>
-        </div>
-      )}
-      {share && (
-        <div className="share-panel paper-note">
-          <h3>A little postcard for your people.</h3>
-          <p>
-            Anyone with this link and access to the site can read this snapshot.
-            Private preference fields and journal notes are omitted; activity
-            notes, dates, checklist, and costs remain. Review before sharing.
-          </p>
-          <label>
-            Read-only trip link
-            <input readOnly value={share} onFocus={(e) => e.target.select()} />
-          </label>
-          <div className="trip-toolbar">
-            <button
-              className="button small"
-              onClick={async () => {
-                try {
-                  await navigator.clipboard.writeText(share);
-                  setMessage("Read-only link copied.");
-                } catch {
-                  setMessage("Select and copy the link manually.");
-                }
-              }}
-            >
-              Copy link
-            </button>
-            <button
-              className="button secondary small"
-              onClick={() => setShare("")}
-            >
-              Close
-            </button>
-          </div>
         </div>
       )}
       <div className="trip-summary">
@@ -970,7 +974,7 @@ export default function TripView() {
         <Budget trip={trip} readonly={readonly} commit={commit} />
       )}{" "}
       {tab === "Essentials" && (
-        <Essentials trip={trip} readonly={readonly} commit={commit} />
+        <Essentials trip={trip} readonly={readonly} commit={commit} draftNotes={!!record}/>
       )}
       <details className="provenance">
         <summary>About this itinerary & your saved preferences</summary>
@@ -1113,6 +1117,10 @@ function Budget({
   commit: (t: Trip) => void;
 }) {
   const b = budgetSummary(trip);
+  const [budgetDraft,setBudgetDraft]=useState("");
+  const [budgetError,setBudgetError]=useState("");
+  const [budgetEditing,setBudgetEditing]=useState(false);
+  const budgetField=useRef<HTMLInputElement>(null);
   const colors = [
     "#167d8d",
     "#164b65",
@@ -1174,27 +1182,13 @@ function Budget({
             </button>
             <button
               className="button small"
-              onClick={() => {
-                const amount = prompt(
-                  `Budget amount in pesos (${trip.request.budgetMode === "total" ? "whole group" : "per person"})`,
-                  String(trip.request.budget),
-                );
-                if (
-                  amount !== null &&
-                  Number.isInteger(Number(amount)) &&
-                  Number(amount) >= 500 &&
-                  Number(amount) <= 2000000
-                )
-                  commit({
-                    ...trip,
-                    request: { ...trip.request, budget: Number(amount) },
-                  });
-              }}
+              onClick={() => {setBudgetDraft(String(trip.request.budget));setBudgetError("");setBudgetEditing(true);}}
             >
               Adjust budget
             </button>
           </div>
         )}
+        {budgetEditing&&<form noValidate className="paper-note" onSubmit={e=>{e.preventDefault();const amount=Number(budgetDraft);if(!Number.isInteger(amount)||amount<500||amount>2000000){setBudgetError("Choose a whole-peso budget from 500 to 2,000,000.");budgetField.current?.focus();return;}commit({...trip,request:{...trip.request,budget:amount}});setBudgetEditing(false);}}><label>Budget amount in pesos<input ref={budgetField} type="number" min={500} max={2000000} value={budgetDraft} aria-invalid={!!budgetError} aria-describedby={budgetError?"budget-amount-error":undefined} onChange={e=>setBudgetDraft(e.target.value)}/></label>{budgetError&&<p id="budget-amount-error" role="alert">{budgetError}</p>}<div className="trip-toolbar"><button className="button">Update budget</button><button type="button" className="button secondary" onClick={()=>setBudgetEditing(false)}>Cancel</button></div></form>}
         <p className="fine-print">
           “Make it cheaper” replaces unlocked optional paid stops with free
           time. Accommodation upgrades increase an allowance; they do not
@@ -1312,10 +1306,12 @@ function Essentials({
   trip,
   readonly,
   commit,
+  draftNotes=false,
 }: {
   trip: Trip;
   readonly: boolean;
   commit: (t: Trip) => void;
+  draftNotes?:boolean;
 }) {
   const [item, setItem] = useState("");
   const [notes, setNotes] = useState(trip.notes);
@@ -1367,7 +1363,7 @@ function Essentials({
           ))}
         </div>
         {!readonly && (
-          <form
+          <form noValidate
             className="add-checklist"
             onSubmit={(e) => {
               e.preventDefault();
@@ -1403,13 +1399,13 @@ function Essentials({
         <label className="sr-only" htmlFor="journal-notes">
           Personal journal notes
         </label>
-        <textarea
+        <textarea style={{resize:"none",minHeight:100}}
           id="journal-notes"
           className="journal-notes"
           maxLength={20000}
           value={notes}
           readOnly={readonly}
-          onChange={(e) => setNotes(e.target.value)}
+          onChange={(e) => {setNotes(e.target.value);if(draftNotes)commit({...trip,notes:e.target.value});}}
           placeholder="A cafe you want to find. A moment you want to keep…"
         />
         {!readonly && (

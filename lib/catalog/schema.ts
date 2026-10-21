@@ -1,4 +1,4 @@
-import {z} from "zod";
+import {z} from "zod/v3";
 import {factSourcesSchema, sourcedLinkSchema} from "../sources";
 import {openingHoursSchema, disruptionSensitivitySchema} from "../disruptions";
 import {geographySchema} from "./directory-schema";

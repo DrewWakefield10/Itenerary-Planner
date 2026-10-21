@@ -1,4 +1,4 @@
-import { z } from "zod";
+import { z } from "zod/v3";
 import { sourceMetadataSchema } from "./sources";
 
 export const disruptionSensitivitySchema = z.enum([

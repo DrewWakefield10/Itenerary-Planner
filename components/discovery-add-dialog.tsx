@@ -14,6 +14,10 @@ import { endTime } from "@/lib/engine";
 import { peso, destination } from "@/lib/destinations";
 import type { Trip } from "@/lib/trip";
 import { SourceIndicator } from "./source-indicator";
+import {useAccount} from "./account-provider";
+import {allAccountTrips,loadAccountTrip,saveAccountTrip} from "@/lib/account-client";
+import type {AccountTrip} from "@/lib/account-contract";
+import {uid} from "@/lib/engine";
 
 export default function DiscoveryAddDialog({
   placeId,
@@ -23,6 +27,8 @@ export default function DiscoveryAddDialog({
   onClose: () => void;
 }) {
   const dialog = useRef<HTMLDialogElement>(null);
+  const account=useAccount();
+  const [records,setRecords]=useState<AccountTrip[]>([]),[busy,setBusy]=useState(false),[loadedOwner,setLoadedOwner]=useState<string|null>(null);
   const [trips, setTrips] = useState<Trip[]>([]),
     [tripId, setTripId] = useState("");
   const [dayIndex, setDayIndex] = useState(0),
@@ -33,14 +39,27 @@ export default function DiscoveryAddDialog({
   const place = discoveryPlace(placeId)!;
   useEffect(() => {
     dialog.current?.showModal();
-    const eligible = readTrips().filter((t) =>
+    let cancelled=false;
+    async function load(){try{
+    const remote=account.user?await allAccountTrips():[];
+    if(cancelled)return;setRecords(remote);setLoadedOwner(account.user?.id||null);
+    const eligible = [...remote.map(r=>r.trip),...readTrips().filter(t=>!remote.some(r=>r.trip.id===t.id))].filter((t) =>
       t.days.some((d) => d.destination === place.baseSlug && !d.transfer),
     );
     setTrips(eligible);
     if (eligible[0]) chooseTrip(eligible[0]);
+    }catch(e){setError(e instanceof Error?e.message:"Could not open trips. Retry.");}}void load();
+    return()=>{cancelled=true;};
     // The dialog is remounted for each selected place.
     // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, []);
+  }, [account.user?.id]);
+  async function currentTrip(id:string){
+    if(records.some(r=>r.trip.id===id)){
+      if(!account.user||loadedOwner!==account.user.id)throw new Error("Sign in again before editing this private trip.");
+      return (await loadAccountTrip(id)).trip;
+    }
+    return readTrips().find(t=>t.id===id);
+  }
   function chooseDay(trip: Trip, index: number) {
     setDayIndex(index);
     setStart(suggestedDiscoveryTime(trip, index, placeId) || "09:00");
@@ -57,6 +76,7 @@ export default function DiscoveryAddDialog({
     );
   }
   const trip = trips.find((t) => t.id === tripId);
+  if(loadedOwner&&loadedOwner!==account.user?.id)return <dialog open className="editor-dialog"><p>Your session changed. Close and reopen this preview after signing in.</p><button onClick={onClose}>Close</button></dialog>;
   return (
     <dialog
       ref={dialog}
@@ -180,9 +200,9 @@ export default function DiscoveryAddDialog({
               </p>
               <button
                 className="button secondary"
-                onClick={() => {
+                onClick={async () => {
                   try {
-                    const current = readTrips().find((t) => t.id === tripId);
+                    const current = await currentTrip(tripId);
                     if (!current)
                       throw new Error("This trip is no longer available.");
                     setPreview(
@@ -250,11 +270,12 @@ export default function DiscoveryAddDialog({
                   <div className="discovery-actions">
                     <button
                       className="button"
-                      onClick={() => {
+                      disabled={busy}
+                      onClick={async () => {
+                        if(busy)return;setBusy(true);
                         try {
-                          const current = readTrips().find(
-                            (t) => t.id === tripId,
-                          );
+                          const record=records.some(r=>r.trip.id===tripId)?await loadAccountTrip(tripId):null;
+                          const current=record?.trip||await currentTrip(tripId);
                           if (!current)
                             throw new Error(
                               "This trip is no longer available.",
@@ -263,7 +284,8 @@ export default function DiscoveryAddDialog({
                             current,
                             preview,
                           );
-                          if (!saveTrip(next))
+                          if(record)await saveAccountTrip(next,record.revision,uid());
+                          else if (!saveTrip(next))
                             throw new Error(
                               "Could not save. The existing trip is preserved.",
                             );
@@ -276,10 +298,10 @@ export default function DiscoveryAddDialog({
                               ? e.message
                               : "Could not apply addition.",
                           );
-                        }
+                        }finally{setBusy(false);}
                       }}
                     >
-                      Confirm & add
+                      {busy?"Saving…":"Confirm & add"}
                     </button>
                     <button
                       className="button secondary"

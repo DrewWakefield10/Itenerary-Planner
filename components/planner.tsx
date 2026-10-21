@@ -548,7 +548,7 @@ export default function Planner() {
                 ).map(([key, label]) => (
                   <label key={key}>
                     {label}
-                    <textarea
+                    <textarea className="resize-none" style={{resize:"none",minHeight:100}}
                       maxLength={
                         key === "reservations"
                           ? 1000

@@ -1,4 +1,4 @@
-import { z } from "zod";
+import { z } from "zod/v3";
 import { discoverySeeds as discoveryPlaces } from "./discovery-data";
 
 export const interestThresholdSchema = z.object({

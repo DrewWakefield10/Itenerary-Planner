@@ -1,4 +1,4 @@
-import { z } from "zod";
+import { z } from "zod/v3";
 import { sourceMetadataSchema } from "../sources";
 import {openingHoursSchema,disruptionSensitivitySchema} from "../disruptions";
 import {entryPriceSchema} from "./practical-schema";

@@ -36,7 +36,7 @@ export default function ActivityEditor({
   }
   return (
     <dialog ref={dialog} className="editor-dialog" onCancel={onClose}>
-      <form
+      <form noValidate
         onSubmit={(e) => {
           e.preventDefault();
           const parsed = activitySchema.safeParse({
@@ -150,7 +150,7 @@ export default function ActivityEditor({
         </div>
         <label>
           Notes & description
-          <textarea
+          <textarea className="resize-none" style={{resize:"none",minHeight:100}}
             maxLength={1500}
             value={a.description}
             onChange={(e) => field("description", e.target.value)}
@@ -200,7 +200,7 @@ export default function ActivityEditor({
         </label>
         <label>
           Accessibility notes
-          <textarea
+          <textarea className="resize-none" style={{resize:"none",minHeight:100}}
             maxLength={1000}
             value={a.accessibility}
             onChange={(e) => field("accessibility", e.target.value)}

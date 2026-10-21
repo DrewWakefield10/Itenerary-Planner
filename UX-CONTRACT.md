@@ -1,6 +1,6 @@
 # Lakbay directory behavior
 
-The current user brief (21 October 2026, 11 geographic browsing groups) is the geographic authority. `lib/catalog/directory-schema.ts`, `lib/trip.ts`, and `lib/discovery-planning.ts` implement the data and mutation contracts. Existing guest storage and privacy behavior is documented in README.md; no account, billing, or retention change is introduced.
+The geographic brief (21 October 2026, 11 browsing groups) remains authoritative for locations. The account brief and the user's Google-only clarification (22 October 2026) govern personal saving: no ChatGPT account or separate password is required. `docs/accounts.md`, `lib/auth.ts`, `lib/account-api.ts` and `lib/account-store.ts` define identity, data lifecycle, ownership, idempotency and revision policy. No billing or public account-trip sharing is introduced.
 
 ## Canonical UI Map
 
@@ -10,7 +10,8 @@ The current user brief (21 October 2026, 11 geographic browsing groups) is the g
 | Date | Existing native date/time fields | ISO date-only trip schema | Platform-owned date/time picker | Existing planner and import tests |
 | Form | Existing Zod schemas and inline error region | `lib/trip.ts` and discovery preview | Inline error, preserve values | Preview rejection and storage tests |
 | Scrollbar | Global `app/globals.css` | DESIGN.md runtime mapping | Browser forced-colors fallback | Computed styles and mobile overflow |
-| CRUD | `lib/discovery-planning.ts`, `lib/trip-storage.ts` | Explicit preview then acceptance | Append only; reject stale preview | Discovery browser and unit tests |
+| CRUD | `lib/account-store.ts`, `lib/discovery-planning.ts`, `lib/trip-storage.ts` | Account brief and `docs/accounts.md` | Explicit cloud save; local guest draft; accepted location preview | Account integration/browser and discovery tests |
+| Toast | Existing inline notice/status regions | `docs/accounts.md` | Persistent failure, saved, unsaved and session states | Account browser retry and recovery checks |
 
 ## Flow ledger
 

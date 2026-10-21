@@ -48,11 +48,7 @@ try{
  const stored=await page.evaluate(()=>JSON.parse(localStorage.getItem('lakbay:trips')));
  assert.equal(stored[0].days[0].activities[0].sources.location.status,'unverified');
  await page.goto(url);
- await page.getByRole('button',{name:'Share snapshot',exact:true}).click();
- const link=await page.getByLabel('Read-only trip link').inputValue();
- const snapshot=JSON.parse(decodeURIComponent(atob(new URL(link).hash.slice(1))));
- assert.deepEqual(snapshot.destinationInfo,trip.destinationInfo);
- assert.equal(snapshot.days.flatMap(d=>d.activities).find(a=>a.name==='Burnham Park').sources.location.status,'verified');
+ await expect(page.getByRole('button',{name:'Share snapshot',exact:true})).toHaveCount(0);
  assert.deepEqual(errors,[]);
- console.log('Sources browser: mobile badges/links, mixed statuses, edited/reloaded metadata, export, legacy import, and shared snapshot passed.');
+ console.log('Sources browser: mobile badges/links, mixed statuses, edited/reloaded metadata, export, legacy import, and private backup metadata passed.');
 }finally{await browser.close();}

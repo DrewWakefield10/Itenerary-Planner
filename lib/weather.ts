@@ -1,4 +1,4 @@
-import { z } from "zod";
+import { z } from "zod/v3";
 export const weatherSchema = z.object({
   daily: z.object({
     time: z.array(z.string()),

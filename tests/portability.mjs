@@ -13,11 +13,7 @@ const savedURL=page.url();
 const downloadEvent=page.waitForEvent('download');
 await page.getByRole('button',{name:'Export backup',exact:true}).click();
 const download=await downloadEvent;const backup=await download.path();
-await page.getByRole('button',{name:'Share snapshot',exact:true}).click();
-const share=await page.getByLabel('Read-only trip link').inputValue();
-await page.goto(share);
-await expect(page.getByText('Read-only shared snapshot',{exact:true})).toBeVisible();
-await expect(page.getByRole('button',{name:'Add activity',exact:true})).toHaveCount(0);
+await expect(page.getByRole('button',{name:'Share snapshot',exact:true})).toHaveCount(0);
 await page.emulateMedia({media:'print'});
 await expect(page.getByText('Complete travel journal',{exact:true})).toBeVisible();
 await page.pdf({path:'tests/trip-export.pdf',format:'A4',printBackground:true});
@@ -42,5 +38,5 @@ await expect(page.getByRole('heading',{name:'Flexible rest at your accommodation
 const bad=await page.request.post('http://127.0.0.1:5173/api/generate',{data:{request:{}}});assert.equal(bad.status(),400);
 const weather=await page.request.get('http://127.0.0.1:5173/api/weather?destination=palawan&date=2030-01-01');assert.equal((await weather.json()).available,false);
 assert.deepEqual(errors,[]);
-console.log('Portability: JSON export/import, read-only sharing, complete print/PDF, Plan B confirmation/undo, invalid API and weather fallback passed.');
+console.log('Portability: JSON export/import, private-by-default controls, complete print/PDF, Plan B confirmation/undo, invalid API and weather fallback passed.');
 }finally{await browser.close();}

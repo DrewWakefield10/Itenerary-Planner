@@ -1,5 +1,5 @@
 import vinext from "vinext";
-import { defineConfig } from "vite";
+import { defineConfig,loadEnv } from "vite";
 import hostingConfig from "./.openai/hosting.json";
 import { readExecutionProfile } from "./scripts/execution-profile.mjs";
 import { sites } from "./build/sites-vite-plugin";
@@ -36,7 +36,11 @@ const localBindingConfig = {
     : [],
 };
 
-export default defineConfig(async ({ command }) => {
+export default defineConfig(async ({ command,mode }) => {
+  // Local Worker bindings need explicit dev vars; shell/.env values are not the
+  // Worker's process.env. Never bake these server secrets into production output.
+  const localEnv=command==="serve"?loadEnv(mode,process.cwd(),""):{};
+  const localAuthVars=Object.fromEntries(["BETTER_AUTH_URL","BETTER_AUTH_SECRET","GOOGLE_CLIENT_ID","GOOGLE_CLIENT_SECRET"].filter(key=>localEnv[key]).map(key=>[key,localEnv[key]]));
   // Use Miniflare's local Request.cf placeholder unless fetching is requested.
   process.env.CLOUDFLARE_CF_FETCH_ENABLED ??= "false";
   process.env.WRANGLER_SEND_METRICS ??= "false";
@@ -71,6 +75,7 @@ export default defineConfig(async ({ command }) => {
           ...localBindingConfig,
           ...(command === "serve"
             ? {
+                vars:localAuthVars,
                 services: [
                   {
                     binding: "CONNECTORS",

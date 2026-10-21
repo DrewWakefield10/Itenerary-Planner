@@ -1,4 +1,4 @@
-import {z} from "zod";
+import {z} from "zod/v3";
 import type {Stop} from "./types";
 
 export const placeTypes = ["beach","cafe","restaurant","bakery","bar","museum","heritage","church","park","garden","market","shopping","viewpoint","island","waterfall","cave","lake","river","trail","wildlife","activity"] as const;

@@ -1,4 +1,4 @@
-import {z} from "zod";
+import {z} from "zod/v3";
 import {sourceMetadataSchema} from "../sources";
 export const visitModeSchema=z.enum(["local","excursion","package","separate-base"]);
 export const entryPriceSchema=z.object({

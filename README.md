@@ -27,7 +27,7 @@ Open http://127.0.0.1:5173. Dependencies already exist in this checkout; install
 - Lazy-loaded Leaflet map with numbered, selectable markers and OpenStreetMap attribution. No fabricated routes.
 - Integer-peso group budgets, per-person estimates, reserves, overrun warnings, adjustable allowances, optional-cost reduction, stay allowance upgrades, and actual expense tracking.
 - Manual Plan B proposals with a before/after preview and explicit confirmation. Other days and locked activities remain unchanged.
-- Editable packing lists, journal notes, official travel-information links, rename/duplicate/delete, JSON export/import, read-only URL snapshots, and browser Print / Save PDF for the full itinerary.
+- Editable packing lists, journal notes, official travel-information links, rename/duplicate/delete, JSON export/import, private Google account saving, and browser Print / Save PDF for the full itinerary.
 - Optional server-side AI journal personalization and weather adapters with validation, timeout handling, and visible unavailable states.
 
 ## Configuration
@@ -60,7 +60,7 @@ npm run build:vercel
 npm run build
 ```
 
-Unit tests cover low-budget Baguio, Cebu–Bohol connections, relaxed Palawan family travel, edits, locks, Plan B, missing credentials, all 11 destinations at three paces and two budget levels, malformed imports, AI response validation, and weather states. Browser tests use installed Google Chrome through Playwright and cover desktop/mobile navigation, filtering, questionnaire generation, saving, editing, map synchronization, budget tracking, packing lists, sharing, backups, and PDF printing. Generated screenshots and PDFs are ignored by Git.
+Unit tests cover low-budget Baguio, Cebu–Bohol connections, relaxed Palawan family travel, edits, locks, Plan B, missing credentials, all 11 destinations at three paces and two budget levels, malformed imports, AI response validation, and weather states. Browser tests use installed Google Chrome through Playwright and cover desktop/mobile navigation, filtering, questionnaire generation, saving, editing, map synchronization, budget tracking, packing lists, private-save controls, backups, and PDF printing. Generated screenshots and PDFs are ignored by Git.
 
 ## Code guide
 
@@ -79,16 +79,20 @@ Rain-sensitive activities in Baguio and Cebu City can now receive destination-sp
 
 Costs are illustrative planning allowances, not verified fees or booking quotes. Map coordinates are approximate; opening hours, accessibility, dietary suitability, transport connections, and local requirements need confirmation. Small seed catalogs can repeat stops on longer trips. Free-text reservations and must-visit/avoid requests are retained for review; they are not guaranteed constraints. Add confirmed bookings as locked activities.
 
-Guest data is local to each browser and origin. Clearing site data removes it; JSON exports can be restored as new trips. Shared links contain a static encoded snapshot, are not encrypted or revocable, and require access to the hosted Site. Sensitive preference fields and journal notes are omitted, but activity notes, dates, checklists, and expenses remain in the snapshot. Review before sharing. This is not multi-user collaboration or cross-device account sync.
+Guest drafts are local to each browser and origin; clearing site data removes them. Google-authenticated trips and bookmarks use persistent D1 storage and server-enforced ownership. Public snapshot sharing is disabled. Google login requires external OAuth configuration; see [accounts and exact setup](docs/accounts.md).
 
-Generation throttling is per running process/isolate (8 requests per minute per available client IP), not a distributed quota. Add durable quotas before broad paid-API use. The project does not provide booking availability, turn-by-turn routing, verified real-time advisories, personal entry-rule determinations, accounts, shared editing/voting, PWA/offline maps, push notifications, or booking integrations.
+Generation throttling is per running process/isolate (8 requests per minute per available client IP), not a distributed quota. Add durable quotas before broad paid-API use. The project does not provide booking availability, turn-by-turn routing, verified real-time advisories, personal entry-rule determinations, shared editing/voting, PWA/offline maps, push notifications, or booking integrations.
 
 The next phase is authoritative transport/pricing data and reservation-aware scheduling, followed by authenticated persistence and group collaboration. The core guest workflow is the completed milestone; advanced Phase 5 functionality remains deferred.
 
 ## Credits and sources
 
-Travel facts now carry individual source names, URLs, checked dates, and verified/estimate/unverified statuses. See [source review scope and maintenance notes](docs/source-verification.md). Run `node tests/sources-browser.mjs` with the local development server for the focused source-label, editing, export, sharing, and older-import browser check.
+Travel facts now carry individual source names, URLs, checked dates, and verified/estimate/unverified statuses. See [source review scope and maintenance notes](docs/source-verification.md). Run `node tests/sources-browser.mjs` with the local development server for the focused source-label, editing, export, private backup controls, and older-import browser check.
 
 Photos and licenses: [image credits](docs/image-credits.md), also exposed in the application via `/image-credits.txt`. Fonts: Fraunces, DM Sans, and Caveat via Google Fonts. Maps: [Leaflet](https://leafletjs.com/) and [OpenStreetMap](https://www.openstreetmap.org/copyright). Destination inspiration: [Philippine Department of Tourism](https://philippines.travel/destinations). Organization reference: [Nordic Visitor](https://www.nordicvisitor.com/). Optional weather: [Open-Meteo documentation](https://open-meteo.com/en/docs). Official traveler links: [eTravel](https://etravel.gov.ph/), [Bureau of Immigration](https://immigration.gov.ph/), and [PAGASA](https://www.pagasa.dost.gov.ph/).
 
 The retained Sites/Vinext runtime documentation is in [docs/starter-runtime.md](docs/starter-runtime.md).
+
+## Google accounts
+
+Google-only sign-in, profile, private account trips, saved places, explicit saves, conflict/session recovery and migrations are implemented. Activation requires the four server environment values and Google Console setup in [docs/accounts.md](docs/accounts.md); sign-in controls remain hidden until configured. Run `npm run test:accounts` and, with the local preview running, `npm run test:accounts:browser`. No ChatGPT account or separate password is used.
