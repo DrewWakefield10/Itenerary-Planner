@@ -1,0 +1,935 @@
+{
+  "destination": "Iloilo",
+  "batch": 1,
+  "kind": "Export snapshot of reviewed candidate batch",
+  "entries": [
+    {
+      "id": "iloilo-iloilo-river-esplanade",
+      "name": "Iloilo River Esplanade",
+      "destination_group": "Iloilo",
+      "region": "Western Visayas",
+      "province": "Iloilo",
+      "city_municipality": "Iloilo City",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Nature",
+      "description": "A riverside public promenade.",
+      "interests": [
+        "Nature Lover",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "iloilo",
+      "catalog_stop_id": "iloilo-iloilo-river-esplanade",
+      "status": "accepted",
+      "decision_reason": "Named physical place and actual municipality confirmed by the cited source; current access is not guaranteed.",
+      "sources": {
+        "identity": {
+          "sourceName": "Regional Statistics Committee VI — tourism attractions table",
+          "sourceUrl": "https://rsc6.gov.ph/wp-content/uploads/2024/10/WV-RSET-Chapter-8-TOURISM.pdf",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Regional Statistics Committee VI — tourism attractions table",
+          "sourceUrl": "https://rsc6.gov.ph/wp-content/uploads/2024/10/WV-RSET-Chapter-8-TOURISM.pdf",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "iloilo-molo-church-plaza",
+      "name": "Molo Church",
+      "destination_group": "Iloilo",
+      "region": "Western Visayas",
+      "province": "Iloilo",
+      "city_municipality": "Iloilo City",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Culture",
+      "description": "A heritage parish church in Molo.",
+      "interests": [
+        "Culture Seeker",
+        "City Wanderer"
+      ],
+      "itinerary_base_slug": "iloilo",
+      "catalog_stop_id": "iloilo-molo-church-plaza",
+      "status": "accepted",
+      "decision_reason": "Named physical place and actual municipality confirmed by the cited source; current access is not guaranteed.",
+      "sources": {
+        "identity": {
+          "sourceName": "Congress of the Philippines — Iloilo City heritage-site declaration",
+          "sourceUrl": "https://ldr.senate.gov.ph/sites/default/files/2023-03/1380811653%21.pdf",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Congress of the Philippines — Iloilo City heritage-site declaration",
+          "sourceUrl": "https://ldr.senate.gov.ph/sites/default/files/2023-03/1380811653%21.pdf",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "iloilo-jaro-plaza-heritage-area",
+      "name": "Jaro Plaza",
+      "destination_group": "Iloilo",
+      "region": "Western Visayas",
+      "province": "Iloilo",
+      "city_municipality": "Iloilo City",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Parks & markets",
+      "description": "A historic public square in Jaro.",
+      "interests": [
+        "Nature Lover",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "iloilo",
+      "catalog_stop_id": "iloilo-jaro-plaza-heritage-area",
+      "status": "accepted",
+      "decision_reason": "Named physical place and actual municipality confirmed by the cited source; current access is not guaranteed.",
+      "sources": {
+        "identity": {
+          "sourceName": "Congress of the Philippines — Iloilo City heritage-site declaration",
+          "sourceUrl": "https://ldr.senate.gov.ph/sites/default/files/2023-03/1380811653%21.pdf",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Congress of the Philippines — Iloilo City heritage-site declaration",
+          "sourceUrl": "https://ldr.senate.gov.ph/sites/default/files/2023-03/1380811653%21.pdf",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "iloilo-molo-mansion",
+      "name": "Molo Mansion",
+      "destination_group": "Iloilo",
+      "region": "Western Visayas",
+      "province": "Iloilo",
+      "city_municipality": "Iloilo City",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Culture",
+      "description": "A heritage house in Molo.",
+      "interests": [
+        "Culture Seeker",
+        "City Wanderer"
+      ],
+      "itinerary_base_slug": "iloilo",
+      "catalog_stop_id": "iloilo-molo-mansion",
+      "status": "accepted",
+      "decision_reason": "Named physical place and actual municipality confirmed by the cited source; current access is not guaranteed.",
+      "sources": {
+        "identity": {
+          "sourceName": "Iloilo City — comprehensive land use plan, indexed heritage-place references",
+          "sourceUrl": "https://iloilocity.gov.ph/main/wp-content/uploads/2021/03/Vol1_CLUP-3-3-21-final-draft-1.pdf",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Iloilo City — comprehensive land use plan, indexed heritage-place references",
+          "sourceUrl": "https://iloilocity.gov.ph/main/wp-content/uploads/2021/03/Vol1_CLUP-3-3-21-final-draft-1.pdf",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "iloilo-national-museum-western-visayas",
+      "name": "National Museum Western Visayas",
+      "destination_group": "Iloilo",
+      "region": "Western Visayas",
+      "province": "Iloilo",
+      "city_municipality": "Iloilo City",
+      "barangay": null,
+      "address": "Iloilo Provincial Capitol Complex, Bonifacio Drive, City Proper, Iloilo City",
+      "latitude": 10.703222,
+      "longitude": 122.5687667,
+      "category": "Culture",
+      "description": "Museum galleries in the former provincial jail.",
+      "interests": [
+        "Culture Seeker",
+        "City Wanderer"
+      ],
+      "itinerary_base_slug": "iloilo",
+      "catalog_stop_id": "iloilo-national-museum-western-visayas",
+      "status": "accepted",
+      "decision_reason": "Named physical place and actual municipality confirmed by the cited source; current access is not guaranteed.",
+      "sources": {
+        "identity": {
+          "sourceName": "National Museum — Western Visayas at Iloilo Provincial Jail",
+          "sourceUrl": "https://www.nationalmuseum.gov.ph/our-museums/regional-area-and-site-museums/western-visayas/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "National Museum — Western Visayas at Iloilo Provincial Jail",
+          "sourceUrl": "https://www.nationalmuseum.gov.ph/our-museums/regional-area-and-site-museums/western-visayas/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "National Museum — Western Visayas at Iloilo Provincial Jail",
+          "sourceUrl": "https://www.nationalmuseum.gov.ph/our-museums/regional-area-and-site-museums/western-visayas/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": "Wikipedia — National Museum Western Visayas reference coordinates",
+          "sourceUrl": "https://en.wikipedia.org/wiki/National_Museum_Western_Visayas",
+          "dateChecked": "2026-10-19",
+          "status": "verified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "iloilo-casa-real",
+      "name": "Casa Real de Iloilo",
+      "destination_group": "Iloilo",
+      "region": "Western Visayas",
+      "province": "Iloilo",
+      "city_municipality": "Iloilo City",
+      "barangay": null,
+      "address": "General Luna Street and Muelle Loney Street, Iloilo City",
+      "latitude": null,
+      "longitude": null,
+      "category": "Culture",
+      "description": "The historic former provincial capitol building.",
+      "interests": [
+        "Culture Seeker",
+        "City Wanderer"
+      ],
+      "itinerary_base_slug": "iloilo",
+      "catalog_stop_id": "iloilo-casa-real",
+      "status": "accepted",
+      "decision_reason": "Named physical place and actual municipality confirmed by the cited source; current access is not guaranteed.",
+      "sources": {
+        "identity": {
+          "sourceName": "Iloilo Provincial Government — Casa Real de Iloilo",
+          "sourceUrl": "https://www.iloilo.gov.ph/en/gallery/casa-real-de-iloilo",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Iloilo Provincial Government — Casa Real de Iloilo",
+          "sourceUrl": "https://www.iloilo.gov.ph/en/gallery/casa-real-de-iloilo",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "Iloilo Provincial Government — Casa Real de Iloilo",
+          "sourceUrl": "https://www.iloilo.gov.ph/en/gallery/casa-real-de-iloilo",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "iloilo-jaro-cathedral",
+      "name": "Jaro Cathedral",
+      "destination_group": "Iloilo",
+      "region": "Western Visayas",
+      "province": "Iloilo",
+      "city_municipality": "Iloilo City",
+      "barangay": null,
+      "address": null,
+      "latitude": 10.72351,
+      "longitude": 122.55622,
+      "category": "Culture",
+      "description": "A cathedral and shrine in Jaro.",
+      "interests": [
+        "Culture Seeker",
+        "City Wanderer"
+      ],
+      "itinerary_base_slug": "iloilo",
+      "catalog_stop_id": "iloilo-jaro-cathedral",
+      "status": "accepted",
+      "decision_reason": "Named physical place and actual municipality confirmed by the cited source; current access is not guaranteed.",
+      "sources": {
+        "identity": {
+          "sourceName": "Congress of the Philippines — Iloilo City heritage-site declaration",
+          "sourceUrl": "https://ldr.senate.gov.ph/sites/default/files/2023-03/1380811653%21.pdf",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Congress of the Philippines — Iloilo City heritage-site declaration",
+          "sourceUrl": "https://ldr.senate.gov.ph/sites/default/files/2023-03/1380811653%21.pdf",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": "Wikipedia — Jaro Cathedral reference coordinates",
+          "sourceUrl": "https://en.wikipedia.org/wiki/Jaro_Cathedral",
+          "dateChecked": "2026-10-19",
+          "status": "verified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "iloilo-calle-real",
+      "name": "Calle Real heritage streets",
+      "destination_group": "Iloilo",
+      "region": "Western Visayas",
+      "province": "Iloilo",
+      "city_municipality": "Iloilo City",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Culture",
+      "description": "A historic downtown commercial area.",
+      "interests": [
+        "Culture Seeker",
+        "City Wanderer"
+      ],
+      "itinerary_base_slug": "iloilo",
+      "catalog_stop_id": "iloilo-calle-real",
+      "status": "accepted",
+      "decision_reason": "Named physical place and actual municipality confirmed by the cited source; current access is not guaranteed.",
+      "sources": {
+        "identity": {
+          "sourceName": "Iloilo City — comprehensive land use plan, indexed heritage-place references",
+          "sourceUrl": "https://iloilocity.gov.ph/main/wp-content/uploads/2021/03/Vol1_CLUP-3-3-21-final-draft-1.pdf",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Iloilo City — comprehensive land use plan, indexed heritage-place references",
+          "sourceUrl": "https://iloilocity.gov.ph/main/wp-content/uploads/2021/03/Vol1_CLUP-3-3-21-final-draft-1.pdf",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "iloilo-plaza-libertad",
+      "name": "Plaza Libertad",
+      "destination_group": "Iloilo",
+      "region": "Western Visayas",
+      "province": "Iloilo",
+      "city_municipality": "Iloilo City",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Parks & markets",
+      "description": "A historic square in Iloilo City Proper.",
+      "interests": [
+        "Nature Lover",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "iloilo",
+      "catalog_stop_id": "iloilo-plaza-libertad",
+      "status": "accepted",
+      "decision_reason": "Named physical place and actual municipality confirmed by the cited source; current access is not guaranteed.",
+      "sources": {
+        "identity": {
+          "sourceName": "Congress of the Philippines — Iloilo City heritage-site declaration",
+          "sourceUrl": "https://ldr.senate.gov.ph/sites/default/files/2023-03/1380811653%21.pdf",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Congress of the Philippines — Iloilo City heritage-site declaration",
+          "sourceUrl": "https://ldr.senate.gov.ph/sites/default/files/2023-03/1380811653%21.pdf",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "iloilo-baking-studio-theos",
+      "name": "Baking Studio by Theo’s — North Grove",
+      "destination_group": "Iloilo",
+      "region": "Western Visayas",
+      "province": "Iloilo",
+      "city_municipality": "Iloilo City",
+      "barangay": "North Fundidor",
+      "address": "North Grove, Avanceña Street, North Fundidor, Molo, Iloilo City, Iloilo 5000",
+      "latitude": null,
+      "longitude": null,
+      "category": "Food & drink",
+      "description": "A bakery and café in Molo.",
+      "interests": [
+        "Food Hunter"
+      ],
+      "itinerary_base_slug": "iloilo",
+      "catalog_stop_id": "iloilo-baking-studio-theos",
+      "status": "accepted",
+      "decision_reason": "Named physical place and actual municipality confirmed by the cited source; current access is not guaranteed.",
+      "sources": {
+        "identity": {
+          "sourceName": "Theo’s — Baking Studio North Grove visitor information",
+          "sourceUrl": "https://www.theosrestaurantandbakery.com/bakingstudiobytheos",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Theo’s — Baking Studio North Grove visitor information",
+          "sourceUrl": "https://www.theosrestaurantandbakery.com/bakingstudiobytheos",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "Theo’s — Baking Studio North Grove visitor information",
+          "sourceUrl": "https://www.theosrestaurantandbakery.com/bakingstudiobytheos",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "iloilo-biscocho-haus",
+      "name": "Original Biscocho Haus — Jaro",
+      "destination_group": "Iloilo",
+      "region": "Western Visayas",
+      "province": "Iloilo",
+      "city_municipality": "Iloilo City",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Food & drink",
+      "description": "A bakery and delicacy shop in Jaro.",
+      "interests": [
+        "Food Hunter"
+      ],
+      "itinerary_base_slug": "iloilo",
+      "catalog_stop_id": "iloilo-biscocho-haus",
+      "status": "accepted",
+      "decision_reason": "Named physical place and actual municipality confirmed by the cited source; current access is not guaranteed.",
+      "sources": {
+        "identity": {
+          "sourceName": "Original Biscocho Haus — official Jaro store reference",
+          "sourceUrl": "https://biscochohaus.com/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Original Biscocho Haus — official Jaro store reference",
+          "sourceUrl": "https://biscochohaus.com/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "iloilo-economic-history-museum",
+      "name": "Museum of Philippine Economic History",
+      "destination_group": "Iloilo",
+      "region": "Western Visayas",
+      "province": "Iloilo",
+      "city_municipality": "Iloilo City",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Culture",
+      "description": "Museum galleries exploring the country’s economic history.",
+      "interests": [
+        "Culture Seeker",
+        "City Wanderer"
+      ],
+      "itinerary_base_slug": "iloilo",
+      "catalog_stop_id": "iloilo-economic-history-museum",
+      "status": "accepted",
+      "decision_reason": "Named physical place and actual municipality confirmed by the cited source; current access is not guaranteed.",
+      "sources": {
+        "identity": {
+          "sourceName": "Regional Statistics Committee VI — tourism attractions table",
+          "sourceUrl": "https://rsc6.gov.ph/wp-content/uploads/2024/10/WV-RSET-Chapter-8-TOURISM.pdf",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Regional Statistics Committee VI — tourism attractions table",
+          "sourceUrl": "https://rsc6.gov.ph/wp-content/uploads/2024/10/WV-RSET-Chapter-8-TOURISM.pdf",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "iloilo-miagao-church",
+      "name": "Miagao Church",
+      "destination_group": "Iloilo",
+      "region": "Western Visayas",
+      "province": "Iloilo",
+      "city_municipality": "Miagao",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Culture",
+      "description": "A heritage church in Miagao.",
+      "interests": [
+        "Culture Seeker",
+        "City Wanderer"
+      ],
+      "itinerary_base_slug": null,
+      "catalog_stop_id": null,
+      "status": "accepted",
+      "decision_reason": "Named physical place and actual municipality confirmed by the cited source; current access is not guaranteed.",
+      "sources": {
+        "identity": {
+          "sourceName": "Iloilo Provincial Government — First District heritage sites",
+          "sourceUrl": "https://www.iloilo.gov.ph/1st-district",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Iloilo Provincial Government — First District heritage sites",
+          "sourceUrl": "https://www.iloilo.gov.ph/1st-district",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "iloilo-san-joaquin-church",
+      "name": "San Joaquin Church",
+      "destination_group": "Iloilo",
+      "region": "Western Visayas",
+      "province": "Iloilo",
+      "city_municipality": "San Joaquin",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Culture",
+      "description": "A historic parish church in San Joaquin.",
+      "interests": [
+        "Culture Seeker",
+        "City Wanderer"
+      ],
+      "itinerary_base_slug": null,
+      "catalog_stop_id": null,
+      "status": "accepted",
+      "decision_reason": "Named physical place and actual municipality confirmed by the cited source; current access is not guaranteed.",
+      "sources": {
+        "identity": {
+          "sourceName": "Iloilo Provincial Government — First District heritage sites",
+          "sourceUrl": "https://www.iloilo.gov.ph/1st-district",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Iloilo Provincial Government — First District heritage sites",
+          "sourceUrl": "https://www.iloilo.gov.ph/1st-district",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "iloilo-bucari-pine-forest",
+      "name": "Bucari Pine Forest",
+      "destination_group": "Iloilo",
+      "region": "Western Visayas",
+      "province": "Iloilo",
+      "city_municipality": "Leon",
+      "barangay": "Bucari",
+      "address": "Sitio Tabionan, Barangay Bucari, Leon, Iloilo",
+      "latitude": null,
+      "longitude": null,
+      "category": "Nature",
+      "description": "A pine-forest visitor destination in the Leon uplands.",
+      "interests": [
+        "Nature Lover",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": null,
+      "catalog_stop_id": null,
+      "status": "accepted",
+      "decision_reason": "Named physical place and actual municipality confirmed by the cited source; current access is not guaranteed.",
+      "sources": {
+        "identity": {
+          "sourceName": "Philippine News Agency — Bucari Pine Forest, Leon",
+          "sourceUrl": "https://www.pna.gov.ph/articles/1066964",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Iloilo Provincial Government — Leon",
+          "sourceUrl": "https://www.iloilo.gov.ph/en/node/162",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "Philippine News Agency — Bucari Pine Forest, Leon",
+          "sourceUrl": "https://www.pna.gov.ph/articles/1066964",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "iloilo-museo-iloilo",
+      "name": "Museo Iloilo",
+      "destination_group": "Iloilo",
+      "region": "Western Visayas",
+      "province": "Iloilo",
+      "city_municipality": "Iloilo City",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Culture",
+      "description": "A museum near the provincial capitol.",
+      "interests": [
+        "Culture Seeker"
+      ],
+      "itinerary_base_slug": null,
+      "catalog_stop_id": "iloilo-museo-iloilo",
+      "status": "rejected",
+      "decision_reason": "Physical identity and municipality confirmed; editorial surplus outside the agreed initial selection. Retained as a genuine researched place candidate, not a claim that the venue is unsuitable.",
+      "sources": {
+        "identity": {
+          "sourceName": "Iloilo Provincial Government - Casa Real and nearby Museo Iloilo",
+          "sourceUrl": "https://iloilo.gov.ph/en/gallery/casa-real-de-iloilo",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Iloilo Provincial Government - Casa Real and nearby Museo Iloilo",
+          "sourceUrl": "https://iloilo.gov.ph/en/gallery/casa-real-de-iloilo",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "iloilo-festive-walk-mall",
+      "name": "Festive Walk Mall",
+      "destination_group": "Iloilo",
+      "region": "Western Visayas",
+      "province": "Iloilo",
+      "city_municipality": "Iloilo City",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Attractions",
+      "description": "A shopping mall at Iloilo Business Park in Mandurriao.",
+      "interests": [
+        "Nature Lover",
+        "City Wanderer"
+      ],
+      "itinerary_base_slug": null,
+      "catalog_stop_id": null,
+      "status": "rejected",
+      "decision_reason": "Physical identity and municipality confirmed; editorial surplus outside the agreed initial selection. Retained as a genuine researched place candidate, not a claim that the venue is unsuitable.",
+      "sources": {
+        "identity": {
+          "sourceName": "Megaworld - Festive Walk Mall opening and location",
+          "sourceUrl": "https://www.megaworldcorp.com/news-and-updates/megaworld-opens-17th-mall-iloilo-business-park?page=1",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Megaworld - Festive Walk Mall opening and location",
+          "sourceUrl": "https://www.megaworldcorp.com/news-and-updates/megaworld-opens-17th-mall-iloilo-business-park?page=1",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "iloilo-guimaras-island",
+      "name": "Guimaras Island",
+      "destination_group": "Iloilo",
+      "region": "Western Visayas",
+      "province": "Guimaras",
+      "city_municipality": null,
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Nature",
+      "description": "An island province distinct from Iloilo.",
+      "interests": [
+        "Nature Lover",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": null,
+      "catalog_stop_id": null,
+      "status": "rejected",
+      "decision_reason": "Outside the Iloilo province directory group; Guimaras is a separate province.",
+      "sources": {
+        "identity": {
+          "sourceName": "Provincial Government of Guimaras — province identity",
+          "sourceUrl": "https://guimaras.gov.ph/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "iloilo-tangke-lagoon",
+      "name": "Tangke Saltwater Lagoon",
+      "destination_group": "Iloilo",
+      "region": "Western Visayas",
+      "province": "Iloilo",
+      "city_municipality": null,
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Nature",
+      "description": "A lagoon candidate in the Gigantes islands.",
+      "interests": [
+        "Nature Lover",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": null,
+      "catalog_stop_id": null,
+      "status": "unresolved",
+      "decision_reason": "Historical access-restriction reports surfaced, but this session did not obtain sufficient municipality/current-access evidence for acceptance.",
+      "sources": {
+        "identity": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "municipality": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    }
+  ]
+}

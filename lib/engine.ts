@@ -161,7 +161,10 @@ export function makeDay(
     if(begins===null)continue;
     const activity=fromStop(s,r,clock(begins));
     activity.duration=duration;
-    if(s.mode!=="local")activity.description += " Reserve this full block for the visit and transfers. Confirm the route, booking and return time; this is not a timetable.";
+    if(s.mode!=="local"){
+      activity.description += " Reserve this full block for the visit and transfers. Confirm the route, booking and return time; this is not a timetable.";
+      activity.sources.description=estimatedSource();
+    }
     activities.push(activity);markUsed(s,used,d.stops);
     first ??= s;
     cursor=begins+duration+s.transferMinutes;

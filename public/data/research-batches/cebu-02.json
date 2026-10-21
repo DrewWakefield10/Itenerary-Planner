@@ -1,0 +1,197 @@
+{
+  "destination": "Cebu",
+  "batch": 2,
+  "kind": "Export snapshot of reviewed candidate batch",
+  "entries": [
+    {
+      "id": "cebu-carbon-market",
+      "name": "Carbon Market",
+      "destination_group": "Cebu",
+      "region": "Central Visayas",
+      "province": "Cebu",
+      "city_municipality": "Cebu City",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Parks & markets",
+      "description": "A public market complex in Cebu City.",
+      "interests": [
+        "Nature Lover",
+        "City Wanderer"
+      ],
+      "itinerary_base_slug": null,
+      "catalog_stop_id": null,
+      "status": "rejected",
+      "decision_reason": "Physical identity and municipality confirmed; editorial surplus outside the agreed initial selection. Retained as a genuine researched place candidate, not a claim that the venue is unsuitable.",
+      "sources": {
+        "identity": {
+          "sourceName": "Cebu City Government - Carbon Market Unit 3 rehabilitation",
+          "sourceUrl": "https://www.cebucity.gov.ph/project-no-1-rehabilitation-of-unit-3-carbon-market-at-brgy-ermita-cebu-city/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Cebu City Government - Carbon Market Unit 3 rehabilitation",
+          "sourceUrl": "https://www.cebucity.gov.ph/project-no-1-rehabilitation-of-unit-3-carbon-market-at-brgy-ermita-cebu-city/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "cebu-omagieca-obo-ob-mangrove-garden",
+      "name": "Omagieca Obo-ob Mangrove Garden",
+      "destination_group": "Cebu",
+      "region": "Central Visayas",
+      "province": "Cebu",
+      "city_municipality": "Bantayan",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Nature",
+      "description": "A mangrove visitor garden in Bantayan municipality.",
+      "interests": [
+        "Nature Lover",
+        "City Wanderer"
+      ],
+      "itinerary_base_slug": null,
+      "catalog_stop_id": null,
+      "status": "rejected",
+      "decision_reason": "Physical identity and municipality confirmed; editorial surplus outside the agreed initial selection. Retained as a genuine researched place candidate, not a claim that the venue is unsuitable.",
+      "sources": {
+        "identity": {
+          "sourceName": "Cebu Provincial Tourism Office - Bantayan",
+          "sourceUrl": "https://tourism.cebu.gov.ph/explore/bantayan/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Cebu Provincial Tourism Office - Bantayan",
+          "sourceUrl": "https://tourism.cebu.gov.ph/explore/bantayan/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "cebu-sirao-flower-gardens-candidate",
+      "name": "Sirao Flower Gardens — ambiguous candidate",
+      "destination_group": "Cebu",
+      "region": "Central Visayas",
+      "province": "Cebu",
+      "city_municipality": null,
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Nature",
+      "description": "A broad name used for Sirao garden attractions.",
+      "interests": [],
+      "itinerary_base_slug": null,
+      "catalog_stop_id": null,
+      "status": "unresolved",
+      "decision_reason": "The plural garden label does not distinguish a second physical venue from accepted Sirao Garden.",
+      "sources": {
+        "identity": {
+          "sourceName": "Province of Cebu — heritage and attractions",
+          "sourceUrl": "https://www.cebu.gov.ph/about/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "cebu-lapulapu-memorial-museum",
+      "name": "Lapulapu Memorial Shrine and Museum",
+      "destination_group": "Cebu",
+      "region": "Central Visayas",
+      "province": "Cebu",
+      "city_municipality": null,
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Culture",
+      "description": "A proposed museum-project candidate.",
+      "interests": [],
+      "itinerary_base_slug": null,
+      "catalog_stop_id": null,
+      "status": "unresolved",
+      "decision_reason": "Reviewed material describes a proposed project; a separate completed visitor venue was not established.",
+      "sources": {
+        "identity": {
+          "sourceName": "Wikipedia — proposed Lapulapu Memorial Shrine and Museum",
+          "sourceUrl": "https://en.wikipedia.org/wiki/Lapulapu_Memorial_Shrine_and_Museum",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    }
+  ]
+}

@@ -1,0 +1,1226 @@
+{
+  "destination": "Palawan",
+  "batch": 1,
+  "kind": "Export snapshot of reviewed candidate batch",
+  "entries": [
+    {
+      "id": "el-nido-corong-corong-beach",
+      "name": "Corong Corong Beach",
+      "destination_group": "Palawan",
+      "region": "MIMAROPA",
+      "province": "Palawan",
+      "city_municipality": "El Nido",
+      "barangay": "Corong-Corong",
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Nature",
+      "description": "Coastal beach area in El Nido.",
+      "interests": [
+        "Nature Lover"
+      ],
+      "itinerary_base_slug": "el-nido",
+      "catalog_stop_id": "el-nido-corong-corong-beach",
+      "status": "accepted",
+      "decision_reason": "Named place and actual municipality supported by reviewed sources; current access is not guaranteed.",
+      "sources": {
+        "identity": {
+          "sourceName": "PCSD — Corong-Corong coastal locality in El Nido",
+          "sourceUrl": "https://pcsd.gov.ph/banned-lumber-worth-millions-confiscated/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "PCSD — Corong-Corong coastal locality in El Nido",
+          "sourceUrl": "https://pcsd.gov.ph/banned-lumber-worth-millions-confiscated/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "el-nido-lio-beach-afternoon",
+      "name": "Lio Beach",
+      "destination_group": "Palawan",
+      "region": "MIMAROPA",
+      "province": "Palawan",
+      "city_municipality": "El Nido",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Nature",
+      "description": "Mainland beach listed in El Nido's tourism inventory.",
+      "interests": [
+        "Nature Lover"
+      ],
+      "itinerary_base_slug": "el-nido",
+      "catalog_stop_id": "el-nido-lio-beach-afternoon",
+      "status": "accepted",
+      "decision_reason": "Named place and actual municipality supported by reviewed sources; current access is not guaranteed.",
+      "sources": {
+        "identity": {
+          "sourceName": "PCSD — El Nido municipal ECAN plan, tourism inventory",
+          "sourceUrl": "https://pkp-new.pcsd.gov.ph/wp-content/uploads/2021/02/El-Nido-Planred.pdf",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "PCSD — El Nido municipal ECAN plan, tourism inventory",
+          "sourceUrl": "https://pkp-new.pcsd.gov.ph/wp-content/uploads/2021/02/El-Nido-Planred.pdf",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "el-nido-big-lagoon",
+      "name": "Big Lagoon",
+      "destination_group": "Palawan",
+      "region": "MIMAROPA",
+      "province": "Palawan",
+      "city_municipality": "El Nido",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Nature",
+      "description": "Lagoon reached on a Bacuit Bay excursion.",
+      "interests": [
+        "Nature Lover"
+      ],
+      "itinerary_base_slug": "el-nido",
+      "catalog_stop_id": "el-nido-big-lagoon",
+      "status": "accepted",
+      "decision_reason": "Named place and actual municipality supported by reviewed sources; current access is not guaranteed.",
+      "sources": {
+        "identity": {
+          "sourceName": "Tourism Promotions Board — El Nido destination itinerary",
+          "sourceUrl": "https://www.tpb.gov.ph/wp-content/uploads/2018/04/PR2018-04-224-Itinerary-Puerto-Princesa-El-Nido-Palawan-SV8-1.pdf",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Tourism Promotions Board — El Nido destination itinerary",
+          "sourceUrl": "https://www.tpb.gov.ph/wp-content/uploads/2018/04/PR2018-04-224-Itinerary-Puerto-Princesa-El-Nido-Palawan-SV8-1.pdf",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "el-nido-nacpan-beach",
+      "name": "Nacpan Beach",
+      "destination_group": "Palawan",
+      "region": "MIMAROPA",
+      "province": "Palawan",
+      "city_municipality": "El Nido",
+      "barangay": null,
+      "address": null,
+      "latitude": 11.32208,
+      "longitude": 119.42206,
+      "category": "Nature",
+      "description": "A mainland beach north of El Nido.",
+      "interests": [
+        "Beach Bum",
+        "Nature Lover"
+      ],
+      "itinerary_base_slug": "el-nido",
+      "catalog_stop_id": "el-nido-nacpan-beach",
+      "status": "accepted",
+      "decision_reason": "Named place and actual municipality supported by reviewed sources; current access is not guaranteed.",
+      "sources": {
+        "identity": {
+          "sourceName": "Love Philippines — El Nido guide",
+          "sourceUrl": "https://www.philippines.travel/destinations/palawan-el-nido/index",
+          "dateChecked": "2026-10-19",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "PCSD — El Nido municipal ECAN plan, tourism inventory",
+          "sourceUrl": "https://pkp-new.pcsd.gov.ph/wp-content/uploads/2021/02/El-Nido-Planred.pdf",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": "Mapcarta / OpenStreetMap — Nacpan beach reference",
+          "sourceUrl": "https://mapcarta.com/W576119742",
+          "dateChecked": "2026-10-19",
+          "status": "estimate"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "el-nido-maremegmeg-beach",
+      "name": "Maremegmeg Beach",
+      "destination_group": "Palawan",
+      "region": "MIMAROPA",
+      "province": "Palawan",
+      "city_municipality": "El Nido",
+      "barangay": null,
+      "address": null,
+      "latitude": 11.14689,
+      "longitude": 119.39696,
+      "category": "Nature",
+      "description": "Mainland beach also called Las Cabañas.",
+      "interests": [
+        "Beach Bum",
+        "Nature Lover"
+      ],
+      "itinerary_base_slug": "el-nido",
+      "catalog_stop_id": "el-nido-maremegmeg-beach",
+      "status": "accepted",
+      "decision_reason": "Named place and actual municipality supported by reviewed sources; current access is not guaranteed.",
+      "sources": {
+        "identity": {
+          "sourceName": "Love Philippines — El Nido guide",
+          "sourceUrl": "https://www.philippines.travel/destinations/palawan-el-nido/index",
+          "dateChecked": "2026-10-19",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "ESTEL local destination magazine — Maremegmeg Beach in El Nido",
+          "sourceUrl": "https://www.estelnido.com/maremegmeg-beach/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": "Mapcarta / OpenStreetMap — Marimegmeg beach reference",
+          "sourceUrl": "https://mapcarta.com/N12506433601",
+          "dateChecked": "2026-10-19",
+          "status": "estimate"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "el-nido-duli-beach",
+      "name": "Duli Beach",
+      "destination_group": "Palawan",
+      "region": "MIMAROPA",
+      "province": "Palawan",
+      "city_municipality": "El Nido",
+      "barangay": "Bucana",
+      "address": "Duli Beach, Sitio Duli, Barangay Bucana, El Nido, Palawan",
+      "latitude": null,
+      "longitude": null,
+      "category": "Nature",
+      "description": "Beach at Sitio Duli, Barangay Bucana.",
+      "interests": [
+        "Beach Bum",
+        "Nature Lover"
+      ],
+      "itinerary_base_slug": "el-nido",
+      "catalog_stop_id": "el-nido-duli-beach",
+      "status": "accepted",
+      "decision_reason": "Named place and actual municipality supported by reviewed sources; current access is not guaranteed.",
+      "sources": {
+        "identity": {
+          "sourceName": "Duli Beach Resort — location",
+          "sourceUrl": "https://dulibeach.com/contact/",
+          "dateChecked": "2026-10-19",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Duli Beach Resort — beach address in El Nido",
+          "sourceUrl": "https://dulibeach.com/contact/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "Duli Beach Resort — beach address in El Nido",
+          "sourceUrl": "https://dulibeach.com/contact/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "el-nido-seven-commandos-beach",
+      "name": "Seven Commandos Beach",
+      "destination_group": "Palawan",
+      "region": "MIMAROPA",
+      "province": "Palawan",
+      "city_municipality": "El Nido",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Nature",
+      "description": "Beach included in the Tour A route.",
+      "interests": [
+        "Beach Bum",
+        "Nature Lover"
+      ],
+      "itinerary_base_slug": "el-nido",
+      "catalog_stop_id": "el-nido-seven-commandos-beach",
+      "status": "accepted",
+      "decision_reason": "Named place and actual municipality supported by reviewed sources; current access is not guaranteed.",
+      "sources": {
+        "identity": {
+          "sourceName": "Discover El Nido — Tour A",
+          "sourceUrl": "https://www.discoverelnido.com/tours/tour-a/",
+          "dateChecked": "2026-10-19",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Tourism Promotions Board — El Nido island destinations, 2018 itinerary",
+          "sourceUrl": "https://www.tpb.gov.ph/wp-content/uploads/2018/11/PR2018-11-802-Itinerary.pdf",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "el-nido-shimizu-island",
+      "name": "Shimizu Island",
+      "destination_group": "Palawan",
+      "region": "MIMAROPA",
+      "province": "Palawan",
+      "city_municipality": "El Nido",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Nature",
+      "description": "Island included in Tour A.",
+      "interests": [
+        "Nature Lover",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "el-nido",
+      "catalog_stop_id": "el-nido-shimizu-island",
+      "status": "accepted",
+      "decision_reason": "Named place and actual municipality supported by reviewed sources; current access is not guaranteed.",
+      "sources": {
+        "identity": {
+          "sourceName": "Discover El Nido — Tour A",
+          "sourceUrl": "https://www.discoverelnido.com/tours/tour-a/",
+          "dateChecked": "2026-10-19",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Tourism Promotions Board — El Nido island destinations, 2018 itinerary",
+          "sourceUrl": "https://www.tpb.gov.ph/wp-content/uploads/2018/11/PR2018-11-802-Itinerary.pdf",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "el-nido-secret-lagoon",
+      "name": "Secret Lagoon",
+      "destination_group": "Palawan",
+      "region": "MIMAROPA",
+      "province": "Palawan",
+      "city_municipality": "El Nido",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Nature",
+      "description": "Lagoon included in Tour A.",
+      "interests": [
+        "Nature Lover",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "el-nido",
+      "catalog_stop_id": "el-nido-secret-lagoon",
+      "status": "accepted",
+      "decision_reason": "Named place and actual municipality supported by reviewed sources; current access is not guaranteed.",
+      "sources": {
+        "identity": {
+          "sourceName": "Discover El Nido — Tour A",
+          "sourceUrl": "https://www.discoverelnido.com/tours/tour-a/",
+          "dateChecked": "2026-10-19",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Tourism Promotions Board — El Nido island destinations, 2018 itinerary",
+          "sourceUrl": "https://www.tpb.gov.ph/wp-content/uploads/2018/11/PR2018-11-802-Itinerary.pdf",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "el-nido-small-lagoon",
+      "name": "Small Lagoon",
+      "destination_group": "Palawan",
+      "region": "MIMAROPA",
+      "province": "Palawan",
+      "city_municipality": "El Nido",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Nature",
+      "description": "Lagoon included in Tour D.",
+      "interests": [
+        "Nature Lover",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "el-nido",
+      "catalog_stop_id": "el-nido-small-lagoon",
+      "status": "accepted",
+      "decision_reason": "Named place and actual municipality supported by reviewed sources; current access is not guaranteed.",
+      "sources": {
+        "identity": {
+          "sourceName": "Discover El Nido — Tour D",
+          "sourceUrl": "https://www.discoverelnido.com/tours/tour-d/",
+          "dateChecked": "2026-10-19",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Tourism Promotions Board — El Nido destination itinerary",
+          "sourceUrl": "https://www.tpb.gov.ph/wp-content/uploads/2018/04/PR2018-04-224-Itinerary-Puerto-Princesa-El-Nido-Palawan-SV8-1.pdf",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "el-nido-cadlao-lagoon",
+      "name": "Cadlao Lagoon",
+      "destination_group": "Palawan",
+      "region": "MIMAROPA",
+      "province": "Palawan",
+      "city_municipality": "El Nido",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Nature",
+      "description": "Lagoon included in Tour D.",
+      "interests": [
+        "Nature Lover",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "el-nido",
+      "catalog_stop_id": "el-nido-cadlao-lagoon",
+      "status": "accepted",
+      "decision_reason": "Named place and actual municipality supported by reviewed sources; current access is not guaranteed.",
+      "sources": {
+        "identity": {
+          "sourceName": "Discover El Nido — Tour D",
+          "sourceUrl": "https://www.discoverelnido.com/tours/tour-d/",
+          "dateChecked": "2026-10-19",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Tourism Promotions Board — El Nido destination itinerary",
+          "sourceUrl": "https://www.tpb.gov.ph/wp-content/uploads/2018/04/PR2018-04-224-Itinerary-Puerto-Princesa-El-Nido-Palawan-SV8-1.pdf",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "el-nido-snake-island",
+      "name": "Snake Island",
+      "destination_group": "Palawan",
+      "region": "MIMAROPA",
+      "province": "Palawan",
+      "city_municipality": "El Nido",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Nature",
+      "description": "Sandbar stop on Tour B.",
+      "interests": [
+        "Nature Lover",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "el-nido",
+      "catalog_stop_id": "el-nido-snake-island",
+      "status": "accepted",
+      "decision_reason": "Named place and actual municipality supported by reviewed sources; current access is not guaranteed.",
+      "sources": {
+        "identity": {
+          "sourceName": "Discover El Nido — Tour B",
+          "sourceUrl": "https://www.discoverelnido.com/tours/tour-b/",
+          "dateChecked": "2026-10-19",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Tourism Promotions Board — El Nido destination itinerary",
+          "sourceUrl": "https://www.tpb.gov.ph/wp-content/uploads/2018/04/PR2018-04-224-Itinerary-Puerto-Princesa-El-Nido-Palawan-SV8-1.pdf",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "el-nido-cudugnon-cave",
+      "name": "Cudugnon Cave",
+      "destination_group": "Palawan",
+      "region": "MIMAROPA",
+      "province": "Palawan",
+      "city_municipality": "El Nido",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Culture",
+      "description": "Cave stop included in Tour B.",
+      "interests": [
+        "Culture Seeker",
+        "City Wanderer"
+      ],
+      "itinerary_base_slug": "el-nido",
+      "catalog_stop_id": "el-nido-cudugnon-cave",
+      "status": "accepted",
+      "decision_reason": "Named place and actual municipality supported by reviewed sources; current access is not guaranteed.",
+      "sources": {
+        "identity": {
+          "sourceName": "Discover El Nido — Tour B",
+          "sourceUrl": "https://www.discoverelnido.com/tours/tour-b/",
+          "dateChecked": "2026-10-19",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Tourism Promotions Board — El Nido destination itinerary",
+          "sourceUrl": "https://www.tpb.gov.ph/wp-content/uploads/2018/04/PR2018-04-224-Itinerary-Puerto-Princesa-El-Nido-Palawan-SV8-1.pdf",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "puerto-princesa-plaza-cuartel",
+      "name": "Plaza Cuartel",
+      "destination_group": "Palawan",
+      "region": "MIMAROPA",
+      "province": "Palawan",
+      "city_municipality": "Puerto Princesa City",
+      "barangay": null,
+      "address": "Taft Street, Puerto Princesa City",
+      "latitude": 9.74028,
+      "longitude": 118.73,
+      "category": "Culture",
+      "description": "Historic former garrison in city proper.",
+      "interests": [
+        "Nature Lover"
+      ],
+      "itinerary_base_slug": "puerto-princesa",
+      "catalog_stop_id": "puerto-princesa-plaza-cuartel",
+      "status": "accepted",
+      "decision_reason": "Named place and actual municipality supported by reviewed sources; current access is not guaranteed.",
+      "sources": {
+        "identity": {
+          "sourceName": "Puerto Princesa City Tourism — Plaza Cuartel address",
+          "sourceUrl": "https://citytourism.puertoprincesa.ph/plaza-cuartel/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Puerto Princesa City Tourism — Plaza Cuartel address",
+          "sourceUrl": "https://citytourism.puertoprincesa.ph/plaza-cuartel/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "Puerto Princesa City Tourism — Plaza Cuartel address",
+          "sourceUrl": "https://citytourism.puertoprincesa.ph/plaza-cuartel/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": "Trek Zone — Plaza Cuartel reference pin",
+          "sourceUrl": "https://trek.zone/en/philippines/places/64865/plaza-cuartel-puerto-princesa",
+          "dateChecked": "2026-10-19",
+          "status": "estimate"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "puerto-princesa-immaculate-conception-cathedral-surroundings",
+      "name": "Immaculate Conception Cathedral",
+      "destination_group": "Palawan",
+      "region": "MIMAROPA",
+      "province": "Palawan",
+      "city_municipality": "Puerto Princesa City",
+      "barangay": null,
+      "address": null,
+      "latitude": 9.74059,
+      "longitude": 118.73087,
+      "category": "Culture",
+      "description": "Cathedral in Puerto Princesa's historic core.",
+      "interests": [
+        "Nature Lover"
+      ],
+      "itinerary_base_slug": "puerto-princesa",
+      "catalog_stop_id": "puerto-princesa-immaculate-conception-cathedral-surroundings",
+      "status": "accepted",
+      "decision_reason": "Named place and actual municipality supported by reviewed sources; current access is not guaranteed.",
+      "sources": {
+        "identity": {
+          "sourceName": "Puerto Princesa City Tourism — destination inventory",
+          "sourceUrl": "https://citytourism.puertoprincesa.ph/destination-map/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Puerto Princesa City Tourism — destination inventory",
+          "sourceUrl": "https://citytourism.puertoprincesa.ph/destination-map/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": "Puerto Princesa tourism map — approximate cathedral pin",
+          "sourceUrl": "https://www.puertoprincesatourism.com/_files/ugd/3668db_31558baedb484e898e1bd7efb719f797.pdf",
+          "dateChecked": "2026-10-19",
+          "status": "estimate"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "puerto-princesa-puerto-princesa-baywalk",
+      "name": "Puerto Princesa Baywalk",
+      "destination_group": "Palawan",
+      "region": "MIMAROPA",
+      "province": "Palawan",
+      "city_municipality": "Puerto Princesa City",
+      "barangay": null,
+      "address": null,
+      "latitude": 9.74414,
+      "longitude": 118.73146,
+      "category": "Parks & markets",
+      "description": "Waterfront public space in Puerto Princesa.",
+      "interests": [
+        "Nature Lover"
+      ],
+      "itinerary_base_slug": "puerto-princesa",
+      "catalog_stop_id": "puerto-princesa-puerto-princesa-baywalk",
+      "status": "accepted",
+      "decision_reason": "Named place and actual municipality supported by reviewed sources; current access is not guaranteed.",
+      "sources": {
+        "identity": {
+          "sourceName": "Puerto Princesa City Tourism — destination inventory",
+          "sourceUrl": "https://citytourism.puertoprincesa.ph/destination-map/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Puerto Princesa City Tourism — destination inventory",
+          "sourceUrl": "https://citytourism.puertoprincesa.ph/destination-map/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": "GeoView / OpenStreetMap — Baywalk reference pin",
+          "sourceUrl": "https://ph.geoview.info/puerto_princesa_city_baywalk%2C11044151898w",
+          "dateChecked": "2026-10-19",
+          "status": "estimate"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "puerto-princesa-mendoza-park",
+      "name": "Mendoza Park",
+      "destination_group": "Palawan",
+      "region": "MIMAROPA",
+      "province": "Palawan",
+      "city_municipality": "Puerto Princesa City",
+      "barangay": null,
+      "address": null,
+      "latitude": 9.740038888888888,
+      "longitude": 118.73726944444445,
+      "category": "Parks & markets",
+      "description": "Park commemorating Dr. Higinio Mendoza.",
+      "interests": [
+        "Culture Seeker",
+        "City Wanderer"
+      ],
+      "itinerary_base_slug": "puerto-princesa",
+      "catalog_stop_id": "puerto-princesa-mendoza-park",
+      "status": "accepted",
+      "decision_reason": "Named place and actual municipality supported by reviewed sources; current access is not guaranteed.",
+      "sources": {
+        "identity": {
+          "sourceName": "Puerto Princesa City Tourism — Historical landmarks",
+          "sourceUrl": "https://citytourism.puertoprincesa.ph/historical-landmarks/",
+          "dateChecked": "2026-10-19",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Puerto Princesa City Tourism — destination inventory",
+          "sourceUrl": "https://citytourism.puertoprincesa.ph/destination-map/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": "Wikidata — Mendoza Park reference coordinates",
+          "sourceUrl": "https://www.wikidata.org/wiki/Q55507340",
+          "dateChecked": "2026-10-19",
+          "status": "estimate"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "puerto-princesa-princess-eulalia-park",
+      "name": "Princess Eulalia Park",
+      "destination_group": "Palawan",
+      "region": "MIMAROPA",
+      "province": "Palawan",
+      "city_municipality": "Puerto Princesa City",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Parks & markets",
+      "description": "Park with a city-foundation memorial.",
+      "interests": [
+        "Culture Seeker",
+        "City Wanderer"
+      ],
+      "itinerary_base_slug": "puerto-princesa",
+      "catalog_stop_id": "puerto-princesa-princess-eulalia-park",
+      "status": "accepted",
+      "decision_reason": "Named place and actual municipality supported by reviewed sources; current access is not guaranteed.",
+      "sources": {
+        "identity": {
+          "sourceName": "Puerto Princesa City Tourism — Historical landmarks",
+          "sourceUrl": "https://citytourism.puertoprincesa.ph/historical-landmarks/",
+          "dateChecked": "2026-10-19",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Puerto Princesa City Tourism — destination inventory",
+          "sourceUrl": "https://citytourism.puertoprincesa.ph/destination-map/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "puerto-princesa-palawan-heritage-center",
+      "name": "Palawan Heritage Center",
+      "destination_group": "Palawan",
+      "region": "MIMAROPA",
+      "province": "Palawan",
+      "city_municipality": "Puerto Princesa City",
+      "barangay": "Tanglaw",
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Culture",
+      "description": "Museum in the provincial heritage inventory.",
+      "interests": [
+        "Culture Seeker",
+        "City Wanderer"
+      ],
+      "itinerary_base_slug": "puerto-princesa",
+      "catalog_stop_id": "puerto-princesa-palawan-heritage-center",
+      "status": "accepted",
+      "decision_reason": "Named place and actual municipality supported by reviewed sources; current access is not guaranteed.",
+      "sources": {
+        "identity": {
+          "sourceName": "Puerto Princesa City Tourism — 2018–2027 master plan",
+          "sourceUrl": "https://www.puertoprincesatourism.com/_files/ugd/3668db_31558baedb484e898e1bd7efb719f797.pdf",
+          "dateChecked": "2026-10-19",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Puerto Princesa City Tourism — 2018–2027 municipal attraction inventory",
+          "sourceUrl": "https://www.puertoprincesatourism.com/_files/ugd/3668db_31558baedb484e898e1bd7efb719f797.pdf",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "puerto-princesa-palawan-museum",
+      "name": "Palawan Museum",
+      "destination_group": "Palawan",
+      "region": "MIMAROPA",
+      "province": "Palawan",
+      "city_municipality": "Puerto Princesa City",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Culture",
+      "description": "Museum interpreting Palawan’s cultural heritage.",
+      "interests": [
+        "Culture Seeker",
+        "City Wanderer"
+      ],
+      "itinerary_base_slug": "puerto-princesa",
+      "catalog_stop_id": "puerto-princesa-palawan-museum",
+      "status": "accepted",
+      "decision_reason": "Named place and actual municipality supported by reviewed sources; current access is not guaranteed.",
+      "sources": {
+        "identity": {
+          "sourceName": "Puerto Princesa City Tourism — Palawan Museum",
+          "sourceUrl": "https://www.puertoprincesatourism.com/palawan-museum",
+          "dateChecked": "2026-10-19",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Puerto Princesa City Tourism — 2018–2027 municipal attraction inventory",
+          "sourceUrl": "https://www.puertoprincesatourism.com/_files/ugd/3668db_31558baedb484e898e1bd7efb719f797.pdf",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "puerto-princesa-world-war-ii-memorial-museum",
+      "name": "World War II Memorial Museum",
+      "destination_group": "Palawan",
+      "region": "MIMAROPA",
+      "province": "Palawan",
+      "city_municipality": "Puerto Princesa City",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Culture",
+      "description": "Collection of wartime objects and displays.",
+      "interests": [
+        "Culture Seeker",
+        "City Wanderer"
+      ],
+      "itinerary_base_slug": "puerto-princesa",
+      "catalog_stop_id": "puerto-princesa-world-war-ii-memorial-museum",
+      "status": "accepted",
+      "decision_reason": "Named place and actual municipality supported by reviewed sources; current access is not guaranteed.",
+      "sources": {
+        "identity": {
+          "sourceName": "Puerto Princesa City Tourism — Destination map",
+          "sourceUrl": "https://citytourism.puertoprincesa.ph/destination-map/",
+          "dateChecked": "2026-10-19",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Puerto Princesa City Tourism — destination inventory",
+          "sourceUrl": "https://citytourism.puertoprincesa.ph/destination-map/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "puerto-princesa-butterfly-ecological-garden",
+      "name": "Palawan Butterfly Ecological Garden",
+      "destination_group": "Palawan",
+      "region": "MIMAROPA",
+      "province": "Palawan",
+      "city_municipality": "Puerto Princesa City",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Nature",
+      "description": "Garden featuring local butterflies.",
+      "interests": [
+        "Nature Lover",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "puerto-princesa",
+      "catalog_stop_id": "puerto-princesa-butterfly-ecological-garden",
+      "status": "accepted",
+      "decision_reason": "Named place and actual municipality supported by reviewed sources; current access is not guaranteed.",
+      "sources": {
+        "identity": {
+          "sourceName": "Puerto Princesa City Tourism — Destination map",
+          "sourceUrl": "https://citytourism.puertoprincesa.ph/destination-map/",
+          "dateChecked": "2026-10-19",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Puerto Princesa City Tourism — destination inventory",
+          "sourceUrl": "https://citytourism.puertoprincesa.ph/destination-map/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "puerto-princesa-mitra-ranch",
+      "name": "Mitra’s Ranch",
+      "destination_group": "Palawan",
+      "region": "MIMAROPA",
+      "province": "Palawan",
+      "city_municipality": "Puerto Princesa City",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Nature",
+      "description": "Ranch with views over the city.",
+      "interests": [
+        "Nature Lover",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "puerto-princesa",
+      "catalog_stop_id": "puerto-princesa-mitra-ranch",
+      "status": "accepted",
+      "decision_reason": "Named place and actual municipality supported by reviewed sources; current access is not guaranteed.",
+      "sources": {
+        "identity": {
+          "sourceName": "Puerto Princesa City Tourism — Destination map",
+          "sourceUrl": "https://citytourism.puertoprincesa.ph/destination-map/",
+          "dateChecked": "2026-10-19",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Puerto Princesa City Tourism — destination inventory",
+          "sourceUrl": "https://citytourism.puertoprincesa.ph/destination-map/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "puerto-princesa-wildlife-rescue-center",
+      "name": "Palawan Wildlife Rescue and Conservation Center",
+      "destination_group": "Palawan",
+      "region": "MIMAROPA",
+      "province": "Palawan",
+      "city_municipality": "Puerto Princesa City",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Nature",
+      "description": "Facility conserving Philippine crocodile species.",
+      "interests": [
+        "Nature Lover",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "puerto-princesa",
+      "catalog_stop_id": "puerto-princesa-wildlife-rescue-center",
+      "status": "accepted",
+      "decision_reason": "Named place and actual municipality supported by reviewed sources; current access is not guaranteed.",
+      "sources": {
+        "identity": {
+          "sourceName": "Puerto Princesa City Tourism — Destination map",
+          "sourceUrl": "https://citytourism.puertoprincesa.ph/destination-map/",
+          "dateChecked": "2026-10-19",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Puerto Princesa City Tourism — destination inventory",
+          "sourceUrl": "https://citytourism.puertoprincesa.ph/destination-map/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "puerto-princesa-underground-river",
+      "name": "Puerto Princesa Underground River",
+      "destination_group": "Palawan",
+      "region": "MIMAROPA",
+      "province": "Palawan",
+      "city_municipality": "Puerto Princesa City",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Attractions",
+      "description": "Protected underground-river visitor attraction.",
+      "interests": [
+        "Adventure Junkie",
+        "Nature Lover"
+      ],
+      "itinerary_base_slug": "puerto-princesa",
+      "catalog_stop_id": "puerto-princesa-underground-river",
+      "status": "accepted",
+      "decision_reason": "Named place and actual municipality supported by reviewed sources; current access is not guaranteed.",
+      "sources": {
+        "identity": {
+          "sourceName": "Puerto Princesa City Tourism — Underground River access",
+          "sourceUrl": "https://citytourism.puertoprincesa.ph/ppur/",
+          "dateChecked": "2026-10-19",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Puerto Princesa City Tourism — destination inventory",
+          "sourceUrl": "https://citytourism.puertoprincesa.ph/destination-map/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    }
+  ]
+}

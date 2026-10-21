@@ -26,19 +26,52 @@ Siargao reaches 18 accepted places across General Luna, Pilar, Del Carmen, San I
 
 Museo Dabawenyo uses the existing stable ID `davao-museo-dabawenyo-area`, with the directory name Museo Dabawenyo Event Center and the city-reported Mabini Street / Barangay 10-A address. Its unknown new entrance pin stays null. It is distinct from NMP-Davao at People's Park Compound and from Davao Museum of History and Ethnography. The NMP webpage's fifth-floor Museo reference is not used to overwrite the city's May 2025 venue announcement. Current exhibitions and access remain unverified.
 
-### Batch 4 — Final audit candidates 69–86
+### Batch 4 — Initial catalog audit, corrected physical-place count
 
-Ten existing package products rejected as directory places: four El Nido boat-day routes, five Coron boat-day routes, and one Siargao tri-island route. Six existing generic activities rejected: El Nido town walk, Local market & lunch, Coron town lunch, Puerto Princesa city lunch, Davao local food break, and Catangnan coastal afternoon. They remain usable historical itinerary snapshots where supported, but do not inflate distinct physical-place counts. These are actual reviewed catalog candidates rather than fabricated research entries.
+The first audit incorrectly counted ten package products and six generic activities among candidates 69–86. Those 16 rows have now been removed from the physical-place JSON and replaced with 16 named places in the additional research batch below. The 68 accepted records and two unresolved island records are unchanged.
+
+#### Legacy catalog exclusions — outside the 86 physical candidates
+
+These historical catalog exclusions are retained here for audit only. They are not physical directory candidates, and do not contribute to either the 86 reviewed-place count or the 200-place public selection.
+
+- `el-nido-tour-a` — El Nido Tour A — boat-day package
+- `el-nido-tour-b` — El Nido Tour B — boat-day package
+- `el-nido-tour-c` — El Nido Tour C — boat-day package
+- `el-nido-tour-d` — El Nido Tour D — boat-day package
+- `coron-super-ultimate` — Coron lake-and-lagoon boat-day package
+- `coron-island-escapade` — Coron Island Escapade C2 boat-day package
+- `coron-island-escapade-c1` — Coron Island Escapade C1 boat-day package
+- `coron-reef-and-wrecks` — Coron Reef and Wrecks boat-day package
+- `coron-tour-a` — Coron Tour A boat-day package
+- `siargao-tri-island-package` — Siargao tri-island boat-day package
+- `el-nido-el-nido-town-walk` — El Nido town walk
+- `el-nido-local-market-lunch` — Local market & lunch
+- `coron-coron-town-lunch` — Coron town lunch
+- `puerto-princesa-puerto-princesa-city-lunch` — Puerto Princesa city lunch
+- `davao-davao-local-food-break` — Davao local food break
+- `siargao-catangnan-coastal-afternoon` — Catangnan coastal afternoon
+
+### Additional replacement batch — 16 physical candidates, reviewed 21 October 2026
+
+13 Palawan places replace the 13 Palawan non-place rows. In El Nido, Cathedral Cave and Nagkalit-kalit Falls are identified in the [PCSD municipal inventory](https://pkp-new.pcsd.gov.ph/wp-content/uploads/2021/02/El-Nido-Planred.pdf); Entalula Beach is in the [TPB El Nido itinerary](https://www.tpb.gov.ph/wp-content/uploads/2022/03/TPB-RFQ-2022-03-071-Descriptive-Itinerary-El-Nido.pdf); Hidden Beach, Secret Beach, and Helicopter Island are named in the [municipal government's Talindak publication](https://talindak.wordpress.com/page/2/). Its historic package prices and route arrangements are not reused.
+
+Puerto Princesa City's [community tourism inventory](https://citytourism.puertoprincesa.ph/cbst-destinations/) identifies the Iwahig River community firefly site, Ugong Rock, and Buenavista Viewdeck. The riverbank site is the physical candidate, not a separately counted firefly tour product. [City tourism's Baker’s Hill listing](https://citytourism.puertoprincesa.ph/bakers-hill/) supports the venue and Mitra Road / Santa Monica address; [the city government's Balayong Park page](https://puertoprincesa.ph/balayong-park/) supports Balayong People’s Park. For Coron, Skeleton Wreck is in the [municipal ECAN attraction inventory](https://pcsd.gov.ph/wp-content/uploads/2020/12/06.-Coron-ECAN-Resource-Management-Plan.pdf); CYC Beach is listed in the [TPB Coron itinerary](https://www.tpb.gov.ph/wp-content/uploads/2024/11/Annex-A_Technical-Specifications_Itinerary_FamTrip-US-and-Canada.pdf), with Coron marine-park context in the [PCSD environment report](https://pcsd.gov.ph/wp-content/uploads/2020/12/State-of-the-Environment-SOE-2015-1.pdf).
+
+Two Siargao places replace the two Siargao non-place rows: Somyot Cave in Burgos and Osmeña Wetland in Dapa. Their actual municipalities are recorded in the [SIPLAS management plan's municipal ecotourism/wetland inventories](https://rsis.ramsar.org/RISapp/files/57292175/documents/PH2553_mgt230606.pdf); the [DENR-informed ecotourism report](https://businessmirror.com.ph/2023/07/08/saving-siargao-island-paradise-battling-environmental-woes/) also explicitly names both. A wetland or classified cave listing establishes identity and location, not current permission or suitability for visitor entry.
+
+One Davao place replaces the generic food break: [Davao Crocodile Park](https://tourism.davaocity.gov.ph/explore-the-city/attractions/resorts/davao-crocodile-park-inc/), which the city tourism office locates at Riverfront Corporate City, Diversion Road, Barangay Ma-a, Davao City. The city is a highly urbanized city, so province remains null.
+
+All 16 are rejected as editorial surplus outside the fixed initial 200-place allocation, rather than rejected for being fictitious or generic. Identity and municipality have reviewed sources dated 21 October 2026. Their exact pins remain null; no hours, prices, current access, booking, or safety details are inferred. Existing exact catalog-stop IDs are retained for 12 places. Baker’s Hill, Balayong People’s Park, Somyot Cave, and Osmeña Wetland have no matching catalog stop/base. Offshore components remain places for directory research, and must not become independently scheduled or priced alongside an included boat package.
 
 Two real island identities remain unresolved for municipality: Malcapuya Island and Banana Island. The [Coron 2023 municipal report](https://coron.gov.ph/wp-content/uploads/2024/10/Accomplishment-Report-CY-2023.pdf) discusses claimed/disputed Malcapuya land while the [TPB 2025 itinerary](https://www.tpb.gov.ph/wp-content/uploads/2025/08/PBD_PR-No.-2025.07.049_taiwan-agent_ipd-1.pdf) labels the Malcapuya route a Culion Island Escapade. The [PCSD marine habitat report](https://pcsd.gov.ph/wp-content/uploads/2025/02/Palawan-DB-report-2024-FINAL.pdf) shows municipal boundaries in the area, but no definitive uncontested administration was established from the reviewed text. Banana's operator listing establishes the named island but not its municipality. Both are excluded from the public accepted count, retain their catalog-stop ID for audit, and have null municipality/base and unverified municipality metadata. Neither gets assigned to Coron merely because tours depart there.
 
 ## Final counts and remaining gaps
 
-| Group | Accepted real places | Rejected catalog candidates | Unresolved real places | Candidates reviewed |
+| Group | Accepted real places | Rejected physical surplus | Unresolved real places | Candidates reviewed |
 | --- | ---: | ---: | ---: | ---: |
 | Palawan | 35 | 13 | 2 | 50 |
 | Siargao | 18 | 2 | 0 | 20 |
 | Davao | 15 | 1 | 0 | 16 |
 | Total | 68 | 16 | 2 | 86 |
 
-The machine-readable audit is authoritative for exact counts; no packages or generic activities are accepted. Addresses are partial when the source only provides an area, street, or village. No house/street number is guessed. Null pins remain excluded from map/distance calculations, and legacy unverified coordinates are cleared rather than upgraded. Sourced estimate pins retain their source URL and original review date. Directory-only San Vicente, Taytay, and outlying Siargao places do not create new overnight bases or automatic itinerary visits. Broad on-site access, current prices, and weather suitability were outside this factual directory check.
+The machine-readable audit contains 86 real physical-place candidates, including 16 editorial-surplus rejections and two unresolved islands. Packages and generic breaks are documented above but excluded from these counts. Addresses are partial when the source only provides an area, street, or village. No house/street number is guessed. Null pins remain excluded from map/distance calculations, and legacy unverified coordinates are cleared rather than upgraded. Sourced estimate pins retain their source URL and original review date. Directory-only San Vicente, Taytay, and outlying Siargao places do not create new overnight bases or automatic itinerary visits. Broad on-site access, current prices, and weather suitability were outside this factual directory check.

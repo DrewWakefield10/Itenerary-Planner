@@ -1,0 +1,1134 @@
+{
+  "destination": "Manila",
+  "batch": 1,
+  "kind": "Export snapshot of reviewed candidate batch",
+  "entries": [
+    {
+      "id": "manila-national-museum-fine-arts",
+      "name": "National Museum of Fine Arts",
+      "destination_group": "Manila",
+      "region": "National Capital Region",
+      "province": null,
+      "city_municipality": "Manila",
+      "barangay": null,
+      "address": null,
+      "latitude": 14.5869,
+      "longitude": 120.9812,
+      "category": "Culture",
+      "description": "Philippine paintings and sculpture in a historic building.",
+      "interests": [
+        "Culture Seeker",
+        "City Wanderer"
+      ],
+      "itinerary_base_slug": "manila",
+      "catalog_stop_id": "manila-national-museum-fine-arts",
+      "status": "accepted",
+      "decision_reason": "Distinct physical visitor place with verified identity and actual city.",
+      "sources": {
+        "identity": {
+          "sourceName": "National Museum - National Museum of Fine Arts",
+          "sourceUrl": "https://www.nationalmuseum.gov.ph/our-museums/national-museum-of-fine-arts/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "National Museum - central complex visitor directory",
+          "sourceUrl": "https://reservation.nationalmuseum.gov.ph/reservation/book/region-museum",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": "Wikipedia - National Museum of Fine Arts (Manila), reference coordinates",
+          "sourceUrl": "https://en.wikipedia.org/wiki/National_Museum_of_Fine_Arts_(Manila)",
+          "dateChecked": "2026-10-19",
+          "status": "estimate"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "manila-national-museum-anthropology",
+      "name": "National Museum of Anthropology",
+      "destination_group": "Manila",
+      "region": "National Capital Region",
+      "province": null,
+      "city_municipality": "Manila",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Culture",
+      "description": "Archaeological and ethnographic collections.",
+      "interests": [
+        "Culture Seeker",
+        "City Wanderer"
+      ],
+      "itinerary_base_slug": "manila",
+      "catalog_stop_id": "manila-national-museum-anthropology",
+      "status": "accepted",
+      "decision_reason": "Distinct physical visitor place with verified identity and actual city.",
+      "sources": {
+        "identity": {
+          "sourceName": "National Museum - National Museum of Anthropology",
+          "sourceUrl": "https://www.nationalmuseum.gov.ph/our-museums/national-museum-of-anthropology/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "National Museum - central complex visitor directory",
+          "sourceUrl": "https://reservation.nationalmuseum.gov.ph/reservation/book/region-museum",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "manila-national-museum-natural-history",
+      "name": "National Museum of Natural History",
+      "destination_group": "Manila",
+      "region": "National Capital Region",
+      "province": null,
+      "city_municipality": "Manila",
+      "barangay": null,
+      "address": null,
+      "latitude": 14.583306,
+      "longitude": 120.982194,
+      "category": "Culture",
+      "description": "Botanical, zoological, and geological displays.",
+      "interests": [
+        "Culture Seeker",
+        "City Wanderer"
+      ],
+      "itinerary_base_slug": "manila",
+      "catalog_stop_id": "manila-national-museum-natural-history",
+      "status": "accepted",
+      "decision_reason": "Distinct physical visitor place with verified identity and actual city.",
+      "sources": {
+        "identity": {
+          "sourceName": "National Museum - National Museum of Natural History",
+          "sourceUrl": "https://www.nationalmuseum.gov.ph/our-museums/national-museum-of-natural-history/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "National Museum - central complex visitor directory",
+          "sourceUrl": "https://reservation.nationalmuseum.gov.ph/reservation/book/region-museum",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": "Wikipedia - National Museum of Natural History (Manila), reference coordinates",
+          "sourceUrl": "https://en.wikipedia.org/wiki/National_Museum_of_Natural_History_(Manila)",
+          "dateChecked": "2026-10-19",
+          "status": "estimate"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "manila-fort-santiago-area",
+      "name": "Fort Santiago",
+      "destination_group": "Manila",
+      "region": "National Capital Region",
+      "province": null,
+      "city_municipality": "Manila",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Culture",
+      "description": "A historic fortress beside the Pasig River.",
+      "interests": [
+        "Culture Seeker",
+        "City Wanderer"
+      ],
+      "itinerary_base_slug": "manila",
+      "catalog_stop_id": "manila-fort-santiago-area",
+      "status": "accepted",
+      "decision_reason": "Distinct physical visitor place with verified identity and actual city.",
+      "sources": {
+        "identity": {
+          "sourceName": "Intramuros Administration - Fort Santiago",
+          "sourceUrl": "https://intramuros.gov.ph/fs/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Intramuros Administration - Fort Santiago",
+          "sourceUrl": "https://intramuros.gov.ph/fs/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "manila-manila-cathedral-area",
+      "name": "Manila Cathedral",
+      "destination_group": "Manila",
+      "region": "National Capital Region",
+      "province": null,
+      "city_municipality": "Manila",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Culture",
+      "description": "A cathedral in the walled city.",
+      "interests": [
+        "Culture Seeker",
+        "City Wanderer"
+      ],
+      "itinerary_base_slug": "manila",
+      "catalog_stop_id": "manila-manila-cathedral-area",
+      "status": "accepted",
+      "decision_reason": "Distinct physical visitor place with verified identity and actual city.",
+      "sources": {
+        "identity": {
+          "sourceName": "Intramuros Administration - sites",
+          "sourceUrl": "https://intramuros.gov.ph/sites/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Intramuros Administration - sites",
+          "sourceUrl": "https://intramuros.gov.ph/sites/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "manila-san-agustin-museum-area",
+      "name": "San Agustin Museum",
+      "destination_group": "Manila",
+      "region": "National Capital Region",
+      "province": null,
+      "city_municipality": "Manila",
+      "barangay": null,
+      "address": "General Luna Street, Intramuros",
+      "latitude": null,
+      "longitude": null,
+      "category": "Culture",
+      "description": "Religious heritage in the historic monastery.",
+      "interests": [
+        "Culture Seeker",
+        "City Wanderer"
+      ],
+      "itinerary_base_slug": "manila",
+      "catalog_stop_id": "manila-san-agustin-museum-area",
+      "status": "accepted",
+      "decision_reason": "Distinct physical visitor place with verified identity and actual city.",
+      "sources": {
+        "identity": {
+          "sourceName": "Intramuros Administration - museum directory",
+          "sourceUrl": "https://intramuros.gov.ph/sites-museums/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Intramuros Administration - museum directory",
+          "sourceUrl": "https://intramuros.gov.ph/sites-museums/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "Intramuros Administration - museum directory",
+          "sourceUrl": "https://intramuros.gov.ph/sites-museums/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "manila-casa-manila",
+      "name": "Casa Manila Museum",
+      "destination_group": "Manila",
+      "region": "National Capital Region",
+      "province": null,
+      "city_municipality": "Manila",
+      "barangay": null,
+      "address": "Plaza San Luis Complex, General Luna corner Real Streets, Intramuros",
+      "latitude": null,
+      "longitude": null,
+      "category": "Culture",
+      "description": "A museum of historical domestic life.",
+      "interests": [
+        "Culture Seeker",
+        "City Wanderer"
+      ],
+      "itinerary_base_slug": "manila",
+      "catalog_stop_id": "manila-casa-manila",
+      "status": "accepted",
+      "decision_reason": "Distinct physical visitor place with verified identity and actual city.",
+      "sources": {
+        "identity": {
+          "sourceName": "Intramuros Administration - Casa Manila",
+          "sourceUrl": "https://intramuros.gov.ph/cmm/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Intramuros Administration - Casa Manila",
+          "sourceUrl": "https://intramuros.gov.ph/cmm/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "Intramuros Administration - Casa Manila",
+          "sourceUrl": "https://intramuros.gov.ph/cmm/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "manila-centro-turismo",
+      "name": "Centro de Turismo Intramuros",
+      "destination_group": "Manila",
+      "region": "National Capital Region",
+      "province": null,
+      "city_municipality": "Manila",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Culture",
+      "description": "A visitor hub exploring the walled city.",
+      "interests": [
+        "Culture Seeker",
+        "City Wanderer"
+      ],
+      "itinerary_base_slug": "manila",
+      "catalog_stop_id": "manila-centro-turismo",
+      "status": "accepted",
+      "decision_reason": "Distinct physical visitor place with verified identity and actual city.",
+      "sources": {
+        "identity": {
+          "sourceName": "Intramuros Administration - Centro launch",
+          "sourceUrl": "https://intramuros.gov.ph/2024/06/09/intramuros-unveils-centro-de-turismo-a-gateway-to-the-past-present-and-future/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Intramuros Administration - Centro launch",
+          "sourceUrl": "https://intramuros.gov.ph/2024/06/09/intramuros-unveils-centro-de-turismo-a-gateway-to-the-past-present-and-future/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "manila-paco-park",
+      "name": "Paco Park",
+      "destination_group": "Manila",
+      "region": "National Capital Region",
+      "province": null,
+      "city_municipality": "Manila",
+      "barangay": null,
+      "address": "Belen Street, Paco",
+      "latitude": null,
+      "longitude": null,
+      "category": "Parks & markets",
+      "description": "A former cemetery preserved as a park.",
+      "interests": [
+        "Nature Lover",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "manila",
+      "catalog_stop_id": "manila-paco-park",
+      "status": "accepted",
+      "decision_reason": "Distinct physical visitor place with verified identity and actual city.",
+      "sources": {
+        "identity": {
+          "sourceName": "National Parks Development Committee - Paco Park",
+          "sourceUrl": "https://npdc.gov.ph/paco-park/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "National Parks Development Committee - Paco Park",
+          "sourceUrl": "https://npdc.gov.ph/paco-park/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "National Parks Development Committee - Paco Park",
+          "sourceUrl": "https://npdc.gov.ph/paco-park/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "manila-rizal-park",
+      "name": "Rizal Park",
+      "destination_group": "Manila",
+      "region": "National Capital Region",
+      "province": null,
+      "city_municipality": "Manila",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Parks & markets",
+      "description": "A national park and memorial landscape.",
+      "interests": [
+        "Nature Lover",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "manila",
+      "catalog_stop_id": null,
+      "status": "accepted",
+      "decision_reason": "Distinct physical visitor place with verified identity and actual city.",
+      "sources": {
+        "identity": {
+          "sourceName": "National Parks Development Committee - Rizal Park",
+          "sourceUrl": "https://npdc.gov.ph/rizal-park/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "National Parks Development Committee - Rizal Park",
+          "sourceUrl": "https://npdc.gov.ph/rizal-park/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "manila-ayala-museum",
+      "name": "Ayala Museum",
+      "destination_group": "Manila",
+      "region": "National Capital Region",
+      "province": null,
+      "city_municipality": "Makati City",
+      "barangay": null,
+      "address": "Makati Avenue corner De La Rosa Street, Greenbelt Park",
+      "latitude": null,
+      "longitude": null,
+      "category": "Culture",
+      "description": "A museum visit in Greenbelt Park.",
+      "interests": [
+        "Culture Seeker",
+        "City Wanderer"
+      ],
+      "itinerary_base_slug": null,
+      "catalog_stop_id": null,
+      "status": "accepted",
+      "decision_reason": "Distinct physical visitor place with verified identity and actual city.",
+      "sources": {
+        "identity": {
+          "sourceName": "Ayala Museum - visitor information",
+          "sourceUrl": "https://www.ayalamuseum.org/visit",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Ayala Museum - visitor information",
+          "sourceUrl": "https://www.ayalamuseum.org/visit",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "Ayala Museum - visitor information",
+          "sourceUrl": "https://www.ayalamuseum.org/visit",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "manila-yuchengco-museum",
+      "name": "Yuchengco Museum",
+      "destination_group": "Manila",
+      "region": "National Capital Region",
+      "province": null,
+      "city_municipality": "Makati City",
+      "barangay": null,
+      "address": "RCBC Plaza, Ayala corner Senator Gil J. Puyat Avenues",
+      "latitude": null,
+      "longitude": null,
+      "category": "Culture",
+      "description": "An art museum at RCBC Plaza.",
+      "interests": [
+        "Culture Seeker",
+        "City Wanderer"
+      ],
+      "itinerary_base_slug": null,
+      "catalog_stop_id": null,
+      "status": "accepted",
+      "decision_reason": "Distinct physical visitor place with verified identity and actual city.",
+      "sources": {
+        "identity": {
+          "sourceName": "Yuchengco Museum - visitor information",
+          "sourceUrl": "https://yuchengcomuseum.org/visit/visitor-information/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Yuchengco Museum - visitor information",
+          "sourceUrl": "https://yuchengcomuseum.org/visit/visitor-information/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "Yuchengco Museum - visitor information",
+          "sourceUrl": "https://yuchengcomuseum.org/visit/visitor-information/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "manila-pasig-city-museum",
+      "name": "Pasig City Museum",
+      "destination_group": "Manila",
+      "region": "National Capital Region",
+      "province": null,
+      "city_municipality": "Pasig City",
+      "barangay": "San Jose",
+      "address": "Plaza Rizal",
+      "latitude": null,
+      "longitude": null,
+      "category": "Culture",
+      "description": "City history in the former Concepcion Mansion.",
+      "interests": [
+        "Culture Seeker",
+        "City Wanderer"
+      ],
+      "itinerary_base_slug": null,
+      "catalog_stop_id": null,
+      "status": "accepted",
+      "decision_reason": "Distinct physical visitor place with verified identity and actual city.",
+      "sources": {
+        "identity": {
+          "sourceName": "Pasig City Government - museum visitor location",
+          "sourceUrl": "https://pasigcity.gov.ph/news-and-releases/free-guided-tour-sa-pasig-city-museum-991",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Pasig City Government - museum visitor location",
+          "sourceUrl": "https://pasigcity.gov.ph/news-and-releases/free-guided-tour-sa-pasig-city-museum-991",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "Pasig City Government - museum visitor location",
+          "sourceUrl": "https://pasigcity.gov.ph/news-and-releases/free-guided-tour-sa-pasig-city-museum-991",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "manila-museo-el-deposito",
+      "name": "Museo El Deposito",
+      "destination_group": "Manila",
+      "region": "National Capital Region",
+      "province": null,
+      "city_municipality": "San Juan City",
+      "barangay": null,
+      "address": "Pinaglabanan",
+      "latitude": null,
+      "longitude": null,
+      "category": "Culture",
+      "description": "A museum associated with historic water infrastructure.",
+      "interests": [
+        "Culture Seeker",
+        "City Wanderer"
+      ],
+      "itinerary_base_slug": null,
+      "catalog_stop_id": null,
+      "status": "accepted",
+      "decision_reason": "Distinct physical visitor place with verified identity and actual city.",
+      "sources": {
+        "identity": {
+          "sourceName": "NHCP - El Deposito registry",
+          "sourceUrl": "https://philhistoricsites.nhcp.gov.ph/registry_database/el-deposito/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "NHCP - El Deposito registry",
+          "sourceUrl": "https://philhistoricsites.nhcp.gov.ph/registry_database/el-deposito/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "NHCP - El Deposito registry",
+          "sourceUrl": "https://philhistoricsites.nhcp.gov.ph/registry_database/el-deposito/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "manila-museo-ng-katipunan",
+      "name": "Museo ng Katipunan",
+      "destination_group": "Manila",
+      "region": "National Capital Region",
+      "province": null,
+      "city_municipality": "San Juan City",
+      "barangay": null,
+      "address": "Pinaglabanan Road",
+      "latitude": null,
+      "longitude": null,
+      "category": "Culture",
+      "description": "A museum at the Pinaglabanan memorial site.",
+      "interests": [
+        "Culture Seeker",
+        "City Wanderer"
+      ],
+      "itinerary_base_slug": null,
+      "catalog_stop_id": null,
+      "status": "accepted",
+      "decision_reason": "Distinct physical visitor place with verified identity and actual city.",
+      "sources": {
+        "identity": {
+          "sourceName": "NHCP - Pinaglabanan Memorial Shrine registry",
+          "sourceUrl": "https://philhistoricsites.nhcp.gov.ph/registry_database/pang-alaalang-dambana-ng-pinaglabanan/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "NHCP - Pinaglabanan Memorial Shrine registry",
+          "sourceUrl": "https://philhistoricsites.nhcp.gov.ph/registry_database/pang-alaalang-dambana-ng-pinaglabanan/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "NHCP - Pinaglabanan Memorial Shrine registry",
+          "sourceUrl": "https://philhistoricsites.nhcp.gov.ph/registry_database/pang-alaalang-dambana-ng-pinaglabanan/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "manila-quezon-memorial-shrine",
+      "name": "Quezon Memorial Shrine",
+      "destination_group": "Manila",
+      "region": "National Capital Region",
+      "province": null,
+      "city_municipality": "Quezon City",
+      "barangay": "Central",
+      "address": "Quezon Memorial Circle, Elliptical Road, Diliman",
+      "latitude": null,
+      "longitude": null,
+      "category": "Culture",
+      "description": "A memorial and museum honoring Manuel Quezon.",
+      "interests": [
+        "Culture Seeker",
+        "City Wanderer"
+      ],
+      "itinerary_base_slug": null,
+      "catalog_stop_id": null,
+      "status": "accepted",
+      "decision_reason": "Distinct physical visitor place with verified identity and actual city.",
+      "sources": {
+        "identity": {
+          "sourceName": "Quezon City Government - Quezon Memorial Shrine",
+          "sourceUrl": "https://quezoncity.gov.ph/place/quezon-memorial-shrine-museo-ni-manuel-quezon/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Quezon City Government - Quezon Memorial Shrine",
+          "sourceUrl": "https://quezoncity.gov.ph/place/quezon-memorial-shrine-museo-ni-manuel-quezon/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "Quezon City Government - Quezon Memorial Shrine",
+          "sourceUrl": "https://quezoncity.gov.ph/place/quezon-memorial-shrine-museo-ni-manuel-quezon/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "manila-marikina-shoe-museum",
+      "name": "Marikina Shoe Museum",
+      "destination_group": "Manila",
+      "region": "National Capital Region",
+      "province": null,
+      "city_municipality": "Marikina City",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Culture",
+      "description": "A museum reflecting Marikina shoe heritage.",
+      "interests": [
+        "Culture Seeker",
+        "City Wanderer"
+      ],
+      "itinerary_base_slug": null,
+      "catalog_stop_id": null,
+      "status": "accepted",
+      "decision_reason": "Distinct physical visitor place with verified identity and actual city.",
+      "sources": {
+        "identity": {
+          "sourceName": "Marikina City Government - tourism ordinance",
+          "sourceUrl": "https://www.marikina.gov.ph/ordinance/ORDINANCE%20NO.%2065%20S.%202015.pdf",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Marikina City Government - tourism ordinance",
+          "sourceUrl": "https://www.marikina.gov.ph/ordinance/ORDINANCE%20NO.%2065%20S.%202015.pdf",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "manila-bamboo-organ",
+      "name": "Las Piñas Bamboo Organ",
+      "destination_group": "Manila",
+      "region": "National Capital Region",
+      "province": null,
+      "city_municipality": "Las Piñas City",
+      "barangay": "Daniel Fajardo",
+      "address": "P. Diego Cera Avenue",
+      "latitude": null,
+      "longitude": null,
+      "category": "Culture",
+      "description": "A historic organ at Saint Joseph Church.",
+      "interests": [
+        "Culture Seeker",
+        "City Wanderer"
+      ],
+      "itinerary_base_slug": null,
+      "catalog_stop_id": null,
+      "status": "accepted",
+      "decision_reason": "Distinct physical visitor place with verified identity and actual city.",
+      "sources": {
+        "identity": {
+          "sourceName": "Las Pinas City Government - Bamboo Organ",
+          "sourceUrl": "https://laspinascity.gov.ph/lifestyle/18/index",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Las Pinas City Government - Bamboo Organ",
+          "sourceUrl": "https://laspinascity.gov.ph/lifestyle/18/index",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "Las Pinas City Government - Bamboo Organ",
+          "sourceUrl": "https://laspinascity.gov.ph/lifestyle/18/index",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "manila-mind-museum",
+      "name": "The Mind Museum",
+      "destination_group": "Manila",
+      "region": "National Capital Region",
+      "province": null,
+      "city_municipality": "Taguig City",
+      "barangay": null,
+      "address": "JY Campos Park, 3rd Avenue, Bonifacio Global City",
+      "latitude": null,
+      "longitude": null,
+      "category": "Attractions",
+      "description": "An interactive science museum.",
+      "interests": [
+        "Nature Lover",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": null,
+      "catalog_stop_id": null,
+      "status": "accepted",
+      "decision_reason": "Distinct physical visitor place with verified identity and actual city.",
+      "sources": {
+        "identity": {
+          "sourceName": "The Mind Museum - visitor directions",
+          "sourceUrl": "https://www.themindmuseum.org/visit-us/plan-your-visit",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "The Mind Museum - visitor directions",
+          "sourceUrl": "https://www.themindmuseum.org/visit-us/plan-your-visit",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "The Mind Museum - visitor directions",
+          "sourceUrl": "https://www.themindmuseum.org/visit-us/plan-your-visit",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "manila-art-in-island",
+      "name": "Art in Island",
+      "destination_group": "Manila",
+      "region": "National Capital Region",
+      "province": null,
+      "city_municipality": "Quezon City",
+      "barangay": "Socorro",
+      "address": "175 15th Avenue, Cubao",
+      "latitude": null,
+      "longitude": null,
+      "category": "Attractions",
+      "description": "An interactive multimedia art venue.",
+      "interests": [
+        "Nature Lover",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": null,
+      "catalog_stop_id": null,
+      "status": "accepted",
+      "decision_reason": "Distinct physical visitor place with verified identity and actual city.",
+      "sources": {
+        "identity": {
+          "sourceName": "Quezon City Public Library - Art in Island",
+          "sourceUrl": "https://qcpl.quezoncity.gov.ph/article/p0dpurpscoqaz4agdffagnq5",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Quezon City Public Library - Art in Island",
+          "sourceUrl": "https://qcpl.quezoncity.gov.ph/article/p0dpurpscoqaz4agdffagnq5",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "Quezon City Public Library - Art in Island",
+          "sourceUrl": "https://qcpl.quezoncity.gov.ph/article/p0dpurpscoqaz4agdffagnq5",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "manila-museo-intramuros",
+      "name": "Museo de Intramuros",
+      "destination_group": "Manila",
+      "region": "National Capital Region",
+      "province": null,
+      "city_municipality": "Manila",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Culture",
+      "description": "A museum of religious material culture.",
+      "interests": [
+        "Culture Seeker",
+        "City Wanderer"
+      ],
+      "itinerary_base_slug": "manila",
+      "catalog_stop_id": "manila-museo-intramuros",
+      "status": "rejected",
+      "decision_reason": "Real venue omitted from the 20-place selection to broaden coverage across the actual cities of Metro Manila.",
+      "sources": {
+        "identity": {
+          "sourceName": "Intramuros Administration - sites",
+          "sourceUrl": "https://intramuros.gov.ph/sites/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Intramuros Administration - sites",
+          "sourceUrl": "https://intramuros.gov.ph/sites/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "manila-destileria-limtuaco",
+      "name": "Destileria Limtuaco Museum",
+      "destination_group": "Manila",
+      "region": "National Capital Region",
+      "province": null,
+      "city_municipality": "Manila",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Culture",
+      "description": "An Intramuros museum visit.",
+      "interests": [
+        "Culture Seeker",
+        "City Wanderer"
+      ],
+      "itinerary_base_slug": "manila",
+      "catalog_stop_id": "manila-destileria-limtuaco",
+      "status": "rejected",
+      "decision_reason": "Real venue omitted from the 20-place selection to broaden coverage across the actual cities of Metro Manila.",
+      "sources": {
+        "identity": {
+          "sourceName": "Intramuros Administration - sites",
+          "sourceUrl": "https://intramuros.gov.ph/sites/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Intramuros Administration - sites",
+          "sourceUrl": "https://intramuros.gov.ph/sites/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "manila-bahay-tsinoy",
+      "name": "Bahay Tsinoy",
+      "destination_group": "Manila",
+      "region": "National Capital Region",
+      "province": null,
+      "city_municipality": "Manila",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Culture",
+      "description": "An Intramuros museum visit.",
+      "interests": [
+        "Culture Seeker",
+        "City Wanderer"
+      ],
+      "itinerary_base_slug": "manila",
+      "catalog_stop_id": "manila-bahay-tsinoy",
+      "status": "rejected",
+      "decision_reason": "Real venue omitted from the 20-place selection to broaden coverage across the actual cities of Metro Manila.",
+      "sources": {
+        "identity": {
+          "sourceName": "Intramuros Administration - sites",
+          "sourceUrl": "https://intramuros.gov.ph/sites/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Intramuros Administration - sites",
+          "sourceUrl": "https://intramuros.gov.ph/sites/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    }
+  ]
+}

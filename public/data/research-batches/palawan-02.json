@@ -1,0 +1,1227 @@
+{
+  "destination": "Palawan",
+  "batch": 2,
+  "kind": "Export snapshot of reviewed candidate batch",
+  "entries": [
+    {
+      "id": "coron-lualhati-park",
+      "name": "Lualhati Park",
+      "destination_group": "Palawan",
+      "region": "MIMAROPA",
+      "province": "Palawan",
+      "city_municipality": "Coron",
+      "barangay": "Poblacion 2",
+      "address": null,
+      "latitude": 11.995877,
+      "longitude": 120.201856,
+      "category": "Parks & markets",
+      "description": "Public waterfront park in Coron town.",
+      "interests": [
+        "Nature Lover"
+      ],
+      "itinerary_base_slug": "coron",
+      "catalog_stop_id": "coron-lualhati-park",
+      "status": "accepted",
+      "decision_reason": "Distinct place and actual municipality verified; inclusion does not establish current access.",
+      "sources": {
+        "identity": {
+          "sourceName": "Municipality of Coron — 2022 accomplishments, Lualhati Park",
+          "sourceUrl": "https://coron.gov.ph/wp-content/uploads/2024/10/Accomplishment-Report-CY-2022.pdf",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Municipality of Coron — 2022 accomplishments, Lualhati Park",
+          "sourceUrl": "https://coron.gov.ph/wp-content/uploads/2024/10/Accomplishment-Report-CY-2022.pdf",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "Municipality of Coron — 2022 accomplishments, Lualhati Park",
+          "sourceUrl": "https://coron.gov.ph/wp-content/uploads/2024/10/Accomplishment-Report-CY-2022.pdf",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": "Lakad Pilipinas — Coron guide, approximate park pin",
+          "sourceUrl": "https://www.lakadpilipinas.com/2014/07/coron-itinerary-travel-guide.html",
+          "dateChecked": "2026-10-19",
+          "status": "estimate"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "coron-mount-tapyas",
+      "name": "Mount Tapyas",
+      "destination_group": "Palawan",
+      "region": "MIMAROPA",
+      "province": "Palawan",
+      "city_municipality": "Coron",
+      "barangay": null,
+      "address": null,
+      "latitude": 12.000917,
+      "longitude": 120.203667,
+      "category": "Nature",
+      "description": "Hill viewpoint above Coron town.",
+      "interests": [
+        "Nature Lover"
+      ],
+      "itinerary_base_slug": "coron",
+      "catalog_stop_id": "coron-mount-tapyas",
+      "status": "accepted",
+      "decision_reason": "Distinct place and actual municipality verified; inclusion does not establish current access.",
+      "sources": {
+        "identity": {
+          "sourceName": "Tourism Promotions Board — Coron town landmarks",
+          "sourceUrl": "https://www.tpb.gov.ph/wp-content/uploads/2025/08/PBD_PR-No.-2025.07.049_taiwan-agent_ipd-1.pdf",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Tourism Promotions Board — Coron town landmarks",
+          "sourceUrl": "https://www.tpb.gov.ph/wp-content/uploads/2025/08/PBD_PR-No.-2025.07.049_taiwan-agent_ipd-1.pdf",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": "Lakad Pilipinas — Coron guide, approximate viewpoint pin",
+          "sourceUrl": "https://www.lakadpilipinas.com/2014/07/coron-itinerary-travel-guide.html",
+          "dateChecked": "2026-10-19",
+          "status": "estimate"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "coron-maquinit-hot-springs",
+      "name": "Maquinit Hot Springs",
+      "destination_group": "Palawan",
+      "region": "MIMAROPA",
+      "province": "Palawan",
+      "city_municipality": "Coron",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Nature",
+      "description": "Hot-spring destination outside Coron town.",
+      "interests": [
+        "Nature Lover",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "coron",
+      "catalog_stop_id": "coron-maquinit-hot-springs",
+      "status": "accepted",
+      "decision_reason": "Distinct place and actual municipality verified; inclusion does not establish current access.",
+      "sources": {
+        "identity": {
+          "sourceName": "Department of Tourism — Coron",
+          "sourceUrl": "https://www.tourism.gov.ph/destination/mimaropa/coron/",
+          "dateChecked": "2026-10-19",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Tourism Promotions Board — Coron town landmarks",
+          "sourceUrl": "https://www.tpb.gov.ph/wp-content/uploads/2025/08/PBD_PR-No.-2025.07.049_taiwan-agent_ipd-1.pdf",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "coron-saint-augustine-parish",
+      "name": "Saint Augustine Parish Church",
+      "destination_group": "Palawan",
+      "region": "MIMAROPA",
+      "province": "Palawan",
+      "city_municipality": "Coron",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Culture",
+      "description": "Parish church included in town tours.",
+      "interests": [
+        "Culture Seeker",
+        "City Wanderer"
+      ],
+      "itinerary_base_slug": "coron",
+      "catalog_stop_id": "coron-saint-augustine-parish",
+      "status": "accepted",
+      "decision_reason": "Distinct place and actual municipality verified; inclusion does not establish current access.",
+      "sources": {
+        "identity": {
+          "sourceName": "I Capture Travel — Coron tour routes",
+          "sourceUrl": "https://www.corontravel.com/coron",
+          "dateChecked": "2026-10-19",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Tourism Promotions Board — Coron town landmarks",
+          "sourceUrl": "https://www.tpb.gov.ph/wp-content/uploads/2025/08/PBD_PR-No.-2025.07.049_taiwan-agent_ipd-1.pdf",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "coron-kayangan-lake",
+      "name": "Kayangan Lake",
+      "destination_group": "Palawan",
+      "region": "MIMAROPA",
+      "province": "Palawan",
+      "city_municipality": "Coron",
+      "barangay": null,
+      "address": null,
+      "latitude": 11.9541,
+      "longitude": 120.2243,
+      "category": "Nature",
+      "description": "Lake on an operator-listed boat route.",
+      "interests": [
+        "Nature Lover",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "coron",
+      "catalog_stop_id": "coron-kayangan-lake",
+      "status": "accepted",
+      "decision_reason": "Distinct place and actual municipality verified; inclusion does not establish current access.",
+      "sources": {
+        "identity": {
+          "sourceName": "I Capture Travel — Coron tour routes",
+          "sourceUrl": "https://www.corontravel.com/coron",
+          "dateChecked": "2026-10-19",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Philippine CHM / Biodiversity Management Bureau — inland wetlands by municipality",
+          "sourceUrl": "https://www.philchm.ph/wp-content/uploads/2019/03/inland-wetlands-as-of-1st-qtr-2019.pdf",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": "Wikipedia — Kayangan Lake reference coordinates",
+          "sourceUrl": "https://en.wikipedia.org/wiki/Kayangan_Lake",
+          "dateChecked": "2026-10-19",
+          "status": "estimate"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "coron-barracuda-lake",
+      "name": "Barracuda Lake",
+      "destination_group": "Palawan",
+      "region": "MIMAROPA",
+      "province": "Palawan",
+      "city_municipality": "Coron",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Nature",
+      "description": "Lake on an operator-listed boat route.",
+      "interests": [
+        "Nature Lover",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "coron",
+      "catalog_stop_id": "coron-barracuda-lake",
+      "status": "accepted",
+      "decision_reason": "Distinct place and actual municipality verified; inclusion does not establish current access.",
+      "sources": {
+        "identity": {
+          "sourceName": "I Capture Travel — Coron tour routes",
+          "sourceUrl": "https://www.corontravel.com/coron",
+          "dateChecked": "2026-10-19",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Philippine CHM / Biodiversity Management Bureau — inland wetlands by municipality",
+          "sourceUrl": "https://www.philchm.ph/wp-content/uploads/2019/03/inland-wetlands-as-of-1st-qtr-2019.pdf",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "coron-twin-lagoon",
+      "name": "Twin Lagoon",
+      "destination_group": "Palawan",
+      "region": "MIMAROPA",
+      "province": "Palawan",
+      "city_municipality": "Coron",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Nature",
+      "description": "Lagoon on an operator-listed boat route.",
+      "interests": [
+        "Nature Lover",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "coron",
+      "catalog_stop_id": "coron-twin-lagoon",
+      "status": "accepted",
+      "decision_reason": "Distinct place and actual municipality verified; inclusion does not establish current access.",
+      "sources": {
+        "identity": {
+          "sourceName": "I Capture Travel — Coron tour routes",
+          "sourceUrl": "https://www.corontravel.com/coron",
+          "dateChecked": "2026-10-19",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Wikipedia — Coron Island municipality and Twin Lagoon",
+          "sourceUrl": "https://en.wikipedia.org/wiki/Coron_Island",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "palawan-san-vicente-long-beach",
+      "name": "Long Beach",
+      "destination_group": "Palawan",
+      "region": "MIMAROPA",
+      "province": "Palawan",
+      "city_municipality": "San Vicente",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Nature",
+      "description": "Long mainland shoreline across several San Vicente barangays.",
+      "interests": [
+        "Nature Lover"
+      ],
+      "itinerary_base_slug": null,
+      "catalog_stop_id": null,
+      "status": "accepted",
+      "decision_reason": "Distinct place and actual municipality verified; inclusion does not establish current access.",
+      "sources": {
+        "identity": {
+          "sourceName": "Municipal Government of San Vicente — local history and tourism places",
+          "sourceUrl": "https://sanvicentepalawan.gov.ph/wp-content/uploads/2026/03/San-Vicente-Kasaysayang-Lokal_Final-Edited.pdf",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Municipal Government of San Vicente — local history and tourism places",
+          "sourceUrl": "https://sanvicentepalawan.gov.ph/wp-content/uploads/2026/03/San-Vicente-Kasaysayang-Lokal_Final-Edited.pdf",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "palawan-port-barton-beach",
+      "name": "Port Barton Beach",
+      "destination_group": "Palawan",
+      "region": "MIMAROPA",
+      "province": "Palawan",
+      "city_municipality": "San Vicente",
+      "barangay": "Port Barton",
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Nature",
+      "description": "Beach at the coastal settlement of Port Barton.",
+      "interests": [
+        "Nature Lover"
+      ],
+      "itinerary_base_slug": null,
+      "catalog_stop_id": null,
+      "status": "accepted",
+      "decision_reason": "Distinct place and actual municipality verified; inclusion does not establish current access.",
+      "sources": {
+        "identity": {
+          "sourceName": "Municipal Government of San Vicente — local history and tourism places",
+          "sourceUrl": "https://sanvicentepalawan.gov.ph/wp-content/uploads/2026/03/San-Vicente-Kasaysayang-Lokal_Final-Edited.pdf",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Municipal Government of San Vicente — local history and tourism places",
+          "sourceUrl": "https://sanvicentepalawan.gov.ph/wp-content/uploads/2026/03/San-Vicente-Kasaysayang-Lokal_Final-Edited.pdf",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "Municipal Government of San Vicente — local history and tourism places",
+          "sourceUrl": "https://sanvicentepalawan.gov.ph/wp-content/uploads/2026/03/San-Vicente-Kasaysayang-Lokal_Final-Edited.pdf",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "palawan-fort-santa-isabel",
+      "name": "Fort Santa Isabel",
+      "destination_group": "Palawan",
+      "region": "MIMAROPA",
+      "province": "Palawan",
+      "city_municipality": "Taytay",
+      "barangay": "Poblacion",
+      "address": "Rizal Street, Poblacion, Taytay, Palawan",
+      "latitude": null,
+      "longitude": null,
+      "category": "Culture",
+      "description": "Historic coastal fort in Taytay.",
+      "interests": [
+        "Culture Seeker"
+      ],
+      "itinerary_base_slug": null,
+      "catalog_stop_id": null,
+      "status": "accepted",
+      "decision_reason": "Distinct place and actual municipality verified; inclusion does not establish current access.",
+      "sources": {
+        "identity": {
+          "sourceName": "National Historical Commission — Kutang Santa Isabel registry",
+          "sourceUrl": "https://philhistoricsites.nhcp.gov.ph/registry_database/kutang-santa-isabel/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "National Historical Commission — Kutang Santa Isabel registry",
+          "sourceUrl": "https://philhistoricsites.nhcp.gov.ph/registry_database/kutang-santa-isabel/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "National Historical Commission — Kutang Santa Isabel registry",
+          "sourceUrl": "https://philhistoricsites.nhcp.gov.ph/registry_database/kutang-santa-isabel/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "el-nido-cathedral-cave",
+      "name": "Cathedral Cave",
+      "destination_group": "Palawan",
+      "region": "MIMAROPA",
+      "province": "Palawan",
+      "city_municipality": "El Nido",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Nature",
+      "description": "Cave listed in El Nido’s municipal attraction inventory.",
+      "interests": [
+        "Nature Lover",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "el-nido",
+      "catalog_stop_id": "el-nido-cathedral-cave",
+      "status": "rejected",
+      "decision_reason": "Verified physical place; editorial surplus outside the initial 200-place selection. Retained as a future expansion candidate, without a current access or availability claim.",
+      "sources": {
+        "identity": {
+          "sourceName": "PCSD — El Nido municipal tourism inventory",
+          "sourceUrl": "https://pkp-new.pcsd.gov.ph/wp-content/uploads/2021/02/El-Nido-Planred.pdf",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "PCSD — El Nido municipal tourism inventory",
+          "sourceUrl": "https://pkp-new.pcsd.gov.ph/wp-content/uploads/2021/02/El-Nido-Planred.pdf",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "el-nido-entalula-beach",
+      "name": "Entalula Beach",
+      "destination_group": "Palawan",
+      "region": "MIMAROPA",
+      "province": "Palawan",
+      "city_municipality": "El Nido",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Nature",
+      "description": "Beach on Entalula Island in El Nido.",
+      "interests": [
+        "Beach Bum",
+        "Nature Lover"
+      ],
+      "itinerary_base_slug": "el-nido",
+      "catalog_stop_id": "el-nido-entalula-beach",
+      "status": "rejected",
+      "decision_reason": "Verified physical place; editorial surplus outside the initial 200-place selection. Retained as a future expansion candidate, without a current access or availability claim.",
+      "sources": {
+        "identity": {
+          "sourceName": "Tourism Promotions Board — El Nido destination itinerary",
+          "sourceUrl": "https://www.tpb.gov.ph/wp-content/uploads/2022/03/TPB-RFQ-2022-03-071-Descriptive-Itinerary-El-Nido.pdf",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Tourism Promotions Board — El Nido destination itinerary",
+          "sourceUrl": "https://www.tpb.gov.ph/wp-content/uploads/2022/03/TPB-RFQ-2022-03-071-Descriptive-Itinerary-El-Nido.pdf",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "el-nido-hidden-beach",
+      "name": "Hidden Beach",
+      "destination_group": "Palawan",
+      "region": "MIMAROPA",
+      "province": "Palawan",
+      "city_municipality": "El Nido",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Nature",
+      "description": "Named offshore beach on El Nido’s island-hopping place list.",
+      "interests": [
+        "Beach Bum",
+        "Nature Lover"
+      ],
+      "itinerary_base_slug": "el-nido",
+      "catalog_stop_id": "el-nido-hidden-beach",
+      "status": "rejected",
+      "decision_reason": "Verified physical place; editorial surplus outside the initial 200-place selection. Retained as a future expansion candidate, without a current access or availability claim.",
+      "sources": {
+        "identity": {
+          "sourceName": "Municipal Government of El Nido — Talindak island-hopping place list",
+          "sourceUrl": "https://talindak.wordpress.com/page/2/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Municipal Government of El Nido — Talindak island-hopping place list",
+          "sourceUrl": "https://talindak.wordpress.com/page/2/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "el-nido-secret-beach",
+      "name": "Secret Beach",
+      "destination_group": "Palawan",
+      "region": "MIMAROPA",
+      "province": "Palawan",
+      "city_municipality": "El Nido",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Nature",
+      "description": "Named offshore beach listed by El Nido’s municipal publication.",
+      "interests": [
+        "Beach Bum",
+        "Nature Lover"
+      ],
+      "itinerary_base_slug": "el-nido",
+      "catalog_stop_id": "el-nido-secret-beach",
+      "status": "rejected",
+      "decision_reason": "Verified physical place; editorial surplus outside the initial 200-place selection. Retained as a future expansion candidate, without a current access or availability claim.",
+      "sources": {
+        "identity": {
+          "sourceName": "Municipal Government of El Nido — Talindak island-hopping place list",
+          "sourceUrl": "https://talindak.wordpress.com/page/2/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Municipal Government of El Nido — Talindak island-hopping place list",
+          "sourceUrl": "https://talindak.wordpress.com/page/2/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "el-nido-helicopter-island",
+      "name": "Helicopter Island",
+      "destination_group": "Palawan",
+      "region": "MIMAROPA",
+      "province": "Palawan",
+      "city_municipality": "El Nido",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Nature",
+      "description": "Island identified in El Nido’s municipal tourism routes.",
+      "interests": [
+        "Nature Lover",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "el-nido",
+      "catalog_stop_id": "el-nido-helicopter-island",
+      "status": "rejected",
+      "decision_reason": "Verified physical place; editorial surplus outside the initial 200-place selection. Retained as a future expansion candidate, without a current access or availability claim.",
+      "sources": {
+        "identity": {
+          "sourceName": "Municipal Government of El Nido — Talindak island-hopping place list",
+          "sourceUrl": "https://talindak.wordpress.com/page/2/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Municipal Government of El Nido — Talindak island-hopping place list",
+          "sourceUrl": "https://talindak.wordpress.com/page/2/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "el-nido-nagkalit-kalit-falls",
+      "name": "Nagkalit-kalit Falls",
+      "destination_group": "Palawan",
+      "region": "MIMAROPA",
+      "province": "Palawan",
+      "city_municipality": "El Nido",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Nature",
+      "description": "Inland waterfall identified in El Nido’s tourism inventory.",
+      "interests": [
+        "Adventure Junkie",
+        "Nature Lover"
+      ],
+      "itinerary_base_slug": "el-nido",
+      "catalog_stop_id": "el-nido-nagkalit-kalit-falls",
+      "status": "rejected",
+      "decision_reason": "Verified physical place; editorial surplus outside the initial 200-place selection. Retained as a future expansion candidate, without a current access or availability claim.",
+      "sources": {
+        "identity": {
+          "sourceName": "PCSD — El Nido municipal tourism inventory",
+          "sourceUrl": "https://pkp-new.pcsd.gov.ph/wp-content/uploads/2021/02/El-Nido-Planred.pdf",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "PCSD — El Nido municipal tourism inventory",
+          "sourceUrl": "https://pkp-new.pcsd.gov.ph/wp-content/uploads/2021/02/El-Nido-Planred.pdf",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "puerto-princesa-iwahig-firefly-watching",
+      "name": "Iwahig River — community firefly site",
+      "destination_group": "Palawan",
+      "region": "MIMAROPA",
+      "province": "Palawan",
+      "city_municipality": "Puerto Princesa City",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Nature",
+      "description": "Riverbank site used by the Iwahig community’s firefly tourism program.",
+      "interests": [
+        "Nature Lover",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "puerto-princesa",
+      "catalog_stop_id": "puerto-princesa-iwahig-firefly-watching",
+      "status": "rejected",
+      "decision_reason": "Verified physical place; editorial surplus outside the initial 200-place selection. Retained as a future expansion candidate, without a current access or availability claim.",
+      "sources": {
+        "identity": {
+          "sourceName": "Puerto Princesa City Tourism — community tourism destinations",
+          "sourceUrl": "https://citytourism.puertoprincesa.ph/cbst-destinations/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Puerto Princesa City Tourism — community tourism destinations",
+          "sourceUrl": "https://citytourism.puertoprincesa.ph/cbst-destinations/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "puerto-princesa-ugong-rock",
+      "name": "Ugong Rock",
+      "destination_group": "Palawan",
+      "region": "MIMAROPA",
+      "province": "Palawan",
+      "city_municipality": "Puerto Princesa City",
+      "barangay": "Tagabinet",
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Nature",
+      "description": "Rock formation in Barangay Tagabinet listed by city tourism.",
+      "interests": [
+        "Adventure Junkie",
+        "Nature Lover"
+      ],
+      "itinerary_base_slug": "puerto-princesa",
+      "catalog_stop_id": "puerto-princesa-ugong-rock",
+      "status": "rejected",
+      "decision_reason": "Verified physical place; editorial surplus outside the initial 200-place selection. Retained as a future expansion candidate, without a current access or availability claim.",
+      "sources": {
+        "identity": {
+          "sourceName": "Puerto Princesa City Tourism — community tourism destinations",
+          "sourceUrl": "https://citytourism.puertoprincesa.ph/cbst-destinations/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Puerto Princesa City Tourism — community tourism destinations",
+          "sourceUrl": "https://citytourism.puertoprincesa.ph/cbst-destinations/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "puerto-princesa-buenavista-viewdeck",
+      "name": "Buenavista Viewdeck",
+      "destination_group": "Palawan",
+      "region": "MIMAROPA",
+      "province": "Palawan",
+      "city_municipality": "Puerto Princesa City",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Nature",
+      "description": "City tourism viewpoint overlooking Ulugan Bay.",
+      "interests": [
+        "Nature Lover",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "puerto-princesa",
+      "catalog_stop_id": "puerto-princesa-buenavista-viewdeck",
+      "status": "rejected",
+      "decision_reason": "Verified physical place; editorial surplus outside the initial 200-place selection. Retained as a future expansion candidate, without a current access or availability claim.",
+      "sources": {
+        "identity": {
+          "sourceName": "Puerto Princesa City Tourism — community tourism destinations",
+          "sourceUrl": "https://citytourism.puertoprincesa.ph/cbst-destinations/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Puerto Princesa City Tourism — community tourism destinations",
+          "sourceUrl": "https://citytourism.puertoprincesa.ph/cbst-destinations/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "coron-cyc-beach",
+      "name": "CYC Beach",
+      "destination_group": "Palawan",
+      "region": "MIMAROPA",
+      "province": "Palawan",
+      "city_municipality": "Coron",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Nature",
+      "description": "Beach identified in official Coron tourism and marine-park inventories.",
+      "interests": [
+        "Beach Bum",
+        "Nature Lover"
+      ],
+      "itinerary_base_slug": "coron",
+      "catalog_stop_id": "coron-cyc-beach",
+      "status": "rejected",
+      "decision_reason": "Verified physical place; editorial surplus outside the initial 200-place selection. Retained as a future expansion candidate, without a current access or availability claim.",
+      "sources": {
+        "identity": {
+          "sourceName": "Tourism Promotions Board — Coron destination itinerary",
+          "sourceUrl": "https://www.tpb.gov.ph/wp-content/uploads/2024/11/Annex-A_Technical-Specifications_Itinerary_FamTrip-US-and-Canada.pdf",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "PCSD — State of the Environment 2015, Coron marine parks",
+          "sourceUrl": "https://pcsd.gov.ph/wp-content/uploads/2020/12/State-of-the-Environment-SOE-2015-1.pdf",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "coron-skeleton-wreck",
+      "name": "Skeleton Wreck",
+      "destination_group": "Palawan",
+      "region": "MIMAROPA",
+      "province": "Palawan",
+      "city_municipality": "Coron",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Attractions",
+      "description": "Wreck site listed in Coron’s municipal attraction inventory.",
+      "interests": [
+        "Adventure Junkie",
+        "Nature Lover"
+      ],
+      "itinerary_base_slug": "coron",
+      "catalog_stop_id": "coron-skeleton-wreck",
+      "status": "rejected",
+      "decision_reason": "Verified physical place; editorial surplus outside the initial 200-place selection. Retained as a future expansion candidate, without a current access or availability claim.",
+      "sources": {
+        "identity": {
+          "sourceName": "PCSD / Municipality of Coron — ECAN Resource Management Plan",
+          "sourceUrl": "https://pcsd.gov.ph/wp-content/uploads/2020/12/06.-Coron-ECAN-Resource-Management-Plan.pdf",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "PCSD / Municipality of Coron — ECAN Resource Management Plan",
+          "sourceUrl": "https://pcsd.gov.ph/wp-content/uploads/2020/12/06.-Coron-ECAN-Resource-Management-Plan.pdf",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "puerto-princesa-bakers-hill",
+      "name": "Baker’s Hill",
+      "destination_group": "Palawan",
+      "region": "MIMAROPA",
+      "province": "Palawan",
+      "city_municipality": "Puerto Princesa City",
+      "barangay": "Santa Monica",
+      "address": "Mitra Road, Barangay Santa Monica, Puerto Princesa City, Palawan 5300",
+      "latitude": null,
+      "longitude": null,
+      "category": "Food & drink",
+      "description": "Bakery and landscaped visitor grounds on Mitra Road.",
+      "interests": [
+        "Food Hunter",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": null,
+      "catalog_stop_id": null,
+      "status": "rejected",
+      "decision_reason": "Verified physical place; editorial surplus outside the initial 200-place selection. Retained as a future expansion candidate, without a current access or availability claim.",
+      "sources": {
+        "identity": {
+          "sourceName": "Puerto Princesa City Tourism — Baker’s Hill",
+          "sourceUrl": "https://citytourism.puertoprincesa.ph/bakers-hill/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Puerto Princesa City Tourism — Baker’s Hill",
+          "sourceUrl": "https://citytourism.puertoprincesa.ph/bakers-hill/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "Puerto Princesa City Tourism — Baker’s Hill",
+          "sourceUrl": "https://citytourism.puertoprincesa.ph/bakers-hill/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "puerto-princesa-balayong-peoples-park",
+      "name": "Balayong People’s Park",
+      "destination_group": "Palawan",
+      "region": "MIMAROPA",
+      "province": "Palawan",
+      "city_municipality": "Puerto Princesa City",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Parks & markets",
+      "description": "Public recreational and cultural park in Puerto Princesa City.",
+      "interests": [
+        "Slow Traveler",
+        "Nature Lover"
+      ],
+      "itinerary_base_slug": null,
+      "catalog_stop_id": null,
+      "status": "rejected",
+      "decision_reason": "Verified physical place; editorial surplus outside the initial 200-place selection. Retained as a future expansion candidate, without a current access or availability claim.",
+      "sources": {
+        "identity": {
+          "sourceName": "City Government of Puerto Princesa — Balayong Park",
+          "sourceUrl": "https://puertoprincesa.ph/balayong-park/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "City Government of Puerto Princesa — Balayong Park",
+          "sourceUrl": "https://puertoprincesa.ph/balayong-park/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "coron-malcapuya-island",
+      "name": "Malcapuya Island",
+      "destination_group": "Palawan",
+      "region": "MIMAROPA",
+      "province": "Palawan",
+      "city_municipality": null,
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Nature",
+      "description": "Island on an Island Escapade route.",
+      "interests": [
+        "Beach Bum",
+        "Nature Lover"
+      ],
+      "itinerary_base_slug": null,
+      "catalog_stop_id": "coron-malcapuya-island",
+      "status": "unresolved",
+      "decision_reason": "Identity established, but reviewed official documents conflict or describe disputed jurisdiction between Coron and Culion. Tour departure town is not proof of administration.",
+      "sources": {
+        "identity": {
+          "sourceName": "I Capture Travel — Coron tour routes",
+          "sourceUrl": "https://www.corontravel.com/coron",
+          "dateChecked": "2026-10-19",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "coron-banana-island",
+      "name": "Banana Island",
+      "destination_group": "Palawan",
+      "region": "MIMAROPA",
+      "province": "Palawan",
+      "city_municipality": null,
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Nature",
+      "description": "Island on the C2 excursion route.",
+      "interests": [
+        "Beach Bum",
+        "Nature Lover"
+      ],
+      "itinerary_base_slug": null,
+      "catalog_stop_id": "coron-banana-island",
+      "status": "unresolved",
+      "decision_reason": "Identity established in an operator's island route, but an adequately supported actual municipality was not established. A Coron departure does not establish jurisdiction.",
+      "sources": {
+        "identity": {
+          "sourceName": "I Capture Travel — Coron tour routes",
+          "sourceUrl": "https://www.corontravel.com/coron",
+          "dateChecked": "2026-10-19",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    }
+  ]
+}

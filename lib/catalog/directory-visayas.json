@@ -2103,37 +2103,37 @@
     "reviewed_on": "2026-10-21"
   },
   {
-    "id": "bohol-panglao-local-lunch",
-    "name": "Panglao local lunch",
+    "id": "bohol-baclayon-parish-museum",
+    "name": "Museo Parroquial de Baclayon",
     "destination_group": "Bohol",
     "region": "Central Visayas",
     "province": "Bohol",
-    "city_municipality": null,
+    "city_municipality": "Baclayon",
     "barangay": null,
     "address": null,
     "latitude": null,
     "longitude": null,
-    "category": "Food & drink",
-    "description": "Legacy flexible meal slot without a named venue.",
+    "category": "Culture",
+    "description": "A parish museum associated with Baclayon's heritage church.",
     "interests": [
-      "Food Hunter"
+      "Culture Seeker"
     ],
     "itinerary_base_slug": null,
     "catalog_stop_id": null,
     "status": "rejected",
-    "decision_reason": "Generic meal slot; not a distinct physical venue. Kept as a reviewed exclusion.",
+    "decision_reason": "Physical identity and municipality confirmed; editorial surplus outside the agreed initial selection. Retained as a genuine researched place candidate, not a claim that the venue is unsuitable.",
     "sources": {
       "identity": {
-        "sourceName": null,
-        "sourceUrl": null,
-        "dateChecked": null,
-        "status": "unverified"
+        "sourceName": "Municipality of Baclayon - parish museum",
+        "sourceUrl": "https://baclayon.bohol.gov.ph/museo-parroquial-de-baclayon/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
       },
       "municipality": {
-        "sourceName": null,
-        "sourceUrl": null,
-        "dateChecked": null,
-        "status": "unverified"
+        "sourceName": "Municipality of Baclayon - parish museum",
+        "sourceUrl": "https://baclayon.bohol.gov.ph/museo-parroquial-de-baclayon/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
       },
       "address": {
         "sourceName": null,
@@ -2151,8 +2151,8 @@
     "reviewed_on": "2026-10-21"
   },
   {
-    "id": "bohol-loboc-river-cruise",
-    "name": "Loboc River cruise",
+    "id": "bohol-loboc-eco-adventure-park",
+    "name": "Loboc Eco-Tourism Adventure Park",
     "destination_group": "Bohol",
     "region": "Central Visayas",
     "province": "Bohol",
@@ -2162,24 +2162,24 @@
     "latitude": null,
     "longitude": null,
     "category": "Attractions",
-    "description": "An operator-dependent river-cruise activity.",
+    "description": "An outdoor adventure park in Loboc.",
     "interests": [
       "Nature Lover",
-      "Slow Traveler"
+      "City Wanderer"
     ],
     "itinerary_base_slug": null,
     "catalog_stop_id": null,
     "status": "rejected",
-    "decision_reason": "A cruise activity/package, not a uniquely identified physical venue.",
+    "decision_reason": "Physical identity and municipality confirmed; editorial surplus outside the agreed initial selection. Retained as a genuine researched place candidate, not a claim that the venue is unsuitable.",
     "sources": {
       "identity": {
-        "sourceName": "Bohol Provincial Tourism Office — Loboc",
+        "sourceName": "Bohol Provincial Tourism Office - Loboc",
         "sourceUrl": "https://tourism.bohol.gov.ph/visitbohol-loboc/",
         "dateChecked": "2026-10-21",
         "status": "verified"
       },
       "municipality": {
-        "sourceName": "Bohol Provincial Tourism Office — Loboc",
+        "sourceName": "Bohol Provincial Tourism Office - Loboc",
         "sourceUrl": "https://tourism.bohol.gov.ph/visitbohol-loboc/",
         "dateChecked": "2026-10-21",
         "status": "verified"
@@ -2200,38 +2200,37 @@
     "reviewed_on": "2026-10-21"
   },
   {
-    "id": "bohol-countryside-tour",
-    "name": "Bohol countryside tour",
+    "id": "bohol-casa-rocha",
+    "name": "Casa Rocha",
     "destination_group": "Bohol",
     "region": "Central Visayas",
     "province": "Bohol",
-    "city_municipality": null,
+    "city_municipality": "Tagbilaran City",
     "barangay": null,
     "address": null,
     "latitude": null,
     "longitude": null,
-    "category": "Attractions",
-    "description": "A multi-stop excursion concept.",
+    "category": "Culture",
+    "description": "A historic house in Tagbilaran's Sitio Ubos.",
     "interests": [
-      "Nature Lover",
-      "Slow Traveler"
+      "Culture Seeker"
     ],
     "itinerary_base_slug": null,
     "catalog_stop_id": null,
     "status": "rejected",
-    "decision_reason": "Tour/package concept, not one physical place.",
+    "decision_reason": "Physical identity and municipality confirmed; editorial surplus outside the agreed initial selection. Retained as a genuine researched place candidate, not a claim that the venue is unsuitable.",
     "sources": {
       "identity": {
-        "sourceName": null,
-        "sourceUrl": null,
-        "dateChecked": null,
-        "status": "unverified"
+        "sourceName": "National Museum - Casa Rocha",
+        "sourceUrl": "https://www.nationalmuseum.gov.ph/2022/08/25/casa-rocha-balay-na-tisa-sa-bohol/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
       },
       "municipality": {
-        "sourceName": null,
-        "sourceUrl": null,
-        "dateChecked": null,
-        "status": "unverified"
+        "sourceName": "National Museum - Casa Rocha",
+        "sourceUrl": "https://www.nationalmuseum.gov.ph/2022/08/25/casa-rocha-balay-na-tisa-sa-bohol/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
       },
       "address": {
         "sourceName": null,
@@ -3270,8 +3269,8 @@
     "reviewed_on": "2026-10-21"
   },
   {
-    "id": "boracay-paraw-sunset-cruise",
-    "name": "Boracay paraw sunset cruise",
+    "id": "boracay-station-x",
+    "name": "Station X",
     "destination_group": "Boracay",
     "region": "Western Visayas",
     "province": "Aklan",
@@ -3281,24 +3280,24 @@
     "latitude": null,
     "longitude": null,
     "category": "Attractions",
-    "description": "An operator-dependent sailing activity.",
+    "description": "A leisure and retail venue at Hue Hotels and Resorts.",
     "interests": [
-      "Beach Bum",
-      "Nature Lover"
+      "Nature Lover",
+      "City Wanderer"
     ],
     "itinerary_base_slug": null,
     "catalog_stop_id": null,
     "status": "rejected",
-    "decision_reason": "Activity/package concept rather than one physical venue.",
+    "decision_reason": "Physical identity and municipality confirmed; editorial surplus outside the agreed initial selection. Retained as a genuine researched place candidate, not a claim that the venue is unsuitable.",
     "sources": {
       "identity": {
-        "sourceName": "Philippine Department of Tourism Australia and New Zealand — Boracay",
-        "sourceUrl": "https://www.tourismphilippines.com.au/where/boracay",
+        "sourceName": "Station X - official community and venue information",
+        "sourceUrl": "https://www.stationx.ph/tenants",
         "dateChecked": "2026-10-21",
         "status": "verified"
       },
       "municipality": {
-        "sourceName": "Wikipedia — Boracay administrative geography",
+        "sourceName": "Wikipedia - Boracay's actual municipal jurisdiction",
         "sourceUrl": "https://en.wikipedia.org/wiki/Boracay",
         "dateChecked": "2026-10-21",
         "status": "verified"
@@ -3338,11 +3337,11 @@
     "itinerary_base_slug": null,
     "catalog_stop_id": null,
     "status": "unresolved",
-    "decision_reason": "Offshore listing does not by itself establish the actual municipal boundary or current public access.",
+    "decision_reason": "Operator confirms the physical offshore island. Its municipal boundary and current public-access conditions were not sufficiently cross-checked in the selected official geography sources; unresolved.",
     "sources": {
       "identity": {
-        "sourceName": "Tourism Promotions Board — Boracay map, April 2020 place reference",
-        "sourceUrl": "https://www.tpb.gov.ph/wp-content/uploads/2023/10/Boracay-Map.pdf",
+        "sourceName": "Crystal Cove Island - official operator",
+        "sourceUrl": "https://crystalcoveisland.com/",
         "dateChecked": "2026-10-21",
         "status": "verified"
       },
@@ -4101,37 +4100,37 @@
     "reviewed_on": "2026-10-21"
   },
   {
-    "id": "iloilo-molo-neighborhood-food-stop",
-    "name": "Molo neighborhood food stop",
+    "id": "iloilo-museo-iloilo",
+    "name": "Museo Iloilo",
     "destination_group": "Iloilo",
     "region": "Western Visayas",
     "province": "Iloilo",
-    "city_municipality": null,
+    "city_municipality": "Iloilo City",
     "barangay": null,
     "address": null,
     "latitude": null,
     "longitude": null,
-    "category": "Food & drink",
-    "description": "Legacy flexible meal slot without a named venue.",
+    "category": "Culture",
+    "description": "A museum near the provincial capitol.",
     "interests": [
-      "Food Hunter"
+      "Culture Seeker"
     ],
     "itinerary_base_slug": null,
-    "catalog_stop_id": null,
+    "catalog_stop_id": "iloilo-museo-iloilo",
     "status": "rejected",
-    "decision_reason": "Generic meal placeholder; not a distinct physical venue.",
+    "decision_reason": "Physical identity and municipality confirmed; editorial surplus outside the agreed initial selection. Retained as a genuine researched place candidate, not a claim that the venue is unsuitable.",
     "sources": {
       "identity": {
-        "sourceName": null,
-        "sourceUrl": null,
-        "dateChecked": null,
-        "status": "unverified"
+        "sourceName": "Iloilo Provincial Government - Casa Real and nearby Museo Iloilo",
+        "sourceUrl": "https://iloilo.gov.ph/en/gallery/casa-real-de-iloilo",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
       },
       "municipality": {
-        "sourceName": null,
-        "sourceUrl": null,
-        "dateChecked": null,
-        "status": "unverified"
+        "sourceName": "Iloilo Provincial Government - Casa Real and nearby Museo Iloilo",
+        "sourceUrl": "https://iloilo.gov.ph/en/gallery/casa-real-de-iloilo",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
       },
       "address": {
         "sourceName": null,
@@ -4149,38 +4148,38 @@
     "reviewed_on": "2026-10-21"
   },
   {
-    "id": "iloilo-gigantes-island-hopping",
-    "name": "Gigantes island-hopping tour",
+    "id": "iloilo-festive-walk-mall",
+    "name": "Festive Walk Mall",
     "destination_group": "Iloilo",
     "region": "Western Visayas",
     "province": "Iloilo",
-    "city_municipality": null,
+    "city_municipality": "Iloilo City",
     "barangay": null,
     "address": null,
     "latitude": null,
     "longitude": null,
     "category": "Attractions",
-    "description": "A multi-island boat-excursion concept.",
+    "description": "A shopping mall at Iloilo Business Park in Mandurriao.",
     "interests": [
       "Nature Lover",
-      "Slow Traveler"
+      "City Wanderer"
     ],
     "itinerary_base_slug": null,
     "catalog_stop_id": null,
     "status": "rejected",
-    "decision_reason": "Tour/package concept rather than one uniquely identified physical place.",
+    "decision_reason": "Physical identity and municipality confirmed; editorial surplus outside the agreed initial selection. Retained as a genuine researched place candidate, not a claim that the venue is unsuitable.",
     "sources": {
       "identity": {
-        "sourceName": null,
-        "sourceUrl": null,
-        "dateChecked": null,
-        "status": "unverified"
+        "sourceName": "Megaworld - Festive Walk Mall opening and location",
+        "sourceUrl": "https://www.megaworldcorp.com/news-and-updates/megaworld-opens-17th-mall-iloilo-business-park?page=1",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
       },
       "municipality": {
-        "sourceName": null,
-        "sourceUrl": null,
-        "dateChecked": null,
-        "status": "unverified"
+        "sourceName": "Megaworld - Festive Walk Mall opening and location",
+        "sourceUrl": "https://www.megaworldcorp.com/news-and-updates/megaworld-opens-17th-mall-iloilo-business-park?page=1",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
       },
       "address": {
         "sourceName": null,
@@ -4296,35 +4295,38 @@
     "reviewed_on": "2026-10-21"
   },
   {
-    "id": "cebu-cebu-heritage-food-break",
-    "name": "Cebu heritage food break",
+    "id": "cebu-carbon-market",
+    "name": "Carbon Market",
     "destination_group": "Cebu",
     "region": "Central Visayas",
     "province": "Cebu",
-    "city_municipality": null,
+    "city_municipality": "Cebu City",
     "barangay": null,
     "address": null,
     "latitude": null,
     "longitude": null,
-    "category": "Food & drink",
-    "description": "Legacy flexible meal slot without a named venue.",
-    "interests": [],
+    "category": "Parks & markets",
+    "description": "A public market complex in Cebu City.",
+    "interests": [
+      "Nature Lover",
+      "City Wanderer"
+    ],
     "itinerary_base_slug": null,
     "catalog_stop_id": null,
     "status": "rejected",
-    "decision_reason": "Generic meal placeholder; not a distinct physical venue.",
+    "decision_reason": "Physical identity and municipality confirmed; editorial surplus outside the agreed initial selection. Retained as a genuine researched place candidate, not a claim that the venue is unsuitable.",
     "sources": {
       "identity": {
-        "sourceName": null,
-        "sourceUrl": null,
-        "dateChecked": null,
-        "status": "unverified"
+        "sourceName": "Cebu City Government - Carbon Market Unit 3 rehabilitation",
+        "sourceUrl": "https://www.cebucity.gov.ph/project-no-1-rehabilitation-of-unit-3-carbon-market-at-brgy-ermita-cebu-city/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
       },
       "municipality": {
-        "sourceName": null,
-        "sourceUrl": null,
-        "dateChecked": null,
-        "status": "unverified"
+        "sourceName": "Cebu City Government - Carbon Market Unit 3 rehabilitation",
+        "sourceUrl": "https://www.cebucity.gov.ph/project-no-1-rehabilitation-of-unit-3-carbon-market-at-brgy-ermita-cebu-city/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
       },
       "address": {
         "sourceName": null,
@@ -4342,35 +4344,38 @@
     "reviewed_on": "2026-10-21"
   },
   {
-    "id": "cebu-moalboal-coast",
-    "name": "Moalboal coast",
+    "id": "cebu-omagieca-obo-ob-mangrove-garden",
+    "name": "Omagieca Obo-ob Mangrove Garden",
     "destination_group": "Cebu",
     "region": "Central Visayas",
     "province": "Cebu",
-    "city_municipality": null,
+    "city_municipality": "Bantayan",
     "barangay": null,
     "address": null,
     "latitude": null,
     "longitude": null,
     "category": "Nature",
-    "description": "A broad municipal coastal-area concept.",
-    "interests": [],
+    "description": "A mangrove visitor garden in Bantayan municipality.",
+    "interests": [
+      "Nature Lover",
+      "City Wanderer"
+    ],
     "itinerary_base_slug": null,
     "catalog_stop_id": null,
     "status": "rejected",
-    "decision_reason": "A municipality-wide coastal label without a specific identified attraction; not counted as an additional physical spot.",
+    "decision_reason": "Physical identity and municipality confirmed; editorial surplus outside the agreed initial selection. Retained as a genuine researched place candidate, not a claim that the venue is unsuitable.",
     "sources": {
       "identity": {
-        "sourceName": "Province of Cebu — heritage and attractions",
-        "sourceUrl": "https://www.cebu.gov.ph/about/",
+        "sourceName": "Cebu Provincial Tourism Office - Bantayan",
+        "sourceUrl": "https://tourism.cebu.gov.ph/explore/bantayan/",
         "dateChecked": "2026-10-21",
         "status": "verified"
       },
       "municipality": {
-        "sourceName": null,
-        "sourceUrl": null,
-        "dateChecked": null,
-        "status": "unverified"
+        "sourceName": "Cebu Provincial Tourism Office - Bantayan",
+        "sourceUrl": "https://tourism.cebu.gov.ph/explore/bantayan/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
       },
       "address": {
         "sourceName": null,

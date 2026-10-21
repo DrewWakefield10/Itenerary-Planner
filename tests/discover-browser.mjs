@@ -3,6 +3,9 @@ import assert from "node:assert/strict";
 const browser = await chromium.launch({ channel: "chrome", headless: true });
 const page = await browser.newPage({ viewport: { width: 1440, height: 1000 } });
 const origin = "http://127.0.0.1:5173";
+const directory = JSON.parse(
+  await (await page.request.get(origin + "/data/lakbay-locations.json")).text(),
+);
 const errors = [];
 page.on("pageerror", (e) => errors.push(e.message));
 const external = [];
@@ -26,33 +29,81 @@ try {
     page.getByText("Current interest data is unavailable.", { exact: false }),
   ).toBeVisible();
   const spots = page.getByRole("region", { name: "Spots to discover." });
-  await expect(spots.locator(".discovery-card")).toHaveCount(6);
+  await expect(spots.locator(".discovery-card")).toHaveCount(12);
+  await expect(
+    page.getByRole("heading", { name: "Explore Destinations." }),
+  ).toBeVisible();
+  await expect(page.locator(".directory-destination")).toHaveCount(11);
+  await expect(spots.getByRole("status")).toContainText(
+    "200 matching locations",
+  );
   const response = await page.request.get(origin + "/api/discovery");
   assert.match(response.headers()["cache-control"], /s-maxage=3600/);
   assert.equal(
     (await page.request.post(origin + "/api/discovery")).status(),
     405,
   );
-  await page
-    .getByLabel("Destination or province")
-    .selectOption("province:Palawan");
-  await expect(spots.locator(".discovery-card")).toHaveCount(1);
-  await page.getByLabel("Destination or province").selectOption("all");
+  await page.getByLabel("Browsing destination").selectOption("Cebu");
+  await expect(spots.getByRole("status")).toContainText(
+    "25 matching locations in Cebu",
+  );
   await page
     .getByLabel("Place category", { exact: true })
-    .selectOption("Museum");
+    .selectOption("Culture");
+  const culture = directory.filter(
+    (p) => p.destination_group === "Cebu" && p.category === "Culture",
+  );
+  await expect(spots.locator(".discovery-card")).toHaveCount(
+    Math.min(12, culture.length),
+  );
+  await page.getByLabel("Search places", { exact: false }).fill("Casa Gorordo");
   await expect(spots.locator(".discovery-card")).toHaveCount(1);
   await expect(
     spots.getByRole("heading", { name: "Casa Gorordo Museum" }),
   ).toBeVisible();
-  await page.getByLabel("Place category", { exact: true }).selectOption("all");
+  await page.reload();
+  await expect(page.getByLabel("Browsing destination")).toHaveValue("Cebu");
+  await expect(page.getByLabel("Search places", { exact: false })).toHaveValue(
+    "Casa Gorordo",
+  );
+  await page.getByRole("button", { name: "Clear all filters" }).click();
+  await page.getByLabel("Browsing destination").selectOption("Bohol");
+  await page.getByLabel("Search places", { exact: false }).fill("Dauis");
+  await expect(spots.locator(".discovery-card")).toHaveCount(
+    directory.filter(
+      (p) =>
+        p.destination_group === "Bohol" &&
+        [p.name, p.description, p.city_municipality, p.address]
+          .join(" ")
+          .toLowerCase()
+          .includes("dauis"),
+    ).length,
+  );
   await page
     .getByLabel("Search places", { exact: false })
     .fill("nothing matches this");
   await expect(
-    page.getByText("No reviewed spots match.", { exact: false }),
+    spots.getByText("No locations match these filters.", { exact: false }),
   ).toBeVisible();
-  await page.getByLabel("Search places", { exact: false }).fill("");
+  await page.getByRole("button", { name: "Clear all filters" }).click();
+  const first = await spots.locator("h3").first().innerText();
+  await page.getByRole("button", { name: "Next spots", exact: true }).click();
+  await expect(spots.getByRole("status")).toContainText("Page 2");
+  assert.notEqual(await spots.locator("h3").first().innerText(), first);
+  await page.reload();
+  await expect(spots.getByRole("status")).toContainText("Page 2");
+  await page
+    .getByRole("button", { name: "Previous spots", exact: true })
+    .click();
+  await page.getByLabel("Travel interest").selectOption("Food Hunter");
+  assert.ok((await spots.locator(".discovery-card").count()) > 0);
+  await page.getByRole("button", { name: "Clear all filters" }).click();
+  const select = page.getByLabel("Browsing destination");
+  await select.focus();
+  await page.keyboard.press("ArrowDown");
+  await page.keyboard.press("Enter");
+  await page.keyboard.press("Escape");
+  await page.getByRole("button", { name: "Clear all filters" }).click();
   const nearby = page.getByRole("region", { name: "Explore nearby." });
   await expect(
     nearby.getByText("km straight-line distance", { exact: false }),
@@ -80,6 +131,39 @@ try {
     false,
   );
   await page.screenshot({ path: "tests/discover-mobile.png" });
+  await page.locator(".explore-destinations").scrollIntoViewIfNeeded();
+  for (const button of await page.locator(".directory-destination").all()) {
+    const box = await button.boundingBox();
+    assert.ok(box.width >= 44 && box.height >= 44);
+  }
+  await page.screenshot({ path: "tests/directory-mobile.png" });
+  const outside = directory.find(
+    (p) => p.city_municipality === "San Vicente" && !p.itinerary_base_slug,
+  );
+  await page.goto(origin + "/discover/" + outside.id);
+  await expect(
+    page.getByText("City / municipality:", { exact: false }).locator(".."),
+  ).toContainText("San Vicente");
+  await expect(
+    page.getByRole("button", { name: "Add to my trip", exact: true }),
+  ).toHaveCount(0);
+  assert.equal(
+    await page.evaluate(
+      () => document.documentElement.scrollWidth > innerWidth,
+    ),
+    false,
+  );
+  const metro = directory.find((p) => p.city_municipality === "Makati City");
+  await page.goto(origin + "/discover/" + metro.id);
+  await expect(
+    page.getByText("City / municipality:", { exact: false }).locator(".."),
+  ).toContainText("Makati City");
+  await expect(
+    page.getByRole("link", { name: /Municipality: Checked/ }),
+  ).toHaveAttribute("href", metro.sources.municipality.sourceUrl);
+  await page.goto(origin + "/discover?page=999");
+  await expect(spots.getByRole("status")).toContainText("Page 17 of 17");
+  await expect(spots.locator(".discovery-card")).toHaveCount(8);
   await page.goto(origin + "/discover/baguio-wright-park");
   await expect(
     page.getByRole("heading", { name: "Wright Park", exact: true }),

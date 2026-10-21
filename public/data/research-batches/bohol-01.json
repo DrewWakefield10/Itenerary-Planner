@@ -1,0 +1,1080 @@
+{
+  "destination": "Bohol",
+  "batch": 1,
+  "kind": "Export snapshot of reviewed candidate batch",
+  "entries": [
+    {
+      "id": "bohol-alona-beach-walk",
+      "name": "Alona Beach",
+      "destination_group": "Bohol",
+      "region": "Central Visayas",
+      "province": "Bohol",
+      "city_municipality": "Panglao",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Nature",
+      "description": "A beach in Panglao municipality.",
+      "interests": [
+        "Nature Lover",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "bohol",
+      "catalog_stop_id": "bohol-alona-beach-walk",
+      "status": "accepted",
+      "decision_reason": "Named physical place and actual municipality confirmed by the cited source; current access is not guaranteed.",
+      "sources": {
+        "identity": {
+          "sourceName": "Bohol Provincial Tourism Office — Panglao",
+          "sourceUrl": "https://tourism.bohol.gov.ph/visitbohol-panglao/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Bohol Provincial Tourism Office — Panglao",
+          "sourceUrl": "https://tourism.bohol.gov.ph/visitbohol-panglao/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "bohol-danao-beach-afternoon",
+      "name": "Danao Beach",
+      "destination_group": "Bohol",
+      "region": "Central Visayas",
+      "province": "Bohol",
+      "city_municipality": "Panglao",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Nature",
+      "description": "A beach near Panglao’s Alona visitor area.",
+      "interests": [
+        "Nature Lover",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "bohol",
+      "catalog_stop_id": "bohol-danao-beach-afternoon",
+      "status": "accepted",
+      "decision_reason": "Named physical place and actual municipality confirmed by the cited source; current access is not guaranteed.",
+      "sources": {
+        "identity": {
+          "sourceName": "Panglao Tourism — Danao Beach",
+          "sourceUrl": "https://www.panglaotourism.com/beaches/danao-beach/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Panglao Tourism — Danao Beach",
+          "sourceUrl": "https://www.panglaotourism.com/beaches/danao-beach/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "bohol-saint-augustine-church",
+      "name": "Saint Augustine Parish Church",
+      "destination_group": "Bohol",
+      "region": "Central Visayas",
+      "province": "Bohol",
+      "city_municipality": "Panglao",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Culture",
+      "description": "A heritage church in Panglao town.",
+      "interests": [
+        "Culture Seeker",
+        "City Wanderer"
+      ],
+      "itinerary_base_slug": "bohol",
+      "catalog_stop_id": "bohol-saint-augustine-church",
+      "status": "accepted",
+      "decision_reason": "Named physical place and actual municipality confirmed by the cited source; current access is not guaranteed.",
+      "sources": {
+        "identity": {
+          "sourceName": "Bohol Provincial Tourism Office — Panglao",
+          "sourceUrl": "https://tourism.bohol.gov.ph/visitbohol-panglao/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Bohol Provincial Tourism Office — Panglao",
+          "sourceUrl": "https://tourism.bohol.gov.ph/visitbohol-panglao/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "bohol-panglao-watchtower",
+      "name": "Panglao Watchtower",
+      "destination_group": "Bohol",
+      "region": "Central Visayas",
+      "province": "Bohol",
+      "city_municipality": "Panglao",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Culture",
+      "description": "A historic tower near the town’s church.",
+      "interests": [
+        "Culture Seeker",
+        "City Wanderer"
+      ],
+      "itinerary_base_slug": "bohol",
+      "catalog_stop_id": "bohol-panglao-watchtower",
+      "status": "accepted",
+      "decision_reason": "Named physical place and actual municipality confirmed by the cited source; current access is not guaranteed.",
+      "sources": {
+        "identity": {
+          "sourceName": "Bohol Provincial Tourism Office — Panglao",
+          "sourceUrl": "https://tourism.bohol.gov.ph/visitbohol-panglao/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Bohol Provincial Tourism Office — Panglao",
+          "sourceUrl": "https://tourism.bohol.gov.ph/visitbohol-panglao/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "bohol-nova-shell-museum",
+      "name": "Nova Shell Museum",
+      "destination_group": "Bohol",
+      "region": "Central Visayas",
+      "province": "Bohol",
+      "city_municipality": "Panglao",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Culture",
+      "description": "A museum displaying marine shells.",
+      "interests": [
+        "Culture Seeker",
+        "City Wanderer"
+      ],
+      "itinerary_base_slug": "bohol",
+      "catalog_stop_id": "bohol-nova-shell-museum",
+      "status": "accepted",
+      "decision_reason": "Named physical place and actual municipality confirmed by the cited source; current access is not guaranteed.",
+      "sources": {
+        "identity": {
+          "sourceName": "Bohol Provincial Tourism Office — Panglao",
+          "sourceUrl": "https://tourism.bohol.gov.ph/visitbohol-panglao/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Bohol Provincial Tourism Office — Panglao",
+          "sourceUrl": "https://tourism.bohol.gov.ph/visitbohol-panglao/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "bohol-doljo-beach",
+      "name": "Doljo Beach",
+      "destination_group": "Bohol",
+      "region": "Central Visayas",
+      "province": "Bohol",
+      "city_municipality": "Panglao",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Nature",
+      "description": "A beach on the Panglao coast.",
+      "interests": [
+        "Nature Lover",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "bohol",
+      "catalog_stop_id": "bohol-doljo-beach",
+      "status": "accepted",
+      "decision_reason": "Named physical place and actual municipality confirmed by the cited source; current access is not guaranteed.",
+      "sources": {
+        "identity": {
+          "sourceName": "Bohol Provincial Tourism Office — Panglao",
+          "sourceUrl": "https://tourism.bohol.gov.ph/visitbohol-panglao/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Bohol Provincial Tourism Office — Panglao",
+          "sourceUrl": "https://tourism.bohol.gov.ph/visitbohol-panglao/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "bohol-dumaluan-beach",
+      "name": "Dumaluan Beach",
+      "destination_group": "Bohol",
+      "region": "Central Visayas",
+      "province": "Bohol",
+      "city_municipality": "Panglao",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Nature",
+      "description": "A sandy coastal destination in Panglao.",
+      "interests": [
+        "Nature Lover",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "bohol",
+      "catalog_stop_id": "bohol-dumaluan-beach",
+      "status": "accepted",
+      "decision_reason": "Named physical place and actual municipality confirmed by the cited source; current access is not guaranteed.",
+      "sources": {
+        "identity": {
+          "sourceName": "Bohol Provincial Tourism Office — Panglao",
+          "sourceUrl": "https://tourism.bohol.gov.ph/visitbohol-panglao/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Bohol Provincial Tourism Office — Panglao",
+          "sourceUrl": "https://tourism.bohol.gov.ph/visitbohol-panglao/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "bohol-libaong-beach",
+      "name": "Libaong Beach",
+      "destination_group": "Bohol",
+      "region": "Central Visayas",
+      "province": "Bohol",
+      "city_municipality": "Panglao",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Nature",
+      "description": "A beach in Panglao municipality.",
+      "interests": [
+        "Nature Lover",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "bohol",
+      "catalog_stop_id": "bohol-libaong-beach",
+      "status": "accepted",
+      "decision_reason": "Named physical place and actual municipality confirmed by the cited source; current access is not guaranteed.",
+      "sources": {
+        "identity": {
+          "sourceName": "Bohol Provincial Tourism Office — Panglao",
+          "sourceUrl": "https://tourism.bohol.gov.ph/visitbohol-panglao/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Bohol Provincial Tourism Office — Panglao",
+          "sourceUrl": "https://tourism.bohol.gov.ph/visitbohol-panglao/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "bohol-hinagdanan-cave",
+      "name": "Hinagdanan Cave",
+      "destination_group": "Bohol",
+      "region": "Central Visayas",
+      "province": "Bohol",
+      "city_municipality": "Dauis",
+      "barangay": "Bingag",
+      "address": null,
+      "latitude": 9.62528,
+      "longitude": 123.80111,
+      "category": "Nature",
+      "description": "A limestone cave with an underground pool.",
+      "interests": [
+        "Nature Lover",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "bohol",
+      "catalog_stop_id": "bohol-hinagdanan-cave",
+      "status": "accepted",
+      "decision_reason": "Named physical place and actual municipality confirmed by the cited source; current access is not guaranteed.",
+      "sources": {
+        "identity": {
+          "sourceName": "Bohol Provincial Tourism Office — Dauis",
+          "sourceUrl": "https://tourism.bohol.gov.ph/visitbohol-dauis/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Bohol Provincial Tourism Office — Dauis",
+          "sourceUrl": "https://tourism.bohol.gov.ph/visitbohol-dauis/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": "Wikipedia — Hinagdanan Cave reference coordinates",
+          "sourceUrl": "https://en.wikipedia.org/wiki/Hinagdanan_Cave",
+          "dateChecked": "2026-10-19",
+          "status": "verified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "bohol-dauis-church",
+      "name": "Assumption of Our Lady Shrine-Parish",
+      "destination_group": "Bohol",
+      "region": "Central Visayas",
+      "province": "Bohol",
+      "city_municipality": "Dauis",
+      "barangay": null,
+      "address": null,
+      "latitude": 9.62581,
+      "longitude": 123.865,
+      "category": "Culture",
+      "description": "A heritage Catholic church in Dauis.",
+      "interests": [
+        "Culture Seeker",
+        "City Wanderer"
+      ],
+      "itinerary_base_slug": "bohol",
+      "catalog_stop_id": "bohol-dauis-church",
+      "status": "accepted",
+      "decision_reason": "Named physical place and actual municipality confirmed by the cited source; current access is not guaranteed.",
+      "sources": {
+        "identity": {
+          "sourceName": "Bohol Provincial Tourism Office — Dauis",
+          "sourceUrl": "https://tourism.bohol.gov.ph/visitbohol-dauis/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Bohol Provincial Tourism Office — Dauis",
+          "sourceUrl": "https://tourism.bohol.gov.ph/visitbohol-dauis/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": "Wikipedia — Dauis Church reference coordinates",
+          "sourceUrl": "https://en.wikipedia.org/wiki/Dauis_Church",
+          "dateChecked": "2026-10-19",
+          "status": "verified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "bohol-bohol-bee-farm",
+      "name": "Bohol Bee Farm",
+      "destination_group": "Bohol",
+      "region": "Central Visayas",
+      "province": "Bohol",
+      "city_municipality": "Dauis",
+      "barangay": "Dao",
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Food & drink",
+      "description": "A farm and dining destination in Dauis.",
+      "interests": [
+        "Food Hunter"
+      ],
+      "itinerary_base_slug": "bohol",
+      "catalog_stop_id": "bohol-bohol-bee-farm",
+      "status": "accepted",
+      "decision_reason": "Named physical place and actual municipality confirmed by the cited source; current access is not guaranteed.",
+      "sources": {
+        "identity": {
+          "sourceName": "Bohol Provincial Tourism Office — Dauis",
+          "sourceUrl": "https://tourism.bohol.gov.ph/visitbohol-dauis/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Bohol Provincial Tourism Office — Dauis",
+          "sourceUrl": "https://tourism.bohol.gov.ph/visitbohol-dauis/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "bohol-common-crew",
+      "name": "Common Crew Coffee Roasters & Brewers",
+      "destination_group": "Bohol",
+      "region": "Central Visayas",
+      "province": "Bohol",
+      "city_municipality": "Panglao",
+      "barangay": "Tawala",
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Food & drink",
+      "description": "A café roasting Philippine coffee and serving kombucha.",
+      "interests": [
+        "Food Hunter"
+      ],
+      "itinerary_base_slug": "bohol",
+      "catalog_stop_id": "bohol-common-crew",
+      "status": "accepted",
+      "decision_reason": "Named physical place and actual municipality confirmed by the cited source; current access is not guaranteed.",
+      "sources": {
+        "identity": {
+          "sourceName": "Common Crew Bohol — brew bar",
+          "sourceUrl": "https://www.commoncrewbohol.com/coffee-kombucha-brew-bar",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Waze — Common Crew address",
+          "sourceUrl": "https://www.waze.com/live-map/directions/ph/central-visayas/panglao/common-crew-coffee-roasters-and-brewers?to=place.ChIJX4kyTwmtqzMRawE20lKe-RE",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "bohol-shaka-panglao",
+      "name": "Shaka Cafes — Panglao",
+      "destination_group": "Bohol",
+      "region": "Central Visayas",
+      "province": "Bohol",
+      "city_municipality": "Panglao",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Food & drink",
+      "description": "Shaka’s café branch on Panglao Island.",
+      "interests": [
+        "Food Hunter"
+      ],
+      "itinerary_base_slug": "bohol",
+      "catalog_stop_id": "bohol-shaka-panglao",
+      "status": "accepted",
+      "decision_reason": "Named physical place and actual municipality confirmed by the cited source; current access is not guaranteed.",
+      "sources": {
+        "identity": {
+          "sourceName": "Shaka Cafes — operator company profile",
+          "sourceUrl": "https://www.linkedin.com/company/shaka-cafes",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Waze — Shaka Panglao branch",
+          "sourceUrl": "https://www.waze.com/live-map/directions/ph/central-visayas/panglao/shaka-panglao-bohol?to=place.ChIJf9cEEJisqzMRtTllqEy2rCY",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "bohol-chocolate-hills",
+      "name": "Chocolate Hills viewpoint — Carmen",
+      "destination_group": "Bohol",
+      "region": "Central Visayas",
+      "province": "Bohol",
+      "city_municipality": "Carmen",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Nature",
+      "description": "A viewpoint over Bohol’s limestone hill landscape.",
+      "interests": [
+        "Nature Lover",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": null,
+      "catalog_stop_id": "bohol-chocolate-hills",
+      "status": "accepted",
+      "decision_reason": "Carmen viewpoint context confirmed. This is a physical countryside attraction, not a Panglao-local stop or package.",
+      "sources": {
+        "identity": {
+          "sourceName": "Bohol Provincial Tourism Office — Carmen",
+          "sourceUrl": "https://tourism.bohol.gov.ph/visitbohol-carmen/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Bohol Provincial Tourism Office — Carmen",
+          "sourceUrl": "https://tourism.bohol.gov.ph/visitbohol-carmen/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "bohol-baclayon-church",
+      "name": "Baclayon Church",
+      "destination_group": "Bohol",
+      "region": "Central Visayas",
+      "province": "Bohol",
+      "city_municipality": "Baclayon",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Culture",
+      "description": "A heritage parish church in Baclayon.",
+      "interests": [
+        "Culture Seeker",
+        "City Wanderer"
+      ],
+      "itinerary_base_slug": null,
+      "catalog_stop_id": null,
+      "status": "accepted",
+      "decision_reason": "Named physical place and actual municipality confirmed by the cited source; current access is not guaranteed.",
+      "sources": {
+        "identity": {
+          "sourceName": "Municipality of Baclayon — tourism",
+          "sourceUrl": "https://baclayon.bohol.gov.ph/tourism/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Municipality of Baclayon — tourism",
+          "sourceUrl": "https://baclayon.bohol.gov.ph/tourism/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "bohol-loboc-church",
+      "name": "Loboc Church",
+      "destination_group": "Bohol",
+      "region": "Central Visayas",
+      "province": "Bohol",
+      "city_municipality": "Loboc",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Culture",
+      "description": "A historic parish church in Loboc.",
+      "interests": [
+        "Culture Seeker",
+        "City Wanderer"
+      ],
+      "itinerary_base_slug": null,
+      "catalog_stop_id": null,
+      "status": "accepted",
+      "decision_reason": "Named physical place and actual municipality confirmed by the cited source; current access is not guaranteed.",
+      "sources": {
+        "identity": {
+          "sourceName": "Bohol Provincial Tourism Office — Loboc",
+          "sourceUrl": "https://tourism.bohol.gov.ph/visitbohol-loboc/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Bohol Provincial Tourism Office — Loboc",
+          "sourceUrl": "https://tourism.bohol.gov.ph/visitbohol-loboc/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "bohol-national-museum",
+      "name": "National Museum of the Philippines — Bohol",
+      "destination_group": "Bohol",
+      "region": "Central Visayas",
+      "province": "Bohol",
+      "city_municipality": "Tagbilaran City",
+      "barangay": "Poblacion 3",
+      "address": "Km. 0, Carlos P. Garcia Avenue, Poblacion 3, Tagbilaran City, Bohol 6300",
+      "latitude": null,
+      "longitude": null,
+      "category": "Culture",
+      "description": "Museum galleries occupy the former provincial capitol.",
+      "interests": [
+        "Culture Seeker",
+        "City Wanderer"
+      ],
+      "itinerary_base_slug": null,
+      "catalog_stop_id": null,
+      "status": "accepted",
+      "decision_reason": "Named physical place and actual municipality confirmed by the cited source; current access is not guaranteed.",
+      "sources": {
+        "identity": {
+          "sourceName": "National Museum of the Philippines — Bohol",
+          "sourceUrl": "https://www.nationalmuseum.gov.ph/our-museums/regional-area-and-site-museums/bohol/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "National Museum of the Philippines — Bohol",
+          "sourceUrl": "https://www.nationalmuseum.gov.ph/our-museums/regional-area-and-site-museums/bohol/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "National Museum of the Philippines — Bohol",
+          "sourceUrl": "https://www.nationalmuseum.gov.ph/our-museums/regional-area-and-site-museums/bohol/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "bohol-pamilacan-island",
+      "name": "Pamilacan Island",
+      "destination_group": "Bohol",
+      "region": "Central Visayas",
+      "province": "Bohol",
+      "city_municipality": "Baclayon",
+      "barangay": "Pamilacan",
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Nature",
+      "description": "An island and barangay administered by Baclayon.",
+      "interests": [
+        "Nature Lover",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": null,
+      "catalog_stop_id": null,
+      "status": "accepted",
+      "decision_reason": "Named physical place and actual municipality confirmed by the cited source; current access is not guaranteed.",
+      "sources": {
+        "identity": {
+          "sourceName": "Municipality of Baclayon — tourism",
+          "sourceUrl": "https://baclayon.bohol.gov.ph/tourism/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Municipality of Baclayon — tourism",
+          "sourceUrl": "https://baclayon.bohol.gov.ph/tourism/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "bohol-baclayon-parish-museum",
+      "name": "Museo Parroquial de Baclayon",
+      "destination_group": "Bohol",
+      "region": "Central Visayas",
+      "province": "Bohol",
+      "city_municipality": "Baclayon",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Culture",
+      "description": "A parish museum associated with Baclayon's heritage church.",
+      "interests": [
+        "Culture Seeker"
+      ],
+      "itinerary_base_slug": null,
+      "catalog_stop_id": null,
+      "status": "rejected",
+      "decision_reason": "Physical identity and municipality confirmed; editorial surplus outside the agreed initial selection. Retained as a genuine researched place candidate, not a claim that the venue is unsuitable.",
+      "sources": {
+        "identity": {
+          "sourceName": "Municipality of Baclayon - parish museum",
+          "sourceUrl": "https://baclayon.bohol.gov.ph/museo-parroquial-de-baclayon/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Municipality of Baclayon - parish museum",
+          "sourceUrl": "https://baclayon.bohol.gov.ph/museo-parroquial-de-baclayon/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "bohol-loboc-eco-adventure-park",
+      "name": "Loboc Eco-Tourism Adventure Park",
+      "destination_group": "Bohol",
+      "region": "Central Visayas",
+      "province": "Bohol",
+      "city_municipality": "Loboc",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Attractions",
+      "description": "An outdoor adventure park in Loboc.",
+      "interests": [
+        "Nature Lover",
+        "City Wanderer"
+      ],
+      "itinerary_base_slug": null,
+      "catalog_stop_id": null,
+      "status": "rejected",
+      "decision_reason": "Physical identity and municipality confirmed; editorial surplus outside the agreed initial selection. Retained as a genuine researched place candidate, not a claim that the venue is unsuitable.",
+      "sources": {
+        "identity": {
+          "sourceName": "Bohol Provincial Tourism Office - Loboc",
+          "sourceUrl": "https://tourism.bohol.gov.ph/visitbohol-loboc/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Bohol Provincial Tourism Office - Loboc",
+          "sourceUrl": "https://tourism.bohol.gov.ph/visitbohol-loboc/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "bohol-casa-rocha",
+      "name": "Casa Rocha",
+      "destination_group": "Bohol",
+      "region": "Central Visayas",
+      "province": "Bohol",
+      "city_municipality": "Tagbilaran City",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Culture",
+      "description": "A historic house in Tagbilaran's Sitio Ubos.",
+      "interests": [
+        "Culture Seeker"
+      ],
+      "itinerary_base_slug": null,
+      "catalog_stop_id": null,
+      "status": "rejected",
+      "decision_reason": "Physical identity and municipality confirmed; editorial surplus outside the agreed initial selection. Retained as a genuine researched place candidate, not a claim that the venue is unsuitable.",
+      "sources": {
+        "identity": {
+          "sourceName": "National Museum - Casa Rocha",
+          "sourceUrl": "https://www.nationalmuseum.gov.ph/2022/08/25/casa-rocha-balay-na-tisa-sa-bohol/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "National Museum - Casa Rocha",
+          "sourceUrl": "https://www.nationalmuseum.gov.ph/2022/08/25/casa-rocha-balay-na-tisa-sa-bohol/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "bohol-virgin-island",
+      "name": "Virgin Island — Panglao-area candidate",
+      "destination_group": "Bohol",
+      "region": "Central Visayas",
+      "province": "Bohol",
+      "city_municipality": null,
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Nature",
+      "description": "An offshore island named by the tourism office.",
+      "interests": [
+        "Nature Lover",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": null,
+      "catalog_stop_id": null,
+      "status": "unresolved",
+      "decision_reason": "Reviewed page names the island but does not establish its actual municipal jurisdiction or current public access.",
+      "sources": {
+        "identity": {
+          "sourceName": "Bohol Provincial Tourism Office — Panglao",
+          "sourceUrl": "https://tourism.bohol.gov.ph/visitbohol-panglao/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    }
+  ]
+}

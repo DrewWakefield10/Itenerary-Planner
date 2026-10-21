@@ -1,0 +1,123 @@
+{
+  "generated_on": "2026-10-21",
+  "scope": "11 browsing destinations; identity and municipality acceptance does not verify operating details",
+  "totals": {
+    "target": 200,
+    "researched": 250,
+    "accepted": 200,
+    "rejected": 35,
+    "unresolved": 15
+  },
+  "destinations": [
+    {
+      "destination": "Palawan",
+      "target": 35,
+      "researched": 50,
+      "accepted": 35,
+      "rejected": 13,
+      "unresolved": 2,
+      "shortfall": 0,
+      "batches": 2
+    },
+    {
+      "destination": "Cebu",
+      "target": 25,
+      "researched": 29,
+      "accepted": 25,
+      "rejected": 2,
+      "unresolved": 2,
+      "shortfall": 0,
+      "batches": 2
+    },
+    {
+      "destination": "Manila",
+      "target": 20,
+      "researched": 23,
+      "accepted": 20,
+      "rejected": 3,
+      "unresolved": 0,
+      "shortfall": 0,
+      "batches": 1
+    },
+    {
+      "destination": "Siargao",
+      "target": 18,
+      "researched": 20,
+      "accepted": 18,
+      "rejected": 2,
+      "unresolved": 0,
+      "shortfall": 0,
+      "batches": 1
+    },
+    {
+      "destination": "Bohol",
+      "target": 18,
+      "researched": 22,
+      "accepted": 18,
+      "rejected": 3,
+      "unresolved": 1,
+      "shortfall": 0,
+      "batches": 1
+    },
+    {
+      "destination": "Boracay",
+      "target": 16,
+      "researched": 22,
+      "accepted": 16,
+      "rejected": 3,
+      "unresolved": 3,
+      "shortfall": 0,
+      "batches": 1
+    },
+    {
+      "destination": "Baguio",
+      "target": 16,
+      "researched": 20,
+      "accepted": 16,
+      "rejected": 3,
+      "unresolved": 1,
+      "shortfall": 0,
+      "batches": 1
+    },
+    {
+      "destination": "Iloilo",
+      "target": 15,
+      "researched": 19,
+      "accepted": 15,
+      "rejected": 3,
+      "unresolved": 1,
+      "shortfall": 0,
+      "batches": 1
+    },
+    {
+      "destination": "Davao",
+      "target": 15,
+      "researched": 16,
+      "accepted": 15,
+      "rejected": 1,
+      "unresolved": 0,
+      "shortfall": 0,
+      "batches": 1
+    },
+    {
+      "destination": "Batanes",
+      "target": 12,
+      "researched": 15,
+      "accepted": 12,
+      "rejected": 1,
+      "unresolved": 2,
+      "shortfall": 0,
+      "batches": 1
+    },
+    {
+      "destination": "Sagada",
+      "target": 10,
+      "researched": 14,
+      "accepted": 10,
+      "rejected": 1,
+      "unresolved": 3,
+      "shortfall": 0,
+      "batches": 1
+    }
+  ]
+}

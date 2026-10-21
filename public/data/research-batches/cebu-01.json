@@ -1,0 +1,1231 @@
+{
+  "destination": "Cebu",
+  "batch": 1,
+  "kind": "Export snapshot of reviewed candidate batch",
+  "entries": [
+    {
+      "id": "cebu-fort-san-pedro",
+      "name": "Fort San Pedro",
+      "destination_group": "Cebu",
+      "region": "Central Visayas",
+      "province": "Cebu",
+      "city_municipality": "Cebu City",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Culture",
+      "description": "Historic fort in Cebu’s port district.",
+      "interests": [
+        "Culture Seeker",
+        "City Wanderer"
+      ],
+      "itinerary_base_slug": "cebu",
+      "catalog_stop_id": "cebu-fort-san-pedro",
+      "status": "accepted",
+      "decision_reason": "Named physical place and actual municipality confirmed by the cited source; current access is not guaranteed.",
+      "sources": {
+        "identity": {
+          "sourceName": "Province of Cebu — heritage and attractions",
+          "sourceUrl": "https://www.cebu.gov.ph/about/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Province of Cebu — heritage and attractions",
+          "sourceUrl": "https://www.cebu.gov.ph/about/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "cebu-magellan-s-cross-area",
+      "name": "Magellan’s Cross",
+      "destination_group": "Cebu",
+      "region": "Central Visayas",
+      "province": "Cebu",
+      "city_municipality": "Cebu City",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Culture",
+      "description": "A religious landmark beside the Santo Niño basilica.",
+      "interests": [
+        "Culture Seeker",
+        "City Wanderer"
+      ],
+      "itinerary_base_slug": "cebu",
+      "catalog_stop_id": "cebu-magellan-s-cross-area",
+      "status": "accepted",
+      "decision_reason": "Named physical place and actual municipality confirmed by the cited source; current access is not guaranteed.",
+      "sources": {
+        "identity": {
+          "sourceName": "Province of Cebu — heritage and attractions",
+          "sourceUrl": "https://www.cebu.gov.ph/about/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Province of Cebu — heritage and attractions",
+          "sourceUrl": "https://www.cebu.gov.ph/about/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "cebu-casa-gorordo",
+      "name": "Casa Gorordo Museum",
+      "destination_group": "Cebu",
+      "region": "Central Visayas",
+      "province": "Cebu",
+      "city_municipality": "Cebu City",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Culture",
+      "description": "House museum in the historic Parian district.",
+      "interests": [
+        "Culture Seeker",
+        "City Wanderer"
+      ],
+      "itinerary_base_slug": "cebu",
+      "catalog_stop_id": "cebu-casa-gorordo",
+      "status": "accepted",
+      "decision_reason": "Named physical place and actual municipality confirmed by the cited source; current access is not guaranteed.",
+      "sources": {
+        "identity": {
+          "sourceName": "Casa Gorordo Museum — official information",
+          "sourceUrl": "https://www.casagorordomuseum.org/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Casa Gorordo Museum — official information",
+          "sourceUrl": "https://www.casagorordomuseum.org/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "cebu-basilica-santo-nino",
+      "name": "Basilica Minore del Santo Niño",
+      "destination_group": "Cebu",
+      "region": "Central Visayas",
+      "province": "Cebu",
+      "city_municipality": "Cebu City",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Culture",
+      "description": "A working basilica associated with Santo Niño devotion.",
+      "interests": [
+        "Culture Seeker",
+        "City Wanderer"
+      ],
+      "itinerary_base_slug": "cebu",
+      "catalog_stop_id": "cebu-basilica-santo-nino",
+      "status": "accepted",
+      "decision_reason": "Named physical place and actual municipality confirmed by the cited source; current access is not guaranteed.",
+      "sources": {
+        "identity": {
+          "sourceName": "Province of Cebu — heritage and attractions",
+          "sourceUrl": "https://www.cebu.gov.ph/about/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Province of Cebu — heritage and attractions",
+          "sourceUrl": "https://www.cebu.gov.ph/about/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "cebu-national-museum",
+      "name": "National Museum of the Philippines — Cebu",
+      "destination_group": "Cebu",
+      "region": "Central Visayas",
+      "province": "Cebu",
+      "city_municipality": "Cebu City",
+      "barangay": "San Roque",
+      "address": "A. Pigafetta Street, Barangay San Roque (Ciudad), Cebu City 6000",
+      "latitude": 10.29167,
+      "longitude": 123.90444,
+      "category": "Culture",
+      "description": "Museum galleries in the former customs building.",
+      "interests": [
+        "Culture Seeker",
+        "City Wanderer"
+      ],
+      "itinerary_base_slug": "cebu",
+      "catalog_stop_id": "cebu-national-museum",
+      "status": "accepted",
+      "decision_reason": "Named physical place and actual municipality confirmed by the cited source; current access is not guaranteed.",
+      "sources": {
+        "identity": {
+          "sourceName": "National Museum of the Philippines — Cebu",
+          "sourceUrl": "https://www.nationalmuseum.gov.ph/nmp-cebu-2/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "National Museum of the Philippines — Cebu",
+          "sourceUrl": "https://www.nationalmuseum.gov.ph/nmp-cebu-2/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "National Museum of the Philippines — Cebu",
+          "sourceUrl": "https://www.nationalmuseum.gov.ph/nmp-cebu-2/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": "Wikipedia — National Museum Cebu building reference coordinates",
+          "sourceUrl": "https://en.wikipedia.org/wiki/National_Museum_of_the_Philippines_(Cebu)",
+          "dateChecked": "2026-10-19",
+          "status": "verified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "cebu-heritage-monument",
+      "name": "Heritage of Cebu Monument",
+      "destination_group": "Cebu",
+      "region": "Central Visayas",
+      "province": "Cebu",
+      "city_municipality": "Cebu City",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Culture",
+      "description": "A sculptural landmark in Parian.",
+      "interests": [
+        "Culture Seeker",
+        "City Wanderer"
+      ],
+      "itinerary_base_slug": "cebu",
+      "catalog_stop_id": "cebu-heritage-monument",
+      "status": "accepted",
+      "decision_reason": "Named physical place and actual municipality confirmed by the cited source; current access is not guaranteed.",
+      "sources": {
+        "identity": {
+          "sourceName": "Department of Tourism — Cebu City",
+          "sourceUrl": "https://philippines.travel/destinations/cebu-city/index",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Department of Tourism — Cebu City",
+          "sourceUrl": "https://philippines.travel/destinations/cebu-city/index",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "cebu-taoist-temple",
+      "name": "Cebu Taoist Temple",
+      "destination_group": "Cebu",
+      "region": "Central Visayas",
+      "province": "Cebu",
+      "city_municipality": "Cebu City",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Culture",
+      "description": "A temple complex in Beverly Hills subdivision.",
+      "interests": [
+        "Culture Seeker",
+        "City Wanderer"
+      ],
+      "itinerary_base_slug": "cebu",
+      "catalog_stop_id": "cebu-taoist-temple",
+      "status": "accepted",
+      "decision_reason": "Named physical place and actual municipality confirmed by the cited source; current access is not guaranteed.",
+      "sources": {
+        "identity": {
+          "sourceName": "Department of Tourism — Cebu City",
+          "sourceUrl": "https://philippines.travel/destinations/cebu-city/index",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Department of Tourism — Cebu City",
+          "sourceUrl": "https://philippines.travel/destinations/cebu-city/index",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "cebu-museo-sugbo",
+      "name": "Museo Sugbo",
+      "destination_group": "Cebu",
+      "region": "Central Visayas",
+      "province": "Cebu",
+      "city_municipality": "Cebu City",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Culture",
+      "description": "Provincial museum housed in a historic former jail.",
+      "interests": [
+        "Culture Seeker",
+        "City Wanderer"
+      ],
+      "itinerary_base_slug": "cebu",
+      "catalog_stop_id": "cebu-museo-sugbo",
+      "status": "accepted",
+      "decision_reason": "Named physical place and actual municipality confirmed by the cited source; current access is not guaranteed.",
+      "sources": {
+        "identity": {
+          "sourceName": "Province of Cebu — heritage and attractions",
+          "sourceUrl": "https://www.cebu.gov.ph/about/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Province of Cebu — heritage and attractions",
+          "sourceUrl": "https://www.cebu.gov.ph/about/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "cebu-yap-sandiego-house",
+      "name": "Yap-Sandiego Ancestral House",
+      "destination_group": "Cebu",
+      "region": "Central Visayas",
+      "province": "Cebu",
+      "city_municipality": "Cebu City",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Culture",
+      "description": "A surviving ancestral house in the city.",
+      "interests": [
+        "Culture Seeker",
+        "City Wanderer"
+      ],
+      "itinerary_base_slug": "cebu",
+      "catalog_stop_id": "cebu-yap-sandiego-house",
+      "status": "accepted",
+      "decision_reason": "Named physical place and actual municipality confirmed by the cited source; current access is not guaranteed.",
+      "sources": {
+        "identity": {
+          "sourceName": "Province of Cebu — heritage and attractions",
+          "sourceUrl": "https://www.cebu.gov.ph/about/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Province of Cebu — heritage and attractions",
+          "sourceUrl": "https://www.cebu.gov.ph/about/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "cebu-colon-street",
+      "name": "Colon Street",
+      "destination_group": "Cebu",
+      "region": "Central Visayas",
+      "province": "Cebu",
+      "city_municipality": "Cebu City",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Culture",
+      "description": "A historic downtown shopping street.",
+      "interests": [
+        "Culture Seeker",
+        "City Wanderer"
+      ],
+      "itinerary_base_slug": "cebu",
+      "catalog_stop_id": "cebu-colon-street",
+      "status": "accepted",
+      "decision_reason": "Named physical place and actual municipality confirmed by the cited source; current access is not guaranteed.",
+      "sources": {
+        "identity": {
+          "sourceName": "Province of Cebu — heritage and attractions",
+          "sourceUrl": "https://www.cebu.gov.ph/about/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Province of Cebu — heritage and attractions",
+          "sourceUrl": "https://www.cebu.gov.ph/about/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "cebu-sugbo-mercado",
+      "name": "Sugbo Mercado — IT Park",
+      "destination_group": "Cebu",
+      "region": "Central Visayas",
+      "province": "Cebu",
+      "city_municipality": "Cebu City",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Food & drink",
+      "description": "An open-air food market at Cebu IT Park.",
+      "interests": [
+        "Food Hunter"
+      ],
+      "itinerary_base_slug": "cebu",
+      "catalog_stop_id": "cebu-sugbo-mercado",
+      "status": "accepted",
+      "decision_reason": "Named physical place and actual municipality confirmed by the cited source; current access is not guaranteed.",
+      "sources": {
+        "identity": {
+          "sourceName": "Department of Tourism — Cebu City",
+          "sourceUrl": "https://philippines.travel/destinations/cebu-city/index",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Department of Tourism — Cebu City",
+          "sourceUrl": "https://philippines.travel/destinations/cebu-city/index",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "cebu-sirao-garden",
+      "name": "Sirao Garden",
+      "destination_group": "Cebu",
+      "region": "Central Visayas",
+      "province": "Cebu",
+      "city_municipality": "Cebu City",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Nature",
+      "description": "A flower-garden attraction in the city’s uplands.",
+      "interests": [
+        "Nature Lover",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "cebu",
+      "catalog_stop_id": "cebu-sirao-garden",
+      "status": "accepted",
+      "decision_reason": "Named physical place and actual municipality confirmed by the cited source; current access is not guaranteed.",
+      "sources": {
+        "identity": {
+          "sourceName": "Department of Tourism — Cebu City",
+          "sourceUrl": "https://philippines.travel/destinations/cebu-city/index",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Department of Tourism — Cebu City",
+          "sourceUrl": "https://philippines.travel/destinations/cebu-city/index",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "cebu-temple-of-leah",
+      "name": "Temple of Leah",
+      "destination_group": "Cebu",
+      "region": "Central Visayas",
+      "province": "Cebu",
+      "city_municipality": "Cebu City",
+      "barangay": null,
+      "address": null,
+      "latitude": 10.368913701256984,
+      "longitude": 123.87333595072559,
+      "category": "Culture",
+      "description": "A monumental attraction in the Busay highlands.",
+      "interests": [
+        "Culture Seeker",
+        "City Wanderer"
+      ],
+      "itinerary_base_slug": "cebu",
+      "catalog_stop_id": "cebu-temple-of-leah",
+      "status": "accepted",
+      "decision_reason": "Named physical place and actual municipality confirmed by the cited source; current access is not guaranteed.",
+      "sources": {
+        "identity": {
+          "sourceName": "Department of Tourism — Cebu City",
+          "sourceUrl": "https://philippines.travel/destinations/cebu-city/index",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Department of Tourism — Cebu City",
+          "sourceUrl": "https://philippines.travel/destinations/cebu-city/index",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": "Wikipedia — Temple of Leah reference coordinates",
+          "sourceUrl": "https://en.wikipedia.org/wiki/Temple_of_Leah",
+          "dateChecked": "2026-10-19",
+          "status": "verified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "cebu-tops-lookout",
+      "name": "TOPS",
+      "destination_group": "Cebu",
+      "region": "Central Visayas",
+      "province": "Cebu",
+      "city_municipality": "Cebu City",
+      "barangay": "Busay",
+      "address": "Tops Road, Busay, Cebu City",
+      "latitude": null,
+      "longitude": null,
+      "category": "Nature",
+      "description": "A hilltop viewpoint and dining complex.",
+      "interests": [
+        "Nature Lover",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "cebu",
+      "catalog_stop_id": "cebu-tops-lookout",
+      "status": "accepted",
+      "decision_reason": "Named physical place and actual municipality confirmed by the cited source; current access is not guaranteed.",
+      "sources": {
+        "identity": {
+          "sourceName": "TOPS — official visitor information",
+          "sourceUrl": "https://www.topscebu.ph/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "TOPS — official visitor information",
+          "sourceUrl": "https://www.topscebu.ph/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "TOPS — official visitor information",
+          "sourceUrl": "https://www.topscebu.ph/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "cebu-ocean-park",
+      "name": "Cebu Ocean Park",
+      "destination_group": "Cebu",
+      "region": "Central Visayas",
+      "province": "Cebu",
+      "city_municipality": "Cebu City",
+      "barangay": "Mambaling",
+      "address": "SM Seaside Complex, Mambaling, Cebu City, Cebu 6000",
+      "latitude": null,
+      "longitude": null,
+      "category": "Attractions",
+      "description": "A ticketed aquarium and marine-themed visitor attraction.",
+      "interests": [
+        "Nature Lover",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "cebu",
+      "catalog_stop_id": "cebu-ocean-park",
+      "status": "accepted",
+      "decision_reason": "Named physical place and actual municipality confirmed by the cited source; current access is not guaranteed.",
+      "sources": {
+        "identity": {
+          "sourceName": "Cebu Ocean Park — official information",
+          "sourceUrl": "https://www.cebuoceanpark.com/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Cebu Ocean Park — official information",
+          "sourceUrl": "https://www.cebuoceanpark.com/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "Cebu Ocean Park — official information",
+          "sourceUrl": "https://www.cebuoceanpark.com/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "cebu-kawasan-falls",
+      "name": "Kawasan Falls",
+      "destination_group": "Cebu",
+      "region": "Central Visayas",
+      "province": "Cebu",
+      "city_municipality": "Badian",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Nature",
+      "description": "A waterfall attraction in southern Cebu.",
+      "interests": [
+        "Nature Lover",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": null,
+      "catalog_stop_id": "cebu-kawasan-falls",
+      "status": "accepted",
+      "decision_reason": "Identity and Badian location confirmed. Provincial rehabilitation/access restrictions need separate confirmation; not an ordinary Cebu City stop.",
+      "sources": {
+        "identity": {
+          "sourceName": "Province of Cebu — heritage and attractions",
+          "sourceUrl": "https://www.cebu.gov.ph/about/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Province of Cebu — heritage and attractions",
+          "sourceUrl": "https://www.cebu.gov.ph/about/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "cebu-sumilon-island",
+      "name": "Sumilon Island",
+      "destination_group": "Cebu",
+      "region": "Central Visayas",
+      "province": "Cebu",
+      "city_municipality": "Oslob",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Nature",
+      "description": "An island destination off Oslob.",
+      "interests": [
+        "Nature Lover",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": null,
+      "catalog_stop_id": null,
+      "status": "accepted",
+      "decision_reason": "Named physical place and actual municipality confirmed by the cited source; current access is not guaranteed.",
+      "sources": {
+        "identity": {
+          "sourceName": "Province of Cebu — heritage and attractions",
+          "sourceUrl": "https://www.cebu.gov.ph/about/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Province of Cebu — heritage and attractions",
+          "sourceUrl": "https://www.cebu.gov.ph/about/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "cebu-tingko-beach",
+      "name": "Tingko Beach",
+      "destination_group": "Cebu",
+      "region": "Central Visayas",
+      "province": "Cebu",
+      "city_municipality": "Alcoy",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Nature",
+      "description": "A beach on Cebu’s southeastern coast.",
+      "interests": [
+        "Nature Lover",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": null,
+      "catalog_stop_id": null,
+      "status": "accepted",
+      "decision_reason": "Named physical place and actual municipality confirmed by the cited source; current access is not guaranteed.",
+      "sources": {
+        "identity": {
+          "sourceName": "Cebu Provincial Tourism Office — Alcoy",
+          "sourceUrl": "https://tourism.cebu.gov.ph/explore/alcoy/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Cebu Provincial Tourism Office — Alcoy",
+          "sourceUrl": "https://tourism.cebu.gov.ph/explore/alcoy/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "cebu-safari-adventure-park",
+      "name": "Cebu Safari and Adventure Park",
+      "destination_group": "Cebu",
+      "region": "Central Visayas",
+      "province": "Cebu",
+      "city_municipality": "Carmen",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Attractions",
+      "description": "A wildlife and adventure visitor park.",
+      "interests": [
+        "Nature Lover",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": null,
+      "catalog_stop_id": null,
+      "status": "accepted",
+      "decision_reason": "Named physical place and actual municipality confirmed by the cited source; current access is not guaranteed.",
+      "sources": {
+        "identity": {
+          "sourceName": "Cebu Provincial Tourism Office — Carmen",
+          "sourceUrl": "https://tourism.cebu.gov.ph/explore/carmen/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Cebu Provincial Tourism Office — Carmen",
+          "sourceUrl": "https://tourism.cebu.gov.ph/explore/carmen/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "cebu-boljoon-church",
+      "name": "Boljoon Church",
+      "destination_group": "Cebu",
+      "region": "Central Visayas",
+      "province": "Cebu",
+      "city_municipality": "Boljoon",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Culture",
+      "description": "A heritage church in southern Cebu.",
+      "interests": [
+        "Culture Seeker",
+        "City Wanderer"
+      ],
+      "itinerary_base_slug": null,
+      "catalog_stop_id": null,
+      "status": "accepted",
+      "decision_reason": "Named physical place and actual municipality confirmed by the cited source; current access is not guaranteed.",
+      "sources": {
+        "identity": {
+          "sourceName": "Cebu Provincial Tourism Office — Boljoon",
+          "sourceUrl": "https://tourism.cebu.gov.ph/explore/boljoon/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Cebu Provincial Tourism Office — Boljoon",
+          "sourceUrl": "https://tourism.cebu.gov.ph/explore/boljoon/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "cebu-bantayan-peter-paul-church",
+      "name": "Saints Peter and Paul Parish Church — Bantayan",
+      "destination_group": "Cebu",
+      "region": "Central Visayas",
+      "province": "Cebu",
+      "city_municipality": "Bantayan",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Culture",
+      "description": "A parish church in Bantayan town.",
+      "interests": [
+        "Culture Seeker",
+        "City Wanderer"
+      ],
+      "itinerary_base_slug": null,
+      "catalog_stop_id": null,
+      "status": "accepted",
+      "decision_reason": "Named physical place and actual municipality confirmed by the cited source; current access is not guaranteed.",
+      "sources": {
+        "identity": {
+          "sourceName": "Cebu Provincial Tourism Office — Bantayan",
+          "sourceUrl": "https://tourism.cebu.gov.ph/explore/bantayan/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Cebu Provincial Tourism Office — Bantayan",
+          "sourceUrl": "https://tourism.cebu.gov.ph/explore/bantayan/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "cebu-simala-shrine",
+      "name": "Simala Shrine",
+      "destination_group": "Cebu",
+      "region": "Central Visayas",
+      "province": "Cebu",
+      "city_municipality": "Sibonga",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Culture",
+      "description": "A Marian pilgrimage shrine in Sibonga.",
+      "interests": [
+        "Culture Seeker",
+        "City Wanderer"
+      ],
+      "itinerary_base_slug": null,
+      "catalog_stop_id": null,
+      "status": "accepted",
+      "decision_reason": "Named physical place and actual municipality confirmed by the cited source; current access is not guaranteed.",
+      "sources": {
+        "identity": {
+          "sourceName": "Cebu Provincial Tourism Office — Sibonga",
+          "sourceUrl": "https://tourism.cebu.gov.ph/explore/sibonga/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Cebu Provincial Tourism Office — Sibonga",
+          "sourceUrl": "https://tourism.cebu.gov.ph/explore/sibonga/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "cebu-buwakan-ni-alejandra",
+      "name": "Buwakan ni Alejandra",
+      "destination_group": "Cebu",
+      "region": "Central Visayas",
+      "province": "Cebu",
+      "city_municipality": "Balamban",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Nature",
+      "description": "A flower garden in the Balamban uplands.",
+      "interests": [
+        "Nature Lover",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": null,
+      "catalog_stop_id": null,
+      "status": "accepted",
+      "decision_reason": "Named physical place and actual municipality confirmed by the cited source; current access is not guaranteed.",
+      "sources": {
+        "identity": {
+          "sourceName": "Cebu Provincial Tourism Office — Balamban",
+          "sourceUrl": "https://tourism.cebu.gov.ph/explore/balamban/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Cebu Provincial Tourism Office — Balamban",
+          "sourceUrl": "https://tourism.cebu.gov.ph/explore/balamban/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "cebu-mactan-shrine",
+      "name": "Mactan Shrine",
+      "destination_group": "Cebu",
+      "region": "Central Visayas",
+      "province": "Cebu",
+      "city_municipality": "Lapu-Lapu City",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Culture",
+      "description": "A memorial site associated with the Battle of Mactan.",
+      "interests": [
+        "Culture Seeker",
+        "City Wanderer"
+      ],
+      "itinerary_base_slug": null,
+      "catalog_stop_id": null,
+      "status": "accepted",
+      "decision_reason": "Named physical place and actual municipality confirmed by the cited source; current access is not guaranteed.",
+      "sources": {
+        "identity": {
+          "sourceName": "National Quincentennial Committee — Lapulapu National Monument site",
+          "sourceUrl": "https://www.nqc.gov.ph/wp-content/uploads/2020/07/Lapulapu-National-Monument-Design-Competition-Guidelines-1.pdf",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "National Quincentennial Committee — Lapulapu National Monument site",
+          "sourceUrl": "https://www.nqc.gov.ph/wp-content/uploads/2020/07/Lapulapu-National-Monument-Design-Competition-Guidelines-1.pdf",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "cebu-carcar-new-public-market",
+      "name": "Carcar City New Public Market",
+      "destination_group": "Cebu",
+      "region": "Central Visayas",
+      "province": "Cebu",
+      "city_municipality": "Carcar City",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Parks & markets",
+      "description": "A public market in Carcar City.",
+      "interests": [
+        "Nature Lover",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": null,
+      "catalog_stop_id": null,
+      "status": "accepted",
+      "decision_reason": "Named physical place and actual municipality confirmed by the cited source; current access is not guaranteed.",
+      "sources": {
+        "identity": {
+          "sourceName": "JCI Cebu — event at Carcar City New Public Market",
+          "sourceUrl": "https://jcicebu.org/2026/05/26/kidtrepreneurship-5-0-empowers-young-entrepreneurs-in-carcar-city/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "JCI Cebu — event at Carcar City New Public Market",
+          "sourceUrl": "https://jcicebu.org/2026/05/26/kidtrepreneurship-5-0-empowers-young-entrepreneurs-in-carcar-city/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    }
+  ]
+}

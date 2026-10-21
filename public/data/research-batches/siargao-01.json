@@ -1,0 +1,984 @@
+{
+  "destination": "Siargao",
+  "batch": 1,
+  "kind": "Export snapshot of reviewed candidate batch",
+  "entries": [
+    {
+      "id": "siargao-cloud-9",
+      "name": "Cloud 9",
+      "destination_group": "Siargao",
+      "region": "Caraga",
+      "province": "Surigao del Norte",
+      "city_municipality": "General Luna",
+      "barangay": "Catangnan",
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Attractions",
+      "description": "Named surf and boardwalk area in General Luna.",
+      "interests": [
+        "Nature Lover"
+      ],
+      "itinerary_base_slug": "siargao",
+      "catalog_stop_id": "siargao-cloud-9",
+      "status": "accepted",
+      "decision_reason": "Distinct place and actual municipality verified; inclusion does not establish current access.",
+      "sources": {
+        "identity": {
+          "sourceName": "Municipality of General Luna — comprehensive development plan",
+          "sourceUrl": "https://generalluna.gov.ph/wp-content/uploads/2024/10/CDP_2025.pdf",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Municipality of General Luna — comprehensive development plan",
+          "sourceUrl": "https://generalluna.gov.ph/wp-content/uploads/2024/10/CDP_2025.pdf",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "Municipality of General Luna — comprehensive development plan",
+          "sourceUrl": "https://generalluna.gov.ph/wp-content/uploads/2024/10/CDP_2025.pdf",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "siargao-catangnan-bridge",
+      "name": "Catangnan–Cabitoonan Bridge",
+      "destination_group": "Siargao",
+      "region": "Caraga",
+      "province": "Surigao del Norte",
+      "city_municipality": "General Luna",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Attractions",
+      "description": "Bridge area on General Luna tour routes.",
+      "interests": [
+        "Nature Lover",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "siargao",
+      "catalog_stop_id": "siargao-catangnan-bridge",
+      "status": "accepted",
+      "decision_reason": "Distinct place and actual municipality verified; inclusion does not establish current access.",
+      "sources": {
+        "identity": {
+          "sourceName": "Javalava Tours — Siargao day trips",
+          "sourceUrl": "https://www.gojavalava.com/siargaotours",
+          "dateChecked": "2026-10-19",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Presidential Communications Office — Catangnan–Cabitoonan bridge in General Luna",
+          "sourceUrl": "https://pco.gov.ph/news_releases/major-infrastructure-projects-inaugurated-on-siargao-island/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "siargao-naked-island",
+      "name": "Naked Island",
+      "destination_group": "Siargao",
+      "region": "Caraga",
+      "province": "Surigao del Norte",
+      "city_municipality": "General Luna",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Nature",
+      "description": "Sandbar in the tri-island route.",
+      "interests": [
+        "Beach Bum",
+        "Nature Lover"
+      ],
+      "itinerary_base_slug": "siargao",
+      "catalog_stop_id": "siargao-naked-island",
+      "status": "accepted",
+      "decision_reason": "Distinct place and actual municipality verified; inclusion does not establish current access.",
+      "sources": {
+        "identity": {
+          "sourceName": "Tourism Promotions Board — PHITEX 2024 itinerary",
+          "sourceUrl": "https://www.tpb.gov.ph/wp-content/uploads/2024/07/ITINERARY-PHITEX2024.pdf",
+          "dateChecked": "2026-10-19",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "DENR — Siargao ecotourism sites and actual municipalities, July 2023 bulletin",
+          "sourceUrl": "https://denr.gov.ph/wp-content/uploads/2023/07/DENR_News_Alerts_09_July_2023_Sunday_opt.pdf",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "siargao-daku-island",
+      "name": "Daku Island",
+      "destination_group": "Siargao",
+      "region": "Caraga",
+      "province": "Surigao del Norte",
+      "city_municipality": "General Luna",
+      "barangay": null,
+      "address": null,
+      "latitude": 9.73861111111111,
+      "longitude": 126.16361111111112,
+      "category": "Nature",
+      "description": "Island in the tri-island route.",
+      "interests": [
+        "Beach Bum",
+        "Nature Lover"
+      ],
+      "itinerary_base_slug": "siargao",
+      "catalog_stop_id": "siargao-daku-island",
+      "status": "accepted",
+      "decision_reason": "Distinct place and actual municipality verified; inclusion does not establish current access.",
+      "sources": {
+        "identity": {
+          "sourceName": "Tourism Promotions Board — PHITEX 2024 itinerary",
+          "sourceUrl": "https://www.tpb.gov.ph/wp-content/uploads/2024/07/ITINERARY-PHITEX2024.pdf",
+          "dateChecked": "2026-10-19",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "DENR — Siargao ecotourism sites and actual municipalities, July 2023 bulletin",
+          "sourceUrl": "https://denr.gov.ph/wp-content/uploads/2023/07/DENR_News_Alerts_09_July_2023_Sunday_opt.pdf",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": "Wikidata / Geographic Names Server — Daku Island reference",
+          "sourceUrl": "https://www.wikidata.org/wiki/Q16555043",
+          "dateChecked": "2026-10-19",
+          "status": "estimate"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "siargao-guyam-island",
+      "name": "Guyam Island",
+      "destination_group": "Siargao",
+      "region": "Caraga",
+      "province": "Surigao del Norte",
+      "city_municipality": "General Luna",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Nature",
+      "description": "Islet in the tri-island route.",
+      "interests": [
+        "Beach Bum",
+        "Nature Lover"
+      ],
+      "itinerary_base_slug": "siargao",
+      "catalog_stop_id": "siargao-guyam-island",
+      "status": "accepted",
+      "decision_reason": "Distinct place and actual municipality verified; inclusion does not establish current access.",
+      "sources": {
+        "identity": {
+          "sourceName": "Tourism Promotions Board — PHITEX 2024 itinerary",
+          "sourceUrl": "https://www.tpb.gov.ph/wp-content/uploads/2024/07/ITINERARY-PHITEX2024.pdf",
+          "dateChecked": "2026-10-19",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Wikipedia — Guyam Island administrative location",
+          "sourceUrl": "https://en.wikipedia.org/wiki/Guyam_Island",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "siargao-magpupungko-rock-pools",
+      "name": "Magpupungko Rock Pools",
+      "destination_group": "Siargao",
+      "region": "Caraga",
+      "province": "Surigao del Norte",
+      "city_municipality": "Pilar",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Nature",
+      "description": "Tidal-pool attraction in Pilar.",
+      "interests": [
+        "Nature Lover",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "siargao",
+      "catalog_stop_id": "siargao-magpupungko-rock-pools",
+      "status": "accepted",
+      "decision_reason": "Distinct place and actual municipality verified; inclusion does not establish current access.",
+      "sources": {
+        "identity": {
+          "sourceName": "Philippine News Agency — Pilar tourism advisory, January 2026",
+          "sourceUrl": "https://www.pna.gov.ph/articles/1267976",
+          "dateChecked": "2026-10-19",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Philippine News Agency — Pilar municipal tourism destinations",
+          "sourceUrl": "https://www.pna.gov.ph/articles/1134812",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "siargao-tayangban-cave-pool",
+      "name": "Tayangban Cave Pool",
+      "destination_group": "Siargao",
+      "region": "Caraga",
+      "province": "Surigao del Norte",
+      "city_municipality": "Pilar",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Attractions",
+      "description": "Cave-pool destination on inland tours.",
+      "interests": [
+        "Adventure Junkie",
+        "Nature Lover"
+      ],
+      "itinerary_base_slug": "siargao",
+      "catalog_stop_id": "siargao-tayangban-cave-pool",
+      "status": "accepted",
+      "decision_reason": "Distinct place and actual municipality verified; inclusion does not establish current access.",
+      "sources": {
+        "identity": {
+          "sourceName": "Javalava Tours — Siargao day trips",
+          "sourceUrl": "https://www.gojavalava.com/siargaotours",
+          "dateChecked": "2026-10-19",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Philippine News Agency — Pilar municipal tourism destinations",
+          "sourceUrl": "https://www.pna.gov.ph/articles/1134812",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "siargao-maasin-river",
+      "name": "Maasin River",
+      "destination_group": "Siargao",
+      "region": "Caraga",
+      "province": "Surigao del Norte",
+      "city_municipality": "Pilar",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Nature",
+      "description": "River visited on inland excursions.",
+      "interests": [
+        "Nature Lover",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "siargao",
+      "catalog_stop_id": "siargao-maasin-river",
+      "status": "accepted",
+      "decision_reason": "Distinct place and actual municipality verified; inclusion does not establish current access.",
+      "sources": {
+        "identity": {
+          "sourceName": "Javalava Tours — Siargao day trips",
+          "sourceUrl": "https://www.gojavalava.com/siargaotours",
+          "dateChecked": "2026-10-19",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Philippine News Agency — Pilar municipal tourism destinations",
+          "sourceUrl": "https://www.pna.gov.ph/articles/1134812",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "siargao-sugba-lagoon",
+      "name": "Sugba Lagoon",
+      "destination_group": "Siargao",
+      "region": "Caraga",
+      "province": "Surigao del Norte",
+      "city_municipality": "Del Carmen",
+      "barangay": "Caub",
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Nature",
+      "description": "Lagoon associated with Del Carmen mangroves.",
+      "interests": [
+        "Nature Lover",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "siargao",
+      "catalog_stop_id": "siargao-sugba-lagoon",
+      "status": "accepted",
+      "decision_reason": "Distinct place and actual municipality verified; inclusion does not establish current access.",
+      "sources": {
+        "identity": {
+          "sourceName": "TIEZA — Sugba Lagoon and Del Carmen mangroves",
+          "sourceUrl": "https://tieza.gov.ph/development-of-mangrove-protection-and-information-center-and-sugba-lagoon-del-carmen-surigao-del-norte-4/",
+          "dateChecked": "2026-10-19",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Municipality of Del Carmen — Sugba Lagoon at Barangay Caub",
+          "sourceUrl": "https://delcarmen.gov.ph/wp-content/uploads/2025/12/Municipal-LCCAP.pdf",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "Municipality of Del Carmen — Sugba Lagoon at Barangay Caub",
+          "sourceUrl": "https://delcarmen.gov.ph/wp-content/uploads/2025/12/Municipal-LCCAP.pdf",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "siargao-pacifico-beach",
+      "name": "Pacifico Beach",
+      "destination_group": "Siargao",
+      "region": "Caraga",
+      "province": "Surigao del Norte",
+      "city_municipality": "San Isidro",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Nature",
+      "description": "Beach in a northern surf community.",
+      "interests": [
+        "Beach Bum",
+        "Nature Lover"
+      ],
+      "itinerary_base_slug": "siargao",
+      "catalog_stop_id": "siargao-pacifico-beach",
+      "status": "accepted",
+      "decision_reason": "Distinct place and actual municipality verified; inclusion does not establish current access.",
+      "sources": {
+        "identity": {
+          "sourceName": "Department of Tourism London — Siargao brochure",
+          "sourceUrl": "https://itsmorefuninthephilippines.co.uk/wp-content/uploads/PDOTL_Siargao_Web.pdf",
+          "dateChecked": "2026-10-19",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "DENR — Siargao ecotourism sites and actual municipalities, July 2023 bulletin",
+          "sourceUrl": "https://denr.gov.ph/wp-content/uploads/2023/07/DENR_News_Alerts_09_July_2023_Sunday_opt.pdf",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "siargao-alegria-beach",
+      "name": "Alegria Beach",
+      "destination_group": "Siargao",
+      "region": "Caraga",
+      "province": "Surigao del Norte",
+      "city_municipality": "Santa Monica",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Nature",
+      "description": "Beach in Siargao’s northern Santa Monica area.",
+      "interests": [
+        "Beach Bum",
+        "Nature Lover"
+      ],
+      "itinerary_base_slug": "siargao",
+      "catalog_stop_id": "siargao-alegria-beach",
+      "status": "accepted",
+      "decision_reason": "Distinct place and actual municipality verified; no current access or scheduling promise.",
+      "sources": {
+        "identity": {
+          "sourceName": "Department of Tourism London — Siargao brochure",
+          "sourceUrl": "https://itsmorefuninthephilippines.co.uk/wp-content/uploads/PDOTL_Siargao_Web.pdf",
+          "dateChecked": "2026-10-19",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Province of Surigao del Norte — Santa Monica named attractions",
+          "sourceUrl": "https://surigaodelnorte.gov.ph/santa-monica/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "siargao-taktak-falls",
+      "name": "Taktak Falls",
+      "destination_group": "Siargao",
+      "region": "Caraga",
+      "province": "Surigao del Norte",
+      "city_municipality": "Santa Monica",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Nature",
+      "description": "Waterfall destination near Santa Monica.",
+      "interests": [
+        "Nature Lover",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "siargao",
+      "catalog_stop_id": "siargao-taktak-falls",
+      "status": "accepted",
+      "decision_reason": "Distinct place and actual municipality verified; no current access or scheduling promise.",
+      "sources": {
+        "identity": {
+          "sourceName": "Department of Tourism London — Siargao brochure",
+          "sourceUrl": "https://itsmorefuninthephilippines.co.uk/wp-content/uploads/PDOTL_Siargao_Web.pdf",
+          "dateChecked": "2026-10-19",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Province of Surigao del Norte — Santa Monica named attractions",
+          "sourceUrl": "https://surigaodelnorte.gov.ph/santa-monica/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "siargao-santa-monica-pier",
+      "name": "Santa Monica Pier",
+      "destination_group": "Siargao",
+      "region": "Caraga",
+      "province": "Surigao del Norte",
+      "city_municipality": "Santa Monica",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Culture",
+      "description": "Pier listed in northern Siargao tourism guidance.",
+      "interests": [
+        "Culture Seeker",
+        "City Wanderer"
+      ],
+      "itinerary_base_slug": "siargao",
+      "catalog_stop_id": "siargao-santa-monica-pier",
+      "status": "accepted",
+      "decision_reason": "Distinct place and actual municipality verified; no current access or scheduling promise.",
+      "sources": {
+        "identity": {
+          "sourceName": "Department of Tourism London — Siargao brochure",
+          "sourceUrl": "https://itsmorefuninthephilippines.co.uk/wp-content/uploads/PDOTL_Siargao_Web.pdf",
+          "dateChecked": "2026-10-19",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Department of Tourism London — northern Siargao destinations and Santa Monica Pier",
+          "sourceUrl": "https://itsmorefuninthephilippines.co.uk/wp-content/uploads/PDOTL_Siargao_Web.pdf",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "siargao-del-carmen-mangrove-viewdeck",
+      "name": "Del Carmen Mangrove Viewdeck",
+      "destination_group": "Siargao",
+      "region": "Caraga",
+      "province": "Surigao del Norte",
+      "city_municipality": "Del Carmen",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Nature",
+      "description": "Mangrove viewing site in Del Carmen.",
+      "interests": [
+        "Nature Lover",
+        "Hidden Gem Collector"
+      ],
+      "itinerary_base_slug": null,
+      "catalog_stop_id": null,
+      "status": "accepted",
+      "decision_reason": "Distinct place and actual municipality verified; no current access or scheduling promise.",
+      "sources": {
+        "identity": {
+          "sourceName": "DENR — Siargao ecotourism sites and actual municipalities, July 2023 bulletin",
+          "sourceUrl": "https://denr.gov.ph/wp-content/uploads/2023/07/DENR_News_Alerts_09_July_2023_Sunday_opt.pdf",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "DENR — Siargao ecotourism sites and actual municipalities, July 2023 bulletin",
+          "sourceUrl": "https://denr.gov.ph/wp-content/uploads/2023/07/DENR_News_Alerts_09_July_2023_Sunday_opt.pdf",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "siargao-poneas-lake",
+      "name": "Poneas Lake",
+      "destination_group": "Siargao",
+      "region": "Caraga",
+      "province": "Surigao del Norte",
+      "city_municipality": "San Benito",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Nature",
+      "description": "Named lake in San Benito.",
+      "interests": [
+        "Nature Lover",
+        "Hidden Gem Collector"
+      ],
+      "itinerary_base_slug": null,
+      "catalog_stop_id": null,
+      "status": "accepted",
+      "decision_reason": "Distinct place and actual municipality verified; no current access or scheduling promise.",
+      "sources": {
+        "identity": {
+          "sourceName": "DENR — Siargao ecotourism sites and actual municipalities, July 2023 bulletin",
+          "sourceUrl": "https://denr.gov.ph/wp-content/uploads/2023/07/DENR_News_Alerts_09_July_2023_Sunday_opt.pdf",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "DENR — Siargao ecotourism sites and actual municipalities, July 2023 bulletin",
+          "sourceUrl": "https://denr.gov.ph/wp-content/uploads/2023/07/DENR_News_Alerts_09_July_2023_Sunday_opt.pdf",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "siargao-sohoton-cove",
+      "name": "Sohoton Cove",
+      "destination_group": "Siargao",
+      "region": "Caraga",
+      "province": "Surigao del Norte",
+      "city_municipality": "Socorro",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Nature",
+      "description": "Cove on Bucas Grande, a separate island.",
+      "interests": [
+        "Nature Lover",
+        "Hidden Gem Collector"
+      ],
+      "itinerary_base_slug": null,
+      "catalog_stop_id": null,
+      "status": "accepted",
+      "decision_reason": "Distinct place and actual municipality verified; no current access or scheduling promise.",
+      "sources": {
+        "identity": {
+          "sourceName": "DENR — Siargao ecotourism sites and actual municipalities, July 2023 bulletin",
+          "sourceUrl": "https://denr.gov.ph/wp-content/uploads/2023/07/DENR_News_Alerts_09_July_2023_Sunday_opt.pdf",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "DENR — Siargao ecotourism sites and actual municipalities, July 2023 bulletin",
+          "sourceUrl": "https://denr.gov.ph/wp-content/uploads/2023/07/DENR_News_Alerts_09_July_2023_Sunday_opt.pdf",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "siargao-corregidor-island",
+      "name": "Corregidor Island",
+      "destination_group": "Siargao",
+      "region": "Caraga",
+      "province": "Surigao del Norte",
+      "city_municipality": "Dapa",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Nature",
+      "description": "Offshore island associated with Dapa.",
+      "interests": [
+        "Nature Lover",
+        "Hidden Gem Collector"
+      ],
+      "itinerary_base_slug": null,
+      "catalog_stop_id": null,
+      "status": "accepted",
+      "decision_reason": "Distinct place and actual municipality verified; no current access or scheduling promise.",
+      "sources": {
+        "identity": {
+          "sourceName": "DENR — Siargao ecotourism sites and actual municipalities, July 2023 bulletin",
+          "sourceUrl": "https://denr.gov.ph/wp-content/uploads/2023/07/DENR_News_Alerts_09_July_2023_Sunday_opt.pdf",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "DENR — Siargao ecotourism sites and actual municipalities, July 2023 bulletin",
+          "sourceUrl": "https://denr.gov.ph/wp-content/uploads/2023/07/DENR_News_Alerts_09_July_2023_Sunday_opt.pdf",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "siargao-paghungawan-marsh",
+      "name": "Paghungawan Marsh",
+      "destination_group": "Siargao",
+      "region": "Caraga",
+      "province": "Surigao del Norte",
+      "city_municipality": "Pilar",
+      "barangay": "Jaboy",
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Nature",
+      "description": "Wetland and crocodile-conservation habitat.",
+      "interests": [
+        "Nature Lover"
+      ],
+      "itinerary_base_slug": null,
+      "catalog_stop_id": null,
+      "status": "accepted",
+      "decision_reason": "Distinct place and actual municipality verified; no current access or scheduling promise.",
+      "sources": {
+        "identity": {
+          "sourceName": "Caraga State University journal — Paghungawan Marsh study site in Pilar",
+          "sourceUrl": "https://journals.carsu.edu.ph/JESEG/article/download/131/118/450",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Caraga State University journal — Paghungawan Marsh study site in Pilar",
+          "sourceUrl": "https://journals.carsu.edu.ph/JESEG/article/download/131/118/450",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "Caraga State University journal — Paghungawan Marsh study site in Pilar",
+          "sourceUrl": "https://journals.carsu.edu.ph/JESEG/article/download/131/118/450",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "siargao-somyot-cave",
+      "name": "Somyot Cave",
+      "destination_group": "Siargao",
+      "region": "Caraga",
+      "province": "Surigao del Norte",
+      "city_municipality": "Burgos",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Nature",
+      "description": "Cave listed among Burgos’s terrestrial ecotourism sites.",
+      "interests": [
+        "Adventure Junkie",
+        "Nature Lover"
+      ],
+      "itinerary_base_slug": null,
+      "catalog_stop_id": null,
+      "status": "rejected",
+      "decision_reason": "Verified physical place; editorial surplus outside the initial 200-place selection. Retained as a future expansion candidate, without a current access or availability claim.",
+      "sources": {
+        "identity": {
+          "sourceName": "SIPLAS Management Plan 2021–2030 — municipal ecotourism and wetland inventory",
+          "sourceUrl": "https://rsis.ramsar.org/RISapp/files/57292175/documents/PH2553_mgt230606.pdf",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "SIPLAS Management Plan 2021–2030 — municipal ecotourism and wetland inventory",
+          "sourceUrl": "https://rsis.ramsar.org/RISapp/files/57292175/documents/PH2553_mgt230606.pdf",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "siargao-osmena-wetland",
+      "name": "Osmeña Wetland",
+      "destination_group": "Siargao",
+      "region": "Caraga",
+      "province": "Surigao del Norte",
+      "city_municipality": "Dapa",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Nature",
+      "description": "Named wetland in Dapa documented in SIPLAS research.",
+      "interests": [
+        "Nature Lover"
+      ],
+      "itinerary_base_slug": null,
+      "catalog_stop_id": null,
+      "status": "rejected",
+      "decision_reason": "Verified physical place; editorial surplus outside the initial 200-place selection. Retained as a future expansion candidate, without a current access or availability claim.",
+      "sources": {
+        "identity": {
+          "sourceName": "BusinessMirror / DENR-Caraga SIPLAS — named ecotourism sites",
+          "sourceUrl": "https://businessmirror.com.ph/2023/07/08/saving-siargao-island-paradise-battling-environmental-woes/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "SIPLAS Management Plan 2021–2030 — municipal ecotourism and wetland inventory",
+          "sourceUrl": "https://rsis.ramsar.org/RISapp/files/57292175/documents/PH2553_mgt230606.pdf",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    }
+  ]
+}

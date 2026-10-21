@@ -1,0 +1,742 @@
+{
+  "destination": "Batanes",
+  "batch": 1,
+  "kind": "Export snapshot of reviewed candidate batch",
+  "entries": [
+    {
+      "id": "batanes-basco-cathedral",
+      "name": "Basco Cathedral",
+      "destination_group": "Batanes",
+      "region": "Cagayan Valley",
+      "province": "Batanes",
+      "city_municipality": "Basco",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Culture",
+      "description": "A historic limestone church in Basco.",
+      "interests": [
+        "Culture Seeker",
+        "City Wanderer"
+      ],
+      "itinerary_base_slug": "batanes",
+      "catalog_stop_id": "batanes-basco-cathedral",
+      "status": "accepted",
+      "decision_reason": "Distinct physical place with verified identity and actual municipality.",
+      "sources": {
+        "identity": {
+          "sourceName": "Batanes Provincial Heritage and Tourism Office - tourism map",
+          "sourceUrl": "https://breathtakingbatanes.com/maps/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Batanes Provincial Heritage and Tourism Office - tourism map",
+          "sourceUrl": "https://breathtakingbatanes.com/maps/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "batanes-valugan-boulder-beach",
+      "name": "Valugan Boulder Beach",
+      "destination_group": "Batanes",
+      "region": "Cagayan Valley",
+      "province": "Batanes",
+      "city_municipality": "Basco",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Nature",
+      "description": "A boulder shoreline near Basco.",
+      "interests": [
+        "Nature Lover",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "batanes",
+      "catalog_stop_id": "batanes-valugan-boulder-beach",
+      "status": "accepted",
+      "decision_reason": "Distinct physical place with verified identity and actual municipality.",
+      "sources": {
+        "identity": {
+          "sourceName": "Batanes Provincial Heritage and Tourism Office - tourism map",
+          "sourceUrl": "https://breathtakingbatanes.com/maps/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Batanes Provincial Heritage and Tourism Office - tourism map",
+          "sourceUrl": "https://breathtakingbatanes.com/maps/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "batanes-vayang-rolling-hills",
+      "name": "Basco Rolling Hills (Vayang)",
+      "destination_group": "Batanes",
+      "region": "Cagayan Valley",
+      "province": "Batanes",
+      "city_municipality": "Basco",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Nature",
+      "description": "A hillside landscape in North Batan.",
+      "interests": [
+        "Nature Lover",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "batanes",
+      "catalog_stop_id": "batanes-vayang-rolling-hills",
+      "status": "accepted",
+      "decision_reason": "Distinct physical place with verified identity and actual municipality.",
+      "sources": {
+        "identity": {
+          "sourceName": "Batanes Provincial Heritage and Tourism Office - tourism map",
+          "sourceUrl": "https://breathtakingbatanes.com/maps/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Batanes Provincial Heritage and Tourism Office - tourism map",
+          "sourceUrl": "https://breathtakingbatanes.com/maps/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "batanes-tukon-chapel",
+      "name": "Tukon Chapel",
+      "destination_group": "Batanes",
+      "region": "Cagayan Valley",
+      "province": "Batanes",
+      "city_municipality": "Basco",
+      "barangay": null,
+      "address": null,
+      "latitude": 20.43,
+      "longitude": 121.97056,
+      "category": "Culture",
+      "description": "A chapel on the North Batan circuit.",
+      "interests": [
+        "Culture Seeker",
+        "City Wanderer"
+      ],
+      "itinerary_base_slug": "batanes",
+      "catalog_stop_id": "batanes-tukon-chapel",
+      "status": "accepted",
+      "decision_reason": "Distinct physical place with verified identity and actual municipality.",
+      "sources": {
+        "identity": {
+          "sourceName": "Batanes Provincial Heritage and Tourism Office - tourism map",
+          "sourceUrl": "https://breathtakingbatanes.com/maps/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Batanes Provincial Heritage and Tourism Office - tourism map",
+          "sourceUrl": "https://breathtakingbatanes.com/maps/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": "Wikipedia - Tukon Chapel, reference coordinates",
+          "sourceUrl": "https://en.wikipedia.org/wiki/Tukon_Chapel",
+          "dateChecked": "2026-10-19",
+          "status": "estimate"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "batanes-dipnaysupuan-tunnel",
+      "name": "Dipnaysupuan Japanese Tunnel",
+      "destination_group": "Batanes",
+      "region": "Cagayan Valley",
+      "province": "Batanes",
+      "city_municipality": "Basco",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Culture",
+      "description": "A wartime tunnel in the Tukon hills.",
+      "interests": [
+        "Culture Seeker",
+        "City Wanderer"
+      ],
+      "itinerary_base_slug": "batanes",
+      "catalog_stop_id": "batanes-dipnaysupuan-tunnel",
+      "status": "accepted",
+      "decision_reason": "Distinct physical place with verified identity and actual municipality.",
+      "sources": {
+        "identity": {
+          "sourceName": "Batanes Provincial Heritage and Tourism Office - tourism map",
+          "sourceUrl": "https://breathtakingbatanes.com/maps/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Batanes Provincial Heritage and Tourism Office - tourism map",
+          "sourceUrl": "https://breathtakingbatanes.com/maps/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "batanes-fundacion-pacita",
+      "name": "Fundacion Pacita",
+      "destination_group": "Batanes",
+      "region": "Cagayan Valley",
+      "province": "Batanes",
+      "city_municipality": "Basco",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Culture",
+      "description": "An art-associated lodge at Chanarian-Tukon.",
+      "interests": [
+        "Culture Seeker",
+        "City Wanderer"
+      ],
+      "itinerary_base_slug": "batanes",
+      "catalog_stop_id": "batanes-fundacion-pacita",
+      "status": "accepted",
+      "decision_reason": "Distinct physical place with verified identity and actual municipality.",
+      "sources": {
+        "identity": {
+          "sourceName": "Batanes Provincial Heritage and Tourism Office - tourism map",
+          "sourceUrl": "https://breathtakingbatanes.com/maps/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Batanes Provincial Heritage and Tourism Office - tourism map",
+          "sourceUrl": "https://breathtakingbatanes.com/maps/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "batanes-san-carlos-borromeo",
+      "name": "San Carlos Borromeo Church",
+      "destination_group": "Batanes",
+      "region": "Cagayan Valley",
+      "province": "Batanes",
+      "city_municipality": "Mahatao",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Culture",
+      "description": "A heritage church in Mahatao.",
+      "interests": [
+        "Culture Seeker",
+        "City Wanderer"
+      ],
+      "itinerary_base_slug": null,
+      "catalog_stop_id": "batanes-san-carlos-borromeo",
+      "status": "accepted",
+      "decision_reason": "Distinct physical place with verified identity and actual municipality.",
+      "sources": {
+        "identity": {
+          "sourceName": "Batanes Provincial Heritage and Tourism Office - tourism map",
+          "sourceUrl": "https://breathtakingbatanes.com/maps/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Batanes Provincial Heritage and Tourism Office - tourism map",
+          "sourceUrl": "https://breathtakingbatanes.com/maps/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "batanes-rakuh-a-payaman",
+      "name": "Rakuh-a-Payaman",
+      "destination_group": "Batanes",
+      "region": "Cagayan Valley",
+      "province": "Batanes",
+      "city_municipality": "Mahatao",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Nature",
+      "description": "A communal pasture landscape in Mahatao.",
+      "interests": [
+        "Nature Lover",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": null,
+      "catalog_stop_id": "batanes-rakuh-a-payaman",
+      "status": "accepted",
+      "decision_reason": "Distinct physical place with verified identity and actual municipality.",
+      "sources": {
+        "identity": {
+          "sourceName": "Batanes Provincial Heritage and Tourism Office - tourism map",
+          "sourceUrl": "https://breathtakingbatanes.com/maps/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Batanes Provincial Heritage and Tourism Office - tourism map",
+          "sourceUrl": "https://breathtakingbatanes.com/maps/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "batanes-diura-village",
+      "name": "Diura Fishing Village",
+      "destination_group": "Batanes",
+      "region": "Cagayan Valley",
+      "province": "Batanes",
+      "city_municipality": "Mahatao",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Culture",
+      "description": "A working fishing community in Mahatao.",
+      "interests": [
+        "Culture Seeker",
+        "City Wanderer"
+      ],
+      "itinerary_base_slug": null,
+      "catalog_stop_id": "batanes-diura-village",
+      "status": "accepted",
+      "decision_reason": "Distinct physical place with verified identity and actual municipality.",
+      "sources": {
+        "identity": {
+          "sourceName": "Batanes Provincial Heritage and Tourism Office - tourism map",
+          "sourceUrl": "https://breathtakingbatanes.com/maps/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Batanes Provincial Heritage and Tourism Office - tourism map",
+          "sourceUrl": "https://breathtakingbatanes.com/maps/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "batanes-house-of-dakay",
+      "name": "House of Dakay",
+      "destination_group": "Batanes",
+      "region": "Cagayan Valley",
+      "province": "Batanes",
+      "city_municipality": "Ivana",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Culture",
+      "description": "A historic house in Ivana.",
+      "interests": [
+        "Culture Seeker",
+        "City Wanderer"
+      ],
+      "itinerary_base_slug": null,
+      "catalog_stop_id": "batanes-house-of-dakay",
+      "status": "accepted",
+      "decision_reason": "Distinct physical place with verified identity and actual municipality.",
+      "sources": {
+        "identity": {
+          "sourceName": "Batanes Provincial Heritage and Tourism Office - tourism map",
+          "sourceUrl": "https://breathtakingbatanes.com/maps/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Batanes Provincial Heritage and Tourism Office - tourism map",
+          "sourceUrl": "https://breathtakingbatanes.com/maps/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "batanes-basco-plaza",
+      "name": "Basco Plaza",
+      "destination_group": "Batanes",
+      "region": "Cagayan Valley",
+      "province": "Batanes",
+      "city_municipality": "Basco",
+      "barangay": null,
+      "address": "National Road",
+      "latitude": null,
+      "longitude": null,
+      "category": "Parks & markets",
+      "description": "A plaza stop in Basco town.",
+      "interests": [
+        "Nature Lover",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "batanes",
+      "catalog_stop_id": "batanes-basco-plaza",
+      "status": "accepted",
+      "decision_reason": "Distinct physical place with verified identity and actual municipality.",
+      "sources": {
+        "identity": {
+          "sourceName": "Wikivoyage - Basco visitor listings",
+          "sourceUrl": "https://en.wikivoyage.org/wiki/Basco",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Wikivoyage - Basco visitor listings",
+          "sourceUrl": "https://en.wikivoyage.org/wiki/Basco",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "Wikivoyage - Basco visitor listings",
+          "sourceUrl": "https://en.wikivoyage.org/wiki/Basco",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "batanes-basco-lighthouse-area",
+      "name": "Basco Lighthouse",
+      "destination_group": "Batanes",
+      "region": "Cagayan Valley",
+      "province": "Batanes",
+      "city_municipality": "Basco",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Culture",
+      "description": "A lighthouse on Naidi Hills.",
+      "interests": [
+        "Culture Seeker",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "batanes",
+      "catalog_stop_id": "batanes-basco-lighthouse-area",
+      "status": "accepted",
+      "decision_reason": "Distinct physical place with verified identity and actual municipality.",
+      "sources": {
+        "identity": {
+          "sourceName": "Batanes Provincial Heritage and Tourism Office - tourism map",
+          "sourceUrl": "https://breathtakingbatanes.com/maps/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Batanes Provincial Heritage and Tourism Office - tourism map",
+          "sourceUrl": "https://breathtakingbatanes.com/maps/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "batanes-casa-real",
+      "name": "Casa Real",
+      "destination_group": "Batanes",
+      "region": "Cagayan Valley",
+      "province": "Batanes",
+      "city_municipality": "Basco",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Culture",
+      "description": "The provincial capitol heritage building.",
+      "interests": [
+        "Culture Seeker",
+        "City Wanderer"
+      ],
+      "itinerary_base_slug": "batanes",
+      "catalog_stop_id": "batanes-casa-real",
+      "status": "rejected",
+      "decision_reason": "Working government building omitted in favor of places with clearer visitor purpose.",
+      "sources": {
+        "identity": {
+          "sourceName": "Batanes Provincial Heritage and Tourism Office - tourism map",
+          "sourceUrl": "https://breathtakingbatanes.com/maps/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Batanes Provincial Heritage and Tourism Office - tourism map",
+          "sourceUrl": "https://breathtakingbatanes.com/maps/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "batanes-mount-iraya",
+      "name": "Mount Iraya",
+      "destination_group": "Batanes",
+      "region": "Cagayan Valley",
+      "province": "Batanes",
+      "city_municipality": "Basco",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Nature",
+      "description": "A mountain route above Basco.",
+      "interests": [
+        "Adventure Junkie",
+        "Mountain Explorer"
+      ],
+      "itinerary_base_slug": "batanes",
+      "catalog_stop_id": "batanes-mount-iraya",
+      "status": "unresolved",
+      "decision_reason": "Current guided climbing access and permit arrangements need confirmation.",
+      "sources": {
+        "identity": {
+          "sourceName": "Department of Tourism Region 2 - Batanes",
+          "sourceUrl": "https://www.region2fun.ph/official/batanes-2/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Department of Tourism Region 2 - Batanes",
+          "sourceUrl": "https://www.region2fun.ph/official/batanes-2/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "batanes-chadpidan-bay",
+      "name": "Chadpidan Bay",
+      "destination_group": "Batanes",
+      "region": "Cagayan Valley",
+      "province": "Batanes",
+      "city_municipality": "Basco",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Nature",
+      "description": "A coastal walking destination from Basco.",
+      "interests": [
+        "Nature Lover",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "batanes",
+      "catalog_stop_id": "batanes-chadpidan-bay",
+      "status": "unresolved",
+      "decision_reason": "Current trail access and visitor arrangements need clearer confirmation.",
+      "sources": {
+        "identity": {
+          "sourceName": "Department of Tourism Region 2 - Batanes",
+          "sourceUrl": "https://www.region2fun.ph/official/batanes-2/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Department of Tourism Region 2 - Batanes",
+          "sourceUrl": "https://www.region2fun.ph/official/batanes-2/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    }
+  ]
+}

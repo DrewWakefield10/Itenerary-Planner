@@ -1,0 +1,696 @@
+{
+  "destination": "Sagada",
+  "batch": 1,
+  "kind": "Export snapshot of reviewed candidate batch",
+  "entries": [
+    {
+      "id": "sagada-sumaguing-cave",
+      "name": "Sumaguing Cave",
+      "destination_group": "Sagada",
+      "region": "Cordillera Administrative Region",
+      "province": "Mountain Province",
+      "city_municipality": "Sagada",
+      "barangay": null,
+      "address": null,
+      "latitude": 17.06673,
+      "longitude": 120.90297,
+      "category": "Nature",
+      "description": "Sagada cave known locally as Sumaging or the Big Cave.",
+      "interests": [
+        "Adventure Junkie",
+        "Nature Lover"
+      ],
+      "itinerary_base_slug": "sagada",
+      "catalog_stop_id": "sagada-sumaguing-cave",
+      "status": "accepted",
+      "decision_reason": "Distinct physical place with verified identity and actual municipality.",
+      "sources": {
+        "identity": {
+          "sourceName": "Municipality of Sagada - iPass destination directory",
+          "sourceUrl": "https://umali-kayo.sagada.gov.ph/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Municipality of Sagada - iPass destination directory",
+          "sourceUrl": "https://umali-kayo.sagada.gov.ph/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": "Wikidata / Wikimedia Commons - Sumaguing Cave, reference coordinates",
+          "sourceUrl": "https://www.wikidata.org/wiki/Q91479447",
+          "dateChecked": "2026-10-19",
+          "status": "estimate"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "sagada-lumiang-cave",
+      "name": "Lumiang Cave",
+      "destination_group": "Sagada",
+      "region": "Cordillera Administrative Region",
+      "province": "Mountain Province",
+      "city_municipality": "Sagada",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Culture",
+      "description": "A cave associated with Sagada's burial traditions.",
+      "interests": [
+        "Culture Seeker",
+        "City Wanderer"
+      ],
+      "itinerary_base_slug": "sagada",
+      "catalog_stop_id": "sagada-lumiang-cave",
+      "status": "accepted",
+      "decision_reason": "Distinct physical place with verified identity and actual municipality.",
+      "sources": {
+        "identity": {
+          "sourceName": "Municipality of Sagada - iPass destination directory",
+          "sourceUrl": "https://umali-kayo.sagada.gov.ph/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Municipality of Sagada - iPass destination directory",
+          "sourceUrl": "https://umali-kayo.sagada.gov.ph/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "sagada-bomod-ok-falls",
+      "name": "Bomod-ok Falls",
+      "destination_group": "Sagada",
+      "region": "Cordillera Administrative Region",
+      "province": "Mountain Province",
+      "city_municipality": "Sagada",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Nature",
+      "description": "A waterfall reached on a separately planned Sagada hike.",
+      "interests": [
+        "Nature Lover",
+        "Slow Traveler",
+        "Mountain Explorer"
+      ],
+      "itinerary_base_slug": "sagada",
+      "catalog_stop_id": "sagada-bomod-ok-falls",
+      "status": "accepted",
+      "decision_reason": "Distinct physical place with verified identity and actual municipality.",
+      "sources": {
+        "identity": {
+          "sourceName": "Municipality of Sagada - iPass destination directory",
+          "sourceUrl": "https://umali-kayo.sagada.gov.ph/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Municipality of Sagada - iPass destination directory",
+          "sourceUrl": "https://umali-kayo.sagada.gov.ph/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "sagada-hanging-coffins",
+      "name": "Hanging Coffins",
+      "destination_group": "Sagada",
+      "region": "Cordillera Administrative Region",
+      "province": "Mountain Province",
+      "city_municipality": "Sagada",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Culture",
+      "description": "Cliffside coffins reflecting Sagada's burial traditions.",
+      "interests": [
+        "Culture Seeker",
+        "City Wanderer"
+      ],
+      "itinerary_base_slug": "sagada",
+      "catalog_stop_id": "sagada-hanging-coffins",
+      "status": "accepted",
+      "decision_reason": "Distinct physical place with verified identity and actual municipality.",
+      "sources": {
+        "identity": {
+          "sourceName": "Municipality of Sagada - iPass destination directory",
+          "sourceUrl": "https://umali-kayo.sagada.gov.ph/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Municipality of Sagada - iPass destination directory",
+          "sourceUrl": "https://umali-kayo.sagada.gov.ph/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "sagada-bokong-falls",
+      "name": "Bokong Falls",
+      "destination_group": "Sagada",
+      "region": "Cordillera Administrative Region",
+      "province": "Mountain Province",
+      "city_municipality": "Sagada",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Nature",
+      "description": "A waterfall destination on a Sagada walking route.",
+      "interests": [
+        "Nature Lover",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "sagada",
+      "catalog_stop_id": "sagada-bokong-falls",
+      "status": "accepted",
+      "decision_reason": "Distinct physical place with verified identity and actual municipality.",
+      "sources": {
+        "identity": {
+          "sourceName": "Municipality of Sagada - iPass destination directory",
+          "sourceUrl": "https://umali-kayo.sagada.gov.ph/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Municipality of Sagada - iPass destination directory",
+          "sourceUrl": "https://umali-kayo.sagada.gov.ph/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "sagada-blue-soil",
+      "name": "Blue Soil Hills",
+      "destination_group": "Sagada",
+      "region": "Cordillera Administrative Region",
+      "province": "Mountain Province",
+      "city_municipality": "Sagada",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Nature",
+      "description": "Sagada hills known for their distinctive blue soil.",
+      "interests": [
+        "Nature Lover",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "sagada",
+      "catalog_stop_id": "sagada-blue-soil",
+      "status": "accepted",
+      "decision_reason": "Distinct physical place with verified identity and actual municipality.",
+      "sources": {
+        "identity": {
+          "sourceName": "Municipality of Sagada - iPass destination directory",
+          "sourceUrl": "https://umali-kayo.sagada.gov.ph/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Municipality of Sagada - iPass destination directory",
+          "sourceUrl": "https://umali-kayo.sagada.gov.ph/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "sagada-marlboro-hills",
+      "name": "Marlboro Hills",
+      "destination_group": "Sagada",
+      "region": "Cordillera Administrative Region",
+      "province": "Mountain Province",
+      "city_municipality": "Sagada",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Nature",
+      "description": "A Sagada hill viewpoint also called Marlboro Country.",
+      "interests": [
+        "Nature Lover",
+        "Slow Traveler",
+        "Mountain Explorer"
+      ],
+      "itinerary_base_slug": "sagada",
+      "catalog_stop_id": "sagada-marlboro-hills",
+      "status": "accepted",
+      "decision_reason": "Distinct physical place with verified identity and actual municipality.",
+      "sources": {
+        "identity": {
+          "sourceName": "Municipality of Sagada - iPass destination directory",
+          "sourceUrl": "https://umali-kayo.sagada.gov.ph/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Municipality of Sagada - iPass destination directory",
+          "sourceUrl": "https://umali-kayo.sagada.gov.ph/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "sagada-ampacao",
+      "name": "Mount Ampacao",
+      "destination_group": "Sagada",
+      "region": "Cordillera Administrative Region",
+      "province": "Mountain Province",
+      "city_municipality": "Sagada",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Nature",
+      "description": "A mountain viewpoint route above Sagada.",
+      "interests": [
+        "Nature Lover",
+        "Slow Traveler",
+        "Mountain Explorer"
+      ],
+      "itinerary_base_slug": "sagada",
+      "catalog_stop_id": "sagada-ampacao",
+      "status": "accepted",
+      "decision_reason": "Distinct physical place with verified identity and actual municipality.",
+      "sources": {
+        "identity": {
+          "sourceName": "Municipality of Sagada - iPass destination directory",
+          "sourceUrl": "https://umali-kayo.sagada.gov.ph/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Municipality of Sagada - iPass destination directory",
+          "sourceUrl": "https://umali-kayo.sagada.gov.ph/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "sagada-balangagan-cave",
+      "name": "Balangagan Cave",
+      "destination_group": "Sagada",
+      "region": "Cordillera Administrative Region",
+      "province": "Mountain Province",
+      "city_municipality": "Sagada",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Nature",
+      "description": "A cave destination for a separately arranged Sagada outing.",
+      "interests": [
+        "Adventure Junkie",
+        "Nature Lover"
+      ],
+      "itinerary_base_slug": "sagada",
+      "catalog_stop_id": "sagada-balangagan-cave",
+      "status": "accepted",
+      "decision_reason": "Distinct physical place with verified identity and actual municipality.",
+      "sources": {
+        "identity": {
+          "sourceName": "Municipality of Sagada - iPass destination directory",
+          "sourceUrl": "https://umali-kayo.sagada.gov.ph/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Municipality of Sagada - iPass destination directory",
+          "sourceUrl": "https://umali-kayo.sagada.gov.ph/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "sagada-church-of-saint-mary-area",
+      "name": "Church of Saint Mary the Virgin",
+      "destination_group": "Sagada",
+      "region": "Cordillera Administrative Region",
+      "province": "Mountain Province",
+      "city_municipality": "Sagada",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Culture",
+      "description": "An Episcopal church in Sagada.",
+      "interests": [
+        "Culture Seeker",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "sagada",
+      "catalog_stop_id": "sagada-church-of-saint-mary-area",
+      "status": "accepted",
+      "decision_reason": "Distinct physical place with verified identity and actual municipality.",
+      "sources": {
+        "identity": {
+          "sourceName": "Wikipedia - Church of Saint Mary the Virgin (Sagada)",
+          "sourceUrl": "https://en.wikipedia.org/wiki/Church_of_Saint_Mary_the_Virgin_(Sagada)",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Wikipedia - Church of Saint Mary the Virgin (Sagada)",
+          "sourceUrl": "https://en.wikipedia.org/wiki/Church_of_Saint_Mary_the_Virgin_(Sagada)",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "sagada-nabas-ang",
+      "name": "Nabas-Ang",
+      "destination_group": "Sagada",
+      "region": "Cordillera Administrative Region",
+      "province": "Mountain Province",
+      "city_municipality": "Sagada",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Nature",
+      "description": "A ridge-trail outing.",
+      "interests": [
+        "Adventure Junkie",
+        "Mountain Explorer"
+      ],
+      "itinerary_base_slug": "sagada",
+      "catalog_stop_id": "sagada-nabas-ang",
+      "status": "rejected",
+      "decision_reason": "Trail overlaps Mount Ampacao; omitted to avoid presenting a shared route as an extra independent attraction.",
+      "sources": {
+        "identity": {
+          "sourceName": "Municipality of Sagada - iPass destination directory",
+          "sourceUrl": "https://umali-kayo.sagada.gov.ph/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Municipality of Sagada - iPass destination directory",
+          "sourceUrl": "https://umali-kayo.sagada.gov.ph/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "sagada-langsayan",
+      "name": "Langsayan",
+      "destination_group": "Sagada",
+      "region": "Cordillera Administrative Region",
+      "province": "Mountain Province",
+      "city_municipality": "Sagada",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Nature",
+      "description": "A terrace-view route.",
+      "interests": [
+        "Nature Lover",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "sagada",
+      "catalog_stop_id": "sagada-langsayan",
+      "status": "unresolved",
+      "decision_reason": "Current visitor route and access arrangements need clearer confirmation.",
+      "sources": {
+        "identity": {
+          "sourceName": "Municipality of Sagada - iPass destination directory",
+          "sourceUrl": "https://umali-kayo.sagada.gov.ph/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Municipality of Sagada - iPass destination directory",
+          "sourceUrl": "https://umali-kayo.sagada.gov.ph/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "sagada-pongas-falls",
+      "name": "Pongas Falls",
+      "destination_group": "Sagada",
+      "region": "Cordillera Administrative Region",
+      "province": "Mountain Province",
+      "city_municipality": "Sagada",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Nature",
+      "description": "A waterfall excursion.",
+      "interests": [
+        "Nature Lover",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "sagada",
+      "catalog_stop_id": "sagada-pongas-falls",
+      "status": "unresolved",
+      "decision_reason": "Current trail access needs confirmation before selection.",
+      "sources": {
+        "identity": {
+          "sourceName": "Municipality of Sagada - iPass destination directory",
+          "sourceUrl": "https://umali-kayo.sagada.gov.ph/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Municipality of Sagada - iPass destination directory",
+          "sourceUrl": "https://umali-kayo.sagada.gov.ph/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "sagada-ubwa-blue-lagoon",
+      "name": "Ubwa Blue Lagoon",
+      "destination_group": "Sagada",
+      "region": "Cordillera Administrative Region",
+      "province": "Mountain Province",
+      "city_municipality": "Sagada",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Nature",
+      "description": "A lagoon outing.",
+      "interests": [
+        "Nature Lover",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "sagada",
+      "catalog_stop_id": "sagada-ubwa-blue-lagoon",
+      "status": "unresolved",
+      "decision_reason": "Current public route and access need clearer evidence.",
+      "sources": {
+        "identity": {
+          "sourceName": "Municipality of Sagada - iPass destination directory",
+          "sourceUrl": "https://umali-kayo.sagada.gov.ph/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Municipality of Sagada - iPass destination directory",
+          "sourceUrl": "https://umali-kayo.sagada.gov.ph/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    }
+  ]
+}

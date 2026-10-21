@@ -50,7 +50,7 @@ test("long itineraries use unique places across days, conservative clusters and 
         for(const key of stopConflictKeys(s,d.stops)){assert.ok(!used.has(key),`${d.slug}: repeated ${key}`);used.add(key);}
         assert.equal(visitStart(s,day.date,minutes(a.start),minutes(a.start)+a.duration,a.duration),minutes(a.start));
         assert.deepEqual(a.entryPrice,s.entryPrice);assert.deepEqual(a.sources.location,s.sources.location);assert.equal(a.sources.schedule.status,"estimate");
-        if(a.visitMode!=="local"){assert.ok(a.duration>=480);assert.notEqual(day,trip.days[0]);assert.notEqual(day,trip.days.at(-1));}
+        if(a.visitMode!=="local"){assert.ok(a.duration>=480);assert.equal(a.sources.description.status,"estimate");assert.notEqual(day,trip.days[0]);assert.notEqual(day,trip.days.at(-1));}
       }
       assert.ok(new Set(visits.map(a=>a.cluster)).size<=1);
     }

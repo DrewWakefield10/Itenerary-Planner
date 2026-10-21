@@ -19,8 +19,15 @@ import {
   type DiscoveryPlace,
 } from "@/lib/discovery";
 import { destination, peso } from "@/lib/destinations";
-import {destinationGroups,directoryCategories,directoryListings,directoryGroupImages,filterDirectory,groupForBase,addressLabel} from "@/lib/catalog/directory";
-import {addableStop} from "@/lib/catalog/planning";
+import {
+  destinationGroups,
+  directoryCategories,
+  directoryListings,
+  directoryGroupImages,
+  filterDirectory,
+  groupForBase,
+} from "@/lib/catalog/directory";
+import { addableStop } from "@/lib/catalog/planning";
 import { blankActivity } from "@/lib/engine";
 import {
   interestFresh,
@@ -89,7 +96,12 @@ function PlaceCard({
       <div className="discovery-card-body">
         <p className="eyebrow">
           {place.directory?.city_municipality || base?.name}
-          {place.directory ? ` / ${place.directory.destination_group}` : base?.province ? ` / ${base.province}` : ""} · {place.category}
+          {place.directory
+            ? ` / ${place.directory.destination_group}`
+            : base?.province
+              ? ` / ${base.province}`
+              : ""}{" "}
+          · {place.category}
         </p>
         <Link href={`/discover/${place.id}`}>
           <h3>
@@ -136,15 +148,24 @@ function PlaceCard({
               : "Catalog discovery"}
           </span>
           <SourceIndicator source={place.source} label="Description" />
-          {place.reviewedOn && <time dateTime={place.reviewedOn}>Reviewed {dayLabel(place.reviewedOn)}</time>}
+          {place.reviewedOn && (
+            <time dateTime={place.reviewedOn}>
+              Reviewed {dayLabel(place.reviewedOn)}
+            </time>
+          )}
           {reviewExpired(place) && <span>Review needs updating</span>}
         </div>
         <div className="discovery-actions">
           <Link
             className="text-link"
-            href={place.baseSlug?`/planner?destinations=${place.baseSlug}`:"/planner"}
+            href={
+              place.baseSlug
+                ? `/planner?destinations=${place.baseSlug}`
+                : "/planner"
+            }
           >
-            {place.baseSlug?"Plan a trip here":"Choose an overnight base"} <ArrowUpRight size={14} />
+            {place.baseSlug ? "Plan a trip here" : "Choose an overnight base"}{" "}
+            <ArrowUpRight size={14} />
           </Link>
           {place.kind === "spot" && place.baseSlug && stop && onAdd && (
             <button
@@ -194,25 +215,47 @@ export default function Discover({ placeId }: { placeId?: string }) {
   const [search, setSearch] = useState(""),
     [area, setArea] = useState("all"),
     [category, setCategory] = useState("all"),
-    [interestFilter,setInterestFilter] = useState("all"),
-    [page,setPage] = useState(1),
-    [showBases,setShowBases] = useState(false);
-  const [filtersReady,setFiltersReady]=useState(false);
-  useEffect(()=>{
-    const restore=()=>{
-      const params=new URLSearchParams(window.location.search);
-      const group=params.get("destination")||groupForBase(params.get("base"));
-      setArea(group&&destinationGroups.includes(group as typeof destinationGroups[number])?group:"all");
-      setCategory(params.get("category")||"all");setInterestFilter(params.get("interest")||"all");setSearch(params.get("q")||"");
-      setPage(Math.max(1,Number(params.get("page"))||1));setFiltersReady(true);
+    [interestFilter, setInterestFilter] = useState("all"),
+    [page, setPage] = useState(1),
+    [showBases, setShowBases] = useState(false);
+  const [filtersReady, setFiltersReady] = useState(false);
+  useEffect(() => {
+    const restore = () => {
+      const params = new URLSearchParams(window.location.search);
+      const group =
+        params.get("destination") || groupForBase(params.get("base"));
+      setArea(
+        group &&
+          destinationGroups.includes(
+            group as (typeof destinationGroups)[number],
+          )
+          ? group
+          : "all",
+      );
+      setCategory(params.get("category") || "all");
+      setInterestFilter(params.get("interest") || "all");
+      setSearch(params.get("q") || "");
+      setPage(Math.max(1, Number(params.get("page")) || 1));
+      setFiltersReady(true);
     };
-    restore();window.addEventListener("popstate",restore);return()=>window.removeEventListener("popstate",restore);
-  },[]);
-  useEffect(()=>{
-    if(!filtersReady||placeId)return;
-    const params=new URLSearchParams();if(area!=="all")params.set("destination",area);if(category!=="all")params.set("category",category);if(interestFilter!=="all")params.set("interest",interestFilter);if(search)params.set("q",search);if(page>1)params.set("page",String(page));
-    window.history.replaceState(null,"",`/discover${params.size?`?${params}`:""}`);
-  },[area,category,interestFilter,search,page,filtersReady,placeId]);
+    restore();
+    window.addEventListener("popstate", restore);
+    return () => window.removeEventListener("popstate", restore);
+  }, []);
+  useEffect(() => {
+    if (!filtersReady || placeId) return;
+    const params = new URLSearchParams();
+    if (area !== "all") params.set("destination", area);
+    if (category !== "all") params.set("category", category);
+    if (interestFilter !== "all") params.set("interest", interestFilter);
+    if (search) params.set("q", search);
+    if (page > 1) params.set("page", String(page));
+    window.history.replaceState(
+      null,
+      "",
+      `/discover${params.size ? `?${params}` : ""}`,
+    );
+  }, [area, category, interestFilter, search, page, filtersReady, placeId]);
   const [nearBase, setNearBase] = useState("baguio"),
     [adding, setAdding] = useState<string | null>(null);
   const [currentTime, setCurrentTime] = useState(() => new Date());
@@ -239,9 +282,24 @@ export default function Discover({ placeId }: { placeId?: string }) {
   }, []);
   const place = placeId ? discoveryPlace(placeId) : undefined;
   const bases = discoveryPlaces.filter((p) => p.kind === "base");
-  const categories=directoryCategories;
-  const acceptedIds=new Set(filterDirectory({group:area,category,interest:interestFilter,search}).map(p=>p.id));
-  const matches=(p:DiscoveryPlace)=>p.kind==="spot"?acceptedIds.has(p.id):(area==="all"||groupForBase(p.baseSlug)===area);
+  const categories = directoryCategories;
+  const acceptedIds = new Set(
+    filterDirectory({
+      group: area,
+      category,
+      interest: interestFilter,
+      search,
+    }).map((p) => p.id),
+  );
+  const matches = (p: DiscoveryPlace) =>
+    p.kind === "spot"
+      ? acceptedIds.has(p.id)
+      : (area === "all" || groupForBase(p.baseSlug) === area) &&
+        category === "all" &&
+        interestFilter === "all" &&
+        `${p.name} ${p.description} ${groupForBase(p.baseSlug) || ""}`
+          .toLowerCase()
+          .includes(search.toLowerCase());
   const rows = (interest?.rows || []).map((row) => ({
     ...row,
     fresh:
@@ -255,8 +313,13 @@ export default function Discover({ placeId }: { placeId?: string }) {
       (a, b) => (b.comparison?.increase || 0) - (a.comparison?.increase || 0),
     );
   const nearby = nearbyDiscoveries(nearBase);
-  const spots=discoveryPlaces.filter(p=>p.kind==="spot"&&matches(p));
-  const interests=[...new Set(discoveryPlaces.flatMap(p=>p.interests||[]))].sort();
+  const spots = discoveryPlaces.filter((p) => p.kind === "spot" && matches(p));
+  useEffect(() => {
+    setPage((p) => Math.min(p, Math.max(1, Math.ceil(spots.length / 12))));
+  }, [spots.length, page]);
+  const interests = [
+    ...new Set(discoveryPlaces.flatMap((p) => p.interests || [])),
+  ].sort();
   return (
     <section className="page section discover-page">
       {placeId ? (
@@ -299,9 +362,58 @@ export default function Discover({ placeId }: { placeId?: string }) {
               <small>PLACES FIRST. STORIES FOLLOW.</small>
             </div>
           </div>
-          <section className="explore-destinations" aria-labelledby="explore-title">
-            <div className="section-heading"><div><h2 id="explore-title">Explore <em>Destinations.</em></h2><p>{directoryListings.length} reviewed locations across 11 browsing destinations. Each place keeps its actual city or municipality.</p></div></div>
-            <div className="destination-directory-grid">{destinationGroups.map(group=><button key={group} className={area===group?"directory-destination selected":"directory-destination"} aria-pressed={area===group} onClick={()=>{setArea(area===group?"all":group);setPage(1);}}><img src={`/images/${directoryGroupImages[group]}.jpg`} loading="lazy" alt="" /><span><strong>{group==="Manila"?"Metro Manila":group}</strong><small>{directoryListings.filter(p=>p.destination_group===group).length} locations</small></span></button>)}</div>
+          <section
+            className="explore-destinations"
+            aria-labelledby="explore-title"
+          >
+            <div className="section-heading">
+              <div>
+                <h2 id="explore-title">
+                  Explore <em>Destinations.</em>
+                </h2>
+                <p>
+                  {directoryListings.length} reviewed locations across 11
+                  browsing destinations. Each place keeps its actual city or
+                  municipality.
+                </p>
+              </div>
+            </div>
+            <div className="destination-directory-grid">
+              {destinationGroups.map((group) => (
+                <button
+                  key={group}
+                  className={
+                    area === group
+                      ? "directory-destination selected"
+                      : "directory-destination"
+                  }
+                  aria-pressed={area === group}
+                  onClick={() => {
+                    setArea(area === group ? "all" : group);
+                    setPage(1);
+                  }}
+                >
+                  <img
+                    src={`/images/${directoryGroupImages[group]}.jpg`}
+                    loading="lazy"
+                    alt=""
+                  />
+                  <span>
+                    <strong>
+                      {group === "Manila" ? "Metro Manila" : group}
+                    </strong>
+                    <small>
+                      {
+                        directoryListings.filter(
+                          (p) => p.destination_group === group,
+                        ).length
+                      }{" "}
+                      locations
+                    </small>
+                  </span>
+                </button>
+              ))}
+            </div>
           </section>
           <div className="discovery-filters">
             <label className="discovery-search">
@@ -313,14 +425,33 @@ export default function Discover({ placeId }: { placeId?: string }) {
                 type="search"
                 placeholder="A garden, a city, a little inspiration…"
                 value={search}
-                onChange={(e) => {setSearch(e.target.value);setPage(1);}}
+                onChange={(e) => {
+                  setSearch(e.target.value);
+                  setPage(1);
+                }}
               />
             </label>
             <label>
               Browsing destination
-              <select value={area} onChange={(e) => {setArea(e.target.value);setPage(1);}}>
+              <select
+                value={area}
+                onChange={(e) => {
+                  setArea(e.target.value);
+                  setPage(1);
+                }}
+              >
                 <option value="all">All 11 destinations</option>
-                {destinationGroups.map(group=><option key={group} value={group}>{group==="Manila"?"Manila (Metro Manila)":group} ({directoryListings.filter(p=>p.destination_group===group).length})</option>)}
+                {destinationGroups.map((group) => (
+                  <option key={group} value={group}>
+                    {group === "Manila" ? "Manila (Metro Manila)" : group} (
+                    {
+                      directoryListings.filter(
+                        (p) => p.destination_group === group,
+                      ).length
+                    }
+                    )
+                  </option>
+                ))}
               </select>
             </label>
             <label>
@@ -328,7 +459,10 @@ export default function Discover({ placeId }: { placeId?: string }) {
               <select
                 aria-label="Place category"
                 value={category}
-                onChange={(e) => {setCategory(e.target.value);setPage(1);}}
+                onChange={(e) => {
+                  setCategory(e.target.value);
+                  setPage(1);
+                }}
               >
                 <option value="all">All place categories</option>
                 {categories.map((c) => (
@@ -336,9 +470,40 @@ export default function Discover({ placeId }: { placeId?: string }) {
                 ))}
               </select>
             </label>
-            <label>Travel interest<select aria-label="Travel interest" value={interestFilter} onChange={e=>{setInterestFilter(e.target.value);setPage(1);}}><option value="all">All interests</option>{interests.map(i=><option key={i}>{i}</option>)}</select></label>
+            <label>
+              Travel interest
+              <select
+                aria-label="Travel interest"
+                value={interestFilter}
+                onChange={(e) => {
+                  setInterestFilter(e.target.value);
+                  setPage(1);
+                }}
+              >
+                <option value="all">All interests</option>
+                {interests.map((i) => (
+                  <option key={i}>{i}</option>
+                ))}
+              </select>
+            </label>
           </div>
-          {(search||area!=="all"||category!=="all"||interestFilter!=="all")&&<button className="text-link plain-button" onClick={()=>{setSearch("");setArea("all");setCategory("all");setInterestFilter("all");setPage(1);}}>Clear all filters</button>}
+          {(search ||
+            area !== "all" ||
+            category !== "all" ||
+            interestFilter !== "all") && (
+            <button
+              className="text-link plain-button"
+              onClick={() => {
+                setSearch("");
+                setArea("all");
+                setCategory("all");
+                setInterestFilter("all");
+                setPage(1);
+              }}
+            >
+              Clear all filters
+            </button>
+          )}
           <section
             className="discovery-interest-section"
             aria-labelledby="attention-title"
@@ -494,17 +659,40 @@ export default function Discover({ placeId }: { placeId?: string }) {
               Spots to <em>discover.</em>
             </h2>
             <p>
-              Named places with reviewed identity and municipality. Check each fact's source; unknown details remain unknown. Catalog inclusion is not a popularity ranking.
+              Named places with reviewed identity and municipality. Check each
+              fact's source; unknown details remain unknown. Catalog inclusion
+              is not a popularity ranking.
             </p>
             <div className="discovery-grid">
-              {spots.slice((page-1)*12,page*12).map((p) => (
-                  <PlaceCard key={p.id} place={p} onAdd={setAdding} />
-                ))}
+              {spots.slice((page - 1) * 12, page * 12).map((p) => (
+                <PlaceCard key={p.id} place={p} onAdd={setAdding} />
+              ))}
             </div>
-            <div className="catalog-pagination" aria-label="Catalog pages"><span role="status">{spots.length} matching locations{area!=="all"?` in ${area}`:" across all destinations"} / Page {page} of {Math.max(1,Math.ceil(spots.length/12))}</span><button className="button secondary" disabled={page===1} onClick={()=>setPage(p=>p-1)}>Previous spots</button><button className="button secondary" disabled={page*12>=spots.length} onClick={()=>setPage(p=>p+1)}>Next spots</button></div>
+            <div className="catalog-pagination" aria-label="Catalog pages">
+              <span role="status">
+                {spots.length} matching locations
+                {area !== "all" ? ` in ${area}` : " across all destinations"} /
+                Page {page} of {Math.max(1, Math.ceil(spots.length / 12))}
+              </span>
+              <button
+                className="button secondary"
+                disabled={page === 1}
+                onClick={() => setPage((p) => p - 1)}
+              >
+                Previous spots
+              </button>
+              <button
+                className="button secondary"
+                disabled={page * 12 >= spots.length}
+                onClick={() => setPage((p) => p + 1)}
+              >
+                Next spots
+              </button>
+            </div>
             {!spots.length && (
               <p className="discovery-empty">
-                No locations match these filters. Clear a filter or try another name or municipality.
+                No locations match these filters. Clear a filter or try another
+                name or municipality.
               </p>
             )}
           </section>
@@ -518,11 +706,21 @@ export default function Discover({ placeId }: { placeId?: string }) {
               keeps you at the same base.
             </p>
             <div className="discovery-grid">
-              {bases.filter(matches).slice(0,showBases?undefined:6).map((p) => (
-                <PlaceCard key={p.id} place={p} />
-              ))}
+              {bases
+                .filter(matches)
+                .slice(0, showBases ? undefined : 6)
+                .map((p) => (
+                  <PlaceCard key={p.id} place={p} />
+                ))}
             </div>
-            {bases.filter(matches).length>6&&<button className="button secondary" onClick={()=>setShowBases(v=>!v)}>{showBases?"Show fewer bases":"Show all overnight bases"}</button>}
+            {bases.filter(matches).length > 6 && (
+              <button
+                className="button secondary"
+                onClick={() => setShowBases((v) => !v)}
+              >
+                {showBases ? "Show fewer bases" : "Show all overnight bases"}
+              </button>
+            )}
             {!bases.some(matches) && (
               <p className="discovery-empty">
                 No reviewed bases match these filters.
@@ -575,7 +773,17 @@ export default function Discover({ placeId }: { placeId?: string }) {
               </p>
             )}
           </section>
-          <div className="directory-downloads"><a href="/data/lakbay-locations.json" download>Download directory JSON</a><a href="/data/lakbay-locations.csv" download>Download directory CSV</a><a href="/data/research-progress.json" download>Research progress</a></div>
+          <div className="directory-downloads">
+            <a href="/data/lakbay-locations.json" download>
+              Download directory JSON
+            </a>
+            <a href="/data/lakbay-locations.csv" download>
+              Download directory CSV
+            </a>
+            <a href="/data/research-progress.json" download>
+              Research progress
+            </a>
+          </div>
           <SourceReviewNote />
         </>
       )}
@@ -605,7 +813,9 @@ function PlaceDetails({
   const base = destination(place.baseSlug);
   const stop = discoveryStop(place);
   const point = placeCoordinates(place);
-  const nearby = place.baseSlug?nearbyDiscoveries(place.baseSlug, place.id):{origin:null,spots:[]};
+  const nearby = place.baseSlug
+    ? nearbyDiscoveries(place.baseSlug, place.id)
+    : { origin: null, spots: [] };
   const mapActivity = useMemo(
     () => ({
       ...blankActivity(place.name),
@@ -623,7 +833,8 @@ function PlaceDetails({
         <div>
           <span className="eyebrow">
             {place.kind === "base" ? "OVERNIGHT BASE" : "INDIVIDUAL STOP"} /{" "}
-            {place.directory?.destination_group || base?.name} / {place.category}
+            {place.directory?.destination_group || base?.name} /{" "}
+            {place.category}
           </span>
           <h1 className="page-title">{place.name}</h1>
           <p className="lede">{place.description}</p>
@@ -632,14 +843,21 @@ function PlaceDetails({
           <div className="discovery-actions">
             <Link
               className="button"
-              href={place.baseSlug?`/planner?destinations=${place.baseSlug}`:"/planner"}
+              href={
+                place.baseSlug
+                  ? `/planner?destinations=${place.baseSlug}`
+                  : "/planner"
+              }
             >
-              {place.baseSlug?"Plan a trip here":"Choose an overnight base"} <ArrowUpRight size={16} />
+              {place.baseSlug ? "Plan a trip here" : "Choose an overnight base"}{" "}
+              <ArrowUpRight size={16} />
             </Link>
             {stop && place.baseSlug && (
               <button
                 className="button secondary"
-                disabled={!interactive || reviewExpired(place) || !addableStop(stop)}
+                disabled={
+                  !interactive || reviewExpired(place) || !addableStop(stop)
+                }
                 onClick={() => onAdd(place.id)}
               >
                 Add to my trip
@@ -648,7 +866,9 @@ function PlaceDetails({
           </div>
           <p className="fine-print">
             {place.kind === "spot"
-              ? place.baseSlug?`Mapped to the ${base?.name} overnight base. Confirm transfers before adding a visit.`:"This place has no reviewed itinerary-base mapping yet. Choose an appropriate overnight base and confirm transfers before planning a visit."
+              ? place.baseSlug
+                ? `Mapped to the ${base?.name} overnight base. Confirm transfers before adding a visit.`
+                : "This place has no reviewed itinerary-base mapping yet. Choose an appropriate overnight base and confirm transfers before planning a visit."
               : "A place to stay overnight, with its own local stops."}
           </p>
         </div>
@@ -656,9 +876,7 @@ function PlaceDetails({
           <figure>
             <img src={place.image.src} alt={place.image.alt} />
             <figcaption>
-              <a href={place.image.creditUrl}>
-                Photo source & reuse license ↗
-              </a>
+              <a href={place.image.creditUrl}>Photo source & reuse license ↗</a>
             </figcaption>
           </figure>
         )}
@@ -668,15 +886,91 @@ function PlaceDetails({
           <h2>
             Practical <em>notes.</em>
           </h2>
-          {place.directory&&<><p><strong>Browsing destination:</strong> {place.directory.destination_group}</p><p><strong>City / municipality:</strong> {place.directory.city_municipality} <SourceIndicator source={place.directory.sources.municipality} label="Municipality" /></p><p><strong>Province:</strong> {place.directory.province||"No province assigned (independent city)"} ? <strong>Region:</strong> {place.directory.region}</p><p><strong>Barangay:</strong> {place.directory.barangay||"Not verified"}</p><p><strong>Address:</strong> {place.directory.address||"Street or venue address not verified"} <SourceIndicator source={place.directory.sources.address} label="Address" /></p></>}
+          {place.directory && (
+            <>
+              <p>
+                <strong>Browsing destination:</strong>{" "}
+                {place.directory.destination_group}
+              </p>
+              <p>
+                <strong>City / municipality:</strong>{" "}
+                {place.directory.city_municipality}{" "}
+                <SourceIndicator
+                  source={place.directory.sources.municipality}
+                  label="Municipality"
+                />
+              </p>
+              <p>
+                <strong>Province:</strong>{" "}
+                {place.directory.province ||
+                  "No province assigned (independent city)"}{" "}
+                ? <strong>Region:</strong> {place.directory.region}
+              </p>
+              <p>
+                <strong>Barangay:</strong>{" "}
+                {place.directory.barangay || "Not verified"}
+              </p>
+              <p>
+                <strong>Address:</strong>{" "}
+                {place.directory.address ||
+                  "Street or venue address not verified"}{" "}
+                <SourceIndicator
+                  source={place.directory.sources.address}
+                  label="Address"
+                />
+              </p>
+            </>
+          )}
           {stop ? (
             <>
-              <p><strong>Entry price:</strong> {stop.entryPrice.amount===null?"Unknown; confirm with the venue.":`${peso(stop.entryPrice.amount)} per ${stop.entryPrice.basis}`} <SourceIndicator source={stop.entryPrice.source} label="Entry price" /></p>
-              <p><strong>Planning type:</strong> {stop.mode=== "local"?"Local visit":stop.mode==="package"?"Full-day package":"Separate excursion"}. {stop.mode!=="local"?"Reserve a full day including transfers. ":"Allow at least 45 minutes between visits; actual travel time needs confirmation. "}{stop.componentOf.length>0&&"Visit through a suitable package; this component cannot be added independently."}{stop.scheduling==="manual"&&"Current access needs confirmation; additions are paused."}</p>
-              {stop.includes.length>0&&<p><strong>Package components:</strong> {stop.includes.map(id=>base?.stops.find(s=>s.id===id)?.name||id).join(", ")}. Operator itineraries and inclusions need confirmation. Do not budget these as extra independent visits.</p>}
-              <p><strong>Booking:</strong> {stop.booking} <SourceIndicator source={stop.sources.booking} label="Booking" /></p>
               <p>
-                <strong>Visit allowance:</strong> {peso(stop.cost)} per {stop.costBasis}{" "}
+                <strong>Entry price:</strong>{" "}
+                {stop.entryPrice.amount === null
+                  ? "Unknown; confirm with the venue."
+                  : `${peso(stop.entryPrice.amount)} per ${stop.entryPrice.basis}`}{" "}
+                <SourceIndicator
+                  source={stop.entryPrice.source}
+                  label="Entry price"
+                />
+              </p>
+              <p>
+                <strong>Planning type:</strong>{" "}
+                {stop.mode === "local"
+                  ? "Local visit"
+                  : stop.mode === "package"
+                    ? "Full-day package"
+                    : "Separate excursion"}
+                .{" "}
+                {stop.mode !== "local"
+                  ? "Reserve a full day including transfers. "
+                  : "Allow at least 45 minutes between visits; actual travel time needs confirmation. "}
+                {stop.componentOf.length > 0 &&
+                  "Visit through a suitable package; this component cannot be added independently."}
+                {stop.scheduling === "manual" &&
+                  "Current access needs confirmation; additions are paused."}
+              </p>
+              {stop.includes.length > 0 && (
+                <p>
+                  <strong>Package components:</strong>{" "}
+                  {stop.includes
+                    .map(
+                      (id) => base?.stops.find((s) => s.id === id)?.name || id,
+                    )
+                    .join(", ")}
+                  . Operator itineraries and inclusions need confirmation. Do
+                  not budget these as extra independent visits.
+                </p>
+              )}
+              <p>
+                <strong>Booking:</strong> {stop.booking}{" "}
+                <SourceIndicator
+                  source={stop.sources.booking}
+                  label="Booking"
+                />
+              </p>
+              <p>
+                <strong>Visit allowance:</strong> {peso(stop.cost)} per{" "}
+                {stop.costBasis}{" "}
                 <SourceIndicator source={stop.sources.price} label="Price" />.
                 This is an illustrative allowance, not a quoted fee; zero does
                 not establish free admission.
@@ -723,13 +1017,27 @@ function PlaceDetails({
           ) : (
             <>
               <p>
-                {base?.transport||"No itinerary transport route is recorded. Confirm access and local travel arrangements."}{" "}
-                {base&&<SourceIndicator source={base.sources.transport} label="Transport" />}
+                {base?.transport ||
+                  "No itinerary transport route is recorded. Confirm access and local travel arrangements."}{" "}
+                {base && (
+                  <SourceIndicator
+                    source={base.sources.transport}
+                    label="Transport"
+                  />
+                )}
               </p>
-              {base&&<Link className="text-link" href={`/destinations/${base.slug}`}>
-                Full destination guide ↗
-              </Link>}
-              {place.directory&&<p>Entry price, visit duration, opening hours and accessibility are not recorded for this directory-only location. Confirm them with the venue.</p>}
+              {base && (
+                <Link className="text-link" href={`/destinations/${base.slug}`}>
+                  Full destination guide ↗
+                </Link>
+              )}
+              {place.directory && (
+                <p>
+                  Entry price, visit duration, opening hours and accessibility
+                  are not recorded for this directory-only location. Confirm
+                  them with the venue.
+                </p>
+              )}
             </>
           )}
         </section>
@@ -743,7 +1051,9 @@ function PlaceDetails({
           <p>{place.supports}</p>
           <SourceIndicator source={place.source} label="Description" />
           <p>
-            {place.reviewedOn ? `Reviewed ${dayLabel(place.reviewedOn)}` : "No review date recorded for this description"}
+            {place.reviewedOn
+              ? `Reviewed ${dayLabel(place.reviewedOn)}`
+              : "No review date recorded for this description"}
             {place.reviewExpiresOn
               ? ` · review due ${dayLabel(place.reviewExpiresOn)}`
               : ""}
@@ -781,7 +1091,7 @@ function PlaceDetails({
                 <TripMap
                   activities={[mapActivity]}
                   slug={place.baseSlug}
-                  center={[point.lat,point.lng]}
+                  center={[point.lat, point.lng]}
                   selected=""
                   onSelect={() => {}}
                 />
@@ -798,8 +1108,8 @@ function PlaceDetails({
           </>
         ) : (
           <p>
-            No coordinate pin is available for this place. Approximate
-            or unverified catalog pins are not used for nearby distance
+            No coordinate pin is available for this place. Approximate or
+            unverified catalog pins are not used for nearby distance
             calculations.
           </p>
         )}
@@ -824,7 +1134,8 @@ function PlaceDetails({
         </div>
         {!nearby.spots.length && (
           <p className="discovery-empty">
-            No nearby discoveries with verified coordinates and a compatible local base are available. Places elsewhere are not labeled nearby.
+            No nearby discoveries with verified coordinates and a compatible
+            local base are available. Places elsewhere are not labeled nearby.
           </p>
         )}
       </section>

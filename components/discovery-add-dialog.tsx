@@ -61,6 +61,7 @@ export default function DiscoveryAddDialog({
     <dialog
       ref={dialog}
       className="editor-dialog discovery-add-dialog"
+      aria-labelledby="discovery-add-title"
       onCancel={onClose}
     >
       <div className="modal-heading">
@@ -73,7 +74,7 @@ export default function DiscoveryAddDialog({
           <X size={18} />
         </button>
       </div>
-      <h2>
+      <h2 id="discovery-add-title">
         Add <em>{place.name}.</em>
       </h2>
       {savedId ? (

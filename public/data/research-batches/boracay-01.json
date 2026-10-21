@@ -1,0 +1,1077 @@
+{
+  "destination": "Boracay",
+  "batch": 1,
+  "kind": "Export snapshot of reviewed candidate batch",
+  "entries": [
+    {
+      "id": "boracay-white-beach-station-2",
+      "name": "White Beach — Station 2",
+      "destination_group": "Boracay",
+      "region": "Western Visayas",
+      "province": "Aklan",
+      "city_municipality": "Malay",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Nature",
+      "description": "A representative section of Boracay’s west-coast beach.",
+      "interests": [
+        "Beach Bum",
+        "Nature Lover"
+      ],
+      "itinerary_base_slug": "boracay",
+      "catalog_stop_id": "boracay-white-beach-station-2",
+      "status": "accepted",
+      "decision_reason": "Physical place identified on Boracay; the island’s actual municipality is Malay, Aklan. Identity does not guarantee access.",
+      "sources": {
+        "identity": {
+          "sourceName": "Philippine Department of Tourism Australia and New Zealand — Boracay",
+          "sourceUrl": "https://www.tourismphilippines.com.au/where/boracay",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Wikipedia — Boracay administrative geography",
+          "sourceUrl": "https://en.wikipedia.org/wiki/Boracay",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "boracay-d-mall-food-stroll",
+      "name": "D’Mall",
+      "destination_group": "Boracay",
+      "region": "Western Visayas",
+      "province": "Aklan",
+      "city_municipality": "Malay",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Parks & markets",
+      "description": "An open-air shopping and dining area.",
+      "interests": [
+        "City Wanderer"
+      ],
+      "itinerary_base_slug": "boracay",
+      "catalog_stop_id": "boracay-d-mall-food-stroll",
+      "status": "accepted",
+      "decision_reason": "Physical place identified on Boracay; the island’s actual municipality is Malay, Aklan. Identity does not guarantee access.",
+      "sources": {
+        "identity": {
+          "sourceName": "Philippine Department of Tourism Australia and New Zealand — Boracay",
+          "sourceUrl": "https://www.tourismphilippines.com.au/where/boracay",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Wikipedia — Boracay administrative geography",
+          "sourceUrl": "https://en.wikipedia.org/wiki/Boracay",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "boracay-bulabog-beach-walk",
+      "name": "Bulabog Beach",
+      "destination_group": "Boracay",
+      "region": "Western Visayas",
+      "province": "Aklan",
+      "city_municipality": "Malay",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Nature",
+      "description": "A beach on the island’s eastern side.",
+      "interests": [
+        "Beach Bum",
+        "Nature Lover"
+      ],
+      "itinerary_base_slug": "boracay",
+      "catalog_stop_id": "boracay-bulabog-beach-walk",
+      "status": "accepted",
+      "decision_reason": "Physical place identified on Boracay; the island’s actual municipality is Malay, Aklan. Identity does not guarantee access.",
+      "sources": {
+        "identity": {
+          "sourceName": "Tourism Promotions Board — Boracay map, April 2020 place reference",
+          "sourceUrl": "https://www.tpb.gov.ph/wp-content/uploads/2023/10/Boracay-Map.pdf",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Wikipedia — Boracay administrative geography",
+          "sourceUrl": "https://en.wikipedia.org/wiki/Boracay",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "boracay-willys-rock",
+      "name": "Willy’s Rock",
+      "destination_group": "Boracay",
+      "region": "Western Visayas",
+      "province": "Aklan",
+      "city_municipality": "Malay",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Culture",
+      "description": "A rock landmark beside White Beach.",
+      "interests": [
+        "Culture Seeker"
+      ],
+      "itinerary_base_slug": "boracay",
+      "catalog_stop_id": "boracay-willys-rock",
+      "status": "accepted",
+      "decision_reason": "Physical place identified on Boracay; the island’s actual municipality is Malay, Aklan. Identity does not guarantee access.",
+      "sources": {
+        "identity": {
+          "sourceName": "Tourism Promotions Board — Boracay map, April 2020 place reference",
+          "sourceUrl": "https://www.tpb.gov.ph/wp-content/uploads/2023/10/Boracay-Map.pdf",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Wikipedia — Boracay administrative geography",
+          "sourceUrl": "https://en.wikipedia.org/wiki/Boracay",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "boracay-diniwid-beach",
+      "name": "Diniwid Beach",
+      "destination_group": "Boracay",
+      "region": "Western Visayas",
+      "province": "Aklan",
+      "city_municipality": "Malay",
+      "barangay": null,
+      "address": null,
+      "latitude": 11.9765,
+      "longitude": 121.91177777777779,
+      "category": "Nature",
+      "description": "A cove beach north of White Beach.",
+      "interests": [
+        "Beach Bum",
+        "Nature Lover"
+      ],
+      "itinerary_base_slug": "boracay",
+      "catalog_stop_id": "boracay-diniwid-beach",
+      "status": "accepted",
+      "decision_reason": "Physical place identified on Boracay; the island’s actual municipality is Malay, Aklan. Identity does not guarantee access.",
+      "sources": {
+        "identity": {
+          "sourceName": "Tourism Promotions Board — Boracay map, April 2020 place reference",
+          "sourceUrl": "https://www.tpb.gov.ph/wp-content/uploads/2023/10/Boracay-Map.pdf",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Wikipedia — Boracay administrative geography",
+          "sourceUrl": "https://en.wikipedia.org/wiki/Boracay",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": "DENR-EMB Region VI — Diniwid Beach monitoring-station reference, not an entrance",
+          "sourceUrl": "https://r6.emb.gov.ph/wp-content/uploads/2023/02/RSOBER-2021-WESTERN-VISAYAS.pdf",
+          "dateChecked": "2026-10-19",
+          "status": "estimate"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "boracay-puka-shell-beach",
+      "name": "Puka Shell Beach",
+      "destination_group": "Boracay",
+      "region": "Western Visayas",
+      "province": "Aklan",
+      "city_municipality": "Malay",
+      "barangay": null,
+      "address": null,
+      "latitude": 11.99625,
+      "longitude": 121.91586111111111,
+      "category": "Nature",
+      "description": "A beach on northern Boracay.",
+      "interests": [
+        "Beach Bum",
+        "Nature Lover"
+      ],
+      "itinerary_base_slug": "boracay",
+      "catalog_stop_id": "boracay-puka-shell-beach",
+      "status": "accepted",
+      "decision_reason": "Physical place identified on Boracay; the island’s actual municipality is Malay, Aklan. Identity does not guarantee access.",
+      "sources": {
+        "identity": {
+          "sourceName": "Tourism Promotions Board — Boracay map, April 2020 place reference",
+          "sourceUrl": "https://www.tpb.gov.ph/wp-content/uploads/2023/10/Boracay-Map.pdf",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Wikipedia — Boracay administrative geography",
+          "sourceUrl": "https://en.wikipedia.org/wiki/Boracay",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": "DENR-EMB Region VI — Puka Beach monitoring-station reference, not an entrance",
+          "sourceUrl": "https://r6.emb.gov.ph/wp-content/uploads/2023/02/RSOBER-2021-WESTERN-VISAYAS.pdf",
+          "dateChecked": "2026-10-19",
+          "status": "estimate"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "boracay-ilig-iligan-beach",
+      "name": "Ilig-Iligan Beach",
+      "destination_group": "Boracay",
+      "region": "Western Visayas",
+      "province": "Aklan",
+      "city_municipality": "Malay",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Nature",
+      "description": "A beach on the island’s northeastern side.",
+      "interests": [
+        "Beach Bum",
+        "Nature Lover"
+      ],
+      "itinerary_base_slug": "boracay",
+      "catalog_stop_id": "boracay-ilig-iligan-beach",
+      "status": "accepted",
+      "decision_reason": "Physical place identified on Boracay; the island’s actual municipality is Malay, Aklan. Identity does not guarantee access.",
+      "sources": {
+        "identity": {
+          "sourceName": "Tourism Promotions Board — Boracay map, April 2020 place reference",
+          "sourceUrl": "https://www.tpb.gov.ph/wp-content/uploads/2023/10/Boracay-Map.pdf",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Wikipedia — Boracay administrative geography",
+          "sourceUrl": "https://en.wikipedia.org/wiki/Boracay",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "boracay-tambisaan-beach",
+      "name": "Tambisaan Beach",
+      "destination_group": "Boracay",
+      "region": "Western Visayas",
+      "province": "Aklan",
+      "city_municipality": "Malay",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Nature",
+      "description": "A beach on southeastern Boracay.",
+      "interests": [
+        "Beach Bum",
+        "Nature Lover"
+      ],
+      "itinerary_base_slug": "boracay",
+      "catalog_stop_id": "boracay-tambisaan-beach",
+      "status": "accepted",
+      "decision_reason": "Physical place identified on Boracay; the island’s actual municipality is Malay, Aklan. Identity does not guarantee access.",
+      "sources": {
+        "identity": {
+          "sourceName": "Tourism Promotions Board — Boracay map, April 2020 place reference",
+          "sourceUrl": "https://www.tpb.gov.ph/wp-content/uploads/2023/10/Boracay-Map.pdf",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Wikipedia — Boracay administrative geography",
+          "sourceUrl": "https://en.wikipedia.org/wiki/Boracay",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "boracay-tulubhan-beach",
+      "name": "Tulubhan Beach",
+      "destination_group": "Boracay",
+      "region": "Western Visayas",
+      "province": "Aklan",
+      "city_municipality": "Malay",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Nature",
+      "description": "A beach on Boracay’s eastern coast.",
+      "interests": [
+        "Beach Bum",
+        "Nature Lover"
+      ],
+      "itinerary_base_slug": "boracay",
+      "catalog_stop_id": "boracay-tulubhan-beach",
+      "status": "accepted",
+      "decision_reason": "Physical place identified on Boracay; the island’s actual municipality is Malay, Aklan. Identity does not guarantee access.",
+      "sources": {
+        "identity": {
+          "sourceName": "Tourism Promotions Board — Boracay map, April 2020 place reference",
+          "sourceUrl": "https://www.tpb.gov.ph/wp-content/uploads/2023/10/Boracay-Map.pdf",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Wikipedia — Boracay administrative geography",
+          "sourceUrl": "https://en.wikipedia.org/wiki/Boracay",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "boracay-balinghai-beach",
+      "name": "Balinghai Beach",
+      "destination_group": "Boracay",
+      "region": "Western Visayas",
+      "province": "Aklan",
+      "city_municipality": "Malay",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Nature",
+      "description": "A small northern-island beach.",
+      "interests": [
+        "Beach Bum",
+        "Nature Lover"
+      ],
+      "itinerary_base_slug": "boracay",
+      "catalog_stop_id": "boracay-balinghai-beach",
+      "status": "accepted",
+      "decision_reason": "Named beach identity and island jurisdiction confirmed. Property access and any resort permissions remain unknown.",
+      "sources": {
+        "identity": {
+          "sourceName": "Tourism Promotions Board — Boracay map, April 2020 place reference",
+          "sourceUrl": "https://www.tpb.gov.ph/wp-content/uploads/2023/10/Boracay-Map.pdf",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Wikipedia — Boracay administrative geography",
+          "sourceUrl": "https://en.wikipedia.org/wiki/Boracay",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "boracay-newcoast-keyhole",
+      "name": "Boracay Newcoast Keyhole",
+      "destination_group": "Boracay",
+      "region": "Western Visayas",
+      "province": "Aklan",
+      "city_municipality": "Malay",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Attractions",
+      "description": "A rock formation within the Newcoast development.",
+      "interests": [
+        "Beach Bum",
+        "Nature Lover"
+      ],
+      "itinerary_base_slug": "boracay",
+      "catalog_stop_id": "boracay-newcoast-keyhole",
+      "status": "accepted",
+      "decision_reason": "Operator confirms the physical rock formation. Estate access and current viewing restrictions require confirmation.",
+      "sources": {
+        "identity": {
+          "sourceName": "Boracay Newcoast — official coves and Keyhole information",
+          "sourceUrl": "https://boracaynewcoastph.com/coves/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Wikipedia — Boracay administrative geography",
+          "sourceUrl": "https://en.wikipedia.org/wiki/Boracay",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "boracay-balabag-wetland-park",
+      "name": "Balabag Wetland Park",
+      "destination_group": "Boracay",
+      "region": "Western Visayas",
+      "province": "Aklan",
+      "city_municipality": "Malay",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Parks & markets",
+      "description": "A rehabilitated lagoon and linear park.",
+      "interests": [
+        "City Wanderer"
+      ],
+      "itinerary_base_slug": "boracay",
+      "catalog_stop_id": "boracay-balabag-wetland-park",
+      "status": "accepted",
+      "decision_reason": "Physical place identified on Boracay; the island’s actual municipality is Malay, Aklan. Identity does not guarantee access.",
+      "sources": {
+        "identity": {
+          "sourceName": "Aboitiz — annual and sustainability report, Balabag Wetland Park",
+          "sourceUrl": "https://sustainability.aboitiz.com/wp-content/uploads/2023/11/2020-Annual-and-Sustainability-Report-1.pdf",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Wikipedia — Boracay administrative geography",
+          "sourceUrl": "https://en.wikipedia.org/wiki/Boracay",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "boracay-dtalipapa-market",
+      "name": "D’Talipapa market",
+      "destination_group": "Boracay",
+      "region": "Western Visayas",
+      "province": "Aklan",
+      "city_municipality": "Malay",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Food & drink",
+      "description": "A wet-market and seafood dining area.",
+      "interests": [
+        "Food Hunter"
+      ],
+      "itinerary_base_slug": "boracay",
+      "catalog_stop_id": "boracay-dtalipapa-market",
+      "status": "accepted",
+      "decision_reason": "Physical place identified on Boracay; the island’s actual municipality is Malay, Aklan. Identity does not guarantee access.",
+      "sources": {
+        "identity": {
+          "sourceName": "Philippine Department of Tourism Australia and New Zealand — Boracay",
+          "sourceUrl": "https://www.tourismphilippines.com.au/where/boracay",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Wikipedia — Boracay administrative geography",
+          "sourceUrl": "https://en.wikipedia.org/wiki/Boracay",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "boracay-nonies-ondus",
+      "name": "Nonie’s — Ondus Hotel",
+      "destination_group": "Boracay",
+      "region": "Western Visayas",
+      "province": "Aklan",
+      "city_municipality": "Malay",
+      "barangay": "Manoc-Manoc",
+      "address": "Ondus Hotel beachfront, Station 3, Barangay Manoc-Manoc, Boracay Island, Aklan",
+      "latitude": null,
+      "longitude": null,
+      "category": "Food & drink",
+      "description": "A beachfront restaurant serving Filipino-inspired food.",
+      "interests": [
+        "Food Hunter"
+      ],
+      "itinerary_base_slug": "boracay",
+      "catalog_stop_id": "boracay-nonies-ondus",
+      "status": "accepted",
+      "decision_reason": "Current operator identifies Ondus Station 3 location. Hotel dining-access terms need direct confirmation.",
+      "sources": {
+        "identity": {
+          "sourceName": "Nonie’s — official Boracay restaurant",
+          "sourceUrl": "https://www.nonies.com.ph/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Wikipedia — Boracay administrative geography",
+          "sourceUrl": "https://en.wikipedia.org/wiki/Boracay",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "Ondus Hotel — dining and address",
+          "sourceUrl": "https://ondus.com.ph/index.php/dining/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "boracay-giuseppe-station-three",
+      "name": "Giuseppe Pizzeria & Sicilian Roast — Boracay",
+      "destination_group": "Boracay",
+      "region": "Western Visayas",
+      "province": "Aklan",
+      "city_municipality": "Malay",
+      "barangay": null,
+      "address": "Villanueva Building, Station 3, Boracay",
+      "latitude": null,
+      "longitude": null,
+      "category": "Food & drink",
+      "description": "An Italian restaurant at Station 3.",
+      "interests": [
+        "Food Hunter"
+      ],
+      "itinerary_base_slug": null,
+      "catalog_stop_id": null,
+      "status": "accepted",
+      "decision_reason": "Physical place identified on Boracay; the island’s actual municipality is Malay, Aklan. Identity does not guarantee access.",
+      "sources": {
+        "identity": {
+          "sourceName": "Giuseppe — official Boracay branch",
+          "sourceUrl": "https://giuseppe.ph/boracay/index.html",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Wikipedia — Boracay administrative geography",
+          "sourceUrl": "https://en.wikipedia.org/wiki/Boracay",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "Giuseppe — official Boracay branch",
+          "sourceUrl": "https://giuseppe.ph/boracay/index.html",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "boracay-little-taj",
+      "name": "Little Taj",
+      "destination_group": "Boracay",
+      "region": "Western Visayas",
+      "province": "Aklan",
+      "city_municipality": "Malay",
+      "barangay": "Balabag",
+      "address": "D’Mall Boracay, Station 2, Balabag, Malay, Aklan",
+      "latitude": null,
+      "longitude": null,
+      "category": "Food & drink",
+      "description": "An Indian restaurant inside D’Mall.",
+      "interests": [
+        "Food Hunter"
+      ],
+      "itinerary_base_slug": null,
+      "catalog_stop_id": null,
+      "status": "accepted",
+      "decision_reason": "Physical place identified on Boracay; the island’s actual municipality is Malay, Aklan. Identity does not guarantee access.",
+      "sources": {
+        "identity": {
+          "sourceName": "Little Taj — official visitor location",
+          "sourceUrl": "https://www.littletaj.com/visit",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Little Taj — official visitor location",
+          "sourceUrl": "https://www.littletaj.com/visit",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "Little Taj — official visitor location",
+          "sourceUrl": "https://www.littletaj.com/visit",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "boracay-mount-luho",
+      "name": "Mount Luho viewpoint",
+      "destination_group": "Boracay",
+      "region": "Western Visayas",
+      "province": "Aklan",
+      "city_municipality": "Malay",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Nature",
+      "description": "A historical viewpoint candidate with uncertain current access.",
+      "interests": [
+        "Beach Bum",
+        "Nature Lover"
+      ],
+      "itinerary_base_slug": null,
+      "catalog_stop_id": null,
+      "status": "unresolved",
+      "decision_reason": "Historical decks and a closure report exist; no currently operating specific deck was established. Not accepted.",
+      "sources": {
+        "identity": {
+          "sourceName": "Tourism Promotions Board — Boracay map, April 2020 place reference",
+          "sourceUrl": "https://www.tpb.gov.ph/wp-content/uploads/2023/10/Boracay-Map.pdf",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Wikipedia — Boracay administrative geography",
+          "sourceUrl": "https://en.wikipedia.org/wiki/Boracay",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "boracay-white-beach-station-1",
+      "name": "White Beach — Station 1",
+      "destination_group": "Boracay",
+      "region": "Western Visayas",
+      "province": "Aklan",
+      "city_municipality": "Malay",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Nature",
+      "description": "Another section of the same White Beach.",
+      "interests": [
+        "Beach Bum",
+        "Nature Lover"
+      ],
+      "itinerary_base_slug": null,
+      "catalog_stop_id": null,
+      "status": "rejected",
+      "decision_reason": "Duplicate physical beach; Station 2 represents White Beach once in accepted coverage.",
+      "sources": {
+        "identity": {
+          "sourceName": "Philippine Department of Tourism Australia and New Zealand — Boracay",
+          "sourceUrl": "https://www.tourismphilippines.com.au/where/boracay",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Wikipedia — Boracay administrative geography",
+          "sourceUrl": "https://en.wikipedia.org/wiki/Boracay",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "boracay-white-beach-station-3",
+      "name": "White Beach — Station 3",
+      "destination_group": "Boracay",
+      "region": "Western Visayas",
+      "province": "Aklan",
+      "city_municipality": "Malay",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Nature",
+      "description": "A southern section of the same White Beach.",
+      "interests": [
+        "Beach Bum",
+        "Nature Lover"
+      ],
+      "itinerary_base_slug": null,
+      "catalog_stop_id": null,
+      "status": "rejected",
+      "decision_reason": "Duplicate physical beach; station labels do not create additional beaches.",
+      "sources": {
+        "identity": {
+          "sourceName": "Philippine Department of Tourism Australia and New Zealand — Boracay",
+          "sourceUrl": "https://www.tourismphilippines.com.au/where/boracay",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Wikipedia — Boracay administrative geography",
+          "sourceUrl": "https://en.wikipedia.org/wiki/Boracay",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "boracay-spider-house",
+      "name": "Spider House — historical Diniwid candidate",
+      "destination_group": "Boracay",
+      "region": "Western Visayas",
+      "province": "Aklan",
+      "city_municipality": null,
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Food & drink",
+      "description": "A historical venue name associated with Diniwid.",
+      "interests": [
+        "Food Hunter"
+      ],
+      "itinerary_base_slug": null,
+      "catalog_stop_id": null,
+      "status": "unresolved",
+      "decision_reason": "Current venue identity and operation were not established. Not accepted.",
+      "sources": {
+        "identity": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "municipality": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "boracay-station-x",
+      "name": "Station X",
+      "destination_group": "Boracay",
+      "region": "Western Visayas",
+      "province": "Aklan",
+      "city_municipality": "Malay",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Attractions",
+      "description": "A leisure and retail venue at Hue Hotels and Resorts.",
+      "interests": [
+        "Nature Lover",
+        "City Wanderer"
+      ],
+      "itinerary_base_slug": null,
+      "catalog_stop_id": null,
+      "status": "rejected",
+      "decision_reason": "Physical identity and municipality confirmed; editorial surplus outside the agreed initial selection. Retained as a genuine researched place candidate, not a claim that the venue is unsuitable.",
+      "sources": {
+        "identity": {
+          "sourceName": "Station X - official community and venue information",
+          "sourceUrl": "https://www.stationx.ph/tenants",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Wikipedia - Boracay's actual municipal jurisdiction",
+          "sourceUrl": "https://en.wikipedia.org/wiki/Boracay",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "boracay-crystal-cove-island",
+      "name": "Crystal Cove Island — offshore candidate",
+      "destination_group": "Boracay",
+      "region": "Western Visayas",
+      "province": "Aklan",
+      "city_municipality": null,
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Nature",
+      "description": "An offshore island candidate requiring jurisdiction confirmation.",
+      "interests": [
+        "Beach Bum",
+        "Nature Lover"
+      ],
+      "itinerary_base_slug": null,
+      "catalog_stop_id": null,
+      "status": "unresolved",
+      "decision_reason": "Operator confirms the physical offshore island. Its municipal boundary and current public-access conditions were not sufficiently cross-checked in the selected official geography sources; unresolved.",
+      "sources": {
+        "identity": {
+          "sourceName": "Crystal Cove Island - official operator",
+          "sourceUrl": "https://crystalcoveisland.com/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    }
+  ]
+}

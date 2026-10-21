@@ -1,0 +1,788 @@
+{
+  "destination": "Davao",
+  "batch": 1,
+  "kind": "Export snapshot of reviewed candidate batch",
+  "entries": [
+    {
+      "id": "davao-people-s-park",
+      "name": "People’s Park",
+      "destination_group": "Davao",
+      "region": "Davao Region",
+      "province": null,
+      "city_municipality": "Davao City",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Parks & markets",
+      "description": "Central public park with cultural sculptures.",
+      "interests": [
+        "Nature Lover"
+      ],
+      "itinerary_base_slug": "davao",
+      "catalog_stop_id": "davao-people-s-park",
+      "status": "accepted",
+      "decision_reason": "Distinct place and actual municipality verified; no current access or scheduling promise.",
+      "sources": {
+        "identity": {
+          "sourceName": "Davao City Tourism — People's Park",
+          "sourceUrl": "https://tourism.davaocity.gov.ph/explore-the-city/attractions/man-made-nature-parks/peoples-park/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Davao City Tourism — People's Park",
+          "sourceUrl": "https://tourism.davaocity.gov.ph/explore-the-city/attractions/man-made-nature-parks/peoples-park/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "davao-san-pedro-cathedral-area",
+      "name": "San Pedro Cathedral",
+      "destination_group": "Davao",
+      "region": "Davao Region",
+      "province": null,
+      "city_municipality": "Davao City",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Culture",
+      "description": "Historic cathedral on the city heritage circuit.",
+      "interests": [
+        "Culture Seeker"
+      ],
+      "itinerary_base_slug": "davao",
+      "catalog_stop_id": "davao-san-pedro-cathedral-area",
+      "status": "accepted",
+      "decision_reason": "Distinct place and actual municipality verified; no current access or scheduling promise.",
+      "sources": {
+        "identity": {
+          "sourceName": "City Government of Davao — heritage walking tour landmarks",
+          "sourceUrl": "https://davaocity.gov.ph/tourism/dabawenyos-tourism-students-urged-to-join-davao-walking-tour/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "City Government of Davao — heritage walking tour landmarks",
+          "sourceUrl": "https://davaocity.gov.ph/tourism/dabawenyos-tourism-students-urged-to-join-davao-walking-tour/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "davao-museo-dabawenyo-area",
+      "name": "Museo Dabawenyo Event Center",
+      "destination_group": "Davao",
+      "region": "Davao Region",
+      "province": null,
+      "city_municipality": "Davao City",
+      "barangay": "10-A",
+      "address": "Mabini Street, behind Davao City National High School, Davao City",
+      "latitude": null,
+      "longitude": null,
+      "category": "Culture",
+      "description": "City museum's reported venue on Mabini Street.",
+      "interests": [
+        "Culture Seeker"
+      ],
+      "itinerary_base_slug": "davao",
+      "catalog_stop_id": "davao-museo-dabawenyo-area",
+      "status": "accepted",
+      "decision_reason": "Distinct place and actual municipality verified; no current access or scheduling promise.",
+      "sources": {
+        "identity": {
+          "sourceName": "City Government of Davao — Museo Dabawenyo Event Center, May 2025",
+          "sourceUrl": "https://davaocity.gov.ph/local-government/museo-dabawenyo-event-center-opens-exhibit-a-history-of-davao-city-in-50-objects/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "City Government of Davao — Museo Dabawenyo Event Center, May 2025",
+          "sourceUrl": "https://davaocity.gov.ph/local-government/museo-dabawenyo-event-center-opens-exhibit-a-history-of-davao-city-in-50-objects/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "City Government of Davao — Museo Dabawenyo Event Center, May 2025",
+          "sourceUrl": "https://davaocity.gov.ph/local-government/museo-dabawenyo-event-center-opens-exhibit-a-history-of-davao-city-in-50-objects/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "davao-national-museum",
+      "name": "National Museum of the Philippines – Davao",
+      "destination_group": "Davao",
+      "region": "Davao Region",
+      "province": null,
+      "city_municipality": "Davao City",
+      "barangay": "4-A",
+      "address": "People’s Park Compound, J. Palma Gil Street, Poblacion District, Davao City",
+      "latitude": null,
+      "longitude": null,
+      "category": "Culture",
+      "description": "Exhibits on regional history, nature, and art.",
+      "interests": [
+        "Culture Seeker",
+        "City Wanderer"
+      ],
+      "itinerary_base_slug": "davao",
+      "catalog_stop_id": "davao-national-museum",
+      "status": "accepted",
+      "decision_reason": "Distinct place and actual municipality verified; no current access or scheduling promise.",
+      "sources": {
+        "identity": {
+          "sourceName": "National Museum of the Philippines — Davao",
+          "sourceUrl": "https://www.nationalmuseum.gov.ph/nmp-davao/",
+          "dateChecked": "2026-10-19",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "National Museum of the Philippines — Davao address",
+          "sourceUrl": "https://www.nationalmuseum.gov.ph/nmp-davao/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "National Museum of the Philippines — Davao address",
+          "sourceUrl": "https://www.nationalmuseum.gov.ph/nmp-davao/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "davao-roxas-night-market",
+      "name": "Roxas Night Market",
+      "destination_group": "Davao",
+      "region": "Davao Region",
+      "province": null,
+      "city_municipality": "Davao City",
+      "barangay": null,
+      "address": "Roxas Avenue, Poblacion District, Davao City",
+      "latitude": null,
+      "longitude": null,
+      "category": "Food & drink",
+      "description": "Named night-market destination on Roxas Avenue.",
+      "interests": [
+        "Food Hunter",
+        "City Wanderer"
+      ],
+      "itinerary_base_slug": "davao",
+      "catalog_stop_id": "davao-roxas-night-market",
+      "status": "accepted",
+      "decision_reason": "Distinct place and actual municipality verified; no current access or scheduling promise.",
+      "sources": {
+        "identity": {
+          "sourceName": "Davao City Tourism — Roxas Night Market",
+          "sourceUrl": "https://tourism.davaocity.gov.ph/explore-the-city/restaurants/night-market/roxas-night-market/",
+          "dateChecked": "2026-10-19",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Davao City Tourism — Roxas Night Market address",
+          "sourceUrl": "https://tourism.davaocity.gov.ph/explore-the-city/restaurants/night-market/roxas-night-market/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "Davao City Tourism — Roxas Night Market address",
+          "sourceUrl": "https://tourism.davaocity.gov.ph/explore-the-city/restaurants/night-market/roxas-night-market/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "davao-kadayawan-cultural-village",
+      "name": "Kadayawan Cultural Village",
+      "destination_group": "Davao",
+      "region": "Davao Region",
+      "province": null,
+      "city_municipality": "Davao City",
+      "barangay": null,
+      "address": "Magsaysay Park, Davao City",
+      "latitude": null,
+      "longitude": null,
+      "category": "Culture",
+      "description": "Traditional-house exhibits representing Davao communities.",
+      "interests": [
+        "Culture Seeker",
+        "City Wanderer"
+      ],
+      "itinerary_base_slug": "davao",
+      "catalog_stop_id": "davao-kadayawan-cultural-village",
+      "status": "accepted",
+      "decision_reason": "Distinct place and actual municipality verified; no current access or scheduling promise.",
+      "sources": {
+        "identity": {
+          "sourceName": "City Government of Davao — Kadayawan Village, August 2025",
+          "sourceUrl": "https://davaocity.gov.ph/tourism/kadayawan-village-remains-open-to-public-says-ctoo/",
+          "dateChecked": "2026-10-19",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "City Government of Davao — Kadayawan Village",
+          "sourceUrl": "https://davaocity.gov.ph/tourism/kadayawan-village-remains-open-to-public-says-ctoo/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "City Government of Davao — Kadayawan Village",
+          "sourceUrl": "https://davaocity.gov.ph/tourism/kadayawan-village-remains-open-to-public-says-ctoo/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "davao-bone-collector-museum",
+      "name": "D’ Bone Collector Museum",
+      "destination_group": "Davao",
+      "region": "Davao Region",
+      "province": null,
+      "city_municipality": "Davao City",
+      "barangay": "76-A",
+      "address": "Family Circus Compound, San Pedro Extension, Bucana, Davao City",
+      "latitude": null,
+      "longitude": null,
+      "category": "Culture",
+      "description": "Natural-history museum displaying animal skeletons.",
+      "interests": [
+        "Culture Seeker",
+        "City Wanderer"
+      ],
+      "itinerary_base_slug": "davao",
+      "catalog_stop_id": "davao-bone-collector-museum",
+      "status": "accepted",
+      "decision_reason": "Distinct place and actual municipality verified; no current access or scheduling promise.",
+      "sources": {
+        "identity": {
+          "sourceName": "D’ Bone Collector Museum — official visitor page",
+          "sourceUrl": "https://d.bone.museum/",
+          "dateChecked": "2026-10-19",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "D’ Bone Collector Museum — official address",
+          "sourceUrl": "https://d.bone.museum/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "D’ Bone Collector Museum — official address",
+          "sourceUrl": "https://d.bone.museum/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "davao-chinatown",
+      "name": "Davao Chinatown",
+      "destination_group": "Davao",
+      "region": "Davao Region",
+      "province": null,
+      "city_municipality": "Davao City",
+      "barangay": null,
+      "address": "Ramon Magsaysay Avenue heritage corridor, Davao City",
+      "latitude": null,
+      "longitude": null,
+      "category": "Culture",
+      "description": "Heritage district along Ramon Magsaysay Avenue.",
+      "interests": [
+        "Culture Seeker",
+        "City Wanderer"
+      ],
+      "itinerary_base_slug": "davao",
+      "catalog_stop_id": "davao-chinatown",
+      "status": "accepted",
+      "decision_reason": "Distinct place and actual municipality verified; no current access or scheduling promise.",
+      "sources": {
+        "identity": {
+          "sourceName": "City Government of Davao — Chinatown heritage walk, June 2026",
+          "sourceUrl": "https://davaocity.gov.ph/tourism/bound-to-the-friendship-arch-davao-city-chinatown-walk-boosts-tourism-and-cultural-heritage/",
+          "dateChecked": "2026-10-19",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "City Government of Davao — Chinatown heritage district",
+          "sourceUrl": "https://davaocity.gov.ph/tourism/bound-to-the-friendship-arch-davao-city-chinatown-walk-boosts-tourism-and-cultural-heritage/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "City Government of Davao — Chinatown heritage district",
+          "sourceUrl": "https://davaocity.gov.ph/tourism/bound-to-the-friendship-arch-davao-city-chinatown-walk-boosts-tourism-and-cultural-heritage/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "davao-rizal-park",
+      "name": "Rizal Park",
+      "destination_group": "Davao",
+      "region": "Davao Region",
+      "province": null,
+      "city_municipality": "Davao City",
+      "barangay": null,
+      "address": "San Pedro Street, Davao City",
+      "latitude": null,
+      "longitude": null,
+      "category": "Parks & markets",
+      "description": "Civic park in the city heritage inventory.",
+      "interests": [
+        "Culture Seeker",
+        "City Wanderer"
+      ],
+      "itinerary_base_slug": "davao",
+      "catalog_stop_id": "davao-rizal-park",
+      "status": "accepted",
+      "decision_reason": "Distinct place and actual municipality verified; no current access or scheduling promise.",
+      "sources": {
+        "identity": {
+          "sourceName": "City Planning and Development Office of Davao — Heritage inventory",
+          "sourceUrl": "https://cpdo.davaocity.gov.ph/wp-content/uploads/2023/07/Volume-3-Sectoral_Studies_compressed.pdf",
+          "dateChecked": "2026-10-19",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "City Government of Davao — Rizal Park on San Pedro Street",
+          "sourceUrl": "https://davaocity.gov.ph/health/davao-city-to-celebrate-world-pt-day/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "City Government of Davao — Rizal Park on San Pedro Street",
+          "sourceUrl": "https://davaocity.gov.ph/health/davao-city-to-celebrate-world-pt-day/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "davao-osmena-park",
+      "name": "Osmeña Park",
+      "destination_group": "Davao",
+      "region": "Davao Region",
+      "province": null,
+      "city_municipality": "Davao City",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "category": "Parks & markets",
+      "description": "Park included in the city heritage inventory.",
+      "interests": [
+        "Culture Seeker",
+        "City Wanderer"
+      ],
+      "itinerary_base_slug": "davao",
+      "catalog_stop_id": "davao-osmena-park",
+      "status": "accepted",
+      "decision_reason": "Distinct place and actual municipality verified; no current access or scheduling promise.",
+      "sources": {
+        "identity": {
+          "sourceName": "City Planning and Development Office of Davao — Heritage inventory",
+          "sourceUrl": "https://cpdo.davaocity.gov.ph/wp-content/uploads/2023/07/Volume-3-Sectoral_Studies_compressed.pdf",
+          "dateChecked": "2026-10-19",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "City Government of Davao — heritage walking tour landmarks",
+          "sourceUrl": "https://davaocity.gov.ph/tourism/dabawenyos-tourism-students-urged-to-join-davao-walking-tour/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "davao-dona-vicenta-park",
+      "name": "Doña Vicenta Park",
+      "destination_group": "Davao",
+      "region": "Davao Region",
+      "province": null,
+      "city_municipality": "Davao City",
+      "barangay": "9-A",
+      "address": "Doña Vicenta Village, Barangay 9-A, Davao City",
+      "latitude": null,
+      "longitude": null,
+      "category": "Parks & markets",
+      "description": "City park with walking and community spaces.",
+      "interests": [
+        "Nature Lover",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "davao",
+      "catalog_stop_id": "davao-dona-vicenta-park",
+      "status": "accepted",
+      "decision_reason": "Distinct place and actual municipality verified; no current access or scheduling promise.",
+      "sources": {
+        "identity": {
+          "sourceName": "City Government of Davao — Doña Vicenta Park",
+          "sourceUrl": "https://davaocity.gov.ph/environment/dona-vicenta-park-now-open/",
+          "dateChecked": "2026-10-19",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "City Government of Davao — Doña Vicenta Park location",
+          "sourceUrl": "https://davaocity.gov.ph/environment/dona-vicenta-park-now-open/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "City Government of Davao — Doña Vicenta Park location",
+          "sourceUrl": "https://davaocity.gov.ph/environment/dona-vicenta-park-now-open/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "davao-eden-nature-park",
+      "name": "Eden Nature Park",
+      "destination_group": "Davao",
+      "region": "Davao Region",
+      "province": null,
+      "city_municipality": "Davao City",
+      "barangay": "Eden",
+      "address": "Barangay Eden, Toril, Davao City",
+      "latitude": null,
+      "longitude": null,
+      "category": "Nature",
+      "description": "Mountain resort in Barangay Eden.",
+      "interests": [
+        "Nature Lover",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "davao",
+      "catalog_stop_id": "davao-eden-nature-park",
+      "status": "accepted",
+      "decision_reason": "Distinct place and actual municipality verified; no current access or scheduling promise.",
+      "sources": {
+        "identity": {
+          "sourceName": "Eden Nature Park — official resort information",
+          "sourceUrl": "https://www.edennaturepark.com.ph/",
+          "dateChecked": "2026-10-19",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Eden Nature Park — resort address",
+          "sourceUrl": "https://www.edennaturepark.com.ph/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "Eden Nature Park — resort address",
+          "sourceUrl": "https://www.edennaturepark.com.ph/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "davao-philippine-eagle-center",
+      "name": "Philippine Eagle Center",
+      "destination_group": "Davao",
+      "region": "Davao Region",
+      "province": null,
+      "city_municipality": "Davao City",
+      "barangay": "Malagos",
+      "address": "Malagos, Baguio District, Davao City",
+      "latitude": 7.18488,
+      "longitude": 125.41529,
+      "category": "Nature",
+      "description": "Conservation and education facility for Philippine eagles.",
+      "interests": [
+        "Nature Lover",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "davao",
+      "catalog_stop_id": "davao-philippine-eagle-center",
+      "status": "accepted",
+      "decision_reason": "Distinct place and actual municipality verified; no current access or scheduling promise.",
+      "sources": {
+        "identity": {
+          "sourceName": "Philippine Eagle Foundation — Philippine Eagle Center",
+          "sourceUrl": "https://www.philippineeaglefoundation.org/copy-of-the-pec-1",
+          "dateChecked": "2026-10-19",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Philippine Eagle Foundation — organization and center address",
+          "sourceUrl": "https://www.philippineeaglefoundation.org/pef",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "Philippine Eagle Foundation — organization and center address",
+          "sourceUrl": "https://www.philippineeaglefoundation.org/pef",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": "Mapcarta / OpenStreetMap — Philippine Eagle Center reference",
+          "sourceUrl": "https://mapcarta.com/N747886405",
+          "dateChecked": "2026-10-19",
+          "status": "estimate"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "davao-malagos-garden-resort",
+      "name": "Malagos Garden Resort",
+      "destination_group": "Davao",
+      "region": "Davao Region",
+      "province": null,
+      "city_municipality": "Davao City",
+      "barangay": "Malagos",
+      "address": "Malagos, Baguio District, Davao City",
+      "latitude": null,
+      "longitude": null,
+      "category": "Nature",
+      "description": "Garden resort in the Davao tourism catalog.",
+      "interests": [
+        "Nature Lover",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "davao",
+      "catalog_stop_id": "davao-malagos-garden-resort",
+      "status": "accepted",
+      "decision_reason": "Distinct place and actual municipality verified; no current access or scheduling promise.",
+      "sources": {
+        "identity": {
+          "sourceName": "Malagos Garden Resort — official contact and resort address",
+          "sourceUrl": "https://www.malagos.com/contact",
+          "dateChecked": "2026-10-19",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Malagos Garden Resort — official resort address",
+          "sourceUrl": "https://www.malagos.com/contact",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "Malagos Garden Resort — official resort address",
+          "sourceUrl": "https://www.malagos.com/contact",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "davao-imin-museum",
+      "name": "IMIN Philippine–Japan Historical Museum",
+      "destination_group": "Davao",
+      "region": "Davao Region",
+      "province": null,
+      "city_municipality": "Davao City",
+      "barangay": null,
+      "address": "Purok 18, Durian Village, Calinan, Davao City",
+      "latitude": null,
+      "longitude": null,
+      "category": "Culture",
+      "description": "Museum documenting Philippine–Japanese community history.",
+      "interests": [
+        "Culture Seeker",
+        "City Wanderer"
+      ],
+      "itinerary_base_slug": "davao",
+      "catalog_stop_id": "davao-imin-museum",
+      "status": "accepted",
+      "decision_reason": "Distinct place and actual municipality verified; no current access or scheduling promise.",
+      "sources": {
+        "identity": {
+          "sourceName": "Davao City Tourism — IMIN Philippine–Japan Historical Museum",
+          "sourceUrl": "https://tourism.davaocity.gov.ph/explore-the-city/attractions/musuems/imin-philippine-japan-historical-museum/",
+          "dateChecked": "2026-10-19",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Davao City Tourism — IMIN museum address",
+          "sourceUrl": "https://tourism.davaocity.gov.ph/explore-the-city/attractions/musuems/imin-philippine-japan-historical-museum/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "Davao City Tourism — IMIN museum address",
+          "sourceUrl": "https://tourism.davaocity.gov.ph/explore-the-city/attractions/musuems/imin-philippine-japan-historical-museum/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "davao-crocodile-park",
+      "name": "Davao Crocodile Park",
+      "destination_group": "Davao",
+      "region": "Davao Region",
+      "province": null,
+      "city_municipality": "Davao City",
+      "barangay": "Ma-a",
+      "address": "Riverfront Corporate City, Diversion Road, Barangay Ma-a, Davao City",
+      "latitude": null,
+      "longitude": null,
+      "category": "Nature",
+      "description": "Crocodile park listed by Davao City Tourism in Ma-a.",
+      "interests": [
+        "Nature Lover",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "davao",
+      "catalog_stop_id": "davao-crocodile-park",
+      "status": "rejected",
+      "decision_reason": "Verified physical place; editorial surplus outside the initial 200-place selection. Retained as a future expansion candidate, without a current access or availability claim.",
+      "sources": {
+        "identity": {
+          "sourceName": "Davao City Tourism — Davao Crocodile Park, Inc.",
+          "sourceUrl": "https://tourism.davaocity.gov.ph/explore-the-city/attractions/resorts/davao-crocodile-park-inc/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Davao City Tourism — Davao Crocodile Park, Inc.",
+          "sourceUrl": "https://tourism.davaocity.gov.ph/explore-the-city/attractions/resorts/davao-crocodile-park-inc/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "Davao City Tourism — Davao Crocodile Park, Inc.",
+          "sourceUrl": "https://tourism.davaocity.gov.ph/explore-the-city/attractions/resorts/davao-crocodile-park-inc/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "reviewed_on": "2026-10-21"
+    }
+  ]
+}
