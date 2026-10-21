@@ -49,8 +49,6 @@ Weather shows the forecast date, high temperature, rain probability, conditions,
 ## Validation
 
 ```powershell
-npm run export:directory
-npm run validate:catalog
 npm run typecheck
 npm run lint
 npm test
@@ -79,7 +77,7 @@ Unit tests cover low-budget Baguio, Cebu–Bohol connections, relaxed Palawan fa
 
 Rain-sensitive activities in Baguio and Cebu City can now receive destination-specific alternatives from fresh forecast planning signals or a traveler's manual rain report. Every change requires a preview and explicit acceptance. See [supported alternatives, trigger thresholds, and limitations](docs/rain-planning.md).
 
-Costs are illustrative planning allowances, not verified fees or booking quotes. Map coordinates are approximate; opening hours, accessibility, dietary suitability, transport connections, and local requirements need confirmation. The generator avoids repeat places and overlapping package components across days, groups local clusters, respects recorded hours, and reserves full days for explicitly enabled excursions. It leaves honest free time when suitable unique stops run out. Free-text reservations and must-visit/avoid requests guide suggestions; current access and bookings still require review. Add confirmed bookings as locked activities.
+Costs are illustrative planning allowances, not verified fees or booking quotes. Map coordinates are approximate; opening hours, accessibility, dietary suitability, transport connections, and local requirements need confirmation. Small seed catalogs can repeat stops on longer trips. Free-text reservations and must-visit/avoid requests are retained for review; they are not guaranteed constraints. Add confirmed bookings as locked activities.
 
 Guest data is local to each browser and origin. Clearing site data removes it; JSON exports can be restored as new trips. Shared links contain a static encoded snapshot, are not encrypted or revocable, and require access to the hosted Site. Sensitive preference fields and journal notes are omitted, but activity notes, dates, checklists, and expenses remain in the snapshot. Review before sharing. This is not multi-user collaboration or cross-device account sync.
 
@@ -94,9 +92,3 @@ Travel facts now carry individual source names, URLs, checked dates, and verifie
 Photos and licenses: [image credits](docs/image-credits.md), also exposed in the application via `/image-credits.txt`. Fonts: Fraunces, DM Sans, and Caveat via Google Fonts. Maps: [Leaflet](https://leafletjs.com/) and [OpenStreetMap](https://www.openstreetmap.org/copyright). Destination inspiration: [Philippine Department of Tourism](https://philippines.travel/destinations). Organization reference: [Nordic Visitor](https://www.nordicvisitor.com/). Optional weather: [Open-Meteo documentation](https://open-meteo.com/en/docs). Official traveler links: [eTravel](https://etravel.gov.ph/), [Bureau of Immigration](https://immigration.gov.ph/), and [PAGASA](https://www.pagasa.dost.gov.ph/).
 
 The retained Sites/Vinext runtime documentation is in [docs/starter-runtime.md](docs/starter-runtime.md).
-
-## Directory coverage and exports
-
-The browsing directory has 200 accepted places selected from 250 candidate records across Palawan, Cebu, Metro Manila, Siargao, Bohol, Boracay, Baguio, Iloilo, Davao, Batanes and Sagada. Browsing groups are independent of the 13 selectable overnight bases. Legacy `palawan` trips retain their original slug and snapshots. Outlying places without a reviewed itinerary-base mapping remain directory-only.
-
-`npm run export:directory` validates candidate structure, writes the combined candidate dataset, accepted JSON/CSV with available practical details, progress totals and destination batches of at most 25. Exports are in `public/data/`, and the generated human-readable tracker is [docs/directory-progress.md](docs/directory-progress.md). Identity and municipality acceptance does not verify prices, hours, accessibility, current entry or weather suitability. Unknown fields remain null. Existing licensed images are reused with credits; unmatched places use a compass fallback. No database, paid API or billing activation is required.
