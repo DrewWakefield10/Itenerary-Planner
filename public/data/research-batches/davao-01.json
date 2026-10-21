@@ -736,8 +736,6 @@
       "reviewed_on": "2026-10-21"
     },
     {
-      "id": "davao-crocodile-park",
-      "name": "Davao Crocodile Park",
       "destination_group": "Davao",
       "region": "Davao Region",
       "province": null,
@@ -746,16 +744,6 @@
       "address": "Riverfront Corporate City, Diversion Road, Barangay Ma-a, Davao City",
       "latitude": null,
       "longitude": null,
-      "category": "Nature",
-      "description": "Crocodile park listed by Davao City Tourism in Ma-a.",
-      "interests": [
-        "Nature Lover",
-        "Slow Traveler"
-      ],
-      "itinerary_base_slug": "davao",
-      "catalog_stop_id": "davao-crocodile-park",
-      "status": "rejected",
-      "decision_reason": "Verified physical place; editorial surplus outside the initial 200-place selection. Retained as a future expansion candidate, without a current access or availability claim.",
       "sources": {
         "identity": {
           "sourceName": "Davao City Tourism — Davao Crocodile Park, Inc.",
@@ -782,6 +770,645 @@
           "status": "unverified"
         }
       },
+      "id": "davao-crocodile-park",
+      "name": "Davao Crocodile Park",
+      "slug": "davao-crocodile-park",
+      "aliases": [
+        "Davao Riverfront Crocodile Park"
+      ],
+      "planning": {
+        "base_slug": "davao",
+        "mode": "local",
+        "cluster": "davao-crocodile-park",
+        "minutes": 120,
+        "booking": "Confirm admission, operating areas, current show times, and any booking requirement directly. No specific show or animal encounter is guaranteed.",
+        "transport": "Planning estimate: use a local ride within Davao City; confirm route and return transport.",
+        "accessibility": "Step-free access, paths, and accessible facilities are unverified; ask the venue or city office.",
+        "requiresBooking": false,
+        "scheduling": "candidate",
+        "outdoor": true
+      },
+      "category": "Nature",
+      "description": "Crocodile park listed by Davao City Tourism in Ma-a.",
+      "interests": [
+        "Nature Lover",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "davao",
+      "catalog_stop_id": "davao-crocodile-park",
+      "status": "accepted",
+      "decision_reason": "Promoted from reviewed editorial surplus; original government identity, municipality, and address evidence retained.",
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "destination_group": "Davao",
+      "region": "Davao Region",
+      "province": null,
+      "city_municipality": "Davao City",
+      "barangay": "Ma-a",
+      "address": "Green Valley, Diversion Road, Ma-a, Davao City",
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "Davao City Tourism — Gap Farm Resort",
+          "sourceUrl": "https://tourism.davaocity.gov.ph/explore-the-city/attractions/man-made-nature-parks/gap-farm-resort/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Davao City Tourism — Gap Farm Resort",
+          "sourceUrl": "https://tourism.davaocity.gov.ph/explore-the-city/attractions/man-made-nature-parks/gap-farm-resort/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "Davao City Tourism — Gap Farm Resort",
+          "sourceUrl": "https://tourism.davaocity.gov.ph/explore-the-city/attractions/man-made-nature-parks/gap-farm-resort/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "id": "davao-gap-farm",
+      "name": "GAP Farm Resort",
+      "slug": "davao-gap-farm",
+      "aliases": [
+        "Gap Orchard Resort",
+        "GAP Farming Orchard Resort"
+      ],
+      "planning": {
+        "base_slug": "davao",
+        "mode": "local",
+        "cluster": "davao-gap-farm",
+        "minutes": 120,
+        "booking": "Confirm current opening, public access, and availability directly before visiting.",
+        "transport": "The city tourism office lists taxi access via Diversion Road. Traffic and return ride availability require confirmation.",
+        "accessibility": "Step-free access, paths, and accessible facilities are unverified; ask the venue or city office.",
+        "requiresBooking": false,
+        "scheduling": "candidate",
+        "outdoor": true,
+        "openingHours": {
+          "weekdays": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "opens": "07:30",
+          "closes": "17:00",
+          "source": {
+            "sourceName": "Davao City Tourism — Gap Farm Resort",
+            "sourceUrl": "https://tourism.davaocity.gov.ph/explore-the-city/attractions/man-made-nature-parks/gap-farm-resort/",
+            "dateChecked": "2026-10-21",
+            "status": "verified"
+          }
+        },
+        "transport_source": {
+          "sourceName": "Davao City Tourism — Gap Farm Resort",
+          "sourceUrl": "https://tourism.davaocity.gov.ph/explore-the-city/attractions/man-made-nature-parks/gap-farm-resort/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        }
+      },
+      "category": "Nature",
+      "description": "Orchard and outdoor folklore displays in Ma-a.",
+      "interests": [
+        "Nature Lover",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "davao",
+      "catalog_stop_id": "davao-gap-farm",
+      "status": "accepted",
+      "decision_reason": "Additional distinct physical place with reviewed identity and actual municipality sources; current access and availability are not guaranteed.",
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "destination_group": "Davao",
+      "region": "Davao Region",
+      "province": null,
+      "city_municipality": "Davao City",
+      "barangay": "Communal",
+      "address": "Communal, Davao City",
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "Davao City Tourism — D’Leonor Inland Resort",
+          "sourceUrl": "https://tourism.davaocity.gov.ph/explore-the-city/attractions/man-made-nature-parks/dleonor-inland-resort/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Davao City Tourism — D’Leonor Inland Resort",
+          "sourceUrl": "https://tourism.davaocity.gov.ph/explore-the-city/attractions/man-made-nature-parks/dleonor-inland-resort/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "Davao City Tourism — D’Leonor Inland Resort",
+          "sourceUrl": "https://tourism.davaocity.gov.ph/explore-the-city/attractions/man-made-nature-parks/dleonor-inland-resort/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "id": "davao-dleonor-inland-resort",
+      "name": "D’Leonor Inland Resort and Adventure Park",
+      "slug": "davao-dleonor-inland-resort",
+      "aliases": [
+        "D'Leonor Inland Resort",
+        "D'Leonor Inland Resort and Wavepool"
+      ],
+      "planning": {
+        "base_slug": "davao",
+        "mode": "local",
+        "cluster": "davao-dleonor-inland-resort",
+        "minutes": 180,
+        "booking": "Confirm current day-visitor admission, operating attractions, and any activity booking requirement before scheduling.",
+        "transport": "City tourism lists taxi or a jeepney via the Cabantian route; confirm the current route, final approach, and return ride.",
+        "accessibility": "Step-free access, paths, and accessible facilities are unverified; ask the venue or city office.",
+        "requiresBooking": false,
+        "scheduling": "manual",
+        "transport_source": {
+          "sourceName": "Davao City Tourism — D’Leonor Inland Resort",
+          "sourceUrl": "https://tourism.davaocity.gov.ph/explore-the-city/attractions/man-made-nature-parks/dleonor-inland-resort/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        }
+      },
+      "category": "Attractions",
+      "description": "Inland resort and recreation venue in Communal.",
+      "interests": [
+        "Nature Lover",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "davao",
+      "catalog_stop_id": "davao-dleonor-inland-resort",
+      "status": "accepted",
+      "decision_reason": "Additional distinct physical place with reviewed identity and actual municipality sources; current access and availability are not guaranteed.",
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "destination_group": "Davao",
+      "region": "Davao Region",
+      "province": null,
+      "city_municipality": "Davao City",
+      "barangay": "Matina Crossing",
+      "address": "Hillcrest Subdivision, Balusong Extension, Matina Crossing, Talomo, Davao City",
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "Department of Tourism London — Davao cultural sites",
+          "sourceUrl": "https://itsmorefuninthephilippines.co.uk/wp-content/uploads/PDOTL_DavaoCamiguin_Web.pdf",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Davao City Tourism — D’ Japanese Tunnel venue location",
+          "sourceUrl": "https://tourism.davaocity.gov.ph/explore-the-city/nightlife/spa/d-japanese-tunnel-family-resort-and-restaurant/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "Davao City Tourism — D’ Japanese Tunnel venue location",
+          "sourceUrl": "https://tourism.davaocity.gov.ph/explore-the-city/nightlife/spa/d-japanese-tunnel-family-resort-and-restaurant/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "id": "davao-japanese-tunnel",
+      "name": "D’ Japanese Tunnel",
+      "slug": "davao-japanese-tunnel",
+      "aliases": [
+        "Japanese Tunnel Davao",
+        "D’ Japanese Tunnel Family Resort and Restaurant"
+      ],
+      "planning": {
+        "base_slug": "davao",
+        "mode": "local",
+        "cluster": "davao-japanese-tunnel",
+        "minutes": 90,
+        "booking": "Confirm current tunnel entry, guide arrangements, and physical access directly. A resort listing does not guarantee tunnel access.",
+        "transport": "Planning estimate: use a local ride within Davao City; confirm route and return transport.",
+        "accessibility": "Step-free access, paths, and accessible facilities are unverified; ask the venue or city office.",
+        "requiresBooking": false,
+        "scheduling": "manual"
+      },
+      "category": "Culture",
+      "description": "Historic tunnel attraction at the Matina Crossing resort.",
+      "interests": [
+        "Culture Seeker",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "davao",
+      "catalog_stop_id": "davao-japanese-tunnel",
+      "status": "accepted",
+      "decision_reason": "Additional distinct physical place with reviewed identity and actual municipality sources; current access and availability are not guaranteed.",
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "destination_group": "Davao",
+      "region": "Davao Region",
+      "province": null,
+      "city_municipality": "Davao City",
+      "barangay": null,
+      "address": "Shrine Hills, Matina, Davao City",
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "Davao Catholic Herald — Shrine of the Holy Infant Jesus of Prague",
+          "sourceUrl": "https://www.davaocatholicherald.com/mass-schedules/sto-nino-shrine-mass-schedule/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Davao Catholic Herald — Shrine of the Holy Infant Jesus of Prague",
+          "sourceUrl": "https://www.davaocatholicherald.com/mass-schedules/sto-nino-shrine-mass-schedule/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "Davao Catholic Herald — Shrine of the Holy Infant Jesus of Prague",
+          "sourceUrl": "https://www.davaocatholicherald.com/mass-schedules/sto-nino-shrine-mass-schedule/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "id": "davao-holy-infant-jesus-shrine",
+      "name": "Shrine of the Holy Infant Jesus of Prague",
+      "slug": "davao-holy-infant-jesus-shrine",
+      "aliases": [
+        "Santo Niño Shrine — Matina",
+        "Sto. Niño Shrine — Davao"
+      ],
+      "planning": {
+        "base_slug": "davao",
+        "mode": "local",
+        "cluster": "shrine-hills",
+        "minutes": 60,
+        "booking": "Confirm visitor access around worship services and special events; observe the shrine's visitor guidance. Mass times are not general opening hours.",
+        "transport": "Planning estimate: use a local ride within Davao City; confirm route and return transport.",
+        "accessibility": "Step-free access, paths, and accessible facilities are unverified; ask the venue or city office.",
+        "requiresBooking": false,
+        "scheduling": "candidate"
+      },
+      "category": "Culture",
+      "description": "Catholic shrine on Shrine Hills in Matina.",
+      "interests": [
+        "Culture Seeker",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "davao",
+      "catalog_stop_id": "davao-holy-infant-jesus-shrine",
+      "status": "accepted",
+      "decision_reason": "Additional distinct physical place with reviewed identity and actual municipality sources; current access and availability are not guaranteed.",
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "destination_group": "Davao",
+      "region": "Davao Region",
+      "province": null,
+      "city_municipality": "Davao City",
+      "barangay": "Barangay 4A",
+      "address": "C. Bangoy Street, Barangay 4A, Poblacion, Davao City",
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "Alsons Development — Poblacion Market Central",
+          "sourceUrl": "https://alsonsdev.com/alsons-dev-launches-poblacion-market-central-the-newest-lifestyle-destination-in-davao-where-heritage-meets-hip/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Alsons Development — Poblacion Market Central",
+          "sourceUrl": "https://alsonsdev.com/alsons-dev-launches-poblacion-market-central-the-newest-lifestyle-destination-in-davao-where-heritage-meets-hip/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "Keppel Philippines — Poblacion Market Central branch address record",
+          "sourceUrl": "https://www.keppelland.com.ph/pdf/CGFD_Keppel%20Philippines%20Properties%20Inc._SEC%2020-IS%20Y2023_13April2023_part3of3.pdf",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "id": "davao-poblacion-market-central",
+      "name": "Poblacion Market Central",
+      "slug": "davao-poblacion-market-central",
+      "aliases": [],
+      "planning": {
+        "base_slug": "davao",
+        "mode": "local",
+        "cluster": "davao-poblacion-market-central",
+        "minutes": 90,
+        "booking": "Confirm current retail opening and any event arrangements. Internal food counters and exhibitions are part of this venue.",
+        "transport": "Planning estimate: use a local ride within Davao City; confirm route and return transport.",
+        "accessibility": "Step-free access, paths, and accessible facilities are unverified; ask the venue or city office.",
+        "requiresBooking": false,
+        "scheduling": "candidate",
+        "outdoor": true
+      },
+      "category": "Parks & markets",
+      "description": "Retail and cultural market with local crafts and food.",
+      "interests": [
+        "Nature Lover",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "davao",
+      "catalog_stop_id": "davao-poblacion-market-central",
+      "status": "accepted",
+      "decision_reason": "Additional distinct physical place with reviewed identity and actual municipality sources; current access and availability are not guaranteed.",
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "destination_group": "Davao",
+      "region": "Davao Region",
+      "province": null,
+      "city_municipality": "Davao City",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "City Government of Davao — opened public parks and green spaces",
+          "sourceUrl": "https://davaocity.gov.ph/sustainable-environment/city-to-open-more-green-spaces-parks/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "City Government of Davao — opened public parks and green spaces",
+          "sourceUrl": "https://davaocity.gov.ph/sustainable-environment/city-to-open-more-green-spaces-parks/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "id": "davao-bago-esplanade",
+      "name": "Bago Esplanade",
+      "slug": "davao-bago-esplanade",
+      "aliases": [
+        "Bago Aplaya Esplanade"
+      ],
+      "planning": {
+        "base_slug": "davao",
+        "mode": "local",
+        "cluster": "davao-bago-esplanade",
+        "minutes": 60,
+        "booking": "Confirm current park access and event or road restrictions; coastal conditions are not assessed by this listing.",
+        "transport": "Planning estimate: use a local ride within Davao City; confirm route and return transport.",
+        "accessibility": "Step-free access, paths, and accessible facilities are unverified; ask the venue or city office.",
+        "requiresBooking": false,
+        "scheduling": "candidate",
+        "outdoor": true
+      },
+      "category": "Parks & markets",
+      "description": "Public park along Davao City Coastal Road.",
+      "interests": [
+        "Nature Lover",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "davao",
+      "catalog_stop_id": "davao-bago-esplanade",
+      "status": "accepted",
+      "decision_reason": "Additional distinct physical place with reviewed identity and actual municipality sources; current access and availability are not guaranteed.",
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "destination_group": "Davao",
+      "region": "Davao Region",
+      "province": null,
+      "city_municipality": "Davao City",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "City Government of Davao — opened public parks and green spaces",
+          "sourceUrl": "https://davaocity.gov.ph/sustainable-environment/city-to-open-more-green-spaces-parks/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "City Government of Davao — opened public parks and green spaces",
+          "sourceUrl": "https://davaocity.gov.ph/sustainable-environment/city-to-open-more-green-spaces-parks/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "id": "davao-gulf-view-esplanade",
+      "name": "Gulf View Esplanade",
+      "slug": "davao-gulf-view-esplanade",
+      "aliases": [],
+      "planning": {
+        "base_slug": "davao",
+        "mode": "local",
+        "cluster": "davao-gulf-view-esplanade",
+        "minutes": 60,
+        "booking": "Confirm current park access and event or road restrictions; no coastal safety claim is made.",
+        "transport": "Planning estimate: use a local ride within Davao City; confirm route and return transport.",
+        "accessibility": "Step-free access, paths, and accessible facilities are unverified; ask the venue or city office.",
+        "requiresBooking": false,
+        "scheduling": "candidate",
+        "outdoor": true
+      },
+      "category": "Parks & markets",
+      "description": "Separate public park on the city's coastal-road corridor.",
+      "interests": [
+        "Nature Lover",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "davao",
+      "catalog_stop_id": "davao-gulf-view-esplanade",
+      "status": "accepted",
+      "decision_reason": "Additional distinct physical place with reviewed identity and actual municipality sources; current access and availability are not guaranteed.",
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "destination_group": "Davao",
+      "region": "Davao Region",
+      "province": null,
+      "city_municipality": "Davao City",
+      "barangay": null,
+      "address": "Marfori Heights Subdivision, Davao City",
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "City Government of Davao — existing city park inventory",
+          "sourceUrl": "https://davaocity.gov.ph/environment/six-new-public-parks-to-open-in-davao-city/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "City Government of Davao — existing city park inventory",
+          "sourceUrl": "https://davaocity.gov.ph/environment/six-new-public-parks-to-open-in-davao-city/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "City Government of Davao — existing city park inventory",
+          "sourceUrl": "https://davaocity.gov.ph/environment/six-new-public-parks-to-open-in-davao-city/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "id": "davao-marfori-botanical-garden",
+      "name": "Davao City Botanical Park",
+      "slug": "davao-marfori-botanical-garden",
+      "aliases": [
+        "Marfori Botanical Garden"
+      ],
+      "planning": {
+        "base_slug": "davao",
+        "mode": "local",
+        "cluster": "davao-marfori-botanical-garden",
+        "minutes": 60,
+        "booking": "Confirm current opening, public access, and availability directly before visiting.",
+        "transport": "Planning estimate: use a local ride within Davao City; confirm route and return transport.",
+        "accessibility": "Step-free access, paths, and accessible facilities are unverified; ask the venue or city office.",
+        "requiresBooking": false,
+        "scheduling": "candidate",
+        "outdoor": true
+      },
+      "category": "Parks & markets",
+      "description": "City park at Marfori Heights Subdivision.",
+      "interests": [
+        "Nature Lover",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "davao",
+      "catalog_stop_id": "davao-marfori-botanical-garden",
+      "status": "accepted",
+      "decision_reason": "Additional distinct physical place with reviewed identity and actual municipality sources; current access and availability are not guaranteed.",
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "destination_group": "Davao",
+      "region": "Davao Region",
+      "province": null,
+      "city_municipality": "Davao City",
+      "barangay": null,
+      "address": "Agton Street, Toril, Davao City",
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "City Government of Davao — opened public parks and green spaces",
+          "sourceUrl": "https://davaocity.gov.ph/sustainable-environment/city-to-open-more-green-spaces-parks/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "City Government of Davao — opened public parks and green spaces",
+          "sourceUrl": "https://davaocity.gov.ph/sustainable-environment/city-to-open-more-green-spaces-parks/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "City Government of Davao — opened public parks and green spaces",
+          "sourceUrl": "https://davaocity.gov.ph/sustainable-environment/city-to-open-more-green-spaces-parks/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "id": "davao-toril-park",
+      "name": "Toril Park",
+      "slug": "davao-toril-park",
+      "aliases": [],
+      "planning": {
+        "base_slug": "davao",
+        "mode": "local",
+        "cluster": "davao-toril-park",
+        "minutes": 60,
+        "booking": "Confirm current opening, public access, and availability directly before visiting.",
+        "transport": "Outlying Toril visit within Davao City. Confirm a suitable round-trip road route before combining with downtown stops.",
+        "accessibility": "Step-free access, paths, and accessible facilities are unverified; ask the venue or city office.",
+        "requiresBooking": false,
+        "scheduling": "manual",
+        "outdoor": true
+      },
+      "category": "Parks & markets",
+      "description": "Renovated city park on Agton Street, Toril.",
+      "interests": [
+        "Nature Lover",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "davao",
+      "catalog_stop_id": "davao-toril-park",
+      "status": "accepted",
+      "decision_reason": "Additional distinct physical place with reviewed identity and actual municipality sources; current access and availability are not guaranteed.",
       "reviewed_on": "2026-10-21"
     }
   ]

@@ -5,6 +5,8 @@ import {researchedStop} from "./build";
 import type {ResearchedSpot, Stop} from "./types";
 import {unverifiedSource} from "../sources";
 import {directoryListings,geographyOf} from "./directory";
+import {stopFromDirectory} from "./directory-stop";
+import {typesForStop} from "./place-types";
 
 const additions=([...luzon,...islands,...visayas] as ResearchedSpot[]).map(researchedStop);
 
@@ -12,7 +14,19 @@ const additions=([...luzon,...islands,...visayas] as ResearchedSpot[]).map(resea
  * activities remain independent snapshots, never hydrated from today's catalog. */
 export function catalogForBase(baseSlug:string,existing:Stop[]) {
   const stops=[...existing,...additions.filter(s=>s.baseSlug===baseSlug)].map(s=>structuredClone(s));
+  for(const p of directoryListings.filter(p=>p.planning?.base_slug===baseSlug)){
+    const index=stops.findIndex(s=>s.id===(p.catalog_stop_id||p.id));
+    const next=stopFromDirectory(p,index>=0?stops[index]:undefined);
+    if(next){if(index>=0)stops[index]=next;else stops.push(next);}
+  }
   for(const s of stops) {
+    s.placeTypes=typesForStop(s.id);
+    // Correct broad legacy labels without rewriting source records or snapshots.
+    if(s.placeTypes.includes("beach"))s.category="Beaches";
+    else if(s.placeTypes.some(t=>["cafe","restaurant","bakery","bar"].includes(t)))s.category="Food";
+    else if(s.placeTypes.includes("market"))s.category="Markets";
+    else if(s.placeTypes.includes("shopping"))s.category="Shopping";
+    else if(s.placeTypes.some(t=>["museum","heritage","church"].includes(t)))s.category="Culture";
     const listing=directoryListings.find(p=>p.catalog_stop_id===s.id&&p.itinerary_base_slug===baseSlug);
     if(listing)s.geography=geographyOf(listing);
     for(const parent of stops.filter(p=>p.includes.includes(s.id)))

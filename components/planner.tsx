@@ -30,6 +30,7 @@ import {
 import { totalBudget, recommendDestinations, travelers } from "@/lib/engine";
 import { readLocal, writeLocal } from "@/lib/storage";
 import { saveTrip } from "@/lib/trip-storage";
+import {placeTypes,placeTypeLabels} from "@/lib/catalog/place-types";
 const steps = [
   "The basics",
   "Your travel style",
@@ -66,7 +67,8 @@ export default function Planner() {
     if (picks?.length) saved.destinations = picks;
     const days = Number(q.get("days"));
     if (days >= 2 && days <= 21) saved.days = days;
-    setR(saved);
+    const parsed=requestSchema.safeParse({...defaultRequest,...saved});
+    setR(parsed.success?parsed.data:{...defaultRequest,startDate:tomorrow()});
     setLoaded(true);
     fetch("/api/generate")
       .then((r) => r.json() as Promise<{ mode: string }>)
@@ -191,7 +193,7 @@ export default function Planner() {
             <p>
               {mode === "demo"
                 ? "Demo mode is ready. Your plan uses curated places and estimated allowances."
-                : "AI personalizes your journal; the itinerary engine handles seed activities, schedules, and estimates."}
+                : "AI can choose matching catalog places; the planner checks destinations, schedules and estimates."}
             </p>
           </div>
         </aside>
@@ -327,7 +329,7 @@ export default function Planner() {
                 What makes you <em>feel alive?</em>
               </h2>
               <p>
-                Pick a few favorites. We’ll use them to prioritize your stops.
+                Pick a few favorites. We’ll suggest places that match your interests.
               </p>
               <div className="choice-grid interests">
                 {personalities.map((p, i) => (
@@ -352,6 +354,19 @@ export default function Planner() {
                   </button>
                 ))}
               </div>
+              <details className="paper-note" open={r.activityCategories.length>0}>
+                <summary>Choose specific place types (optional)</summary>
+                <p className="fine-print">Select any types you want to visit. These take priority over broad interests. Only matching places are suggested; a beach bar does not count as a beach. Limited matches leave open time.</p>
+                <fieldset>
+                  <legend>Place types</legend>
+                  <div className="place-type-options">
+                    {placeTypes.map(type=><label className="check-label" key={type}>
+                      <input type="checkbox" checked={r.activityCategories.includes(type)} onChange={e=>change("activityCategories",e.target.checked?[...r.activityCategories,type]:r.activityCategories.filter(t=>t!==type))}/>
+                      {placeTypeLabels[type]}
+                    </label>)}
+                  </div>
+                </fieldset>
+              </details>
             </>
           )}
           {step === 2 && (
@@ -603,8 +618,8 @@ export default function Planner() {
               </div>
               <div className="notice">
                 {mode === "demo"
-                  ? "Demo generation: curated seed activities, deterministic schedules, and estimated costs. No live AI or bookings are connected."
-                  : "AI personalizes journal themes and notes. Activities and prices stay grounded in seed data and need verification."}
+                  ? "Demo generation: matching catalog places, varied choices, and estimated schedules and costs. No live AI or bookings are connected."
+                  : "AI selects from matching catalog places and personalizes journal text. The planner validates selections; schedules and costs remain estimates."}
               </div>
             </>
           )}
@@ -661,7 +676,7 @@ export default function Planner() {
               disabled={busy}
               onClick={() => generate(true)}
             >
-              Try deterministic demo mode instead
+              Try catalog demo mode instead
             </button>
           )}
         </div>

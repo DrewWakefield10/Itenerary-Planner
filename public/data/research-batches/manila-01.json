@@ -984,8 +984,6 @@
       "reviewed_on": "2026-10-21"
     },
     {
-      "id": "manila-museo-intramuros",
-      "name": "Museo de Intramuros",
       "destination_group": "Manila",
       "region": "National Capital Region",
       "province": null,
@@ -994,25 +992,77 @@
       "address": null,
       "latitude": null,
       "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "Intramuros Administration - visitor sites",
+          "sourceUrl": "https://intramuros.gov.ph/sites/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Intramuros Administration - visitor sites",
+          "sourceUrl": "https://intramuros.gov.ph/sites/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "id": "manila-museo-intramuros",
+      "name": "Museo de Intramuros",
+      "aliases": [],
+      "planning": {
+        "base_slug": "manila",
+        "mode": "local",
+        "cluster": "intramuros",
+        "minutes": 60,
+        "booking": "Confirm current opening hours, admission or menu prices, and any reservation requirements with the venue before visiting.",
+        "transport": "Arrange local travel separately; route, fare, and journey time are unverified. Allow a local transfer buffer.",
+        "accessibility": "Step-free access, paths, toilets, and individual access needs have not been verified; confirm directly.",
+        "requiresBooking": false,
+        "scheduling": "candidate"
+      },
       "category": "Culture",
-      "description": "A museum of religious material culture.",
+      "description": "Ecclesiastical art and artifacts in Intramuros.",
       "interests": [
         "Culture Seeker",
         "City Wanderer"
       ],
       "itinerary_base_slug": "manila",
       "catalog_stop_id": "manila-museo-intramuros",
-      "status": "rejected",
-      "decision_reason": "Real venue omitted from the 20-place selection to broaden coverage across the actual cities of Metro Manila.",
+      "status": "accepted",
+      "decision_reason": "Promotion of a previously omitted editorial candidate; same physical place and stable catalog ID.",
+      "reviewed_on": "2026-10-21",
+      "slug": "manila-museo-intramuros"
+    },
+    {
+      "destination_group": "Manila",
+      "region": "National Capital Region",
+      "province": null,
+      "city_municipality": "Manila",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
       "sources": {
         "identity": {
-          "sourceName": "Intramuros Administration - sites",
+          "sourceName": "Intramuros Administration - visitor sites",
           "sourceUrl": "https://intramuros.gov.ph/sites/",
           "dateChecked": "2026-10-21",
           "status": "verified"
         },
         "municipality": {
-          "sourceName": "Intramuros Administration - sites",
+          "sourceName": "Intramuros Administration - visitor sites",
           "sourceUrl": "https://intramuros.gov.ph/sites/",
           "dateChecked": "2026-10-21",
           "status": "verified"
@@ -1030,60 +1080,34 @@
           "status": "unverified"
         }
       },
-      "reviewed_on": "2026-10-21"
-    },
-    {
       "id": "manila-destileria-limtuaco",
       "name": "Destileria Limtuaco Museum",
-      "destination_group": "Manila",
-      "region": "National Capital Region",
-      "province": null,
-      "city_municipality": "Manila",
-      "barangay": null,
-      "address": null,
-      "latitude": null,
-      "longitude": null,
+      "aliases": [],
+      "planning": {
+        "base_slug": "manila",
+        "mode": "local",
+        "cluster": "intramuros",
+        "minutes": 60,
+        "booking": "Confirm current opening hours, admission or menu prices, and any reservation requirements with the venue before visiting.",
+        "transport": "Arrange local travel separately; route, fare, and journey time are unverified. Allow a local transfer buffer.",
+        "accessibility": "Step-free access, paths, toilets, and individual access needs have not been verified; confirm directly.",
+        "requiresBooking": false,
+        "scheduling": "candidate"
+      },
       "category": "Culture",
-      "description": "An Intramuros museum visit.",
+      "description": "A museum exploring the distillery's history.",
       "interests": [
         "Culture Seeker",
         "City Wanderer"
       ],
       "itinerary_base_slug": "manila",
       "catalog_stop_id": "manila-destileria-limtuaco",
-      "status": "rejected",
-      "decision_reason": "Real venue omitted from the 20-place selection to broaden coverage across the actual cities of Metro Manila.",
-      "sources": {
-        "identity": {
-          "sourceName": "Intramuros Administration - sites",
-          "sourceUrl": "https://intramuros.gov.ph/sites/",
-          "dateChecked": "2026-10-21",
-          "status": "verified"
-        },
-        "municipality": {
-          "sourceName": "Intramuros Administration - sites",
-          "sourceUrl": "https://intramuros.gov.ph/sites/",
-          "dateChecked": "2026-10-21",
-          "status": "verified"
-        },
-        "address": {
-          "sourceName": null,
-          "sourceUrl": null,
-          "dateChecked": null,
-          "status": "unverified"
-        },
-        "coordinates": {
-          "sourceName": null,
-          "sourceUrl": null,
-          "dateChecked": null,
-          "status": "unverified"
-        }
-      },
-      "reviewed_on": "2026-10-21"
+      "status": "accepted",
+      "decision_reason": "Promotion of a previously omitted editorial candidate; same physical place and stable catalog ID.",
+      "reviewed_on": "2026-10-21",
+      "slug": "manila-destileria-limtuaco"
     },
     {
-      "id": "manila-bahay-tsinoy",
-      "name": "Bahay Tsinoy",
       "destination_group": "Manila",
       "region": "National Capital Region",
       "province": null,
@@ -1092,25 +1116,15 @@
       "address": null,
       "latitude": null,
       "longitude": null,
-      "category": "Culture",
-      "description": "An Intramuros museum visit.",
-      "interests": [
-        "Culture Seeker",
-        "City Wanderer"
-      ],
-      "itinerary_base_slug": "manila",
-      "catalog_stop_id": "manila-bahay-tsinoy",
-      "status": "rejected",
-      "decision_reason": "Real venue omitted from the 20-place selection to broaden coverage across the actual cities of Metro Manila.",
       "sources": {
         "identity": {
-          "sourceName": "Intramuros Administration - sites",
+          "sourceName": "Intramuros Administration - visitor sites",
           "sourceUrl": "https://intramuros.gov.ph/sites/",
           "dateChecked": "2026-10-21",
           "status": "verified"
         },
         "municipality": {
-          "sourceName": "Intramuros Administration - sites",
+          "sourceName": "Intramuros Administration - visitor sites",
           "sourceUrl": "https://intramuros.gov.ph/sites/",
           "dateChecked": "2026-10-21",
           "status": "verified"
@@ -1128,7 +1142,158 @@
           "status": "unverified"
         }
       },
-      "reviewed_on": "2026-10-21"
+      "id": "manila-bahay-tsinoy",
+      "name": "Bahay Tsinoy",
+      "aliases": [],
+      "planning": {
+        "base_slug": "manila",
+        "mode": "local",
+        "cluster": "intramuros",
+        "minutes": 60,
+        "booking": "Confirm current opening hours, admission or menu prices, and any reservation requirements with the venue before visiting.",
+        "transport": "Arrange local travel separately; route, fare, and journey time are unverified. Allow a local transfer buffer.",
+        "accessibility": "Step-free access, paths, toilets, and individual access needs have not been verified; confirm directly.",
+        "requiresBooking": false,
+        "scheduling": "candidate"
+      },
+      "category": "Culture",
+      "description": "A museum of Chinese Filipino history.",
+      "interests": [
+        "Culture Seeker",
+        "City Wanderer"
+      ],
+      "itinerary_base_slug": "manila",
+      "catalog_stop_id": "manila-bahay-tsinoy",
+      "status": "accepted",
+      "decision_reason": "Promotion of a previously omitted editorial candidate; same physical place and stable catalog ID.",
+      "reviewed_on": "2026-10-21",
+      "slug": "manila-bahay-tsinoy"
+    },
+    {
+      "destination_group": "Manila",
+      "region": "National Capital Region",
+      "province": null,
+      "city_municipality": "Manila",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "Intramuros Administration - visitor sites",
+          "sourceUrl": "https://intramuros.gov.ph/sites/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Intramuros Administration - visitor sites",
+          "sourceUrl": "https://intramuros.gov.ph/sites/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "id": "manila-baluarte-san-diego",
+      "name": "Baluarte de San Diego",
+      "aliases": [],
+      "planning": {
+        "base_slug": "manila",
+        "mode": "local",
+        "cluster": "intramuros",
+        "minutes": 60,
+        "booking": "Confirm current opening hours, admission or menu prices, and any reservation requirements with the venue before visiting.",
+        "transport": "Arrange local travel separately; route, fare, and journey time are unverified. Allow a local transfer buffer.",
+        "accessibility": "Step-free access, paths, toilets, and individual access needs have not been verified; confirm directly.",
+        "requiresBooking": false,
+        "scheduling": "candidate"
+      },
+      "category": "Culture",
+      "description": "A historic bastion and garden in Intramuros.",
+      "interests": [
+        "Culture Seeker",
+        "City Wanderer"
+      ],
+      "itinerary_base_slug": "manila",
+      "catalog_stop_id": "manila-baluarte-san-diego",
+      "status": "accepted",
+      "decision_reason": "Verified distinct physical place; practical details require separate confirmation.",
+      "reviewed_on": "2026-10-21",
+      "slug": "manila-baluarte-san-diego"
+    },
+    {
+      "destination_group": "Manila",
+      "region": "National Capital Region",
+      "province": null,
+      "city_municipality": "Manila",
+      "barangay": null,
+      "address": "628 Ongpin Street, Binondo",
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "Eng Bee Tin - official flagship visitor information",
+          "sourceUrl": "https://www.engbeetin.com/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Eng Bee Tin - official flagship visitor information",
+          "sourceUrl": "https://www.engbeetin.com/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "Eng Bee Tin - official flagship visitor information",
+          "sourceUrl": "https://www.engbeetin.com/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "id": "manila-eng-bee-tin-ongpin",
+      "name": "Eng Bee Tin - Ongpin Flagship",
+      "aliases": [
+        "Eng Bee Tin Binondo Flagship Store"
+      ],
+      "planning": {
+        "base_slug": "manila",
+        "mode": "local",
+        "cluster": "binondo",
+        "minutes": 45,
+        "booking": "Confirm current opening hours, admission or menu prices, and any reservation requirements with the venue before visiting.",
+        "transport": "Arrange local travel separately; route, fare, and journey time are unverified. Allow a local transfer buffer.",
+        "accessibility": "Step-free access, paths, toilets, and individual access needs have not been verified; confirm directly.",
+        "requiresBooking": false,
+        "scheduling": "candidate"
+      },
+      "category": "Food & drink",
+      "description": "Hopia, tikoy, and Chinese Filipino pastries in Binondo.",
+      "interests": [
+        "Food Hunter",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "manila",
+      "catalog_stop_id": "manila-eng-bee-tin-ongpin",
+      "status": "accepted",
+      "decision_reason": "Verified distinct physical place; practical details require separate confirmation.",
+      "reviewed_on": "2026-10-21",
+      "slug": "manila-eng-bee-tin-ongpin"
     }
   ]
 }

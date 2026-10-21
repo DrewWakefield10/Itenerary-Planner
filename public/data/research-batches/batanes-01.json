@@ -737,6 +737,643 @@
         }
       },
       "reviewed_on": "2026-10-21"
+    },
+    {
+      "destination_group": "Batanes",
+      "region": "Cagayan Valley",
+      "province": "Batanes",
+      "city_municipality": "Basco",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "Batanes Provincial Heritage and Tourism Office - Basco food map",
+          "sourceUrl": "https://breathtakingbatanes.com/foodmap.pdf",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Batanes Provincial Heritage and Tourism Office - Basco food map",
+          "sourceUrl": "https://breathtakingbatanes.com/foodmap.pdf",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "id": "batanes-casa-napoli-town",
+      "name": "Casa Napoli Pizza and Pasta - Basco Town",
+      "aliases": [
+        "Casa Napoli Pizza and Pasta"
+      ],
+      "planning": {
+        "base_slug": "batanes",
+        "mode": "local",
+        "cluster": "batanes-casa-napoli-town",
+        "minutes": 90,
+        "booking": "Confirm current food service, menu prices, and opening hours directly. No table or meal is reserved.",
+        "transport": "Local movement within Basco; confirm the exact venue and road route. Fares and travel times are unverified.",
+        "accessibility": "Accessible paths, steps, toilets, and individual access needs have not been verified. Confirm with the venue or operator.",
+        "requiresBooking": false,
+        "scheduling": "candidate"
+      },
+      "category": "Food & drink",
+      "description": "A pizza and pasta venue on the provincial Basco food map.",
+      "interests": [
+        "Food Hunter",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "batanes",
+      "catalog_stop_id": "batanes-casa-napoli-town",
+      "status": "accepted",
+      "decision_reason": "Officially listed physical place with its actual municipality; excursion logistics are kept separate from town stops.",
+      "reviewed_on": "2026-10-21",
+      "slug": "batanes-casa-napoli-town"
+    },
+    {
+      "destination_group": "Batanes",
+      "region": "Cagayan Valley",
+      "province": "Batanes",
+      "city_municipality": "Basco",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "Batanes Provincial Heritage and Tourism Office - Basco food map",
+          "sourceUrl": "https://breathtakingbatanes.com/foodmap.pdf",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Batanes Provincial Heritage and Tourism Office - Basco food map",
+          "sourceUrl": "https://breathtakingbatanes.com/foodmap.pdf",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "id": "batanes-beehan",
+      "name": "Beehan Food Enterprise",
+      "aliases": [
+        "Beehan Meals and Snacks"
+      ],
+      "planning": {
+        "base_slug": "batanes",
+        "mode": "local",
+        "cluster": "batanes-beehan",
+        "minutes": 90,
+        "booking": "Confirm current food service, menu prices, and opening hours directly. No table or meal is reserved.",
+        "transport": "Local movement within Basco; confirm the exact venue and road route. Fares and travel times are unverified.",
+        "accessibility": "Accessible paths, steps, toilets, and individual access needs have not been verified. Confirm with the venue or operator.",
+        "requiresBooking": false,
+        "scheduling": "candidate"
+      },
+      "category": "Food & drink",
+      "description": "A local food venue listed in Basco town proper.",
+      "interests": [
+        "Food Hunter",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "batanes",
+      "catalog_stop_id": "batanes-beehan",
+      "status": "accepted",
+      "decision_reason": "Officially listed physical place with its actual municipality; excursion logistics are kept separate from town stops.",
+      "reviewed_on": "2026-10-21",
+      "slug": "batanes-beehan"
+    },
+    {
+      "destination_group": "Batanes",
+      "region": "Cagayan Valley",
+      "province": "Batanes",
+      "city_municipality": "Basco",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "Batanes Provincial Heritage and Tourism Office - Basco food map",
+          "sourceUrl": "https://breathtakingbatanes.com/foodmap.pdf",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Batanes Provincial Heritage and Tourism Office - Basco food map",
+          "sourceUrl": "https://breathtakingbatanes.com/foodmap.pdf",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "id": "batanes-harbour-cafe",
+      "name": "Harbour Cafe",
+      "aliases": [],
+      "planning": {
+        "base_slug": "batanes",
+        "mode": "local",
+        "cluster": "batanes-harbour-cafe",
+        "minutes": 90,
+        "booking": "Confirm current food service, menu prices, and opening hours directly. No table or meal is reserved.",
+        "transport": "Local movement within Basco; confirm the exact venue and road route. Fares and travel times are unverified.",
+        "accessibility": "Accessible paths, steps, toilets, and individual access needs have not been verified. Confirm with the venue or operator.",
+        "requiresBooking": false,
+        "scheduling": "candidate"
+      },
+      "category": "Food & drink",
+      "description": "A cafe on the provincial Basco food map.",
+      "interests": [
+        "Food Hunter",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "batanes",
+      "catalog_stop_id": "batanes-harbour-cafe",
+      "status": "accepted",
+      "decision_reason": "Officially listed physical place with its actual municipality; excursion logistics are kept separate from town stops.",
+      "reviewed_on": "2026-10-21",
+      "slug": "batanes-harbour-cafe"
+    },
+    {
+      "destination_group": "Batanes",
+      "region": "Cagayan Valley",
+      "province": "Batanes",
+      "city_municipality": "Basco",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "Batanes Provincial Heritage and Tourism Office - Basco food map",
+          "sourceUrl": "https://breathtakingbatanes.com/foodmap.pdf",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Batanes Provincial Heritage and Tourism Office - Basco food map",
+          "sourceUrl": "https://breathtakingbatanes.com/foodmap.pdf",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "id": "batanes-vunong-dinette",
+      "name": "Vunong Dinette",
+      "aliases": [
+        "Vunong Dinette and Catering Services"
+      ],
+      "planning": {
+        "base_slug": "batanes",
+        "mode": "local",
+        "cluster": "batanes-vunong-dinette",
+        "minutes": 90,
+        "booking": "Confirm current food service, menu prices, and opening hours directly. No table or meal is reserved.",
+        "transport": "Local movement within Basco; confirm the exact venue and road route. Fares and travel times are unverified.",
+        "accessibility": "Accessible paths, steps, toilets, and individual access needs have not been verified. Confirm with the venue or operator.",
+        "requiresBooking": false,
+        "scheduling": "candidate"
+      },
+      "category": "Food & drink",
+      "description": "An Ivatan dining venue listed in Basco town proper.",
+      "interests": [
+        "Food Hunter",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "batanes",
+      "catalog_stop_id": "batanes-vunong-dinette",
+      "status": "accepted",
+      "decision_reason": "Officially listed physical place with its actual municipality; excursion logistics are kept separate from town stops.",
+      "reviewed_on": "2026-10-21",
+      "slug": "batanes-vunong-dinette"
+    },
+    {
+      "destination_group": "Batanes",
+      "region": "Cagayan Valley",
+      "province": "Batanes",
+      "city_municipality": "Ivana",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "Department of Tourism Region 2 - Batanes municipality guide",
+          "sourceUrl": "https://www.region2fun.ph/official/batanes-2/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Department of Tourism Region 2 - Batanes municipality guide",
+          "sourceUrl": "https://www.region2fun.ph/official/batanes-2/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "id": "batanes-honesty-coffee-shop",
+      "name": "Honesty Coffee Shop",
+      "aliases": [
+        "Honesty Shop"
+      ],
+      "planning": {
+        "base_slug": "batanes",
+        "mode": "excursion",
+        "cluster": "batanes-honesty-coffee-shop",
+        "minutes": 480,
+        "booking": "Confirm visitor registration, current access, route, and operator arrangements before scheduling. No excursion is booked.",
+        "transport": "Separate Batan Island road outing from Basco; confirm the vehicle, route, and total travel allowance with a local operator.",
+        "accessibility": "Accessible paths, steps, toilets, and individual access needs have not been verified. Confirm with the venue or operator.",
+        "requiresBooking": true,
+        "scheduling": "candidate"
+      },
+      "category": "Food & drink",
+      "description": "A small self-service coffee and snack shop in Ivana.",
+      "interests": [
+        "Food Hunter",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "batanes",
+      "catalog_stop_id": "batanes-honesty-coffee-shop",
+      "status": "accepted",
+      "decision_reason": "Officially listed physical place with its actual municipality; excursion logistics are kept separate from town stops.",
+      "reviewed_on": "2026-10-21",
+      "slug": "batanes-honesty-coffee-shop"
+    },
+    {
+      "destination_group": "Batanes",
+      "region": "Cagayan Valley",
+      "province": "Batanes",
+      "city_municipality": "Mahatao",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "Batanes Provincial Heritage and Tourism Office - mapped sites",
+          "sourceUrl": "https://breathtakingbatanes.com/maps/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Batanes Provincial Heritage and Tourism Office - mapped sites",
+          "sourceUrl": "https://breathtakingbatanes.com/maps/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "id": "batanes-rakuh-idi-spring",
+      "name": "Rakuh-a-Idi Spring",
+      "aliases": [
+        "Fountain of Youth Batanes"
+      ],
+      "planning": {
+        "base_slug": "batanes",
+        "mode": "excursion",
+        "cluster": "batanes-rakuh-idi-spring",
+        "minutes": 480,
+        "booking": "Confirm visitor registration, current access, route, and operator arrangements before scheduling. No excursion is booked.",
+        "transport": "Separate Batan Island road outing from Basco; confirm the vehicle, route, and total travel allowance with a local operator.",
+        "accessibility": "Accessible paths, steps, toilets, and individual access needs have not been verified. Confirm with the venue or operator.",
+        "requiresBooking": true,
+        "scheduling": "candidate"
+      },
+      "category": "Nature",
+      "description": "A spring in the Rakuh-a-Idi area of Mahatao.",
+      "interests": [
+        "Nature Lover",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "batanes",
+      "catalog_stop_id": "batanes-rakuh-idi-spring",
+      "status": "accepted",
+      "decision_reason": "Officially listed physical place with its actual municipality; excursion logistics are kept separate from town stops.",
+      "reviewed_on": "2026-10-21",
+      "slug": "batanes-rakuh-idi-spring"
+    },
+    {
+      "destination_group": "Batanes",
+      "region": "Cagayan Valley",
+      "province": "Batanes",
+      "city_municipality": "Mahatao",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "Batanes provincial tourism portal - Mahatao attractions",
+          "sourceUrl": "https://bookings.breathtakingbatanes.com/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Batanes provincial tourism portal - Mahatao attractions",
+          "sourceUrl": "https://bookings.breathtakingbatanes.com/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "id": "batanes-chawa-viewdeck",
+      "name": "Chawa View Deck",
+      "aliases": [
+        "Chawa Viewdeck"
+      ],
+      "planning": {
+        "base_slug": "batanes",
+        "mode": "excursion",
+        "cluster": "batanes-chawa-viewdeck",
+        "minutes": 480,
+        "booking": "Confirm visitor registration, current access, route, and operator arrangements before scheduling. No excursion is booked.",
+        "transport": "Separate Batan Island road outing from Basco; confirm the vehicle, route, and total travel allowance with a local operator.",
+        "accessibility": "Accessible paths, steps, toilets, and individual access needs have not been verified. Confirm with the venue or operator.",
+        "requiresBooking": true,
+        "scheduling": "candidate"
+      },
+      "category": "Nature",
+      "description": "A coastal viewpoint in Mahatao.",
+      "interests": [
+        "Nature Lover",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "batanes",
+      "catalog_stop_id": "batanes-chawa-viewdeck",
+      "status": "accepted",
+      "decision_reason": "Officially listed physical place with its actual municipality; excursion logistics are kept separate from town stops.",
+      "reviewed_on": "2026-10-21",
+      "slug": "batanes-chawa-viewdeck"
+    },
+    {
+      "destination_group": "Batanes",
+      "region": "Cagayan Valley",
+      "province": "Batanes",
+      "city_municipality": "Mahatao",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "Batanes provincial tourism portal - Mahatao attractions",
+          "sourceUrl": "https://bookings.breathtakingbatanes.com/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Batanes provincial tourism portal - Mahatao attractions",
+          "sourceUrl": "https://bookings.breathtakingbatanes.com/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "id": "batanes-tayid-lighthouse",
+      "name": "Tayid Lighthouse",
+      "aliases": [],
+      "planning": {
+        "base_slug": "batanes",
+        "mode": "excursion",
+        "cluster": "batanes-tayid-lighthouse",
+        "minutes": 480,
+        "booking": "Confirm visitor registration, current access, route, and operator arrangements before scheduling. No excursion is booked.",
+        "transport": "Separate Batan Island road outing from Basco; confirm the vehicle, route, and total travel allowance with a local operator.",
+        "accessibility": "Accessible paths, steps, toilets, and individual access needs have not been verified. Confirm with the venue or operator.",
+        "requiresBooking": true,
+        "scheduling": "candidate"
+      },
+      "category": "Culture",
+      "description": "A lighthouse overlooking the Mahatao coast.",
+      "interests": [
+        "Culture Seeker",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "batanes",
+      "catalog_stop_id": "batanes-tayid-lighthouse",
+      "status": "accepted",
+      "decision_reason": "Officially listed physical place with its actual municipality; excursion logistics are kept separate from town stops.",
+      "reviewed_on": "2026-10-21",
+      "slug": "batanes-tayid-lighthouse"
+    },
+    {
+      "destination_group": "Batanes",
+      "region": "Cagayan Valley",
+      "province": "Batanes",
+      "city_municipality": "Ivana",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "Department of Tourism Region 2 - Batanes municipality guide",
+          "sourceUrl": "https://www.region2fun.ph/official/batanes-2/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Department of Tourism Region 2 - Batanes municipality guide",
+          "sourceUrl": "https://www.region2fun.ph/official/batanes-2/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "id": "batanes-ivana-san-jose-church",
+      "name": "San Jose Church - Ivana",
+      "aliases": [
+        "Ivana Church Complex",
+        "San Jose de Obrero Church Ivana"
+      ],
+      "planning": {
+        "base_slug": "batanes",
+        "mode": "excursion",
+        "cluster": "batanes-ivana-san-jose-church",
+        "minutes": 480,
+        "booking": "Confirm visitor registration, current access, route, and operator arrangements before scheduling. No excursion is booked.",
+        "transport": "Separate Batan Island road outing from Basco; confirm the vehicle, route, and total travel allowance with a local operator.",
+        "accessibility": "Accessible paths, steps, toilets, and individual access needs have not been verified. Confirm with the venue or operator.",
+        "requiresBooking": true,
+        "scheduling": "candidate"
+      },
+      "category": "Culture",
+      "description": "A historic church near Ivana's port.",
+      "interests": [
+        "Culture Seeker",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "batanes",
+      "catalog_stop_id": "batanes-ivana-san-jose-church",
+      "status": "accepted",
+      "decision_reason": "Officially listed physical place with its actual municipality; excursion logistics are kept separate from town stops.",
+      "reviewed_on": "2026-10-21",
+      "slug": "batanes-ivana-san-jose-church"
+    },
+    {
+      "destination_group": "Batanes",
+      "region": "Cagayan Valley",
+      "province": "Batanes",
+      "city_municipality": "Ivana",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "Batanes Provincial Heritage and Tourism Office - mapped sites",
+          "sourceUrl": "https://breathtakingbatanes.com/maps/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Batanes Provincial Heritage and Tourism Office - mapped sites",
+          "sourceUrl": "https://breathtakingbatanes.com/maps/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "id": "batanes-san-jose-spanish-bridge",
+      "name": "San Jose Spanish Bridge",
+      "aliases": [
+        "Ivana Spanish Bridge"
+      ],
+      "planning": {
+        "base_slug": "batanes",
+        "mode": "excursion",
+        "cluster": "batanes-san-jose-spanish-bridge",
+        "minutes": 480,
+        "booking": "Confirm visitor registration, current access, route, and operator arrangements before scheduling. No excursion is booked.",
+        "transport": "Separate Batan Island road outing from Basco; confirm the vehicle, route, and total travel allowance with a local operator.",
+        "accessibility": "Accessible paths, steps, toilets, and individual access needs have not been verified. Confirm with the venue or operator.",
+        "requiresBooking": true,
+        "scheduling": "candidate"
+      },
+      "category": "Culture",
+      "description": "A Spanish-era bridge listed in Ivana.",
+      "interests": [
+        "Culture Seeker",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "batanes",
+      "catalog_stop_id": "batanes-san-jose-spanish-bridge",
+      "status": "accepted",
+      "decision_reason": "Officially listed physical place with its actual municipality; excursion logistics are kept separate from town stops.",
+      "reviewed_on": "2026-10-21",
+      "slug": "batanes-san-jose-spanish-bridge"
     }
   ]
 }

@@ -1,6 +1,7 @@
 import type {FactSources, SourceMetadata, SourcedLink} from "../sources";
 import type {DisruptionSensitivity, OpeningHours} from "../disruptions";
 import type {DirectoryGeography} from "./directory-schema";
+import type {PlaceType} from "./place-types";
 
 export type VisitMode = "local" | "excursion" | "package" | "separate-base";
 export type EntryPrice = {amount:number|null;basis:"person"|"group"|"unknown";source:SourceMetadata};
@@ -17,6 +18,7 @@ export type Stop = {
   lat:number|null;
   lng:number|null;
   category:string;
+  placeTypes?:PlaceType[];
   /** Budget allowance; an unknown entry price must never be displayed as free. */
   cost:number;
   costBasis:"person"|"group";

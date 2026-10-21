@@ -883,8 +883,6 @@
       "reviewed_on": "2026-10-21"
     },
     {
-      "id": "bohol-baclayon-parish-museum",
-      "name": "Museo Parroquial de Baclayon",
       "destination_group": "Bohol",
       "region": "Central Visayas",
       "province": "Bohol",
@@ -893,15 +891,6 @@
       "address": null,
       "latitude": null,
       "longitude": null,
-      "category": "Culture",
-      "description": "A parish museum associated with Baclayon's heritage church.",
-      "interests": [
-        "Culture Seeker"
-      ],
-      "itinerary_base_slug": null,
-      "catalog_stop_id": null,
-      "status": "rejected",
-      "decision_reason": "Physical identity and municipality confirmed; editorial surplus outside the agreed initial selection. Retained as a genuine researched place candidate, not a claim that the venue is unsuitable.",
       "sources": {
         "identity": {
           "sourceName": "Municipality of Baclayon - parish museum",
@@ -928,11 +917,33 @@
           "status": "unverified"
         }
       },
-      "reviewed_on": "2026-10-21"
+      "id": "bohol-baclayon-parish-museum",
+      "name": "Museo Parroquial de Baclayon",
+      "aliases": [],
+      "planning": {
+        "base_slug": null,
+        "mode": "separate-base",
+        "cluster": "bohol-baclayon-parish-museum",
+        "minutes": 90,
+        "booking": "Current public opening arrangements are unknown; confirm with the parish. The cited municipal feature describes a 2022 reopening.",
+        "transport": "Mainland destination outside the Panglao overnight base. Arrange an independent transfer or stay; no local Panglao routing is assumed.",
+        "accessibility": "Step-free access, toilets and assistance arrangements have not been verified.",
+        "requiresBooking": false,
+        "scheduling": "manual"
+      },
+      "category": "Culture",
+      "description": "Church museum preserving liturgical objects and Boholano religious heritage.",
+      "interests": [
+        "Culture Seeker"
+      ],
+      "itinerary_base_slug": null,
+      "catalog_stop_id": null,
+      "status": "accepted",
+      "decision_reason": "Promoted previously verified editorial-surplus candidate. Primary source confirms this physical place and municipality. Identity review does not confirm present-day admission or access.",
+      "reviewed_on": "2026-10-21",
+      "slug": "bohol-baclayon-parish-museum"
     },
     {
-      "id": "bohol-loboc-eco-adventure-park",
-      "name": "Loboc Eco-Tourism Adventure Park",
       "destination_group": "Bohol",
       "region": "Central Visayas",
       "province": "Bohol",
@@ -941,25 +952,15 @@
       "address": null,
       "latitude": null,
       "longitude": null,
-      "category": "Attractions",
-      "description": "An outdoor adventure park in Loboc.",
-      "interests": [
-        "Nature Lover",
-        "City Wanderer"
-      ],
-      "itinerary_base_slug": null,
-      "catalog_stop_id": null,
-      "status": "rejected",
-      "decision_reason": "Physical identity and municipality confirmed; editorial surplus outside the agreed initial selection. Retained as a genuine researched place candidate, not a claim that the venue is unsuitable.",
       "sources": {
         "identity": {
-          "sourceName": "Bohol Provincial Tourism Office - Loboc",
+          "sourceName": "Bohol Provincial Tourism - Loboc",
           "sourceUrl": "https://tourism.bohol.gov.ph/visitbohol-loboc/",
           "dateChecked": "2026-10-21",
           "status": "verified"
         },
         "municipality": {
-          "sourceName": "Bohol Provincial Tourism Office - Loboc",
+          "sourceName": "Bohol Provincial Tourism - Loboc",
           "sourceUrl": "https://tourism.bohol.gov.ph/visitbohol-loboc/",
           "dateChecked": "2026-10-21",
           "status": "verified"
@@ -977,28 +978,41 @@
           "status": "unverified"
         }
       },
-      "reviewed_on": "2026-10-21"
+      "id": "bohol-loboc-eco-adventure-park",
+      "name": "Loboc Eco-Tourism Adventure Park",
+      "aliases": [],
+      "planning": {
+        "base_slug": null,
+        "mode": "separate-base",
+        "cluster": "bohol-loboc-eco-adventure-park",
+        "minutes": 120,
+        "booking": "Confirm activity operations, booking and weather restrictions with the park.",
+        "transport": "Mainland destination outside the Panglao overnight base. Arrange an independent transfer or stay; no local Panglao routing is assumed.",
+        "accessibility": "Step-free access, toilets and assistance arrangements have not been verified.",
+        "requiresBooking": false,
+        "scheduling": "manual"
+      },
+      "category": "Attractions",
+      "description": "Outdoor adventure park with zipline and cable-car activities.",
+      "interests": [
+        "Adventure Junkie"
+      ],
+      "itinerary_base_slug": null,
+      "catalog_stop_id": null,
+      "status": "accepted",
+      "decision_reason": "Promoted previously verified editorial-surplus candidate. Primary source confirms this physical place and municipality. Identity review does not confirm present-day admission or access.",
+      "reviewed_on": "2026-10-21",
+      "slug": "bohol-loboc-eco-adventure-park"
     },
     {
-      "id": "bohol-casa-rocha",
-      "name": "Casa Rocha",
       "destination_group": "Bohol",
       "region": "Central Visayas",
       "province": "Bohol",
       "city_municipality": "Tagbilaran City",
       "barangay": null,
-      "address": null,
+      "address": "Calle Franklin, Sitio Ubos, Tagbilaran City",
       "latitude": null,
       "longitude": null,
-      "category": "Culture",
-      "description": "A historic house in Tagbilaran's Sitio Ubos.",
-      "interests": [
-        "Culture Seeker"
-      ],
-      "itinerary_base_slug": null,
-      "catalog_stop_id": null,
-      "status": "rejected",
-      "decision_reason": "Physical identity and municipality confirmed; editorial surplus outside the agreed initial selection. Retained as a genuine researched place candidate, not a claim that the venue is unsuitable.",
       "sources": {
         "identity": {
           "sourceName": "National Museum - Casa Rocha",
@@ -1013,10 +1027,10 @@
           "status": "verified"
         },
         "address": {
-          "sourceName": null,
-          "sourceUrl": null,
-          "dateChecked": null,
-          "status": "unverified"
+          "sourceName": "National Museum - Casa Rocha",
+          "sourceUrl": "https://www.nationalmuseum.gov.ph/2022/08/25/casa-rocha-balay-na-tisa-sa-bohol/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
         },
         "coordinates": {
           "sourceName": null,
@@ -1025,7 +1039,31 @@
           "status": "unverified"
         }
       },
-      "reviewed_on": "2026-10-21"
+      "id": "bohol-casa-rocha",
+      "name": "Casa Rocha",
+      "aliases": [],
+      "planning": {
+        "base_slug": null,
+        "mode": "separate-base",
+        "cluster": "bohol-casa-rocha",
+        "minutes": 45,
+        "booking": "Private heritage property; public interior access has not been established. Arrange permission before planning a visit.",
+        "transport": "Mainland destination outside the Panglao overnight base. Arrange an independent transfer or stay; no local Panglao routing is assumed.",
+        "accessibility": "Step-free access, toilets and assistance arrangements have not been verified.",
+        "requiresBooking": false,
+        "scheduling": "manual"
+      },
+      "category": "Culture",
+      "description": "Historic tiled-roof house in Tagbilaran's Sitio Ubos heritage area.",
+      "interests": [
+        "Culture Seeker"
+      ],
+      "itinerary_base_slug": null,
+      "catalog_stop_id": null,
+      "status": "accepted",
+      "decision_reason": "Promoted previously verified editorial-surplus candidate. Primary source confirms this physical place and municipality. Identity review does not confirm present-day admission or access.",
+      "reviewed_on": "2026-10-21",
+      "slug": "bohol-casa-rocha"
     },
     {
       "id": "bohol-virgin-island",
@@ -1075,6 +1113,190 @@
         }
       },
       "reviewed_on": "2026-10-21"
+    },
+    {
+      "destination_group": "Bohol",
+      "region": "Central Visayas",
+      "province": "Bohol",
+      "city_municipality": "Corella",
+      "barangay": "Canapnapan",
+      "address": "km. 14, Canapnapan, Corella, Bohol",
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "Bohol Provincial Tourism - Corella",
+          "sourceUrl": "https://tourism.bohol.gov.ph/visitbohol-corella-3/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Bohol Provincial Tourism - Corella",
+          "sourceUrl": "https://tourism.bohol.gov.ph/visitbohol-corella-3/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "Bohol Provincial Tourism - Corella",
+          "sourceUrl": "https://tourism.bohol.gov.ph/visitbohol-corella-3/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "id": "bohol-philippine-tarsier-sanctuary",
+      "name": "Philippine Tarsier Sanctuary",
+      "aliases": [],
+      "planning": {
+        "base_slug": null,
+        "mode": "separate-base",
+        "cluster": "bohol-philippine-tarsier-sanctuary",
+        "minutes": 90,
+        "booking": "Confirm sanctuary opening arrangements and visitor rules.",
+        "transport": "Mainland destination outside the Panglao overnight base. Arrange an independent transfer or stay; no local Panglao routing is assumed.",
+        "accessibility": "Step-free access, toilets and assistance arrangements have not been verified.",
+        "requiresBooking": false,
+        "scheduling": "manual"
+      },
+      "category": "Nature",
+      "description": "Conservation sanctuary for Philippine tarsiers in Corella.",
+      "interests": [
+        "Nature Lover"
+      ],
+      "itinerary_base_slug": null,
+      "catalog_stop_id": null,
+      "status": "accepted",
+      "decision_reason": "Primary source confirms this physical place and municipality. Identity review does not confirm present-day admission or access.",
+      "reviewed_on": "2026-10-21",
+      "slug": "bohol-philippine-tarsier-sanctuary"
+    },
+    {
+      "destination_group": "Bohol",
+      "region": "Central Visayas",
+      "province": "Bohol",
+      "city_municipality": "Corella",
+      "barangay": "Sambog",
+      "address": "Purok 4, Barangay Sambog, Corella, Bohol",
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "Bohol Provincial Tourism - Corella",
+          "sourceUrl": "https://tourism.bohol.gov.ph/visitbohol-corella-3/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Bohol Provincial Tourism - Corella",
+          "sourceUrl": "https://tourism.bohol.gov.ph/visitbohol-corella-3/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "Bohol Provincial Tourism - Corella",
+          "sourceUrl": "https://tourism.bohol.gov.ph/visitbohol-corella-3/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "id": "bohol-green-thumb-farm",
+      "name": "Green Thumb Farm",
+      "aliases": [],
+      "planning": {
+        "base_slug": null,
+        "mode": "separate-base",
+        "cluster": "bohol-green-thumb-farm",
+        "minutes": 90,
+        "booking": "Contact the farm for current dining and farm-visit arrangements.",
+        "transport": "Mainland destination outside the Panglao overnight base. Arrange an independent transfer or stay; no local Panglao routing is assumed.",
+        "accessibility": "Step-free access, toilets and assistance arrangements have not been verified.",
+        "requiresBooking": false,
+        "scheduling": "manual",
+        "outdoor": true
+      },
+      "category": "Food & drink",
+      "description": "Farm and alfresco restaurant known for mushroom dishes.",
+      "interests": [
+        "Food Hunter"
+      ],
+      "itinerary_base_slug": null,
+      "catalog_stop_id": null,
+      "status": "accepted",
+      "decision_reason": "Primary source confirms this physical place and municipality. Identity review does not confirm present-day admission or access.",
+      "reviewed_on": "2026-10-21",
+      "slug": "bohol-green-thumb-farm"
+    },
+    {
+      "destination_group": "Bohol",
+      "region": "Central Visayas",
+      "province": "Bohol",
+      "city_municipality": "Anda",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "Bohol Provincial Tourism - Anda",
+          "sourceUrl": "https://tourism.bohol.gov.ph/visitbohol-anda/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Bohol Provincial Tourism - Anda",
+          "sourceUrl": "https://tourism.bohol.gov.ph/visitbohol-anda/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "id": "bohol-quinale-beach",
+      "name": "Quinale Beach",
+      "aliases": [],
+      "planning": {
+        "base_slug": null,
+        "mode": "separate-base",
+        "cluster": "bohol-quinale-beach",
+        "minutes": 120,
+        "booking": "Current admission fees, opening hours and booking requirements are unknown; check with local tourism.",
+        "transport": "Mainland destination outside the Panglao overnight base. Arrange an independent transfer or stay; no local Panglao routing is assumed.",
+        "accessibility": "Step-free access, toilets and assistance arrangements have not been verified.",
+        "requiresBooking": false,
+        "scheduling": "manual"
+      },
+      "category": "Nature",
+      "description": "White-sand beach in the coastal town of Anda.",
+      "interests": [
+        "Nature Lover"
+      ],
+      "itinerary_base_slug": null,
+      "catalog_stop_id": null,
+      "status": "accepted",
+      "decision_reason": "Primary source confirms this physical place and municipality. Identity review does not confirm present-day admission or access.",
+      "reviewed_on": "2026-10-21",
+      "slug": "bohol-quinale-beach"
     }
   ]
 }

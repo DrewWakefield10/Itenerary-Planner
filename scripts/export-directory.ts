@@ -1,3 +1,7 @@
+import {directoryDetails} from "../lib/catalog/directory-details";
+import {createHash} from "node:crypto";
+import baseline from "../lib/catalog/expansion-baseline.json";
+import {stableDirectoryJson} from "../lib/catalog/directory-import";
 import { mkdir, writeFile } from "node:fs/promises";
 import {
   directoryCandidates,
@@ -39,12 +43,19 @@ for (const p of directoryCandidates) {
       throw new Error(`Invalid stop mapping: ${p.id} -> ${p.catalog_stop_id}`);
   }
 }
+const baselineIds=new Set(baseline.records.map(p=>p.id));
+for(const original of baseline.records){
+  const current=directoryListings.find(p=>p.id===original.id);
+  if(!current||createHash("sha256").update(stableDirectoryJson(current)).digest("hex")!==original.record_sha256)throw new Error(`Original published record changed: ${original.id}`);
+}
 const accepted = directoryListings.map((p) => {
   const stop = selectableDestinations
     .flatMap((d) => d.stops)
-    .find((s) => s.id === p.catalog_stop_id);
+    .find((s) => s.id === p.catalog_stop_id) || directoryDetails(p);
   return {
     ...p,
+    slug:p.slug||p.id,
+    aliases:p.aliases||[],
     image: discoveryPlace(p.id)?.image || null,
     practical: stop
       ? {
@@ -57,8 +68,8 @@ const accepted = directoryListings.map((p) => {
           visit_mode: stop.mode,
           budget_allowance: stop.cost,
           budget_allowance_unit: stop.costBasis,
-          cluster: stop.cluster,
-          disruption_sensitivities: stop.disruptionSensitivities || [],
+          cluster: "cluster" in stop ? stop.cluster : p.planning?.cluster || null,
+          disruption_sensitivities: "disruptionSensitivities" in stop ? stop.disruptionSensitivities || [] : p.planning?.disruptionSensitivities || [],
           sources: stop.sources,
         }
       : null,
@@ -89,7 +100,7 @@ await json("public/data/research-progress.json", {
   scope:
     "11 browsing destinations; identity and municipality acceptance does not verify operating details",
   totals: {
-    target: 200,
+    target: Object.values(directoryTargets).reduce((sum,n)=>sum+n,0),
     researched: directoryCandidates.length,
     accepted: accepted.length,
     rejected: directoryCandidates.filter((p) => p.status === "rejected").length,
@@ -113,6 +124,8 @@ for (const group of destinationGroups) {
 }
 const columns = [
   "id",
+  "slug",
+  "aliases",
   "name",
   "destination_group",
   "region",
@@ -167,6 +180,21 @@ await writeFile(
   ].join("\n"),
   "utf8",
 );
+const additions=accepted.filter(p=>!baselineIds.has(p.id));
+const expansionProgress=destinationGroups.map(group=>({destination:group,starting:baseline.starting_by_destination[group],added:additions.filter(p=>p.destination_group===group).length,targetAdditions:directoryTargets[group]-baseline.starting_by_destination[group],final:accepted.filter(p=>p.destination_group===group).length}));
+const categoryCounts=Object.fromEntries([...new Set(additions.map(p=>p.category))].sort().map(category=>[category,additions.filter(p=>p.category===category).length]));
+await json("public/data/lakbay-additions.json",additions);
+await json("public/data/expansion-progress.json",{generated_on:generatedOn,starting_count:baseline.starting_count,target_additions:150,accepted_additions:additions.length,remaining:Math.max(0,150-additions.length),final_unique_count:accepted.length,by_destination:expansionProgress,by_category:categoryCounts});
+await writeFile("public/data/lakbay-additions.csv","\uFEFF"+[columns.join(","),...additions.map(p=>columns.map(k=>csvCell(p[k])).join(","))].join("\r\n")+"\r\n","utf8");
+await writeFile("docs/expansion-progress.md",[
+  "# Additional-place research progress","",`Snapshot: ${generatedLabel}. Starting directory: ${baseline.starting_count} unique accepted places. Additional accepted identities: ${additions.length}; final published count: ${accepted.length}. Remaining toward 150 additions: ${Math.max(0,150-additions.length)}.`,"",
+  "| Destination | Starting | Added | Addition target | Final |","| --- | ---: | ---: | ---: | ---: |",...expansionProgress.map(p=>`| ${p.destination} | ${p.starting} | ${p.added} | ${p.targetAdditions} | ${p.final} |`),"",
+  "| Added category | Count |","| --- | ---: |",...Object.entries(categoryCounts).map(([category,count])=>`| ${category} | ${count} |`),"",
+  "Original 200 IDs and source records are checked against the immutable expansion baseline. Previously researched editorial-surplus candidates are promoted under their existing IDs; they are counted once as newly published locations. Source review dates are retained unless the source was reviewed again. Per-fact verification does not imply current opening, admission, reservations or access.","",
+  "Research batches and factual decisions: expansion-islands.md, expansion-visayas.md, expansion-luzon.md. The atomic import checks normalized names, aliases, verified addresses and coordinate proximity before writing the approved batch. Rerunning identical input leaves the approved records unchanged.","",
+  "Pending research from the interrupted expansion: Sagada 10, Iloilo 4 and Davao 4 additional verified places. The earlier research agents stopped at the usage limit before these batches were saved. The active task is now itinerary selection; no unreviewed candidates were added to fill the gap. Resume source research, import the reviewed batches, then regenerate exports and rerun catalog checks when that expansion is resumed.","",
+].join("\n"),"utf8");
+console.table(expansionProgress);
 console.table(progress);
 console.log(
   `Exported ${accepted.length} accepted locations from ${directoryCandidates.length} candidates.`,

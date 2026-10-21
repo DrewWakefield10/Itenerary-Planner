@@ -1,0 +1,388 @@
+{
+  "destination": "Davao",
+  "batch": 2,
+  "kind": "Export snapshot of reviewed candidate batch",
+  "entries": [
+    {
+      "destination_group": "Davao",
+      "region": "Davao Region",
+      "province": null,
+      "city_municipality": "Davao City",
+      "barangay": null,
+      "address": "McArthur Highway, Davao City",
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "City Government of Davao — opened public parks and green spaces",
+          "sourceUrl": "https://davaocity.gov.ph/sustainable-environment/city-to-open-more-green-spaces-parks/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "City Government of Davao — opened public parks and green spaces",
+          "sourceUrl": "https://davaocity.gov.ph/sustainable-environment/city-to-open-more-green-spaces-parks/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "City Government of Davao — opened public parks and green spaces",
+          "sourceUrl": "https://davaocity.gov.ph/sustainable-environment/city-to-open-more-green-spaces-parks/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "id": "davao-matina-linear-park",
+      "name": "Matina Linear Park",
+      "slug": "davao-matina-linear-park",
+      "aliases": [],
+      "planning": {
+        "base_slug": "davao",
+        "mode": "local",
+        "cluster": "davao-matina-linear-park",
+        "minutes": 45,
+        "booking": "Confirm current opening, public access, and availability directly before visiting.",
+        "transport": "Planning estimate: use a local ride within Davao City; confirm route and return transport.",
+        "accessibility": "Step-free access, paths, and accessible facilities are unverified; ask the venue or city office.",
+        "requiresBooking": false,
+        "scheduling": "candidate",
+        "outdoor": true
+      },
+      "category": "Parks & markets",
+      "description": "Linear public park along the McArthur Highway.",
+      "interests": [
+        "Nature Lover",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "davao",
+      "catalog_stop_id": "davao-matina-linear-park",
+      "status": "accepted",
+      "decision_reason": "Additional distinct physical place with reviewed identity and actual municipality sources; current access and availability are not guaranteed.",
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "destination_group": "Davao",
+      "region": "Davao Region",
+      "province": null,
+      "city_municipality": "Davao City",
+      "barangay": null,
+      "address": "Quimpo Boulevard, Davao City",
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "City Government of Davao — opened public parks and green spaces",
+          "sourceUrl": "https://davaocity.gov.ph/sustainable-environment/city-to-open-more-green-spaces-parks/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "City Government of Davao — opened public parks and green spaces",
+          "sourceUrl": "https://davaocity.gov.ph/sustainable-environment/city-to-open-more-green-spaces-parks/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "City Government of Davao — opened public parks and green spaces",
+          "sourceUrl": "https://davaocity.gov.ph/sustainable-environment/city-to-open-more-green-spaces-parks/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "id": "davao-candelaria-park",
+      "name": "Candelaria Park",
+      "slug": "davao-candelaria-park",
+      "aliases": [],
+      "planning": {
+        "base_slug": "davao",
+        "mode": "local",
+        "cluster": "davao-candelaria-park",
+        "minutes": 45,
+        "booking": "Confirm current opening, public access, and availability directly before visiting.",
+        "transport": "Planning estimate: use a local ride within Davao City; confirm route and return transport.",
+        "accessibility": "Step-free access, paths, and accessible facilities are unverified; ask the venue or city office.",
+        "requiresBooking": false,
+        "scheduling": "candidate",
+        "outdoor": true
+      },
+      "category": "Parks & markets",
+      "description": "Public pocket park on Quimpo Boulevard.",
+      "interests": [
+        "Nature Lover",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "davao",
+      "catalog_stop_id": "davao-candelaria-park",
+      "status": "accepted",
+      "decision_reason": "Additional distinct physical place with reviewed identity and actual municipality sources; current access and availability are not guaranteed.",
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "destination_group": "Davao",
+      "region": "Davao Region",
+      "province": null,
+      "city_municipality": "Davao City",
+      "barangay": "Communal",
+      "address": "Mutual Homes, Barangay Communal, Davao City",
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "City Government of Davao — opened public parks and green spaces",
+          "sourceUrl": "https://davaocity.gov.ph/sustainable-environment/city-to-open-more-green-spaces-parks/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "City Government of Davao — opened public parks and green spaces",
+          "sourceUrl": "https://davaocity.gov.ph/sustainable-environment/city-to-open-more-green-spaces-parks/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "City Government of Davao — opened public parks and green spaces",
+          "sourceUrl": "https://davaocity.gov.ph/sustainable-environment/city-to-open-more-green-spaces-parks/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "id": "davao-communal-pocket-park",
+      "name": "Communal Pocket Park",
+      "slug": "davao-communal-pocket-park",
+      "aliases": [],
+      "planning": {
+        "base_slug": "davao",
+        "mode": "local",
+        "cluster": "davao-communal-pocket-park",
+        "minutes": 60,
+        "booking": "Confirm current opening, public access, and availability directly before visiting.",
+        "transport": "Planning estimate: use a local ride within Davao City; confirm route and return transport.",
+        "accessibility": "Step-free access, paths, and accessible facilities are unverified; ask the venue or city office.",
+        "requiresBooking": false,
+        "scheduling": "candidate",
+        "outdoor": true
+      },
+      "category": "Parks & markets",
+      "description": "Neighborhood public park in Mutual Homes, Communal.",
+      "interests": [
+        "Nature Lover",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "davao",
+      "catalog_stop_id": "davao-communal-pocket-park",
+      "status": "accepted",
+      "decision_reason": "Additional distinct physical place with reviewed identity and actual municipality sources; current access and availability are not guaranteed.",
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "destination_group": "Davao",
+      "region": "Davao Region",
+      "province": null,
+      "city_municipality": "Davao City",
+      "barangay": "Matina Crossing",
+      "address": "Shrine Hills, Matina Crossing, Davao City",
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "Davao City Tourism — Jack’s Ridge, Shrine Hills branch",
+          "sourceUrl": "https://tourism.davaocity.gov.ph/explore-the-city/restaurants/restaurants/jacks-ridge-resort-and-restaurant-corp/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Davao City Tourism — Jack’s Ridge, Shrine Hills branch",
+          "sourceUrl": "https://tourism.davaocity.gov.ph/explore-the-city/restaurants/restaurants/jacks-ridge-resort-and-restaurant-corp/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "Davao City Tourism — Jack’s Ridge, Shrine Hills branch",
+          "sourceUrl": "https://tourism.davaocity.gov.ph/explore-the-city/restaurants/restaurants/jacks-ridge-resort-and-restaurant-corp/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "id": "davao-jacks-ridge-shrine-hills",
+      "name": "Jack’s Ridge — Shrine Hills",
+      "slug": "davao-jacks-ridge-shrine-hills",
+      "aliases": [
+        "Jack's Ridge Resort and Restaurant"
+      ],
+      "planning": {
+        "base_slug": "davao",
+        "mode": "local",
+        "cluster": "shrine-hills",
+        "minutes": 120,
+        "booking": "Confirm current dining hours and a table directly. Individual in-house restaurants are not counted again as separate places.",
+        "transport": "Planning estimate: use a local ride within Davao City; confirm route and return transport.",
+        "accessibility": "Step-free access, paths, and accessible facilities are unverified; ask the venue or city office.",
+        "requiresBooking": false,
+        "scheduling": "candidate"
+      },
+      "category": "Food & drink",
+      "description": "Dining destination on Shrine Hills in Matina.",
+      "interests": [
+        "Food Hunter",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "davao",
+      "catalog_stop_id": "davao-jacks-ridge-shrine-hills",
+      "status": "accepted",
+      "decision_reason": "Additional distinct physical place with reviewed identity and actual municipality sources; current access and availability are not guaranteed.",
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "destination_group": "Davao",
+      "region": "Davao Region",
+      "province": null,
+      "city_municipality": "Davao City",
+      "barangay": null,
+      "address": "San Miguel Village, Matina, Davao City",
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "DOST — Apo ni Lola food-processing business, October 2026",
+          "sourceUrl": "https://dost.gov.ph/knowledge-resources/news/4560-from-micro-to-medium-dost-steps-up-assistance-to-apo-ni-lola-thrive-in-food-processing-business.html",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "DOST — Apo ni Lola food-processing business, October 2026",
+          "sourceUrl": "https://dost.gov.ph/knowledge-resources/news/4560-from-micro-to-medium-dost-steps-up-assistance-to-apo-ni-lola-thrive-in-food-processing-business.html",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "Mindanao Times — Apo ni Lola new San Miguel Village store",
+          "sourceUrl": "https://mindanaotimes.com.ph/apo-ni-lola-durian-delicacies-opens-new-store-for-all-things-davao/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "id": "davao-apo-ni-lola-matina",
+      "name": "Apo ni Lola Pasalubong Center — Matina",
+      "slug": "davao-apo-ni-lola-matina",
+      "aliases": [
+        "Apo ni Lola Durian Delicacies — Matina"
+      ],
+      "planning": {
+        "base_slug": "davao",
+        "mode": "local",
+        "cluster": "davao-apo-ni-lola-matina",
+        "minutes": 60,
+        "booking": "Confirm current store access and hours; factory tours, tastings, or production viewing are not assumed.",
+        "transport": "Planning estimate: use a local ride within Davao City; confirm route and return transport.",
+        "accessibility": "Step-free access, paths, and accessible facilities are unverified; ask the venue or city office.",
+        "requiresBooking": false,
+        "scheduling": "candidate"
+      },
+      "category": "Food & drink",
+      "description": "Durian delicacies and souvenir shop in San Miguel Village.",
+      "interests": [
+        "Food Hunter",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "davao",
+      "catalog_stop_id": "davao-apo-ni-lola-matina",
+      "status": "accepted",
+      "decision_reason": "Additional distinct physical place with reviewed identity and actual municipality sources; current access and availability are not guaranteed.",
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "destination_group": "Davao",
+      "region": "Davao Region",
+      "province": null,
+      "city_municipality": "Davao City",
+      "barangay": null,
+      "address": "Sandawa Plaza, Quimpo Boulevard, Davao City",
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "Davao City Tourism — Marina Tuna, Sandawa Plaza",
+          "sourceUrl": "https://tourism.davaocity.gov.ph/explore-the-city/restaurants/restaurants/marina-tuna-2/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Davao City Tourism — Marina Tuna, Sandawa Plaza",
+          "sourceUrl": "https://tourism.davaocity.gov.ph/explore-the-city/restaurants/restaurants/marina-tuna-2/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "Davao City Tourism — Marina Tuna, Sandawa Plaza",
+          "sourceUrl": "https://tourism.davaocity.gov.ph/explore-the-city/restaurants/restaurants/marina-tuna-2/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "id": "davao-marina-tuna-sandawa",
+      "name": "Marina Tuna — Sandawa Plaza",
+      "slug": "davao-marina-tuna-sandawa",
+      "aliases": [
+        "Marina Tuna Quimpo Boulevard"
+      ],
+      "planning": {
+        "base_slug": "davao",
+        "mode": "local",
+        "cluster": "davao-marina-tuna-sandawa",
+        "minutes": 90,
+        "booking": "Confirm current opening, public access, and availability directly before visiting.",
+        "transport": "Planning estimate: use a local ride within Davao City; confirm route and return transport.",
+        "accessibility": "Step-free access, paths, and accessible facilities are unverified; ask the venue or city office.",
+        "requiresBooking": false,
+        "scheduling": "candidate"
+      },
+      "category": "Food & drink",
+      "description": "Restaurant at Sandawa Plaza on Quimpo Boulevard.",
+      "interests": [
+        "Food Hunter",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "davao",
+      "catalog_stop_id": "davao-marina-tuna-sandawa",
+      "status": "accepted",
+      "decision_reason": "Additional distinct physical place with reviewed identity and actual municipality sources; current access and availability are not guaranteed.",
+      "reviewed_on": "2026-10-21"
+    }
+  ]
+}

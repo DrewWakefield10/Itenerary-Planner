@@ -1,0 +1,573 @@
+{
+  "destination": "Baguio",
+  "batch": 2,
+  "kind": "Export snapshot of reviewed candidate batch",
+  "entries": [
+    {
+      "destination_group": "Baguio",
+      "region": "Cordillera Administrative Region",
+      "province": null,
+      "city_municipality": "Baguio City",
+      "barangay": null,
+      "address": "Gibraltar Road",
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "Baguio City Government - tourist directory",
+          "sourceUrl": "https://infoboard.baguio.gov.ph/tourists-spots",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Baguio City Government - tourist directory",
+          "sourceUrl": "https://infoboard.baguio.gov.ph/tourists-spots",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "Baguio City Government - tourist directory",
+          "sourceUrl": "https://infoboard.baguio.gov.ph/tourists-spots",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "id": "baguio-good-shepherd",
+      "name": "Good Shepherd Convent Shop",
+      "aliases": [],
+      "planning": {
+        "base_slug": "baguio",
+        "mode": "local",
+        "cluster": "baguio-good-shepherd",
+        "minutes": 60,
+        "booking": "Confirm current opening hours, admission or menu prices, and any reservation requirements with the venue before visiting.",
+        "transport": "Arrange local travel separately; route, fare, and journey time are unverified. Allow a local transfer buffer.",
+        "accessibility": "Step-free access, paths, toilets, and individual access needs have not been verified; confirm directly.",
+        "requiresBooking": false,
+        "scheduling": "candidate"
+      },
+      "category": "Food & drink",
+      "description": "A local delicacy stop on Gibraltar Road.",
+      "interests": [
+        "Food Hunter",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "baguio",
+      "catalog_stop_id": "baguio-good-shepherd",
+      "status": "accepted",
+      "decision_reason": "Verified distinct physical place; practical details require separate confirmation.",
+      "reviewed_on": "2026-10-21",
+      "slug": "baguio-good-shepherd"
+    },
+    {
+      "destination_group": "Baguio",
+      "region": "Cordillera Administrative Region",
+      "province": null,
+      "city_municipality": "Baguio City",
+      "barangay": null,
+      "address": "Lower Session Road",
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "Baguio City Government - tourist directory",
+          "sourceUrl": "https://infoboard.baguio.gov.ph/tourists-spots",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Baguio City Government - tourist directory",
+          "sourceUrl": "https://infoboard.baguio.gov.ph/tourists-spots",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "Baguio City Government - tourist directory",
+          "sourceUrl": "https://infoboard.baguio.gov.ph/tourists-spots",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "id": "baguio-malcolm-square",
+      "name": "Malcolm Square",
+      "aliases": [],
+      "planning": {
+        "base_slug": "baguio",
+        "mode": "local",
+        "cluster": "baguio-malcolm-square",
+        "minutes": 60,
+        "booking": "Confirm current opening hours, admission or menu prices, and any reservation requirements with the venue before visiting.",
+        "transport": "Arrange local travel separately; route, fare, and journey time are unverified. Allow a local transfer buffer.",
+        "accessibility": "Step-free access, paths, toilets, and individual access needs have not been verified; confirm directly.",
+        "requiresBooking": false,
+        "scheduling": "candidate"
+      },
+      "category": "Parks & markets",
+      "description": "A public square on Lower Session Road.",
+      "interests": [
+        "Nature Lover",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "baguio",
+      "catalog_stop_id": "baguio-malcolm-square",
+      "status": "accepted",
+      "decision_reason": "Verified distinct physical place; practical details require separate confirmation.",
+      "reviewed_on": "2026-10-21",
+      "slug": "baguio-malcolm-square"
+    },
+    {
+      "destination_group": "Baguio",
+      "region": "Cordillera Administrative Region",
+      "province": null,
+      "city_municipality": "Baguio City",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "Tourism Promotions Board - Baguio destination highlights",
+          "sourceUrl": "https://rtf.tpb.gov.ph/cordillera/baguio/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Tourism Promotions Board - Baguio destination highlights",
+          "sourceUrl": "https://rtf.tpb.gov.ph/cordillera/baguio/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "id": "baguio-mines-view-park",
+      "name": "Mines View Park",
+      "aliases": [],
+      "planning": {
+        "base_slug": "baguio",
+        "mode": "local",
+        "cluster": "baguio-mines-view-park",
+        "minutes": 90,
+        "booking": "Confirm current opening hours, admission or menu prices, and any reservation requirements with the venue before visiting.",
+        "transport": "Arrange local travel separately; route, fare, and journey time are unverified. Allow a local transfer buffer.",
+        "accessibility": "Step-free access, paths, toilets, and individual access needs have not been verified; confirm directly.",
+        "requiresBooking": false,
+        "scheduling": "candidate"
+      },
+      "category": "Nature",
+      "description": "A viewpoint park overlooking mountain and former mining landscapes.",
+      "interests": [
+        "Nature Lover",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "baguio",
+      "catalog_stop_id": "baguio-mines-view-park",
+      "status": "accepted",
+      "decision_reason": "Verified distinct physical place; practical details require separate confirmation.",
+      "reviewed_on": "2026-10-21",
+      "slug": "baguio-mines-view-park"
+    },
+    {
+      "destination_group": "Baguio",
+      "region": "Cordillera Administrative Region",
+      "province": null,
+      "city_municipality": "Baguio City",
+      "barangay": null,
+      "address": "Lapu Lapu Street",
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "The Original Good Taste Restaurant - official location",
+          "sourceUrl": "https://goodtaste.ph/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "The Original Good Taste Restaurant - official location",
+          "sourceUrl": "https://goodtaste.ph/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "The Original Good Taste Restaurant - official location",
+          "sourceUrl": "https://goodtaste.ph/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "id": "baguio-original-good-taste",
+      "name": "The Original Good Taste Restaurant",
+      "aliases": [
+        "Original Good Taste Lapu Lapu"
+      ],
+      "planning": {
+        "base_slug": "baguio",
+        "mode": "local",
+        "cluster": "baguio-original-good-taste",
+        "minutes": 90,
+        "booking": "This entry is the Lapu Lapu venue, not the separately located Otek restaurant. Confirm current menu, seating, and hours.",
+        "transport": "Arrange local travel separately; route, fare, and journey time are unverified. Allow a local transfer buffer.",
+        "accessibility": "Step-free access, paths, toilets, and individual access needs have not been verified; confirm directly.",
+        "requiresBooking": false,
+        "scheduling": "candidate"
+      },
+      "category": "Food & drink",
+      "description": "The original Good Taste dining venue on Lapu Lapu Street.",
+      "interests": [
+        "Food Hunter",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "baguio",
+      "catalog_stop_id": "baguio-original-good-taste",
+      "status": "accepted",
+      "decision_reason": "Verified distinct physical place; practical details require separate confirmation.",
+      "reviewed_on": "2026-10-21",
+      "slug": "baguio-original-good-taste"
+    },
+    {
+      "destination_group": "Baguio",
+      "region": "Cordillera Administrative Region",
+      "province": null,
+      "city_municipality": "Baguio City",
+      "barangay": null,
+      "address": "Igorot Garden, Gate 4, Camp John Hay",
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "Choco-late de Batirol - official contact",
+          "sourceUrl": "https://www.chocolatedebatirol.com/blank-3",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Choco-late de Batirol - official contact",
+          "sourceUrl": "https://www.chocolatedebatirol.com/blank-3",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "Choco-late de Batirol - official contact",
+          "sourceUrl": "https://www.chocolatedebatirol.com/blank-3",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "id": "baguio-choco-late-batirol",
+      "name": "Choco-late de Batirol - Camp John Hay",
+      "aliases": [
+        "Choco-late de Batirol"
+      ],
+      "planning": {
+        "base_slug": "baguio",
+        "mode": "local",
+        "cluster": "john-hay",
+        "minutes": 90,
+        "booking": "Confirm current opening hours, admission or menu prices, and any reservation requirements with the venue before visiting.",
+        "transport": "Arrange local travel separately; route, fare, and journey time are unverified. Allow a local transfer buffer.",
+        "accessibility": "Step-free access, paths, toilets, and individual access needs have not been verified; confirm directly.",
+        "requiresBooking": false,
+        "scheduling": "candidate"
+      },
+      "category": "Food & drink",
+      "description": "A garden restaurant serving traditional chocolate drinks.",
+      "interests": [
+        "Food Hunter",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "baguio",
+      "catalog_stop_id": "baguio-choco-late-batirol",
+      "status": "accepted",
+      "decision_reason": "Verified distinct physical place; practical details require separate confirmation.",
+      "reviewed_on": "2026-10-21",
+      "slug": "baguio-choco-late-batirol"
+    },
+    {
+      "destination_group": "Baguio",
+      "region": "Cordillera Administrative Region",
+      "province": null,
+      "city_municipality": "Baguio City",
+      "barangay": null,
+      "address": "Casa Vallejo, Upper Session Road, Luneta Hill",
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "Casa Vallejo - official hotel dining information",
+          "sourceUrl": "https://www.casavallejo.online/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Casa Vallejo - official hotel dining information",
+          "sourceUrl": "https://www.casavallejo.online/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "Casa Vallejo - official hotel dining information",
+          "sourceUrl": "https://www.casavallejo.online/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "id": "baguio-hill-station",
+      "name": "Hill Station Restaurant",
+      "aliases": [],
+      "planning": {
+        "base_slug": "baguio",
+        "mode": "local",
+        "cluster": "baguio-hill-station",
+        "minutes": 90,
+        "booking": "Confirm current opening hours, admission or menu prices, and any reservation requirements with the venue before visiting.",
+        "transport": "Arrange local travel separately; route, fare, and journey time are unverified. Allow a local transfer buffer.",
+        "accessibility": "Step-free access, paths, toilets, and individual access needs have not been verified; confirm directly.",
+        "requiresBooking": false,
+        "scheduling": "candidate"
+      },
+      "category": "Food & drink",
+      "description": "Dining inside the historic Casa Vallejo property.",
+      "interests": [
+        "Food Hunter",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "baguio",
+      "catalog_stop_id": "baguio-hill-station",
+      "status": "accepted",
+      "decision_reason": "Verified distinct physical place; practical details require separate confirmation.",
+      "reviewed_on": "2026-10-21",
+      "slug": "baguio-hill-station"
+    },
+    {
+      "destination_group": "Baguio",
+      "region": "Cordillera Administrative Region",
+      "province": null,
+      "city_municipality": "Baguio City",
+      "barangay": null,
+      "address": "22 Outlook Drive",
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "Amare La Cucina - official branch information",
+          "sourceUrl": "https://amarelacucina.com/contact-amare-la-cucina/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Amare La Cucina - official branch information",
+          "sourceUrl": "https://amarelacucina.com/contact-amare-la-cucina/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "Amare La Cucina - official branch information",
+          "sourceUrl": "https://amarelacucina.com/contact-amare-la-cucina/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "id": "baguio-amare-outlook",
+      "name": "Amare La Cucina - Outlook Drive",
+      "aliases": [
+        "Amare La Cucina Outlook"
+      ],
+      "planning": {
+        "base_slug": "baguio",
+        "mode": "local",
+        "cluster": "baguio-amare-outlook",
+        "minutes": 90,
+        "booking": "Confirm current opening hours, admission or menu prices, and any reservation requirements with the venue before visiting.",
+        "transport": "Arrange local travel separately; route, fare, and journey time are unverified. Allow a local transfer buffer.",
+        "accessibility": "Step-free access, paths, toilets, and individual access needs have not been verified; confirm directly.",
+        "requiresBooking": false,
+        "scheduling": "candidate"
+      },
+      "category": "Food & drink",
+      "description": "Italian dining and wood-fired pizza at the Outlook branch.",
+      "interests": [
+        "Food Hunter",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "baguio",
+      "catalog_stop_id": "baguio-amare-outlook",
+      "status": "accepted",
+      "decision_reason": "Verified distinct physical place; practical details require separate confirmation.",
+      "reviewed_on": "2026-10-21",
+      "slug": "baguio-amare-outlook"
+    },
+    {
+      "destination_group": "Baguio",
+      "region": "Cordillera Administrative Region",
+      "province": null,
+      "city_municipality": "Baguio City",
+      "barangay": null,
+      "address": "120 RKC Building, Marcos Highway, Km 4",
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "Baguio Craft Brewery - official visitor information",
+          "sourceUrl": "https://www.baguiocraftbrewery.net/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Baguio Craft Brewery - official visitor information",
+          "sourceUrl": "https://www.baguiocraftbrewery.net/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "Baguio Craft Brewery - official visitor information",
+          "sourceUrl": "https://www.baguiocraftbrewery.net/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "id": "baguio-craft-brewery",
+      "name": "Baguio Craft Brewery",
+      "aliases": [],
+      "planning": {
+        "base_slug": "baguio",
+        "mode": "local",
+        "cluster": "baguio-craft-brewery",
+        "minutes": 90,
+        "booking": "Confirm current seating and food service. The venue asks larger groups to arrange reservations; brewery tours require a separate arrangement. No tasting is included.",
+        "transport": "Arrange local travel separately; route, fare, and journey time are unverified. Allow a local transfer buffer.",
+        "accessibility": "Step-free access, paths, toilets, and individual access needs have not been verified; confirm directly.",
+        "requiresBooking": false,
+        "scheduling": "candidate"
+      },
+      "category": "Food & drink",
+      "description": "A microbrewery and dining venue on Marcos Highway.",
+      "interests": [
+        "Food Hunter",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "baguio",
+      "catalog_stop_id": "baguio-craft-brewery",
+      "status": "accepted",
+      "decision_reason": "Verified distinct physical place; practical details require separate confirmation.",
+      "reviewed_on": "2026-10-21",
+      "slug": "baguio-craft-brewery"
+    },
+    {
+      "destination_group": "Baguio",
+      "region": "Cordillera Administrative Region",
+      "province": null,
+      "city_municipality": "Baguio City",
+      "barangay": null,
+      "address": "Outlook Drive",
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "Craft 1945 - official visitor information",
+          "sourceUrl": "https://craft1945.com/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Craft 1945 - official visitor information",
+          "sourceUrl": "https://craft1945.com/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "Craft 1945 - official visitor information",
+          "sourceUrl": "https://craft1945.com/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "id": "baguio-craft-1945",
+      "name": "Craft 1945",
+      "aliases": [
+        "Cafe 1945"
+      ],
+      "planning": {
+        "base_slug": "baguio",
+        "mode": "local",
+        "cluster": "baguio-craft-1945",
+        "minutes": 90,
+        "booking": "Confirm current dining hours and reservation arrangements. Craft 1945 and its on-site cafe are one directory venue.",
+        "transport": "Arrange local travel separately; route, fare, and journey time are unverified. Allow a local transfer buffer.",
+        "accessibility": "Step-free access, paths, toilets, and individual access needs have not been verified; confirm directly.",
+        "requiresBooking": false,
+        "scheduling": "candidate"
+      },
+      "category": "Food & drink",
+      "description": "Spanish-inspired dining in a heritage house on Outlook Drive.",
+      "interests": [
+        "Food Hunter",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "baguio",
+      "catalog_stop_id": "baguio-craft-1945",
+      "status": "accepted",
+      "decision_reason": "Verified distinct physical place; practical details require separate confirmation.",
+      "reviewed_on": "2026-10-21",
+      "slug": "baguio-craft-1945"
+    }
+  ]
+}

@@ -1,0 +1,373 @@
+{
+  "destination": "Bohol",
+  "batch": 2,
+  "kind": "Export snapshot of reviewed candidate batch",
+  "entries": [
+    {
+      "destination_group": "Bohol",
+      "region": "Central Visayas",
+      "province": "Bohol",
+      "city_municipality": "Anda",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "Bohol Provincial Tourism - Anda",
+          "sourceUrl": "https://tourism.bohol.gov.ph/visitbohol-anda/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Bohol Provincial Tourism - Anda",
+          "sourceUrl": "https://tourism.bohol.gov.ph/visitbohol-anda/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "id": "bohol-cabagnow-cave-pool",
+      "name": "Cabagnow Cave Pool",
+      "aliases": [],
+      "planning": {
+        "base_slug": null,
+        "mode": "separate-base",
+        "cluster": "bohol-cabagnow-cave-pool",
+        "minutes": 90,
+        "booking": "Confirm current access and local guide arrangements with Anda Tourism.",
+        "transport": "Mainland destination outside the Panglao overnight base. Arrange an independent transfer or stay; no local Panglao routing is assumed.",
+        "accessibility": "Step-free access, toilets and assistance arrangements have not been verified.",
+        "requiresBooking": false,
+        "scheduling": "manual"
+      },
+      "category": "Nature",
+      "description": "Limestone cave pool among Anda's named natural attractions.",
+      "interests": [
+        "Nature Lover"
+      ],
+      "itinerary_base_slug": null,
+      "catalog_stop_id": null,
+      "status": "accepted",
+      "decision_reason": "Primary source confirms this physical place and municipality. Identity review does not confirm present-day admission or access.",
+      "reviewed_on": "2026-10-21",
+      "slug": "bohol-cabagnow-cave-pool"
+    },
+    {
+      "destination_group": "Bohol",
+      "region": "Central Visayas",
+      "province": "Bohol",
+      "city_municipality": "Danao",
+      "barangay": "Magtangtang",
+      "address": "Magtangtang, Danao, Bohol",
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "Bohol Provincial Tourism - Danao",
+          "sourceUrl": "https://tourism.bohol.gov.ph/visitbohol-danao/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Bohol Provincial Tourism - Danao",
+          "sourceUrl": "https://tourism.bohol.gov.ph/visitbohol-danao/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "Bohol Provincial Tourism - Danao",
+          "sourceUrl": "https://tourism.bohol.gov.ph/visitbohol-danao/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "id": "bohol-danao-adventure-park",
+      "name": "Danao Adventure Park",
+      "aliases": [],
+      "planning": {
+        "base_slug": null,
+        "mode": "separate-base",
+        "cluster": "bohol-danao-adventure-park",
+        "minutes": 180,
+        "booking": "Confirm which activities are operating, eligibility requirements and booking.",
+        "transport": "Mainland destination outside the Panglao overnight base. Arrange an independent transfer or stay; no local Panglao routing is assumed.",
+        "accessibility": "Step-free access, toilets and assistance arrangements have not been verified.",
+        "requiresBooking": false,
+        "scheduling": "manual"
+      },
+      "category": "Attractions",
+      "description": "Hillside eco-adventure park in Magtangtang.",
+      "interests": [
+        "Adventure Junkie"
+      ],
+      "itinerary_base_slug": null,
+      "catalog_stop_id": null,
+      "status": "accepted",
+      "decision_reason": "Primary source confirms this physical place and municipality. Identity review does not confirm present-day admission or access.",
+      "reviewed_on": "2026-10-21",
+      "slug": "bohol-danao-adventure-park"
+    },
+    {
+      "destination_group": "Bohol",
+      "region": "Central Visayas",
+      "province": "Bohol",
+      "city_municipality": "Baclayon",
+      "barangay": "Tanday",
+      "address": "Tanday, Baclayon, Bohol",
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "Municipality of Baclayon - tourism",
+          "sourceUrl": "https://baclayon.bohol.gov.ph/tourism/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Municipality of Baclayon - tourism",
+          "sourceUrl": "https://baclayon.bohol.gov.ph/tourism/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "Municipality of Baclayon - tourism",
+          "sourceUrl": "https://baclayon.bohol.gov.ph/tourism/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "id": "bohol-edith-grand-garden",
+      "name": "Edith Grand Garden Wellness Resort & Adventure Park",
+      "aliases": [],
+      "planning": {
+        "base_slug": null,
+        "mode": "separate-base",
+        "cluster": "bohol-edith-grand-garden",
+        "minutes": 120,
+        "booking": "Confirm day-visitor access, activities and current admission with the resort.",
+        "transport": "Mainland destination outside the Panglao overnight base. Arrange an independent transfer or stay; no local Panglao routing is assumed.",
+        "accessibility": "Step-free access, toilets and assistance arrangements have not been verified.",
+        "requiresBooking": false,
+        "scheduling": "manual"
+      },
+      "category": "Attractions",
+      "description": "Garden resort and adventure park in the inland barangay of Tanday.",
+      "interests": [
+        "Adventure Junkie"
+      ],
+      "itinerary_base_slug": null,
+      "catalog_stop_id": null,
+      "status": "accepted",
+      "decision_reason": "Primary source confirms this physical place and municipality. Identity review does not confirm present-day admission or access.",
+      "reviewed_on": "2026-10-21",
+      "slug": "bohol-edith-grand-garden"
+    },
+    {
+      "destination_group": "Bohol",
+      "region": "Central Visayas",
+      "province": "Bohol",
+      "city_municipality": "Panglao",
+      "barangay": "Tawala",
+      "address": "Amorita Resort, 1 Ester A. Lim Drive, Tawala, Panglao, Bohol",
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "Amorita Resort - Saffron menu",
+          "sourceUrl": "https://www.amoritaresort.com/saffron-menu",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Amorita Resort - Saffron menu",
+          "sourceUrl": "https://www.amoritaresort.com/saffron-menu",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "Amorita Resort - Saffron menu",
+          "sourceUrl": "https://www.amoritaresort.com/saffron-menu",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "id": "bohol-saffron-restaurant",
+      "name": "Saffron Restaurant - Amorita Resort",
+      "aliases": [],
+      "planning": {
+        "base_slug": "bohol",
+        "mode": "local",
+        "cluster": "bohol-saffron-restaurant",
+        "minutes": 90,
+        "booking": "Ask Amorita about dining reservations and non-staying guest access.",
+        "transport": "Use local transport to the published Panglao location; exact travel time has not been verified.",
+        "accessibility": "Step-free access, toilets and assistance arrangements have not been verified.",
+        "requiresBooking": false,
+        "scheduling": "candidate"
+      },
+      "category": "Food & drink",
+      "description": "Amorita's restaurant with Filipino and international dishes.",
+      "interests": [
+        "Food Hunter"
+      ],
+      "itinerary_base_slug": "bohol",
+      "catalog_stop_id": "bohol-saffron-restaurant",
+      "status": "accepted",
+      "decision_reason": "Primary source confirms this physical place and municipality. Identity review does not confirm present-day admission or access.",
+      "reviewed_on": "2026-10-21",
+      "slug": "bohol-saffron-restaurant"
+    },
+    {
+      "destination_group": "Bohol",
+      "region": "Central Visayas",
+      "province": "Bohol",
+      "city_municipality": "Panglao",
+      "barangay": "Tawala",
+      "address": "Tawala, Panglao, Bohol",
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "Panglao Tourism - Latavola",
+          "sourceUrl": "https://www.panglaotourism.com/directory/latavola-italian-restaurant/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Panglao Tourism - Latavola",
+          "sourceUrl": "https://www.panglaotourism.com/directory/latavola-italian-restaurant/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "Panglao Tourism - Latavola",
+          "sourceUrl": "https://www.panglaotourism.com/directory/latavola-italian-restaurant/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "id": "bohol-latavola-restaurant",
+      "name": "Latavola Italian Restaurant",
+      "aliases": [],
+      "planning": {
+        "base_slug": "bohol",
+        "mode": "local",
+        "cluster": "bohol-latavola-restaurant",
+        "minutes": 75,
+        "booking": "Confirm current hours and table availability; the directory's accreditation expiry is historical.",
+        "transport": "Use local transport to the published Panglao location; exact travel time has not been verified.",
+        "accessibility": "Step-free access, toilets and assistance arrangements have not been verified.",
+        "requiresBooking": false,
+        "scheduling": "candidate"
+      },
+      "category": "Food & drink",
+      "description": "Italian restaurant listed in Panglao's tourism business directory.",
+      "interests": [
+        "Food Hunter"
+      ],
+      "itinerary_base_slug": "bohol",
+      "catalog_stop_id": "bohol-latavola-restaurant",
+      "status": "accepted",
+      "decision_reason": "Primary source confirms this physical place and municipality. Identity review does not confirm present-day admission or access.",
+      "reviewed_on": "2026-10-21",
+      "slug": "bohol-latavola-restaurant"
+    },
+    {
+      "destination_group": "Bohol",
+      "region": "Central Visayas",
+      "province": "Bohol",
+      "city_municipality": "Panglao",
+      "barangay": "Bolod",
+      "address": "Purok 4, Bolod, Panglao, Bohol",
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "Panglao Tourism - The Prawn Farm",
+          "sourceUrl": "https://www.panglaotourism.com/directory/the-prawn-farm-grill-and-seafoods/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Panglao Tourism - The Prawn Farm",
+          "sourceUrl": "https://www.panglaotourism.com/directory/the-prawn-farm-grill-and-seafoods/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "Panglao Tourism - The Prawn Farm",
+          "sourceUrl": "https://www.panglaotourism.com/directory/the-prawn-farm-grill-and-seafoods/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "id": "bohol-prawn-farm-bolod",
+      "name": "The Prawn Farm Grill and Seafoods - Bolod",
+      "aliases": [],
+      "planning": {
+        "base_slug": "bohol",
+        "mode": "local",
+        "cluster": "bohol-prawn-farm-bolod",
+        "minutes": 90,
+        "booking": "Confirm current hours and table availability; the directory's accreditation expiry is historical.",
+        "transport": "Use local transport to the published Panglao location; exact travel time has not been verified.",
+        "accessibility": "Step-free access, toilets and assistance arrangements have not been verified.",
+        "requiresBooking": false,
+        "scheduling": "candidate"
+      },
+      "category": "Food & drink",
+      "description": "Restaurant in Bolod listed by Panglao Tourism.",
+      "interests": [
+        "Food Hunter"
+      ],
+      "itinerary_base_slug": "bohol",
+      "catalog_stop_id": "bohol-prawn-farm-bolod",
+      "status": "accepted",
+      "decision_reason": "Primary source confirms this physical place and municipality. Identity review does not confirm present-day admission or access.",
+      "reviewed_on": "2026-10-21",
+      "slug": "bohol-prawn-farm-bolod"
+    }
+  ]
+}

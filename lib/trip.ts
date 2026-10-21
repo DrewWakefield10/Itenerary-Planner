@@ -4,6 +4,7 @@ import { factSourcesSchema, sourcedLinkSchema } from "./sources";
 import { disruptionSensitivitySchema, openingHoursSchema } from "./disruptions";
 import {entryPriceSchema, visitModeSchema} from "./catalog/schema";
 import {geographySchema} from "./catalog/directory-schema";
+import {placeTypeSchema,placeTypes} from "./catalog/place-types";
 const date = z
   .string()
   .regex(/^\d{4}-\d{2}-\d{2}$/)
@@ -33,6 +34,8 @@ export const requestSchema = z
     adults: z.number().int().min(1).max(20),
     children: z.number().int().min(0).max(10),
     interests: z.array(z.string().max(50)).max(9),
+    activityCategories: z.array(placeTypeSchema).max(placeTypes.length).default([]),
+    randomSeed: z.string().max(100).nullable().default(null),
     includeExcursions: z.boolean().default(false),
     budget: z.number().int().min(500).max(2000000),
     budgetMode: z.enum(["total", "person"]),
@@ -68,6 +71,7 @@ export const expenseCategories = [
 ] as const;
 const money = z.number().int().min(0).max(10000000);
 export const activitySchema = z.object({
+  placeTypes:z.array(placeTypeSchema).max(placeTypes.length).default([]),
   geography:geographySchema.nullable().default(null),
   id: z.string().min(1).max(100),
   name: z.string().min(1).max(160),
@@ -230,6 +234,8 @@ export const defaultRequest: TripRequest = {
   adults: 2,
   children: 0,
   interests: ["Nature Lover"],
+  activityCategories: [],
+  randomSeed: null,
   includeExcursions: false,
   budget: 25000,
   budgetMode: "total",

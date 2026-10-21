@@ -26,7 +26,9 @@ export function visitStart(stop:Stop,date:string,earliest:number,latestEnd:numbe
 }
 export function closeEnough(a:Stop,b:Stop) {
   if(a.cluster!==b.cluster)return false;
-  if(a.lat===null||a.lng===null||b.lat===null||b.lng===null)return true;
+  // Unknown pins are not distances. Only an existing editorial cluster supports
+  // grouping them; estimated coordinates never support a geographic claim.
+  if(a.sources.coordinates.status!=="verified"||b.sources.coordinates.status!=="verified"||a.lat===null||a.lng===null||b.lat===null||b.lng===null)return true;
   const x=(a.lng-b.lng)*Math.cos((a.lat+b.lat)*Math.PI/360);
   return Math.hypot(a.lat-b.lat,x)*111<=4;
 }

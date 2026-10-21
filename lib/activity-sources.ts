@@ -43,6 +43,7 @@ export function updateActivityField<K extends keyof Activity>(
     ...(key === "name"
       ? {
           catalogStopId: null,
+          placeTypes: [],
           geography:null,
           canonicalStopId: null,
           entryPrice: null,

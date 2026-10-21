@@ -982,6 +982,316 @@
         }
       },
       "reviewed_on": "2026-10-21"
+    },
+    {
+      "destination_group": "Baguio",
+      "region": "Cordillera Administrative Region",
+      "province": null,
+      "city_municipality": "Baguio City",
+      "barangay": null,
+      "address": "Brent Road",
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "Baguio City Government - tourist directory",
+          "sourceUrl": "https://infoboard.baguio.gov.ph/tourists-spots",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Baguio City Government - tourist directory",
+          "sourceUrl": "https://infoboard.baguio.gov.ph/tourists-spots",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "Baguio City Government - tourist directory",
+          "sourceUrl": "https://infoboard.baguio.gov.ph/tourists-spots",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "id": "baguio-pink-sisters",
+      "name": "Pink Sisters' Convent and Chapel",
+      "aliases": [],
+      "planning": {
+        "base_slug": "baguio",
+        "mode": "local",
+        "cluster": "baguio-pink-sisters",
+        "minutes": 60,
+        "booking": "Confirm current opening hours, admission or menu prices, and any reservation requirements with the venue before visiting.",
+        "transport": "Arrange local travel separately; route, fare, and journey time are unverified. Allow a local transfer buffer.",
+        "accessibility": "Step-free access, paths, toilets, and individual access needs have not been verified; confirm directly.",
+        "requiresBooking": false,
+        "scheduling": "candidate"
+      },
+      "category": "Culture",
+      "description": "A religious chapel on Brent Road.",
+      "interests": [
+        "Culture Seeker",
+        "City Wanderer"
+      ],
+      "itinerary_base_slug": "baguio",
+      "catalog_stop_id": "baguio-pink-sisters",
+      "status": "accepted",
+      "decision_reason": "Verified distinct physical place; practical details require separate confirmation.",
+      "reviewed_on": "2026-10-21",
+      "slug": "baguio-pink-sisters"
+    },
+    {
+      "destination_group": "Baguio",
+      "region": "Cordillera Administrative Region",
+      "province": null,
+      "city_municipality": "Baguio City",
+      "barangay": null,
+      "address": "Saint Louis University, Bonifacio Street",
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "Baguio City Government - tourist directory",
+          "sourceUrl": "https://infoboard.baguio.gov.ph/tourists-spots",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Baguio City Government - tourist directory",
+          "sourceUrl": "https://infoboard.baguio.gov.ph/tourists-spots",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "Baguio City Government - tourist directory",
+          "sourceUrl": "https://infoboard.baguio.gov.ph/tourists-spots",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "id": "baguio-slu-museum",
+      "name": "SLU Museum of Igorot Cultures and Arts",
+      "aliases": [],
+      "planning": {
+        "base_slug": "baguio",
+        "mode": "local",
+        "cluster": "baguio-slu-museum",
+        "minutes": 60,
+        "booking": "Confirm current opening hours, admission or menu prices, and any reservation requirements with the venue before visiting.",
+        "transport": "Arrange local travel separately; route, fare, and journey time are unverified. Allow a local transfer buffer.",
+        "accessibility": "Step-free access, paths, toilets, and individual access needs have not been verified; confirm directly.",
+        "requiresBooking": false,
+        "scheduling": "candidate"
+      },
+      "category": "Culture",
+      "description": "A university museum focused on Igorot cultures.",
+      "interests": [
+        "Culture Seeker",
+        "City Wanderer"
+      ],
+      "itinerary_base_slug": "baguio",
+      "catalog_stop_id": "baguio-slu-museum",
+      "status": "accepted",
+      "decision_reason": "Verified distinct physical place; practical details require separate confirmation.",
+      "reviewed_on": "2026-10-21",
+      "slug": "baguio-slu-museum"
+    },
+    {
+      "destination_group": "Baguio",
+      "region": "Cordillera Administrative Region",
+      "province": null,
+      "city_municipality": "Baguio City",
+      "barangay": null,
+      "address": "Pacdal",
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "Baguio City Government - tourist directory",
+          "sourceUrl": "https://infoboard.baguio.gov.ph/tourists-spots",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Baguio City Government - tourist directory",
+          "sourceUrl": "https://infoboard.baguio.gov.ph/tourists-spots",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "Baguio City Government - tourist directory",
+          "sourceUrl": "https://infoboard.baguio.gov.ph/tourists-spots",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "id": "baguio-bamboo-sanctuary",
+      "name": "St. Francis Xavier Bamboo Sanctuary",
+      "aliases": [],
+      "planning": {
+        "base_slug": "baguio",
+        "mode": "local",
+        "cluster": "baguio-bamboo-sanctuary",
+        "minutes": 60,
+        "booking": "Confirm current opening hours, admission or menu prices, and any reservation requirements with the venue before visiting.",
+        "transport": "Arrange local travel separately; route, fare, and journey time are unverified. Allow a local transfer buffer.",
+        "accessibility": "Step-free access, paths, toilets, and individual access needs have not been verified; confirm directly.",
+        "requiresBooking": false,
+        "scheduling": "candidate"
+      },
+      "category": "Nature",
+      "description": "A bamboo sanctuary in Pacdal.",
+      "interests": [
+        "Nature Lover",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "baguio",
+      "catalog_stop_id": "baguio-bamboo-sanctuary",
+      "status": "accepted",
+      "decision_reason": "Verified distinct physical place; practical details require separate confirmation.",
+      "reviewed_on": "2026-10-21",
+      "slug": "baguio-bamboo-sanctuary"
+    },
+    {
+      "destination_group": "Baguio",
+      "region": "Cordillera Administrative Region",
+      "province": null,
+      "city_municipality": "Baguio City",
+      "barangay": null,
+      "address": "37 Leonard Wood Road",
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "Baguio City Government - tourist directory",
+          "sourceUrl": "https://infoboard.baguio.gov.ph/tourists-spots",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Baguio City Government - tourist directory",
+          "sourceUrl": "https://infoboard.baguio.gov.ph/tourists-spots",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "Baguio City Government - tourist directory",
+          "sourceUrl": "https://infoboard.baguio.gov.ph/tourists-spots",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "id": "baguio-pilak-silvercraft",
+      "name": "PILAK Silvercraft and Gift Shoppe",
+      "aliases": [],
+      "planning": {
+        "base_slug": "baguio",
+        "mode": "local",
+        "cluster": "baguio-pilak-silvercraft",
+        "minutes": 60,
+        "booking": "Confirm current opening hours, admission or menu prices, and any reservation requirements with the venue before visiting.",
+        "transport": "Arrange local travel separately; route, fare, and journey time are unverified. Allow a local transfer buffer.",
+        "accessibility": "Step-free access, paths, toilets, and individual access needs have not been verified; confirm directly.",
+        "requiresBooking": false,
+        "scheduling": "candidate"
+      },
+      "category": "Culture",
+      "description": "A silvercraft shop on Leonard Wood Road.",
+      "interests": [
+        "Culture Seeker",
+        "City Wanderer"
+      ],
+      "itinerary_base_slug": "baguio",
+      "catalog_stop_id": "baguio-pilak-silvercraft",
+      "status": "accepted",
+      "decision_reason": "Verified distinct physical place; practical details require separate confirmation.",
+      "reviewed_on": "2026-10-21",
+      "slug": "baguio-pilak-silvercraft"
+    },
+    {
+      "destination_group": "Baguio",
+      "region": "Cordillera Administrative Region",
+      "province": null,
+      "city_municipality": "Baguio City",
+      "barangay": null,
+      "address": "151 Upper Session Road",
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "Baguio City Government - tourist directory",
+          "sourceUrl": "https://infoboard.baguio.gov.ph/tourists-spots",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Baguio City Government - tourist directory",
+          "sourceUrl": "https://infoboard.baguio.gov.ph/tourists-spots",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "Baguio City Government - tourist directory",
+          "sourceUrl": "https://infoboard.baguio.gov.ph/tourists-spots",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "id": "baguio-nardas-handwoven",
+      "name": "Narda's Handwoven Arts and Crafts",
+      "aliases": [],
+      "planning": {
+        "base_slug": "baguio",
+        "mode": "local",
+        "cluster": "baguio-nardas-handwoven",
+        "minutes": 60,
+        "booking": "Confirm current opening hours, admission or menu prices, and any reservation requirements with the venue before visiting.",
+        "transport": "Arrange local travel separately; route, fare, and journey time are unverified. Allow a local transfer buffer.",
+        "accessibility": "Step-free access, paths, toilets, and individual access needs have not been verified; confirm directly.",
+        "requiresBooking": false,
+        "scheduling": "candidate"
+      },
+      "category": "Culture",
+      "description": "Handwoven crafts on Upper Session Road.",
+      "interests": [
+        "Culture Seeker",
+        "City Wanderer"
+      ],
+      "itinerary_base_slug": "baguio",
+      "catalog_stop_id": "baguio-nardas-handwoven",
+      "status": "accepted",
+      "decision_reason": "Verified distinct physical place; practical details require separate confirmation.",
+      "reviewed_on": "2026-10-21",
+      "slug": "baguio-nardas-handwoven"
     }
   ]
 }

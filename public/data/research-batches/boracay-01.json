@@ -976,44 +976,32 @@
       "reviewed_on": "2026-10-21"
     },
     {
-      "id": "boracay-station-x",
-      "name": "Station X",
       "destination_group": "Boracay",
       "region": "Western Visayas",
       "province": "Aklan",
       "city_municipality": "Malay",
       "barangay": null,
-      "address": null,
+      "address": "Hue Hotels and Resorts, Station 2, Main Road, Boracay, Malay, Aklan",
       "latitude": null,
       "longitude": null,
-      "category": "Attractions",
-      "description": "A leisure and retail venue at Hue Hotels and Resorts.",
-      "interests": [
-        "Nature Lover",
-        "City Wanderer"
-      ],
-      "itinerary_base_slug": null,
-      "catalog_stop_id": null,
-      "status": "rejected",
-      "decision_reason": "Physical identity and municipality confirmed; editorial surplus outside the agreed initial selection. Retained as a genuine researched place candidate, not a claim that the venue is unsuitable.",
       "sources": {
         "identity": {
-          "sourceName": "Station X - official community and venue information",
+          "sourceName": "Station X - official community page",
           "sourceUrl": "https://www.stationx.ph/tenants",
           "dateChecked": "2026-10-21",
           "status": "verified"
         },
         "municipality": {
-          "sourceName": "Wikipedia - Boracay's actual municipal jurisdiction",
-          "sourceUrl": "https://en.wikipedia.org/wiki/Boracay",
+          "sourceName": "Philippine Information Agency - Boracay in Malay, Aklan",
+          "sourceUrl": "https://mirror.pia.gov.ph/news/2023/01/13/isla-it-boracay-nakabaton-masobra-17m-turista-ku-2022",
           "dateChecked": "2026-10-21",
           "status": "verified"
         },
         "address": {
-          "sourceName": null,
-          "sourceUrl": null,
-          "dateChecked": null,
-          "status": "unverified"
+          "sourceName": "Station X - official community page",
+          "sourceUrl": "https://www.stationx.ph/tenants",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
         },
         "coordinates": {
           "sourceName": null,
@@ -1022,7 +1010,32 @@
           "status": "unverified"
         }
       },
-      "reviewed_on": "2026-10-21"
+      "id": "boracay-station-x",
+      "name": "Station X",
+      "aliases": [],
+      "planning": {
+        "base_slug": "boracay",
+        "mode": "local",
+        "cluster": "boracay-station-x",
+        "minutes": 90,
+        "booking": "Confirm available tenants and activities directly. Historical tenant information on the website may be stale.",
+        "transport": "Arrange local island transport or walking from nearby accommodation; exact travel time is unverified.",
+        "accessibility": "Step-free access, toilets and assistance arrangements have not been verified.",
+        "requiresBooking": false,
+        "scheduling": "candidate",
+        "outdoor": true
+      },
+      "category": "Parks & markets",
+      "description": "Lifestyle courtyard and community venue at Hue Hotels.",
+      "interests": [
+        "City Wanderer"
+      ],
+      "itinerary_base_slug": "boracay",
+      "catalog_stop_id": "boracay-station-x",
+      "status": "accepted",
+      "decision_reason": "Promoted previously verified editorial-surplus candidate. Operator or developer identifies a physical Boracay venue; municipality is resolved from the official island-to-Malay reference. Identity review does not guarantee current access.",
+      "reviewed_on": "2026-10-21",
+      "slug": "boracay-station-x"
     },
     {
       "id": "boracay-crystal-cove-island",
@@ -1072,6 +1085,189 @@
         }
       },
       "reviewed_on": "2026-10-21"
+    },
+    {
+      "destination_group": "Boracay",
+      "region": "Western Visayas",
+      "province": "Aklan",
+      "city_municipality": "Malay",
+      "barangay": null,
+      "address": "Ground floor, Zuzuni Hotel, Station 1, White Beach, Boracay, Malay, Aklan",
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "Muchos - official restaurant",
+          "sourceUrl": "https://muchosboracay.com/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Philippine Information Agency - Boracay in Malay, Aklan",
+          "sourceUrl": "https://mirror.pia.gov.ph/news/2023/01/13/isla-it-boracay-nakabaton-masobra-17m-turista-ku-2022",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "Muchos - official restaurant",
+          "sourceUrl": "https://muchosboracay.com/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "id": "boracay-muchos",
+      "name": "Muchos",
+      "aliases": [],
+      "planning": {
+        "base_slug": "boracay",
+        "mode": "local",
+        "cluster": "boracay-muchos",
+        "minutes": 90,
+        "booking": "Contact Muchos for table availability.",
+        "transport": "Arrange local island transport or walking from nearby accommodation; exact travel time is unverified.",
+        "accessibility": "Step-free access, toilets and assistance arrangements have not been verified.",
+        "requiresBooking": false,
+        "scheduling": "candidate"
+      },
+      "category": "Food & drink",
+      "description": "Latin American restaurant on Station 1's beachfront.",
+      "interests": [
+        "Food Hunter"
+      ],
+      "itinerary_base_slug": "boracay",
+      "catalog_stop_id": "boracay-muchos",
+      "status": "accepted",
+      "decision_reason": "Operator or developer identifies a physical Boracay venue; municipality is resolved from the official island-to-Malay reference. Identity review does not guarantee current access.",
+      "reviewed_on": "2026-10-21",
+      "slug": "boracay-muchos"
+    },
+    {
+      "destination_group": "Boracay",
+      "region": "Western Visayas",
+      "province": "Aklan",
+      "city_municipality": "Malay",
+      "barangay": null,
+      "address": "Beachfront, D'Mall, Station 2, Malay, Aklan",
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "Jammers Beach Shack - official restaurant",
+          "sourceUrl": "https://jammersbeachshack.com/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Jammers Beach Shack - official restaurant",
+          "sourceUrl": "https://jammersbeachshack.com/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "Jammers Beach Shack - official restaurant",
+          "sourceUrl": "https://jammersbeachshack.com/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "id": "boracay-jammers-beach-shack",
+      "name": "Jammers Beach Shack",
+      "aliases": [],
+      "planning": {
+        "base_slug": "boracay",
+        "mode": "local",
+        "cluster": "boracay-jammers-beach-shack",
+        "minutes": 90,
+        "booking": "Contact Jammers for event or table arrangements.",
+        "transport": "Arrange local island transport or walking from nearby accommodation; exact travel time is unverified.",
+        "accessibility": "Step-free access, toilets and assistance arrangements have not been verified.",
+        "requiresBooking": false,
+        "scheduling": "candidate"
+      },
+      "category": "Food & drink",
+      "description": "Beachfront restaurant serving burgers and other casual meals.",
+      "interests": [
+        "Food Hunter"
+      ],
+      "itinerary_base_slug": "boracay",
+      "catalog_stop_id": "boracay-jammers-beach-shack",
+      "status": "accepted",
+      "decision_reason": "Operator or developer identifies a physical Boracay venue; municipality is resolved from the official island-to-Malay reference. Identity review does not guarantee current access.",
+      "reviewed_on": "2026-10-21",
+      "slug": "boracay-jammers-beach-shack"
+    },
+    {
+      "destination_group": "Boracay",
+      "region": "Western Visayas",
+      "province": "Aklan",
+      "city_municipality": "Malay",
+      "barangay": null,
+      "address": "Beachfront, D'Mall, Boracay, Malay, Aklan",
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "Boracay Entertainment Resources Inc. - official business directory",
+          "sourceUrl": "https://www.careers.aria.com.ph/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Philippine Information Agency - Boracay in Malay, Aklan",
+          "sourceUrl": "https://mirror.pia.gov.ph/news/2023/01/13/isla-it-boracay-nakabaton-masobra-17m-turista-ku-2022",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "Boracay Entertainment Resources Inc. - official business directory",
+          "sourceUrl": "https://www.careers.aria.com.ph/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "id": "boracay-aria-cucina",
+      "name": "Aria Cucina Italiana",
+      "aliases": [],
+      "planning": {
+        "base_slug": "boracay",
+        "mode": "local",
+        "cluster": "boracay-aria-cucina",
+        "minutes": 90,
+        "booking": "Current fees, hours and table booking requirements are unknown; confirm directly with the venue.",
+        "transport": "Arrange local island transport or walking from nearby accommodation; exact travel time is unverified.",
+        "accessibility": "Step-free access, toilets and assistance arrangements have not been verified.",
+        "requiresBooking": false,
+        "scheduling": "candidate"
+      },
+      "category": "Food & drink",
+      "description": "Italian restaurant at D'Mall's beach frontage.",
+      "interests": [
+        "Food Hunter"
+      ],
+      "itinerary_base_slug": "boracay",
+      "catalog_stop_id": "boracay-aria-cucina",
+      "status": "accepted",
+      "decision_reason": "Operator or developer identifies a physical Boracay venue; municipality is resolved from the official island-to-Malay reference. Identity review does not guarantee current access.",
+      "reviewed_on": "2026-10-21",
+      "slug": "boracay-aria-cucina"
     }
   ]
 }

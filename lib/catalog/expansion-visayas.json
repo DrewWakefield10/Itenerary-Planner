@@ -1,0 +1,3067 @@
+[
+  {
+    "id": "cebu-carbon-market",
+    "name": "Carbon Market",
+    "destination_group": "Cebu",
+    "region": "Central Visayas",
+    "province": "Cebu",
+    "city_municipality": "Cebu City",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Parks & markets",
+    "description": "Working produce and food market in the city port area.",
+    "interests": [
+      "City Wanderer",
+      "Food Hunter"
+    ],
+    "itinerary_base_slug": "cebu",
+    "catalog_stop_id": "cebu-carbon-market",
+    "status": "accepted",
+    "decision_reason": "Promoted previously verified editorial-surplus candidate. Primary source confirms this physical place and municipality; access, fees and practical arrangements require reconfirmation.",
+    "sources": {
+      "identity": {
+        "sourceName": "Cebu City Government - Carbon Market",
+        "sourceUrl": "https://www.cebucity.gov.ph/project-no-1-rehabilitation-of-unit-3-carbon-market-at-brgy-ermita-cebu-city/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Cebu City Government - Carbon Market",
+        "sourceUrl": "https://www.cebucity.gov.ph/project-no-1-rehabilitation-of-unit-3-carbon-market-at-brgy-ermita-cebu-city/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21",
+    "aliases": [],
+    "planning": {
+      "base_slug": "cebu",
+      "mode": "local",
+      "cluster": "cebu-carbon-market",
+      "minutes": 60,
+      "booking": "Confirm which market sections are accessible during redevelopment.",
+      "transport": "Arrange local transport to the published venue address; exact journey time is unverified.",
+      "accessibility": "Step-free access, toilets and assistance arrangements have not been verified.",
+      "requiresBooking": false,
+      "scheduling": "candidate"
+    }
+  },
+  {
+    "id": "cebu-omagieca-obo-ob-mangrove-garden",
+    "name": "Omagieca Obo-ob Mangrove Garden",
+    "destination_group": "Cebu",
+    "region": "Central Visayas",
+    "province": "Cebu",
+    "city_municipality": "Bantayan",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Nature",
+    "description": "Community mangrove garden named in Bantayan's provincial tourism listing.",
+    "interests": [
+      "Nature Lover",
+      "Adventure Junkie"
+    ],
+    "itinerary_base_slug": null,
+    "catalog_stop_id": null,
+    "status": "accepted",
+    "decision_reason": "Promoted previously verified editorial-surplus candidate. Primary source confirms this physical place and municipality; access, fees and practical arrangements require reconfirmation.",
+    "sources": {
+      "identity": {
+        "sourceName": "Cebu Provincial Tourism - Bantayan",
+        "sourceUrl": "https://tourism.cebu.gov.ph/explore/bantayan/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Cebu Provincial Tourism - Bantayan",
+        "sourceUrl": "https://tourism.cebu.gov.ph/explore/bantayan/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21",
+    "aliases": [],
+    "planning": {
+      "base_slug": null,
+      "mode": "separate-base",
+      "cluster": "cebu-omagieca-obo-ob-mangrove-garden",
+      "minutes": 90,
+      "booking": "Current booking requirements and admission fees are unknown; contact the venue or local tourism office.",
+      "transport": "Outside the Cebu City overnight base. Arrange a separate stay or independently planned transfer; no automatic local routing.",
+      "accessibility": "Step-free access, toilets and assistance arrangements have not been verified.",
+      "requiresBooking": false,
+      "scheduling": "manual"
+    }
+  },
+  {
+    "id": "cebu-lambug-beach",
+    "name": "Lambug Beach",
+    "destination_group": "Cebu",
+    "region": "Central Visayas",
+    "province": "Cebu",
+    "city_municipality": "Badian",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Nature",
+    "description": "Beach on Badian's western coast, listed by the provincial tourism office.",
+    "interests": [
+      "Nature Lover",
+      "Adventure Junkie"
+    ],
+    "itinerary_base_slug": null,
+    "catalog_stop_id": null,
+    "status": "accepted",
+    "decision_reason": "Primary source confirms this physical place and municipality; access, fees and practical arrangements require reconfirmation.",
+    "sources": {
+      "identity": {
+        "sourceName": "Cebu Provincial Tourism - Badian",
+        "sourceUrl": "https://tourism.cebu.gov.ph/explore/badian/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Cebu Provincial Tourism - Badian",
+        "sourceUrl": "https://tourism.cebu.gov.ph/explore/badian/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21",
+    "aliases": [],
+    "planning": {
+      "base_slug": null,
+      "mode": "separate-base",
+      "cluster": "cebu-lambug-beach",
+      "minutes": 120,
+      "booking": "Current booking requirements and admission fees are unknown; contact the venue or local tourism office.",
+      "transport": "Outside the Cebu City overnight base. Arrange a separate stay or independently planned transfer; no automatic local routing.",
+      "accessibility": "Step-free access, toilets and assistance arrangements have not been verified.",
+      "requiresBooking": false,
+      "scheduling": "manual"
+    }
+  },
+  {
+    "id": "cebu-osmena-peak",
+    "name": "Osmeña Peak",
+    "destination_group": "Cebu",
+    "region": "Central Visayas",
+    "province": "Cebu",
+    "city_municipality": "Dalaguete",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Nature",
+    "description": "Highland hiking destination in Dalaguete.",
+    "interests": [
+      "Nature Lover",
+      "Adventure Junkie"
+    ],
+    "itinerary_base_slug": null,
+    "catalog_stop_id": null,
+    "status": "accepted",
+    "decision_reason": "Primary source confirms this physical place and municipality; access, fees and practical arrangements require reconfirmation.",
+    "sources": {
+      "identity": {
+        "sourceName": "Cebu Provincial Tourism - Dalaguete",
+        "sourceUrl": "https://tourism.cebu.gov.ph/explore/dalaguete/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Cebu Provincial Tourism - Dalaguete",
+        "sourceUrl": "https://tourism.cebu.gov.ph/explore/dalaguete/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21",
+    "aliases": [
+      "Osmena Peak"
+    ],
+    "planning": {
+      "base_slug": null,
+      "mode": "separate-base",
+      "cluster": "cebu-osmena-peak",
+      "minutes": 180,
+      "booking": "Check local guide, weather and trail arrangements.",
+      "transport": "Outside the Cebu City overnight base. Arrange a separate stay or independently planned transfer; no automatic local routing.",
+      "accessibility": "Step-free access, toilets and assistance arrangements have not been verified.",
+      "requiresBooking": false,
+      "scheduling": "manual"
+    }
+  },
+  {
+    "id": "cebu-mantayupan-falls",
+    "name": "Mantayupan Falls",
+    "destination_group": "Cebu",
+    "region": "Central Visayas",
+    "province": "Cebu",
+    "city_municipality": "Barili",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Nature",
+    "description": "Waterfall attraction listed by Barili's provincial tourism profile.",
+    "interests": [
+      "Nature Lover",
+      "Adventure Junkie"
+    ],
+    "itinerary_base_slug": null,
+    "catalog_stop_id": null,
+    "status": "accepted",
+    "decision_reason": "Primary source confirms this physical place and municipality; access, fees and practical arrangements require reconfirmation.",
+    "sources": {
+      "identity": {
+        "sourceName": "Cebu Provincial Tourism - Barili",
+        "sourceUrl": "https://tourism.cebu.gov.ph/explore/barili/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Cebu Provincial Tourism - Barili",
+        "sourceUrl": "https://tourism.cebu.gov.ph/explore/barili/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21",
+    "aliases": [],
+    "planning": {
+      "base_slug": null,
+      "mode": "separate-base",
+      "cluster": "cebu-mantayupan-falls",
+      "minutes": 120,
+      "booking": "Current booking requirements and admission fees are unknown; contact the venue or local tourism office.",
+      "transport": "Outside the Cebu City overnight base. Arrange a separate stay or independently planned transfer; no automatic local routing.",
+      "accessibility": "Step-free access, toilets and assistance arrangements have not been verified.",
+      "requiresBooking": false,
+      "scheduling": "manual"
+    }
+  },
+  {
+    "id": "cebu-bojo-river",
+    "name": "Bojo River",
+    "destination_group": "Cebu",
+    "region": "Central Visayas",
+    "province": "Cebu",
+    "city_municipality": "Aloguinsan",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Nature",
+    "description": "River and mangrove setting of Aloguinsan's community ecotourism visits.",
+    "interests": [
+      "Nature Lover",
+      "Adventure Junkie"
+    ],
+    "itinerary_base_slug": null,
+    "catalog_stop_id": null,
+    "status": "accepted",
+    "decision_reason": "Primary source confirms this physical place and municipality; access, fees and practical arrangements require reconfirmation.",
+    "sources": {
+      "identity": {
+        "sourceName": "Cebu Provincial Tourism - Aloguinsan",
+        "sourceUrl": "https://tourism.cebu.gov.ph/explore/aloguinsan/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Cebu Provincial Tourism - Aloguinsan",
+        "sourceUrl": "https://tourism.cebu.gov.ph/explore/aloguinsan/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21",
+    "aliases": [],
+    "planning": {
+      "base_slug": null,
+      "mode": "separate-base",
+      "cluster": "cebu-bojo-river",
+      "minutes": 120,
+      "booking": "Arrange community tour availability with Aloguinsan Tourism before travel.",
+      "transport": "Outside the Cebu City overnight base. Arrange a separate stay or independently planned transfer; no automatic local routing.",
+      "accessibility": "Step-free access, toilets and assistance arrangements have not been verified.",
+      "requiresBooking": false,
+      "scheduling": "manual"
+    }
+  },
+  {
+    "id": "cebu-argao-church",
+    "name": "St. Michael the Archangel Parish Church - Argao",
+    "destination_group": "Cebu",
+    "region": "Central Visayas",
+    "province": "Cebu",
+    "city_municipality": "Argao",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Culture",
+    "description": "Historic parish church in Argao's heritage center.",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "itinerary_base_slug": "cebu",
+    "catalog_stop_id": "cebu-argao-church",
+    "status": "accepted",
+    "decision_reason": "Primary source confirms this physical place and municipality; access, fees and practical arrangements require reconfirmation.",
+    "sources": {
+      "identity": {
+        "sourceName": "Cebu Provincial Tourism - Argao",
+        "sourceUrl": "https://tourism.cebu.gov.ph/explore/argao/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Cebu Provincial Tourism - Argao",
+        "sourceUrl": "https://tourism.cebu.gov.ph/explore/argao/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21",
+    "aliases": [
+      "Argao Church"
+    ],
+    "planning": {
+      "base_slug": "cebu",
+      "mode": "excursion",
+      "cluster": "cebu-argao-church",
+      "minutes": 480,
+      "booking": "Check parish visiting arrangements around services.",
+      "transport": "Provincial tourism lists buses from Cebu South Bus Terminal via the east coast, approximately 2-3 hours to Argao. This proposed full-day block still needs onward and return arrangements.",
+      "accessibility": "Step-free access, toilets and assistance arrangements have not been verified.",
+      "requiresBooking": false,
+      "scheduling": "manual",
+      "transport_source": {
+        "sourceName": "Cebu Provincial Tourism - Argao",
+        "sourceUrl": "https://tourism.cebu.gov.ph/explore/argao/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      }
+    }
+  },
+  {
+    "id": "cebu-pig-and-palm",
+    "name": "The Pig & Palm",
+    "destination_group": "Cebu",
+    "region": "Central Visayas",
+    "province": "Cebu",
+    "city_municipality": "Cebu City",
+    "barangay": null,
+    "address": "MSY Tower, Pescadores Road, Cebu Business Park, Cebu City",
+    "latitude": null,
+    "longitude": null,
+    "category": "Food & drink",
+    "description": "Restaurant serving European sharing plates in Cebu Business Park.",
+    "interests": [
+      "Food Hunter"
+    ],
+    "itinerary_base_slug": "cebu",
+    "catalog_stop_id": "cebu-pig-and-palm",
+    "status": "accepted",
+    "decision_reason": "Primary source confirms this physical place and municipality; access, fees and practical arrangements require reconfirmation.",
+    "sources": {
+      "identity": {
+        "sourceName": "The Pig & Palm - official restaurant",
+        "sourceUrl": "https://thepigandpalm.ph/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "The Pig & Palm - official restaurant",
+        "sourceUrl": "https://thepigandpalm.ph/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": "The Pig & Palm - official restaurant",
+        "sourceUrl": "https://thepigandpalm.ph/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21",
+    "aliases": [],
+    "planning": {
+      "base_slug": "cebu",
+      "mode": "local",
+      "cluster": "cebu-pig-and-palm",
+      "minutes": 90,
+      "booking": "Contact the restaurant for table availability.",
+      "transport": "Arrange local transport to the published venue address; exact journey time is unverified.",
+      "accessibility": "Step-free access, toilets and assistance arrangements have not been verified.",
+      "requiresBooking": false,
+      "scheduling": "candidate"
+    }
+  },
+  {
+    "id": "cebu-turning-wheels-brewery",
+    "name": "Turning Wheels Brewery",
+    "destination_group": "Cebu",
+    "region": "Central Visayas",
+    "province": "Cebu",
+    "city_municipality": "Cebu City",
+    "barangay": null,
+    "address": "P. Almendras Street, Cebu City",
+    "latitude": null,
+    "longitude": null,
+    "category": "Food & drink",
+    "description": "Cebu craft brewery with an outdoor dining space.",
+    "interests": [
+      "Food Hunter"
+    ],
+    "itinerary_base_slug": "cebu",
+    "catalog_stop_id": "cebu-turning-wheels-brewery",
+    "status": "accepted",
+    "decision_reason": "Primary source confirms this physical place and municipality; access, fees and practical arrangements require reconfirmation.",
+    "sources": {
+      "identity": {
+        "sourceName": "Turning Wheels Brewery - official site",
+        "sourceUrl": "https://turningwheelsbeer.com/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Turning Wheels Brewery - official site",
+        "sourceUrl": "https://turningwheelsbeer.com/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": "Turning Wheels Brewery - official site",
+        "sourceUrl": "https://turningwheelsbeer.com/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21",
+    "aliases": [],
+    "planning": {
+      "base_slug": "cebu",
+      "mode": "local",
+      "cluster": "cebu-turning-wheels-brewery",
+      "minutes": 90,
+      "booking": "Confirm current service hours with the brewery; website hours conflict.",
+      "transport": "Arrange local transport to the published venue address; exact journey time is unverified.",
+      "accessibility": "Step-free access, toilets and assistance arrangements have not been verified.",
+      "requiresBooking": false,
+      "scheduling": "candidate",
+      "outdoor": true
+    }
+  },
+  {
+    "id": "cebu-abaca-baking-crossroads",
+    "name": "Abaca Baking Company - Crossroads",
+    "destination_group": "Cebu",
+    "region": "Central Visayas",
+    "province": "Cebu",
+    "city_municipality": "Cebu City",
+    "barangay": "Kasambagan",
+    "address": "Crossroads, Governor Cuenco Avenue, Kasambagan, Cebu City",
+    "latitude": null,
+    "longitude": null,
+    "category": "Food & drink",
+    "description": "Cafe and bakery listed among Crossroads Cebu's tenants.",
+    "interests": [
+      "Food Hunter"
+    ],
+    "itinerary_base_slug": "cebu",
+    "catalog_stop_id": "cebu-abaca-baking-crossroads",
+    "status": "accepted",
+    "decision_reason": "Primary source confirms this physical place and municipality; access, fees and practical arrangements require reconfirmation.",
+    "sources": {
+      "identity": {
+        "sourceName": "Crossroads Cebu - tenant directory",
+        "sourceUrl": "https://crossroadscebu.com/eat-drink/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Crossroads Cebu - tenant directory",
+        "sourceUrl": "https://crossroadscebu.com/eat-drink/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": "Crossroads Cebu - tenant directory",
+        "sourceUrl": "https://crossroadscebu.com/eat-drink/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21",
+    "aliases": [],
+    "planning": {
+      "base_slug": "cebu",
+      "mode": "local",
+      "cluster": "cebu-abaca-baking-crossroads",
+      "minutes": 60,
+      "booking": "Confirm current branch hours before visiting; directory hours may be old.",
+      "transport": "Arrange local transport to the published venue address; exact journey time is unverified.",
+      "accessibility": "Step-free access, toilets and assistance arrangements have not been verified.",
+      "requiresBooking": false,
+      "scheduling": "candidate"
+    }
+  },
+  {
+    "id": "bohol-baclayon-parish-museum",
+    "name": "Museo Parroquial de Baclayon",
+    "destination_group": "Bohol",
+    "region": "Central Visayas",
+    "province": "Bohol",
+    "city_municipality": "Baclayon",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Culture",
+    "description": "Church museum preserving liturgical objects and Boholano religious heritage.",
+    "interests": [
+      "Culture Seeker"
+    ],
+    "itinerary_base_slug": null,
+    "catalog_stop_id": null,
+    "status": "accepted",
+    "decision_reason": "Promoted previously verified editorial-surplus candidate. Primary source confirms this physical place and municipality. Identity review does not confirm present-day admission or access.",
+    "sources": {
+      "identity": {
+        "sourceName": "Municipality of Baclayon - parish museum",
+        "sourceUrl": "https://baclayon.bohol.gov.ph/museo-parroquial-de-baclayon/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Municipality of Baclayon - parish museum",
+        "sourceUrl": "https://baclayon.bohol.gov.ph/museo-parroquial-de-baclayon/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21",
+    "aliases": [],
+    "planning": {
+      "base_slug": null,
+      "mode": "separate-base",
+      "cluster": "bohol-baclayon-parish-museum",
+      "minutes": 90,
+      "booking": "Current public opening arrangements are unknown; confirm with the parish. The cited municipal feature describes a 2022 reopening.",
+      "transport": "Mainland destination outside the Panglao overnight base. Arrange an independent transfer or stay; no local Panglao routing is assumed.",
+      "accessibility": "Step-free access, toilets and assistance arrangements have not been verified.",
+      "requiresBooking": false,
+      "scheduling": "manual"
+    }
+  },
+  {
+    "id": "bohol-loboc-eco-adventure-park",
+    "name": "Loboc Eco-Tourism Adventure Park",
+    "destination_group": "Bohol",
+    "region": "Central Visayas",
+    "province": "Bohol",
+    "city_municipality": "Loboc",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Attractions",
+    "description": "Outdoor adventure park with zipline and cable-car activities.",
+    "interests": [
+      "Adventure Junkie"
+    ],
+    "itinerary_base_slug": null,
+    "catalog_stop_id": null,
+    "status": "accepted",
+    "decision_reason": "Promoted previously verified editorial-surplus candidate. Primary source confirms this physical place and municipality. Identity review does not confirm present-day admission or access.",
+    "sources": {
+      "identity": {
+        "sourceName": "Bohol Provincial Tourism - Loboc",
+        "sourceUrl": "https://tourism.bohol.gov.ph/visitbohol-loboc/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Bohol Provincial Tourism - Loboc",
+        "sourceUrl": "https://tourism.bohol.gov.ph/visitbohol-loboc/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21",
+    "aliases": [],
+    "planning": {
+      "base_slug": null,
+      "mode": "separate-base",
+      "cluster": "bohol-loboc-eco-adventure-park",
+      "minutes": 120,
+      "booking": "Confirm activity operations, booking and weather restrictions with the park.",
+      "transport": "Mainland destination outside the Panglao overnight base. Arrange an independent transfer or stay; no local Panglao routing is assumed.",
+      "accessibility": "Step-free access, toilets and assistance arrangements have not been verified.",
+      "requiresBooking": false,
+      "scheduling": "manual"
+    }
+  },
+  {
+    "id": "bohol-casa-rocha",
+    "name": "Casa Rocha",
+    "destination_group": "Bohol",
+    "region": "Central Visayas",
+    "province": "Bohol",
+    "city_municipality": "Tagbilaran City",
+    "barangay": null,
+    "address": "Calle Franklin, Sitio Ubos, Tagbilaran City",
+    "latitude": null,
+    "longitude": null,
+    "category": "Culture",
+    "description": "Historic tiled-roof house in Tagbilaran's Sitio Ubos heritage area.",
+    "interests": [
+      "Culture Seeker"
+    ],
+    "itinerary_base_slug": null,
+    "catalog_stop_id": null,
+    "status": "accepted",
+    "decision_reason": "Promoted previously verified editorial-surplus candidate. Primary source confirms this physical place and municipality. Identity review does not confirm present-day admission or access.",
+    "sources": {
+      "identity": {
+        "sourceName": "National Museum - Casa Rocha",
+        "sourceUrl": "https://www.nationalmuseum.gov.ph/2022/08/25/casa-rocha-balay-na-tisa-sa-bohol/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "National Museum - Casa Rocha",
+        "sourceUrl": "https://www.nationalmuseum.gov.ph/2022/08/25/casa-rocha-balay-na-tisa-sa-bohol/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": "National Museum - Casa Rocha",
+        "sourceUrl": "https://www.nationalmuseum.gov.ph/2022/08/25/casa-rocha-balay-na-tisa-sa-bohol/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21",
+    "aliases": [],
+    "planning": {
+      "base_slug": null,
+      "mode": "separate-base",
+      "cluster": "bohol-casa-rocha",
+      "minutes": 45,
+      "booking": "Private heritage property; public interior access has not been established. Arrange permission before planning a visit.",
+      "transport": "Mainland destination outside the Panglao overnight base. Arrange an independent transfer or stay; no local Panglao routing is assumed.",
+      "accessibility": "Step-free access, toilets and assistance arrangements have not been verified.",
+      "requiresBooking": false,
+      "scheduling": "manual"
+    }
+  },
+  {
+    "id": "bohol-philippine-tarsier-sanctuary",
+    "name": "Philippine Tarsier Sanctuary",
+    "destination_group": "Bohol",
+    "region": "Central Visayas",
+    "province": "Bohol",
+    "city_municipality": "Corella",
+    "barangay": "Canapnapan",
+    "address": "km. 14, Canapnapan, Corella, Bohol",
+    "latitude": null,
+    "longitude": null,
+    "category": "Nature",
+    "description": "Conservation sanctuary for Philippine tarsiers in Corella.",
+    "interests": [
+      "Nature Lover"
+    ],
+    "itinerary_base_slug": null,
+    "catalog_stop_id": null,
+    "status": "accepted",
+    "decision_reason": "Primary source confirms this physical place and municipality. Identity review does not confirm present-day admission or access.",
+    "sources": {
+      "identity": {
+        "sourceName": "Bohol Provincial Tourism - Corella",
+        "sourceUrl": "https://tourism.bohol.gov.ph/visitbohol-corella-3/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Bohol Provincial Tourism - Corella",
+        "sourceUrl": "https://tourism.bohol.gov.ph/visitbohol-corella-3/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": "Bohol Provincial Tourism - Corella",
+        "sourceUrl": "https://tourism.bohol.gov.ph/visitbohol-corella-3/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21",
+    "aliases": [],
+    "planning": {
+      "base_slug": null,
+      "mode": "separate-base",
+      "cluster": "bohol-philippine-tarsier-sanctuary",
+      "minutes": 90,
+      "booking": "Confirm sanctuary opening arrangements and visitor rules.",
+      "transport": "Mainland destination outside the Panglao overnight base. Arrange an independent transfer or stay; no local Panglao routing is assumed.",
+      "accessibility": "Step-free access, toilets and assistance arrangements have not been verified.",
+      "requiresBooking": false,
+      "scheduling": "manual"
+    }
+  },
+  {
+    "id": "bohol-green-thumb-farm",
+    "name": "Green Thumb Farm",
+    "destination_group": "Bohol",
+    "region": "Central Visayas",
+    "province": "Bohol",
+    "city_municipality": "Corella",
+    "barangay": "Sambog",
+    "address": "Purok 4, Barangay Sambog, Corella, Bohol",
+    "latitude": null,
+    "longitude": null,
+    "category": "Food & drink",
+    "description": "Farm and alfresco restaurant known for mushroom dishes.",
+    "interests": [
+      "Food Hunter"
+    ],
+    "itinerary_base_slug": null,
+    "catalog_stop_id": null,
+    "status": "accepted",
+    "decision_reason": "Primary source confirms this physical place and municipality. Identity review does not confirm present-day admission or access.",
+    "sources": {
+      "identity": {
+        "sourceName": "Bohol Provincial Tourism - Corella",
+        "sourceUrl": "https://tourism.bohol.gov.ph/visitbohol-corella-3/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Bohol Provincial Tourism - Corella",
+        "sourceUrl": "https://tourism.bohol.gov.ph/visitbohol-corella-3/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": "Bohol Provincial Tourism - Corella",
+        "sourceUrl": "https://tourism.bohol.gov.ph/visitbohol-corella-3/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21",
+    "aliases": [],
+    "planning": {
+      "base_slug": null,
+      "mode": "separate-base",
+      "cluster": "bohol-green-thumb-farm",
+      "minutes": 90,
+      "booking": "Contact the farm for current dining and farm-visit arrangements.",
+      "transport": "Mainland destination outside the Panglao overnight base. Arrange an independent transfer or stay; no local Panglao routing is assumed.",
+      "accessibility": "Step-free access, toilets and assistance arrangements have not been verified.",
+      "requiresBooking": false,
+      "scheduling": "manual",
+      "outdoor": true
+    }
+  },
+  {
+    "id": "bohol-quinale-beach",
+    "name": "Quinale Beach",
+    "destination_group": "Bohol",
+    "region": "Central Visayas",
+    "province": "Bohol",
+    "city_municipality": "Anda",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Nature",
+    "description": "White-sand beach in the coastal town of Anda.",
+    "interests": [
+      "Nature Lover"
+    ],
+    "itinerary_base_slug": null,
+    "catalog_stop_id": null,
+    "status": "accepted",
+    "decision_reason": "Primary source confirms this physical place and municipality. Identity review does not confirm present-day admission or access.",
+    "sources": {
+      "identity": {
+        "sourceName": "Bohol Provincial Tourism - Anda",
+        "sourceUrl": "https://tourism.bohol.gov.ph/visitbohol-anda/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Bohol Provincial Tourism - Anda",
+        "sourceUrl": "https://tourism.bohol.gov.ph/visitbohol-anda/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21",
+    "aliases": [],
+    "planning": {
+      "base_slug": null,
+      "mode": "separate-base",
+      "cluster": "bohol-quinale-beach",
+      "minutes": 120,
+      "booking": "Current admission fees, opening hours and booking requirements are unknown; check with local tourism.",
+      "transport": "Mainland destination outside the Panglao overnight base. Arrange an independent transfer or stay; no local Panglao routing is assumed.",
+      "accessibility": "Step-free access, toilets and assistance arrangements have not been verified.",
+      "requiresBooking": false,
+      "scheduling": "manual"
+    }
+  },
+  {
+    "id": "bohol-cabagnow-cave-pool",
+    "name": "Cabagnow Cave Pool",
+    "destination_group": "Bohol",
+    "region": "Central Visayas",
+    "province": "Bohol",
+    "city_municipality": "Anda",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Nature",
+    "description": "Limestone cave pool among Anda's named natural attractions.",
+    "interests": [
+      "Nature Lover"
+    ],
+    "itinerary_base_slug": null,
+    "catalog_stop_id": null,
+    "status": "accepted",
+    "decision_reason": "Primary source confirms this physical place and municipality. Identity review does not confirm present-day admission or access.",
+    "sources": {
+      "identity": {
+        "sourceName": "Bohol Provincial Tourism - Anda",
+        "sourceUrl": "https://tourism.bohol.gov.ph/visitbohol-anda/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Bohol Provincial Tourism - Anda",
+        "sourceUrl": "https://tourism.bohol.gov.ph/visitbohol-anda/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21",
+    "aliases": [],
+    "planning": {
+      "base_slug": null,
+      "mode": "separate-base",
+      "cluster": "bohol-cabagnow-cave-pool",
+      "minutes": 90,
+      "booking": "Confirm current access and local guide arrangements with Anda Tourism.",
+      "transport": "Mainland destination outside the Panglao overnight base. Arrange an independent transfer or stay; no local Panglao routing is assumed.",
+      "accessibility": "Step-free access, toilets and assistance arrangements have not been verified.",
+      "requiresBooking": false,
+      "scheduling": "manual"
+    }
+  },
+  {
+    "id": "bohol-danao-adventure-park",
+    "name": "Danao Adventure Park",
+    "destination_group": "Bohol",
+    "region": "Central Visayas",
+    "province": "Bohol",
+    "city_municipality": "Danao",
+    "barangay": "Magtangtang",
+    "address": "Magtangtang, Danao, Bohol",
+    "latitude": null,
+    "longitude": null,
+    "category": "Attractions",
+    "description": "Hillside eco-adventure park in Magtangtang.",
+    "interests": [
+      "Adventure Junkie"
+    ],
+    "itinerary_base_slug": null,
+    "catalog_stop_id": null,
+    "status": "accepted",
+    "decision_reason": "Primary source confirms this physical place and municipality. Identity review does not confirm present-day admission or access.",
+    "sources": {
+      "identity": {
+        "sourceName": "Bohol Provincial Tourism - Danao",
+        "sourceUrl": "https://tourism.bohol.gov.ph/visitbohol-danao/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Bohol Provincial Tourism - Danao",
+        "sourceUrl": "https://tourism.bohol.gov.ph/visitbohol-danao/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": "Bohol Provincial Tourism - Danao",
+        "sourceUrl": "https://tourism.bohol.gov.ph/visitbohol-danao/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21",
+    "aliases": [],
+    "planning": {
+      "base_slug": null,
+      "mode": "separate-base",
+      "cluster": "bohol-danao-adventure-park",
+      "minutes": 180,
+      "booking": "Confirm which activities are operating, eligibility requirements and booking.",
+      "transport": "Mainland destination outside the Panglao overnight base. Arrange an independent transfer or stay; no local Panglao routing is assumed.",
+      "accessibility": "Step-free access, toilets and assistance arrangements have not been verified.",
+      "requiresBooking": false,
+      "scheduling": "manual"
+    }
+  },
+  {
+    "id": "bohol-edith-grand-garden",
+    "name": "Edith Grand Garden Wellness Resort & Adventure Park",
+    "destination_group": "Bohol",
+    "region": "Central Visayas",
+    "province": "Bohol",
+    "city_municipality": "Baclayon",
+    "barangay": "Tanday",
+    "address": "Tanday, Baclayon, Bohol",
+    "latitude": null,
+    "longitude": null,
+    "category": "Attractions",
+    "description": "Garden resort and adventure park in the inland barangay of Tanday.",
+    "interests": [
+      "Adventure Junkie"
+    ],
+    "itinerary_base_slug": null,
+    "catalog_stop_id": null,
+    "status": "accepted",
+    "decision_reason": "Primary source confirms this physical place and municipality. Identity review does not confirm present-day admission or access.",
+    "sources": {
+      "identity": {
+        "sourceName": "Municipality of Baclayon - tourism",
+        "sourceUrl": "https://baclayon.bohol.gov.ph/tourism/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Municipality of Baclayon - tourism",
+        "sourceUrl": "https://baclayon.bohol.gov.ph/tourism/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": "Municipality of Baclayon - tourism",
+        "sourceUrl": "https://baclayon.bohol.gov.ph/tourism/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21",
+    "aliases": [],
+    "planning": {
+      "base_slug": null,
+      "mode": "separate-base",
+      "cluster": "bohol-edith-grand-garden",
+      "minutes": 120,
+      "booking": "Confirm day-visitor access, activities and current admission with the resort.",
+      "transport": "Mainland destination outside the Panglao overnight base. Arrange an independent transfer or stay; no local Panglao routing is assumed.",
+      "accessibility": "Step-free access, toilets and assistance arrangements have not been verified.",
+      "requiresBooking": false,
+      "scheduling": "manual"
+    }
+  },
+  {
+    "id": "bohol-saffron-restaurant",
+    "name": "Saffron Restaurant - Amorita Resort",
+    "destination_group": "Bohol",
+    "region": "Central Visayas",
+    "province": "Bohol",
+    "city_municipality": "Panglao",
+    "barangay": "Tawala",
+    "address": "Amorita Resort, 1 Ester A. Lim Drive, Tawala, Panglao, Bohol",
+    "latitude": null,
+    "longitude": null,
+    "category": "Food & drink",
+    "description": "Amorita's restaurant with Filipino and international dishes.",
+    "interests": [
+      "Food Hunter"
+    ],
+    "itinerary_base_slug": "bohol",
+    "catalog_stop_id": "bohol-saffron-restaurant",
+    "status": "accepted",
+    "decision_reason": "Primary source confirms this physical place and municipality. Identity review does not confirm present-day admission or access.",
+    "sources": {
+      "identity": {
+        "sourceName": "Amorita Resort - Saffron menu",
+        "sourceUrl": "https://www.amoritaresort.com/saffron-menu",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Amorita Resort - Saffron menu",
+        "sourceUrl": "https://www.amoritaresort.com/saffron-menu",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": "Amorita Resort - Saffron menu",
+        "sourceUrl": "https://www.amoritaresort.com/saffron-menu",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21",
+    "aliases": [],
+    "planning": {
+      "base_slug": "bohol",
+      "mode": "local",
+      "cluster": "bohol-saffron-restaurant",
+      "minutes": 90,
+      "booking": "Ask Amorita about dining reservations and non-staying guest access.",
+      "transport": "Use local transport to the published Panglao location; exact travel time has not been verified.",
+      "accessibility": "Step-free access, toilets and assistance arrangements have not been verified.",
+      "requiresBooking": false,
+      "scheduling": "candidate"
+    }
+  },
+  {
+    "id": "bohol-latavola-restaurant",
+    "name": "Latavola Italian Restaurant",
+    "destination_group": "Bohol",
+    "region": "Central Visayas",
+    "province": "Bohol",
+    "city_municipality": "Panglao",
+    "barangay": "Tawala",
+    "address": "Tawala, Panglao, Bohol",
+    "latitude": null,
+    "longitude": null,
+    "category": "Food & drink",
+    "description": "Italian restaurant listed in Panglao's tourism business directory.",
+    "interests": [
+      "Food Hunter"
+    ],
+    "itinerary_base_slug": "bohol",
+    "catalog_stop_id": "bohol-latavola-restaurant",
+    "status": "accepted",
+    "decision_reason": "Primary source confirms this physical place and municipality. Identity review does not confirm present-day admission or access.",
+    "sources": {
+      "identity": {
+        "sourceName": "Panglao Tourism - Latavola",
+        "sourceUrl": "https://www.panglaotourism.com/directory/latavola-italian-restaurant/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Panglao Tourism - Latavola",
+        "sourceUrl": "https://www.panglaotourism.com/directory/latavola-italian-restaurant/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": "Panglao Tourism - Latavola",
+        "sourceUrl": "https://www.panglaotourism.com/directory/latavola-italian-restaurant/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21",
+    "aliases": [],
+    "planning": {
+      "base_slug": "bohol",
+      "mode": "local",
+      "cluster": "bohol-latavola-restaurant",
+      "minutes": 75,
+      "booking": "Confirm current hours and table availability; the directory's accreditation expiry is historical.",
+      "transport": "Use local transport to the published Panglao location; exact travel time has not been verified.",
+      "accessibility": "Step-free access, toilets and assistance arrangements have not been verified.",
+      "requiresBooking": false,
+      "scheduling": "candidate"
+    }
+  },
+  {
+    "id": "bohol-prawn-farm-bolod",
+    "name": "The Prawn Farm Grill and Seafoods - Bolod",
+    "destination_group": "Bohol",
+    "region": "Central Visayas",
+    "province": "Bohol",
+    "city_municipality": "Panglao",
+    "barangay": "Bolod",
+    "address": "Purok 4, Bolod, Panglao, Bohol",
+    "latitude": null,
+    "longitude": null,
+    "category": "Food & drink",
+    "description": "Restaurant in Bolod listed by Panglao Tourism.",
+    "interests": [
+      "Food Hunter"
+    ],
+    "itinerary_base_slug": "bohol",
+    "catalog_stop_id": "bohol-prawn-farm-bolod",
+    "status": "accepted",
+    "decision_reason": "Primary source confirms this physical place and municipality. Identity review does not confirm present-day admission or access.",
+    "sources": {
+      "identity": {
+        "sourceName": "Panglao Tourism - The Prawn Farm",
+        "sourceUrl": "https://www.panglaotourism.com/directory/the-prawn-farm-grill-and-seafoods/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Panglao Tourism - The Prawn Farm",
+        "sourceUrl": "https://www.panglaotourism.com/directory/the-prawn-farm-grill-and-seafoods/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": "Panglao Tourism - The Prawn Farm",
+        "sourceUrl": "https://www.panglaotourism.com/directory/the-prawn-farm-grill-and-seafoods/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21",
+    "aliases": [],
+    "planning": {
+      "base_slug": "bohol",
+      "mode": "local",
+      "cluster": "bohol-prawn-farm-bolod",
+      "minutes": 90,
+      "booking": "Confirm current hours and table availability; the directory's accreditation expiry is historical.",
+      "transport": "Use local transport to the published Panglao location; exact travel time has not been verified.",
+      "accessibility": "Step-free access, toilets and assistance arrangements have not been verified.",
+      "requiresBooking": false,
+      "scheduling": "candidate"
+    }
+  },
+  {
+    "id": "boracay-station-x",
+    "name": "Station X",
+    "destination_group": "Boracay",
+    "region": "Western Visayas",
+    "province": "Aklan",
+    "city_municipality": "Malay",
+    "barangay": null,
+    "address": "Hue Hotels and Resorts, Station 2, Main Road, Boracay, Malay, Aklan",
+    "latitude": null,
+    "longitude": null,
+    "category": "Parks & markets",
+    "description": "Lifestyle courtyard and community venue at Hue Hotels.",
+    "interests": [
+      "City Wanderer"
+    ],
+    "itinerary_base_slug": "boracay",
+    "catalog_stop_id": "boracay-station-x",
+    "status": "accepted",
+    "decision_reason": "Promoted previously verified editorial-surplus candidate. Operator or developer identifies a physical Boracay venue; municipality is resolved from the official island-to-Malay reference. Identity review does not guarantee current access.",
+    "sources": {
+      "identity": {
+        "sourceName": "Station X - official community page",
+        "sourceUrl": "https://www.stationx.ph/tenants",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Philippine Information Agency - Boracay in Malay, Aklan",
+        "sourceUrl": "https://mirror.pia.gov.ph/news/2023/01/13/isla-it-boracay-nakabaton-masobra-17m-turista-ku-2022",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": "Station X - official community page",
+        "sourceUrl": "https://www.stationx.ph/tenants",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21",
+    "aliases": [],
+    "planning": {
+      "base_slug": "boracay",
+      "mode": "local",
+      "cluster": "boracay-station-x",
+      "minutes": 90,
+      "booking": "Confirm available tenants and activities directly. Historical tenant information on the website may be stale.",
+      "transport": "Arrange local island transport or walking from nearby accommodation; exact travel time is unverified.",
+      "accessibility": "Step-free access, toilets and assistance arrangements have not been verified.",
+      "requiresBooking": false,
+      "scheduling": "candidate",
+      "outdoor": true
+    }
+  },
+  {
+    "id": "boracay-muchos",
+    "name": "Muchos",
+    "destination_group": "Boracay",
+    "region": "Western Visayas",
+    "province": "Aklan",
+    "city_municipality": "Malay",
+    "barangay": null,
+    "address": "Ground floor, Zuzuni Hotel, Station 1, White Beach, Boracay, Malay, Aklan",
+    "latitude": null,
+    "longitude": null,
+    "category": "Food & drink",
+    "description": "Latin American restaurant on Station 1's beachfront.",
+    "interests": [
+      "Food Hunter"
+    ],
+    "itinerary_base_slug": "boracay",
+    "catalog_stop_id": "boracay-muchos",
+    "status": "accepted",
+    "decision_reason": "Operator or developer identifies a physical Boracay venue; municipality is resolved from the official island-to-Malay reference. Identity review does not guarantee current access.",
+    "sources": {
+      "identity": {
+        "sourceName": "Muchos - official restaurant",
+        "sourceUrl": "https://muchosboracay.com/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Philippine Information Agency - Boracay in Malay, Aklan",
+        "sourceUrl": "https://mirror.pia.gov.ph/news/2023/01/13/isla-it-boracay-nakabaton-masobra-17m-turista-ku-2022",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": "Muchos - official restaurant",
+        "sourceUrl": "https://muchosboracay.com/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21",
+    "aliases": [],
+    "planning": {
+      "base_slug": "boracay",
+      "mode": "local",
+      "cluster": "boracay-muchos",
+      "minutes": 90,
+      "booking": "Contact Muchos for table availability.",
+      "transport": "Arrange local island transport or walking from nearby accommodation; exact travel time is unverified.",
+      "accessibility": "Step-free access, toilets and assistance arrangements have not been verified.",
+      "requiresBooking": false,
+      "scheduling": "candidate"
+    }
+  },
+  {
+    "id": "boracay-jammers-beach-shack",
+    "name": "Jammers Beach Shack",
+    "destination_group": "Boracay",
+    "region": "Western Visayas",
+    "province": "Aklan",
+    "city_municipality": "Malay",
+    "barangay": null,
+    "address": "Beachfront, D'Mall, Station 2, Malay, Aklan",
+    "latitude": null,
+    "longitude": null,
+    "category": "Food & drink",
+    "description": "Beachfront restaurant serving burgers and other casual meals.",
+    "interests": [
+      "Food Hunter"
+    ],
+    "itinerary_base_slug": "boracay",
+    "catalog_stop_id": "boracay-jammers-beach-shack",
+    "status": "accepted",
+    "decision_reason": "Operator or developer identifies a physical Boracay venue; municipality is resolved from the official island-to-Malay reference. Identity review does not guarantee current access.",
+    "sources": {
+      "identity": {
+        "sourceName": "Jammers Beach Shack - official restaurant",
+        "sourceUrl": "https://jammersbeachshack.com/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Jammers Beach Shack - official restaurant",
+        "sourceUrl": "https://jammersbeachshack.com/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": "Jammers Beach Shack - official restaurant",
+        "sourceUrl": "https://jammersbeachshack.com/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21",
+    "aliases": [],
+    "planning": {
+      "base_slug": "boracay",
+      "mode": "local",
+      "cluster": "boracay-jammers-beach-shack",
+      "minutes": 90,
+      "booking": "Contact Jammers for event or table arrangements.",
+      "transport": "Arrange local island transport or walking from nearby accommodation; exact travel time is unverified.",
+      "accessibility": "Step-free access, toilets and assistance arrangements have not been verified.",
+      "requiresBooking": false,
+      "scheduling": "candidate"
+    }
+  },
+  {
+    "id": "boracay-aria-cucina",
+    "name": "Aria Cucina Italiana",
+    "destination_group": "Boracay",
+    "region": "Western Visayas",
+    "province": "Aklan",
+    "city_municipality": "Malay",
+    "barangay": null,
+    "address": "Beachfront, D'Mall, Boracay, Malay, Aklan",
+    "latitude": null,
+    "longitude": null,
+    "category": "Food & drink",
+    "description": "Italian restaurant at D'Mall's beach frontage.",
+    "interests": [
+      "Food Hunter"
+    ],
+    "itinerary_base_slug": "boracay",
+    "catalog_stop_id": "boracay-aria-cucina",
+    "status": "accepted",
+    "decision_reason": "Operator or developer identifies a physical Boracay venue; municipality is resolved from the official island-to-Malay reference. Identity review does not guarantee current access.",
+    "sources": {
+      "identity": {
+        "sourceName": "Boracay Entertainment Resources Inc. - official business directory",
+        "sourceUrl": "https://www.careers.aria.com.ph/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Philippine Information Agency - Boracay in Malay, Aklan",
+        "sourceUrl": "https://mirror.pia.gov.ph/news/2023/01/13/isla-it-boracay-nakabaton-masobra-17m-turista-ku-2022",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": "Boracay Entertainment Resources Inc. - official business directory",
+        "sourceUrl": "https://www.careers.aria.com.ph/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21",
+    "aliases": [],
+    "planning": {
+      "base_slug": "boracay",
+      "mode": "local",
+      "cluster": "boracay-aria-cucina",
+      "minutes": 90,
+      "booking": "Current fees, hours and table booking requirements are unknown; confirm directly with the venue.",
+      "transport": "Arrange local island transport or walking from nearby accommodation; exact travel time is unverified.",
+      "accessibility": "Step-free access, toilets and assistance arrangements have not been verified.",
+      "requiresBooking": false,
+      "scheduling": "candidate"
+    }
+  },
+  {
+    "id": "boracay-hama",
+    "name": "Hama Japanese Restaurant",
+    "destination_group": "Boracay",
+    "region": "Western Visayas",
+    "province": "Aklan",
+    "city_municipality": "Malay",
+    "barangay": null,
+    "address": "D'Mall Plaza, Station 2, Boracay, Malay, Aklan",
+    "latitude": null,
+    "longitude": null,
+    "category": "Food & drink",
+    "description": "Japanese restaurant at D'Mall Plaza.",
+    "interests": [
+      "Food Hunter"
+    ],
+    "itinerary_base_slug": "boracay",
+    "catalog_stop_id": "boracay-hama",
+    "status": "accepted",
+    "decision_reason": "Operator or developer identifies a physical Boracay venue; municipality is resolved from the official island-to-Malay reference. Identity review does not guarantee current access.",
+    "sources": {
+      "identity": {
+        "sourceName": "Hama - official restaurant",
+        "sourceUrl": "https://www.hama.com.ph/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Philippine Information Agency - Boracay in Malay, Aklan",
+        "sourceUrl": "https://mirror.pia.gov.ph/news/2023/01/13/isla-it-boracay-nakabaton-masobra-17m-turista-ku-2022",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": "Hama - official restaurant",
+        "sourceUrl": "https://www.hama.com.ph/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21",
+    "aliases": [],
+    "planning": {
+      "base_slug": "boracay",
+      "mode": "local",
+      "cluster": "boracay-hama",
+      "minutes": 90,
+      "booking": "Current fees, hours and table booking requirements are unknown; confirm directly with the venue.",
+      "transport": "Arrange local island transport or walking from nearby accommodation; exact travel time is unverified.",
+      "accessibility": "Step-free access, toilets and assistance arrangements have not been verified.",
+      "requiresBooking": false,
+      "scheduling": "candidate"
+    }
+  },
+  {
+    "id": "boracay-cafe-del-sol",
+    "name": "Cafe del Sol",
+    "destination_group": "Boracay",
+    "region": "Western Visayas",
+    "province": "Aklan",
+    "city_municipality": "Malay",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Food & drink",
+    "description": "Coffee shop operated by Boracay Entertainment Resources Inc.",
+    "interests": [
+      "Food Hunter"
+    ],
+    "itinerary_base_slug": "boracay",
+    "catalog_stop_id": "boracay-cafe-del-sol",
+    "status": "accepted",
+    "decision_reason": "Operator or developer identifies a physical Boracay venue; municipality is resolved from the official island-to-Malay reference. Identity review does not guarantee current access.",
+    "sources": {
+      "identity": {
+        "sourceName": "Boracay Entertainment Resources Inc. - official business directory",
+        "sourceUrl": "https://www.careers.aria.com.ph/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Philippine Information Agency - Boracay in Malay, Aklan",
+        "sourceUrl": "https://mirror.pia.gov.ph/news/2023/01/13/isla-it-boracay-nakabaton-masobra-17m-turista-ku-2022",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21",
+    "aliases": [],
+    "planning": {
+      "base_slug": "boracay",
+      "mode": "local",
+      "cluster": "boracay-cafe-del-sol",
+      "minutes": 60,
+      "booking": "Confirm the current branch entrance and hours; a precise address was not established from the reviewed operator page.",
+      "transport": "Arrange local island transport or walking from nearby accommodation; exact travel time is unverified.",
+      "accessibility": "Step-free access, toilets and assistance arrangements have not been verified.",
+      "requiresBooking": false,
+      "scheduling": "manual"
+    }
+  },
+  {
+    "id": "boracay-beach-truck",
+    "name": "Boracay Beach Truck",
+    "destination_group": "Boracay",
+    "region": "Western Visayas",
+    "province": "Aklan",
+    "city_municipality": "Malay",
+    "barangay": null,
+    "address": "Main entrance, D'Mall, Station 2, Boracay, Malay, Aklan",
+    "latitude": null,
+    "longitude": null,
+    "category": "Food & drink",
+    "description": "Rice-bowl food venue at D'Mall's main entrance.",
+    "interests": [
+      "Food Hunter"
+    ],
+    "itinerary_base_slug": "boracay",
+    "catalog_stop_id": "boracay-beach-truck",
+    "status": "accepted",
+    "decision_reason": "Operator or developer identifies a physical Boracay venue; municipality is resolved from the official island-to-Malay reference. Identity review does not guarantee current access.",
+    "sources": {
+      "identity": {
+        "sourceName": "Boracay Entertainment Resources Inc. - official business directory",
+        "sourceUrl": "https://www.careers.aria.com.ph/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Philippine Information Agency - Boracay in Malay, Aklan",
+        "sourceUrl": "https://mirror.pia.gov.ph/news/2023/01/13/isla-it-boracay-nakabaton-masobra-17m-turista-ku-2022",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": "Boracay Entertainment Resources Inc. - official business directory",
+        "sourceUrl": "https://www.careers.aria.com.ph/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21",
+    "aliases": [],
+    "planning": {
+      "base_slug": "boracay",
+      "mode": "local",
+      "cluster": "boracay-beach-truck",
+      "minutes": 60,
+      "booking": "Current fees, hours and table booking requirements are unknown; confirm directly with the venue.",
+      "transport": "Arrange local island transport or walking from nearby accommodation; exact travel time is unverified.",
+      "accessibility": "Step-free access, toilets and assistance arrangements have not been verified.",
+      "requiresBooking": false,
+      "scheduling": "candidate"
+    }
+  },
+  {
+    "id": "boracay-dinibeach-bar",
+    "name": "Dinibeach Bar & Restaurant",
+    "destination_group": "Boracay",
+    "region": "Western Visayas",
+    "province": "Aklan",
+    "city_municipality": "Malay",
+    "barangay": null,
+    "address": "Diniwid Beach, Boracay, Malay, Aklan",
+    "latitude": null,
+    "longitude": null,
+    "category": "Food & drink",
+    "description": "Beachfront dining venue associated with Diniview Villa Resort.",
+    "interests": [
+      "Food Hunter"
+    ],
+    "itinerary_base_slug": "boracay",
+    "catalog_stop_id": "boracay-dinibeach-bar",
+    "status": "accepted",
+    "decision_reason": "Operator or developer identifies a physical Boracay venue; municipality is resolved from the official island-to-Malay reference. Identity review does not guarantee current access.",
+    "sources": {
+      "identity": {
+        "sourceName": "Diniview Villa Resort - official restaurant information",
+        "sourceUrl": "https://diniviewboracay.com/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Diniview Villa Resort - official restaurant information",
+        "sourceUrl": "https://diniviewboracay.com/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": "Diniview Villa Resort - official restaurant information",
+        "sourceUrl": "https://diniviewboracay.com/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21",
+    "aliases": [],
+    "planning": {
+      "base_slug": "boracay",
+      "mode": "local",
+      "cluster": "boracay-dinibeach-bar",
+      "minutes": 90,
+      "booking": "Confirm table availability and access from the public road.",
+      "transport": "Reach Diniwid via local transport, then confirm the beachfront approach. Path conditions and precise travel time are unverified.",
+      "accessibility": "Step-free access, toilets and assistance arrangements have not been verified.",
+      "requiresBooking": false,
+      "scheduling": "candidate",
+      "outdoor": true
+    }
+  },
+  {
+    "id": "boracay-citymall",
+    "name": "CityMall Boracay",
+    "destination_group": "Boracay",
+    "region": "Western Visayas",
+    "province": "Aklan",
+    "city_municipality": "Malay",
+    "barangay": null,
+    "address": "Diniwid Beach Road and Boracay Tambisaan Jetty Port Road, Boracay, Malay, Aklan",
+    "latitude": null,
+    "longitude": null,
+    "category": "Parks & markets",
+    "description": "Community shopping mall away from White Beach.",
+    "interests": [
+      "City Wanderer"
+    ],
+    "itinerary_base_slug": "boracay",
+    "catalog_stop_id": "boracay-citymall",
+    "status": "accepted",
+    "decision_reason": "Operator or developer identifies a physical Boracay venue; municipality is resolved from the official island-to-Malay reference. Identity review does not guarantee current access.",
+    "sources": {
+      "identity": {
+        "sourceName": "DoubleDragon - CityMall Boracay",
+        "sourceUrl": "https://www.doubledragon.com.ph/article/boracay-gets-first-real-mall",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Philippine Information Agency - Boracay in Malay, Aklan",
+        "sourceUrl": "https://mirror.pia.gov.ph/news/2023/01/13/isla-it-boracay-nakabaton-masobra-17m-turista-ku-2022",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": "DoubleDragon - CityMall Boracay",
+        "sourceUrl": "https://www.doubledragon.com.ph/article/boracay-gets-first-real-mall",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21",
+    "aliases": [],
+    "planning": {
+      "base_slug": "boracay",
+      "mode": "local",
+      "cluster": "boracay-citymall",
+      "minutes": 90,
+      "booking": "Confirm current mall and individual tenant hours.",
+      "transport": "Arrange local island transport or walking from nearby accommodation; exact travel time is unverified.",
+      "accessibility": "Step-free access, toilets and assistance arrangements have not been verified.",
+      "requiresBooking": false,
+      "scheduling": "candidate"
+    }
+  },
+  {
+    "id": "boracay-sirena",
+    "name": "Sirena Restaurant & Clifftop Bar",
+    "destination_group": "Boracay",
+    "region": "Western Visayas",
+    "province": "Aklan",
+    "city_municipality": "Malay",
+    "barangay": "Yapak",
+    "address": "Shangri-La Boracay, adjacent to resort jetty, Yapak, Malay, Aklan",
+    "latitude": null,
+    "longitude": null,
+    "category": "Food & drink",
+    "description": "Clifftop seafood restaurant within Shangri-La Boracay.",
+    "interests": [
+      "Food Hunter"
+    ],
+    "itinerary_base_slug": "boracay",
+    "catalog_stop_id": "boracay-sirena",
+    "status": "accepted",
+    "decision_reason": "Operator or developer identifies a physical Boracay venue; municipality is resolved from the official island-to-Malay reference. Identity review does not guarantee current access.",
+    "sources": {
+      "identity": {
+        "sourceName": "Shangri-La Boracay - Sirena",
+        "sourceUrl": "https://www.shangri-la.com/restaurants-bars/boracay/boracayresort/sirena/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Shangri-La Boracay - Sirena",
+        "sourceUrl": "https://www.shangri-la.com/restaurants-bars/boracay/boracayresort/sirena/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": "Shangri-La Boracay - Sirena",
+        "sourceUrl": "https://www.shangri-la.com/restaurants-bars/boracay/boracayresort/sirena/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21",
+    "aliases": [],
+    "planning": {
+      "base_slug": "boracay",
+      "mode": "local",
+      "cluster": "boracay-sirena",
+      "minutes": 90,
+      "booking": "Reserve with Shangri-La and confirm access for guests staying elsewhere.",
+      "transport": "Arrange local island transport or walking from nearby accommodation; exact travel time is unverified.",
+      "accessibility": "Step-free access, toilets and assistance arrangements have not been verified.",
+      "requiresBooking": false,
+      "scheduling": "candidate",
+      "outdoor": true
+    }
+  },
+  {
+    "id": "boracay-los-indios-bravos",
+    "name": "Los Indios Bravos",
+    "destination_group": "Boracay",
+    "region": "Western Visayas",
+    "province": "Aklan",
+    "city_municipality": "Malay",
+    "barangay": "Balabag",
+    "address": "White House Beach Resort, Station 1, 704 Sitio Pinaungon, Balabag, Boracay, Malay, Aklan",
+    "latitude": null,
+    "longitude": null,
+    "category": "Food & drink",
+    "description": "Gastropub serving Filipino craft beers and pub dishes.",
+    "interests": [
+      "Food Hunter"
+    ],
+    "itinerary_base_slug": "boracay",
+    "catalog_stop_id": "boracay-los-indios-bravos",
+    "status": "accepted",
+    "decision_reason": "Operator or developer identifies a physical Boracay venue; municipality is resolved from the official island-to-Malay reference. Identity review does not guarantee current access.",
+    "sources": {
+      "identity": {
+        "sourceName": "Los Indios Bravos - official restaurant",
+        "sourceUrl": "https://www.losindiosbravos.com/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Los Indios Bravos - official restaurant",
+        "sourceUrl": "https://www.losindiosbravos.com/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": "Los Indios Bravos - official restaurant",
+        "sourceUrl": "https://www.losindiosbravos.com/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21",
+    "aliases": [],
+    "planning": {
+      "base_slug": "boracay",
+      "mode": "local",
+      "cluster": "boracay-los-indios-bravos",
+      "minutes": 90,
+      "booking": "Contact the restaurant for current table availability.",
+      "transport": "Arrange local island transport or walking from nearby accommodation; exact travel time is unverified.",
+      "accessibility": "Step-free access, toilets and assistance arrangements have not been verified.",
+      "requiresBooking": false,
+      "scheduling": "candidate"
+    }
+  },
+  {
+    "id": "boracay-sands-bar-restaurant",
+    "name": "Sands Bar & Restaurant",
+    "destination_group": "Boracay",
+    "region": "Western Visayas",
+    "province": "Aklan",
+    "city_municipality": "Malay",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Food & drink",
+    "description": "Boracay Sands Hotel's beachfront dining and drinks venue.",
+    "interests": [
+      "Food Hunter"
+    ],
+    "itinerary_base_slug": "boracay",
+    "catalog_stop_id": "boracay-sands-bar-restaurant",
+    "status": "accepted",
+    "decision_reason": "Operator or developer identifies a physical Boracay venue; municipality is resolved from the official island-to-Malay reference. Identity review does not guarantee current access.",
+    "sources": {
+      "identity": {
+        "sourceName": "Boracay Sands Hotel - official amenities",
+        "sourceUrl": "https://boracaysands.com/amenities/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Philippine Information Agency - Boracay in Malay, Aklan",
+        "sourceUrl": "https://mirror.pia.gov.ph/news/2023/01/13/isla-it-boracay-nakabaton-masobra-17m-turista-ku-2022",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21",
+    "aliases": [],
+    "planning": {
+      "base_slug": "boracay",
+      "mode": "local",
+      "cluster": "boracay-sands-bar-restaurant",
+      "minutes": 90,
+      "booking": "Ask the hotel about current dining hours and access for non-staying guests.",
+      "transport": "Arrange local island transport or walking from nearby accommodation; exact travel time is unverified.",
+      "accessibility": "Step-free access, toilets and assistance arrangements have not been verified.",
+      "requiresBooking": false,
+      "scheduling": "candidate"
+    }
+  },
+  {
+    "id": "iloilo-museo-iloilo",
+    "name": "Museo Iloilo",
+    "destination_group": "Iloilo",
+    "region": "Western Visayas",
+    "province": "Iloilo",
+    "city_municipality": "Iloilo City",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Culture",
+    "description": "Museum beside Iloilo's provincial capitol complex.",
+    "interests": [
+      "Culture Seeker"
+    ],
+    "itinerary_base_slug": "iloilo",
+    "catalog_stop_id": "iloilo-museo-iloilo",
+    "status": "accepted",
+    "decision_reason": "Promoted previously verified editorial-surplus candidate. Primary source confirms this physical place and actual city or municipality; admission and present access are separate facts.",
+    "sources": {
+      "identity": {
+        "sourceName": "Iloilo Provincial Government - Casa Real",
+        "sourceUrl": "https://iloilo.gov.ph/en/gallery/casa-real-de-iloilo",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Iloilo Provincial Government - Casa Real",
+        "sourceUrl": "https://iloilo.gov.ph/en/gallery/casa-real-de-iloilo",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21",
+    "aliases": [],
+    "planning": {
+      "base_slug": "iloilo",
+      "mode": "local",
+      "cluster": "iloilo-museo-iloilo",
+      "minutes": 90,
+      "booking": "Confirm current museum hours and admission directly.",
+      "transport": "Arrange local transport to the venue; exact transfer time is unverified.",
+      "accessibility": "Step-free access, toilets and assistance arrangements have not been verified.",
+      "requiresBooking": false,
+      "scheduling": "candidate"
+    }
+  },
+  {
+    "id": "iloilo-festive-walk-mall",
+    "name": "Festive Walk Mall",
+    "destination_group": "Iloilo",
+    "region": "Western Visayas",
+    "province": "Iloilo",
+    "city_municipality": "Iloilo City",
+    "barangay": null,
+    "address": "Iloilo Business Park, Iloilo City",
+    "latitude": null,
+    "longitude": null,
+    "category": "Parks & markets",
+    "description": "Shopping and dining mall within Iloilo Business Park.",
+    "interests": [
+      "City Wanderer"
+    ],
+    "itinerary_base_slug": "iloilo",
+    "catalog_stop_id": "iloilo-festive-walk-mall",
+    "status": "accepted",
+    "decision_reason": "Promoted previously verified editorial-surplus candidate. Primary source confirms this physical place and actual city or municipality; admission and present access are separate facts.",
+    "sources": {
+      "identity": {
+        "sourceName": "Megaworld - Festive Walk Mall",
+        "sourceUrl": "https://www.megaworldcorp.com/lifestyle-malls/festive-walk-mall",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Megaworld - Festive Walk Mall",
+        "sourceUrl": "https://www.megaworldcorp.com/lifestyle-malls/festive-walk-mall",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": "Megaworld - Festive Walk Mall",
+        "sourceUrl": "https://www.megaworldcorp.com/lifestyle-malls/festive-walk-mall",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21",
+    "aliases": [],
+    "planning": {
+      "base_slug": "iloilo",
+      "mode": "local",
+      "cluster": "iloilo-festive-walk-mall",
+      "minutes": 90,
+      "booking": "Confirm hours for individual shops and attractions.",
+      "transport": "Arrange local transport to the venue; exact transfer time is unverified.",
+      "accessibility": "Step-free access, toilets and assistance arrangements have not been verified.",
+      "requiresBooking": false,
+      "scheduling": "candidate"
+    }
+  },
+  {
+    "id": "iloilo-ilomoca",
+    "name": "Iloilo Museum of Contemporary Art",
+    "destination_group": "Iloilo",
+    "region": "Western Visayas",
+    "province": "Iloilo",
+    "city_municipality": "Iloilo City",
+    "barangay": null,
+    "address": "Casa de Emperador, Festive Walk Parade, Mandurriao, Iloilo City",
+    "latitude": null,
+    "longitude": null,
+    "category": "Culture",
+    "description": "Art museum displaying modern and contemporary works in Casa de Emperador.",
+    "interests": [
+      "Culture Seeker"
+    ],
+    "itinerary_base_slug": "iloilo",
+    "catalog_stop_id": "iloilo-ilomoca",
+    "status": "accepted",
+    "decision_reason": "Primary source confirms this physical place and actual city or municipality; admission and present access are separate facts.",
+    "sources": {
+      "identity": {
+        "sourceName": "ILOMOCA - official visitor information",
+        "sourceUrl": "https://www.ilomoca.org/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "ILOMOCA - official visitor information",
+        "sourceUrl": "https://www.ilomoca.org/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": "ILOMOCA - official visitor information",
+        "sourceUrl": "https://www.ilomoca.org/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21",
+    "aliases": [
+      "ILOMOCA"
+    ],
+    "planning": {
+      "base_slug": "iloilo",
+      "mode": "local",
+      "cluster": "iloilo-ilomoca",
+      "minutes": 90,
+      "booking": "Published PHP150 is standard adult admission; concessions have separate rates. Groups and service buses should notify museum administration in advance. Reconfirm before visiting.",
+      "transport": "The museum publishes jeepney and walking approaches to Casa de Emperador from Molo, Jaro and nearby Business Park hotels. Recheck services; transfer time is unknown.",
+      "accessibility": "Step-free access, toilets and assistance arrangements have not been verified.",
+      "requiresBooking": false,
+      "scheduling": "candidate",
+      "openingHours": {
+        "weekdays": [
+          0,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "opens": "10:00",
+        "closes": "18:00",
+        "source": {
+          "sourceName": "ILOMOCA - official visitor information",
+          "sourceUrl": "https://www.ilomoca.org/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        }
+      },
+      "entryPrice": {
+        "amount": 150,
+        "basis": "person",
+        "source": {
+          "sourceName": "ILOMOCA - official visitor information",
+          "sourceUrl": "https://www.ilomoca.org/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        }
+      },
+      "transport_source": {
+        "sourceName": "ILOMOCA - official visitor information",
+        "sourceUrl": "https://www.ilomoca.org/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      }
+    }
+  },
+  {
+    "id": "iloilo-brandy-museum",
+    "name": "Brandy Museum",
+    "destination_group": "Iloilo",
+    "region": "Western Visayas",
+    "province": "Iloilo",
+    "city_municipality": "Iloilo City",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Culture",
+    "description": "Museum dedicated to brandy in Iloilo Business Park.",
+    "interests": [
+      "Culture Seeker"
+    ],
+    "itinerary_base_slug": "iloilo",
+    "catalog_stop_id": "iloilo-brandy-museum",
+    "status": "accepted",
+    "decision_reason": "Primary source confirms this physical place and actual city or municipality; admission and present access are separate facts.",
+    "sources": {
+      "identity": {
+        "sourceName": "Megaworld - Festive Walk cultural venues",
+        "sourceUrl": "https://www.megaworldcorp.com/lifestyle-malls/festive-walk-mall",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Megaworld - Festive Walk cultural venues",
+        "sourceUrl": "https://www.megaworldcorp.com/lifestyle-malls/festive-walk-mall",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21",
+    "aliases": [
+      "Emperador Brandy Museum"
+    ],
+    "planning": {
+      "base_slug": "iloilo",
+      "mode": "local",
+      "cluster": "iloilo-brandy-museum",
+      "minutes": 60,
+      "booking": "Confirm current museum hours, entry arrangements and any tasting restrictions.",
+      "transport": "Arrange local transport to the venue; exact transfer time is unverified.",
+      "accessibility": "Step-free access, toilets and assistance arrangements have not been verified.",
+      "requiresBooking": false,
+      "scheduling": "candidate"
+    }
+  },
+  {
+    "id": "iloilo-camina-balay-nga-bato",
+    "name": "Camiña Balay Nga Bato",
+    "destination_group": "Iloilo",
+    "region": "Western Visayas",
+    "province": "Iloilo",
+    "city_municipality": "Iloilo City",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Culture",
+    "description": "Restored ancestral house converted into a museum in Arevalo.",
+    "interests": [
+      "Culture Seeker"
+    ],
+    "itinerary_base_slug": "iloilo",
+    "catalog_stop_id": "iloilo-camina-balay-nga-bato",
+    "status": "accepted",
+    "decision_reason": "Primary source confirms this physical place and actual city or municipality; admission and present access are separate facts.",
+    "sources": {
+      "identity": {
+        "sourceName": "Bases Conversion and Development Authority - corporate governance report",
+        "sourceUrl": "https://bcda.gov.ph/sites/default/files/2023-03/corporategvnance%202022%20Final%2029Mar2023-merged.pdf",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Bases Conversion and Development Authority - corporate governance report",
+        "sourceUrl": "https://bcda.gov.ph/sites/default/files/2023-03/corporategvnance%202022%20Final%2029Mar2023-merged.pdf",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21",
+    "aliases": [
+      "Avanceña-Camiña Balay Nga Bato",
+      "Camina Balay Nga Bato"
+    ],
+    "planning": {
+      "base_slug": "iloilo",
+      "mode": "local",
+      "cluster": "iloilo-camina-balay-nga-bato",
+      "minutes": 90,
+      "booking": "Privately managed heritage house; arrange a visit directly. Current tour hours, meals and fees are unverified.",
+      "transport": "Arrange local transport to the venue; exact transfer time is unverified.",
+      "accessibility": "Step-free access, toilets and assistance arrangements have not been verified.",
+      "requiresBooking": false,
+      "scheduling": "manual"
+    }
+  },
+  {
+    "id": "iloilo-breakthrough-villa",
+    "name": "Breakthrough Restaurant - Villa",
+    "destination_group": "Iloilo",
+    "region": "Western Visayas",
+    "province": "Iloilo",
+    "city_municipality": "Iloilo City",
+    "barangay": "Sto. Nino Sur",
+    "address": "Sto. Nino Sur, Villa Arevalo, Iloilo City",
+    "latitude": null,
+    "longitude": null,
+    "category": "Food & drink",
+    "description": "Seafood and Ilonggo dining at the operator's Villa Arevalo restaurant.",
+    "interests": [
+      "Food Hunter"
+    ],
+    "itinerary_base_slug": "iloilo",
+    "catalog_stop_id": "iloilo-breakthrough-villa",
+    "status": "accepted",
+    "decision_reason": "Primary source confirms this physical place and actual city or municipality; admission and present access are separate facts.",
+    "sources": {
+      "identity": {
+        "sourceName": "Breakthrough Restaurants - main restaurant",
+        "sourceUrl": "https://breakthroughrestaurants.com/breakthrough-2/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Breakthrough Restaurants - main restaurant",
+        "sourceUrl": "https://breakthroughrestaurants.com/breakthrough-2/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": "Breakthrough Restaurants - main restaurant",
+        "sourceUrl": "https://breakthroughrestaurants.com/breakthrough-2/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21",
+    "aliases": [],
+    "planning": {
+      "base_slug": "iloilo",
+      "mode": "local",
+      "cluster": "iloilo-breakthrough-villa",
+      "minutes": 90,
+      "booking": "Contact the restaurant for table availability and current market-priced seafood.",
+      "transport": "Arrange local transport to the venue; exact transfer time is unverified.",
+      "accessibility": "Step-free access, toilets and assistance arrangements have not been verified.",
+      "requiresBooking": false,
+      "scheduling": "candidate"
+    }
+  },
+  {
+    "id": "iloilo-dapli-valeria",
+    "name": "Dapli by Breakthrough",
+    "destination_group": "Iloilo",
+    "region": "Western Visayas",
+    "province": "Iloilo",
+    "city_municipality": "Iloilo City",
+    "barangay": null,
+    "address": "La Salette Building, Valeria Street, Iloilo City",
+    "latitude": null,
+    "longitude": null,
+    "category": "Food & drink",
+    "description": "Restaurant serving Ilonggo main dishes on Valeria Street.",
+    "interests": [
+      "Food Hunter"
+    ],
+    "itinerary_base_slug": "iloilo",
+    "catalog_stop_id": "iloilo-dapli-valeria",
+    "status": "accepted",
+    "decision_reason": "Primary source confirms this physical place and actual city or municipality; admission and present access are separate facts.",
+    "sources": {
+      "identity": {
+        "sourceName": "Breakthrough Restaurants - Dapli",
+        "sourceUrl": "https://breakthroughrestaurants.com/dapli-2/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Breakthrough Restaurants - Dapli",
+        "sourceUrl": "https://breakthroughrestaurants.com/dapli-2/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": "Breakthrough Restaurants - Dapli",
+        "sourceUrl": "https://breakthroughrestaurants.com/dapli-2/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21",
+    "aliases": [],
+    "planning": {
+      "base_slug": "iloilo",
+      "mode": "local",
+      "cluster": "iloilo-dapli-valeria",
+      "minutes": 90,
+      "booking": "Contact the restaurant for table or private-room arrangements.",
+      "transport": "Arrange local transport to the venue; exact transfer time is unverified.",
+      "accessibility": "Step-free access, toilets and assistance arrangements have not been verified.",
+      "requiresBooking": false,
+      "scheduling": "candidate"
+    }
+  },
+  {
+    "id": "iloilo-ponsyon-plazuela",
+    "name": "Ponsyon by Breakthrough",
+    "destination_group": "Iloilo",
+    "region": "Western Visayas",
+    "province": "Iloilo",
+    "city_municipality": "Iloilo City",
+    "barangay": null,
+    "address": "Plazuela, Benigno Aquino Avenue, Iloilo City",
+    "latitude": null,
+    "longitude": null,
+    "category": "Food & drink",
+    "description": "Ilonggo restaurant at Plazuela on Benigno Aquino Avenue.",
+    "interests": [
+      "Food Hunter"
+    ],
+    "itinerary_base_slug": "iloilo",
+    "catalog_stop_id": "iloilo-ponsyon-plazuela",
+    "status": "accepted",
+    "decision_reason": "Primary source confirms this physical place and actual city or municipality; admission and present access are separate facts.",
+    "sources": {
+      "identity": {
+        "sourceName": "Breakthrough Restaurants - Ponsyon",
+        "sourceUrl": "https://breakthroughrestaurants.com/ponsyon-2/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Breakthrough Restaurants - Ponsyon",
+        "sourceUrl": "https://breakthroughrestaurants.com/ponsyon-2/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": "Breakthrough Restaurants - Ponsyon",
+        "sourceUrl": "https://breakthroughrestaurants.com/ponsyon-2/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21",
+    "aliases": [],
+    "planning": {
+      "base_slug": "iloilo",
+      "mode": "local",
+      "cluster": "iloilo-ponsyon-plazuela",
+      "minutes": 90,
+      "booking": "Contact the restaurant for table or event arrangements.",
+      "transport": "Arrange local transport to the venue; exact transfer time is unverified.",
+      "accessibility": "Step-free access, toilets and assistance arrangements have not been verified.",
+      "requiresBooking": false,
+      "scheduling": "candidate"
+    }
+  },
+  {
+    "id": "iloilo-san-joaquin-cemetery",
+    "name": "San Joaquin Cemetery",
+    "destination_group": "Iloilo",
+    "region": "Western Visayas",
+    "province": "Iloilo",
+    "city_municipality": "San Joaquin",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Culture",
+    "description": "Historic cemetery with a hexagonal mortuary chapel known as Camposanto.",
+    "interests": [
+      "Culture Seeker"
+    ],
+    "itinerary_base_slug": null,
+    "catalog_stop_id": null,
+    "status": "accepted",
+    "decision_reason": "Primary source confirms this physical place and actual city or municipality; admission and present access are separate facts.",
+    "sources": {
+      "identity": {
+        "sourceName": "Iloilo Provincial Government - first district",
+        "sourceUrl": "https://www.iloilo.gov.ph/1st-district",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Iloilo Provincial Government - first district",
+        "sourceUrl": "https://www.iloilo.gov.ph/1st-district",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21",
+    "aliases": [],
+    "planning": {
+      "base_slug": null,
+      "mode": "separate-base",
+      "cluster": "iloilo-san-joaquin-cemetery",
+      "minutes": 60,
+      "booking": "Confirm visitor access and respect ongoing cemetery use.",
+      "transport": "Outside the Iloilo City overnight base. Arrange an independent transfer or stay; no city-local route is assumed.",
+      "accessibility": "Step-free access, toilets and assistance arrangements have not been verified.",
+      "requiresBooking": false,
+      "scheduling": "manual"
+    }
+  },
+  {
+    "id": "iloilo-tigbauan-church",
+    "name": "St. John of Sahagun Parish Church",
+    "destination_group": "Iloilo",
+    "region": "Western Visayas",
+    "province": "Iloilo",
+    "city_municipality": "Tigbauan",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Culture",
+    "description": "Historic parish church in the town of Tigbauan.",
+    "interests": [
+      "Culture Seeker"
+    ],
+    "itinerary_base_slug": null,
+    "catalog_stop_id": null,
+    "status": "accepted",
+    "decision_reason": "Primary source confirms this physical place and actual city or municipality; admission and present access are separate facts.",
+    "sources": {
+      "identity": {
+        "sourceName": "Iloilo Provincial Government - first district",
+        "sourceUrl": "https://www.iloilo.gov.ph/1st-district",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Iloilo Provincial Government - first district",
+        "sourceUrl": "https://www.iloilo.gov.ph/1st-district",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21",
+    "aliases": [],
+    "planning": {
+      "base_slug": null,
+      "mode": "separate-base",
+      "cluster": "iloilo-tigbauan-church",
+      "minutes": 60,
+      "booking": "Confirm visiting arrangements around parish services.",
+      "transport": "Outside the Iloilo City overnight base. Arrange an independent transfer or stay; no city-local route is assumed.",
+      "accessibility": "Step-free access, toilets and assistance arrangements have not been verified.",
+      "requiresBooking": false,
+      "scheduling": "manual"
+    }
+  },
+  {
+    "id": "iloilo-taytay-tigre",
+    "name": "Taytay Tigre",
+    "destination_group": "Iloilo",
+    "region": "Western Visayas",
+    "province": "Iloilo",
+    "city_municipality": "Guimbal",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Culture",
+    "description": "Small historic stone bridge with tiger sculptures.",
+    "interests": [
+      "Culture Seeker"
+    ],
+    "itinerary_base_slug": null,
+    "catalog_stop_id": null,
+    "status": "accepted",
+    "decision_reason": "Primary source confirms this physical place and actual city or municipality; admission and present access are separate facts.",
+    "sources": {
+      "identity": {
+        "sourceName": "Iloilo Provincial Government - first district",
+        "sourceUrl": "https://www.iloilo.gov.ph/1st-district",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Iloilo Provincial Government - first district",
+        "sourceUrl": "https://www.iloilo.gov.ph/1st-district",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21",
+    "aliases": [],
+    "planning": {
+      "base_slug": null,
+      "mode": "separate-base",
+      "cluster": "iloilo-taytay-tigre",
+      "minutes": 45,
+      "booking": "Confirm the public approach and current site condition with Guimbal Tourism.",
+      "transport": "Outside the Iloilo City overnight base. Arrange an independent transfer or stay; no city-local route is assumed.",
+      "accessibility": "Step-free access, toilets and assistance arrangements have not been verified.",
+      "requiresBooking": false,
+      "scheduling": "manual"
+    }
+  },
+  {
+    "id": "iloilo-taytay-boni",
+    "name": "Taytay Boni",
+    "destination_group": "Iloilo",
+    "region": "Western Visayas",
+    "province": "Iloilo",
+    "city_municipality": "Miagao",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Culture",
+    "description": "Surviving Spanish-period stone bridge in Miagao.",
+    "interests": [
+      "Culture Seeker"
+    ],
+    "itinerary_base_slug": null,
+    "catalog_stop_id": null,
+    "status": "accepted",
+    "decision_reason": "Primary source confirms this physical place and actual city or municipality; admission and present access are separate facts.",
+    "sources": {
+      "identity": {
+        "sourceName": "Iloilo Provincial Government - first district",
+        "sourceUrl": "https://www.iloilo.gov.ph/1st-district",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Iloilo Provincial Government - first district",
+        "sourceUrl": "https://www.iloilo.gov.ph/1st-district",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21",
+    "aliases": [],
+    "planning": {
+      "base_slug": null,
+      "mode": "separate-base",
+      "cluster": "iloilo-taytay-boni",
+      "minutes": 45,
+      "booking": "Confirm the public approach and current site condition with Miagao Tourism.",
+      "transport": "Outside the Iloilo City overnight base. Arrange an independent transfer or stay; no city-local route is assumed.",
+      "accessibility": "Step-free access, toilets and assistance arrangements have not been verified.",
+      "requiresBooking": false,
+      "scheduling": "manual"
+    }
+  },
+  {
+    "id": "iloilo-santa-barbara-church",
+    "name": "Santa Barbara Parish Church and Convent",
+    "destination_group": "Iloilo",
+    "region": "Western Visayas",
+    "province": "Iloilo",
+    "city_municipality": "Santa Barbara",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Culture",
+    "description": "Church and convent associated with Iloilo's revolutionary history.",
+    "interests": [
+      "Culture Seeker"
+    ],
+    "itinerary_base_slug": null,
+    "catalog_stop_id": null,
+    "status": "accepted",
+    "decision_reason": "Primary source confirms this physical place and actual city or municipality; admission and present access are separate facts.",
+    "sources": {
+      "identity": {
+        "sourceName": "Iloilo Provincial Government - Santa Barbara convent",
+        "sourceUrl": "https://www.iloilo.gov.ph/en/culture-news/php-2-m-sta-barbara-convent",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Iloilo Provincial Government - Santa Barbara convent",
+        "sourceUrl": "https://www.iloilo.gov.ph/en/culture-news/php-2-m-sta-barbara-convent",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21",
+    "aliases": [],
+    "planning": {
+      "base_slug": null,
+      "mode": "separate-base",
+      "cluster": "iloilo-santa-barbara-church",
+      "minutes": 60,
+      "booking": "Restoration has been documented; confirm currently accessible areas with the parish.",
+      "transport": "Outside the Iloilo City overnight base. Arrange an independent transfer or stay; no city-local route is assumed.",
+      "accessibility": "Step-free access, toilets and assistance arrangements have not been verified.",
+      "requiresBooking": false,
+      "scheduling": "manual"
+    }
+  },
+  {
+    "id": "iloilo-janiuay-cemetery",
+    "name": "Janiuay Cemetery",
+    "destination_group": "Iloilo",
+    "region": "Western Visayas",
+    "province": "Iloilo",
+    "city_municipality": "Janiuay",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Culture",
+    "description": "Historic cemetery documented in National Museum conservation plans.",
+    "interests": [
+      "Culture Seeker"
+    ],
+    "itinerary_base_slug": null,
+    "catalog_stop_id": null,
+    "status": "accepted",
+    "decision_reason": "Primary source confirms this physical place and actual city or municipality; admission and present access are separate facts.",
+    "sources": {
+      "identity": {
+        "sourceName": "National Museum - Janiuay Cemetery site plan",
+        "sourceUrl": "https://weblinks.nationalmuseum.gov.ph/wp-content/uploads/2024/07/22094948/Bidding-Documents-Janiuay-Cemetery-and-Cabatuan-Cemetery.pdf",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "National Museum - Janiuay Cemetery site plan",
+        "sourceUrl": "https://weblinks.nationalmuseum.gov.ph/wp-content/uploads/2024/07/22094948/Bidding-Documents-Janiuay-Cemetery-and-Cabatuan-Cemetery.pdf",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21",
+    "aliases": [],
+    "planning": {
+      "base_slug": null,
+      "mode": "separate-base",
+      "cluster": "iloilo-janiuay-cemetery",
+      "minutes": 60,
+      "booking": "Conservation work has been documented; confirm visitor access with Janiuay Tourism.",
+      "transport": "Outside the Iloilo City overnight base. Arrange an independent transfer or stay; no city-local route is assumed.",
+      "accessibility": "Step-free access, toilets and assistance arrangements have not been verified.",
+      "requiresBooking": false,
+      "scheduling": "manual"
+    }
+  },
+  {
+    "id": "iloilo-cabatuan-church",
+    "name": "St. Nicolas of Tolentine Parish Church - Cabatuan",
+    "destination_group": "Iloilo",
+    "region": "Western Visayas",
+    "province": "Iloilo",
+    "city_municipality": "Cabatuan",
+    "barangay": "Zone IV (Poblacion)",
+    "address": "Zone IV (Poblacion), Cabatuan, Iloilo",
+    "latitude": null,
+    "longitude": null,
+    "category": "Culture",
+    "description": "Brick parish church in Cabatuan's historic town center.",
+    "interests": [
+      "Culture Seeker"
+    ],
+    "itinerary_base_slug": null,
+    "catalog_stop_id": null,
+    "status": "accepted",
+    "decision_reason": "Primary source confirms this physical place and actual city or municipality; admission and present access are separate facts.",
+    "sources": {
+      "identity": {
+        "sourceName": "Cabatuan Municipal Tourism - cultural property inventory",
+        "sourceUrl": "https://cabatuan.gov.ph/wp-content/uploads/2020/06/List-of-Cultural-Properties.pdf",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Cabatuan Municipal Tourism - cultural property inventory",
+        "sourceUrl": "https://cabatuan.gov.ph/wp-content/uploads/2020/06/List-of-Cultural-Properties.pdf",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": "Cabatuan Municipal Tourism - cultural property inventory",
+        "sourceUrl": "https://cabatuan.gov.ph/wp-content/uploads/2020/06/List-of-Cultural-Properties.pdf",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21",
+    "aliases": [
+      "Cabatuan Church"
+    ],
+    "planning": {
+      "base_slug": null,
+      "mode": "separate-base",
+      "cluster": "iloilo-cabatuan-church",
+      "minutes": 60,
+      "booking": "Confirm visiting arrangements around parish services.",
+      "transport": "Outside the Iloilo City overnight base. Arrange an independent transfer or stay; no city-local route is assumed.",
+      "accessibility": "Step-free access, toilets and assistance arrangements have not been verified.",
+      "requiresBooking": false,
+      "scheduling": "manual"
+    }
+  },
+  {
+    "id": "iloilo-garin-farm",
+    "name": "Garin Farm",
+    "destination_group": "Iloilo",
+    "region": "Western Visayas",
+    "province": "Iloilo",
+    "city_municipality": "San Joaquin",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Attractions",
+    "description": "Farm and pilgrimage destination in San Joaquin.",
+    "interests": [
+      "City Wanderer"
+    ],
+    "itinerary_base_slug": null,
+    "catalog_stop_id": null,
+    "status": "accepted",
+    "decision_reason": "Primary source confirms this physical place and actual city or municipality; admission and present access are separate facts.",
+    "sources": {
+      "identity": {
+        "sourceName": "Philippine News Agency - southern Iloilo heritage caravan",
+        "sourceUrl": "https://www.pna.gov.ph/articles/1214613",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Philippine News Agency - southern Iloilo heritage caravan",
+        "sourceUrl": "https://www.pna.gov.ph/articles/1214613",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21",
+    "aliases": [],
+    "planning": {
+      "base_slug": null,
+      "mode": "separate-base",
+      "cluster": "iloilo-garin-farm",
+      "minutes": 180,
+      "booking": "Confirm day-visitor entry, current activities and prices directly with the farm.",
+      "transport": "Outside the Iloilo City overnight base. Arrange an independent transfer or stay; no city-local route is assumed.",
+      "accessibility": "Step-free access, toilets and assistance arrangements have not been verified.",
+      "requiresBooking": false,
+      "scheduling": "manual"
+    }
+  }
+]

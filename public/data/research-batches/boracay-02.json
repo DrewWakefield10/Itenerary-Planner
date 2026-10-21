@@ -1,0 +1,497 @@
+{
+  "destination": "Boracay",
+  "batch": 2,
+  "kind": "Export snapshot of reviewed candidate batch",
+  "entries": [
+    {
+      "destination_group": "Boracay",
+      "region": "Western Visayas",
+      "province": "Aklan",
+      "city_municipality": "Malay",
+      "barangay": null,
+      "address": "D'Mall Plaza, Station 2, Boracay, Malay, Aklan",
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "Hama - official restaurant",
+          "sourceUrl": "https://www.hama.com.ph/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Philippine Information Agency - Boracay in Malay, Aklan",
+          "sourceUrl": "https://mirror.pia.gov.ph/news/2023/01/13/isla-it-boracay-nakabaton-masobra-17m-turista-ku-2022",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "Hama - official restaurant",
+          "sourceUrl": "https://www.hama.com.ph/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "id": "boracay-hama",
+      "name": "Hama Japanese Restaurant",
+      "aliases": [],
+      "planning": {
+        "base_slug": "boracay",
+        "mode": "local",
+        "cluster": "boracay-hama",
+        "minutes": 90,
+        "booking": "Current fees, hours and table booking requirements are unknown; confirm directly with the venue.",
+        "transport": "Arrange local island transport or walking from nearby accommodation; exact travel time is unverified.",
+        "accessibility": "Step-free access, toilets and assistance arrangements have not been verified.",
+        "requiresBooking": false,
+        "scheduling": "candidate"
+      },
+      "category": "Food & drink",
+      "description": "Japanese restaurant at D'Mall Plaza.",
+      "interests": [
+        "Food Hunter"
+      ],
+      "itinerary_base_slug": "boracay",
+      "catalog_stop_id": "boracay-hama",
+      "status": "accepted",
+      "decision_reason": "Operator or developer identifies a physical Boracay venue; municipality is resolved from the official island-to-Malay reference. Identity review does not guarantee current access.",
+      "reviewed_on": "2026-10-21",
+      "slug": "boracay-hama"
+    },
+    {
+      "destination_group": "Boracay",
+      "region": "Western Visayas",
+      "province": "Aklan",
+      "city_municipality": "Malay",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "Boracay Entertainment Resources Inc. - official business directory",
+          "sourceUrl": "https://www.careers.aria.com.ph/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Philippine Information Agency - Boracay in Malay, Aklan",
+          "sourceUrl": "https://mirror.pia.gov.ph/news/2023/01/13/isla-it-boracay-nakabaton-masobra-17m-turista-ku-2022",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "id": "boracay-cafe-del-sol",
+      "name": "Cafe del Sol",
+      "aliases": [],
+      "planning": {
+        "base_slug": "boracay",
+        "mode": "local",
+        "cluster": "boracay-cafe-del-sol",
+        "minutes": 60,
+        "booking": "Confirm the current branch entrance and hours; a precise address was not established from the reviewed operator page.",
+        "transport": "Arrange local island transport or walking from nearby accommodation; exact travel time is unverified.",
+        "accessibility": "Step-free access, toilets and assistance arrangements have not been verified.",
+        "requiresBooking": false,
+        "scheduling": "manual"
+      },
+      "category": "Food & drink",
+      "description": "Coffee shop operated by Boracay Entertainment Resources Inc.",
+      "interests": [
+        "Food Hunter"
+      ],
+      "itinerary_base_slug": "boracay",
+      "catalog_stop_id": "boracay-cafe-del-sol",
+      "status": "accepted",
+      "decision_reason": "Operator or developer identifies a physical Boracay venue; municipality is resolved from the official island-to-Malay reference. Identity review does not guarantee current access.",
+      "reviewed_on": "2026-10-21",
+      "slug": "boracay-cafe-del-sol"
+    },
+    {
+      "destination_group": "Boracay",
+      "region": "Western Visayas",
+      "province": "Aklan",
+      "city_municipality": "Malay",
+      "barangay": null,
+      "address": "Main entrance, D'Mall, Station 2, Boracay, Malay, Aklan",
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "Boracay Entertainment Resources Inc. - official business directory",
+          "sourceUrl": "https://www.careers.aria.com.ph/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Philippine Information Agency - Boracay in Malay, Aklan",
+          "sourceUrl": "https://mirror.pia.gov.ph/news/2023/01/13/isla-it-boracay-nakabaton-masobra-17m-turista-ku-2022",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "Boracay Entertainment Resources Inc. - official business directory",
+          "sourceUrl": "https://www.careers.aria.com.ph/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "id": "boracay-beach-truck",
+      "name": "Boracay Beach Truck",
+      "aliases": [],
+      "planning": {
+        "base_slug": "boracay",
+        "mode": "local",
+        "cluster": "boracay-beach-truck",
+        "minutes": 60,
+        "booking": "Current fees, hours and table booking requirements are unknown; confirm directly with the venue.",
+        "transport": "Arrange local island transport or walking from nearby accommodation; exact travel time is unverified.",
+        "accessibility": "Step-free access, toilets and assistance arrangements have not been verified.",
+        "requiresBooking": false,
+        "scheduling": "candidate"
+      },
+      "category": "Food & drink",
+      "description": "Rice-bowl food venue at D'Mall's main entrance.",
+      "interests": [
+        "Food Hunter"
+      ],
+      "itinerary_base_slug": "boracay",
+      "catalog_stop_id": "boracay-beach-truck",
+      "status": "accepted",
+      "decision_reason": "Operator or developer identifies a physical Boracay venue; municipality is resolved from the official island-to-Malay reference. Identity review does not guarantee current access.",
+      "reviewed_on": "2026-10-21",
+      "slug": "boracay-beach-truck"
+    },
+    {
+      "destination_group": "Boracay",
+      "region": "Western Visayas",
+      "province": "Aklan",
+      "city_municipality": "Malay",
+      "barangay": null,
+      "address": "Diniwid Beach, Boracay, Malay, Aklan",
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "Diniview Villa Resort - official restaurant information",
+          "sourceUrl": "https://diniviewboracay.com/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Diniview Villa Resort - official restaurant information",
+          "sourceUrl": "https://diniviewboracay.com/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "Diniview Villa Resort - official restaurant information",
+          "sourceUrl": "https://diniviewboracay.com/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "id": "boracay-dinibeach-bar",
+      "name": "Dinibeach Bar & Restaurant",
+      "aliases": [],
+      "planning": {
+        "base_slug": "boracay",
+        "mode": "local",
+        "cluster": "boracay-dinibeach-bar",
+        "minutes": 90,
+        "booking": "Confirm table availability and access from the public road.",
+        "transport": "Reach Diniwid via local transport, then confirm the beachfront approach. Path conditions and precise travel time are unverified.",
+        "accessibility": "Step-free access, toilets and assistance arrangements have not been verified.",
+        "requiresBooking": false,
+        "scheduling": "candidate",
+        "outdoor": true
+      },
+      "category": "Food & drink",
+      "description": "Beachfront dining venue associated with Diniview Villa Resort.",
+      "interests": [
+        "Food Hunter"
+      ],
+      "itinerary_base_slug": "boracay",
+      "catalog_stop_id": "boracay-dinibeach-bar",
+      "status": "accepted",
+      "decision_reason": "Operator or developer identifies a physical Boracay venue; municipality is resolved from the official island-to-Malay reference. Identity review does not guarantee current access.",
+      "reviewed_on": "2026-10-21",
+      "slug": "boracay-dinibeach-bar"
+    },
+    {
+      "destination_group": "Boracay",
+      "region": "Western Visayas",
+      "province": "Aklan",
+      "city_municipality": "Malay",
+      "barangay": null,
+      "address": "Diniwid Beach Road and Boracay Tambisaan Jetty Port Road, Boracay, Malay, Aklan",
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "DoubleDragon - CityMall Boracay",
+          "sourceUrl": "https://www.doubledragon.com.ph/article/boracay-gets-first-real-mall",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Philippine Information Agency - Boracay in Malay, Aklan",
+          "sourceUrl": "https://mirror.pia.gov.ph/news/2023/01/13/isla-it-boracay-nakabaton-masobra-17m-turista-ku-2022",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "DoubleDragon - CityMall Boracay",
+          "sourceUrl": "https://www.doubledragon.com.ph/article/boracay-gets-first-real-mall",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "id": "boracay-citymall",
+      "name": "CityMall Boracay",
+      "aliases": [],
+      "planning": {
+        "base_slug": "boracay",
+        "mode": "local",
+        "cluster": "boracay-citymall",
+        "minutes": 90,
+        "booking": "Confirm current mall and individual tenant hours.",
+        "transport": "Arrange local island transport or walking from nearby accommodation; exact travel time is unverified.",
+        "accessibility": "Step-free access, toilets and assistance arrangements have not been verified.",
+        "requiresBooking": false,
+        "scheduling": "candidate"
+      },
+      "category": "Parks & markets",
+      "description": "Community shopping mall away from White Beach.",
+      "interests": [
+        "City Wanderer"
+      ],
+      "itinerary_base_slug": "boracay",
+      "catalog_stop_id": "boracay-citymall",
+      "status": "accepted",
+      "decision_reason": "Operator or developer identifies a physical Boracay venue; municipality is resolved from the official island-to-Malay reference. Identity review does not guarantee current access.",
+      "reviewed_on": "2026-10-21",
+      "slug": "boracay-citymall"
+    },
+    {
+      "destination_group": "Boracay",
+      "region": "Western Visayas",
+      "province": "Aklan",
+      "city_municipality": "Malay",
+      "barangay": "Yapak",
+      "address": "Shangri-La Boracay, adjacent to resort jetty, Yapak, Malay, Aklan",
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "Shangri-La Boracay - Sirena",
+          "sourceUrl": "https://www.shangri-la.com/restaurants-bars/boracay/boracayresort/sirena/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Shangri-La Boracay - Sirena",
+          "sourceUrl": "https://www.shangri-la.com/restaurants-bars/boracay/boracayresort/sirena/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "Shangri-La Boracay - Sirena",
+          "sourceUrl": "https://www.shangri-la.com/restaurants-bars/boracay/boracayresort/sirena/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "id": "boracay-sirena",
+      "name": "Sirena Restaurant & Clifftop Bar",
+      "aliases": [],
+      "planning": {
+        "base_slug": "boracay",
+        "mode": "local",
+        "cluster": "boracay-sirena",
+        "minutes": 90,
+        "booking": "Reserve with Shangri-La and confirm access for guests staying elsewhere.",
+        "transport": "Arrange local island transport or walking from nearby accommodation; exact travel time is unverified.",
+        "accessibility": "Step-free access, toilets and assistance arrangements have not been verified.",
+        "requiresBooking": false,
+        "scheduling": "candidate",
+        "outdoor": true
+      },
+      "category": "Food & drink",
+      "description": "Clifftop seafood restaurant within Shangri-La Boracay.",
+      "interests": [
+        "Food Hunter"
+      ],
+      "itinerary_base_slug": "boracay",
+      "catalog_stop_id": "boracay-sirena",
+      "status": "accepted",
+      "decision_reason": "Operator or developer identifies a physical Boracay venue; municipality is resolved from the official island-to-Malay reference. Identity review does not guarantee current access.",
+      "reviewed_on": "2026-10-21",
+      "slug": "boracay-sirena"
+    },
+    {
+      "destination_group": "Boracay",
+      "region": "Western Visayas",
+      "province": "Aklan",
+      "city_municipality": "Malay",
+      "barangay": "Balabag",
+      "address": "White House Beach Resort, Station 1, 704 Sitio Pinaungon, Balabag, Boracay, Malay, Aklan",
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "Los Indios Bravos - official restaurant",
+          "sourceUrl": "https://www.losindiosbravos.com/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Los Indios Bravos - official restaurant",
+          "sourceUrl": "https://www.losindiosbravos.com/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "Los Indios Bravos - official restaurant",
+          "sourceUrl": "https://www.losindiosbravos.com/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "id": "boracay-los-indios-bravos",
+      "name": "Los Indios Bravos",
+      "aliases": [],
+      "planning": {
+        "base_slug": "boracay",
+        "mode": "local",
+        "cluster": "boracay-los-indios-bravos",
+        "minutes": 90,
+        "booking": "Contact the restaurant for current table availability.",
+        "transport": "Arrange local island transport or walking from nearby accommodation; exact travel time is unverified.",
+        "accessibility": "Step-free access, toilets and assistance arrangements have not been verified.",
+        "requiresBooking": false,
+        "scheduling": "candidate"
+      },
+      "category": "Food & drink",
+      "description": "Gastropub serving Filipino craft beers and pub dishes.",
+      "interests": [
+        "Food Hunter"
+      ],
+      "itinerary_base_slug": "boracay",
+      "catalog_stop_id": "boracay-los-indios-bravos",
+      "status": "accepted",
+      "decision_reason": "Operator or developer identifies a physical Boracay venue; municipality is resolved from the official island-to-Malay reference. Identity review does not guarantee current access.",
+      "reviewed_on": "2026-10-21",
+      "slug": "boracay-los-indios-bravos"
+    },
+    {
+      "destination_group": "Boracay",
+      "region": "Western Visayas",
+      "province": "Aklan",
+      "city_municipality": "Malay",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "Boracay Sands Hotel - official amenities",
+          "sourceUrl": "https://boracaysands.com/amenities/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Philippine Information Agency - Boracay in Malay, Aklan",
+          "sourceUrl": "https://mirror.pia.gov.ph/news/2023/01/13/isla-it-boracay-nakabaton-masobra-17m-turista-ku-2022",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "id": "boracay-sands-bar-restaurant",
+      "name": "Sands Bar & Restaurant",
+      "aliases": [],
+      "planning": {
+        "base_slug": "boracay",
+        "mode": "local",
+        "cluster": "boracay-sands-bar-restaurant",
+        "minutes": 90,
+        "booking": "Ask the hotel about current dining hours and access for non-staying guests.",
+        "transport": "Arrange local island transport or walking from nearby accommodation; exact travel time is unverified.",
+        "accessibility": "Step-free access, toilets and assistance arrangements have not been verified.",
+        "requiresBooking": false,
+        "scheduling": "candidate"
+      },
+      "category": "Food & drink",
+      "description": "Boracay Sands Hotel's beachfront dining and drinks venue.",
+      "interests": [
+        "Food Hunter"
+      ],
+      "itinerary_base_slug": "boracay",
+      "catalog_stop_id": "boracay-sands-bar-restaurant",
+      "status": "accepted",
+      "decision_reason": "Operator or developer identifies a physical Boracay venue; municipality is resolved from the official island-to-Malay reference. Identity review does not guarantee current access.",
+      "reviewed_on": "2026-10-21",
+      "slug": "boracay-sands-bar-restaurant"
+    }
+  ]
+}

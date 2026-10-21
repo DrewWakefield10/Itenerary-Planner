@@ -1,3 +1,5 @@
+import expansion from "./directory-expansion.json";
+import {mergeCommittedDirectory} from "./directory-import";
 import luzon from "./directory-luzon.json";
 import visayas from "./directory-visayas.json";
 import islands from "./directory-islands.json";
@@ -10,26 +12,27 @@ export type {
   DirectoryCandidate,
   DirectoryGeography,
 } from "./directory-schema";
-export const directoryCandidates = [
+export const originalDirectoryCandidates = [
   ...islands,
   ...visayas,
   ...luzon,
 ] as DirectoryCandidate[];
+export const directoryCandidates=mergeCommittedDirectory(originalDirectoryCandidates, expansion as DirectoryCandidate[]);
 export const directoryListings = directoryCandidates.filter(
   (p) => p.status === "accepted",
 );
 export const directoryTargets: Record<string, number> = {
-  Palawan: 35,
-  Cebu: 25,
-  Manila: 20,
-  Siargao: 18,
-  Bohol: 18,
-  Boracay: 16,
-  Baguio: 16,
-  Iloilo: 15,
-  Davao: 15,
-  Batanes: 12,
-  Sagada: 10,
+  Palawan: 45,
+  Cebu: 35,
+  Manila: 32,
+  Siargao: 30,
+  Bohol: 30,
+  Boracay: 28,
+  Baguio: 30,
+  Iloilo: 35,
+  Davao: 35,
+  Batanes: 30,
+  Sagada: 20,
 };
 export const directoryGroupImages: Record<string, string> = {
   Palawan: "palawan",
@@ -103,6 +106,7 @@ export function filterDirectory({
       searchText(
         [
           p.name,
+          ...(p.aliases||[]),
           p.description,
           p.destination_group,
           p.city_municipality,

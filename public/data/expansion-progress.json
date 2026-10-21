@@ -1,0 +1,94 @@
+{
+  "generated_on": "2026-10-22",
+  "starting_count": 200,
+  "target_additions": 150,
+  "accepted_additions": 132,
+  "remaining": 18,
+  "final_unique_count": 332,
+  "by_destination": [
+    {
+      "destination": "Palawan",
+      "starting": 35,
+      "added": 10,
+      "targetAdditions": 10,
+      "final": 45
+    },
+    {
+      "destination": "Cebu",
+      "starting": 25,
+      "added": 10,
+      "targetAdditions": 10,
+      "final": 35
+    },
+    {
+      "destination": "Manila",
+      "starting": 20,
+      "added": 12,
+      "targetAdditions": 12,
+      "final": 32
+    },
+    {
+      "destination": "Siargao",
+      "starting": 18,
+      "added": 12,
+      "targetAdditions": 12,
+      "final": 30
+    },
+    {
+      "destination": "Bohol",
+      "starting": 18,
+      "added": 12,
+      "targetAdditions": 12,
+      "final": 30
+    },
+    {
+      "destination": "Boracay",
+      "starting": 16,
+      "added": 12,
+      "targetAdditions": 12,
+      "final": 28
+    },
+    {
+      "destination": "Baguio",
+      "starting": 16,
+      "added": 14,
+      "targetAdditions": 14,
+      "final": 30
+    },
+    {
+      "destination": "Iloilo",
+      "starting": 15,
+      "added": 16,
+      "targetAdditions": 20,
+      "final": 31
+    },
+    {
+      "destination": "Davao",
+      "starting": 15,
+      "added": 16,
+      "targetAdditions": 20,
+      "final": 31
+    },
+    {
+      "destination": "Batanes",
+      "starting": 12,
+      "added": 18,
+      "targetAdditions": 18,
+      "final": 30
+    },
+    {
+      "destination": "Sagada",
+      "starting": 10,
+      "added": 0,
+      "targetAdditions": 10,
+      "final": 10
+    }
+  ],
+  "by_category": {
+    "Attractions": 7,
+    "Culture": 36,
+    "Food & drink": 48,
+    "Nature": 26,
+    "Parks & markets": 15
+  }
+}

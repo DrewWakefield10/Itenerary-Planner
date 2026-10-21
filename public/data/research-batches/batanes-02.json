@@ -1,0 +1,523 @@
+{
+  "destination": "Batanes",
+  "batch": 2,
+  "kind": "Export snapshot of reviewed candidate batch",
+  "entries": [
+    {
+      "destination_group": "Batanes",
+      "region": "Cagayan Valley",
+      "province": "Batanes",
+      "city_municipality": "Uyugan",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "Batanes Provincial Heritage and Tourism Office - mapped sites",
+          "sourceUrl": "https://breathtakingbatanes.com/maps/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Batanes Provincial Heritage and Tourism Office - mapped sites",
+          "sourceUrl": "https://breathtakingbatanes.com/maps/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "id": "batanes-songsong-ruins",
+      "name": "Songsong Ruins",
+      "aliases": [
+        "Song-song Ruins",
+        "Songsong Ruins and Vitu"
+      ],
+      "planning": {
+        "base_slug": "batanes",
+        "mode": "excursion",
+        "cluster": "batanes-songsong-ruins",
+        "minutes": 480,
+        "booking": "Confirm visitor registration, current access, route, and operator arrangements before scheduling. No excursion is booked.",
+        "transport": "Separate Batan Island road outing from Basco; confirm the vehicle, route, and total travel allowance with a local operator.",
+        "accessibility": "Accessible paths, steps, toilets, and individual access needs have not been verified. Confirm with the venue or operator.",
+        "requiresBooking": true,
+        "scheduling": "candidate"
+      },
+      "category": "Culture",
+      "description": "Remains of an abandoned coastal settlement in Uyugan.",
+      "interests": [
+        "Culture Seeker",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "batanes",
+      "catalog_stop_id": "batanes-songsong-ruins",
+      "status": "accepted",
+      "decision_reason": "Officially listed physical place with its actual municipality; excursion logistics are kept separate from town stops.",
+      "reviewed_on": "2026-10-21",
+      "slug": "batanes-songsong-ruins"
+    },
+    {
+      "destination_group": "Batanes",
+      "region": "Cagayan Valley",
+      "province": "Batanes",
+      "city_municipality": "Uyugan",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "Batanes Provincial Heritage and Tourism Office - mapped sites",
+          "sourceUrl": "https://breathtakingbatanes.com/maps/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Batanes Provincial Heritage and Tourism Office - mapped sites",
+          "sourceUrl": "https://breathtakingbatanes.com/maps/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "id": "batanes-alapad-rock",
+      "name": "Alapad Rock Formation",
+      "aliases": [
+        "Madangay Hill and Alapad Rock Formation"
+      ],
+      "planning": {
+        "base_slug": "batanes",
+        "mode": "excursion",
+        "cluster": "batanes-alapad-rock",
+        "minutes": 480,
+        "booking": "Confirm visitor registration, current access, route, and operator arrangements before scheduling. No excursion is booked.",
+        "transport": "Separate Batan Island road outing from Basco; confirm the vehicle, route, and total travel allowance with a local operator.",
+        "accessibility": "Accessible paths, steps, toilets, and individual access needs have not been verified. Confirm with the venue or operator.",
+        "requiresBooking": true,
+        "scheduling": "candidate"
+      },
+      "category": "Nature",
+      "description": "A coastal rock formation in the Alapad area.",
+      "interests": [
+        "Nature Lover",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "batanes",
+      "catalog_stop_id": "batanes-alapad-rock",
+      "status": "accepted",
+      "decision_reason": "Officially listed physical place with its actual municipality; excursion logistics are kept separate from town stops.",
+      "reviewed_on": "2026-10-21",
+      "slug": "batanes-alapad-rock"
+    },
+    {
+      "destination_group": "Batanes",
+      "region": "Cagayan Valley",
+      "province": "Batanes",
+      "city_municipality": "Uyugan",
+      "barangay": "Itbud",
+      "address": "Old Loran, Itbud",
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "National Museum - official Batanes museum address",
+          "sourceUrl": "https://www.nationalmuseum.gov.ph/contact-us/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "National Museum - official Batanes museum address",
+          "sourceUrl": "https://www.nationalmuseum.gov.ph/contact-us/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "National Museum - official Batanes museum address",
+          "sourceUrl": "https://www.nationalmuseum.gov.ph/contact-us/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "id": "batanes-national-museum",
+      "name": "National Museum of the Philippines - Batanes",
+      "aliases": [
+        "National Museum Batanes"
+      ],
+      "planning": {
+        "base_slug": "batanes",
+        "mode": "excursion",
+        "cluster": "batanes-national-museum",
+        "minutes": 480,
+        "booking": "Confirm visitor registration, current access, route, and operator arrangements before scheduling. No excursion is booked.",
+        "transport": "Separate Batan Island road outing from Basco; confirm the vehicle, route, and total travel allowance with a local operator.",
+        "accessibility": "Accessible paths, steps, toilets, and individual access needs have not been verified. Confirm with the venue or operator.",
+        "requiresBooking": true,
+        "scheduling": "candidate"
+      },
+      "category": "Culture",
+      "description": "A regional museum at the former Loran station in Itbud.",
+      "interests": [
+        "Culture Seeker",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "batanes",
+      "catalog_stop_id": "batanes-national-museum",
+      "status": "accepted",
+      "decision_reason": "Officially listed physical place with its actual municipality; excursion logistics are kept separate from town stops.",
+      "reviewed_on": "2026-10-21",
+      "slug": "batanes-national-museum"
+    },
+    {
+      "destination_group": "Batanes",
+      "region": "Cagayan Valley",
+      "province": "Batanes",
+      "city_municipality": "Sabtang",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "Batanes Provincial Heritage and Tourism Office - mapped sites",
+          "sourceUrl": "https://breathtakingbatanes.com/maps/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Batanes Provincial Heritage and Tourism Office - mapped sites",
+          "sourceUrl": "https://breathtakingbatanes.com/maps/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "id": "batanes-sabtang-san-vicente",
+      "name": "San Vicente Ferrer Parish Church",
+      "aliases": [
+        "Sabtang Church"
+      ],
+      "planning": {
+        "base_slug": "batanes",
+        "mode": "excursion",
+        "cluster": "batanes-sabtang-san-vicente",
+        "minutes": 480,
+        "booking": "Confirm visitor registration, current access, route, and operator arrangements before scheduling. No excursion is booked.",
+        "transport": "Separate full-day Sabtang excursion: arrange the road transfer to Ivana and a return boat with an operator. Crossing availability depends on current port and operator decisions; no marine safety determination is made.",
+        "accessibility": "Accessible paths, steps, toilets, and individual access needs have not been verified. Confirm with the venue or operator.",
+        "requiresBooking": true,
+        "scheduling": "manual"
+      },
+      "category": "Culture",
+      "description": "A parish church in Sabtang town.",
+      "interests": [
+        "Culture Seeker",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "batanes",
+      "catalog_stop_id": "batanes-sabtang-san-vicente",
+      "status": "accepted",
+      "decision_reason": "Officially listed physical place with its actual municipality; excursion logistics are kept separate from town stops.",
+      "reviewed_on": "2026-10-21",
+      "slug": "batanes-sabtang-san-vicente"
+    },
+    {
+      "destination_group": "Batanes",
+      "region": "Cagayan Valley",
+      "province": "Batanes",
+      "city_municipality": "Sabtang",
+      "barangay": "Savidug",
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "LetsGoBatanes - Sabtang heritage villages and tour route",
+          "sourceUrl": "https://www.letsgobatanes.com/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "LetsGoBatanes - Sabtang heritage villages and tour route",
+          "sourceUrl": "https://www.letsgobatanes.com/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "id": "batanes-savidug-village",
+      "name": "Savidug Heritage Village",
+      "aliases": [
+        "Savidug Village"
+      ],
+      "planning": {
+        "base_slug": "batanes",
+        "mode": "excursion",
+        "cluster": "batanes-savidug-village",
+        "minutes": 480,
+        "booking": "Confirm visitor registration, current access, route, and operator arrangements before scheduling. No excursion is booked.",
+        "transport": "Separate full-day Sabtang excursion: arrange the road transfer to Ivana and a return boat with an operator. Crossing availability depends on current port and operator decisions; no marine safety determination is made.",
+        "accessibility": "Accessible paths, steps, toilets, and individual access needs have not been verified. Confirm with the venue or operator.",
+        "requiresBooking": true,
+        "scheduling": "manual"
+      },
+      "category": "Culture",
+      "description": "A Sabtang village associated with Ivatan stone houses.",
+      "interests": [
+        "Culture Seeker",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "batanes",
+      "catalog_stop_id": "batanes-savidug-village",
+      "status": "accepted",
+      "decision_reason": "Officially listed physical place with its actual municipality; excursion logistics are kept separate from town stops.",
+      "reviewed_on": "2026-10-21",
+      "slug": "batanes-savidug-village"
+    },
+    {
+      "destination_group": "Batanes",
+      "region": "Cagayan Valley",
+      "province": "Batanes",
+      "city_municipality": "Sabtang",
+      "barangay": "Chavayan",
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "Batanes Provincial Heritage and Tourism Office - mapped sites",
+          "sourceUrl": "https://breathtakingbatanes.com/maps/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Batanes Provincial Heritage and Tourism Office - mapped sites",
+          "sourceUrl": "https://breathtakingbatanes.com/maps/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "id": "batanes-chavayan-village",
+      "name": "Chavayan Heritage Village",
+      "aliases": [
+        "Chavayan Barrio Proper"
+      ],
+      "planning": {
+        "base_slug": "batanes",
+        "mode": "excursion",
+        "cluster": "batanes-chavayan-village",
+        "minutes": 480,
+        "booking": "Confirm visitor registration, current access, route, and operator arrangements before scheduling. No excursion is booked.",
+        "transport": "Separate full-day Sabtang excursion: arrange the road transfer to Ivana and a return boat with an operator. Crossing availability depends on current port and operator decisions; no marine safety determination is made.",
+        "accessibility": "Accessible paths, steps, toilets, and individual access needs have not been verified. Confirm with the venue or operator.",
+        "requiresBooking": true,
+        "scheduling": "manual"
+      },
+      "category": "Culture",
+      "description": "A coastal Ivatan village on Sabtang Island.",
+      "interests": [
+        "Culture Seeker",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "batanes",
+      "catalog_stop_id": "batanes-chavayan-village",
+      "status": "accepted",
+      "decision_reason": "Officially listed physical place with its actual municipality; excursion logistics are kept separate from town stops.",
+      "reviewed_on": "2026-10-21",
+      "slug": "batanes-chavayan-village"
+    },
+    {
+      "destination_group": "Batanes",
+      "region": "Cagayan Valley",
+      "province": "Batanes",
+      "city_municipality": "Sabtang",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "Batanes Provincial Heritage and Tourism Office - mapped sites",
+          "sourceUrl": "https://breathtakingbatanes.com/maps/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Batanes Provincial Heritage and Tourism Office - mapped sites",
+          "sourceUrl": "https://breathtakingbatanes.com/maps/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "id": "batanes-morong-beach",
+      "name": "Morong Beach",
+      "aliases": [
+        "Nakabuang Beach",
+        "Nakabuang Arch",
+        "Ahaw Natural Stone Arch"
+      ],
+      "planning": {
+        "base_slug": "batanes",
+        "mode": "excursion",
+        "cluster": "batanes-morong-beach",
+        "minutes": 480,
+        "booking": "Confirm visitor registration, current access, route, and operator arrangements before scheduling. No excursion is booked.",
+        "transport": "Separate full-day Sabtang excursion: arrange the road transfer to Ivana and a return boat with an operator. Crossing availability depends on current port and operator decisions; no marine safety determination is made.",
+        "accessibility": "Accessible paths, steps, toilets, and individual access needs have not been verified. Confirm with the venue or operator.",
+        "requiresBooking": true,
+        "scheduling": "manual"
+      },
+      "category": "Nature",
+      "description": "A Sabtang beach cove with the natural Nakabuang arch.",
+      "interests": [
+        "Nature Lover",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "batanes",
+      "catalog_stop_id": "batanes-morong-beach",
+      "status": "accepted",
+      "decision_reason": "Officially listed physical place with its actual municipality; excursion logistics are kept separate from town stops.",
+      "reviewed_on": "2026-10-21",
+      "slug": "batanes-morong-beach"
+    },
+    {
+      "destination_group": "Batanes",
+      "region": "Cagayan Valley",
+      "province": "Batanes",
+      "city_municipality": "Sabtang",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "Batanes Provincial Heritage and Tourism Office - Sabtang attractions",
+          "sourceUrl": "https://breathtakingbatanes.com/tourist-attraction-6/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Batanes Provincial Heritage and Tourism Office - Sabtang attractions",
+          "sourceUrl": "https://breathtakingbatanes.com/tourist-attraction-6/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "id": "batanes-chamantad-tinyan",
+      "name": "Chamantad-Tinyan Viewpoint",
+      "aliases": [
+        "Chamantad Point",
+        "Chamantan-Tinyan"
+      ],
+      "planning": {
+        "base_slug": "batanes",
+        "mode": "excursion",
+        "cluster": "batanes-chamantad-tinyan",
+        "minutes": 480,
+        "booking": "Confirm visitor registration, current access, route, and operator arrangements before scheduling. No excursion is booked.",
+        "transport": "Separate full-day Sabtang excursion: arrange the road transfer to Ivana and a return boat with an operator. Crossing availability depends on current port and operator decisions; no marine safety determination is made.",
+        "accessibility": "Accessible paths, steps, toilets, and individual access needs have not been verified. Confirm with the venue or operator.",
+        "requiresBooking": true,
+        "scheduling": "manual"
+      },
+      "category": "Nature",
+      "description": "A hillside viewpoint on the road toward Chavayan.",
+      "interests": [
+        "Nature Lover",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "batanes",
+      "catalog_stop_id": "batanes-chamantad-tinyan",
+      "status": "accepted",
+      "decision_reason": "Officially listed physical place with its actual municipality; excursion logistics are kept separate from town stops.",
+      "reviewed_on": "2026-10-21",
+      "slug": "batanes-chamantad-tinyan"
+    }
+  ]
+}

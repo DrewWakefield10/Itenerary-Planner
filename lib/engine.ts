@@ -10,6 +10,7 @@ import {
 } from "./trip";
 import { defaultFactSources, estimatedSource } from "./sources";
 import {activityKeys, conflictsWithUsed, markUsed, mentioned, visitStart, closeEnough, addableStop} from "./catalog/planning";
+import {matchesPlacePreferences,placeTypeLabels} from "./catalog/place-types";
 export const uid = () => crypto.randomUUID();
 export const minutes = (t: string) => {
   const [h, m] = t.split(":").map(Number);
@@ -33,6 +34,7 @@ export function blankActivity(
 ): Activity {
   return {
     id: uid(),
+    placeTypes: [],
     geography:null,
     name,
     catalogStopId: null,
@@ -73,6 +75,7 @@ export function fromStop(s: Stop, r: TripRequest, start: string): Activity {
     description: s.description,
     geography:s.geography?structuredClone(s.geography):null,
     catalogStopId: s.id,
+    placeTypes: [...(s.placeTypes||[])],
     canonicalStopId: s.canonicalId,
     entryPrice: structuredClone(s.entryPrice),
     visitMode: s.mode,
@@ -124,9 +127,31 @@ export function recommendDestinations(interests: string[], budget = 10000) {
     })
     .slice(0, 3);
 }
+/** One eligibility policy for demo generation, regeneration and AI proposals. */
+export function candidateStops(r:TripRequest,slug:string,index:number,used=new Set<string>()) {
+  const d=destination(slug);
+  if(!d)return [];
+  const economy=totalBudget(r)*(1-r.reserve/100)/r.days/travelers(r)<d.daily||r.tier==="Budget"||r.tier==="Backpacker";
+  const arrival=index===0,departure=index===r.days-1;
+  return d.stops.filter(s=>s.baseSlug===slug&&s.distinct&&addableStop(s)&&(matchesPlacePreferences(s,r)||(!r.activityCategories.length&&mentioned(s,r.must)))
+    &&!conflictsWithUsed(s,used,d.stops)&&!mentioned(s,r.avoid)
+    &&(!s.requiresBooking||mentioned(s,r.reservations))
+    &&(s.mode==="local"||(r.includeExcursions&&!arrival&&!departure&&!economy&&!r.accessibility))
+    &&visitStart(s,dateOffset(r.startDate,index),arrival?14*60:9*60,departure?12*60+15:18*60,s.mode==="local"?s.minutes:Math.max(480,s.minutes))!==null);
+}
+/** Fisher-Yates with a reproducible seed for tests/imported requests. A fresh
+ * request without a seed gets fresh choices; priorities are applied afterwards. */
+function shuffled<T>(items:T[],seed:string) {
+  let state=2166136261;
+  for(const c of seed){state^=c.charCodeAt(0);state=Math.imul(state,16777619);}
+  const random=()=>{state+=0x6D2B79F5;let t=Math.imul(state^(state>>>15),1|state);t^=t+Math.imul(t^(t>>>7),61|t);return ((t^(t>>>14))>>>0)/4294967296;};
+  const result=[...items];
+  for(let i=result.length-1;i>0;i--){const j=Math.floor(random()*(i+1));[result[i],result[j]]=[result[j],result[i]];}
+  return result;
+}
 export function makeDay(
   r: TripRequest, slug: string, index: number, localIndex: number,
-  variant = 0, used = new Set<string>(),
+  variant = 0, used = new Set<string>(), selectedIds?:string[],
 ): TripDay {
   const d = destination(slug)!;
   const n = travelers(r);
@@ -137,24 +162,21 @@ export function makeDay(
   const dayEnd = departure ? 12*60+15 : 18*60;
   const start = arrival ? 14*60 : 9*60;
   const score = (s:Stop) => (mentioned(s,r.must)?100:0) + s.interests.filter(i=>r.interests.includes(i)).length*10 - (economy?s.cost/50:s.cost/1000);
-  let pool = d.stops.filter(s=>s.distinct && addableStop(s) && !conflictsWithUsed(s,used,d.stops)
-    && !mentioned(s,r.avoid) && (!s.requiresBooking || mentioned(s,r.reservations))
-    && (s.mode === "local" || (r.includeExcursions && !arrival && !departure && !economy && !r.accessibility))
-    && (!r.accessibility || s.mode === "local"));
-  pool.sort((a,b)=>score(b)-score(a)||a.cost-b.cost||a.id.localeCompare(b.id));
-  // Regeneration changes the leading choice without reintroducing used places.
-  if(variant && pool.length)pool=[...pool.slice(variant%pool.length),...pool.slice(0,variant%pool.length)];
+  let pool=shuffled(candidateStops(r,slug,index,used),`${r.randomSeed||uid()}:${slug}:${index}:${variant}`);
+  pool.sort((a,b)=>score(b)-score(a)||a.cost-b.cost);
+  if(selectedIds)pool=selectedIds.flatMap(id=>pool.find(s=>s.id===id)||[]);
   // Explicit excursion opt-in reserves one whole day; never append other visits.
-  const excursion = r.includeExcursions && localIndex%2===1 ? pool.find(s=>s.mode!=="local") : undefined;
+  const excursion = !selectedIds&&r.includeExcursions && localIndex%2===1 ? pool.find(s=>s.mode!=="local") : undefined;
   if(excursion)pool=[excursion,...pool.filter(s=>s!==excursion)];
   const activities:Activity[]=[];
   if(arrival)activities.push({...blankActivity("Arrival & check-in buffer","09:00","Travel"),duration:240,
     description:`Travel from ${r.departure} is not verified. Confirm arrival before accepting afternoon activities. Move them if your journey needs a full day.`,transport:"No departure schedule or direct connection assumed.",provenance:"demo"});
   let cursor=start;
   let first:Stop|undefined;
+  let previous:Stop|undefined;
   const target=arrival||r.pace==="Chill"?1:r.pace==="Balanced"?2:3;
   for(const s of pool) {
-    if(first&&(s.mode!=="local"||!closeEnough(first,s)))continue;
+    if(first&&(s.mode!=="local"||!closeEnough(first,s)||!closeEnough(previous!,s)))continue;
     if(conflictsWithUsed(s,used,d.stops))continue;
     const duration=s.mode!=="local"?Math.max(480,s.minutes):s.minutes;
     const begins=visitStart(s,date,cursor,dayEnd,duration);
@@ -167,7 +189,8 @@ export function makeDay(
     }
     activities.push(activity);markUsed(s,used,d.stops);
     first ??= s;
-    cursor=begins+duration+s.transferMinutes;
+    previous=s;
+    cursor=begins+duration+Math.max(45,s.transferMinutes);
     if(s.mode!=="local"||activities.filter(a=>a.catalogStopId).length>=target)break;
   }
   const visits=activities.filter(a=>a.catalogStopId);
@@ -181,7 +204,7 @@ export function makeDay(
   }
   if(!departure)activities.push({...blankActivity(r.pace==="Chill"?"A long, unhurried rest":"Free time & a little breathing room",clock(Math.min(21*60,Math.max(16*60+30,cursor)))),
     duration:r.pace==="Chill"?120:60,provenance:"demo",
-    description:visits.length===0?"Too few suitable unique stops fit this date, preferences and remaining time. Browse the catalog for alternatives or an excursion; no duplicate visit was added.":"Keep this time open. No activity or reservation is assumed."});
+    description:visits.length<target&&first?.mode!=="excursion"&&first?.mode!=="package"?`Too few suitable unique stops fit this date, preferences and remaining time (${visits.length} of up to ${target} visits). No off-category substitute or duplicate was added.`:"Keep this time open. No activity or reservation is assumed."});
   else {
     if(!visits.length)activities.push({...blankActivity("An open morning","09:00"),description:"Too few suitable unique stops fit before departure. Browse alternatives; no duplicate visit was added.",provenance:"demo"});
     activities.push({...blankActivity("Departure & onward travel buffer","13:00","Travel"),duration:300,description:"Confirm transport and check-out. This is a reserved buffer, not a transport timetable.",provenance:"demo"});
@@ -190,6 +213,27 @@ export function makeDay(
     activities:activities.sort((a,b)=>minutes(a.start)-minutes(b.start)),
     stay:r.accommodation&&!departure?(economy?800:r.tier==="Premium"?4500:2000)*Math.ceil(n/2):0,
     food:Math.max(0,(economy?350:550)*n-activities.filter(a=>a.kind==="Food").reduce((sum,a)=>sum+a.cost,0)),transport:(economy?200:400)*n};
+}
+export function hasSelectionShortage(days:TripDay[],r:TripRequest){
+  return days.some((d,index)=>{
+    if(d.transfer)return false;
+    const visits=d.activities.filter(a=>a.catalogStopId);
+    if(visits.some(a=>a.visitMode!=="local"))return false;
+    const target=index===0||r.pace==="Chill"?1:r.pace==="Balanced"?2:3;
+    return visits.length<target;
+  });
+}
+export function refreshSelectionWarnings(trip:Trip){
+  trip.warnings=trip.warnings.filter(w=>!w.startsWith("Some days have too few suitable")&&!w.includes(" scheduled. Choices are limited")&&!w.startsWith("Requested places not scheduled:"));
+  if(hasSelectionShortage(trip.days,trip.request))trip.warnings.push("Some days have too few suitable unique stops. Open time is retained instead of adding unrelated or repeated places; excursions need a full day and explicit opt-in.");
+  for(const slug of trip.request.destinations)for(const type of trip.request.activityCategories){
+    const count=trip.days.filter(d=>d.destination===slug).flatMap(d=>d.activities).filter(a=>a.placeTypes.includes(type)).length;
+    trip.warnings.push(`${destination(slug)!.name}: ${count} ${placeTypeLabels[type].toLowerCase()} scheduled. Choices are limited to matching catalog places that fit dates, clusters, booking constraints and remaining time; no substitutes are assumed.`);
+  }
+  const used=new Set(trip.days.flatMap(d=>d.activities.flatMap(a=>[...activityKeys(a,destination(d.destination)!.stops)])));
+  const missing=trip.request.destinations.flatMap(slug=>destination(slug)!.stops).filter(s=>mentioned(s,trip.request.must)&&!used.has(s.canonicalId));
+  if(missing.length)trip.warnings.push(`Requested places not scheduled: ${missing.map(s=>s.name).join(", ")}. Check categories, hours, booking, excursion opt-in and available days.`);
+  return trip;
 }
 const checklist = [
   "Identification and required documents",
@@ -244,7 +288,11 @@ export function generateDemo(input: TripRequest): Trip {
     "All costs are planning allowances, not quotes. Operating hours, transport times, availability, and map locations need confirmation.",
     "Airport/terminal access and local transport allowances are estimates; replace them with confirmed costs.",
   ];
-  if(days.some(d=>d.activities.some(a=>a.description.startsWith("Too few suitable"))))warnings.push("Some days have too few suitable unique stops. Browse the catalog for alternatives; excursions need a full day and explicit opt-in.");
+  if(hasSelectionShortage(days,r))warnings.push("Some days have too few suitable unique stops. Open time is retained instead of adding unrelated or repeated places; excursions need a full day and explicit opt-in.");
+  for(const slug of r.destinations)for(const category of r.activityCategories){
+    const scheduled=days.filter(d=>d.destination===slug).flatMap(d=>d.activities).filter(a=>a.placeTypes.includes(category)).length;
+    warnings.push(`${destination(slug)!.name}: ${scheduled} ${placeTypeLabels[category].toLowerCase()} scheduled. Choices are limited to matching catalog places that fit dates, clusters, booking constraints and remaining time; no substitutes are assumed.`);
+  }
   if(r.accessibility)warnings.push("Step-free access is unknown at most stops. Local suggestions are provisional; confirm your specific requirements with venues before relying on them.");
   const missingMust=r.must && r.destinations.flatMap(slug=>destination(slug)!.stops).filter(s=>mentioned(s,r.must)&&!used.has(s.canonicalId));
   if(missingMust&&missingMust.length)warnings.push(`Requested places not scheduled: ${missingMust.map(s=>s.name).join(", ")}. Check hours, booking, excursion opt-in and available days.`);
@@ -402,17 +450,21 @@ export function regenerateDay(trip: Trip, index: number, variant = 1): Trip {
     ...locked,
     ...generated.activities.filter(
       (a) =>
-        (!a.catalogStopId || locked.every(l=>!l.catalogStopId || l.cluster===a.cluster)) &&
+        (!a.catalogStopId || locked.every(l=>{
+          if(!l.catalogStopId)return true;
+          const original=catalog.find(s=>s.id===l.catalogStopId),candidate=catalog.find(s=>s.id===a.catalogStopId);
+          return !!original&&!!candidate&&l.visitMode==="local"&&a.visitMode==="local"&&l.cluster===a.cluster&&closeEnough(original,candidate);
+        })) &&
         !locked.some((l) => l.name === a.name) &&
         !locked.some(
           (l) =>
-            minutes(a.start) < minutes(l.start) + l.duration &&
-            minutes(a.start) + a.duration > minutes(l.start),
+            minutes(a.start) < minutes(l.start) + l.duration + (a.catalogStopId&&l.catalogStopId?Math.max(45,l.transferMinutes):0) &&
+            minutes(a.start) + a.duration + (a.catalogStopId&&l.catalogStopId?Math.max(45,a.transferMinutes):0) > minutes(l.start),
         ),
     ),
   ].sort((a, b) => minutes(a.start) - minutes(b.start));
   next.days[index] = generated;
-  return next;
+  return refreshSelectionWarnings(next);
 }
 export const disruptions = [
   "Heavy rain",

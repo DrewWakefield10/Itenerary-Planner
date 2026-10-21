@@ -884,8 +884,6 @@
       "reviewed_on": "2026-10-21"
     },
     {
-      "id": "siargao-somyot-cave",
-      "name": "Somyot Cave",
       "destination_group": "Siargao",
       "region": "Caraga",
       "province": "Surigao del Norte",
@@ -894,16 +892,6 @@
       "address": null,
       "latitude": null,
       "longitude": null,
-      "category": "Nature",
-      "description": "Cave listed among Burgos’s terrestrial ecotourism sites.",
-      "interests": [
-        "Adventure Junkie",
-        "Nature Lover"
-      ],
-      "itinerary_base_slug": null,
-      "catalog_stop_id": null,
-      "status": "rejected",
-      "decision_reason": "Verified physical place; editorial surplus outside the initial 200-place selection. Retained as a future expansion candidate, without a current access or availability claim.",
       "sources": {
         "identity": {
           "sourceName": "SIPLAS Management Plan 2021–2030 — municipal ecotourism and wetland inventory",
@@ -930,11 +918,35 @@
           "status": "unverified"
         }
       },
+      "id": "siargao-somyot-cave",
+      "name": "Somyot Cave",
+      "slug": "siargao-somyot-cave",
+      "aliases": [],
+      "planning": {
+        "base_slug": null,
+        "mode": "separate-base",
+        "cluster": "siargao-somyot-cave",
+        "minutes": 480,
+        "booking": "Current entry permission, guide requirements, and visitor access are unverified; confirm with the relevant municipality before any visit.",
+        "transport": "No verified excursion route from General Luna was established. Directory listing only; arrange an independently reviewed travel plan.",
+        "accessibility": "Step-free access and accessible facilities are unverified; ask the venue.",
+        "requiresBooking": false,
+        "scheduling": "manual",
+        "outdoor": true
+      },
+      "category": "Nature",
+      "description": "Cave listed among Burgos’s terrestrial ecotourism sites.",
+      "interests": [
+        "Adventure Junkie",
+        "Nature Lover"
+      ],
+      "itinerary_base_slug": null,
+      "catalog_stop_id": null,
+      "status": "accepted",
+      "decision_reason": "Promoted from reviewed editorial surplus; identity and actual municipality supported, but no suitable General Luna excursion route or current visitor access was established.",
       "reviewed_on": "2026-10-21"
     },
     {
-      "id": "siargao-osmena-wetland",
-      "name": "Osmeña Wetland",
       "destination_group": "Siargao",
       "region": "Caraga",
       "province": "Surigao del Norte",
@@ -943,15 +955,6 @@
       "address": null,
       "latitude": null,
       "longitude": null,
-      "category": "Nature",
-      "description": "Named wetland in Dapa documented in SIPLAS research.",
-      "interests": [
-        "Nature Lover"
-      ],
-      "itinerary_base_slug": null,
-      "catalog_stop_id": null,
-      "status": "rejected",
-      "decision_reason": "Verified physical place; editorial surplus outside the initial 200-place selection. Retained as a future expansion candidate, without a current access or availability claim.",
       "sources": {
         "identity": {
           "sourceName": "BusinessMirror / DENR-Caraga SIPLAS — named ecotourism sites",
@@ -978,6 +981,406 @@
           "status": "unverified"
         }
       },
+      "id": "siargao-osmena-wetland",
+      "name": "Osmeña Wetland",
+      "slug": "siargao-osmena-wetland",
+      "aliases": [],
+      "planning": {
+        "base_slug": null,
+        "mode": "separate-base",
+        "cluster": "siargao-osmena-wetland",
+        "minutes": 480,
+        "booking": "Current entry permission, guide requirements, and visitor access are unverified; confirm with the relevant municipality before any visit.",
+        "transport": "No verified excursion route from General Luna was established. Directory listing only; arrange an independently reviewed travel plan.",
+        "accessibility": "Step-free access and accessible facilities are unverified; ask the venue.",
+        "requiresBooking": false,
+        "scheduling": "manual",
+        "outdoor": true
+      },
+      "category": "Nature",
+      "description": "Named wetland in Dapa documented in SIPLAS research.",
+      "interests": [
+        "Nature Lover"
+      ],
+      "itinerary_base_slug": null,
+      "catalog_stop_id": null,
+      "status": "accepted",
+      "decision_reason": "Promoted from reviewed editorial surplus; identity and actual municipality supported, but no suitable General Luna excursion route or current visitor access was established.",
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "destination_group": "Siargao",
+      "region": "Caraga",
+      "province": "Surigao del Norte",
+      "city_municipality": "General Luna",
+      "barangay": null,
+      "address": "Purok 5, General Luna, Siargao Island, Surigao del Norte 8419",
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "Kermit Siargao — official restaurant and address",
+          "sourceUrl": "https://www.kermitsiargao.com/restaurant",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Kermit Siargao — official restaurant and address",
+          "sourceUrl": "https://www.kermitsiargao.com/restaurant",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "Kermit Siargao — official restaurant and address",
+          "sourceUrl": "https://www.kermitsiargao.com/restaurant",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "id": "siargao-kermit-restaurant",
+      "name": "Kermit Restaurant — Siargao",
+      "slug": "siargao-kermit-restaurant",
+      "aliases": [
+        "Kermit Siargao Restaurant"
+      ],
+      "planning": {
+        "base_slug": "siargao",
+        "mode": "local",
+        "cluster": "siargao-kermit-restaurant",
+        "minutes": 90,
+        "booking": "Table booking is offered. Breakfast, lunch, light bites, dinner, and pizza have different service windows; confirm the desired meal service.",
+        "transport": "Planning estimate: use a local ride from General Luna and confirm the return trip.",
+        "accessibility": "Step-free access and accessible facilities are unverified; ask the venue.",
+        "requiresBooking": false,
+        "scheduling": "candidate",
+        "openingHours": {
+          "weekdays": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "opens": "07:00",
+          "closes": "23:00",
+          "source": {
+            "sourceName": "Kermit Siargao — official restaurant and address",
+            "sourceUrl": "https://www.kermitsiargao.com/restaurant",
+            "dateChecked": "2026-10-21",
+            "status": "verified"
+          }
+        }
+      },
+      "category": "Food & drink",
+      "description": "Italian restaurant serving pizzas and pasta in General Luna.",
+      "interests": [
+        "Food Hunter",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "siargao",
+      "catalog_stop_id": "siargao-kermit-restaurant",
+      "status": "accepted",
+      "decision_reason": "Additional distinct physical place with reviewed identity and actual municipality sources; current access and availability are not guaranteed.",
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "destination_group": "Siargao",
+      "region": "Caraga",
+      "province": "Surigao del Norte",
+      "city_municipality": "General Luna",
+      "barangay": "Poblacion 3",
+      "address": "Poblacion 3, General Luna, Surigao del Norte",
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "Trattoria Altrove — official branch directory",
+          "sourceUrl": "https://www.trattoriaaltrove.com/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Trattoria Altrove — official branch directory",
+          "sourceUrl": "https://www.trattoriaaltrove.com/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "Trattoria Altrove — official branch directory",
+          "sourceUrl": "https://www.trattoriaaltrove.com/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "id": "siargao-trattoria-altrove",
+      "name": "Trattoria Altrove — Siargao",
+      "slug": "siargao-trattoria-altrove",
+      "aliases": [
+        "Altrove Siargao"
+      ],
+      "planning": {
+        "base_slug": "siargao",
+        "mode": "local",
+        "cluster": "siargao-trattoria-altrove",
+        "minutes": 90,
+        "booking": "Confirm current hours, visitor access, and availability directly before visiting.",
+        "transport": "Planning estimate: use a local ride from General Luna and confirm the return trip.",
+        "accessibility": "Step-free access and accessible facilities are unverified; ask the venue.",
+        "requiresBooking": false,
+        "scheduling": "candidate",
+        "openingHours": {
+          "weekdays": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "opens": "16:00",
+          "closes": "23:00",
+          "source": {
+            "sourceName": "Trattoria Altrove — official branch directory",
+            "sourceUrl": "https://www.trattoriaaltrove.com/",
+            "dateChecked": "2026-10-21",
+            "status": "verified"
+          }
+        }
+      },
+      "category": "Food & drink",
+      "description": "Italian restaurant in Poblacion 3, General Luna.",
+      "interests": [
+        "Food Hunter",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "siargao",
+      "catalog_stop_id": "siargao-trattoria-altrove",
+      "status": "accepted",
+      "decision_reason": "Additional distinct physical place with reviewed identity and actual municipality sources; current access and availability are not guaranteed.",
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "destination_group": "Siargao",
+      "region": "Caraga",
+      "province": "Surigao del Norte",
+      "city_municipality": "General Luna",
+      "barangay": "Catangnan",
+      "address": "Siargao Island Villas, Tourism Road, Barangay Catangnan, General Luna, Surigao del Norte",
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "Siargao Island Villas — Warung restaurant",
+          "sourceUrl": "https://siargaoislandvillas.com/warung/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Philippine Primer — Warung at Siargao Island Villas, General Luna",
+          "sourceUrl": "https://primer.com.ph/food/location/philippines/siargao-island/warung-siargao/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "Philippine Primer — Warung at Siargao Island Villas, General Luna",
+          "sourceUrl": "https://primer.com.ph/food/location/philippines/siargao-island/warung-siargao/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "id": "siargao-warung",
+      "name": "Warung — Siargao Island Villas",
+      "slug": "siargao-warung",
+      "aliases": [
+        "Warung Indonesian Restaurant"
+      ],
+      "planning": {
+        "base_slug": "siargao",
+        "mode": "local",
+        "cluster": "siargao-warung",
+        "minutes": 90,
+        "booking": "Confirm current hours, visitor access, and availability directly before visiting.",
+        "transport": "Planning estimate: use a local ride from General Luna and confirm the return trip.",
+        "accessibility": "Step-free access and accessible facilities are unverified; ask the venue.",
+        "requiresBooking": false,
+        "scheduling": "candidate"
+      },
+      "category": "Food & drink",
+      "description": "Indonesian restaurant within Siargao Island Villas.",
+      "interests": [
+        "Food Hunter",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "siargao",
+      "catalog_stop_id": "siargao-warung",
+      "status": "accepted",
+      "decision_reason": "Additional distinct physical place with reviewed identity and actual municipality sources; current access and availability are not guaranteed.",
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "destination_group": "Siargao",
+      "region": "Caraga",
+      "province": "Surigao del Norte",
+      "city_municipality": "General Luna",
+      "barangay": null,
+      "address": "Purok 5, behind Mujo Ice Bath, Tourism Road, General Luna, Siargao",
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "Brunch Spot Siargao — official venue website",
+          "sourceUrl": "https://bs-siargao.com/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Brunch Spot Siargao — official venue website",
+          "sourceUrl": "https://bs-siargao.com/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "Brunch Spot Siargao — official venue website",
+          "sourceUrl": "https://bs-siargao.com/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "id": "siargao-brunch-spot",
+      "name": "Brunch Spot Siargao",
+      "slug": "siargao-brunch-spot",
+      "aliases": [],
+      "planning": {
+        "base_slug": "siargao",
+        "mode": "local",
+        "cluster": "siargao-brunch-spot",
+        "minutes": 90,
+        "booking": "The venue website lists 07:00–17:00 daily; confirm current kitchen hours and seating.",
+        "transport": "Planning estimate: use a local ride from General Luna and confirm the return trip.",
+        "accessibility": "Step-free access and accessible facilities are unverified; ask the venue.",
+        "requiresBooking": false,
+        "scheduling": "candidate",
+        "openingHours": {
+          "weekdays": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "opens": "07:00",
+          "closes": "17:00",
+          "source": {
+            "sourceName": "Brunch Spot Siargao — official venue website",
+            "sourceUrl": "https://bs-siargao.com/",
+            "dateChecked": "2026-10-21",
+            "status": "verified"
+          }
+        }
+      },
+      "category": "Food & drink",
+      "description": "Brunch and coffee venue on Tourism Road in General Luna.",
+      "interests": [
+        "Food Hunter",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "siargao",
+      "catalog_stop_id": "siargao-brunch-spot",
+      "status": "accepted",
+      "decision_reason": "Additional distinct physical place with reviewed identity and actual municipality sources; current access and availability are not guaranteed.",
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "destination_group": "Siargao",
+      "region": "Caraga",
+      "province": "Surigao del Norte",
+      "city_municipality": "General Luna",
+      "barangay": "Barangay 5",
+      "address": "Bravo Beach Resort, Tourism Road, Barangay 5, General Luna, Surigao del Norte",
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "Bravo Beach Resort Siargao — official restaurant and location",
+          "sourceUrl": "https://www.bravosiargao.com/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Bravo Beach Resort Siargao — official restaurant and location",
+          "sourceUrl": "https://www.bravosiargao.com/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "Bravo Beach Resort Siargao — official restaurant and location",
+          "sourceUrl": "https://www.bravosiargao.com/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "id": "siargao-bravo-restaurant",
+      "name": "Bravo Restaurant — Siargao",
+      "slug": "siargao-bravo-restaurant",
+      "aliases": [
+        "Bravo Beach Restaurant"
+      ],
+      "planning": {
+        "base_slug": "siargao",
+        "mode": "local",
+        "cluster": "siargao-bravo-restaurant",
+        "minutes": 90,
+        "booking": "Confirm current hours, visitor access, and availability directly before visiting.",
+        "transport": "Planning estimate: use a local ride from General Luna and confirm the return trip.",
+        "accessibility": "Step-free access and accessible facilities are unverified; ask the venue.",
+        "requiresBooking": false,
+        "scheduling": "candidate"
+      },
+      "category": "Food & drink",
+      "description": "Beachfront resort restaurant on Tourism Road in General Luna.",
+      "interests": [
+        "Food Hunter",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "siargao",
+      "catalog_stop_id": "siargao-bravo-restaurant",
+      "status": "accepted",
+      "decision_reason": "Additional distinct physical place with reviewed identity and actual municipality sources; current access and availability are not guaranteed.",
       "reviewed_on": "2026-10-21"
     }
   ]

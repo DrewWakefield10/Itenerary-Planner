@@ -36,6 +36,8 @@ import {
   type ReadershipRow,
 } from "@/lib/discovery-interest";
 import { SourceIndicator, SourceReviewNote } from "./source-indicator";
+import {directoryDetails} from "@/lib/catalog/directory-details";
+import {unverifiedSource} from "@/lib/sources";
 const AddDialog = lazy(() => import("./discovery-add-dialog"));
 const TripMap = lazy(() => import("./trip-map"));
 const dayLabel = (date: string) =>
@@ -812,6 +814,7 @@ function PlaceDetails({
   useEffect(() => setInteractive(true), []);
   const base = destination(place.baseSlug);
   const stop = discoveryStop(place);
+  const notes=stop||(place.directory?directoryDetails(place.directory):null);
   const point = placeCoordinates(place);
   const nearby = place.baseSlug
     ? nearbyDiscoveries(place.baseSlug, place.id)
@@ -921,38 +924,42 @@ function PlaceDetails({
               </p>
             </>
           )}
-          {stop ? (
+          {notes ? (
             <>
               <p>
                 <strong>Entry price:</strong>{" "}
-                {stop.entryPrice.amount === null
-                  ? "Unknown; confirm with the venue."
-                  : `${peso(stop.entryPrice.amount)} per ${stop.entryPrice.basis}`}{" "}
+                {notes.entryPrice.amount === null
+                  ? "Unknown. Check with the venue."
+                  : `${peso(notes.entryPrice.amount)} per ${notes.entryPrice.basis}`}{" "}
                 <SourceIndicator
-                  source={stop.entryPrice.source}
+                  source={notes.entryPrice.source}
                   label="Entry price"
                 />
               </p>
               <p>
                 <strong>Planning type:</strong>{" "}
-                {stop.mode === "local"
+                {notes.mode === "local"
                   ? "Local visit"
-                  : stop.mode === "package"
+                  : notes.mode === "package"
                     ? "Full-day package"
+                    : notes.mode === "separate-base"
+                      ? "Separate overnight-base planning required"
                     : "Separate excursion"}
                 .{" "}
-                {stop.mode !== "local"
+                {notes.mode === "separate-base"
+                  ? "Choose an appropriate overnight base and confirm connections before planning this visit. "
+                  : notes.mode !== "local"
                   ? "Reserve a full day including transfers. "
                   : "Allow at least 45 minutes between visits; actual travel time needs confirmation. "}
-                {stop.componentOf.length > 0 &&
+                {notes.componentOf.length > 0 &&
                   "Visit through a suitable package; this component cannot be added independently."}
-                {stop.scheduling === "manual" &&
-                  "Current access needs confirmation; additions are paused."}
+                {notes.scheduling === "manual" &&
+                  "Venue or route details need a fresh check; automatic scheduling and additions are paused."}
               </p>
-              {stop.includes.length > 0 && (
+              {notes.includes.length > 0 && (
                 <p>
                   <strong>Package components:</strong>{" "}
-                  {stop.includes
+                  {notes.includes
                     .map(
                       (id) => base?.stops.find((s) => s.id === id)?.name || id,
                     )
@@ -962,54 +969,54 @@ function PlaceDetails({
                 </p>
               )}
               <p>
-                <strong>Booking:</strong> {stop.booking}{" "}
+                <strong>Booking:</strong> {notes.booking}{" "}
                 <SourceIndicator
-                  source={stop.sources.booking}
+                  source={notes.sources.booking}
                   label="Booking"
                 />
               </p>
               <p>
-                <strong>Visit allowance:</strong> {peso(stop.cost)} per{" "}
-                {stop.costBasis}{" "}
-                <SourceIndicator source={stop.sources.price} label="Price" />.
+                <strong>Visit allowance:</strong> {peso(notes.cost)} per{" "}
+                {notes.costBasis}{" "}
+                <SourceIndicator source={notes.sources.price} label="Price" />.
                 This is an illustrative allowance, not a quoted fee; zero does
                 not establish free admission.
               </p>
               <p>
-                <strong>Visit duration:</strong> about {stop.minutes} minutes{" "}
+                <strong>Visit duration:</strong> about {notes.minutes} minutes{" "}
                 <SourceIndicator
-                  source={stop.sources.schedule}
+                  source={notes.sources.schedule}
                   label="Duration"
                 />
               </p>
               <p>
                 <strong>Opening hours:</strong>{" "}
-                {stop.openingHours
-                  ? `${stop.openingHours.weekdays.map((n) => ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"][n]).join(", ")} · ${stop.openingHours.opens}–${stop.openingHours.closes}`
-                  : "Unknown; confirm with the venue."}{" "}
+                {notes.openingHours
+                  ? `${notes.openingHours.weekdays.map((n) => ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"][n]).join(", ")} · ${notes.openingHours.opens}–${notes.openingHours.closes}`
+                  : "Unknown. Check with the venue."}{" "}
                 <SourceIndicator
-                  source={stop.openingHours?.source || stop.sources.booking}
+                  source={notes.openingHours?.source || unverifiedSource()}
                   label="Opening hours"
                 />
               </p>
               <p>
-                <strong>Accessibility:</strong> {stop.accessibility}{" "}
+                <strong>Accessibility:</strong> {notes.accessibility}{" "}
                 <SourceIndicator
-                  source={stop.sources.accessibility}
+                  source={notes.sources.accessibility}
                   label="Accessibility"
                 />
               </p>
               <p>
-                <strong>Local transport:</strong> {stop.transport}{" "}
+                <strong>Local transport:</strong> {notes.transport}{" "}
                 <SourceIndicator
-                  source={stop.sources.transport}
+                  source={notes.sources.transport}
                   label="Local transport"
                 />
               </p>
               <p>
-                <strong>Location:</strong> {stop.locationDetails}{" "}
+                <strong>Location:</strong> {notes.locationDetails}{" "}
                 <SourceIndicator
-                  source={stop.sources.location}
+                  source={notes.sources.location}
                   label="Location"
                 />
               </p>

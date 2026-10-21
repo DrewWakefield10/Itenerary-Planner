@@ -1,0 +1,3364 @@
+[
+  {
+    "id": "manila-museo-intramuros",
+    "name": "Museo de Intramuros",
+    "destination_group": "Manila",
+    "region": "National Capital Region",
+    "province": null,
+    "city_municipality": "Manila",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Culture",
+    "description": "Ecclesiastical art and artifacts in Intramuros.",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "itinerary_base_slug": "manila",
+    "catalog_stop_id": "manila-museo-intramuros",
+    "status": "accepted",
+    "decision_reason": "Promotion of a previously omitted editorial candidate; same physical place and stable catalog ID.",
+    "sources": {
+      "identity": {
+        "sourceName": "Intramuros Administration - visitor sites",
+        "sourceUrl": "https://intramuros.gov.ph/sites/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Intramuros Administration - visitor sites",
+        "sourceUrl": "https://intramuros.gov.ph/sites/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21",
+    "aliases": [],
+    "planning": {
+      "base_slug": "manila",
+      "mode": "local",
+      "cluster": "intramuros",
+      "minutes": 60,
+      "booking": "Confirm current opening hours, admission or menu prices, and any reservation requirements with the venue before visiting.",
+      "transport": "Arrange local travel separately; route, fare, and journey time are unverified. Allow a local transfer buffer.",
+      "accessibility": "Step-free access, paths, toilets, and individual access needs have not been verified; confirm directly.",
+      "requiresBooking": false,
+      "scheduling": "candidate"
+    }
+  },
+  {
+    "id": "manila-destileria-limtuaco",
+    "name": "Destileria Limtuaco Museum",
+    "destination_group": "Manila",
+    "region": "National Capital Region",
+    "province": null,
+    "city_municipality": "Manila",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Culture",
+    "description": "A museum exploring the distillery's history.",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "itinerary_base_slug": "manila",
+    "catalog_stop_id": "manila-destileria-limtuaco",
+    "status": "accepted",
+    "decision_reason": "Promotion of a previously omitted editorial candidate; same physical place and stable catalog ID.",
+    "sources": {
+      "identity": {
+        "sourceName": "Intramuros Administration - visitor sites",
+        "sourceUrl": "https://intramuros.gov.ph/sites/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Intramuros Administration - visitor sites",
+        "sourceUrl": "https://intramuros.gov.ph/sites/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21",
+    "aliases": [],
+    "planning": {
+      "base_slug": "manila",
+      "mode": "local",
+      "cluster": "intramuros",
+      "minutes": 60,
+      "booking": "Confirm current opening hours, admission or menu prices, and any reservation requirements with the venue before visiting.",
+      "transport": "Arrange local travel separately; route, fare, and journey time are unverified. Allow a local transfer buffer.",
+      "accessibility": "Step-free access, paths, toilets, and individual access needs have not been verified; confirm directly.",
+      "requiresBooking": false,
+      "scheduling": "candidate"
+    }
+  },
+  {
+    "id": "manila-bahay-tsinoy",
+    "name": "Bahay Tsinoy",
+    "destination_group": "Manila",
+    "region": "National Capital Region",
+    "province": null,
+    "city_municipality": "Manila",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Culture",
+    "description": "A museum of Chinese Filipino history.",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "itinerary_base_slug": "manila",
+    "catalog_stop_id": "manila-bahay-tsinoy",
+    "status": "accepted",
+    "decision_reason": "Promotion of a previously omitted editorial candidate; same physical place and stable catalog ID.",
+    "sources": {
+      "identity": {
+        "sourceName": "Intramuros Administration - visitor sites",
+        "sourceUrl": "https://intramuros.gov.ph/sites/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Intramuros Administration - visitor sites",
+        "sourceUrl": "https://intramuros.gov.ph/sites/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21",
+    "aliases": [],
+    "planning": {
+      "base_slug": "manila",
+      "mode": "local",
+      "cluster": "intramuros",
+      "minutes": 60,
+      "booking": "Confirm current opening hours, admission or menu prices, and any reservation requirements with the venue before visiting.",
+      "transport": "Arrange local travel separately; route, fare, and journey time are unverified. Allow a local transfer buffer.",
+      "accessibility": "Step-free access, paths, toilets, and individual access needs have not been verified; confirm directly.",
+      "requiresBooking": false,
+      "scheduling": "candidate"
+    }
+  },
+  {
+    "id": "manila-baluarte-san-diego",
+    "name": "Baluarte de San Diego",
+    "destination_group": "Manila",
+    "region": "National Capital Region",
+    "province": null,
+    "city_municipality": "Manila",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Culture",
+    "description": "A historic bastion and garden in Intramuros.",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "itinerary_base_slug": "manila",
+    "catalog_stop_id": "manila-baluarte-san-diego",
+    "status": "accepted",
+    "decision_reason": "Verified distinct physical place; practical details require separate confirmation.",
+    "sources": {
+      "identity": {
+        "sourceName": "Intramuros Administration - visitor sites",
+        "sourceUrl": "https://intramuros.gov.ph/sites/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Intramuros Administration - visitor sites",
+        "sourceUrl": "https://intramuros.gov.ph/sites/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21",
+    "aliases": [],
+    "planning": {
+      "base_slug": "manila",
+      "mode": "local",
+      "cluster": "intramuros",
+      "minutes": 60,
+      "booking": "Confirm current opening hours, admission or menu prices, and any reservation requirements with the venue before visiting.",
+      "transport": "Arrange local travel separately; route, fare, and journey time are unverified. Allow a local transfer buffer.",
+      "accessibility": "Step-free access, paths, toilets, and individual access needs have not been verified; confirm directly.",
+      "requiresBooking": false,
+      "scheduling": "candidate"
+    }
+  },
+  {
+    "id": "manila-eng-bee-tin-ongpin",
+    "name": "Eng Bee Tin - Ongpin Flagship",
+    "destination_group": "Manila",
+    "region": "National Capital Region",
+    "province": null,
+    "city_municipality": "Manila",
+    "barangay": null,
+    "address": "628 Ongpin Street, Binondo",
+    "latitude": null,
+    "longitude": null,
+    "category": "Food & drink",
+    "description": "Hopia, tikoy, and Chinese Filipino pastries in Binondo.",
+    "interests": [
+      "Food Hunter",
+      "Slow Traveler"
+    ],
+    "itinerary_base_slug": "manila",
+    "catalog_stop_id": "manila-eng-bee-tin-ongpin",
+    "status": "accepted",
+    "decision_reason": "Verified distinct physical place; practical details require separate confirmation.",
+    "sources": {
+      "identity": {
+        "sourceName": "Eng Bee Tin - official flagship visitor information",
+        "sourceUrl": "https://www.engbeetin.com/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Eng Bee Tin - official flagship visitor information",
+        "sourceUrl": "https://www.engbeetin.com/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": "Eng Bee Tin - official flagship visitor information",
+        "sourceUrl": "https://www.engbeetin.com/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21",
+    "aliases": [
+      "Eng Bee Tin Binondo Flagship Store"
+    ],
+    "planning": {
+      "base_slug": "manila",
+      "mode": "local",
+      "cluster": "binondo",
+      "minutes": 45,
+      "booking": "Confirm current opening hours, admission or menu prices, and any reservation requirements with the venue before visiting.",
+      "transport": "Arrange local travel separately; route, fare, and journey time are unverified. Allow a local transfer buffer.",
+      "accessibility": "Step-free access, paths, toilets, and individual access needs have not been verified; confirm directly.",
+      "requiresBooking": false,
+      "scheduling": "candidate"
+    }
+  },
+  {
+    "id": "manila-ilustrado-restaurant",
+    "name": "Ilustrado Restaurant",
+    "destination_group": "Manila",
+    "region": "National Capital Region",
+    "province": null,
+    "city_municipality": "Manila",
+    "barangay": null,
+    "address": "Cabildo Street corner Recoletos Street, Intramuros",
+    "latitude": null,
+    "longitude": null,
+    "category": "Food & drink",
+    "description": "Filipino and Spanish dining in Intramuros.",
+    "interests": [
+      "Food Hunter",
+      "Slow Traveler"
+    ],
+    "itinerary_base_slug": "manila",
+    "catalog_stop_id": "manila-ilustrado-restaurant",
+    "status": "accepted",
+    "decision_reason": "Verified distinct physical place; practical details require separate confirmation.",
+    "sources": {
+      "identity": {
+        "sourceName": "Ilustrado Restaurant - official site",
+        "sourceUrl": "https://ilustradorestaurant.ph/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Ilustrado Restaurant - official site",
+        "sourceUrl": "https://ilustradorestaurant.ph/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": "Ilustrado Restaurant - official site",
+        "sourceUrl": "https://ilustradorestaurant.ph/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21",
+    "aliases": [],
+    "planning": {
+      "base_slug": "manila",
+      "mode": "local",
+      "cluster": "intramuros",
+      "minutes": 90,
+      "booking": "Confirm current opening hours, admission or menu prices, and any reservation requirements with the venue before visiting.",
+      "transport": "Arrange local travel separately; route, fare, and journey time are unverified. Allow a local transfer buffer.",
+      "accessibility": "Step-free access, paths, toilets, and individual access needs have not been verified; confirm directly.",
+      "requiresBooking": false,
+      "scheduling": "candidate"
+    }
+  },
+  {
+    "id": "manila-barbaras-heritage",
+    "name": "Barbara's Heritage Restaurant",
+    "destination_group": "Manila",
+    "region": "National Capital Region",
+    "province": null,
+    "city_municipality": "Manila",
+    "barangay": null,
+    "address": "General Luna Street, Intramuros",
+    "latitude": null,
+    "longitude": null,
+    "category": "Food & drink",
+    "description": "Filipino dining on General Luna Street.",
+    "interests": [
+      "Food Hunter",
+      "Slow Traveler"
+    ],
+    "itinerary_base_slug": "manila",
+    "catalog_stop_id": "manila-barbaras-heritage",
+    "status": "accepted",
+    "decision_reason": "Verified distinct physical place; practical details require separate confirmation.",
+    "sources": {
+      "identity": {
+        "sourceName": "Barbara's Heritage Restaurant - venue contact page",
+        "sourceUrl": "https://www.barbaras.ph/contact-us",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Barbara's Heritage Restaurant - venue contact page",
+        "sourceUrl": "https://www.barbaras.ph/contact-us",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": "Barbara's Heritage Restaurant - venue contact page",
+        "sourceUrl": "https://www.barbaras.ph/contact-us",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21",
+    "aliases": [],
+    "planning": {
+      "base_slug": "manila",
+      "mode": "local",
+      "cluster": "intramuros",
+      "minutes": 90,
+      "booking": "Confirm dining arrangements and whether the requested service includes a cultural performance. No meal or performance is reserved.",
+      "transport": "Arrange local travel separately; route, fare, and journey time are unverified. Allow a local transfer buffer.",
+      "accessibility": "Step-free access, paths, toilets, and individual access needs have not been verified; confirm directly.",
+      "requiresBooking": false,
+      "scheduling": "candidate"
+    }
+  },
+  {
+    "id": "manila-arroceros-forest-park",
+    "name": "Arroceros Forest Park",
+    "destination_group": "Manila",
+    "region": "National Capital Region",
+    "province": null,
+    "city_municipality": "Manila",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Nature",
+    "description": "A city-managed forest park in Manila.",
+    "interests": [
+      "Nature Lover",
+      "Slow Traveler"
+    ],
+    "itinerary_base_slug": "manila",
+    "catalog_stop_id": "manila-arroceros-forest-park",
+    "status": "accepted",
+    "decision_reason": "Verified distinct physical place; practical details require separate confirmation.",
+    "sources": {
+      "identity": {
+        "sourceName": "City of Manila - Arroceros park management",
+        "sourceUrl": "https://manila.gov.ph/category/parks-development/page/6/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "City of Manila - Arroceros park management",
+        "sourceUrl": "https://manila.gov.ph/category/parks-development/page/6/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21",
+    "aliases": [],
+    "planning": {
+      "base_slug": "manila",
+      "mode": "local",
+      "cluster": "manila-arroceros-forest-park",
+      "minutes": 90,
+      "booking": "Confirm current opening hours, admission or menu prices, and any reservation requirements with the venue before visiting.",
+      "transport": "Arrange local travel separately; route, fare, and journey time are unverified. Allow a local transfer buffer.",
+      "accessibility": "Step-free access, paths, toilets, and individual access needs have not been verified; confirm directly.",
+      "requiresBooking": false,
+      "scheduling": "candidate"
+    }
+  },
+  {
+    "id": "manila-ninoy-aquino-parks",
+    "name": "Ninoy Aquino Parks and Wildlife Center",
+    "destination_group": "Manila",
+    "region": "National Capital Region",
+    "province": null,
+    "city_municipality": "Quezon City",
+    "barangay": null,
+    "address": "Quezon Avenue corner Elliptical Road, Diliman",
+    "latitude": null,
+    "longitude": null,
+    "category": "Nature",
+    "description": "An urban nature park in Diliman.",
+    "interests": [
+      "Nature Lover",
+      "Slow Traveler"
+    ],
+    "itinerary_base_slug": null,
+    "catalog_stop_id": null,
+    "status": "accepted",
+    "decision_reason": "Verified distinct physical place; practical details require separate confirmation.",
+    "sources": {
+      "identity": {
+        "sourceName": "Quezon City Government - Ninoy Aquino Parks and Wildlife Center",
+        "sourceUrl": "https://quezoncity.gov.ph/place/ninoy-aquino-parks-and-wildlife-center/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Quezon City Government - Ninoy Aquino Parks and Wildlife Center",
+        "sourceUrl": "https://quezoncity.gov.ph/place/ninoy-aquino-parks-and-wildlife-center/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": "Quezon City Government - Ninoy Aquino Parks and Wildlife Center",
+        "sourceUrl": "https://quezoncity.gov.ph/place/ninoy-aquino-parks-and-wildlife-center/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21",
+    "aliases": [
+      "NAPWC"
+    ],
+    "planning": {
+      "base_slug": null,
+      "mode": "separate-base",
+      "cluster": "manila-ninoy-aquino-parks",
+      "minutes": 150,
+      "booking": "Confirm current opening hours, admission or menu prices, and any reservation requirements with the venue before visiting.",
+      "transport": "Outside the currently modeled city base. Arrange a separate route and transport before scheduling.",
+      "accessibility": "Step-free access, paths, toilets, and individual access needs have not been verified; confirm directly.",
+      "requiresBooking": false,
+      "scheduling": "manual"
+    }
+  },
+  {
+    "id": "manila-ateneo-art-gallery",
+    "name": "Ateneo Art Gallery",
+    "destination_group": "Manila",
+    "region": "National Capital Region",
+    "province": null,
+    "city_municipality": "Quezon City",
+    "barangay": null,
+    "address": "Soledad V Pangilinan Arts Wing, Arete, Ateneo de Manila University, Katipunan Avenue, Loyola Heights",
+    "latitude": null,
+    "longitude": null,
+    "category": "Culture",
+    "description": "Modern and contemporary art at Ateneo's Arete arts wing.",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "itinerary_base_slug": null,
+    "catalog_stop_id": null,
+    "status": "accepted",
+    "decision_reason": "Verified distinct physical place; practical details require separate confirmation.",
+    "sources": {
+      "identity": {
+        "sourceName": "Ateneo Art Gallery - official visitor information",
+        "sourceUrl": "https://ateneoartgallery.com/contact",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Ateneo Art Gallery - official visitor information",
+        "sourceUrl": "https://ateneoartgallery.com/contact",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": "Ateneo Art Gallery - official visitor information",
+        "sourceUrl": "https://ateneoartgallery.com/contact",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21",
+    "aliases": [],
+    "planning": {
+      "base_slug": null,
+      "mode": "separate-base",
+      "cluster": "manila-ateneo-art-gallery",
+      "minutes": 120,
+      "booking": "The gallery publishes visitor entry guidance and campus ID rules. Confirm the current university calendar and permitted campus access.",
+      "transport": "Outside the currently modeled city base. Arrange a separate route and transport before scheduling.",
+      "accessibility": "Step-free access, paths, toilets, and individual access needs have not been verified; confirm directly.",
+      "requiresBooking": false,
+      "scheduling": "manual"
+    }
+  },
+  {
+    "id": "manila-museo-pambata",
+    "name": "Museo Pambata",
+    "destination_group": "Manila",
+    "region": "National Capital Region",
+    "province": null,
+    "city_municipality": "Manila",
+    "barangay": null,
+    "address": "Roxas Boulevard corner South Drive, Ermita",
+    "latitude": null,
+    "longitude": null,
+    "category": "Culture",
+    "description": "An interactive museum celebrating Filipino childhood.",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "itinerary_base_slug": "manila",
+    "catalog_stop_id": "manila-museo-pambata",
+    "status": "accepted",
+    "decision_reason": "Verified distinct physical place; practical details require separate confirmation.",
+    "sources": {
+      "identity": {
+        "sourceName": "Museo Pambata - official museum and visitor page",
+        "sourceUrl": "https://www.museopambata.com.ph/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Museo Pambata - official museum and visitor page",
+        "sourceUrl": "https://www.museopambata.com.ph/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": "Museo Pambata - official museum and visitor page",
+        "sourceUrl": "https://www.museopambata.com.ph/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21",
+    "aliases": [],
+    "planning": {
+      "base_slug": "manila",
+      "mode": "local",
+      "cluster": "manila-museo-pambata",
+      "minutes": 150,
+      "booking": "Confirm current opening hours, admission or menu prices, and any reservation requirements with the venue before visiting.",
+      "transport": "Arrange local travel separately; route, fare, and journey time are unverified. Allow a local transfer buffer.",
+      "accessibility": "Step-free access, paths, toilets, and individual access needs have not been verified; confirm directly.",
+      "requiresBooking": false,
+      "scheduling": "candidate"
+    }
+  },
+  {
+    "id": "manila-ocean-park",
+    "name": "Manila Ocean Park",
+    "destination_group": "Manila",
+    "region": "National Capital Region",
+    "province": null,
+    "city_municipality": "Manila",
+    "barangay": null,
+    "address": "Luneta",
+    "latitude": null,
+    "longitude": null,
+    "category": "Attractions",
+    "description": "A marine-themed visitor park beside Luneta.",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "itinerary_base_slug": "manila",
+    "catalog_stop_id": "manila-ocean-park",
+    "status": "accepted",
+    "decision_reason": "Verified distinct physical place; practical details require separate confirmation.",
+    "sources": {
+      "identity": {
+        "sourceName": "Manila Ocean Park - official park information",
+        "sourceUrl": "https://manilaoceanpark.com/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Manila Ocean Park - official park information",
+        "sourceUrl": "https://manilaoceanpark.com/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": "Manila Ocean Park - official park information",
+        "sourceUrl": "https://manilaoceanpark.com/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21",
+    "aliases": [],
+    "planning": {
+      "base_slug": "manila",
+      "mode": "local",
+      "cluster": "manila-ocean-park",
+      "minutes": 180,
+      "booking": "Confirm the specific attractions included in any ticket, current operations, and booking conditions. No admission is purchased.",
+      "transport": "Arrange local travel separately; route, fare, and journey time are unverified. Allow a local transfer buffer.",
+      "accessibility": "Step-free access, paths, toilets, and individual access needs have not been verified; confirm directly.",
+      "requiresBooking": false,
+      "scheduling": "candidate"
+    }
+  },
+  {
+    "id": "baguio-pink-sisters",
+    "name": "Pink Sisters' Convent and Chapel",
+    "destination_group": "Baguio",
+    "region": "Cordillera Administrative Region",
+    "province": null,
+    "city_municipality": "Baguio City",
+    "barangay": null,
+    "address": "Brent Road",
+    "latitude": null,
+    "longitude": null,
+    "category": "Culture",
+    "description": "A religious chapel on Brent Road.",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "itinerary_base_slug": "baguio",
+    "catalog_stop_id": "baguio-pink-sisters",
+    "status": "accepted",
+    "decision_reason": "Verified distinct physical place; practical details require separate confirmation.",
+    "sources": {
+      "identity": {
+        "sourceName": "Baguio City Government - tourist directory",
+        "sourceUrl": "https://infoboard.baguio.gov.ph/tourists-spots",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Baguio City Government - tourist directory",
+        "sourceUrl": "https://infoboard.baguio.gov.ph/tourists-spots",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": "Baguio City Government - tourist directory",
+        "sourceUrl": "https://infoboard.baguio.gov.ph/tourists-spots",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21",
+    "aliases": [],
+    "planning": {
+      "base_slug": "baguio",
+      "mode": "local",
+      "cluster": "baguio-pink-sisters",
+      "minutes": 60,
+      "booking": "Confirm current opening hours, admission or menu prices, and any reservation requirements with the venue before visiting.",
+      "transport": "Arrange local travel separately; route, fare, and journey time are unverified. Allow a local transfer buffer.",
+      "accessibility": "Step-free access, paths, toilets, and individual access needs have not been verified; confirm directly.",
+      "requiresBooking": false,
+      "scheduling": "candidate"
+    }
+  },
+  {
+    "id": "baguio-slu-museum",
+    "name": "SLU Museum of Igorot Cultures and Arts",
+    "destination_group": "Baguio",
+    "region": "Cordillera Administrative Region",
+    "province": null,
+    "city_municipality": "Baguio City",
+    "barangay": null,
+    "address": "Saint Louis University, Bonifacio Street",
+    "latitude": null,
+    "longitude": null,
+    "category": "Culture",
+    "description": "A university museum focused on Igorot cultures.",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "itinerary_base_slug": "baguio",
+    "catalog_stop_id": "baguio-slu-museum",
+    "status": "accepted",
+    "decision_reason": "Verified distinct physical place; practical details require separate confirmation.",
+    "sources": {
+      "identity": {
+        "sourceName": "Baguio City Government - tourist directory",
+        "sourceUrl": "https://infoboard.baguio.gov.ph/tourists-spots",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Baguio City Government - tourist directory",
+        "sourceUrl": "https://infoboard.baguio.gov.ph/tourists-spots",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": "Baguio City Government - tourist directory",
+        "sourceUrl": "https://infoboard.baguio.gov.ph/tourists-spots",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21",
+    "aliases": [],
+    "planning": {
+      "base_slug": "baguio",
+      "mode": "local",
+      "cluster": "baguio-slu-museum",
+      "minutes": 60,
+      "booking": "Confirm current opening hours, admission or menu prices, and any reservation requirements with the venue before visiting.",
+      "transport": "Arrange local travel separately; route, fare, and journey time are unverified. Allow a local transfer buffer.",
+      "accessibility": "Step-free access, paths, toilets, and individual access needs have not been verified; confirm directly.",
+      "requiresBooking": false,
+      "scheduling": "candidate"
+    }
+  },
+  {
+    "id": "baguio-bamboo-sanctuary",
+    "name": "St. Francis Xavier Bamboo Sanctuary",
+    "destination_group": "Baguio",
+    "region": "Cordillera Administrative Region",
+    "province": null,
+    "city_municipality": "Baguio City",
+    "barangay": null,
+    "address": "Pacdal",
+    "latitude": null,
+    "longitude": null,
+    "category": "Nature",
+    "description": "A bamboo sanctuary in Pacdal.",
+    "interests": [
+      "Nature Lover",
+      "Slow Traveler"
+    ],
+    "itinerary_base_slug": "baguio",
+    "catalog_stop_id": "baguio-bamboo-sanctuary",
+    "status": "accepted",
+    "decision_reason": "Verified distinct physical place; practical details require separate confirmation.",
+    "sources": {
+      "identity": {
+        "sourceName": "Baguio City Government - tourist directory",
+        "sourceUrl": "https://infoboard.baguio.gov.ph/tourists-spots",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Baguio City Government - tourist directory",
+        "sourceUrl": "https://infoboard.baguio.gov.ph/tourists-spots",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": "Baguio City Government - tourist directory",
+        "sourceUrl": "https://infoboard.baguio.gov.ph/tourists-spots",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21",
+    "aliases": [],
+    "planning": {
+      "base_slug": "baguio",
+      "mode": "local",
+      "cluster": "baguio-bamboo-sanctuary",
+      "minutes": 60,
+      "booking": "Confirm current opening hours, admission or menu prices, and any reservation requirements with the venue before visiting.",
+      "transport": "Arrange local travel separately; route, fare, and journey time are unverified. Allow a local transfer buffer.",
+      "accessibility": "Step-free access, paths, toilets, and individual access needs have not been verified; confirm directly.",
+      "requiresBooking": false,
+      "scheduling": "candidate"
+    }
+  },
+  {
+    "id": "baguio-pilak-silvercraft",
+    "name": "PILAK Silvercraft and Gift Shoppe",
+    "destination_group": "Baguio",
+    "region": "Cordillera Administrative Region",
+    "province": null,
+    "city_municipality": "Baguio City",
+    "barangay": null,
+    "address": "37 Leonard Wood Road",
+    "latitude": null,
+    "longitude": null,
+    "category": "Culture",
+    "description": "A silvercraft shop on Leonard Wood Road.",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "itinerary_base_slug": "baguio",
+    "catalog_stop_id": "baguio-pilak-silvercraft",
+    "status": "accepted",
+    "decision_reason": "Verified distinct physical place; practical details require separate confirmation.",
+    "sources": {
+      "identity": {
+        "sourceName": "Baguio City Government - tourist directory",
+        "sourceUrl": "https://infoboard.baguio.gov.ph/tourists-spots",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Baguio City Government - tourist directory",
+        "sourceUrl": "https://infoboard.baguio.gov.ph/tourists-spots",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": "Baguio City Government - tourist directory",
+        "sourceUrl": "https://infoboard.baguio.gov.ph/tourists-spots",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21",
+    "aliases": [],
+    "planning": {
+      "base_slug": "baguio",
+      "mode": "local",
+      "cluster": "baguio-pilak-silvercraft",
+      "minutes": 60,
+      "booking": "Confirm current opening hours, admission or menu prices, and any reservation requirements with the venue before visiting.",
+      "transport": "Arrange local travel separately; route, fare, and journey time are unverified. Allow a local transfer buffer.",
+      "accessibility": "Step-free access, paths, toilets, and individual access needs have not been verified; confirm directly.",
+      "requiresBooking": false,
+      "scheduling": "candidate"
+    }
+  },
+  {
+    "id": "baguio-nardas-handwoven",
+    "name": "Narda's Handwoven Arts and Crafts",
+    "destination_group": "Baguio",
+    "region": "Cordillera Administrative Region",
+    "province": null,
+    "city_municipality": "Baguio City",
+    "barangay": null,
+    "address": "151 Upper Session Road",
+    "latitude": null,
+    "longitude": null,
+    "category": "Culture",
+    "description": "Handwoven crafts on Upper Session Road.",
+    "interests": [
+      "Culture Seeker",
+      "City Wanderer"
+    ],
+    "itinerary_base_slug": "baguio",
+    "catalog_stop_id": "baguio-nardas-handwoven",
+    "status": "accepted",
+    "decision_reason": "Verified distinct physical place; practical details require separate confirmation.",
+    "sources": {
+      "identity": {
+        "sourceName": "Baguio City Government - tourist directory",
+        "sourceUrl": "https://infoboard.baguio.gov.ph/tourists-spots",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Baguio City Government - tourist directory",
+        "sourceUrl": "https://infoboard.baguio.gov.ph/tourists-spots",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": "Baguio City Government - tourist directory",
+        "sourceUrl": "https://infoboard.baguio.gov.ph/tourists-spots",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21",
+    "aliases": [],
+    "planning": {
+      "base_slug": "baguio",
+      "mode": "local",
+      "cluster": "baguio-nardas-handwoven",
+      "minutes": 60,
+      "booking": "Confirm current opening hours, admission or menu prices, and any reservation requirements with the venue before visiting.",
+      "transport": "Arrange local travel separately; route, fare, and journey time are unverified. Allow a local transfer buffer.",
+      "accessibility": "Step-free access, paths, toilets, and individual access needs have not been verified; confirm directly.",
+      "requiresBooking": false,
+      "scheduling": "candidate"
+    }
+  },
+  {
+    "id": "baguio-good-shepherd",
+    "name": "Good Shepherd Convent Shop",
+    "destination_group": "Baguio",
+    "region": "Cordillera Administrative Region",
+    "province": null,
+    "city_municipality": "Baguio City",
+    "barangay": null,
+    "address": "Gibraltar Road",
+    "latitude": null,
+    "longitude": null,
+    "category": "Food & drink",
+    "description": "A local delicacy stop on Gibraltar Road.",
+    "interests": [
+      "Food Hunter",
+      "Slow Traveler"
+    ],
+    "itinerary_base_slug": "baguio",
+    "catalog_stop_id": "baguio-good-shepherd",
+    "status": "accepted",
+    "decision_reason": "Verified distinct physical place; practical details require separate confirmation.",
+    "sources": {
+      "identity": {
+        "sourceName": "Baguio City Government - tourist directory",
+        "sourceUrl": "https://infoboard.baguio.gov.ph/tourists-spots",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Baguio City Government - tourist directory",
+        "sourceUrl": "https://infoboard.baguio.gov.ph/tourists-spots",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": "Baguio City Government - tourist directory",
+        "sourceUrl": "https://infoboard.baguio.gov.ph/tourists-spots",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21",
+    "aliases": [],
+    "planning": {
+      "base_slug": "baguio",
+      "mode": "local",
+      "cluster": "baguio-good-shepherd",
+      "minutes": 60,
+      "booking": "Confirm current opening hours, admission or menu prices, and any reservation requirements with the venue before visiting.",
+      "transport": "Arrange local travel separately; route, fare, and journey time are unverified. Allow a local transfer buffer.",
+      "accessibility": "Step-free access, paths, toilets, and individual access needs have not been verified; confirm directly.",
+      "requiresBooking": false,
+      "scheduling": "candidate"
+    }
+  },
+  {
+    "id": "baguio-malcolm-square",
+    "name": "Malcolm Square",
+    "destination_group": "Baguio",
+    "region": "Cordillera Administrative Region",
+    "province": null,
+    "city_municipality": "Baguio City",
+    "barangay": null,
+    "address": "Lower Session Road",
+    "latitude": null,
+    "longitude": null,
+    "category": "Parks & markets",
+    "description": "A public square on Lower Session Road.",
+    "interests": [
+      "Nature Lover",
+      "Slow Traveler"
+    ],
+    "itinerary_base_slug": "baguio",
+    "catalog_stop_id": "baguio-malcolm-square",
+    "status": "accepted",
+    "decision_reason": "Verified distinct physical place; practical details require separate confirmation.",
+    "sources": {
+      "identity": {
+        "sourceName": "Baguio City Government - tourist directory",
+        "sourceUrl": "https://infoboard.baguio.gov.ph/tourists-spots",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Baguio City Government - tourist directory",
+        "sourceUrl": "https://infoboard.baguio.gov.ph/tourists-spots",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": "Baguio City Government - tourist directory",
+        "sourceUrl": "https://infoboard.baguio.gov.ph/tourists-spots",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21",
+    "aliases": [],
+    "planning": {
+      "base_slug": "baguio",
+      "mode": "local",
+      "cluster": "baguio-malcolm-square",
+      "minutes": 60,
+      "booking": "Confirm current opening hours, admission or menu prices, and any reservation requirements with the venue before visiting.",
+      "transport": "Arrange local travel separately; route, fare, and journey time are unverified. Allow a local transfer buffer.",
+      "accessibility": "Step-free access, paths, toilets, and individual access needs have not been verified; confirm directly.",
+      "requiresBooking": false,
+      "scheduling": "candidate"
+    }
+  },
+  {
+    "id": "baguio-mines-view-park",
+    "name": "Mines View Park",
+    "destination_group": "Baguio",
+    "region": "Cordillera Administrative Region",
+    "province": null,
+    "city_municipality": "Baguio City",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Nature",
+    "description": "A viewpoint park overlooking mountain and former mining landscapes.",
+    "interests": [
+      "Nature Lover",
+      "Slow Traveler"
+    ],
+    "itinerary_base_slug": "baguio",
+    "catalog_stop_id": "baguio-mines-view-park",
+    "status": "accepted",
+    "decision_reason": "Verified distinct physical place; practical details require separate confirmation.",
+    "sources": {
+      "identity": {
+        "sourceName": "Tourism Promotions Board - Baguio destination highlights",
+        "sourceUrl": "https://rtf.tpb.gov.ph/cordillera/baguio/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Tourism Promotions Board - Baguio destination highlights",
+        "sourceUrl": "https://rtf.tpb.gov.ph/cordillera/baguio/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21",
+    "aliases": [],
+    "planning": {
+      "base_slug": "baguio",
+      "mode": "local",
+      "cluster": "baguio-mines-view-park",
+      "minutes": 90,
+      "booking": "Confirm current opening hours, admission or menu prices, and any reservation requirements with the venue before visiting.",
+      "transport": "Arrange local travel separately; route, fare, and journey time are unverified. Allow a local transfer buffer.",
+      "accessibility": "Step-free access, paths, toilets, and individual access needs have not been verified; confirm directly.",
+      "requiresBooking": false,
+      "scheduling": "candidate"
+    }
+  },
+  {
+    "id": "baguio-original-good-taste",
+    "name": "The Original Good Taste Restaurant",
+    "destination_group": "Baguio",
+    "region": "Cordillera Administrative Region",
+    "province": null,
+    "city_municipality": "Baguio City",
+    "barangay": null,
+    "address": "Lapu Lapu Street",
+    "latitude": null,
+    "longitude": null,
+    "category": "Food & drink",
+    "description": "The original Good Taste dining venue on Lapu Lapu Street.",
+    "interests": [
+      "Food Hunter",
+      "Slow Traveler"
+    ],
+    "itinerary_base_slug": "baguio",
+    "catalog_stop_id": "baguio-original-good-taste",
+    "status": "accepted",
+    "decision_reason": "Verified distinct physical place; practical details require separate confirmation.",
+    "sources": {
+      "identity": {
+        "sourceName": "The Original Good Taste Restaurant - official location",
+        "sourceUrl": "https://goodtaste.ph/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "The Original Good Taste Restaurant - official location",
+        "sourceUrl": "https://goodtaste.ph/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": "The Original Good Taste Restaurant - official location",
+        "sourceUrl": "https://goodtaste.ph/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21",
+    "aliases": [
+      "Original Good Taste Lapu Lapu"
+    ],
+    "planning": {
+      "base_slug": "baguio",
+      "mode": "local",
+      "cluster": "baguio-original-good-taste",
+      "minutes": 90,
+      "booking": "This entry is the Lapu Lapu venue, not the separately located Otek restaurant. Confirm current menu, seating, and hours.",
+      "transport": "Arrange local travel separately; route, fare, and journey time are unverified. Allow a local transfer buffer.",
+      "accessibility": "Step-free access, paths, toilets, and individual access needs have not been verified; confirm directly.",
+      "requiresBooking": false,
+      "scheduling": "candidate"
+    }
+  },
+  {
+    "id": "baguio-choco-late-batirol",
+    "name": "Choco-late de Batirol - Camp John Hay",
+    "destination_group": "Baguio",
+    "region": "Cordillera Administrative Region",
+    "province": null,
+    "city_municipality": "Baguio City",
+    "barangay": null,
+    "address": "Igorot Garden, Gate 4, Camp John Hay",
+    "latitude": null,
+    "longitude": null,
+    "category": "Food & drink",
+    "description": "A garden restaurant serving traditional chocolate drinks.",
+    "interests": [
+      "Food Hunter",
+      "Slow Traveler"
+    ],
+    "itinerary_base_slug": "baguio",
+    "catalog_stop_id": "baguio-choco-late-batirol",
+    "status": "accepted",
+    "decision_reason": "Verified distinct physical place; practical details require separate confirmation.",
+    "sources": {
+      "identity": {
+        "sourceName": "Choco-late de Batirol - official contact",
+        "sourceUrl": "https://www.chocolatedebatirol.com/blank-3",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Choco-late de Batirol - official contact",
+        "sourceUrl": "https://www.chocolatedebatirol.com/blank-3",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": "Choco-late de Batirol - official contact",
+        "sourceUrl": "https://www.chocolatedebatirol.com/blank-3",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21",
+    "aliases": [
+      "Choco-late de Batirol"
+    ],
+    "planning": {
+      "base_slug": "baguio",
+      "mode": "local",
+      "cluster": "john-hay",
+      "minutes": 90,
+      "booking": "Confirm current opening hours, admission or menu prices, and any reservation requirements with the venue before visiting.",
+      "transport": "Arrange local travel separately; route, fare, and journey time are unverified. Allow a local transfer buffer.",
+      "accessibility": "Step-free access, paths, toilets, and individual access needs have not been verified; confirm directly.",
+      "requiresBooking": false,
+      "scheduling": "candidate"
+    }
+  },
+  {
+    "id": "baguio-hill-station",
+    "name": "Hill Station Restaurant",
+    "destination_group": "Baguio",
+    "region": "Cordillera Administrative Region",
+    "province": null,
+    "city_municipality": "Baguio City",
+    "barangay": null,
+    "address": "Casa Vallejo, Upper Session Road, Luneta Hill",
+    "latitude": null,
+    "longitude": null,
+    "category": "Food & drink",
+    "description": "Dining inside the historic Casa Vallejo property.",
+    "interests": [
+      "Food Hunter",
+      "Slow Traveler"
+    ],
+    "itinerary_base_slug": "baguio",
+    "catalog_stop_id": "baguio-hill-station",
+    "status": "accepted",
+    "decision_reason": "Verified distinct physical place; practical details require separate confirmation.",
+    "sources": {
+      "identity": {
+        "sourceName": "Casa Vallejo - official hotel dining information",
+        "sourceUrl": "https://www.casavallejo.online/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Casa Vallejo - official hotel dining information",
+        "sourceUrl": "https://www.casavallejo.online/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": "Casa Vallejo - official hotel dining information",
+        "sourceUrl": "https://www.casavallejo.online/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21",
+    "aliases": [],
+    "planning": {
+      "base_slug": "baguio",
+      "mode": "local",
+      "cluster": "baguio-hill-station",
+      "minutes": 90,
+      "booking": "Confirm current opening hours, admission or menu prices, and any reservation requirements with the venue before visiting.",
+      "transport": "Arrange local travel separately; route, fare, and journey time are unverified. Allow a local transfer buffer.",
+      "accessibility": "Step-free access, paths, toilets, and individual access needs have not been verified; confirm directly.",
+      "requiresBooking": false,
+      "scheduling": "candidate"
+    }
+  },
+  {
+    "id": "baguio-amare-outlook",
+    "name": "Amare La Cucina - Outlook Drive",
+    "destination_group": "Baguio",
+    "region": "Cordillera Administrative Region",
+    "province": null,
+    "city_municipality": "Baguio City",
+    "barangay": null,
+    "address": "22 Outlook Drive",
+    "latitude": null,
+    "longitude": null,
+    "category": "Food & drink",
+    "description": "Italian dining and wood-fired pizza at the Outlook branch.",
+    "interests": [
+      "Food Hunter",
+      "Slow Traveler"
+    ],
+    "itinerary_base_slug": "baguio",
+    "catalog_stop_id": "baguio-amare-outlook",
+    "status": "accepted",
+    "decision_reason": "Verified distinct physical place; practical details require separate confirmation.",
+    "sources": {
+      "identity": {
+        "sourceName": "Amare La Cucina - official branch information",
+        "sourceUrl": "https://amarelacucina.com/contact-amare-la-cucina/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Amare La Cucina - official branch information",
+        "sourceUrl": "https://amarelacucina.com/contact-amare-la-cucina/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": "Amare La Cucina - official branch information",
+        "sourceUrl": "https://amarelacucina.com/contact-amare-la-cucina/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21",
+    "aliases": [
+      "Amare La Cucina Outlook"
+    ],
+    "planning": {
+      "base_slug": "baguio",
+      "mode": "local",
+      "cluster": "baguio-amare-outlook",
+      "minutes": 90,
+      "booking": "Confirm current opening hours, admission or menu prices, and any reservation requirements with the venue before visiting.",
+      "transport": "Arrange local travel separately; route, fare, and journey time are unverified. Allow a local transfer buffer.",
+      "accessibility": "Step-free access, paths, toilets, and individual access needs have not been verified; confirm directly.",
+      "requiresBooking": false,
+      "scheduling": "candidate"
+    }
+  },
+  {
+    "id": "baguio-craft-brewery",
+    "name": "Baguio Craft Brewery",
+    "destination_group": "Baguio",
+    "region": "Cordillera Administrative Region",
+    "province": null,
+    "city_municipality": "Baguio City",
+    "barangay": null,
+    "address": "120 RKC Building, Marcos Highway, Km 4",
+    "latitude": null,
+    "longitude": null,
+    "category": "Food & drink",
+    "description": "A microbrewery and dining venue on Marcos Highway.",
+    "interests": [
+      "Food Hunter",
+      "Slow Traveler"
+    ],
+    "itinerary_base_slug": "baguio",
+    "catalog_stop_id": "baguio-craft-brewery",
+    "status": "accepted",
+    "decision_reason": "Verified distinct physical place; practical details require separate confirmation.",
+    "sources": {
+      "identity": {
+        "sourceName": "Baguio Craft Brewery - official visitor information",
+        "sourceUrl": "https://www.baguiocraftbrewery.net/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Baguio Craft Brewery - official visitor information",
+        "sourceUrl": "https://www.baguiocraftbrewery.net/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": "Baguio Craft Brewery - official visitor information",
+        "sourceUrl": "https://www.baguiocraftbrewery.net/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21",
+    "aliases": [],
+    "planning": {
+      "base_slug": "baguio",
+      "mode": "local",
+      "cluster": "baguio-craft-brewery",
+      "minutes": 90,
+      "booking": "Confirm current seating and food service. The venue asks larger groups to arrange reservations; brewery tours require a separate arrangement. No tasting is included.",
+      "transport": "Arrange local travel separately; route, fare, and journey time are unverified. Allow a local transfer buffer.",
+      "accessibility": "Step-free access, paths, toilets, and individual access needs have not been verified; confirm directly.",
+      "requiresBooking": false,
+      "scheduling": "candidate"
+    }
+  },
+  {
+    "id": "baguio-craft-1945",
+    "name": "Craft 1945",
+    "destination_group": "Baguio",
+    "region": "Cordillera Administrative Region",
+    "province": null,
+    "city_municipality": "Baguio City",
+    "barangay": null,
+    "address": "Outlook Drive",
+    "latitude": null,
+    "longitude": null,
+    "category": "Food & drink",
+    "description": "Spanish-inspired dining in a heritage house on Outlook Drive.",
+    "interests": [
+      "Food Hunter",
+      "Slow Traveler"
+    ],
+    "itinerary_base_slug": "baguio",
+    "catalog_stop_id": "baguio-craft-1945",
+    "status": "accepted",
+    "decision_reason": "Verified distinct physical place; practical details require separate confirmation.",
+    "sources": {
+      "identity": {
+        "sourceName": "Craft 1945 - official visitor information",
+        "sourceUrl": "https://craft1945.com/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Craft 1945 - official visitor information",
+        "sourceUrl": "https://craft1945.com/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": "Craft 1945 - official visitor information",
+        "sourceUrl": "https://craft1945.com/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21",
+    "aliases": [
+      "Cafe 1945"
+    ],
+    "planning": {
+      "base_slug": "baguio",
+      "mode": "local",
+      "cluster": "baguio-craft-1945",
+      "minutes": 90,
+      "booking": "Confirm current dining hours and reservation arrangements. Craft 1945 and its on-site cafe are one directory venue.",
+      "transport": "Arrange local travel separately; route, fare, and journey time are unverified. Allow a local transfer buffer.",
+      "accessibility": "Step-free access, paths, toilets, and individual access needs have not been verified; confirm directly.",
+      "requiresBooking": false,
+      "scheduling": "candidate"
+    }
+  },
+  {
+    "id": "batanes-casa-napoli-town",
+    "name": "Casa Napoli Pizza and Pasta - Basco Town",
+    "destination_group": "Batanes",
+    "region": "Cagayan Valley",
+    "province": "Batanes",
+    "city_municipality": "Basco",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Food & drink",
+    "description": "A pizza and pasta venue on the provincial Basco food map.",
+    "interests": [
+      "Food Hunter",
+      "Slow Traveler"
+    ],
+    "itinerary_base_slug": "batanes",
+    "catalog_stop_id": "batanes-casa-napoli-town",
+    "status": "accepted",
+    "decision_reason": "Officially listed physical place with its actual municipality; excursion logistics are kept separate from town stops.",
+    "sources": {
+      "identity": {
+        "sourceName": "Batanes Provincial Heritage and Tourism Office - Basco food map",
+        "sourceUrl": "https://breathtakingbatanes.com/foodmap.pdf",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Batanes Provincial Heritage and Tourism Office - Basco food map",
+        "sourceUrl": "https://breathtakingbatanes.com/foodmap.pdf",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21",
+    "aliases": [
+      "Casa Napoli Pizza and Pasta"
+    ],
+    "planning": {
+      "base_slug": "batanes",
+      "mode": "local",
+      "cluster": "batanes-casa-napoli-town",
+      "minutes": 90,
+      "booking": "Confirm current food service, menu prices, and opening hours directly. No table or meal is reserved.",
+      "transport": "Local movement within Basco; confirm the exact venue and road route. Fares and travel times are unverified.",
+      "accessibility": "Accessible paths, steps, toilets, and individual access needs have not been verified. Confirm with the venue or operator.",
+      "requiresBooking": false,
+      "scheduling": "candidate"
+    }
+  },
+  {
+    "id": "batanes-beehan",
+    "name": "Beehan Food Enterprise",
+    "destination_group": "Batanes",
+    "region": "Cagayan Valley",
+    "province": "Batanes",
+    "city_municipality": "Basco",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Food & drink",
+    "description": "A local food venue listed in Basco town proper.",
+    "interests": [
+      "Food Hunter",
+      "Slow Traveler"
+    ],
+    "itinerary_base_slug": "batanes",
+    "catalog_stop_id": "batanes-beehan",
+    "status": "accepted",
+    "decision_reason": "Officially listed physical place with its actual municipality; excursion logistics are kept separate from town stops.",
+    "sources": {
+      "identity": {
+        "sourceName": "Batanes Provincial Heritage and Tourism Office - Basco food map",
+        "sourceUrl": "https://breathtakingbatanes.com/foodmap.pdf",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Batanes Provincial Heritage and Tourism Office - Basco food map",
+        "sourceUrl": "https://breathtakingbatanes.com/foodmap.pdf",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21",
+    "aliases": [
+      "Beehan Meals and Snacks"
+    ],
+    "planning": {
+      "base_slug": "batanes",
+      "mode": "local",
+      "cluster": "batanes-beehan",
+      "minutes": 90,
+      "booking": "Confirm current food service, menu prices, and opening hours directly. No table or meal is reserved.",
+      "transport": "Local movement within Basco; confirm the exact venue and road route. Fares and travel times are unverified.",
+      "accessibility": "Accessible paths, steps, toilets, and individual access needs have not been verified. Confirm with the venue or operator.",
+      "requiresBooking": false,
+      "scheduling": "candidate"
+    }
+  },
+  {
+    "id": "batanes-harbour-cafe",
+    "name": "Harbour Cafe",
+    "destination_group": "Batanes",
+    "region": "Cagayan Valley",
+    "province": "Batanes",
+    "city_municipality": "Basco",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Food & drink",
+    "description": "A cafe on the provincial Basco food map.",
+    "interests": [
+      "Food Hunter",
+      "Slow Traveler"
+    ],
+    "itinerary_base_slug": "batanes",
+    "catalog_stop_id": "batanes-harbour-cafe",
+    "status": "accepted",
+    "decision_reason": "Officially listed physical place with its actual municipality; excursion logistics are kept separate from town stops.",
+    "sources": {
+      "identity": {
+        "sourceName": "Batanes Provincial Heritage and Tourism Office - Basco food map",
+        "sourceUrl": "https://breathtakingbatanes.com/foodmap.pdf",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Batanes Provincial Heritage and Tourism Office - Basco food map",
+        "sourceUrl": "https://breathtakingbatanes.com/foodmap.pdf",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21",
+    "aliases": [],
+    "planning": {
+      "base_slug": "batanes",
+      "mode": "local",
+      "cluster": "batanes-harbour-cafe",
+      "minutes": 90,
+      "booking": "Confirm current food service, menu prices, and opening hours directly. No table or meal is reserved.",
+      "transport": "Local movement within Basco; confirm the exact venue and road route. Fares and travel times are unverified.",
+      "accessibility": "Accessible paths, steps, toilets, and individual access needs have not been verified. Confirm with the venue or operator.",
+      "requiresBooking": false,
+      "scheduling": "candidate"
+    }
+  },
+  {
+    "id": "batanes-vunong-dinette",
+    "name": "Vunong Dinette",
+    "destination_group": "Batanes",
+    "region": "Cagayan Valley",
+    "province": "Batanes",
+    "city_municipality": "Basco",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Food & drink",
+    "description": "An Ivatan dining venue listed in Basco town proper.",
+    "interests": [
+      "Food Hunter",
+      "Slow Traveler"
+    ],
+    "itinerary_base_slug": "batanes",
+    "catalog_stop_id": "batanes-vunong-dinette",
+    "status": "accepted",
+    "decision_reason": "Officially listed physical place with its actual municipality; excursion logistics are kept separate from town stops.",
+    "sources": {
+      "identity": {
+        "sourceName": "Batanes Provincial Heritage and Tourism Office - Basco food map",
+        "sourceUrl": "https://breathtakingbatanes.com/foodmap.pdf",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Batanes Provincial Heritage and Tourism Office - Basco food map",
+        "sourceUrl": "https://breathtakingbatanes.com/foodmap.pdf",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21",
+    "aliases": [
+      "Vunong Dinette and Catering Services"
+    ],
+    "planning": {
+      "base_slug": "batanes",
+      "mode": "local",
+      "cluster": "batanes-vunong-dinette",
+      "minutes": 90,
+      "booking": "Confirm current food service, menu prices, and opening hours directly. No table or meal is reserved.",
+      "transport": "Local movement within Basco; confirm the exact venue and road route. Fares and travel times are unverified.",
+      "accessibility": "Accessible paths, steps, toilets, and individual access needs have not been verified. Confirm with the venue or operator.",
+      "requiresBooking": false,
+      "scheduling": "candidate"
+    }
+  },
+  {
+    "id": "batanes-honesty-coffee-shop",
+    "name": "Honesty Coffee Shop",
+    "destination_group": "Batanes",
+    "region": "Cagayan Valley",
+    "province": "Batanes",
+    "city_municipality": "Ivana",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Food & drink",
+    "description": "A small self-service coffee and snack shop in Ivana.",
+    "interests": [
+      "Food Hunter",
+      "Slow Traveler"
+    ],
+    "itinerary_base_slug": "batanes",
+    "catalog_stop_id": "batanes-honesty-coffee-shop",
+    "status": "accepted",
+    "decision_reason": "Officially listed physical place with its actual municipality; excursion logistics are kept separate from town stops.",
+    "sources": {
+      "identity": {
+        "sourceName": "Department of Tourism Region 2 - Batanes municipality guide",
+        "sourceUrl": "https://www.region2fun.ph/official/batanes-2/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Department of Tourism Region 2 - Batanes municipality guide",
+        "sourceUrl": "https://www.region2fun.ph/official/batanes-2/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21",
+    "aliases": [
+      "Honesty Shop"
+    ],
+    "planning": {
+      "base_slug": "batanes",
+      "mode": "excursion",
+      "cluster": "batanes-honesty-coffee-shop",
+      "minutes": 480,
+      "booking": "Confirm visitor registration, current access, route, and operator arrangements before scheduling. No excursion is booked.",
+      "transport": "Separate Batan Island road outing from Basco; confirm the vehicle, route, and total travel allowance with a local operator.",
+      "accessibility": "Accessible paths, steps, toilets, and individual access needs have not been verified. Confirm with the venue or operator.",
+      "requiresBooking": true,
+      "scheduling": "candidate"
+    }
+  },
+  {
+    "id": "batanes-rakuh-idi-spring",
+    "name": "Rakuh-a-Idi Spring",
+    "destination_group": "Batanes",
+    "region": "Cagayan Valley",
+    "province": "Batanes",
+    "city_municipality": "Mahatao",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Nature",
+    "description": "A spring in the Rakuh-a-Idi area of Mahatao.",
+    "interests": [
+      "Nature Lover",
+      "Slow Traveler"
+    ],
+    "itinerary_base_slug": "batanes",
+    "catalog_stop_id": "batanes-rakuh-idi-spring",
+    "status": "accepted",
+    "decision_reason": "Officially listed physical place with its actual municipality; excursion logistics are kept separate from town stops.",
+    "sources": {
+      "identity": {
+        "sourceName": "Batanes Provincial Heritage and Tourism Office - mapped sites",
+        "sourceUrl": "https://breathtakingbatanes.com/maps/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Batanes Provincial Heritage and Tourism Office - mapped sites",
+        "sourceUrl": "https://breathtakingbatanes.com/maps/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21",
+    "aliases": [
+      "Fountain of Youth Batanes"
+    ],
+    "planning": {
+      "base_slug": "batanes",
+      "mode": "excursion",
+      "cluster": "batanes-rakuh-idi-spring",
+      "minutes": 480,
+      "booking": "Confirm visitor registration, current access, route, and operator arrangements before scheduling. No excursion is booked.",
+      "transport": "Separate Batan Island road outing from Basco; confirm the vehicle, route, and total travel allowance with a local operator.",
+      "accessibility": "Accessible paths, steps, toilets, and individual access needs have not been verified. Confirm with the venue or operator.",
+      "requiresBooking": true,
+      "scheduling": "candidate"
+    }
+  },
+  {
+    "id": "batanes-chawa-viewdeck",
+    "name": "Chawa View Deck",
+    "destination_group": "Batanes",
+    "region": "Cagayan Valley",
+    "province": "Batanes",
+    "city_municipality": "Mahatao",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Nature",
+    "description": "A coastal viewpoint in Mahatao.",
+    "interests": [
+      "Nature Lover",
+      "Slow Traveler"
+    ],
+    "itinerary_base_slug": "batanes",
+    "catalog_stop_id": "batanes-chawa-viewdeck",
+    "status": "accepted",
+    "decision_reason": "Officially listed physical place with its actual municipality; excursion logistics are kept separate from town stops.",
+    "sources": {
+      "identity": {
+        "sourceName": "Batanes provincial tourism portal - Mahatao attractions",
+        "sourceUrl": "https://bookings.breathtakingbatanes.com/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Batanes provincial tourism portal - Mahatao attractions",
+        "sourceUrl": "https://bookings.breathtakingbatanes.com/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21",
+    "aliases": [
+      "Chawa Viewdeck"
+    ],
+    "planning": {
+      "base_slug": "batanes",
+      "mode": "excursion",
+      "cluster": "batanes-chawa-viewdeck",
+      "minutes": 480,
+      "booking": "Confirm visitor registration, current access, route, and operator arrangements before scheduling. No excursion is booked.",
+      "transport": "Separate Batan Island road outing from Basco; confirm the vehicle, route, and total travel allowance with a local operator.",
+      "accessibility": "Accessible paths, steps, toilets, and individual access needs have not been verified. Confirm with the venue or operator.",
+      "requiresBooking": true,
+      "scheduling": "candidate"
+    }
+  },
+  {
+    "id": "batanes-tayid-lighthouse",
+    "name": "Tayid Lighthouse",
+    "destination_group": "Batanes",
+    "region": "Cagayan Valley",
+    "province": "Batanes",
+    "city_municipality": "Mahatao",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Culture",
+    "description": "A lighthouse overlooking the Mahatao coast.",
+    "interests": [
+      "Culture Seeker",
+      "Slow Traveler"
+    ],
+    "itinerary_base_slug": "batanes",
+    "catalog_stop_id": "batanes-tayid-lighthouse",
+    "status": "accepted",
+    "decision_reason": "Officially listed physical place with its actual municipality; excursion logistics are kept separate from town stops.",
+    "sources": {
+      "identity": {
+        "sourceName": "Batanes provincial tourism portal - Mahatao attractions",
+        "sourceUrl": "https://bookings.breathtakingbatanes.com/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Batanes provincial tourism portal - Mahatao attractions",
+        "sourceUrl": "https://bookings.breathtakingbatanes.com/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21",
+    "aliases": [],
+    "planning": {
+      "base_slug": "batanes",
+      "mode": "excursion",
+      "cluster": "batanes-tayid-lighthouse",
+      "minutes": 480,
+      "booking": "Confirm visitor registration, current access, route, and operator arrangements before scheduling. No excursion is booked.",
+      "transport": "Separate Batan Island road outing from Basco; confirm the vehicle, route, and total travel allowance with a local operator.",
+      "accessibility": "Accessible paths, steps, toilets, and individual access needs have not been verified. Confirm with the venue or operator.",
+      "requiresBooking": true,
+      "scheduling": "candidate"
+    }
+  },
+  {
+    "id": "batanes-ivana-san-jose-church",
+    "name": "San Jose Church - Ivana",
+    "destination_group": "Batanes",
+    "region": "Cagayan Valley",
+    "province": "Batanes",
+    "city_municipality": "Ivana",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Culture",
+    "description": "A historic church near Ivana's port.",
+    "interests": [
+      "Culture Seeker",
+      "Slow Traveler"
+    ],
+    "itinerary_base_slug": "batanes",
+    "catalog_stop_id": "batanes-ivana-san-jose-church",
+    "status": "accepted",
+    "decision_reason": "Officially listed physical place with its actual municipality; excursion logistics are kept separate from town stops.",
+    "sources": {
+      "identity": {
+        "sourceName": "Department of Tourism Region 2 - Batanes municipality guide",
+        "sourceUrl": "https://www.region2fun.ph/official/batanes-2/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Department of Tourism Region 2 - Batanes municipality guide",
+        "sourceUrl": "https://www.region2fun.ph/official/batanes-2/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21",
+    "aliases": [
+      "Ivana Church Complex",
+      "San Jose de Obrero Church Ivana"
+    ],
+    "planning": {
+      "base_slug": "batanes",
+      "mode": "excursion",
+      "cluster": "batanes-ivana-san-jose-church",
+      "minutes": 480,
+      "booking": "Confirm visitor registration, current access, route, and operator arrangements before scheduling. No excursion is booked.",
+      "transport": "Separate Batan Island road outing from Basco; confirm the vehicle, route, and total travel allowance with a local operator.",
+      "accessibility": "Accessible paths, steps, toilets, and individual access needs have not been verified. Confirm with the venue or operator.",
+      "requiresBooking": true,
+      "scheduling": "candidate"
+    }
+  },
+  {
+    "id": "batanes-san-jose-spanish-bridge",
+    "name": "San Jose Spanish Bridge",
+    "destination_group": "Batanes",
+    "region": "Cagayan Valley",
+    "province": "Batanes",
+    "city_municipality": "Ivana",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Culture",
+    "description": "A Spanish-era bridge listed in Ivana.",
+    "interests": [
+      "Culture Seeker",
+      "Slow Traveler"
+    ],
+    "itinerary_base_slug": "batanes",
+    "catalog_stop_id": "batanes-san-jose-spanish-bridge",
+    "status": "accepted",
+    "decision_reason": "Officially listed physical place with its actual municipality; excursion logistics are kept separate from town stops.",
+    "sources": {
+      "identity": {
+        "sourceName": "Batanes Provincial Heritage and Tourism Office - mapped sites",
+        "sourceUrl": "https://breathtakingbatanes.com/maps/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Batanes Provincial Heritage and Tourism Office - mapped sites",
+        "sourceUrl": "https://breathtakingbatanes.com/maps/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21",
+    "aliases": [
+      "Ivana Spanish Bridge"
+    ],
+    "planning": {
+      "base_slug": "batanes",
+      "mode": "excursion",
+      "cluster": "batanes-san-jose-spanish-bridge",
+      "minutes": 480,
+      "booking": "Confirm visitor registration, current access, route, and operator arrangements before scheduling. No excursion is booked.",
+      "transport": "Separate Batan Island road outing from Basco; confirm the vehicle, route, and total travel allowance with a local operator.",
+      "accessibility": "Accessible paths, steps, toilets, and individual access needs have not been verified. Confirm with the venue or operator.",
+      "requiresBooking": true,
+      "scheduling": "candidate"
+    }
+  },
+  {
+    "id": "batanes-songsong-ruins",
+    "name": "Songsong Ruins",
+    "destination_group": "Batanes",
+    "region": "Cagayan Valley",
+    "province": "Batanes",
+    "city_municipality": "Uyugan",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Culture",
+    "description": "Remains of an abandoned coastal settlement in Uyugan.",
+    "interests": [
+      "Culture Seeker",
+      "Slow Traveler"
+    ],
+    "itinerary_base_slug": "batanes",
+    "catalog_stop_id": "batanes-songsong-ruins",
+    "status": "accepted",
+    "decision_reason": "Officially listed physical place with its actual municipality; excursion logistics are kept separate from town stops.",
+    "sources": {
+      "identity": {
+        "sourceName": "Batanes Provincial Heritage and Tourism Office - mapped sites",
+        "sourceUrl": "https://breathtakingbatanes.com/maps/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Batanes Provincial Heritage and Tourism Office - mapped sites",
+        "sourceUrl": "https://breathtakingbatanes.com/maps/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21",
+    "aliases": [
+      "Song-song Ruins",
+      "Songsong Ruins and Vitu"
+    ],
+    "planning": {
+      "base_slug": "batanes",
+      "mode": "excursion",
+      "cluster": "batanes-songsong-ruins",
+      "minutes": 480,
+      "booking": "Confirm visitor registration, current access, route, and operator arrangements before scheduling. No excursion is booked.",
+      "transport": "Separate Batan Island road outing from Basco; confirm the vehicle, route, and total travel allowance with a local operator.",
+      "accessibility": "Accessible paths, steps, toilets, and individual access needs have not been verified. Confirm with the venue or operator.",
+      "requiresBooking": true,
+      "scheduling": "candidate"
+    }
+  },
+  {
+    "id": "batanes-alapad-rock",
+    "name": "Alapad Rock Formation",
+    "destination_group": "Batanes",
+    "region": "Cagayan Valley",
+    "province": "Batanes",
+    "city_municipality": "Uyugan",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Nature",
+    "description": "A coastal rock formation in the Alapad area.",
+    "interests": [
+      "Nature Lover",
+      "Slow Traveler"
+    ],
+    "itinerary_base_slug": "batanes",
+    "catalog_stop_id": "batanes-alapad-rock",
+    "status": "accepted",
+    "decision_reason": "Officially listed physical place with its actual municipality; excursion logistics are kept separate from town stops.",
+    "sources": {
+      "identity": {
+        "sourceName": "Batanes Provincial Heritage and Tourism Office - mapped sites",
+        "sourceUrl": "https://breathtakingbatanes.com/maps/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Batanes Provincial Heritage and Tourism Office - mapped sites",
+        "sourceUrl": "https://breathtakingbatanes.com/maps/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21",
+    "aliases": [
+      "Madangay Hill and Alapad Rock Formation"
+    ],
+    "planning": {
+      "base_slug": "batanes",
+      "mode": "excursion",
+      "cluster": "batanes-alapad-rock",
+      "minutes": 480,
+      "booking": "Confirm visitor registration, current access, route, and operator arrangements before scheduling. No excursion is booked.",
+      "transport": "Separate Batan Island road outing from Basco; confirm the vehicle, route, and total travel allowance with a local operator.",
+      "accessibility": "Accessible paths, steps, toilets, and individual access needs have not been verified. Confirm with the venue or operator.",
+      "requiresBooking": true,
+      "scheduling": "candidate"
+    }
+  },
+  {
+    "id": "batanes-national-museum",
+    "name": "National Museum of the Philippines - Batanes",
+    "destination_group": "Batanes",
+    "region": "Cagayan Valley",
+    "province": "Batanes",
+    "city_municipality": "Uyugan",
+    "barangay": "Itbud",
+    "address": "Old Loran, Itbud",
+    "latitude": null,
+    "longitude": null,
+    "category": "Culture",
+    "description": "A regional museum at the former Loran station in Itbud.",
+    "interests": [
+      "Culture Seeker",
+      "Slow Traveler"
+    ],
+    "itinerary_base_slug": "batanes",
+    "catalog_stop_id": "batanes-national-museum",
+    "status": "accepted",
+    "decision_reason": "Officially listed physical place with its actual municipality; excursion logistics are kept separate from town stops.",
+    "sources": {
+      "identity": {
+        "sourceName": "National Museum - official Batanes museum address",
+        "sourceUrl": "https://www.nationalmuseum.gov.ph/contact-us/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "National Museum - official Batanes museum address",
+        "sourceUrl": "https://www.nationalmuseum.gov.ph/contact-us/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": "National Museum - official Batanes museum address",
+        "sourceUrl": "https://www.nationalmuseum.gov.ph/contact-us/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21",
+    "aliases": [
+      "National Museum Batanes"
+    ],
+    "planning": {
+      "base_slug": "batanes",
+      "mode": "excursion",
+      "cluster": "batanes-national-museum",
+      "minutes": 480,
+      "booking": "Confirm visitor registration, current access, route, and operator arrangements before scheduling. No excursion is booked.",
+      "transport": "Separate Batan Island road outing from Basco; confirm the vehicle, route, and total travel allowance with a local operator.",
+      "accessibility": "Accessible paths, steps, toilets, and individual access needs have not been verified. Confirm with the venue or operator.",
+      "requiresBooking": true,
+      "scheduling": "candidate"
+    }
+  },
+  {
+    "id": "batanes-sabtang-san-vicente",
+    "name": "San Vicente Ferrer Parish Church",
+    "destination_group": "Batanes",
+    "region": "Cagayan Valley",
+    "province": "Batanes",
+    "city_municipality": "Sabtang",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Culture",
+    "description": "A parish church in Sabtang town.",
+    "interests": [
+      "Culture Seeker",
+      "Slow Traveler"
+    ],
+    "itinerary_base_slug": "batanes",
+    "catalog_stop_id": "batanes-sabtang-san-vicente",
+    "status": "accepted",
+    "decision_reason": "Officially listed physical place with its actual municipality; excursion logistics are kept separate from town stops.",
+    "sources": {
+      "identity": {
+        "sourceName": "Batanes Provincial Heritage and Tourism Office - mapped sites",
+        "sourceUrl": "https://breathtakingbatanes.com/maps/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Batanes Provincial Heritage and Tourism Office - mapped sites",
+        "sourceUrl": "https://breathtakingbatanes.com/maps/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21",
+    "aliases": [
+      "Sabtang Church"
+    ],
+    "planning": {
+      "base_slug": "batanes",
+      "mode": "excursion",
+      "cluster": "batanes-sabtang-san-vicente",
+      "minutes": 480,
+      "booking": "Confirm visitor registration, current access, route, and operator arrangements before scheduling. No excursion is booked.",
+      "transport": "Separate full-day Sabtang excursion: arrange the road transfer to Ivana and a return boat with an operator. Crossing availability depends on current port and operator decisions; no marine safety determination is made.",
+      "accessibility": "Accessible paths, steps, toilets, and individual access needs have not been verified. Confirm with the venue or operator.",
+      "requiresBooking": true,
+      "scheduling": "manual"
+    }
+  },
+  {
+    "id": "batanes-savidug-village",
+    "name": "Savidug Heritage Village",
+    "destination_group": "Batanes",
+    "region": "Cagayan Valley",
+    "province": "Batanes",
+    "city_municipality": "Sabtang",
+    "barangay": "Savidug",
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Culture",
+    "description": "A Sabtang village associated with Ivatan stone houses.",
+    "interests": [
+      "Culture Seeker",
+      "Slow Traveler"
+    ],
+    "itinerary_base_slug": "batanes",
+    "catalog_stop_id": "batanes-savidug-village",
+    "status": "accepted",
+    "decision_reason": "Officially listed physical place with its actual municipality; excursion logistics are kept separate from town stops.",
+    "sources": {
+      "identity": {
+        "sourceName": "LetsGoBatanes - Sabtang heritage villages and tour route",
+        "sourceUrl": "https://www.letsgobatanes.com/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "LetsGoBatanes - Sabtang heritage villages and tour route",
+        "sourceUrl": "https://www.letsgobatanes.com/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21",
+    "aliases": [
+      "Savidug Village"
+    ],
+    "planning": {
+      "base_slug": "batanes",
+      "mode": "excursion",
+      "cluster": "batanes-savidug-village",
+      "minutes": 480,
+      "booking": "Confirm visitor registration, current access, route, and operator arrangements before scheduling. No excursion is booked.",
+      "transport": "Separate full-day Sabtang excursion: arrange the road transfer to Ivana and a return boat with an operator. Crossing availability depends on current port and operator decisions; no marine safety determination is made.",
+      "accessibility": "Accessible paths, steps, toilets, and individual access needs have not been verified. Confirm with the venue or operator.",
+      "requiresBooking": true,
+      "scheduling": "manual"
+    }
+  },
+  {
+    "id": "batanes-chavayan-village",
+    "name": "Chavayan Heritage Village",
+    "destination_group": "Batanes",
+    "region": "Cagayan Valley",
+    "province": "Batanes",
+    "city_municipality": "Sabtang",
+    "barangay": "Chavayan",
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Culture",
+    "description": "A coastal Ivatan village on Sabtang Island.",
+    "interests": [
+      "Culture Seeker",
+      "Slow Traveler"
+    ],
+    "itinerary_base_slug": "batanes",
+    "catalog_stop_id": "batanes-chavayan-village",
+    "status": "accepted",
+    "decision_reason": "Officially listed physical place with its actual municipality; excursion logistics are kept separate from town stops.",
+    "sources": {
+      "identity": {
+        "sourceName": "Batanes Provincial Heritage and Tourism Office - mapped sites",
+        "sourceUrl": "https://breathtakingbatanes.com/maps/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Batanes Provincial Heritage and Tourism Office - mapped sites",
+        "sourceUrl": "https://breathtakingbatanes.com/maps/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21",
+    "aliases": [
+      "Chavayan Barrio Proper"
+    ],
+    "planning": {
+      "base_slug": "batanes",
+      "mode": "excursion",
+      "cluster": "batanes-chavayan-village",
+      "minutes": 480,
+      "booking": "Confirm visitor registration, current access, route, and operator arrangements before scheduling. No excursion is booked.",
+      "transport": "Separate full-day Sabtang excursion: arrange the road transfer to Ivana and a return boat with an operator. Crossing availability depends on current port and operator decisions; no marine safety determination is made.",
+      "accessibility": "Accessible paths, steps, toilets, and individual access needs have not been verified. Confirm with the venue or operator.",
+      "requiresBooking": true,
+      "scheduling": "manual"
+    }
+  },
+  {
+    "id": "batanes-morong-beach",
+    "name": "Morong Beach",
+    "destination_group": "Batanes",
+    "region": "Cagayan Valley",
+    "province": "Batanes",
+    "city_municipality": "Sabtang",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Nature",
+    "description": "A Sabtang beach cove with the natural Nakabuang arch.",
+    "interests": [
+      "Nature Lover",
+      "Slow Traveler"
+    ],
+    "itinerary_base_slug": "batanes",
+    "catalog_stop_id": "batanes-morong-beach",
+    "status": "accepted",
+    "decision_reason": "Officially listed physical place with its actual municipality; excursion logistics are kept separate from town stops.",
+    "sources": {
+      "identity": {
+        "sourceName": "Batanes Provincial Heritage and Tourism Office - mapped sites",
+        "sourceUrl": "https://breathtakingbatanes.com/maps/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Batanes Provincial Heritage and Tourism Office - mapped sites",
+        "sourceUrl": "https://breathtakingbatanes.com/maps/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21",
+    "aliases": [
+      "Nakabuang Beach",
+      "Nakabuang Arch",
+      "Ahaw Natural Stone Arch"
+    ],
+    "planning": {
+      "base_slug": "batanes",
+      "mode": "excursion",
+      "cluster": "batanes-morong-beach",
+      "minutes": 480,
+      "booking": "Confirm visitor registration, current access, route, and operator arrangements before scheduling. No excursion is booked.",
+      "transport": "Separate full-day Sabtang excursion: arrange the road transfer to Ivana and a return boat with an operator. Crossing availability depends on current port and operator decisions; no marine safety determination is made.",
+      "accessibility": "Accessible paths, steps, toilets, and individual access needs have not been verified. Confirm with the venue or operator.",
+      "requiresBooking": true,
+      "scheduling": "manual"
+    }
+  },
+  {
+    "id": "batanes-chamantad-tinyan",
+    "name": "Chamantad-Tinyan Viewpoint",
+    "destination_group": "Batanes",
+    "region": "Cagayan Valley",
+    "province": "Batanes",
+    "city_municipality": "Sabtang",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Nature",
+    "description": "A hillside viewpoint on the road toward Chavayan.",
+    "interests": [
+      "Nature Lover",
+      "Slow Traveler"
+    ],
+    "itinerary_base_slug": "batanes",
+    "catalog_stop_id": "batanes-chamantad-tinyan",
+    "status": "accepted",
+    "decision_reason": "Officially listed physical place with its actual municipality; excursion logistics are kept separate from town stops.",
+    "sources": {
+      "identity": {
+        "sourceName": "Batanes Provincial Heritage and Tourism Office - Sabtang attractions",
+        "sourceUrl": "https://breathtakingbatanes.com/tourist-attraction-6/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Batanes Provincial Heritage and Tourism Office - Sabtang attractions",
+        "sourceUrl": "https://breathtakingbatanes.com/tourist-attraction-6/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21",
+    "aliases": [
+      "Chamantad Point",
+      "Chamantan-Tinyan"
+    ],
+    "planning": {
+      "base_slug": "batanes",
+      "mode": "excursion",
+      "cluster": "batanes-chamantad-tinyan",
+      "minutes": 480,
+      "booking": "Confirm visitor registration, current access, route, and operator arrangements before scheduling. No excursion is booked.",
+      "transport": "Separate full-day Sabtang excursion: arrange the road transfer to Ivana and a return boat with an operator. Crossing availability depends on current port and operator decisions; no marine safety determination is made.",
+      "accessibility": "Accessible paths, steps, toilets, and individual access needs have not been verified. Confirm with the venue or operator.",
+      "requiresBooking": true,
+      "scheduling": "manual"
+    }
+  },
+  {
+    "id": "sagada-pottery",
+    "name": "Sagada Pottery",
+    "destination_group": "Sagada",
+    "region": "Cordillera Administrative Region",
+    "province": "Mountain Province",
+    "city_municipality": "Sagada",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Culture",
+    "description": "A local pottery venue where university visitors joined a hands-on craft activity in September 2026.",
+    "interests": [
+      "Culture Seeker",
+      "Slow Traveler"
+    ],
+    "itinerary_base_slug": "sagada",
+    "catalog_stop_id": "sagada-pottery",
+    "status": "accepted",
+    "decision_reason": "Distinct physical venue with reviewed identity and actual municipality; practical arrangements remain subject to direct confirmation.",
+    "sources": {
+      "identity": {
+        "sourceName": "Mountain Province State University - September 2026 Sagada cultural immersion",
+        "sourceUrl": "https://mpsu.edu.ph/?p=9853",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Mountain Province State University - September 2026 Sagada cultural immersion",
+        "sourceUrl": "https://mpsu.edu.ph/?p=9853",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21",
+    "aliases": [
+      "Sagada Pottery and Training Center"
+    ],
+    "planning": {
+      "base_slug": "sagada",
+      "mode": "local",
+      "cluster": "sagada-pottery",
+      "minutes": 90,
+      "booking": "Confirm current demonstration or workshop availability, reservations, duration, and charges directly; hands-on access is not automatic.",
+      "transport": "Arrange local transport separately; route, fare, journey time, and walking access have not been verified.",
+      "accessibility": "Step-free access, terrain, toilets, and individual access needs are unverified; confirm with the venue or local tourism office.",
+      "requiresBooking": false,
+      "scheduling": "candidate"
+    }
+  },
+  {
+    "id": "sagada-weaving-center",
+    "name": "Sagada Weaving Center",
+    "destination_group": "Sagada",
+    "region": "Cordillera Administrative Region",
+    "province": "Mountain Province",
+    "city_municipality": "Sagada",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Culture",
+    "description": "A weaving venue included in the university's September 2026 Sagada heritage visit.",
+    "interests": [
+      "Culture Seeker",
+      "Slow Traveler"
+    ],
+    "itinerary_base_slug": "sagada",
+    "catalog_stop_id": "sagada-weaving-center",
+    "status": "accepted",
+    "decision_reason": "Distinct physical venue with reviewed identity and actual municipality; practical arrangements remain subject to direct confirmation.",
+    "sources": {
+      "identity": {
+        "sourceName": "Mountain Province State University - September 2026 Sagada cultural immersion",
+        "sourceUrl": "https://mpsu.edu.ph/?p=9853",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Mountain Province State University - September 2026 Sagada cultural immersion",
+        "sourceUrl": "https://mpsu.edu.ph/?p=9853",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21",
+    "aliases": [
+      "Sagada Weaving"
+    ],
+    "planning": {
+      "base_slug": "sagada",
+      "mode": "local",
+      "cluster": "sagada-weaving-center",
+      "minutes": 60,
+      "booking": "Confirm current visitor access and opening hours directly; a weaving demonstration or workshop is not included automatically.",
+      "transport": "Arrange local transport separately; route, fare, journey time, and walking access have not been verified.",
+      "accessibility": "Step-free access, terrain, toilets, and individual access needs are unverified; confirm with the venue or local tourism office.",
+      "requiresBooking": false,
+      "scheduling": "candidate"
+    }
+  },
+  {
+    "id": "sagada-ganduyan-museum",
+    "name": "Ganduyan Museum",
+    "destination_group": "Sagada",
+    "region": "Cordillera Administrative Region",
+    "province": "Mountain Province",
+    "city_municipality": "Sagada",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Culture",
+    "description": "A local heritage museum included in Sagada cultural visits.",
+    "interests": [
+      "Culture Seeker",
+      "Slow Traveler"
+    ],
+    "itinerary_base_slug": "sagada",
+    "catalog_stop_id": "sagada-ganduyan-museum",
+    "status": "accepted",
+    "decision_reason": "Distinct physical venue with reviewed identity and actual municipality; practical arrangements remain subject to direct confirmation.",
+    "sources": {
+      "identity": {
+        "sourceName": "Mountain Province State University - September 2026 Sagada cultural immersion",
+        "sourceUrl": "https://mpsu.edu.ph/?p=9853",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Mountain Province State University - September 2026 Sagada cultural immersion",
+        "sourceUrl": "https://mpsu.edu.ph/?p=9853",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21",
+    "aliases": [],
+    "planning": {
+      "base_slug": "sagada",
+      "mode": "local",
+      "cluster": "sagada-ganduyan-museum",
+      "minutes": 90,
+      "booking": "Confirm current museum opening hours, admission, and any guided-visit arrangements directly.",
+      "transport": "Arrange local transport separately; route, fare, journey time, and walking access have not been verified.",
+      "accessibility": "Step-free access, terrain, toilets, and individual access needs are unverified; confirm with the venue or local tourism office.",
+      "requiresBooking": false,
+      "scheduling": "candidate"
+    }
+  },
+  {
+    "id": "sagada-gaia-cafe",
+    "name": "Gaia Cafe",
+    "destination_group": "Sagada",
+    "region": "Cordillera Administrative Region",
+    "province": "Mountain Province",
+    "city_municipality": "Sagada",
+    "barangay": "Ambasing",
+    "address": "Ambasing, Sagada, Mountain Province",
+    "latitude": null,
+    "longitude": null,
+    "category": "Food & drink",
+    "description": "An Ambasing cafe serving meals, coffee, and other drinks, profiled in DTI's 2025 business catalogue.",
+    "interests": [
+      "Food Tripper",
+      "Slow Traveler"
+    ],
+    "itinerary_base_slug": "sagada",
+    "catalog_stop_id": "sagada-gaia-cafe",
+    "status": "accepted",
+    "decision_reason": "Distinct physical venue with reviewed identity and actual municipality; practical arrangements remain subject to direct confirmation.",
+    "sources": {
+      "identity": {
+        "sourceName": "DTI Cordillera - 2025 MSME catalogue, Gaia Cafe profile",
+        "sourceUrl": "https://cdnc.heyzine.com/files/uploaded/v3/090365080bd6cbbb601dda6371a0ef2bf7cfa6f4.pdf",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "DTI Cordillera - 2025 MSME catalogue, Gaia Cafe profile",
+        "sourceUrl": "https://cdnc.heyzine.com/files/uploaded/v3/090365080bd6cbbb601dda6371a0ef2bf7cfa6f4.pdf",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": "DTI Cordillera - 2025 MSME catalogue, Gaia Cafe profile",
+        "sourceUrl": "https://cdnc.heyzine.com/files/uploaded/v3/090365080bd6cbbb601dda6371a0ef2bf7cfa6f4.pdf",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21",
+    "aliases": [
+      "Gaia Cafe and Crafts"
+    ],
+    "planning": {
+      "base_slug": "sagada",
+      "mode": "local",
+      "cluster": "sagada-gaia-cafe",
+      "minutes": 90,
+      "booking": "Confirm current cafe opening hours, menu, dietary needs, and prices directly. The 2025 business profile is not a current menu or certification guarantee.",
+      "transport": "Arrange local transport separately; route, fare, journey time, and walking access have not been verified.",
+      "accessibility": "Step-free access, terrain, toilets, and individual access needs are unverified; confirm with the venue or local tourism office.",
+      "requiresBooking": false,
+      "scheduling": "candidate"
+    }
+  },
+  {
+    "id": "sagada-masferre-restaurant",
+    "name": "Masferre Country Inn Restaurant",
+    "destination_group": "Sagada",
+    "region": "Cordillera Administrative Region",
+    "province": "Mountain Province",
+    "city_municipality": "Sagada",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Food & drink",
+    "description": "The restaurant at Masferre Country Inn, whose visitor spaces feature heritage photography.",
+    "interests": [
+      "Food Tripper",
+      "Slow Traveler"
+    ],
+    "itinerary_base_slug": "sagada",
+    "catalog_stop_id": "sagada-masferre-restaurant",
+    "status": "accepted",
+    "decision_reason": "Distinct physical venue with reviewed identity and actual municipality; practical arrangements remain subject to direct confirmation.",
+    "sources": {
+      "identity": {
+        "sourceName": "Masferre Country Inn and Restaurant - official website",
+        "sourceUrl": "https://www.masferre.ph/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Masferre Country Inn and Restaurant - official website",
+        "sourceUrl": "https://www.masferre.ph/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21",
+    "aliases": [
+      "Masferre Country Inn and Restaurant",
+      "Masferre Restaurant"
+    ],
+    "planning": {
+      "base_slug": "sagada",
+      "mode": "local",
+      "cluster": "sagada-masferre-restaurant",
+      "minutes": 90,
+      "booking": "Confirm current opening hours, visit arrangements, prices, and any workshop reservations directly before visiting.",
+      "transport": "Arrange local transport separately; route, fare, journey time, and walking access have not been verified.",
+      "accessibility": "Step-free access, terrain, toilets, and individual access needs are unverified; confirm with the venue or local tourism office.",
+      "requiresBooking": false,
+      "scheduling": "candidate"
+    }
+  },
+  {
+    "id": "sagada-cellar-door",
+    "name": "Sagada Cellar Door",
+    "destination_group": "Sagada",
+    "region": "Cordillera Administrative Region",
+    "province": "Mountain Province",
+    "city_municipality": "Sagada",
+    "barangay": null,
+    "address": "Sagada-Besao Road, Poblacion, Sagada, Mountain Province",
+    "latitude": null,
+    "longitude": null,
+    "category": "Food & drink",
+    "description": "A Sagada distillery producing small-batch spirits from local ingredients.",
+    "interests": [
+      "Food Tripper",
+      "Slow Traveler"
+    ],
+    "itinerary_base_slug": "sagada",
+    "catalog_stop_id": "sagada-cellar-door",
+    "status": "accepted",
+    "decision_reason": "Distinct physical venue with reviewed identity and actual municipality; practical arrangements remain subject to direct confirmation.",
+    "sources": {
+      "identity": {
+        "sourceName": "Sagada Cellar Door - official contact and location",
+        "sourceUrl": "https://sagadacellardoor.com/pages/contact",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Sagada Cellar Door - official contact and location",
+        "sourceUrl": "https://sagadacellardoor.com/pages/contact",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": "Sagada Cellar Door - official contact and location",
+        "sourceUrl": "https://sagadacellardoor.com/pages/contact",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21",
+    "aliases": [
+      "Sagada Cellar Door Mountain Distillers"
+    ],
+    "planning": {
+      "base_slug": "sagada",
+      "mode": "local",
+      "cluster": "sagada-cellar-door",
+      "minutes": 90,
+      "booking": "Contact the distillery to confirm whether visits or tastings are available, age restrictions, reservations, and current charges; no public tour or tasting is assumed.",
+      "transport": "Arrange local transport separately; route, fare, journey time, and walking access have not been verified.",
+      "accessibility": "Step-free access, terrain, toilets, and individual access needs are unverified; confirm with the venue or local tourism office.",
+      "requiresBooking": true,
+      "scheduling": "manual"
+    }
+  },
+  {
+    "id": "sagada-tourist-information-office",
+    "name": "Sagada Tourist Information Office",
+    "destination_group": "Sagada",
+    "region": "Cordillera Administrative Region",
+    "province": "Mountain Province",
+    "city_municipality": "Sagada",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Attractions",
+    "description": "The municipal visitor registration and tour-information office in Sagada town.",
+    "interests": [
+      "City Wanderer",
+      "Slow Traveler"
+    ],
+    "itinerary_base_slug": "sagada",
+    "catalog_stop_id": "sagada-tourist-information-office",
+    "status": "accepted",
+    "decision_reason": "Distinct physical venue with reviewed identity and actual municipality; practical arrangements remain subject to direct confirmation.",
+    "sources": {
+      "identity": {
+        "sourceName": "Philippine News Agency - Sagada visitor information office",
+        "sourceUrl": "https://www.pna.gov.ph/articles/1192065",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Philippine News Agency - Sagada visitor information office",
+        "sourceUrl": "https://www.pna.gov.ph/articles/1192065",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21",
+    "aliases": [
+      "Sagada Tourist Information Center",
+      "Sagada Municipal Tourist Information Center"
+    ],
+    "planning": {
+      "base_slug": "sagada",
+      "mode": "local",
+      "cluster": "sagada-tourist-information-office",
+      "minutes": 45,
+      "booking": "Use the current municipal iPass portal and tourism contact details to confirm registration, office hours, local guide arrangements, and current visitor rules.",
+      "transport": "Confirm the office location with municipal tourism before setting out; exact street address, walking route, and journey time remain unverified.",
+      "accessibility": "Step-free access, terrain, toilets, and individual access needs are unverified; confirm with the venue or local tourism office.",
+      "requiresBooking": false,
+      "scheduling": "manual"
+    }
+  },
+  {
+    "id": "sagada-latang-underground-river",
+    "name": "Latang Underground River",
+    "destination_group": "Sagada",
+    "region": "Cordillera Administrative Region",
+    "province": "Mountain Province",
+    "city_municipality": "Sagada",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Nature",
+    "description": "An underground river listed in the municipal Sagada visitor directory.",
+    "interests": [
+      "Adventure Junkie",
+      "Nature Lover"
+    ],
+    "itinerary_base_slug": "sagada",
+    "catalog_stop_id": "sagada-latang-underground-river",
+    "status": "accepted",
+    "decision_reason": "Distinct physical venue with reviewed identity and actual municipality; practical arrangements remain subject to direct confirmation.",
+    "sources": {
+      "identity": {
+        "sourceName": "Municipality of Sagada - iPass destination directory",
+        "sourceUrl": "https://umali-kayo.sagada.gov.ph/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Municipality of Sagada - iPass destination directory",
+        "sourceUrl": "https://umali-kayo.sagada.gov.ph/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21",
+    "aliases": [
+      "Latang Underground River Sagada"
+    ],
+    "planning": {
+      "base_slug": "sagada",
+      "mode": "excursion",
+      "cluster": "sagada-latang-underground-river",
+      "minutes": 480,
+      "booking": "Arrange this separately through municipal tourism and an accredited local guide. Confirm current access, route, conditions, equipment, charges, and suitability before accepting a booking.",
+      "transport": "Arrange the departure point and any road transfer with municipal tourism or the guide. A full-day planning allowance is editorial; the exact route and travel time are unverified.",
+      "accessibility": "Step-free access, terrain, toilets, and individual access needs are unverified; confirm with the venue or local tourism office.",
+      "requiresBooking": true,
+      "scheduling": "manual"
+    }
+  },
+  {
+    "id": "sagada-pinumdeng-skyline",
+    "name": "Pinumdeng Skyline",
+    "destination_group": "Sagada",
+    "region": "Cordillera Administrative Region",
+    "province": "Mountain Province",
+    "city_municipality": "Sagada",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Nature",
+    "description": "A southern Sagada viewpoint included in the municipality's community-led visitor route.",
+    "interests": [
+      "Adventure Junkie",
+      "Nature Lover"
+    ],
+    "itinerary_base_slug": "sagada",
+    "catalog_stop_id": "sagada-pinumdeng-skyline",
+    "status": "accepted",
+    "decision_reason": "Distinct physical venue with reviewed identity and actual municipality; practical arrangements remain subject to direct confirmation.",
+    "sources": {
+      "identity": {
+        "sourceName": "Philippine News Agency - southern Sagada visitor sites",
+        "sourceUrl": "https://www.pna.gov.ph/articles/1187635",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Philippine News Agency - southern Sagada visitor sites",
+        "sourceUrl": "https://www.pna.gov.ph/articles/1187635",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21",
+    "aliases": [
+      "Pinumdeng Skyline Sunrise",
+      "Pinumdeng Cloudline"
+    ],
+    "planning": {
+      "base_slug": "sagada",
+      "mode": "excursion",
+      "cluster": "sagada-pinumdeng-skyline",
+      "minutes": 480,
+      "booking": "Confirm the exact viewpoint, community access, guide requirements, current conditions, and charges with municipal tourism. Viewing conditions are not guaranteed.",
+      "transport": "Coordinate the southern Sagada road transfer and any walking segment with municipal tourism or an accredited guide. Exact journey time and route remain unverified; allow a separate day.",
+      "accessibility": "Step-free access, terrain, toilets, and individual access needs are unverified; confirm with the venue or local tourism office.",
+      "requiresBooking": true,
+      "scheduling": "manual"
+    }
+  },
+  {
+    "id": "sagada-tatayaen-cave",
+    "name": "Tatayaen Cave",
+    "destination_group": "Sagada",
+    "region": "Cordillera Administrative Region",
+    "province": "Mountain Province",
+    "city_municipality": "Sagada",
+    "barangay": "Ankileng",
+    "address": "Sitio Mabisil, Barangay Ankileng, Sagada, Mountain Province",
+    "latitude": null,
+    "longitude": null,
+    "category": "Nature",
+    "description": "A cave in Mabisil, Ankileng, whose official ecotourism launching was reported in June 2026.",
+    "interests": [
+      "Adventure Junkie",
+      "Nature Lover"
+    ],
+    "itinerary_base_slug": "sagada",
+    "catalog_stop_id": "sagada-tatayaen-cave",
+    "status": "accepted",
+    "decision_reason": "Distinct physical venue with reviewed identity and actual municipality; practical arrangements remain subject to direct confirmation.",
+    "sources": {
+      "identity": {
+        "sourceName": "Radyo Sagada - firsthand report on Tatayaen Cave launching",
+        "sourceUrl": "https://radyosagada.com/tree-planting-supports-sustainability-of-tatayaen-cave/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Radyo Sagada - firsthand report on Tatayaen Cave launching",
+        "sourceUrl": "https://radyosagada.com/tree-planting-supports-sustainability-of-tatayaen-cave/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": "Radyo Sagada - firsthand report on Tatayaen Cave launching",
+        "sourceUrl": "https://radyosagada.com/tree-planting-supports-sustainability-of-tatayaen-cave/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21",
+    "aliases": [],
+    "planning": {
+      "base_slug": "sagada",
+      "mode": "excursion",
+      "cluster": "sagada-tatayaen-cave",
+      "minutes": 480,
+      "booking": "Confirm current access and authorized guide arrangements with municipal tourism before planning entry. The June 2026 launching report does not establish access, suitable conditions, or availability on a chosen date.",
+      "transport": "Arrange the Ankileng transfer, meeting point, equipment, and walking access with municipal tourism or an authorized operator. Exact route, fare, and journey time are unverified; allow a separate day.",
+      "accessibility": "Step-free access, terrain, toilets, and individual access needs are unverified; confirm with the venue or local tourism office.",
+      "requiresBooking": true,
+      "scheduling": "manual"
+    }
+  }
+]

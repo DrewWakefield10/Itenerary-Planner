@@ -35,7 +35,7 @@ try {
   ).toBeVisible();
   await expect(page.locator(".directory-destination")).toHaveCount(11);
   await expect(spots.getByRole("status")).toContainText(
-    "200 matching locations",
+    `${directory.length} matching locations`,
   );
   const response = await page.request.get(origin + "/api/discovery");
   assert.match(response.headers()["cache-control"], /s-maxage=3600/);
@@ -45,7 +45,7 @@ try {
   );
   await page.getByLabel("Browsing destination").selectOption("Cebu");
   await expect(spots.getByRole("status")).toContainText(
-    "25 matching locations in Cebu",
+    `${directory.filter(p=>p.destination_group==="Cebu").length} matching locations in Cebu`,
   );
   await page
     .getByLabel("Place category", { exact: true })
@@ -162,8 +162,8 @@ try {
     page.getByRole("link", { name: /Municipality: Checked/ }),
   ).toHaveAttribute("href", metro.sources.municipality.sourceUrl);
   await page.goto(origin + "/discover?page=999");
-  await expect(spots.getByRole("status")).toContainText("Page 17 of 17");
-  await expect(spots.locator(".discovery-card")).toHaveCount(8);
+  await expect(spots.getByRole("status")).toContainText(`Page ${Math.ceil(directory.length/12)} of ${Math.ceil(directory.length/12)}`);
+  await expect(spots.locator(".discovery-card")).toHaveCount(directory.length%12||12);
   await page.goto(origin + "/discover/baguio-wright-park");
   await expect(
     page.getByRole("heading", { name: "Wright Park", exact: true }),

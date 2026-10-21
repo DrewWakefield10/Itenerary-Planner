@@ -1,0 +1,262 @@
+{
+  "destination": "Palawan",
+  "batch": 3,
+  "kind": "Export snapshot of reviewed candidate batch",
+  "entries": [
+    {
+      "destination_group": "Palawan",
+      "region": "MIMAROPA",
+      "province": "Palawan",
+      "city_municipality": "El Nido",
+      "barangay": "Buena Suerte",
+      "address": "Serena Street, Buena Suerte, El Nido, Palawan",
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "El Nido Boutique & Artcafe — restaurant",
+          "sourceUrl": "https://elnidoboutiqueandartcafe.com/artcafe-restuarant/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Philippine Primer — Artcafe location",
+          "sourceUrl": "https://primer.com.ph/food/cuisines/fusion/artcafe/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "Philippine Primer — Artcafe location",
+          "sourceUrl": "https://primer.com.ph/food/cuisines/fusion/artcafe/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "id": "el-nido-artcafe",
+      "name": "El Nido Boutique & Artcafe",
+      "slug": "el-nido-artcafe",
+      "aliases": [
+        "Artcafe",
+        "El Nido Art Cafe"
+      ],
+      "planning": {
+        "base_slug": "el-nido",
+        "mode": "local",
+        "cluster": "buena-suerte",
+        "minutes": 90,
+        "booking": "Opening hours and availability are unverified; confirm directly before visiting.",
+        "transport": "Planning estimate: arrange a local ride and confirm route and return transport.",
+        "accessibility": "Step-free access and accessible facilities are unverified; ask the venue.",
+        "requiresBooking": false,
+        "scheduling": "candidate"
+      },
+      "category": "Food & drink",
+      "description": "Restaurant and bar serving a farm-to-table menu in El Nido.",
+      "interests": [
+        "Food Hunter",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "el-nido",
+      "catalog_stop_id": "el-nido-artcafe",
+      "status": "accepted",
+      "decision_reason": "Additional distinct physical place with reviewed identity and actual municipality sources; current access and availability are not guaranteed.",
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "destination_group": "Palawan",
+      "region": "MIMAROPA",
+      "province": "Palawan",
+      "city_municipality": "El Nido",
+      "barangay": "Masagana",
+      "address": "Calle Hama, Barangay Masagana, El Nido, Palawan",
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "Trattoria Altrove — official branch directory",
+          "sourceUrl": "https://www.trattoriaaltrove.com/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Trattoria Altrove — official branch directory",
+          "sourceUrl": "https://www.trattoriaaltrove.com/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "Trattoria Altrove — official branch directory",
+          "sourceUrl": "https://www.trattoriaaltrove.com/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "id": "el-nido-trattoria-altrove",
+      "name": "Trattoria Altrove — El Nido",
+      "slug": "el-nido-trattoria-altrove",
+      "aliases": [
+        "Altrove El Nido"
+      ],
+      "planning": {
+        "base_slug": "el-nido",
+        "mode": "local",
+        "cluster": "el-nido-trattoria-altrove",
+        "minutes": 90,
+        "booking": "Confirm evening table availability and service hours. Midnight closing is not represented in the single-window schema.",
+        "transport": "Planning estimate: arrange a local ride and confirm route and return transport.",
+        "accessibility": "Step-free access and accessible facilities are unverified; ask the venue.",
+        "requiresBooking": false,
+        "scheduling": "candidate"
+      },
+      "category": "Food & drink",
+      "description": "Italian restaurant on Calle Hama in El Nido.",
+      "interests": [
+        "Food Hunter",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "el-nido",
+      "catalog_stop_id": "el-nido-trattoria-altrove",
+      "status": "accepted",
+      "decision_reason": "Additional distinct physical place with reviewed identity and actual municipality sources; current access and availability are not guaranteed.",
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "destination_group": "Palawan",
+      "region": "MIMAROPA",
+      "province": "Palawan",
+      "city_municipality": "Coron",
+      "barangay": "Barangay 3",
+      "address": "Rosario Street, Barangay 3, Coron, Palawan",
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "Trattoria Altrove — official branch directory",
+          "sourceUrl": "https://www.trattoriaaltrove.com/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Trattoria Altrove — official branch directory",
+          "sourceUrl": "https://www.trattoriaaltrove.com/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "Trattoria Altrove — official branch directory",
+          "sourceUrl": "https://www.trattoriaaltrove.com/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "id": "coron-trattoria-altrove",
+      "name": "Trattoria Altrove — Coron",
+      "slug": "coron-trattoria-altrove",
+      "aliases": [
+        "Altrove Coron"
+      ],
+      "planning": {
+        "base_slug": "coron",
+        "mode": "local",
+        "cluster": "coron-trattoria-altrove",
+        "minutes": 90,
+        "booking": "Confirm evening table availability and service hours. Midnight closing is not represented in the single-window schema.",
+        "transport": "Planning estimate: arrange a local ride and confirm route and return transport.",
+        "accessibility": "Step-free access and accessible facilities are unverified; ask the venue.",
+        "requiresBooking": false,
+        "scheduling": "candidate"
+      },
+      "category": "Food & drink",
+      "description": "Italian restaurant on Rosario Street in Coron.",
+      "interests": [
+        "Food Hunter",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "coron",
+      "catalog_stop_id": "coron-trattoria-altrove",
+      "status": "accepted",
+      "decision_reason": "Additional distinct physical place with reviewed identity and actual municipality sources; current access and availability are not guaranteed.",
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "destination_group": "Palawan",
+      "region": "MIMAROPA",
+      "province": "Palawan",
+      "city_municipality": "El Nido",
+      "barangay": "Villa Libertad",
+      "address": "Kalye Kalugtan, Lio Tourism Estate, Villa Libertad, El Nido, Palawan",
+      "latitude": 11.2056236,
+      "longitude": 119.418869,
+      "sources": {
+        "identity": {
+          "sourceName": "Kalye Artisano — artisan hub description",
+          "sourceUrl": "https://kalyeartisano.com/pages/about-us",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Kalye Artisano — contact and location",
+          "sourceUrl": "https://kalyeartisano.com/pages/contact",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "Kalye Artisano — contact and location",
+          "sourceUrl": "https://kalyeartisano.com/pages/contact",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": "Kalye Artisano — venue-linked Google Maps destination",
+          "sourceUrl": "https://www.google.com/maps/dir//Kalye%2BArtisano,%2BLio%2BTourism%2BEstate,%2BEl%2BNido,%2B5313%2BPalawan/@11.2060677,119.4187496,18.75z/data=!4m8!4m7!1m0!1m5!1m1!1s0x33b7000763a6d989:0x79bf92e43555f234!2m2!1d119.418869!2d11.2056236",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        }
+      },
+      "id": "el-nido-kalye-artisano",
+      "name": "Kalye Artisano",
+      "slug": "el-nido-kalye-artisano",
+      "aliases": [],
+      "planning": {
+        "base_slug": "el-nido",
+        "mode": "local",
+        "cluster": "lio",
+        "minutes": 90,
+        "booking": "Confirm workshop arrangements separately from general browsing.",
+        "transport": "Planning estimate: arrange a local ride and confirm route and return transport.",
+        "accessibility": "Step-free access and accessible facilities are unverified; ask the venue.",
+        "requiresBooking": false,
+        "scheduling": "candidate"
+      },
+      "category": "Culture",
+      "description": "Artisan retail and cultural hub at Lio Tourism Estate.",
+      "interests": [
+        "Culture Seeker",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "el-nido",
+      "catalog_stop_id": "el-nido-kalye-artisano",
+      "status": "accepted",
+      "decision_reason": "Additional distinct physical place with reviewed identity and actual municipality sources; current access and availability are not guaranteed.",
+      "reviewed_on": "2026-10-21"
+    }
+  ]
+}

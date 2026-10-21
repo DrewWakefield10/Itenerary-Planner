@@ -1,0 +1,2521 @@
+[
+  {
+    "id": "el-nido-nagkalit-kalit-falls",
+    "name": "Nagkalit-kalit Falls",
+    "destination_group": "Palawan",
+    "region": "MIMAROPA",
+    "province": "Palawan",
+    "city_municipality": "El Nido",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Nature",
+    "description": "Inland waterfall identified in El Nido’s tourism inventory.",
+    "interests": [
+      "Adventure Junkie",
+      "Nature Lover"
+    ],
+    "itinerary_base_slug": "el-nido",
+    "catalog_stop_id": "el-nido-nagkalit-kalit-falls",
+    "status": "accepted",
+    "decision_reason": "Promoted from reviewed editorial surplus for the additional-place release; original identity and municipality evidence retained.",
+    "sources": {
+      "identity": {
+        "sourceName": "PCSD — El Nido municipal tourism inventory",
+        "sourceUrl": "https://pkp-new.pcsd.gov.ph/wp-content/uploads/2021/02/El-Nido-Planred.pdf",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "PCSD — El Nido municipal tourism inventory",
+        "sourceUrl": "https://pkp-new.pcsd.gov.ph/wp-content/uploads/2021/02/El-Nido-Planred.pdf",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21",
+    "aliases": [],
+    "planning": {
+      "base_slug": "el-nido",
+      "mode": "excursion",
+      "cluster": "el-nido-nagkalit-kalit-falls",
+      "minutes": 480,
+      "booking": "Confirm current trail access, guide arrangements, and weather with local tourism staff. Guide requirements are unverified.",
+      "transport": "Inland trail excursion from El Nido; confirm trail approach and return vehicle. Reserve a full excursion block.",
+      "accessibility": "Step-free access and accessible facilities are unverified; ask the venue.",
+      "requiresBooking": false,
+      "scheduling": "manual",
+      "outdoor": true
+    },
+    "slug": "el-nido-nagkalit-kalit-falls"
+  },
+  {
+    "id": "puerto-princesa-iwahig-firefly-watching",
+    "name": "Iwahig River — community firefly site",
+    "destination_group": "Palawan",
+    "region": "MIMAROPA",
+    "province": "Palawan",
+    "city_municipality": "Puerto Princesa City",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Nature",
+    "description": "Riverbank site used by the Iwahig community’s firefly tourism program.",
+    "interests": [
+      "Nature Lover",
+      "Slow Traveler"
+    ],
+    "itinerary_base_slug": "puerto-princesa",
+    "catalog_stop_id": "puerto-princesa-iwahig-firefly-watching",
+    "status": "accepted",
+    "decision_reason": "Promoted from reviewed editorial surplus for the additional-place release; original identity and municipality evidence retained.",
+    "sources": {
+      "identity": {
+        "sourceName": "Puerto Princesa City Tourism — community tourism destinations",
+        "sourceUrl": "https://citytourism.puertoprincesa.ph/cbst-destinations/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Puerto Princesa City Tourism — community tourism destinations",
+        "sourceUrl": "https://citytourism.puertoprincesa.ph/cbst-destinations/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21",
+    "aliases": [],
+    "planning": {
+      "base_slug": "puerto-princesa",
+      "mode": "excursion",
+      "cluster": "puerto-princesa-iwahig-firefly-watching",
+      "minutes": 480,
+      "booking": "Evening community river excursion. Confirm operator departure, permitted access, and return time before scheduling.",
+      "transport": "Reserve an excursion block from Puerto Princesa; exact river-site departure and return transport are unverified.",
+      "accessibility": "Step-free access and accessible facilities are unverified; ask the venue.",
+      "requiresBooking": false,
+      "scheduling": "manual",
+      "outdoor": true
+    },
+    "slug": "puerto-princesa-iwahig-firefly-watching"
+  },
+  {
+    "id": "puerto-princesa-ugong-rock",
+    "name": "Ugong Rock",
+    "destination_group": "Palawan",
+    "region": "MIMAROPA",
+    "province": "Palawan",
+    "city_municipality": "Puerto Princesa City",
+    "barangay": "Tagabinet",
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Nature",
+    "description": "Rock formation in Barangay Tagabinet listed by city tourism.",
+    "interests": [
+      "Adventure Junkie",
+      "Nature Lover"
+    ],
+    "itinerary_base_slug": "puerto-princesa",
+    "catalog_stop_id": "puerto-princesa-ugong-rock",
+    "status": "accepted",
+    "decision_reason": "Promoted from reviewed editorial surplus for the additional-place release; original identity and municipality evidence retained.",
+    "sources": {
+      "identity": {
+        "sourceName": "Puerto Princesa City Tourism — community tourism destinations",
+        "sourceUrl": "https://citytourism.puertoprincesa.ph/cbst-destinations/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Puerto Princesa City Tourism — community tourism destinations",
+        "sourceUrl": "https://citytourism.puertoprincesa.ph/cbst-destinations/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21",
+    "aliases": [],
+    "planning": {
+      "base_slug": "puerto-princesa",
+      "mode": "excursion",
+      "cluster": "puerto-princesa-ugong-rock",
+      "minutes": 480,
+      "booking": "Confirm site access, activity choice, guide arrangements, and any booking requirement with the operator.",
+      "transport": "Outlying Tagabinet excursion from Puerto Princesa; confirm a vehicle and return plan.",
+      "accessibility": "Step-free access and accessible facilities are unverified; ask the venue.",
+      "requiresBooking": false,
+      "scheduling": "manual",
+      "outdoor": true
+    },
+    "slug": "puerto-princesa-ugong-rock"
+  },
+  {
+    "id": "puerto-princesa-buenavista-viewdeck",
+    "name": "Buenavista Viewdeck",
+    "destination_group": "Palawan",
+    "region": "MIMAROPA",
+    "province": "Palawan",
+    "city_municipality": "Puerto Princesa City",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Nature",
+    "description": "City tourism viewpoint overlooking Ulugan Bay.",
+    "interests": [
+      "Nature Lover",
+      "Slow Traveler"
+    ],
+    "itinerary_base_slug": "puerto-princesa",
+    "catalog_stop_id": "puerto-princesa-buenavista-viewdeck",
+    "status": "accepted",
+    "decision_reason": "Promoted from reviewed editorial surplus for the additional-place release; original identity and municipality evidence retained.",
+    "sources": {
+      "identity": {
+        "sourceName": "Puerto Princesa City Tourism — community tourism destinations",
+        "sourceUrl": "https://citytourism.puertoprincesa.ph/cbst-destinations/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Puerto Princesa City Tourism — community tourism destinations",
+        "sourceUrl": "https://citytourism.puertoprincesa.ph/cbst-destinations/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21",
+    "aliases": [],
+    "planning": {
+      "base_slug": "puerto-princesa",
+      "mode": "excursion",
+      "cluster": "puerto-princesa-buenavista-viewdeck",
+      "minutes": 480,
+      "booking": "Confirm current roadside access and operating conditions before scheduling.",
+      "transport": "Outlying Ulugan Bay viewpoint; reserve an excursion block from Puerto Princesa and confirm the return ride.",
+      "accessibility": "Step-free access and accessible facilities are unverified; ask the venue.",
+      "requiresBooking": false,
+      "scheduling": "manual",
+      "outdoor": true
+    },
+    "slug": "puerto-princesa-buenavista-viewdeck"
+  },
+  {
+    "id": "puerto-princesa-bakers-hill",
+    "name": "Baker’s Hill",
+    "destination_group": "Palawan",
+    "region": "MIMAROPA",
+    "province": "Palawan",
+    "city_municipality": "Puerto Princesa City",
+    "barangay": "Santa Monica",
+    "address": "Mitra Road, Barangay Santa Monica, Puerto Princesa City, Palawan 5300",
+    "latitude": null,
+    "longitude": null,
+    "category": "Food & drink",
+    "description": "Bakery and landscaped visitor grounds on Mitra Road.",
+    "interests": [
+      "Food Hunter",
+      "Slow Traveler"
+    ],
+    "itinerary_base_slug": "puerto-princesa",
+    "catalog_stop_id": "puerto-princesa-bakers-hill",
+    "status": "accepted",
+    "decision_reason": "Promoted from reviewed editorial surplus for the additional-place release; original identity and municipality evidence retained.",
+    "sources": {
+      "identity": {
+        "sourceName": "Puerto Princesa City Tourism — Baker’s Hill",
+        "sourceUrl": "https://citytourism.puertoprincesa.ph/bakers-hill/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Puerto Princesa City Tourism — Baker’s Hill",
+        "sourceUrl": "https://citytourism.puertoprincesa.ph/bakers-hill/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": "Puerto Princesa City Tourism — Baker’s Hill",
+        "sourceUrl": "https://citytourism.puertoprincesa.ph/bakers-hill/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21",
+    "aliases": [],
+    "planning": {
+      "base_slug": "puerto-princesa",
+      "mode": "local",
+      "cluster": "puerto-princesa-bakers-hill",
+      "minutes": 90,
+      "booking": "Opening hours and availability are unverified; confirm directly before visiting.",
+      "transport": "Planning estimate: arrange a local ride and confirm route and return transport.",
+      "accessibility": "Step-free access and accessible facilities are unverified; ask the venue.",
+      "requiresBooking": false,
+      "scheduling": "candidate"
+    },
+    "slug": "puerto-princesa-bakers-hill"
+  },
+  {
+    "id": "puerto-princesa-balayong-peoples-park",
+    "name": "Balayong People’s Park",
+    "destination_group": "Palawan",
+    "region": "MIMAROPA",
+    "province": "Palawan",
+    "city_municipality": "Puerto Princesa City",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Parks & markets",
+    "description": "Public recreational and cultural park in Puerto Princesa City.",
+    "interests": [
+      "Slow Traveler",
+      "Nature Lover"
+    ],
+    "itinerary_base_slug": "puerto-princesa",
+    "catalog_stop_id": "puerto-princesa-balayong-peoples-park",
+    "status": "accepted",
+    "decision_reason": "Promoted from reviewed editorial surplus for the additional-place release; original identity and municipality evidence retained.",
+    "sources": {
+      "identity": {
+        "sourceName": "City Government of Puerto Princesa — Balayong Park",
+        "sourceUrl": "https://puertoprincesa.ph/balayong-park/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "City Government of Puerto Princesa — Balayong Park",
+        "sourceUrl": "https://puertoprincesa.ph/balayong-park/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21",
+    "aliases": [],
+    "planning": {
+      "base_slug": "puerto-princesa",
+      "mode": "local",
+      "cluster": "puerto-princesa-balayong-peoples-park",
+      "minutes": 90,
+      "booking": "Opening hours and availability are unverified; confirm directly before visiting.",
+      "transport": "Planning estimate: arrange a local ride and confirm route and return transport.",
+      "accessibility": "Step-free access and accessible facilities are unverified; ask the venue.",
+      "requiresBooking": false,
+      "scheduling": "candidate",
+      "outdoor": true
+    },
+    "slug": "puerto-princesa-balayong-peoples-park"
+  },
+  {
+    "id": "el-nido-artcafe",
+    "name": "El Nido Boutique & Artcafe",
+    "destination_group": "Palawan",
+    "region": "MIMAROPA",
+    "province": "Palawan",
+    "city_municipality": "El Nido",
+    "barangay": "Buena Suerte",
+    "address": "Serena Street, Buena Suerte, El Nido, Palawan",
+    "latitude": null,
+    "longitude": null,
+    "category": "Food & drink",
+    "description": "Restaurant and bar serving a farm-to-table menu in El Nido.",
+    "interests": [
+      "Food Hunter",
+      "Slow Traveler"
+    ],
+    "itinerary_base_slug": "el-nido",
+    "catalog_stop_id": "el-nido-artcafe",
+    "status": "accepted",
+    "decision_reason": "Additional distinct physical place with reviewed identity and actual municipality sources; current access and availability are not guaranteed.",
+    "sources": {
+      "identity": {
+        "sourceName": "El Nido Boutique & Artcafe — restaurant",
+        "sourceUrl": "https://elnidoboutiqueandartcafe.com/artcafe-restuarant/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Philippine Primer — Artcafe location",
+        "sourceUrl": "https://primer.com.ph/food/cuisines/fusion/artcafe/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": "Philippine Primer — Artcafe location",
+        "sourceUrl": "https://primer.com.ph/food/cuisines/fusion/artcafe/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21",
+    "aliases": [
+      "Artcafe",
+      "El Nido Art Cafe"
+    ],
+    "planning": {
+      "base_slug": "el-nido",
+      "mode": "local",
+      "cluster": "buena-suerte",
+      "minutes": 90,
+      "booking": "Opening hours and availability are unverified; confirm directly before visiting.",
+      "transport": "Planning estimate: arrange a local ride and confirm route and return transport.",
+      "accessibility": "Step-free access and accessible facilities are unverified; ask the venue.",
+      "requiresBooking": false,
+      "scheduling": "candidate"
+    },
+    "slug": "el-nido-artcafe"
+  },
+  {
+    "id": "el-nido-trattoria-altrove",
+    "name": "Trattoria Altrove — El Nido",
+    "destination_group": "Palawan",
+    "region": "MIMAROPA",
+    "province": "Palawan",
+    "city_municipality": "El Nido",
+    "barangay": "Masagana",
+    "address": "Calle Hama, Barangay Masagana, El Nido, Palawan",
+    "latitude": null,
+    "longitude": null,
+    "category": "Food & drink",
+    "description": "Italian restaurant on Calle Hama in El Nido.",
+    "interests": [
+      "Food Hunter",
+      "Slow Traveler"
+    ],
+    "itinerary_base_slug": "el-nido",
+    "catalog_stop_id": "el-nido-trattoria-altrove",
+    "status": "accepted",
+    "decision_reason": "Additional distinct physical place with reviewed identity and actual municipality sources; current access and availability are not guaranteed.",
+    "sources": {
+      "identity": {
+        "sourceName": "Trattoria Altrove — official branch directory",
+        "sourceUrl": "https://www.trattoriaaltrove.com/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Trattoria Altrove — official branch directory",
+        "sourceUrl": "https://www.trattoriaaltrove.com/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": "Trattoria Altrove — official branch directory",
+        "sourceUrl": "https://www.trattoriaaltrove.com/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21",
+    "aliases": [
+      "Altrove El Nido"
+    ],
+    "planning": {
+      "base_slug": "el-nido",
+      "mode": "local",
+      "cluster": "el-nido-trattoria-altrove",
+      "minutes": 90,
+      "booking": "Confirm evening table availability and service hours. Midnight closing is not represented in the single-window schema.",
+      "transport": "Planning estimate: arrange a local ride and confirm route and return transport.",
+      "accessibility": "Step-free access and accessible facilities are unverified; ask the venue.",
+      "requiresBooking": false,
+      "scheduling": "candidate"
+    },
+    "slug": "el-nido-trattoria-altrove"
+  },
+  {
+    "id": "coron-trattoria-altrove",
+    "name": "Trattoria Altrove — Coron",
+    "destination_group": "Palawan",
+    "region": "MIMAROPA",
+    "province": "Palawan",
+    "city_municipality": "Coron",
+    "barangay": "Barangay 3",
+    "address": "Rosario Street, Barangay 3, Coron, Palawan",
+    "latitude": null,
+    "longitude": null,
+    "category": "Food & drink",
+    "description": "Italian restaurant on Rosario Street in Coron.",
+    "interests": [
+      "Food Hunter",
+      "Slow Traveler"
+    ],
+    "itinerary_base_slug": "coron",
+    "catalog_stop_id": "coron-trattoria-altrove",
+    "status": "accepted",
+    "decision_reason": "Additional distinct physical place with reviewed identity and actual municipality sources; current access and availability are not guaranteed.",
+    "sources": {
+      "identity": {
+        "sourceName": "Trattoria Altrove — official branch directory",
+        "sourceUrl": "https://www.trattoriaaltrove.com/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Trattoria Altrove — official branch directory",
+        "sourceUrl": "https://www.trattoriaaltrove.com/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": "Trattoria Altrove — official branch directory",
+        "sourceUrl": "https://www.trattoriaaltrove.com/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21",
+    "aliases": [
+      "Altrove Coron"
+    ],
+    "planning": {
+      "base_slug": "coron",
+      "mode": "local",
+      "cluster": "coron-trattoria-altrove",
+      "minutes": 90,
+      "booking": "Confirm evening table availability and service hours. Midnight closing is not represented in the single-window schema.",
+      "transport": "Planning estimate: arrange a local ride and confirm route and return transport.",
+      "accessibility": "Step-free access and accessible facilities are unverified; ask the venue.",
+      "requiresBooking": false,
+      "scheduling": "candidate"
+    },
+    "slug": "coron-trattoria-altrove"
+  },
+  {
+    "id": "el-nido-kalye-artisano",
+    "name": "Kalye Artisano",
+    "destination_group": "Palawan",
+    "region": "MIMAROPA",
+    "province": "Palawan",
+    "city_municipality": "El Nido",
+    "barangay": "Villa Libertad",
+    "address": "Kalye Kalugtan, Lio Tourism Estate, Villa Libertad, El Nido, Palawan",
+    "latitude": 11.2056236,
+    "longitude": 119.418869,
+    "category": "Culture",
+    "description": "Artisan retail and cultural hub at Lio Tourism Estate.",
+    "interests": [
+      "Culture Seeker",
+      "Slow Traveler"
+    ],
+    "itinerary_base_slug": "el-nido",
+    "catalog_stop_id": "el-nido-kalye-artisano",
+    "status": "accepted",
+    "decision_reason": "Additional distinct physical place with reviewed identity and actual municipality sources; current access and availability are not guaranteed.",
+    "sources": {
+      "identity": {
+        "sourceName": "Kalye Artisano — artisan hub description",
+        "sourceUrl": "https://kalyeartisano.com/pages/about-us",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Kalye Artisano — contact and location",
+        "sourceUrl": "https://kalyeartisano.com/pages/contact",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": "Kalye Artisano — contact and location",
+        "sourceUrl": "https://kalyeartisano.com/pages/contact",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "coordinates": {
+        "sourceName": "Kalye Artisano — venue-linked Google Maps destination",
+        "sourceUrl": "https://www.google.com/maps/dir//Kalye%2BArtisano,%2BLio%2BTourism%2BEstate,%2BEl%2BNido,%2B5313%2BPalawan/@11.2060677,119.4187496,18.75z/data=!4m8!4m7!1m0!1m5!1m1!1s0x33b7000763a6d989:0x79bf92e43555f234!2m2!1d119.418869!2d11.2056236",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      }
+    },
+    "reviewed_on": "2026-10-21",
+    "aliases": [],
+    "planning": {
+      "base_slug": "el-nido",
+      "mode": "local",
+      "cluster": "lio",
+      "minutes": 90,
+      "booking": "Confirm workshop arrangements separately from general browsing.",
+      "transport": "Planning estimate: arrange a local ride and confirm route and return transport.",
+      "accessibility": "Step-free access and accessible facilities are unverified; ask the venue.",
+      "requiresBooking": false,
+      "scheduling": "candidate"
+    },
+    "slug": "el-nido-kalye-artisano"
+  },
+  {
+    "id": "siargao-kermit-restaurant",
+    "name": "Kermit Restaurant — Siargao",
+    "destination_group": "Siargao",
+    "region": "Caraga",
+    "province": "Surigao del Norte",
+    "city_municipality": "General Luna",
+    "barangay": null,
+    "address": "Purok 5, General Luna, Siargao Island, Surigao del Norte 8419",
+    "latitude": null,
+    "longitude": null,
+    "category": "Food & drink",
+    "description": "Italian restaurant serving pizzas and pasta in General Luna.",
+    "interests": [
+      "Food Hunter",
+      "Slow Traveler"
+    ],
+    "itinerary_base_slug": "siargao",
+    "catalog_stop_id": "siargao-kermit-restaurant",
+    "status": "accepted",
+    "decision_reason": "Additional distinct physical place with reviewed identity and actual municipality sources; current access and availability are not guaranteed.",
+    "sources": {
+      "identity": {
+        "sourceName": "Kermit Siargao — official restaurant and address",
+        "sourceUrl": "https://www.kermitsiargao.com/restaurant",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Kermit Siargao — official restaurant and address",
+        "sourceUrl": "https://www.kermitsiargao.com/restaurant",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": "Kermit Siargao — official restaurant and address",
+        "sourceUrl": "https://www.kermitsiargao.com/restaurant",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21",
+    "aliases": [
+      "Kermit Siargao Restaurant"
+    ],
+    "planning": {
+      "base_slug": "siargao",
+      "mode": "local",
+      "cluster": "siargao-kermit-restaurant",
+      "minutes": 90,
+      "booking": "Table booking is offered. Breakfast, lunch, light bites, dinner, and pizza have different service windows; confirm the desired meal service.",
+      "transport": "Planning estimate: use a local ride from General Luna and confirm the return trip.",
+      "accessibility": "Step-free access and accessible facilities are unverified; ask the venue.",
+      "requiresBooking": false,
+      "scheduling": "candidate",
+      "openingHours": {
+        "weekdays": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "opens": "07:00",
+        "closes": "23:00",
+        "source": {
+          "sourceName": "Kermit Siargao — official restaurant and address",
+          "sourceUrl": "https://www.kermitsiargao.com/restaurant",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        }
+      }
+    },
+    "slug": "siargao-kermit-restaurant"
+  },
+  {
+    "id": "siargao-trattoria-altrove",
+    "name": "Trattoria Altrove — Siargao",
+    "destination_group": "Siargao",
+    "region": "Caraga",
+    "province": "Surigao del Norte",
+    "city_municipality": "General Luna",
+    "barangay": "Poblacion 3",
+    "address": "Poblacion 3, General Luna, Surigao del Norte",
+    "latitude": null,
+    "longitude": null,
+    "category": "Food & drink",
+    "description": "Italian restaurant in Poblacion 3, General Luna.",
+    "interests": [
+      "Food Hunter",
+      "Slow Traveler"
+    ],
+    "itinerary_base_slug": "siargao",
+    "catalog_stop_id": "siargao-trattoria-altrove",
+    "status": "accepted",
+    "decision_reason": "Additional distinct physical place with reviewed identity and actual municipality sources; current access and availability are not guaranteed.",
+    "sources": {
+      "identity": {
+        "sourceName": "Trattoria Altrove — official branch directory",
+        "sourceUrl": "https://www.trattoriaaltrove.com/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Trattoria Altrove — official branch directory",
+        "sourceUrl": "https://www.trattoriaaltrove.com/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": "Trattoria Altrove — official branch directory",
+        "sourceUrl": "https://www.trattoriaaltrove.com/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21",
+    "aliases": [
+      "Altrove Siargao"
+    ],
+    "planning": {
+      "base_slug": "siargao",
+      "mode": "local",
+      "cluster": "siargao-trattoria-altrove",
+      "minutes": 90,
+      "booking": "Confirm current hours, visitor access, and availability directly before visiting.",
+      "transport": "Planning estimate: use a local ride from General Luna and confirm the return trip.",
+      "accessibility": "Step-free access and accessible facilities are unverified; ask the venue.",
+      "requiresBooking": false,
+      "scheduling": "candidate",
+      "openingHours": {
+        "weekdays": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "opens": "16:00",
+        "closes": "23:00",
+        "source": {
+          "sourceName": "Trattoria Altrove — official branch directory",
+          "sourceUrl": "https://www.trattoriaaltrove.com/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        }
+      }
+    },
+    "slug": "siargao-trattoria-altrove"
+  },
+  {
+    "id": "siargao-warung",
+    "name": "Warung — Siargao Island Villas",
+    "destination_group": "Siargao",
+    "region": "Caraga",
+    "province": "Surigao del Norte",
+    "city_municipality": "General Luna",
+    "barangay": "Catangnan",
+    "address": "Siargao Island Villas, Tourism Road, Barangay Catangnan, General Luna, Surigao del Norte",
+    "latitude": null,
+    "longitude": null,
+    "category": "Food & drink",
+    "description": "Indonesian restaurant within Siargao Island Villas.",
+    "interests": [
+      "Food Hunter",
+      "Slow Traveler"
+    ],
+    "itinerary_base_slug": "siargao",
+    "catalog_stop_id": "siargao-warung",
+    "status": "accepted",
+    "decision_reason": "Additional distinct physical place with reviewed identity and actual municipality sources; current access and availability are not guaranteed.",
+    "sources": {
+      "identity": {
+        "sourceName": "Siargao Island Villas — Warung restaurant",
+        "sourceUrl": "https://siargaoislandvillas.com/warung/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Philippine Primer — Warung at Siargao Island Villas, General Luna",
+        "sourceUrl": "https://primer.com.ph/food/location/philippines/siargao-island/warung-siargao/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": "Philippine Primer — Warung at Siargao Island Villas, General Luna",
+        "sourceUrl": "https://primer.com.ph/food/location/philippines/siargao-island/warung-siargao/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21",
+    "aliases": [
+      "Warung Indonesian Restaurant"
+    ],
+    "planning": {
+      "base_slug": "siargao",
+      "mode": "local",
+      "cluster": "siargao-warung",
+      "minutes": 90,
+      "booking": "Confirm current hours, visitor access, and availability directly before visiting.",
+      "transport": "Planning estimate: use a local ride from General Luna and confirm the return trip.",
+      "accessibility": "Step-free access and accessible facilities are unverified; ask the venue.",
+      "requiresBooking": false,
+      "scheduling": "candidate"
+    },
+    "slug": "siargao-warung"
+  },
+  {
+    "id": "siargao-brunch-spot",
+    "name": "Brunch Spot Siargao",
+    "destination_group": "Siargao",
+    "region": "Caraga",
+    "province": "Surigao del Norte",
+    "city_municipality": "General Luna",
+    "barangay": null,
+    "address": "Purok 5, behind Mujo Ice Bath, Tourism Road, General Luna, Siargao",
+    "latitude": null,
+    "longitude": null,
+    "category": "Food & drink",
+    "description": "Brunch and coffee venue on Tourism Road in General Luna.",
+    "interests": [
+      "Food Hunter",
+      "Slow Traveler"
+    ],
+    "itinerary_base_slug": "siargao",
+    "catalog_stop_id": "siargao-brunch-spot",
+    "status": "accepted",
+    "decision_reason": "Additional distinct physical place with reviewed identity and actual municipality sources; current access and availability are not guaranteed.",
+    "sources": {
+      "identity": {
+        "sourceName": "Brunch Spot Siargao — official venue website",
+        "sourceUrl": "https://bs-siargao.com/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Brunch Spot Siargao — official venue website",
+        "sourceUrl": "https://bs-siargao.com/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": "Brunch Spot Siargao — official venue website",
+        "sourceUrl": "https://bs-siargao.com/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21",
+    "aliases": [],
+    "planning": {
+      "base_slug": "siargao",
+      "mode": "local",
+      "cluster": "siargao-brunch-spot",
+      "minutes": 90,
+      "booking": "The venue website lists 07:00–17:00 daily; confirm current kitchen hours and seating.",
+      "transport": "Planning estimate: use a local ride from General Luna and confirm the return trip.",
+      "accessibility": "Step-free access and accessible facilities are unverified; ask the venue.",
+      "requiresBooking": false,
+      "scheduling": "candidate",
+      "openingHours": {
+        "weekdays": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "opens": "07:00",
+        "closes": "17:00",
+        "source": {
+          "sourceName": "Brunch Spot Siargao — official venue website",
+          "sourceUrl": "https://bs-siargao.com/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        }
+      }
+    },
+    "slug": "siargao-brunch-spot"
+  },
+  {
+    "id": "siargao-bravo-restaurant",
+    "name": "Bravo Restaurant — Siargao",
+    "destination_group": "Siargao",
+    "region": "Caraga",
+    "province": "Surigao del Norte",
+    "city_municipality": "General Luna",
+    "barangay": "Barangay 5",
+    "address": "Bravo Beach Resort, Tourism Road, Barangay 5, General Luna, Surigao del Norte",
+    "latitude": null,
+    "longitude": null,
+    "category": "Food & drink",
+    "description": "Beachfront resort restaurant on Tourism Road in General Luna.",
+    "interests": [
+      "Food Hunter",
+      "Slow Traveler"
+    ],
+    "itinerary_base_slug": "siargao",
+    "catalog_stop_id": "siargao-bravo-restaurant",
+    "status": "accepted",
+    "decision_reason": "Additional distinct physical place with reviewed identity and actual municipality sources; current access and availability are not guaranteed.",
+    "sources": {
+      "identity": {
+        "sourceName": "Bravo Beach Resort Siargao — official restaurant and location",
+        "sourceUrl": "https://www.bravosiargao.com/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Bravo Beach Resort Siargao — official restaurant and location",
+        "sourceUrl": "https://www.bravosiargao.com/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": "Bravo Beach Resort Siargao — official restaurant and location",
+        "sourceUrl": "https://www.bravosiargao.com/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21",
+    "aliases": [
+      "Bravo Beach Restaurant"
+    ],
+    "planning": {
+      "base_slug": "siargao",
+      "mode": "local",
+      "cluster": "siargao-bravo-restaurant",
+      "minutes": 90,
+      "booking": "Confirm current hours, visitor access, and availability directly before visiting.",
+      "transport": "Planning estimate: use a local ride from General Luna and confirm the return trip.",
+      "accessibility": "Step-free access and accessible facilities are unverified; ask the venue.",
+      "requiresBooking": false,
+      "scheduling": "candidate"
+    },
+    "slug": "siargao-bravo-restaurant"
+  },
+  {
+    "id": "siargao-naga-restaurant",
+    "name": "NĀGA Siargao",
+    "destination_group": "Siargao",
+    "region": "Caraga",
+    "province": "Surigao del Norte",
+    "city_municipality": "General Luna",
+    "barangay": null,
+    "address": "Tourism Road, General Luna, Siargao Island 8419",
+    "latitude": null,
+    "longitude": null,
+    "category": "Food & drink",
+    "description": "Restaurant and cocktail bar on Tourism Road, General Luna.",
+    "interests": [
+      "Food Hunter",
+      "Slow Traveler"
+    ],
+    "itinerary_base_slug": "siargao",
+    "catalog_stop_id": "siargao-naga-restaurant",
+    "status": "accepted",
+    "decision_reason": "Additional distinct physical place with reviewed identity and actual municipality sources; current access and availability are not guaranteed.",
+    "sources": {
+      "identity": {
+        "sourceName": "NĀGA Siargao — official restaurant website",
+        "sourceUrl": "https://www.nagaconcepts.co/naga-siargao",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "NĀGA Siargao — official restaurant website",
+        "sourceUrl": "https://www.nagaconcepts.co/naga-siargao",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": "NĀGA Siargao — official restaurant website",
+        "sourceUrl": "https://www.nagaconcepts.co/naga-siargao",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21",
+    "aliases": [
+      "Naga Siargao Restaurant"
+    ],
+    "planning": {
+      "base_slug": "siargao",
+      "mode": "local",
+      "cluster": "siargao-naga-restaurant",
+      "minutes": 90,
+      "booking": "Reservations are offered by the venue; confirm table availability and current hours.",
+      "transport": "Planning estimate: use a local ride from General Luna and confirm the return trip.",
+      "accessibility": "Step-free access and accessible facilities are unverified; ask the venue.",
+      "requiresBooking": false,
+      "scheduling": "candidate"
+    },
+    "slug": "siargao-naga-restaurant"
+  },
+  {
+    "id": "siargao-malinao-beach",
+    "name": "Malinao Beach",
+    "destination_group": "Siargao",
+    "region": "Caraga",
+    "province": "Surigao del Norte",
+    "city_municipality": "General Luna",
+    "barangay": "Malinao",
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Nature",
+    "description": "Beach area in Barangay Malinao, General Luna.",
+    "interests": [
+      "Nature Lover",
+      "Slow Traveler"
+    ],
+    "itinerary_base_slug": "siargao",
+    "catalog_stop_id": "siargao-malinao-beach",
+    "status": "accepted",
+    "decision_reason": "Additional distinct physical place with reviewed identity and actual municipality sources; current access and availability are not guaranteed.",
+    "sources": {
+      "identity": {
+        "sourceName": "SIPLAS Management Plan 2021–2030 — General Luna beach areas",
+        "sourceUrl": "https://rsis.ramsar.org/RISapp/files/57292175/documents/PH2553_mgt230606.pdf",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "SIPLAS Management Plan 2021–2030 — General Luna beach areas",
+        "sourceUrl": "https://rsis.ramsar.org/RISapp/files/57292175/documents/PH2553_mgt230606.pdf",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21",
+    "aliases": [
+      "Malinao beachfront"
+    ],
+    "planning": {
+      "base_slug": "siargao",
+      "mode": "local",
+      "cluster": "siargao-malinao-beach",
+      "minutes": 90,
+      "booking": "Confirm a permitted access path and current local conditions; no swimming or marine safety determination is made.",
+      "transport": "Planning estimate: use a local ride from General Luna and confirm the return trip.",
+      "accessibility": "Step-free access and accessible facilities are unverified; ask the venue.",
+      "requiresBooking": false,
+      "scheduling": "candidate",
+      "outdoor": true
+    },
+    "slug": "siargao-malinao-beach"
+  },
+  {
+    "id": "siargao-paseo-de-cabuntog",
+    "name": "Paseo de Cabuntog",
+    "destination_group": "Siargao",
+    "region": "Caraga",
+    "province": "Surigao del Norte",
+    "city_municipality": "General Luna",
+    "barangay": "Poblacion I",
+    "address": "Paseo de Cabuntog, Poblacion I, General Luna, Surigao del Norte",
+    "latitude": null,
+    "longitude": null,
+    "category": "Parks & markets",
+    "description": "Boulevard public space in Poblacion I, General Luna.",
+    "interests": [
+      "Nature Lover",
+      "Slow Traveler"
+    ],
+    "itinerary_base_slug": "siargao",
+    "catalog_stop_id": "siargao-paseo-de-cabuntog",
+    "status": "accepted",
+    "decision_reason": "Additional distinct physical place with reviewed identity and actual municipality sources; current access and availability are not guaranteed.",
+    "sources": {
+      "identity": {
+        "sourceName": "TIEZA — Paseo de Cabuntog, Poblacion I, General Luna",
+        "sourceUrl": "https://tieza.gov.ph/wp-content/uploads/2024/02/SUMMARY-OF-BID-5-1.pdf",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "TIEZA — Paseo de Cabuntog, Poblacion I, General Luna",
+        "sourceUrl": "https://tieza.gov.ph/wp-content/uploads/2024/02/SUMMARY-OF-BID-5-1.pdf",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": "TIEZA — Paseo de Cabuntog, Poblacion I, General Luna",
+        "sourceUrl": "https://tieza.gov.ph/wp-content/uploads/2024/02/SUMMARY-OF-BID-5-1.pdf",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21",
+    "aliases": [
+      "General Luna Boulevard"
+    ],
+    "planning": {
+      "base_slug": "siargao",
+      "mode": "local",
+      "cluster": "siargao-paseo-de-cabuntog",
+      "minutes": 60,
+      "booking": "Confirm current public access and any event-related restrictions; no event attendance is assumed.",
+      "transport": "Planning estimate: use a local ride from General Luna and confirm the return trip.",
+      "accessibility": "Step-free access and accessible facilities are unverified; ask the venue.",
+      "requiresBooking": false,
+      "scheduling": "candidate",
+      "outdoor": true
+    },
+    "slug": "siargao-paseo-de-cabuntog"
+  },
+  {
+    "id": "siargao-lokal-hub-general-luna",
+    "name": "The Hub by Lokal Lab — General Luna",
+    "destination_group": "Siargao",
+    "region": "Caraga",
+    "province": "Surigao del Norte",
+    "city_municipality": "General Luna",
+    "barangay": null,
+    "address": "Purok 2, General Luna, Siargao, near Marc & Lawrence",
+    "latitude": 9.7827791,
+    "longitude": 126.1540921,
+    "category": "Culture",
+    "description": "Community space with local food, cultural events, and workshops.",
+    "interests": [
+      "Culture Seeker",
+      "Slow Traveler"
+    ],
+    "itinerary_base_slug": "siargao",
+    "catalog_stop_id": "siargao-lokal-hub-general-luna",
+    "status": "accepted",
+    "decision_reason": "Additional distinct physical place with reviewed identity and actual municipality sources; current access and availability are not guaranteed.",
+    "sources": {
+      "identity": {
+        "sourceName": "Lokal Lab — The Hub locations and community program",
+        "sourceUrl": "https://www.lokallab.org/the-hub",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Lokal Lab — The Hub locations and community program",
+        "sourceUrl": "https://www.lokallab.org/the-hub",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": "Lokal Lab — The Hub locations and community program",
+        "sourceUrl": "https://www.lokallab.org/the-hub",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "coordinates": {
+        "sourceName": "Lokal Lab — venue-linked Google Maps destination point",
+        "sourceUrl": "https://maps.app.goo.gl/egfaei4YdaKXaK8D7",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      }
+    },
+    "reviewed_on": "2026-10-21",
+    "aliases": [
+      "Lokal Hub General Luna",
+      "The Hub General Luna"
+    ],
+    "planning": {
+      "base_slug": "siargao",
+      "mode": "local",
+      "cluster": "siargao-lokal-hub-general-luna",
+      "minutes": 90,
+      "booking": "Confirm current opening and event or workshop arrangements. Tours and workshops are separate from browsing this General Luna venue.",
+      "transport": "Planning estimate: use a local ride from General Luna and confirm the return trip.",
+      "accessibility": "Step-free access and accessible facilities are unverified; ask the venue.",
+      "requiresBooking": false,
+      "scheduling": "candidate"
+    },
+    "slug": "siargao-lokal-hub-general-luna"
+  },
+  {
+    "id": "siargao-clubhouse-golf",
+    "name": "The Clubhouse Siargao",
+    "destination_group": "Siargao",
+    "region": "Caraga",
+    "province": "Surigao del Norte",
+    "city_municipality": "General Luna",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Attractions",
+    "description": "Indoor simulator golf lounge for visitors in General Luna.",
+    "interests": [
+      "City Wanderer",
+      "Slow Traveler"
+    ],
+    "itinerary_base_slug": "siargao",
+    "catalog_stop_id": "siargao-clubhouse-golf",
+    "status": "accepted",
+    "decision_reason": "Additional distinct physical place with reviewed identity and actual municipality sources; current access and availability are not guaranteed.",
+    "sources": {
+      "identity": {
+        "sourceName": "The Clubhouse Siargao — official location and visitor booking guidance",
+        "sourceUrl": "https://theclubhouse.ph/location",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "The Clubhouse Siargao — official location and visitor booking guidance",
+        "sourceUrl": "https://theclubhouse.ph/location",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21",
+    "aliases": [
+      "The Clubhouse Indoor Golf Siargao"
+    ],
+    "planning": {
+      "base_slug": "siargao",
+      "mode": "local",
+      "cluster": "siargao-clubhouse-golf",
+      "minutes": 90,
+      "booking": "The venue recommends booking a bay; walk-ins are subject to availability. Confirm session length, equipment, group limits, and current rates.",
+      "transport": "Planning estimate: use a local ride from General Luna and confirm the return trip.",
+      "accessibility": "Step-free access and accessible facilities are unverified; ask the venue.",
+      "requiresBooking": false,
+      "scheduling": "candidate",
+      "outdoor": false,
+      "booking_source": {
+        "sourceName": "The Clubhouse Siargao — official location and visitor booking guidance",
+        "sourceUrl": "https://theclubhouse.ph/location",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      }
+    },
+    "slug": "siargao-clubhouse-golf"
+  },
+  {
+    "id": "siargao-somyot-cave",
+    "name": "Somyot Cave",
+    "destination_group": "Siargao",
+    "region": "Caraga",
+    "province": "Surigao del Norte",
+    "city_municipality": "Burgos",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Nature",
+    "description": "Cave listed among Burgos’s terrestrial ecotourism sites.",
+    "interests": [
+      "Adventure Junkie",
+      "Nature Lover"
+    ],
+    "itinerary_base_slug": null,
+    "catalog_stop_id": null,
+    "status": "accepted",
+    "decision_reason": "Promoted from reviewed editorial surplus; identity and actual municipality supported, but no suitable General Luna excursion route or current visitor access was established.",
+    "sources": {
+      "identity": {
+        "sourceName": "SIPLAS Management Plan 2021–2030 — municipal ecotourism and wetland inventory",
+        "sourceUrl": "https://rsis.ramsar.org/RISapp/files/57292175/documents/PH2553_mgt230606.pdf",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "SIPLAS Management Plan 2021–2030 — municipal ecotourism and wetland inventory",
+        "sourceUrl": "https://rsis.ramsar.org/RISapp/files/57292175/documents/PH2553_mgt230606.pdf",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21",
+    "aliases": [],
+    "planning": {
+      "base_slug": null,
+      "mode": "separate-base",
+      "cluster": "siargao-somyot-cave",
+      "minutes": 480,
+      "booking": "Current entry permission, guide requirements, and visitor access are unverified; confirm with the relevant municipality before any visit.",
+      "transport": "No verified excursion route from General Luna was established. Directory listing only; arrange an independently reviewed travel plan.",
+      "accessibility": "Step-free access and accessible facilities are unverified; ask the venue.",
+      "requiresBooking": false,
+      "scheduling": "manual",
+      "outdoor": true
+    },
+    "slug": "siargao-somyot-cave"
+  },
+  {
+    "id": "siargao-osmena-wetland",
+    "name": "Osmeña Wetland",
+    "destination_group": "Siargao",
+    "region": "Caraga",
+    "province": "Surigao del Norte",
+    "city_municipality": "Dapa",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Nature",
+    "description": "Named wetland in Dapa documented in SIPLAS research.",
+    "interests": [
+      "Nature Lover"
+    ],
+    "itinerary_base_slug": null,
+    "catalog_stop_id": null,
+    "status": "accepted",
+    "decision_reason": "Promoted from reviewed editorial surplus; identity and actual municipality supported, but no suitable General Luna excursion route or current visitor access was established.",
+    "sources": {
+      "identity": {
+        "sourceName": "BusinessMirror / DENR-Caraga SIPLAS — named ecotourism sites",
+        "sourceUrl": "https://businessmirror.com.ph/2023/07/08/saving-siargao-island-paradise-battling-environmental-woes/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "SIPLAS Management Plan 2021–2030 — municipal ecotourism and wetland inventory",
+        "sourceUrl": "https://rsis.ramsar.org/RISapp/files/57292175/documents/PH2553_mgt230606.pdf",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21",
+    "aliases": [],
+    "planning": {
+      "base_slug": null,
+      "mode": "separate-base",
+      "cluster": "siargao-osmena-wetland",
+      "minutes": 480,
+      "booking": "Current entry permission, guide requirements, and visitor access are unverified; confirm with the relevant municipality before any visit.",
+      "transport": "No verified excursion route from General Luna was established. Directory listing only; arrange an independently reviewed travel plan.",
+      "accessibility": "Step-free access and accessible facilities are unverified; ask the venue.",
+      "requiresBooking": false,
+      "scheduling": "manual",
+      "outdoor": true
+    },
+    "slug": "siargao-osmena-wetland"
+  },
+  {
+    "id": "davao-crocodile-park",
+    "name": "Davao Crocodile Park",
+    "destination_group": "Davao",
+    "region": "Davao Region",
+    "province": null,
+    "city_municipality": "Davao City",
+    "barangay": "Ma-a",
+    "address": "Riverfront Corporate City, Diversion Road, Barangay Ma-a, Davao City",
+    "latitude": null,
+    "longitude": null,
+    "category": "Nature",
+    "description": "Crocodile park listed by Davao City Tourism in Ma-a.",
+    "interests": [
+      "Nature Lover",
+      "Slow Traveler"
+    ],
+    "itinerary_base_slug": "davao",
+    "catalog_stop_id": "davao-crocodile-park",
+    "status": "accepted",
+    "decision_reason": "Promoted from reviewed editorial surplus; original government identity, municipality, and address evidence retained.",
+    "sources": {
+      "identity": {
+        "sourceName": "Davao City Tourism — Davao Crocodile Park, Inc.",
+        "sourceUrl": "https://tourism.davaocity.gov.ph/explore-the-city/attractions/resorts/davao-crocodile-park-inc/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Davao City Tourism — Davao Crocodile Park, Inc.",
+        "sourceUrl": "https://tourism.davaocity.gov.ph/explore-the-city/attractions/resorts/davao-crocodile-park-inc/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": "Davao City Tourism — Davao Crocodile Park, Inc.",
+        "sourceUrl": "https://tourism.davaocity.gov.ph/explore-the-city/attractions/resorts/davao-crocodile-park-inc/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21",
+    "aliases": [
+      "Davao Riverfront Crocodile Park"
+    ],
+    "planning": {
+      "base_slug": "davao",
+      "mode": "local",
+      "cluster": "davao-crocodile-park",
+      "minutes": 120,
+      "booking": "Confirm admission, operating areas, current show times, and any booking requirement directly. No specific show or animal encounter is guaranteed.",
+      "transport": "Planning estimate: use a local ride within Davao City; confirm route and return transport.",
+      "accessibility": "Step-free access, paths, and accessible facilities are unverified; ask the venue or city office.",
+      "requiresBooking": false,
+      "scheduling": "candidate",
+      "outdoor": true
+    },
+    "slug": "davao-crocodile-park"
+  },
+  {
+    "id": "davao-gap-farm",
+    "name": "GAP Farm Resort",
+    "destination_group": "Davao",
+    "region": "Davao Region",
+    "province": null,
+    "city_municipality": "Davao City",
+    "barangay": "Ma-a",
+    "address": "Green Valley, Diversion Road, Ma-a, Davao City",
+    "latitude": null,
+    "longitude": null,
+    "category": "Nature",
+    "description": "Orchard and outdoor folklore displays in Ma-a.",
+    "interests": [
+      "Nature Lover",
+      "Slow Traveler"
+    ],
+    "itinerary_base_slug": "davao",
+    "catalog_stop_id": "davao-gap-farm",
+    "status": "accepted",
+    "decision_reason": "Additional distinct physical place with reviewed identity and actual municipality sources; current access and availability are not guaranteed.",
+    "sources": {
+      "identity": {
+        "sourceName": "Davao City Tourism — Gap Farm Resort",
+        "sourceUrl": "https://tourism.davaocity.gov.ph/explore-the-city/attractions/man-made-nature-parks/gap-farm-resort/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Davao City Tourism — Gap Farm Resort",
+        "sourceUrl": "https://tourism.davaocity.gov.ph/explore-the-city/attractions/man-made-nature-parks/gap-farm-resort/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": "Davao City Tourism — Gap Farm Resort",
+        "sourceUrl": "https://tourism.davaocity.gov.ph/explore-the-city/attractions/man-made-nature-parks/gap-farm-resort/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21",
+    "aliases": [
+      "Gap Orchard Resort",
+      "GAP Farming Orchard Resort"
+    ],
+    "planning": {
+      "base_slug": "davao",
+      "mode": "local",
+      "cluster": "davao-gap-farm",
+      "minutes": 120,
+      "booking": "Confirm current opening, public access, and availability directly before visiting.",
+      "transport": "The city tourism office lists taxi access via Diversion Road. Traffic and return ride availability require confirmation.",
+      "accessibility": "Step-free access, paths, and accessible facilities are unverified; ask the venue or city office.",
+      "requiresBooking": false,
+      "scheduling": "candidate",
+      "openingHours": {
+        "weekdays": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "opens": "07:30",
+        "closes": "17:00",
+        "source": {
+          "sourceName": "Davao City Tourism — Gap Farm Resort",
+          "sourceUrl": "https://tourism.davaocity.gov.ph/explore-the-city/attractions/man-made-nature-parks/gap-farm-resort/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        }
+      },
+      "outdoor": true,
+      "transport_source": {
+        "sourceName": "Davao City Tourism — Gap Farm Resort",
+        "sourceUrl": "https://tourism.davaocity.gov.ph/explore-the-city/attractions/man-made-nature-parks/gap-farm-resort/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      }
+    },
+    "slug": "davao-gap-farm"
+  },
+  {
+    "id": "davao-dleonor-inland-resort",
+    "name": "D’Leonor Inland Resort and Adventure Park",
+    "destination_group": "Davao",
+    "region": "Davao Region",
+    "province": null,
+    "city_municipality": "Davao City",
+    "barangay": "Communal",
+    "address": "Communal, Davao City",
+    "latitude": null,
+    "longitude": null,
+    "category": "Attractions",
+    "description": "Inland resort and recreation venue in Communal.",
+    "interests": [
+      "Nature Lover",
+      "Slow Traveler"
+    ],
+    "itinerary_base_slug": "davao",
+    "catalog_stop_id": "davao-dleonor-inland-resort",
+    "status": "accepted",
+    "decision_reason": "Additional distinct physical place with reviewed identity and actual municipality sources; current access and availability are not guaranteed.",
+    "sources": {
+      "identity": {
+        "sourceName": "Davao City Tourism — D’Leonor Inland Resort",
+        "sourceUrl": "https://tourism.davaocity.gov.ph/explore-the-city/attractions/man-made-nature-parks/dleonor-inland-resort/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Davao City Tourism — D’Leonor Inland Resort",
+        "sourceUrl": "https://tourism.davaocity.gov.ph/explore-the-city/attractions/man-made-nature-parks/dleonor-inland-resort/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": "Davao City Tourism — D’Leonor Inland Resort",
+        "sourceUrl": "https://tourism.davaocity.gov.ph/explore-the-city/attractions/man-made-nature-parks/dleonor-inland-resort/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21",
+    "aliases": [
+      "D'Leonor Inland Resort",
+      "D'Leonor Inland Resort and Wavepool"
+    ],
+    "planning": {
+      "base_slug": "davao",
+      "mode": "local",
+      "cluster": "davao-dleonor-inland-resort",
+      "minutes": 180,
+      "booking": "Confirm current day-visitor admission, operating attractions, and any activity booking requirement before scheduling.",
+      "transport": "City tourism lists taxi or a jeepney via the Cabantian route; confirm the current route, final approach, and return ride.",
+      "accessibility": "Step-free access, paths, and accessible facilities are unverified; ask the venue or city office.",
+      "requiresBooking": false,
+      "scheduling": "manual",
+      "transport_source": {
+        "sourceName": "Davao City Tourism — D’Leonor Inland Resort",
+        "sourceUrl": "https://tourism.davaocity.gov.ph/explore-the-city/attractions/man-made-nature-parks/dleonor-inland-resort/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      }
+    },
+    "slug": "davao-dleonor-inland-resort"
+  },
+  {
+    "id": "davao-japanese-tunnel",
+    "name": "D’ Japanese Tunnel",
+    "destination_group": "Davao",
+    "region": "Davao Region",
+    "province": null,
+    "city_municipality": "Davao City",
+    "barangay": "Matina Crossing",
+    "address": "Hillcrest Subdivision, Balusong Extension, Matina Crossing, Talomo, Davao City",
+    "latitude": null,
+    "longitude": null,
+    "category": "Culture",
+    "description": "Historic tunnel attraction at the Matina Crossing resort.",
+    "interests": [
+      "Culture Seeker",
+      "Slow Traveler"
+    ],
+    "itinerary_base_slug": "davao",
+    "catalog_stop_id": "davao-japanese-tunnel",
+    "status": "accepted",
+    "decision_reason": "Additional distinct physical place with reviewed identity and actual municipality sources; current access and availability are not guaranteed.",
+    "sources": {
+      "identity": {
+        "sourceName": "Department of Tourism London — Davao cultural sites",
+        "sourceUrl": "https://itsmorefuninthephilippines.co.uk/wp-content/uploads/PDOTL_DavaoCamiguin_Web.pdf",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Davao City Tourism — D’ Japanese Tunnel venue location",
+        "sourceUrl": "https://tourism.davaocity.gov.ph/explore-the-city/nightlife/spa/d-japanese-tunnel-family-resort-and-restaurant/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": "Davao City Tourism — D’ Japanese Tunnel venue location",
+        "sourceUrl": "https://tourism.davaocity.gov.ph/explore-the-city/nightlife/spa/d-japanese-tunnel-family-resort-and-restaurant/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21",
+    "aliases": [
+      "Japanese Tunnel Davao",
+      "D’ Japanese Tunnel Family Resort and Restaurant"
+    ],
+    "planning": {
+      "base_slug": "davao",
+      "mode": "local",
+      "cluster": "davao-japanese-tunnel",
+      "minutes": 90,
+      "booking": "Confirm current tunnel entry, guide arrangements, and physical access directly. A resort listing does not guarantee tunnel access.",
+      "transport": "Planning estimate: use a local ride within Davao City; confirm route and return transport.",
+      "accessibility": "Step-free access, paths, and accessible facilities are unverified; ask the venue or city office.",
+      "requiresBooking": false,
+      "scheduling": "manual"
+    },
+    "slug": "davao-japanese-tunnel"
+  },
+  {
+    "id": "davao-holy-infant-jesus-shrine",
+    "name": "Shrine of the Holy Infant Jesus of Prague",
+    "destination_group": "Davao",
+    "region": "Davao Region",
+    "province": null,
+    "city_municipality": "Davao City",
+    "barangay": null,
+    "address": "Shrine Hills, Matina, Davao City",
+    "latitude": null,
+    "longitude": null,
+    "category": "Culture",
+    "description": "Catholic shrine on Shrine Hills in Matina.",
+    "interests": [
+      "Culture Seeker",
+      "Slow Traveler"
+    ],
+    "itinerary_base_slug": "davao",
+    "catalog_stop_id": "davao-holy-infant-jesus-shrine",
+    "status": "accepted",
+    "decision_reason": "Additional distinct physical place with reviewed identity and actual municipality sources; current access and availability are not guaranteed.",
+    "sources": {
+      "identity": {
+        "sourceName": "Davao Catholic Herald — Shrine of the Holy Infant Jesus of Prague",
+        "sourceUrl": "https://www.davaocatholicherald.com/mass-schedules/sto-nino-shrine-mass-schedule/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Davao Catholic Herald — Shrine of the Holy Infant Jesus of Prague",
+        "sourceUrl": "https://www.davaocatholicherald.com/mass-schedules/sto-nino-shrine-mass-schedule/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": "Davao Catholic Herald — Shrine of the Holy Infant Jesus of Prague",
+        "sourceUrl": "https://www.davaocatholicherald.com/mass-schedules/sto-nino-shrine-mass-schedule/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21",
+    "aliases": [
+      "Santo Niño Shrine — Matina",
+      "Sto. Niño Shrine — Davao"
+    ],
+    "planning": {
+      "base_slug": "davao",
+      "mode": "local",
+      "cluster": "shrine-hills",
+      "minutes": 60,
+      "booking": "Confirm visitor access around worship services and special events; observe the shrine's visitor guidance. Mass times are not general opening hours.",
+      "transport": "Planning estimate: use a local ride within Davao City; confirm route and return transport.",
+      "accessibility": "Step-free access, paths, and accessible facilities are unverified; ask the venue or city office.",
+      "requiresBooking": false,
+      "scheduling": "candidate"
+    },
+    "slug": "davao-holy-infant-jesus-shrine"
+  },
+  {
+    "id": "davao-poblacion-market-central",
+    "name": "Poblacion Market Central",
+    "destination_group": "Davao",
+    "region": "Davao Region",
+    "province": null,
+    "city_municipality": "Davao City",
+    "barangay": "Barangay 4A",
+    "address": "C. Bangoy Street, Barangay 4A, Poblacion, Davao City",
+    "latitude": null,
+    "longitude": null,
+    "category": "Parks & markets",
+    "description": "Retail and cultural market with local crafts and food.",
+    "interests": [
+      "Nature Lover",
+      "Slow Traveler"
+    ],
+    "itinerary_base_slug": "davao",
+    "catalog_stop_id": "davao-poblacion-market-central",
+    "status": "accepted",
+    "decision_reason": "Additional distinct physical place with reviewed identity and actual municipality sources; current access and availability are not guaranteed.",
+    "sources": {
+      "identity": {
+        "sourceName": "Alsons Development — Poblacion Market Central",
+        "sourceUrl": "https://alsonsdev.com/alsons-dev-launches-poblacion-market-central-the-newest-lifestyle-destination-in-davao-where-heritage-meets-hip/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Alsons Development — Poblacion Market Central",
+        "sourceUrl": "https://alsonsdev.com/alsons-dev-launches-poblacion-market-central-the-newest-lifestyle-destination-in-davao-where-heritage-meets-hip/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": "Keppel Philippines — Poblacion Market Central branch address record",
+        "sourceUrl": "https://www.keppelland.com.ph/pdf/CGFD_Keppel%20Philippines%20Properties%20Inc._SEC%2020-IS%20Y2023_13April2023_part3of3.pdf",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21",
+    "aliases": [],
+    "planning": {
+      "base_slug": "davao",
+      "mode": "local",
+      "cluster": "davao-poblacion-market-central",
+      "minutes": 90,
+      "booking": "Confirm current retail opening and any event arrangements. Internal food counters and exhibitions are part of this venue.",
+      "transport": "Planning estimate: use a local ride within Davao City; confirm route and return transport.",
+      "accessibility": "Step-free access, paths, and accessible facilities are unverified; ask the venue or city office.",
+      "requiresBooking": false,
+      "scheduling": "candidate",
+      "outdoor": true
+    },
+    "slug": "davao-poblacion-market-central"
+  },
+  {
+    "id": "davao-bago-esplanade",
+    "name": "Bago Esplanade",
+    "destination_group": "Davao",
+    "region": "Davao Region",
+    "province": null,
+    "city_municipality": "Davao City",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Parks & markets",
+    "description": "Public park along Davao City Coastal Road.",
+    "interests": [
+      "Nature Lover",
+      "Slow Traveler"
+    ],
+    "itinerary_base_slug": "davao",
+    "catalog_stop_id": "davao-bago-esplanade",
+    "status": "accepted",
+    "decision_reason": "Additional distinct physical place with reviewed identity and actual municipality sources; current access and availability are not guaranteed.",
+    "sources": {
+      "identity": {
+        "sourceName": "City Government of Davao — opened public parks and green spaces",
+        "sourceUrl": "https://davaocity.gov.ph/sustainable-environment/city-to-open-more-green-spaces-parks/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "City Government of Davao — opened public parks and green spaces",
+        "sourceUrl": "https://davaocity.gov.ph/sustainable-environment/city-to-open-more-green-spaces-parks/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21",
+    "aliases": [
+      "Bago Aplaya Esplanade"
+    ],
+    "planning": {
+      "base_slug": "davao",
+      "mode": "local",
+      "cluster": "davao-bago-esplanade",
+      "minutes": 60,
+      "booking": "Confirm current park access and event or road restrictions; coastal conditions are not assessed by this listing.",
+      "transport": "Planning estimate: use a local ride within Davao City; confirm route and return transport.",
+      "accessibility": "Step-free access, paths, and accessible facilities are unverified; ask the venue or city office.",
+      "requiresBooking": false,
+      "scheduling": "candidate",
+      "outdoor": true
+    },
+    "slug": "davao-bago-esplanade"
+  },
+  {
+    "id": "davao-gulf-view-esplanade",
+    "name": "Gulf View Esplanade",
+    "destination_group": "Davao",
+    "region": "Davao Region",
+    "province": null,
+    "city_municipality": "Davao City",
+    "barangay": null,
+    "address": null,
+    "latitude": null,
+    "longitude": null,
+    "category": "Parks & markets",
+    "description": "Separate public park on the city's coastal-road corridor.",
+    "interests": [
+      "Nature Lover",
+      "Slow Traveler"
+    ],
+    "itinerary_base_slug": "davao",
+    "catalog_stop_id": "davao-gulf-view-esplanade",
+    "status": "accepted",
+    "decision_reason": "Additional distinct physical place with reviewed identity and actual municipality sources; current access and availability are not guaranteed.",
+    "sources": {
+      "identity": {
+        "sourceName": "City Government of Davao — opened public parks and green spaces",
+        "sourceUrl": "https://davaocity.gov.ph/sustainable-environment/city-to-open-more-green-spaces-parks/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "City Government of Davao — opened public parks and green spaces",
+        "sourceUrl": "https://davaocity.gov.ph/sustainable-environment/city-to-open-more-green-spaces-parks/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21",
+    "aliases": [],
+    "planning": {
+      "base_slug": "davao",
+      "mode": "local",
+      "cluster": "davao-gulf-view-esplanade",
+      "minutes": 60,
+      "booking": "Confirm current park access and event or road restrictions; no coastal safety claim is made.",
+      "transport": "Planning estimate: use a local ride within Davao City; confirm route and return transport.",
+      "accessibility": "Step-free access, paths, and accessible facilities are unverified; ask the venue or city office.",
+      "requiresBooking": false,
+      "scheduling": "candidate",
+      "outdoor": true
+    },
+    "slug": "davao-gulf-view-esplanade"
+  },
+  {
+    "id": "davao-marfori-botanical-garden",
+    "name": "Davao City Botanical Park",
+    "destination_group": "Davao",
+    "region": "Davao Region",
+    "province": null,
+    "city_municipality": "Davao City",
+    "barangay": null,
+    "address": "Marfori Heights Subdivision, Davao City",
+    "latitude": null,
+    "longitude": null,
+    "category": "Parks & markets",
+    "description": "City park at Marfori Heights Subdivision.",
+    "interests": [
+      "Nature Lover",
+      "Slow Traveler"
+    ],
+    "itinerary_base_slug": "davao",
+    "catalog_stop_id": "davao-marfori-botanical-garden",
+    "status": "accepted",
+    "decision_reason": "Additional distinct physical place with reviewed identity and actual municipality sources; current access and availability are not guaranteed.",
+    "sources": {
+      "identity": {
+        "sourceName": "City Government of Davao — existing city park inventory",
+        "sourceUrl": "https://davaocity.gov.ph/environment/six-new-public-parks-to-open-in-davao-city/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "City Government of Davao — existing city park inventory",
+        "sourceUrl": "https://davaocity.gov.ph/environment/six-new-public-parks-to-open-in-davao-city/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": "City Government of Davao — existing city park inventory",
+        "sourceUrl": "https://davaocity.gov.ph/environment/six-new-public-parks-to-open-in-davao-city/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21",
+    "aliases": [
+      "Marfori Botanical Garden"
+    ],
+    "planning": {
+      "base_slug": "davao",
+      "mode": "local",
+      "cluster": "davao-marfori-botanical-garden",
+      "minutes": 60,
+      "booking": "Confirm current opening, public access, and availability directly before visiting.",
+      "transport": "Planning estimate: use a local ride within Davao City; confirm route and return transport.",
+      "accessibility": "Step-free access, paths, and accessible facilities are unverified; ask the venue or city office.",
+      "requiresBooking": false,
+      "scheduling": "candidate",
+      "outdoor": true
+    },
+    "slug": "davao-marfori-botanical-garden"
+  },
+  {
+    "id": "davao-toril-park",
+    "name": "Toril Park",
+    "destination_group": "Davao",
+    "region": "Davao Region",
+    "province": null,
+    "city_municipality": "Davao City",
+    "barangay": null,
+    "address": "Agton Street, Toril, Davao City",
+    "latitude": null,
+    "longitude": null,
+    "category": "Parks & markets",
+    "description": "Renovated city park on Agton Street, Toril.",
+    "interests": [
+      "Nature Lover",
+      "Slow Traveler"
+    ],
+    "itinerary_base_slug": "davao",
+    "catalog_stop_id": "davao-toril-park",
+    "status": "accepted",
+    "decision_reason": "Additional distinct physical place with reviewed identity and actual municipality sources; current access and availability are not guaranteed.",
+    "sources": {
+      "identity": {
+        "sourceName": "City Government of Davao — opened public parks and green spaces",
+        "sourceUrl": "https://davaocity.gov.ph/sustainable-environment/city-to-open-more-green-spaces-parks/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "City Government of Davao — opened public parks and green spaces",
+        "sourceUrl": "https://davaocity.gov.ph/sustainable-environment/city-to-open-more-green-spaces-parks/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": "City Government of Davao — opened public parks and green spaces",
+        "sourceUrl": "https://davaocity.gov.ph/sustainable-environment/city-to-open-more-green-spaces-parks/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21",
+    "aliases": [],
+    "planning": {
+      "base_slug": "davao",
+      "mode": "local",
+      "cluster": "davao-toril-park",
+      "minutes": 60,
+      "booking": "Confirm current opening, public access, and availability directly before visiting.",
+      "transport": "Outlying Toril visit within Davao City. Confirm a suitable round-trip road route before combining with downtown stops.",
+      "accessibility": "Step-free access, paths, and accessible facilities are unverified; ask the venue or city office.",
+      "requiresBooking": false,
+      "scheduling": "manual",
+      "outdoor": true
+    },
+    "slug": "davao-toril-park"
+  },
+  {
+    "id": "davao-matina-linear-park",
+    "name": "Matina Linear Park",
+    "destination_group": "Davao",
+    "region": "Davao Region",
+    "province": null,
+    "city_municipality": "Davao City",
+    "barangay": null,
+    "address": "McArthur Highway, Davao City",
+    "latitude": null,
+    "longitude": null,
+    "category": "Parks & markets",
+    "description": "Linear public park along the McArthur Highway.",
+    "interests": [
+      "Nature Lover",
+      "Slow Traveler"
+    ],
+    "itinerary_base_slug": "davao",
+    "catalog_stop_id": "davao-matina-linear-park",
+    "status": "accepted",
+    "decision_reason": "Additional distinct physical place with reviewed identity and actual municipality sources; current access and availability are not guaranteed.",
+    "sources": {
+      "identity": {
+        "sourceName": "City Government of Davao — opened public parks and green spaces",
+        "sourceUrl": "https://davaocity.gov.ph/sustainable-environment/city-to-open-more-green-spaces-parks/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "City Government of Davao — opened public parks and green spaces",
+        "sourceUrl": "https://davaocity.gov.ph/sustainable-environment/city-to-open-more-green-spaces-parks/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": "City Government of Davao — opened public parks and green spaces",
+        "sourceUrl": "https://davaocity.gov.ph/sustainable-environment/city-to-open-more-green-spaces-parks/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21",
+    "aliases": [],
+    "planning": {
+      "base_slug": "davao",
+      "mode": "local",
+      "cluster": "davao-matina-linear-park",
+      "minutes": 45,
+      "booking": "Confirm current opening, public access, and availability directly before visiting.",
+      "transport": "Planning estimate: use a local ride within Davao City; confirm route and return transport.",
+      "accessibility": "Step-free access, paths, and accessible facilities are unverified; ask the venue or city office.",
+      "requiresBooking": false,
+      "scheduling": "candidate",
+      "outdoor": true
+    },
+    "slug": "davao-matina-linear-park"
+  },
+  {
+    "id": "davao-candelaria-park",
+    "name": "Candelaria Park",
+    "destination_group": "Davao",
+    "region": "Davao Region",
+    "province": null,
+    "city_municipality": "Davao City",
+    "barangay": null,
+    "address": "Quimpo Boulevard, Davao City",
+    "latitude": null,
+    "longitude": null,
+    "category": "Parks & markets",
+    "description": "Public pocket park on Quimpo Boulevard.",
+    "interests": [
+      "Nature Lover",
+      "Slow Traveler"
+    ],
+    "itinerary_base_slug": "davao",
+    "catalog_stop_id": "davao-candelaria-park",
+    "status": "accepted",
+    "decision_reason": "Additional distinct physical place with reviewed identity and actual municipality sources; current access and availability are not guaranteed.",
+    "sources": {
+      "identity": {
+        "sourceName": "City Government of Davao — opened public parks and green spaces",
+        "sourceUrl": "https://davaocity.gov.ph/sustainable-environment/city-to-open-more-green-spaces-parks/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "City Government of Davao — opened public parks and green spaces",
+        "sourceUrl": "https://davaocity.gov.ph/sustainable-environment/city-to-open-more-green-spaces-parks/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": "City Government of Davao — opened public parks and green spaces",
+        "sourceUrl": "https://davaocity.gov.ph/sustainable-environment/city-to-open-more-green-spaces-parks/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21",
+    "aliases": [],
+    "planning": {
+      "base_slug": "davao",
+      "mode": "local",
+      "cluster": "davao-candelaria-park",
+      "minutes": 45,
+      "booking": "Confirm current opening, public access, and availability directly before visiting.",
+      "transport": "Planning estimate: use a local ride within Davao City; confirm route and return transport.",
+      "accessibility": "Step-free access, paths, and accessible facilities are unverified; ask the venue or city office.",
+      "requiresBooking": false,
+      "scheduling": "candidate",
+      "outdoor": true
+    },
+    "slug": "davao-candelaria-park"
+  },
+  {
+    "id": "davao-communal-pocket-park",
+    "name": "Communal Pocket Park",
+    "destination_group": "Davao",
+    "region": "Davao Region",
+    "province": null,
+    "city_municipality": "Davao City",
+    "barangay": "Communal",
+    "address": "Mutual Homes, Barangay Communal, Davao City",
+    "latitude": null,
+    "longitude": null,
+    "category": "Parks & markets",
+    "description": "Neighborhood public park in Mutual Homes, Communal.",
+    "interests": [
+      "Nature Lover",
+      "Slow Traveler"
+    ],
+    "itinerary_base_slug": "davao",
+    "catalog_stop_id": "davao-communal-pocket-park",
+    "status": "accepted",
+    "decision_reason": "Additional distinct physical place with reviewed identity and actual municipality sources; current access and availability are not guaranteed.",
+    "sources": {
+      "identity": {
+        "sourceName": "City Government of Davao — opened public parks and green spaces",
+        "sourceUrl": "https://davaocity.gov.ph/sustainable-environment/city-to-open-more-green-spaces-parks/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "City Government of Davao — opened public parks and green spaces",
+        "sourceUrl": "https://davaocity.gov.ph/sustainable-environment/city-to-open-more-green-spaces-parks/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": "City Government of Davao — opened public parks and green spaces",
+        "sourceUrl": "https://davaocity.gov.ph/sustainable-environment/city-to-open-more-green-spaces-parks/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21",
+    "aliases": [],
+    "planning": {
+      "base_slug": "davao",
+      "mode": "local",
+      "cluster": "davao-communal-pocket-park",
+      "minutes": 60,
+      "booking": "Confirm current opening, public access, and availability directly before visiting.",
+      "transport": "Planning estimate: use a local ride within Davao City; confirm route and return transport.",
+      "accessibility": "Step-free access, paths, and accessible facilities are unverified; ask the venue or city office.",
+      "requiresBooking": false,
+      "scheduling": "candidate",
+      "outdoor": true
+    },
+    "slug": "davao-communal-pocket-park"
+  },
+  {
+    "id": "davao-jacks-ridge-shrine-hills",
+    "name": "Jack’s Ridge — Shrine Hills",
+    "destination_group": "Davao",
+    "region": "Davao Region",
+    "province": null,
+    "city_municipality": "Davao City",
+    "barangay": "Matina Crossing",
+    "address": "Shrine Hills, Matina Crossing, Davao City",
+    "latitude": null,
+    "longitude": null,
+    "category": "Food & drink",
+    "description": "Dining destination on Shrine Hills in Matina.",
+    "interests": [
+      "Food Hunter",
+      "Slow Traveler"
+    ],
+    "itinerary_base_slug": "davao",
+    "catalog_stop_id": "davao-jacks-ridge-shrine-hills",
+    "status": "accepted",
+    "decision_reason": "Additional distinct physical place with reviewed identity and actual municipality sources; current access and availability are not guaranteed.",
+    "sources": {
+      "identity": {
+        "sourceName": "Davao City Tourism — Jack’s Ridge, Shrine Hills branch",
+        "sourceUrl": "https://tourism.davaocity.gov.ph/explore-the-city/restaurants/restaurants/jacks-ridge-resort-and-restaurant-corp/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Davao City Tourism — Jack’s Ridge, Shrine Hills branch",
+        "sourceUrl": "https://tourism.davaocity.gov.ph/explore-the-city/restaurants/restaurants/jacks-ridge-resort-and-restaurant-corp/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": "Davao City Tourism — Jack’s Ridge, Shrine Hills branch",
+        "sourceUrl": "https://tourism.davaocity.gov.ph/explore-the-city/restaurants/restaurants/jacks-ridge-resort-and-restaurant-corp/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21",
+    "aliases": [
+      "Jack's Ridge Resort and Restaurant"
+    ],
+    "planning": {
+      "base_slug": "davao",
+      "mode": "local",
+      "cluster": "shrine-hills",
+      "minutes": 120,
+      "booking": "Confirm current dining hours and a table directly. Individual in-house restaurants are not counted again as separate places.",
+      "transport": "Planning estimate: use a local ride within Davao City; confirm route and return transport.",
+      "accessibility": "Step-free access, paths, and accessible facilities are unverified; ask the venue or city office.",
+      "requiresBooking": false,
+      "scheduling": "candidate"
+    },
+    "slug": "davao-jacks-ridge-shrine-hills"
+  },
+  {
+    "id": "davao-apo-ni-lola-matina",
+    "name": "Apo ni Lola Pasalubong Center — Matina",
+    "destination_group": "Davao",
+    "region": "Davao Region",
+    "province": null,
+    "city_municipality": "Davao City",
+    "barangay": null,
+    "address": "San Miguel Village, Matina, Davao City",
+    "latitude": null,
+    "longitude": null,
+    "category": "Food & drink",
+    "description": "Durian delicacies and souvenir shop in San Miguel Village.",
+    "interests": [
+      "Food Hunter",
+      "Slow Traveler"
+    ],
+    "itinerary_base_slug": "davao",
+    "catalog_stop_id": "davao-apo-ni-lola-matina",
+    "status": "accepted",
+    "decision_reason": "Additional distinct physical place with reviewed identity and actual municipality sources; current access and availability are not guaranteed.",
+    "sources": {
+      "identity": {
+        "sourceName": "DOST — Apo ni Lola food-processing business, October 2026",
+        "sourceUrl": "https://dost.gov.ph/knowledge-resources/news/4560-from-micro-to-medium-dost-steps-up-assistance-to-apo-ni-lola-thrive-in-food-processing-business.html",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "DOST — Apo ni Lola food-processing business, October 2026",
+        "sourceUrl": "https://dost.gov.ph/knowledge-resources/news/4560-from-micro-to-medium-dost-steps-up-assistance-to-apo-ni-lola-thrive-in-food-processing-business.html",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": "Mindanao Times — Apo ni Lola new San Miguel Village store",
+        "sourceUrl": "https://mindanaotimes.com.ph/apo-ni-lola-durian-delicacies-opens-new-store-for-all-things-davao/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21",
+    "aliases": [
+      "Apo ni Lola Durian Delicacies — Matina"
+    ],
+    "planning": {
+      "base_slug": "davao",
+      "mode": "local",
+      "cluster": "davao-apo-ni-lola-matina",
+      "minutes": 60,
+      "booking": "Confirm current store access and hours; factory tours, tastings, or production viewing are not assumed.",
+      "transport": "Planning estimate: use a local ride within Davao City; confirm route and return transport.",
+      "accessibility": "Step-free access, paths, and accessible facilities are unverified; ask the venue or city office.",
+      "requiresBooking": false,
+      "scheduling": "candidate"
+    },
+    "slug": "davao-apo-ni-lola-matina"
+  },
+  {
+    "id": "davao-marina-tuna-sandawa",
+    "name": "Marina Tuna — Sandawa Plaza",
+    "destination_group": "Davao",
+    "region": "Davao Region",
+    "province": null,
+    "city_municipality": "Davao City",
+    "barangay": null,
+    "address": "Sandawa Plaza, Quimpo Boulevard, Davao City",
+    "latitude": null,
+    "longitude": null,
+    "category": "Food & drink",
+    "description": "Restaurant at Sandawa Plaza on Quimpo Boulevard.",
+    "interests": [
+      "Food Hunter",
+      "Slow Traveler"
+    ],
+    "itinerary_base_slug": "davao",
+    "catalog_stop_id": "davao-marina-tuna-sandawa",
+    "status": "accepted",
+    "decision_reason": "Additional distinct physical place with reviewed identity and actual municipality sources; current access and availability are not guaranteed.",
+    "sources": {
+      "identity": {
+        "sourceName": "Davao City Tourism — Marina Tuna, Sandawa Plaza",
+        "sourceUrl": "https://tourism.davaocity.gov.ph/explore-the-city/restaurants/restaurants/marina-tuna-2/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "municipality": {
+        "sourceName": "Davao City Tourism — Marina Tuna, Sandawa Plaza",
+        "sourceUrl": "https://tourism.davaocity.gov.ph/explore-the-city/restaurants/restaurants/marina-tuna-2/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "address": {
+        "sourceName": "Davao City Tourism — Marina Tuna, Sandawa Plaza",
+        "sourceUrl": "https://tourism.davaocity.gov.ph/explore-the-city/restaurants/restaurants/marina-tuna-2/",
+        "dateChecked": "2026-10-21",
+        "status": "verified"
+      },
+      "coordinates": {
+        "sourceName": null,
+        "sourceUrl": null,
+        "dateChecked": null,
+        "status": "unverified"
+      }
+    },
+    "reviewed_on": "2026-10-21",
+    "aliases": [
+      "Marina Tuna Quimpo Boulevard"
+    ],
+    "planning": {
+      "base_slug": "davao",
+      "mode": "local",
+      "cluster": "davao-marina-tuna-sandawa",
+      "minutes": 90,
+      "booking": "Confirm current opening, public access, and availability directly before visiting.",
+      "transport": "Planning estimate: use a local ride within Davao City; confirm route and return transport.",
+      "accessibility": "Step-free access, paths, and accessible facilities are unverified; ask the venue or city office.",
+      "requiresBooking": false,
+      "scheduling": "candidate"
+    },
+    "slug": "davao-marina-tuna-sandawa"
+  }
+]

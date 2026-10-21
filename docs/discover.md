@@ -1,6 +1,6 @@
 # Discover: editorial places and Wikimedia readership
 
-`/discover` contains 200 accepted physical locations across 11 browsing destinations plus the existing overnight-base guides. Explore Destinations, destination/category/interest filters, and name/description/municipality search compose into one paginated directory. Each detail preserves actual administrative fields and fact-specific source statuses. The homepage retains its compact selection. See [current counts](directory-progress.md) and [research and maintenance guide](catalog-contributing.md).
+`/discover` contains 332 accepted physical locations across 11 browsing destinations plus the existing overnight-base guides (200 original records and 132 saved additions; 18 additions remain pending). Explore Destinations, destination/category/interest filters, and name/description/municipality search compose into one paginated directory. Each detail preserves actual administrative fields and fact-specific source statuses. The homepage retains its compact selection. See [current counts](directory-progress.md), [expansion progress](expansion-progress.md), [itinerary selection](itinerary-selection.md) and [research and maintenance guide](catalog-contributing.md).
 
 ## Editorial editing workflow
 

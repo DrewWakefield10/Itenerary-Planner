@@ -1,0 +1,443 @@
+{
+  "destination": "Manila",
+  "batch": 2,
+  "kind": "Export snapshot of reviewed candidate batch",
+  "entries": [
+    {
+      "destination_group": "Manila",
+      "region": "National Capital Region",
+      "province": null,
+      "city_municipality": "Manila",
+      "barangay": null,
+      "address": "Cabildo Street corner Recoletos Street, Intramuros",
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "Ilustrado Restaurant - official site",
+          "sourceUrl": "https://ilustradorestaurant.ph/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Ilustrado Restaurant - official site",
+          "sourceUrl": "https://ilustradorestaurant.ph/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "Ilustrado Restaurant - official site",
+          "sourceUrl": "https://ilustradorestaurant.ph/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "id": "manila-ilustrado-restaurant",
+      "name": "Ilustrado Restaurant",
+      "aliases": [],
+      "planning": {
+        "base_slug": "manila",
+        "mode": "local",
+        "cluster": "intramuros",
+        "minutes": 90,
+        "booking": "Confirm current opening hours, admission or menu prices, and any reservation requirements with the venue before visiting.",
+        "transport": "Arrange local travel separately; route, fare, and journey time are unverified. Allow a local transfer buffer.",
+        "accessibility": "Step-free access, paths, toilets, and individual access needs have not been verified; confirm directly.",
+        "requiresBooking": false,
+        "scheduling": "candidate"
+      },
+      "category": "Food & drink",
+      "description": "Filipino and Spanish dining in Intramuros.",
+      "interests": [
+        "Food Hunter",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "manila",
+      "catalog_stop_id": "manila-ilustrado-restaurant",
+      "status": "accepted",
+      "decision_reason": "Verified distinct physical place; practical details require separate confirmation.",
+      "reviewed_on": "2026-10-21",
+      "slug": "manila-ilustrado-restaurant"
+    },
+    {
+      "destination_group": "Manila",
+      "region": "National Capital Region",
+      "province": null,
+      "city_municipality": "Manila",
+      "barangay": null,
+      "address": "General Luna Street, Intramuros",
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "Barbara's Heritage Restaurant - venue contact page",
+          "sourceUrl": "https://www.barbaras.ph/contact-us",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Barbara's Heritage Restaurant - venue contact page",
+          "sourceUrl": "https://www.barbaras.ph/contact-us",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "Barbara's Heritage Restaurant - venue contact page",
+          "sourceUrl": "https://www.barbaras.ph/contact-us",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "id": "manila-barbaras-heritage",
+      "name": "Barbara's Heritage Restaurant",
+      "aliases": [],
+      "planning": {
+        "base_slug": "manila",
+        "mode": "local",
+        "cluster": "intramuros",
+        "minutes": 90,
+        "booking": "Confirm dining arrangements and whether the requested service includes a cultural performance. No meal or performance is reserved.",
+        "transport": "Arrange local travel separately; route, fare, and journey time are unverified. Allow a local transfer buffer.",
+        "accessibility": "Step-free access, paths, toilets, and individual access needs have not been verified; confirm directly.",
+        "requiresBooking": false,
+        "scheduling": "candidate"
+      },
+      "category": "Food & drink",
+      "description": "Filipino dining on General Luna Street.",
+      "interests": [
+        "Food Hunter",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "manila",
+      "catalog_stop_id": "manila-barbaras-heritage",
+      "status": "accepted",
+      "decision_reason": "Verified distinct physical place; practical details require separate confirmation.",
+      "reviewed_on": "2026-10-21",
+      "slug": "manila-barbaras-heritage"
+    },
+    {
+      "destination_group": "Manila",
+      "region": "National Capital Region",
+      "province": null,
+      "city_municipality": "Manila",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "City of Manila - Arroceros park management",
+          "sourceUrl": "https://manila.gov.ph/category/parks-development/page/6/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "City of Manila - Arroceros park management",
+          "sourceUrl": "https://manila.gov.ph/category/parks-development/page/6/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "id": "manila-arroceros-forest-park",
+      "name": "Arroceros Forest Park",
+      "aliases": [],
+      "planning": {
+        "base_slug": "manila",
+        "mode": "local",
+        "cluster": "manila-arroceros-forest-park",
+        "minutes": 90,
+        "booking": "Confirm current opening hours, admission or menu prices, and any reservation requirements with the venue before visiting.",
+        "transport": "Arrange local travel separately; route, fare, and journey time are unverified. Allow a local transfer buffer.",
+        "accessibility": "Step-free access, paths, toilets, and individual access needs have not been verified; confirm directly.",
+        "requiresBooking": false,
+        "scheduling": "candidate"
+      },
+      "category": "Nature",
+      "description": "A city-managed forest park in Manila.",
+      "interests": [
+        "Nature Lover",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "manila",
+      "catalog_stop_id": "manila-arroceros-forest-park",
+      "status": "accepted",
+      "decision_reason": "Verified distinct physical place; practical details require separate confirmation.",
+      "reviewed_on": "2026-10-21",
+      "slug": "manila-arroceros-forest-park"
+    },
+    {
+      "destination_group": "Manila",
+      "region": "National Capital Region",
+      "province": null,
+      "city_municipality": "Quezon City",
+      "barangay": null,
+      "address": "Quezon Avenue corner Elliptical Road, Diliman",
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "Quezon City Government - Ninoy Aquino Parks and Wildlife Center",
+          "sourceUrl": "https://quezoncity.gov.ph/place/ninoy-aquino-parks-and-wildlife-center/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Quezon City Government - Ninoy Aquino Parks and Wildlife Center",
+          "sourceUrl": "https://quezoncity.gov.ph/place/ninoy-aquino-parks-and-wildlife-center/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "Quezon City Government - Ninoy Aquino Parks and Wildlife Center",
+          "sourceUrl": "https://quezoncity.gov.ph/place/ninoy-aquino-parks-and-wildlife-center/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "id": "manila-ninoy-aquino-parks",
+      "name": "Ninoy Aquino Parks and Wildlife Center",
+      "aliases": [
+        "NAPWC"
+      ],
+      "planning": {
+        "base_slug": null,
+        "mode": "separate-base",
+        "cluster": "manila-ninoy-aquino-parks",
+        "minutes": 150,
+        "booking": "Confirm current opening hours, admission or menu prices, and any reservation requirements with the venue before visiting.",
+        "transport": "Outside the currently modeled city base. Arrange a separate route and transport before scheduling.",
+        "accessibility": "Step-free access, paths, toilets, and individual access needs have not been verified; confirm directly.",
+        "requiresBooking": false,
+        "scheduling": "manual"
+      },
+      "category": "Nature",
+      "description": "An urban nature park in Diliman.",
+      "interests": [
+        "Nature Lover",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": null,
+      "catalog_stop_id": null,
+      "status": "accepted",
+      "decision_reason": "Verified distinct physical place; practical details require separate confirmation.",
+      "reviewed_on": "2026-10-21",
+      "slug": "manila-ninoy-aquino-parks"
+    },
+    {
+      "destination_group": "Manila",
+      "region": "National Capital Region",
+      "province": null,
+      "city_municipality": "Quezon City",
+      "barangay": null,
+      "address": "Soledad V Pangilinan Arts Wing, Arete, Ateneo de Manila University, Katipunan Avenue, Loyola Heights",
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "Ateneo Art Gallery - official visitor information",
+          "sourceUrl": "https://ateneoartgallery.com/contact",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Ateneo Art Gallery - official visitor information",
+          "sourceUrl": "https://ateneoartgallery.com/contact",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "Ateneo Art Gallery - official visitor information",
+          "sourceUrl": "https://ateneoartgallery.com/contact",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "id": "manila-ateneo-art-gallery",
+      "name": "Ateneo Art Gallery",
+      "aliases": [],
+      "planning": {
+        "base_slug": null,
+        "mode": "separate-base",
+        "cluster": "manila-ateneo-art-gallery",
+        "minutes": 120,
+        "booking": "The gallery publishes visitor entry guidance and campus ID rules. Confirm the current university calendar and permitted campus access.",
+        "transport": "Outside the currently modeled city base. Arrange a separate route and transport before scheduling.",
+        "accessibility": "Step-free access, paths, toilets, and individual access needs have not been verified; confirm directly.",
+        "requiresBooking": false,
+        "scheduling": "manual"
+      },
+      "category": "Culture",
+      "description": "Modern and contemporary art at Ateneo's Arete arts wing.",
+      "interests": [
+        "Culture Seeker",
+        "City Wanderer"
+      ],
+      "itinerary_base_slug": null,
+      "catalog_stop_id": null,
+      "status": "accepted",
+      "decision_reason": "Verified distinct physical place; practical details require separate confirmation.",
+      "reviewed_on": "2026-10-21",
+      "slug": "manila-ateneo-art-gallery"
+    },
+    {
+      "destination_group": "Manila",
+      "region": "National Capital Region",
+      "province": null,
+      "city_municipality": "Manila",
+      "barangay": null,
+      "address": "Roxas Boulevard corner South Drive, Ermita",
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "Museo Pambata - official museum and visitor page",
+          "sourceUrl": "https://www.museopambata.com.ph/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Museo Pambata - official museum and visitor page",
+          "sourceUrl": "https://www.museopambata.com.ph/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "Museo Pambata - official museum and visitor page",
+          "sourceUrl": "https://www.museopambata.com.ph/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "id": "manila-museo-pambata",
+      "name": "Museo Pambata",
+      "aliases": [],
+      "planning": {
+        "base_slug": "manila",
+        "mode": "local",
+        "cluster": "manila-museo-pambata",
+        "minutes": 150,
+        "booking": "Confirm current opening hours, admission or menu prices, and any reservation requirements with the venue before visiting.",
+        "transport": "Arrange local travel separately; route, fare, and journey time are unverified. Allow a local transfer buffer.",
+        "accessibility": "Step-free access, paths, toilets, and individual access needs have not been verified; confirm directly.",
+        "requiresBooking": false,
+        "scheduling": "candidate"
+      },
+      "category": "Culture",
+      "description": "An interactive museum celebrating Filipino childhood.",
+      "interests": [
+        "Culture Seeker",
+        "City Wanderer"
+      ],
+      "itinerary_base_slug": "manila",
+      "catalog_stop_id": "manila-museo-pambata",
+      "status": "accepted",
+      "decision_reason": "Verified distinct physical place; practical details require separate confirmation.",
+      "reviewed_on": "2026-10-21",
+      "slug": "manila-museo-pambata"
+    },
+    {
+      "destination_group": "Manila",
+      "region": "National Capital Region",
+      "province": null,
+      "city_municipality": "Manila",
+      "barangay": null,
+      "address": "Luneta",
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "Manila Ocean Park - official park information",
+          "sourceUrl": "https://manilaoceanpark.com/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Manila Ocean Park - official park information",
+          "sourceUrl": "https://manilaoceanpark.com/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "Manila Ocean Park - official park information",
+          "sourceUrl": "https://manilaoceanpark.com/",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "id": "manila-ocean-park",
+      "name": "Manila Ocean Park",
+      "aliases": [],
+      "planning": {
+        "base_slug": "manila",
+        "mode": "local",
+        "cluster": "manila-ocean-park",
+        "minutes": 180,
+        "booking": "Confirm the specific attractions included in any ticket, current operations, and booking conditions. No admission is purchased.",
+        "transport": "Arrange local travel separately; route, fare, and journey time are unverified. Allow a local transfer buffer.",
+        "accessibility": "Step-free access, paths, toilets, and individual access needs have not been verified; confirm directly.",
+        "requiresBooking": false,
+        "scheduling": "candidate"
+      },
+      "category": "Attractions",
+      "description": "A marine-themed visitor park beside Luneta.",
+      "interests": [
+        "Culture Seeker",
+        "City Wanderer"
+      ],
+      "itinerary_base_slug": "manila",
+      "catalog_stop_id": "manila-ocean-park",
+      "status": "accepted",
+      "decision_reason": "Verified distinct physical place; practical details require separate confirmation.",
+      "reviewed_on": "2026-10-21",
+      "slug": "manila-ocean-park"
+    }
+  ]
+}

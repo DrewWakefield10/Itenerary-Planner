@@ -69,3 +69,5 @@ Reuse `.button`, `.button.secondary`, and `.text-link`. Destination selectors ar
 ## Do's and Don'ts
 
 Keep browsing groups distinct from municipalities and overnight bases. Reuse licensed local assets with their existing credits; use the compass fallback when no matching place photo exists. Do not let an accepted identity imply verified prices, hours, accessibility, or travel safety. Preserve source metadata in snapshots and require explicit acceptance for itinerary additions.
+
+The planner keeps precise place-type controls in an optional native disclosure below travel interests. Reuse labeled native checkboxes in the existing responsive form grid. Explain that types take priority over broad interests and shortages retain open time. Keep free time distinct from catalog venues; no decorative or structural redesign accompanies selection changes.

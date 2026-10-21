@@ -1,0 +1,337 @@
+{
+  "destination": "Siargao",
+  "batch": 2,
+  "kind": "Export snapshot of reviewed candidate batch",
+  "entries": [
+    {
+      "destination_group": "Siargao",
+      "region": "Caraga",
+      "province": "Surigao del Norte",
+      "city_municipality": "General Luna",
+      "barangay": null,
+      "address": "Tourism Road, General Luna, Siargao Island 8419",
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "NĀGA Siargao — official restaurant website",
+          "sourceUrl": "https://www.nagaconcepts.co/naga-siargao",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "NĀGA Siargao — official restaurant website",
+          "sourceUrl": "https://www.nagaconcepts.co/naga-siargao",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "NĀGA Siargao — official restaurant website",
+          "sourceUrl": "https://www.nagaconcepts.co/naga-siargao",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "id": "siargao-naga-restaurant",
+      "name": "NĀGA Siargao",
+      "slug": "siargao-naga-restaurant",
+      "aliases": [
+        "Naga Siargao Restaurant"
+      ],
+      "planning": {
+        "base_slug": "siargao",
+        "mode": "local",
+        "cluster": "siargao-naga-restaurant",
+        "minutes": 90,
+        "booking": "Reservations are offered by the venue; confirm table availability and current hours.",
+        "transport": "Planning estimate: use a local ride from General Luna and confirm the return trip.",
+        "accessibility": "Step-free access and accessible facilities are unverified; ask the venue.",
+        "requiresBooking": false,
+        "scheduling": "candidate"
+      },
+      "category": "Food & drink",
+      "description": "Restaurant and cocktail bar on Tourism Road, General Luna.",
+      "interests": [
+        "Food Hunter",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "siargao",
+      "catalog_stop_id": "siargao-naga-restaurant",
+      "status": "accepted",
+      "decision_reason": "Additional distinct physical place with reviewed identity and actual municipality sources; current access and availability are not guaranteed.",
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "destination_group": "Siargao",
+      "region": "Caraga",
+      "province": "Surigao del Norte",
+      "city_municipality": "General Luna",
+      "barangay": "Malinao",
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "SIPLAS Management Plan 2021–2030 — General Luna beach areas",
+          "sourceUrl": "https://rsis.ramsar.org/RISapp/files/57292175/documents/PH2553_mgt230606.pdf",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "SIPLAS Management Plan 2021–2030 — General Luna beach areas",
+          "sourceUrl": "https://rsis.ramsar.org/RISapp/files/57292175/documents/PH2553_mgt230606.pdf",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "id": "siargao-malinao-beach",
+      "name": "Malinao Beach",
+      "slug": "siargao-malinao-beach",
+      "aliases": [
+        "Malinao beachfront"
+      ],
+      "planning": {
+        "base_slug": "siargao",
+        "mode": "local",
+        "cluster": "siargao-malinao-beach",
+        "minutes": 90,
+        "booking": "Confirm a permitted access path and current local conditions; no swimming or marine safety determination is made.",
+        "transport": "Planning estimate: use a local ride from General Luna and confirm the return trip.",
+        "accessibility": "Step-free access and accessible facilities are unverified; ask the venue.",
+        "requiresBooking": false,
+        "scheduling": "candidate",
+        "outdoor": true
+      },
+      "category": "Nature",
+      "description": "Beach area in Barangay Malinao, General Luna.",
+      "interests": [
+        "Nature Lover",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "siargao",
+      "catalog_stop_id": "siargao-malinao-beach",
+      "status": "accepted",
+      "decision_reason": "Additional distinct physical place with reviewed identity and actual municipality sources; current access and availability are not guaranteed.",
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "destination_group": "Siargao",
+      "region": "Caraga",
+      "province": "Surigao del Norte",
+      "city_municipality": "General Luna",
+      "barangay": "Poblacion I",
+      "address": "Paseo de Cabuntog, Poblacion I, General Luna, Surigao del Norte",
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "TIEZA — Paseo de Cabuntog, Poblacion I, General Luna",
+          "sourceUrl": "https://tieza.gov.ph/wp-content/uploads/2024/02/SUMMARY-OF-BID-5-1.pdf",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "TIEZA — Paseo de Cabuntog, Poblacion I, General Luna",
+          "sourceUrl": "https://tieza.gov.ph/wp-content/uploads/2024/02/SUMMARY-OF-BID-5-1.pdf",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "TIEZA — Paseo de Cabuntog, Poblacion I, General Luna",
+          "sourceUrl": "https://tieza.gov.ph/wp-content/uploads/2024/02/SUMMARY-OF-BID-5-1.pdf",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "id": "siargao-paseo-de-cabuntog",
+      "name": "Paseo de Cabuntog",
+      "slug": "siargao-paseo-de-cabuntog",
+      "aliases": [
+        "General Luna Boulevard"
+      ],
+      "planning": {
+        "base_slug": "siargao",
+        "mode": "local",
+        "cluster": "siargao-paseo-de-cabuntog",
+        "minutes": 60,
+        "booking": "Confirm current public access and any event-related restrictions; no event attendance is assumed.",
+        "transport": "Planning estimate: use a local ride from General Luna and confirm the return trip.",
+        "accessibility": "Step-free access and accessible facilities are unverified; ask the venue.",
+        "requiresBooking": false,
+        "scheduling": "candidate",
+        "outdoor": true
+      },
+      "category": "Parks & markets",
+      "description": "Boulevard public space in Poblacion I, General Luna.",
+      "interests": [
+        "Nature Lover",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "siargao",
+      "catalog_stop_id": "siargao-paseo-de-cabuntog",
+      "status": "accepted",
+      "decision_reason": "Additional distinct physical place with reviewed identity and actual municipality sources; current access and availability are not guaranteed.",
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "destination_group": "Siargao",
+      "region": "Caraga",
+      "province": "Surigao del Norte",
+      "city_municipality": "General Luna",
+      "barangay": null,
+      "address": "Purok 2, General Luna, Siargao, near Marc & Lawrence",
+      "latitude": 9.7827791,
+      "longitude": 126.1540921,
+      "sources": {
+        "identity": {
+          "sourceName": "Lokal Lab — The Hub locations and community program",
+          "sourceUrl": "https://www.lokallab.org/the-hub",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Lokal Lab — The Hub locations and community program",
+          "sourceUrl": "https://www.lokallab.org/the-hub",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "Lokal Lab — The Hub locations and community program",
+          "sourceUrl": "https://www.lokallab.org/the-hub",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": "Lokal Lab — venue-linked Google Maps destination point",
+          "sourceUrl": "https://maps.app.goo.gl/egfaei4YdaKXaK8D7",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        }
+      },
+      "id": "siargao-lokal-hub-general-luna",
+      "name": "The Hub by Lokal Lab — General Luna",
+      "slug": "siargao-lokal-hub-general-luna",
+      "aliases": [
+        "Lokal Hub General Luna",
+        "The Hub General Luna"
+      ],
+      "planning": {
+        "base_slug": "siargao",
+        "mode": "local",
+        "cluster": "siargao-lokal-hub-general-luna",
+        "minutes": 90,
+        "booking": "Confirm current opening and event or workshop arrangements. Tours and workshops are separate from browsing this General Luna venue.",
+        "transport": "Planning estimate: use a local ride from General Luna and confirm the return trip.",
+        "accessibility": "Step-free access and accessible facilities are unverified; ask the venue.",
+        "requiresBooking": false,
+        "scheduling": "candidate"
+      },
+      "category": "Culture",
+      "description": "Community space with local food, cultural events, and workshops.",
+      "interests": [
+        "Culture Seeker",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "siargao",
+      "catalog_stop_id": "siargao-lokal-hub-general-luna",
+      "status": "accepted",
+      "decision_reason": "Additional distinct physical place with reviewed identity and actual municipality sources; current access and availability are not guaranteed.",
+      "reviewed_on": "2026-10-21"
+    },
+    {
+      "destination_group": "Siargao",
+      "region": "Caraga",
+      "province": "Surigao del Norte",
+      "city_municipality": "General Luna",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "The Clubhouse Siargao — official location and visitor booking guidance",
+          "sourceUrl": "https://theclubhouse.ph/location",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "The Clubhouse Siargao — official location and visitor booking guidance",
+          "sourceUrl": "https://theclubhouse.ph/location",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "id": "siargao-clubhouse-golf",
+      "name": "The Clubhouse Siargao",
+      "slug": "siargao-clubhouse-golf",
+      "aliases": [
+        "The Clubhouse Indoor Golf Siargao"
+      ],
+      "planning": {
+        "base_slug": "siargao",
+        "mode": "local",
+        "cluster": "siargao-clubhouse-golf",
+        "minutes": 90,
+        "booking": "The venue recommends booking a bay; walk-ins are subject to availability. Confirm session length, equipment, group limits, and current rates.",
+        "transport": "Planning estimate: use a local ride from General Luna and confirm the return trip.",
+        "accessibility": "Step-free access and accessible facilities are unverified; ask the venue.",
+        "requiresBooking": false,
+        "scheduling": "candidate",
+        "outdoor": false,
+        "booking_source": {
+          "sourceName": "The Clubhouse Siargao — official location and visitor booking guidance",
+          "sourceUrl": "https://theclubhouse.ph/location",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        }
+      },
+      "category": "Attractions",
+      "description": "Indoor simulator golf lounge for visitors in General Luna.",
+      "interests": [
+        "City Wanderer",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "siargao",
+      "catalog_stop_id": "siargao-clubhouse-golf",
+      "status": "accepted",
+      "decision_reason": "Additional distinct physical place with reviewed identity and actual municipality sources; current access and availability are not guaranteed.",
+      "reviewed_on": "2026-10-21"
+    }
+  ]
+}

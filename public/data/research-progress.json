@@ -1,122 +1,122 @@
 {
-  "generated_on": "2026-10-21",
+  "generated_on": "2026-10-22",
   "scope": "11 browsing destinations; identity and municipality acceptance does not verify operating details",
   "totals": {
-    "target": 200,
-    "researched": 250,
-    "accepted": 200,
-    "rejected": 35,
+    "target": 350,
+    "researched": 362,
+    "accepted": 332,
+    "rejected": 15,
     "unresolved": 15
   },
   "destinations": [
     {
       "destination": "Palawan",
-      "target": 35,
-      "researched": 50,
-      "accepted": 35,
-      "rejected": 13,
+      "target": 45,
+      "researched": 54,
+      "accepted": 45,
+      "rejected": 7,
       "unresolved": 2,
       "shortfall": 0,
-      "batches": 2
+      "batches": 3
     },
     {
       "destination": "Cebu",
-      "target": 25,
-      "researched": 29,
-      "accepted": 25,
-      "rejected": 2,
+      "target": 35,
+      "researched": 37,
+      "accepted": 35,
+      "rejected": 0,
       "unresolved": 2,
       "shortfall": 0,
       "batches": 2
     },
     {
       "destination": "Manila",
-      "target": 20,
-      "researched": 23,
-      "accepted": 20,
-      "rejected": 3,
+      "target": 32,
+      "researched": 32,
+      "accepted": 32,
+      "rejected": 0,
       "unresolved": 0,
       "shortfall": 0,
-      "batches": 1
+      "batches": 2
     },
     {
       "destination": "Siargao",
-      "target": 18,
-      "researched": 20,
-      "accepted": 18,
-      "rejected": 2,
+      "target": 30,
+      "researched": 30,
+      "accepted": 30,
+      "rejected": 0,
       "unresolved": 0,
       "shortfall": 0,
-      "batches": 1
+      "batches": 2
     },
     {
       "destination": "Bohol",
-      "target": 18,
-      "researched": 22,
-      "accepted": 18,
-      "rejected": 3,
+      "target": 30,
+      "researched": 31,
+      "accepted": 30,
+      "rejected": 0,
       "unresolved": 1,
       "shortfall": 0,
-      "batches": 1
+      "batches": 2
     },
     {
       "destination": "Boracay",
-      "target": 16,
-      "researched": 22,
-      "accepted": 16,
-      "rejected": 3,
+      "target": 28,
+      "researched": 33,
+      "accepted": 28,
+      "rejected": 2,
       "unresolved": 3,
       "shortfall": 0,
-      "batches": 1
+      "batches": 2
     },
     {
       "destination": "Baguio",
-      "target": 16,
-      "researched": 20,
-      "accepted": 16,
+      "target": 30,
+      "researched": 34,
+      "accepted": 30,
       "rejected": 3,
       "unresolved": 1,
       "shortfall": 0,
-      "batches": 1
+      "batches": 2
     },
     {
       "destination": "Iloilo",
-      "target": 15,
-      "researched": 19,
-      "accepted": 15,
-      "rejected": 3,
+      "target": 35,
+      "researched": 33,
+      "accepted": 31,
+      "rejected": 1,
       "unresolved": 1,
-      "shortfall": 0,
-      "batches": 1
+      "shortfall": 4,
+      "batches": 2
     },
     {
       "destination": "Davao",
-      "target": 15,
-      "researched": 16,
-      "accepted": 15,
-      "rejected": 1,
+      "target": 35,
+      "researched": 31,
+      "accepted": 31,
+      "rejected": 0,
       "unresolved": 0,
-      "shortfall": 0,
-      "batches": 1
+      "shortfall": 4,
+      "batches": 2
     },
     {
       "destination": "Batanes",
-      "target": 12,
-      "researched": 15,
-      "accepted": 12,
+      "target": 30,
+      "researched": 33,
+      "accepted": 30,
       "rejected": 1,
       "unresolved": 2,
       "shortfall": 0,
-      "batches": 1
+      "batches": 2
     },
     {
       "destination": "Sagada",
-      "target": 10,
+      "target": 20,
       "researched": 14,
       "accepted": 10,
       "rejected": 1,
       "unresolved": 3,
-      "shortfall": 0,
+      "shortfall": 10,
       "batches": 1
     }
   ]

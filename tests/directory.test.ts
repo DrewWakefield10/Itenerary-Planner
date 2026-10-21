@@ -1,3 +1,5 @@
+import baseline from "../lib/catalog/expansion-baseline.json";
+import {originalDirectoryCandidates} from "../lib/catalog/directory";
 import { test } from "node:test";
 import assert from "node:assert/strict";
 import { readFileSync } from "node:fs";
@@ -23,17 +25,19 @@ import {
 } from "../lib/discovery-planning";
 import { updateActivityField } from "../lib/activity-sources";
 
-test("250 candidates retain decisions; 200 unique accepted identities and municipalities cover every browsing destination", () => {
-  assert.equal(directoryCandidates.length, 250);
-  assert.equal(directoryListings.length, 200);
-  assert.equal(new Set(directoryCandidates.map((p) => p.id)).size, 250);
+test("candidate decisions and unique accepted identities cover every browsing destination", () => {
+  assert.equal(originalDirectoryCandidates.length,250);
+  assert.equal(baseline.starting_count,200);
+  assert.equal(directoryListings.length,332);
+  assert.equal(Object.values(directoryTargets).reduce((sum,n)=>sum+n,0)-directoryListings.length,18);
+  assert.equal(new Set(directoryCandidates.map((p)=>p.id)).size,directoryCandidates.length);
   for (const p of directoryCandidates)
     assert.ok(directoryCandidateSchema.safeParse(p).success, p.id);
   for (const group of destinationGroups) {
     const places = directoryListings.filter(
       (p) => p.destination_group === group,
     );
-    assert.equal(places.length, directoryTargets[group], group);
+    assert.ok(places.length>=baseline.starting_by_destination[group]&&places.length<=directoryTargets[group],group);
     assert.equal(
       new Set(places.map((p) => p.name.normalize("NFKD").toLowerCase())).size,
       places.length,
@@ -187,14 +191,10 @@ test("combined exported JSON and progress reflect accepted data, preserving prac
   const progress = JSON.parse(
     readFileSync("public/data/research-progress.json", "utf8"),
   );
-  assert.equal(rows.length, 200);
-  assert.equal(progress.totals.researched, 250);
-  assert.equal(progress.totals.accepted, 200);
-  assert.ok(
-    progress.destinations.every(
-      (d: { shortfall: number }) => d.shortfall === 0,
-    ),
-  );
+  assert.equal(rows.length, directoryListings.length);
+  assert.equal(progress.totals.researched, directoryCandidates.length);
+  assert.equal(progress.totals.accepted, directoryListings.length);
+  assert.equal(progress.destinations.reduce((sum:number,d:{shortfall:number})=>sum+d.shortfall,0),18);
   assert.deepEqual(
     new Set(rows.map((r: { id: string }) => r.id)),
     new Set(directoryListings.map((p) => p.id)),

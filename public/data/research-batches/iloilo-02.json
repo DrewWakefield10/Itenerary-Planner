@@ -1,0 +1,497 @@
+{
+  "destination": "Iloilo",
+  "batch": 2,
+  "kind": "Export snapshot of reviewed candidate batch",
+  "entries": [
+    {
+      "destination_group": "Iloilo",
+      "region": "Western Visayas",
+      "province": "Iloilo",
+      "city_municipality": "San Joaquin",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "Iloilo Provincial Government - first district",
+          "sourceUrl": "https://www.iloilo.gov.ph/1st-district",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Iloilo Provincial Government - first district",
+          "sourceUrl": "https://www.iloilo.gov.ph/1st-district",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "id": "iloilo-san-joaquin-cemetery",
+      "name": "San Joaquin Cemetery",
+      "aliases": [],
+      "planning": {
+        "base_slug": null,
+        "mode": "separate-base",
+        "cluster": "iloilo-san-joaquin-cemetery",
+        "minutes": 60,
+        "booking": "Confirm visitor access and respect ongoing cemetery use.",
+        "transport": "Outside the Iloilo City overnight base. Arrange an independent transfer or stay; no city-local route is assumed.",
+        "accessibility": "Step-free access, toilets and assistance arrangements have not been verified.",
+        "requiresBooking": false,
+        "scheduling": "manual"
+      },
+      "category": "Culture",
+      "description": "Historic cemetery with a hexagonal mortuary chapel known as Camposanto.",
+      "interests": [
+        "Culture Seeker"
+      ],
+      "itinerary_base_slug": null,
+      "catalog_stop_id": null,
+      "status": "accepted",
+      "decision_reason": "Primary source confirms this physical place and actual city or municipality; admission and present access are separate facts.",
+      "reviewed_on": "2026-10-21",
+      "slug": "iloilo-san-joaquin-cemetery"
+    },
+    {
+      "destination_group": "Iloilo",
+      "region": "Western Visayas",
+      "province": "Iloilo",
+      "city_municipality": "Tigbauan",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "Iloilo Provincial Government - first district",
+          "sourceUrl": "https://www.iloilo.gov.ph/1st-district",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Iloilo Provincial Government - first district",
+          "sourceUrl": "https://www.iloilo.gov.ph/1st-district",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "id": "iloilo-tigbauan-church",
+      "name": "St. John of Sahagun Parish Church",
+      "aliases": [],
+      "planning": {
+        "base_slug": null,
+        "mode": "separate-base",
+        "cluster": "iloilo-tigbauan-church",
+        "minutes": 60,
+        "booking": "Confirm visiting arrangements around parish services.",
+        "transport": "Outside the Iloilo City overnight base. Arrange an independent transfer or stay; no city-local route is assumed.",
+        "accessibility": "Step-free access, toilets and assistance arrangements have not been verified.",
+        "requiresBooking": false,
+        "scheduling": "manual"
+      },
+      "category": "Culture",
+      "description": "Historic parish church in the town of Tigbauan.",
+      "interests": [
+        "Culture Seeker"
+      ],
+      "itinerary_base_slug": null,
+      "catalog_stop_id": null,
+      "status": "accepted",
+      "decision_reason": "Primary source confirms this physical place and actual city or municipality; admission and present access are separate facts.",
+      "reviewed_on": "2026-10-21",
+      "slug": "iloilo-tigbauan-church"
+    },
+    {
+      "destination_group": "Iloilo",
+      "region": "Western Visayas",
+      "province": "Iloilo",
+      "city_municipality": "Guimbal",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "Iloilo Provincial Government - first district",
+          "sourceUrl": "https://www.iloilo.gov.ph/1st-district",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Iloilo Provincial Government - first district",
+          "sourceUrl": "https://www.iloilo.gov.ph/1st-district",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "id": "iloilo-taytay-tigre",
+      "name": "Taytay Tigre",
+      "aliases": [],
+      "planning": {
+        "base_slug": null,
+        "mode": "separate-base",
+        "cluster": "iloilo-taytay-tigre",
+        "minutes": 45,
+        "booking": "Confirm the public approach and current site condition with Guimbal Tourism.",
+        "transport": "Outside the Iloilo City overnight base. Arrange an independent transfer or stay; no city-local route is assumed.",
+        "accessibility": "Step-free access, toilets and assistance arrangements have not been verified.",
+        "requiresBooking": false,
+        "scheduling": "manual"
+      },
+      "category": "Culture",
+      "description": "Small historic stone bridge with tiger sculptures.",
+      "interests": [
+        "Culture Seeker"
+      ],
+      "itinerary_base_slug": null,
+      "catalog_stop_id": null,
+      "status": "accepted",
+      "decision_reason": "Primary source confirms this physical place and actual city or municipality; admission and present access are separate facts.",
+      "reviewed_on": "2026-10-21",
+      "slug": "iloilo-taytay-tigre"
+    },
+    {
+      "destination_group": "Iloilo",
+      "region": "Western Visayas",
+      "province": "Iloilo",
+      "city_municipality": "Miagao",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "Iloilo Provincial Government - first district",
+          "sourceUrl": "https://www.iloilo.gov.ph/1st-district",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Iloilo Provincial Government - first district",
+          "sourceUrl": "https://www.iloilo.gov.ph/1st-district",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "id": "iloilo-taytay-boni",
+      "name": "Taytay Boni",
+      "aliases": [],
+      "planning": {
+        "base_slug": null,
+        "mode": "separate-base",
+        "cluster": "iloilo-taytay-boni",
+        "minutes": 45,
+        "booking": "Confirm the public approach and current site condition with Miagao Tourism.",
+        "transport": "Outside the Iloilo City overnight base. Arrange an independent transfer or stay; no city-local route is assumed.",
+        "accessibility": "Step-free access, toilets and assistance arrangements have not been verified.",
+        "requiresBooking": false,
+        "scheduling": "manual"
+      },
+      "category": "Culture",
+      "description": "Surviving Spanish-period stone bridge in Miagao.",
+      "interests": [
+        "Culture Seeker"
+      ],
+      "itinerary_base_slug": null,
+      "catalog_stop_id": null,
+      "status": "accepted",
+      "decision_reason": "Primary source confirms this physical place and actual city or municipality; admission and present access are separate facts.",
+      "reviewed_on": "2026-10-21",
+      "slug": "iloilo-taytay-boni"
+    },
+    {
+      "destination_group": "Iloilo",
+      "region": "Western Visayas",
+      "province": "Iloilo",
+      "city_municipality": "Santa Barbara",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "Iloilo Provincial Government - Santa Barbara convent",
+          "sourceUrl": "https://www.iloilo.gov.ph/en/culture-news/php-2-m-sta-barbara-convent",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Iloilo Provincial Government - Santa Barbara convent",
+          "sourceUrl": "https://www.iloilo.gov.ph/en/culture-news/php-2-m-sta-barbara-convent",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "id": "iloilo-santa-barbara-church",
+      "name": "Santa Barbara Parish Church and Convent",
+      "aliases": [],
+      "planning": {
+        "base_slug": null,
+        "mode": "separate-base",
+        "cluster": "iloilo-santa-barbara-church",
+        "minutes": 60,
+        "booking": "Restoration has been documented; confirm currently accessible areas with the parish.",
+        "transport": "Outside the Iloilo City overnight base. Arrange an independent transfer or stay; no city-local route is assumed.",
+        "accessibility": "Step-free access, toilets and assistance arrangements have not been verified.",
+        "requiresBooking": false,
+        "scheduling": "manual"
+      },
+      "category": "Culture",
+      "description": "Church and convent associated with Iloilo's revolutionary history.",
+      "interests": [
+        "Culture Seeker"
+      ],
+      "itinerary_base_slug": null,
+      "catalog_stop_id": null,
+      "status": "accepted",
+      "decision_reason": "Primary source confirms this physical place and actual city or municipality; admission and present access are separate facts.",
+      "reviewed_on": "2026-10-21",
+      "slug": "iloilo-santa-barbara-church"
+    },
+    {
+      "destination_group": "Iloilo",
+      "region": "Western Visayas",
+      "province": "Iloilo",
+      "city_municipality": "Janiuay",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "National Museum - Janiuay Cemetery site plan",
+          "sourceUrl": "https://weblinks.nationalmuseum.gov.ph/wp-content/uploads/2024/07/22094948/Bidding-Documents-Janiuay-Cemetery-and-Cabatuan-Cemetery.pdf",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "National Museum - Janiuay Cemetery site plan",
+          "sourceUrl": "https://weblinks.nationalmuseum.gov.ph/wp-content/uploads/2024/07/22094948/Bidding-Documents-Janiuay-Cemetery-and-Cabatuan-Cemetery.pdf",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "id": "iloilo-janiuay-cemetery",
+      "name": "Janiuay Cemetery",
+      "aliases": [],
+      "planning": {
+        "base_slug": null,
+        "mode": "separate-base",
+        "cluster": "iloilo-janiuay-cemetery",
+        "minutes": 60,
+        "booking": "Conservation work has been documented; confirm visitor access with Janiuay Tourism.",
+        "transport": "Outside the Iloilo City overnight base. Arrange an independent transfer or stay; no city-local route is assumed.",
+        "accessibility": "Step-free access, toilets and assistance arrangements have not been verified.",
+        "requiresBooking": false,
+        "scheduling": "manual"
+      },
+      "category": "Culture",
+      "description": "Historic cemetery documented in National Museum conservation plans.",
+      "interests": [
+        "Culture Seeker"
+      ],
+      "itinerary_base_slug": null,
+      "catalog_stop_id": null,
+      "status": "accepted",
+      "decision_reason": "Primary source confirms this physical place and actual city or municipality; admission and present access are separate facts.",
+      "reviewed_on": "2026-10-21",
+      "slug": "iloilo-janiuay-cemetery"
+    },
+    {
+      "destination_group": "Iloilo",
+      "region": "Western Visayas",
+      "province": "Iloilo",
+      "city_municipality": "Cabatuan",
+      "barangay": "Zone IV (Poblacion)",
+      "address": "Zone IV (Poblacion), Cabatuan, Iloilo",
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "Cabatuan Municipal Tourism - cultural property inventory",
+          "sourceUrl": "https://cabatuan.gov.ph/wp-content/uploads/2020/06/List-of-Cultural-Properties.pdf",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Cabatuan Municipal Tourism - cultural property inventory",
+          "sourceUrl": "https://cabatuan.gov.ph/wp-content/uploads/2020/06/List-of-Cultural-Properties.pdf",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "Cabatuan Municipal Tourism - cultural property inventory",
+          "sourceUrl": "https://cabatuan.gov.ph/wp-content/uploads/2020/06/List-of-Cultural-Properties.pdf",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "id": "iloilo-cabatuan-church",
+      "name": "St. Nicolas of Tolentine Parish Church - Cabatuan",
+      "aliases": [
+        "Cabatuan Church"
+      ],
+      "planning": {
+        "base_slug": null,
+        "mode": "separate-base",
+        "cluster": "iloilo-cabatuan-church",
+        "minutes": 60,
+        "booking": "Confirm visiting arrangements around parish services.",
+        "transport": "Outside the Iloilo City overnight base. Arrange an independent transfer or stay; no city-local route is assumed.",
+        "accessibility": "Step-free access, toilets and assistance arrangements have not been verified.",
+        "requiresBooking": false,
+        "scheduling": "manual"
+      },
+      "category": "Culture",
+      "description": "Brick parish church in Cabatuan's historic town center.",
+      "interests": [
+        "Culture Seeker"
+      ],
+      "itinerary_base_slug": null,
+      "catalog_stop_id": null,
+      "status": "accepted",
+      "decision_reason": "Primary source confirms this physical place and actual city or municipality; admission and present access are separate facts.",
+      "reviewed_on": "2026-10-21",
+      "slug": "iloilo-cabatuan-church"
+    },
+    {
+      "destination_group": "Iloilo",
+      "region": "Western Visayas",
+      "province": "Iloilo",
+      "city_municipality": "San Joaquin",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "Philippine News Agency - southern Iloilo heritage caravan",
+          "sourceUrl": "https://www.pna.gov.ph/articles/1214613",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Philippine News Agency - southern Iloilo heritage caravan",
+          "sourceUrl": "https://www.pna.gov.ph/articles/1214613",
+          "dateChecked": "2026-10-21",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "id": "iloilo-garin-farm",
+      "name": "Garin Farm",
+      "aliases": [],
+      "planning": {
+        "base_slug": null,
+        "mode": "separate-base",
+        "cluster": "iloilo-garin-farm",
+        "minutes": 180,
+        "booking": "Confirm day-visitor entry, current activities and prices directly with the farm.",
+        "transport": "Outside the Iloilo City overnight base. Arrange an independent transfer or stay; no city-local route is assumed.",
+        "accessibility": "Step-free access, toilets and assistance arrangements have not been verified.",
+        "requiresBooking": false,
+        "scheduling": "manual"
+      },
+      "category": "Attractions",
+      "description": "Farm and pilgrimage destination in San Joaquin.",
+      "interests": [
+        "City Wanderer"
+      ],
+      "itinerary_base_slug": null,
+      "catalog_stop_id": null,
+      "status": "accepted",
+      "decision_reason": "Primary source confirms this physical place and actual city or municipality; admission and present access are separate facts.",
+      "reviewed_on": "2026-10-21",
+      "slug": "iloilo-garin-farm"
+    }
+  ]
+}
