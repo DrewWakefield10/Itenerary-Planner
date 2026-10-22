@@ -1,0 +1,630 @@
+{
+  "batchId": "batch-004",
+  "checkedOn": "2026-10-22",
+  "places": 25,
+  "outcomes": [
+    {
+      "placeId": "cebu-buwakan-ni-alejandra",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Cebu Provincial Tourism Office — Balamban",
+          "url": "https://tourism.cebu.gov.ph/explore/balamban/",
+          "checkedOn": "2026-10-21",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Felixbertos_2022_04_001.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Felixbertos_2022_04_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "Martin Michlmayr",
+        "license": "CC BY-SA 4.0"
+      },
+      "photoGap": null,
+      "videos": [
+        "https://www.youtube.com/watch?v=O0A0J6pKeJA",
+        "https://www.youtube.com/watch?v=Q3XTdY1cbIE"
+      ],
+      "rejectedVideos": [],
+      "notes": []
+    },
+    {
+      "placeId": "cebu-mactan-shrine",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Wikipedia — Mactan Shrine",
+          "url": "https://en.wikipedia.org/wiki/Mactan_Shrine",
+          "checkedOn": "2026-10-22",
+          "supports": "Reviewed place identity, municipality and the specific descriptive facts in this overview."
+        }
+      ],
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Mactan_Shrine_In_Punta_Enga%C3%B1o,_Lapu-Lapu_City,_Cebu.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Mactan_Shrine_In_Punta_Enga%C3%B1o%2C_Lapu-Lapu_City%2C_Cebu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "Thrashklown05",
+        "license": "CC BY-SA 3.0"
+      },
+      "photoGap": null,
+      "videos": [
+        "https://www.youtube.com/watch?v=KxRavHDhhP4"
+      ],
+      "rejectedVideos": [
+        {
+          "videoId": "RUIiQojxmHI",
+          "reason": "Official source does not currently confirm a playable, embeddable video with an accessible description"
+        }
+      ],
+      "notes": [
+        "Video RUIiQojxmHI: Official source does not currently confirm a playable, embeddable video with an accessible description"
+      ]
+    },
+    {
+      "placeId": "cebu-carcar-new-public-market",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "JCI Cebu — event at Carcar City New Public Market",
+          "url": "https://jcicebu.org/2026/05/26/kidtrepreneurship-5-0-empowers-young-entrepreneurs-in-carcar-city/",
+          "checkedOn": "2026-10-21",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Carcar_City_New_Public_Market.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/1/14/Carcar_City_New_Public_Market.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "QueenCityCebu",
+        "license": "CC BY-SA 4.0"
+      },
+      "photoGap": null,
+      "videos": [
+        "https://www.youtube.com/watch?v=ceeTjM-Md2w",
+        "https://www.youtube.com/watch?v=kTl1xlPIBrk"
+      ],
+      "rejectedVideos": [],
+      "notes": []
+    },
+    {
+      "placeId": "cebu-carbon-market",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Wikipedia — Carbon Market",
+          "url": "https://en.wikipedia.org/wiki/Carbon_Market",
+          "checkedOn": "2026-10-22",
+          "supports": "Reviewed place identity, municipality and the specific descriptive facts in this overview."
+        }
+      ],
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Carbon_Market_(MC_Briones,_Cebu_City;_01-21-2023).jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Carbon_Market_%28MC_Briones%2C_Cebu_City%3B_01-21-2023%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "Patrickroque01",
+        "license": "CC BY-SA 4.0"
+      },
+      "photoGap": null,
+      "videos": [
+        "https://www.youtube.com/watch?v=6Bmq58BnsLA",
+        "https://www.youtube.com/watch?v=vv5cwnuDEI4"
+      ],
+      "rejectedVideos": [],
+      "notes": []
+    },
+    {
+      "placeId": "cebu-omagieca-obo-ob-mangrove-garden",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Cebu Provincial Tourism - Bantayan",
+          "url": "https://tourism.cebu.gov.ph/explore/bantayan/",
+          "checkedOn": "2026-10-21",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photo": null,
+      "photoGap": "No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+      "videos": [
+        "https://www.youtube.com/watch?v=pCVzdOqcnE4",
+        "https://www.youtube.com/watch?v=kQ1WeDORuFg"
+      ],
+      "rejectedVideos": [],
+      "notes": [
+        "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results."
+      ]
+    },
+    {
+      "placeId": "cebu-lambug-beach",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Cebu Provincial Tourism - Badian",
+          "url": "https://tourism.cebu.gov.ph/explore/badian/",
+          "checkedOn": "2026-10-21",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Lambug_beach,_Badian,_Cebu,_Philippines_-_Flickr.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/7/76/Lambug_beach%2C_Badian%2C_Cebu%2C_Philippines_-_Flickr.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "Su--May from London, UK",
+        "license": "CC BY 2.0"
+      },
+      "photoGap": null,
+      "videos": [
+        "https://www.youtube.com/watch?v=35ESRicedso",
+        "https://www.youtube.com/watch?v=gVU8jj2RV2g"
+      ],
+      "rejectedVideos": [],
+      "notes": []
+    },
+    {
+      "placeId": "cebu-osmena-peak",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Cebu Provincial Tourism - Dalaguete",
+          "url": "https://tourism.cebu.gov.ph/explore/dalaguete/",
+          "checkedOn": "2026-10-21",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Osme%C3%B1a_Peak_summit_(Dalaguete,_Cebu;_01-20-2023).jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/d/df/Osme%C3%B1a_Peak_summit_%28Dalaguete%2C_Cebu%3B_01-20-2023%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "Patrickroque01",
+        "license": "CC BY-SA 4.0"
+      },
+      "photoGap": null,
+      "videos": [
+        "https://www.youtube.com/watch?v=dUOyJ2rgWt8",
+        "https://www.youtube.com/watch?v=5SzoYQC1gfk"
+      ],
+      "rejectedVideos": [],
+      "notes": []
+    },
+    {
+      "placeId": "cebu-mantayupan-falls",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Cebu Provincial Tourism - Barili",
+          "url": "https://tourism.cebu.gov.ph/explore/barili/",
+          "checkedOn": "2026-10-21",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Mantayupan_Falls_of_Barili,_Cebu.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Mantayupan_Falls_of_Barili%2C_Cebu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "StrangerNbystander",
+        "license": "CC BY-SA 4.0"
+      },
+      "photoGap": null,
+      "videos": [
+        "https://www.youtube.com/watch?v=NOBJcDK9DV4",
+        "https://www.youtube.com/watch?v=dddoCFXduRE"
+      ],
+      "rejectedVideos": [],
+      "notes": [
+        "Rejected municipality-wide Barili article and town photograph."
+      ]
+    },
+    {
+      "placeId": "cebu-bojo-river",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Cebu Provincial Tourism - Aloguinsan",
+          "url": "https://tourism.cebu.gov.ph/explore/aloguinsan/",
+          "checkedOn": "2026-10-21",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Bojo_River,_Cebu.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Bojo_River%2C_Cebu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "FroyAgta",
+        "license": "CC BY-SA 4.0"
+      },
+      "photoGap": null,
+      "videos": [
+        "https://www.youtube.com/watch?v=g8AQ8cOCtno",
+        "https://www.youtube.com/watch?v=CARF5D1X0ic"
+      ],
+      "rejectedVideos": [],
+      "notes": []
+    },
+    {
+      "placeId": "cebu-argao-church",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Cebu Provincial Tourism - Argao",
+          "url": "https://tourism.cebu.gov.ph/explore/argao/",
+          "checkedOn": "2026-10-21",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:St._Michael_the_Archangel_Parish_Church.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e0/St._Michael_the_Archangel_Parish_Church.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "Herbertkikoy",
+        "license": "CC BY-SA 4.0"
+      },
+      "photoGap": null,
+      "videos": [
+        "https://www.youtube.com/watch?v=HEoDkwR2oNE",
+        "https://www.youtube.com/watch?v=ew6XcA_kytw"
+      ],
+      "rejectedVideos": [],
+      "notes": []
+    },
+    {
+      "placeId": "cebu-pig-and-palm",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "The Pig & Palm - official restaurant",
+          "url": "https://thepigandpalm.ph/",
+          "checkedOn": "2026-10-21",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photo": null,
+      "photoGap": "No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+      "videos": [
+        "https://www.youtube.com/watch?v=AZ5xlwKTv1c"
+      ],
+      "rejectedVideos": [],
+      "notes": [
+        "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+        "Video gap: Only one clearly established restaurant feature selected; broad multi-stop food vlogs not used as filler."
+      ]
+    },
+    {
+      "placeId": "cebu-turning-wheels-brewery",
+      "description": "limited-evidence",
+      "sources": [
+        {
+          "name": "Turning Wheels Brewery - official site",
+          "url": "https://turningwheelsbeer.com/",
+          "checkedOn": "2026-10-21",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photo": null,
+      "photoGap": "No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+      "videos": [],
+      "rejectedVideos": [],
+      "notes": [
+        "Operator site returned HTTP 403; kept previously accepted facts without a fresh verification claim.",
+        "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+        "Video gap: The reviewed search did not establish a useful exact-brewery resource."
+      ]
+    },
+    {
+      "placeId": "cebu-abaca-baking-crossroads",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Crossroads Cebu - tenant directory",
+          "url": "https://crossroadscebu.com/eat-drink/",
+          "checkedOn": "2026-10-21",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photo": null,
+      "photoGap": "No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+      "videos": [
+        "https://www.youtube.com/watch?v=BzgaV6N9DqY",
+        "https://www.youtube.com/watch?v=_OXGpS2IcVY"
+      ],
+      "rejectedVideos": [],
+      "notes": [
+        "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results."
+      ]
+    },
+    {
+      "placeId": "manila-national-museum-fine-arts",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Wikipedia — National Museum of Fine Arts (Manila)",
+          "url": "https://en.wikipedia.org/wiki/National_Museum_of_Fine_Arts_(Manila)",
+          "checkedOn": "2026-10-22",
+          "supports": "Reviewed place identity, municipality and the specific descriptive facts in this overview."
+        }
+      ],
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:National_Museum_of_Fine_Arts_2026.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/e/eb/National_Museum_of_Fine_Arts_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "Tagaaplaya",
+        "license": "CC BY-SA 4.0"
+      },
+      "photoGap": null,
+      "videos": [
+        "https://www.youtube.com/watch?v=uFwvn2lJ34s",
+        "https://www.youtube.com/watch?v=b2P2EWrDDmI"
+      ],
+      "rejectedVideos": [],
+      "notes": []
+    },
+    {
+      "placeId": "manila-national-museum-anthropology",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Wikipedia — National Museum of Anthropology (Manila)",
+          "url": "https://en.wikipedia.org/wiki/National_Museum_of_Anthropology_(Manila)",
+          "checkedOn": "2026-10-22",
+          "supports": "Reviewed place identity, municipality and the specific descriptive facts in this overview."
+        }
+      ],
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:National_Museum_of_Anthropology_(Ermita,_Manila)(06-30-2024).jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/b/ba/National_Museum_of_Anthropology_%28Ermita%2C_Manila%29%2806-30-2024%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "Ernest Malsin",
+        "license": "CC BY 4.0"
+      },
+      "photoGap": null,
+      "videos": [
+        "https://www.youtube.com/watch?v=-FWb02nUHvA",
+        "https://www.youtube.com/watch?v=WxHzCYUMU3M"
+      ],
+      "rejectedVideos": [],
+      "notes": []
+    },
+    {
+      "placeId": "manila-national-museum-natural-history",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Wikipedia — National Museum of Natural History (Manila)",
+          "url": "https://en.wikipedia.org/wiki/National_Museum_of_Natural_History_(Manila)",
+          "checkedOn": "2026-10-22",
+          "supports": "Reviewed place identity, municipality and the specific descriptive facts in this overview."
+        }
+      ],
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:National_Museum_of_Natural_History_in_February_2026.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a6/National_Museum_of_Natural_History_in_February_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "Sean Ronquillo (Ubediplomacy)",
+        "license": "CC BY-SA 4.0"
+      },
+      "photoGap": null,
+      "videos": [
+        "https://www.youtube.com/watch?v=kgwNh0eVsk0"
+      ],
+      "rejectedVideos": [],
+      "notes": [
+        "Rejected the unrelated Smithsonian museum article and Washington photograph.",
+        "Video gap: Broad three-museum resources were not selected without an established exact segment."
+      ]
+    },
+    {
+      "placeId": "manila-fort-santiago-area",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Wikipedia — Fort Santiago",
+          "url": "https://en.wikipedia.org/wiki/Fort_Santiago",
+          "checkedOn": "2026-10-22",
+          "supports": "Reviewed place identity, municipality and the specific descriptive facts in this overview."
+        }
+      ],
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Fort_Santiago,_Intramuros.JPG",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Fort_Santiago%2C_Intramuros.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "Elmer B. Domingo",
+        "license": "CC BY-SA 3.0"
+      },
+      "photoGap": null,
+      "videos": [
+        "https://www.youtube.com/watch?v=ogE_ZeKzJ2k",
+        "https://www.youtube.com/watch?v=r30Ruwfv9X8"
+      ],
+      "rejectedVideos": [],
+      "notes": []
+    },
+    {
+      "placeId": "manila-manila-cathedral-area",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Wikipedia — Manila Cathedral",
+          "url": "https://en.wikipedia.org/wiki/Manila_Cathedral",
+          "checkedOn": "2026-10-22",
+          "supports": "Reviewed place identity, municipality and the specific descriptive facts in this overview."
+        }
+      ],
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Catedral_de_la_Inmaculada_Concepci%C3%B3n,_Manila,_Filipinas,_2023-08-26,_DD_21.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Catedral_de_la_Inmaculada_Concepci%C3%B3n%2C_Manila%2C_Filipinas%2C_2023-08-26%2C_DD_21.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "Diego Delso",
+        "license": "CC BY-SA 4.0"
+      },
+      "photoGap": null,
+      "videos": [
+        "https://www.youtube.com/watch?v=R73sSrnkdbE",
+        "https://www.youtube.com/watch?v=KwEMZNhyyIA"
+      ],
+      "rejectedVideos": [],
+      "notes": [
+        "Special roofdeck or crypt access in a recorded tour is not a general visitor entitlement."
+      ]
+    },
+    {
+      "placeId": "manila-san-agustin-museum-area",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Intramuros Administration - museum directory",
+          "url": "https://intramuros.gov.ph/sites-museums/",
+          "checkedOn": "2026-10-21",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Museo_de_la_iglesia_de_San_Agust%C3%ADn,_Manila,_Filipinas,_2023-08-27,_DD_91-93_HDR.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/0/08/Museo_de_la_iglesia_de_San_Agust%C3%ADn%2C_Manila%2C_Filipinas%2C_2023-08-27%2C_DD_91-93_HDR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "Diego Delso",
+        "license": "CC BY-SA 4.0"
+      },
+      "photoGap": null,
+      "videos": [
+        "https://www.youtube.com/watch?v=LllGdfsTae0",
+        "https://www.youtube.com/watch?v=O5ec2USpMNw"
+      ],
+      "rejectedVideos": [],
+      "notes": []
+    },
+    {
+      "placeId": "manila-casa-manila",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Intramuros Administration - Casa Manila",
+          "url": "https://intramuros.gov.ph/cmm/",
+          "checkedOn": "2026-10-21",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Casa_Manila_complex113.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/0/09/Casa_Manila_complex113.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "CNEcija12345",
+        "license": "CC BY-SA 4.0"
+      },
+      "photoGap": null,
+      "videos": [
+        "https://www.youtube.com/watch?v=RJ9lFhOUn2Y",
+        "https://www.youtube.com/watch?v=t6CtkyBbvzs"
+      ],
+      "rejectedVideos": [],
+      "notes": []
+    },
+    {
+      "placeId": "manila-centro-turismo",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Wikipedia — Centro de Turismo Intramuros",
+          "url": "https://en.wikipedia.org/wiki/Centro_de_Turismo_Intramuros",
+          "checkedOn": "2026-10-22",
+          "supports": "Reviewed place identity, municipality and the specific descriptive facts in this overview."
+        }
+      ],
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Interior_of_the_Centro_de_Turismo_Intramuros_in_February_2026.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/2/27/Interior_of_the_Centro_de_Turismo_Intramuros_in_February_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "Sean Ronquillo (Ubediplomacy)",
+        "license": "CC BY-SA 4.0"
+      },
+      "photoGap": null,
+      "videos": [
+        "https://www.youtube.com/watch?v=uDcLIMcQ36I"
+      ],
+      "rejectedVideos": [],
+      "notes": [
+        "Video gap: One exact resource selected; broader city guides were not used without a verified segment."
+      ]
+    },
+    {
+      "placeId": "manila-paco-park",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Wikipedia — Paco Park",
+          "url": "https://en.wikipedia.org/wiki/Paco_Park",
+          "checkedOn": "2026-10-22",
+          "supports": "Reviewed place identity, municipality and the specific descriptive facts in this overview."
+        }
+      ],
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Parque_Paco,_Manila,_Filipinas,_2023-08-26,_DD_68-70_HDR.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Parque_Paco%2C_Manila%2C_Filipinas%2C_2023-08-26%2C_DD_68-70_HDR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "Diego Delso",
+        "license": "CC BY-SA 4.0"
+      },
+      "photoGap": null,
+      "videos": [
+        "https://www.youtube.com/watch?v=nHptzQ_srzw",
+        "https://www.youtube.com/watch?v=KURGDCqaCw0"
+      ],
+      "rejectedVideos": [],
+      "notes": []
+    },
+    {
+      "placeId": "manila-rizal-park",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Wikipedia — Rizal Park",
+          "url": "https://en.wikipedia.org/wiki/Rizal_Park",
+          "checkedOn": "2026-10-22",
+          "supports": "Reviewed place identity, municipality and the specific descriptive facts in this overview."
+        }
+      ],
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Rizal_Monument_(Manila,_2024).jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Rizal_Monument_%28Manila%2C_2024%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "Ernest Malsin",
+        "license": "CC BY 4.0"
+      },
+      "photoGap": null,
+      "videos": [
+        "https://www.youtube.com/watch?v=LWzD4OIK6GE",
+        "https://www.youtube.com/watch?v=sMp88D9au-w"
+      ],
+      "rejectedVideos": [],
+      "notes": []
+    },
+    {
+      "placeId": "manila-ayala-museum",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Wikipedia — Ayala Museum",
+          "url": "https://en.wikipedia.org/wiki/Ayala_Museum",
+          "checkedOn": "2026-10-22",
+          "supports": "Reviewed place identity, municipality and the specific descriptive facts in this overview."
+        }
+      ],
+      "photo": null,
+      "photoGap": "No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+      "videos": [
+        "https://www.youtube.com/watch?v=F5cD7uZYNl8",
+        "https://www.youtube.com/watch?v=Q_-wvRqMQ0s"
+      ],
+      "rejectedVideos": [],
+      "notes": [
+        "Rejected Yuchengco Museum photographs and a collection object photographed in Singapore; no exterior image substituted.",
+        "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results."
+      ]
+    },
+    {
+      "placeId": "manila-yuchengco-museum",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Yuchengco Museum - visitor information",
+          "url": "https://yuchengcomuseum.org/visit/visitor-information/",
+          "checkedOn": "2026-10-21",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Yuchengco_Museum_Entrance,_Makati_City,_Jul_2024.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/5/53/Yuchengco_Museum_Entrance%2C_Makati_City%2C_Jul_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "Ralff Nestor Nacor",
+        "license": "CC BY-SA 4.0"
+      },
+      "photoGap": null,
+      "videos": [
+        "https://www.youtube.com/watch?v=e28cxlv4Oag",
+        "https://www.youtube.com/watch?v=QskjMimgjq4"
+      ],
+      "rejectedVideos": [],
+      "notes": []
+    }
+  ]
+}

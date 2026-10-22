@@ -1,0 +1,638 @@
+{
+  "batchId": "batch-009",
+  "checkedOn": "2026-10-22",
+  "places": 25,
+  "outcomes": [
+    {
+      "placeId": "batanes-fundacion-pacita",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Batanes Provincial Heritage and Tourism Office - tourism map",
+          "url": "https://breathtakingbatanes.com/maps/",
+          "checkedOn": "2026-10-21",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Fundacion_Pacita,_Batanes_Island,_Philippines.JPG",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/4/44/Fundacion_Pacita%2C_Batanes_Island%2C_Philippines.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "Rjruiziii",
+        "license": "CC BY-SA 3.0"
+      },
+      "photoGap": null,
+      "videos": [
+        "https://www.youtube.com/watch?v=-eiPGYTSbfM",
+        "https://www.youtube.com/watch?v=JY8Nzj0sNCk"
+      ],
+      "rejectedVideos": [],
+      "notes": []
+    },
+    {
+      "placeId": "batanes-san-carlos-borromeo",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Wikipedia — Mahatao Church",
+          "url": "https://en.wikipedia.org/wiki/Mahatao_Church",
+          "checkedOn": "2026-10-22",
+          "supports": "Reviewed place identity, municipality and the specific descriptive facts in this overview."
+        }
+      ],
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Mahatao_Church_Full.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Mahatao_Church_Full.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "Jemeer",
+        "license": "CC BY-SA 4.0"
+      },
+      "photoGap": null,
+      "videos": [
+        "https://www.youtube.com/watch?v=pCjF_0w7LBM"
+      ],
+      "rejectedVideos": [],
+      "notes": [
+        "Rejected Puerto Rico article and photograph; exact Mahatao Church article reviewed.",
+        "Video gap: Only one exact-parish resource selected; broad routes not used without an established segment."
+      ]
+    },
+    {
+      "placeId": "batanes-rakuh-a-payaman",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Batanes Provincial Heritage and Tourism Office - tourism map",
+          "url": "https://breathtakingbatanes.com/maps/",
+          "checkedOn": "2026-10-21",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Batanes_Marlboro_Country_Racuh_a_Payaman.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Batanes_Marlboro_Country_Racuh_a_Payaman.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "Peejayohhh",
+        "license": "CC BY-SA 4.0"
+      },
+      "photoGap": null,
+      "videos": [
+        "https://www.youtube.com/watch?v=DhwwOBo4UAQ",
+        "https://www.youtube.com/watch?v=eySpzLVso6A"
+      ],
+      "rejectedVideos": [],
+      "notes": []
+    },
+    {
+      "placeId": "batanes-diura-village",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Batanes Provincial Heritage and Tourism Office - tourism map",
+          "url": "https://breathtakingbatanes.com/maps/",
+          "checkedOn": "2026-10-21",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Diura_Fishing_Village.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Diura_Fishing_Village.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "Bien Orellana Bacarra Jr",
+        "license": "CC BY-SA 4.0"
+      },
+      "photoGap": null,
+      "videos": [
+        "https://www.youtube.com/watch?v=0ZyOy7pC0Yw",
+        "https://www.youtube.com/watch?v=e268BUJy61M"
+      ],
+      "rejectedVideos": [],
+      "notes": []
+    },
+    {
+      "placeId": "batanes-house-of-dakay",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Batanes Provincial Heritage and Tourism Office - tourism map",
+          "url": "https://breathtakingbatanes.com/maps/",
+          "checkedOn": "2026-10-21",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:HOUSE_OF_DAKAY,_THE_MOST_FAMOUS_STONE_HOUSE_IN_BATANES_-_IVANA,_BATANES.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/8/83/HOUSE_OF_DAKAY%2C_THE_MOST_FAMOUS_STONE_HOUSE_IN_BATANES_-_IVANA%2C_BATANES.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "FroyAgta",
+        "license": "CC BY-SA 4.0"
+      },
+      "photoGap": null,
+      "videos": [
+        "https://www.youtube.com/watch?v=vyZGyECrvMU",
+        "https://www.youtube.com/watch?v=F99rcePAbFM"
+      ],
+      "rejectedVideos": [],
+      "notes": [
+        "Celebrity Ivana house-tour results were excluded; no superlative about the oldest house copied."
+      ]
+    },
+    {
+      "placeId": "batanes-basco-plaza",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Wikivoyage - Basco visitor listings",
+          "url": "https://en.wikivoyage.org/wiki/Basco",
+          "checkedOn": "2026-10-21",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photo": null,
+      "photoGap": "No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+      "videos": [
+        "https://www.youtube.com/watch?v=3BYIkybovuo"
+      ],
+      "rejectedVideos": [],
+      "notes": [
+        "Rejected Plaza Mayor photographs from San Juan, Metro Manila.",
+        "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+        "Video gap: One exact-plaza resource selected; broad town walks not used as filler."
+      ]
+    },
+    {
+      "placeId": "batanes-basco-lighthouse-area",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Wikipedia — Basco Lighthouse",
+          "url": "https://en.wikipedia.org/wiki/Basco_Lighthouse",
+          "checkedOn": "2026-10-22",
+          "supports": "Reviewed place identity, municipality and the specific descriptive facts in this overview."
+        }
+      ],
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Basco_Batanes_Lighthouse.png",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Basco_Batanes_Lighthouse.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "bingbing",
+        "license": "Public domain"
+      },
+      "photoGap": null,
+      "videos": [
+        "https://www.youtube.com/watch?v=QTUyKaf_1dM"
+      ],
+      "rejectedVideos": [],
+      "notes": [
+        "Video gap: One lighthouse-specific resource selected; broad town routes not used without an established segment."
+      ]
+    },
+    {
+      "placeId": "batanes-casa-napoli-town",
+      "description": "limited-evidence",
+      "sources": [
+        {
+          "name": "Batanes Provincial Heritage and Tourism Office - Basco food map",
+          "url": "https://breathtakingbatanes.com/foodmap.pdf",
+          "checkedOn": "2026-10-21",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photo": null,
+      "photoGap": "No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+      "videos": [],
+      "rejectedVideos": [],
+      "notes": [
+        "Original provincial food-map URL returned HTTP 404; no current menu or hours claim added.",
+        "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+        "Video gap: Reviewed town-wide restaurant guides did not establish this exact venue segment."
+      ]
+    },
+    {
+      "placeId": "batanes-beehan",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Batanes Provincial Heritage and Tourism Office - Basco food map",
+          "url": "https://breathtakingbatanes.com/foodmap.pdf",
+          "checkedOn": "2026-10-21",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photo": null,
+      "photoGap": "No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+      "videos": [
+        "https://www.youtube.com/watch?v=eGJYseUuYOk"
+      ],
+      "rejectedVideos": [],
+      "notes": [
+        "Original food-map URL returned HTTP 404.",
+        "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+        "Video gap: One exact-venue resource selected; multi-stop trip vlogs not used as filler."
+      ]
+    },
+    {
+      "placeId": "batanes-harbour-cafe",
+      "description": "limited-evidence",
+      "sources": [
+        {
+          "name": "Batanes Provincial Heritage and Tourism Office - Basco food map",
+          "url": "https://breathtakingbatanes.com/foodmap.pdf",
+          "checkedOn": "2026-10-21",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photo": null,
+      "photoGap": "No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+      "videos": [],
+      "rejectedVideos": [],
+      "notes": [
+        "Original food-map URL returned HTTP 404.",
+        "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+        "Video gap: Reviewed results did not establish Harbour Cafe; a different inn-and-café venue was excluded."
+      ]
+    },
+    {
+      "placeId": "batanes-vunong-dinette",
+      "description": "limited-evidence",
+      "sources": [
+        {
+          "name": "Batanes Provincial Heritage and Tourism Office - Basco food map",
+          "url": "https://breathtakingbatanes.com/foodmap.pdf",
+          "checkedOn": "2026-10-21",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photo": null,
+      "photoGap": "No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+      "videos": [],
+      "rejectedVideos": [],
+      "notes": [
+        "Original food-map URL returned HTTP 404; alternative venue not silently substituted.",
+        "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+        "Video gap: Results about Vunong at Jessica’s Place did not establish that they identify this exact catalog venue."
+      ]
+    },
+    {
+      "placeId": "batanes-honesty-coffee-shop",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Department of Tourism Region 2 - Batanes municipality guide",
+          "url": "https://www.region2fun.ph/official/batanes-2/",
+          "checkedOn": "2026-10-21",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photo": null,
+      "photoGap": "No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+      "videos": [
+        "https://www.youtube.com/watch?v=RzFMcwjp-PI",
+        "https://www.youtube.com/watch?v=PJNm038TqkU"
+      ],
+      "rejectedVideos": [],
+      "notes": [
+        "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results."
+      ]
+    },
+    {
+      "placeId": "batanes-rakuh-idi-spring",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Batanes Provincial Heritage and Tourism Office - mapped sites",
+          "url": "https://breathtakingbatanes.com/maps/",
+          "checkedOn": "2026-10-21",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photo": null,
+      "photoGap": "No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+      "videos": [],
+      "rejectedVideos": [
+        {
+          "videoId": "aOSoImQtlcw",
+          "reason": "Official source does not currently confirm a playable, embeddable video with an accessible description"
+        },
+        {
+          "videoId": "EU9rLsU6J9k",
+          "reason": "HTTP 401: https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DEU9rLsU6J9k&format=json"
+        }
+      ],
+      "notes": [
+        "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+        "Video aOSoImQtlcw: Official source does not currently confirm a playable, embeddable video with an accessible description",
+        "Video EU9rLsU6J9k: HTTP 401: https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DEU9rLsU6J9k&format=json"
+      ]
+    },
+    {
+      "placeId": "batanes-chawa-viewdeck",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Batanes provincial tourism portal - Mahatao attractions",
+          "url": "https://bookings.breathtakingbatanes.com/",
+          "checkedOn": "2026-10-21",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photo": null,
+      "photoGap": "No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+      "videos": [
+        "https://www.youtube.com/watch?v=hsSFcRfnR1o"
+      ],
+      "rejectedVideos": [
+        {
+          "videoId": "BwXpYhDKSDk",
+          "reason": "Official source does not currently confirm a playable, embeddable video with an accessible description"
+        }
+      ],
+      "notes": [
+        "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+        "Video BwXpYhDKSDk: Official source does not currently confirm a playable, embeddable video with an accessible description"
+      ]
+    },
+    {
+      "placeId": "batanes-tayid-lighthouse",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Batanes provincial tourism portal - Mahatao attractions",
+          "url": "https://bookings.breathtakingbatanes.com/",
+          "checkedOn": "2026-10-21",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Tayid_Lighthouse_Mahatao_-_Flickr.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Tayid_Lighthouse_Mahatao_-_Flickr.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "Glendale Lapastora's Pictures (Official)",
+        "license": "CC BY-SA 2.0"
+      },
+      "photoGap": null,
+      "videos": [
+        "https://www.youtube.com/watch?v=kwTXePERlag"
+      ],
+      "rejectedVideos": [
+        {
+          "videoId": "FLxIQu7SmzI",
+          "reason": "Official source does not currently confirm a playable, embeddable video with an accessible description"
+        }
+      ],
+      "notes": [
+        "Video FLxIQu7SmzI: Official source does not currently confirm a playable, embeddable video with an accessible description"
+      ]
+    },
+    {
+      "placeId": "batanes-ivana-san-jose-church",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Department of Tourism Region 2 - Batanes municipality guide",
+          "url": "https://www.region2fun.ph/official/batanes-2/",
+          "checkedOn": "2026-10-21",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:SAN_JOSE_DE_IVANA_CHURCH_BATANES.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4c/SAN_JOSE_DE_IVANA_CHURCH_BATANES.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "Helton B. Balairos",
+        "license": "CC BY-SA 4.0"
+      },
+      "photoGap": null,
+      "videos": [
+        "https://www.youtube.com/watch?v=uiF3AIedbI4",
+        "https://www.youtube.com/watch?v=Uh8eYqyyqbU"
+      ],
+      "rejectedVideos": [],
+      "notes": []
+    },
+    {
+      "placeId": "batanes-san-jose-spanish-bridge",
+      "description": "limited-evidence",
+      "sources": [
+        {
+          "name": "Batanes Provincial Heritage and Tourism Office - mapped sites",
+          "url": "https://breathtakingbatanes.com/maps/",
+          "checkedOn": "2026-10-21",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photo": null,
+      "photoGap": "No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+      "videos": [],
+      "rejectedVideos": [],
+      "notes": [
+        "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+        "Video gap: The reviewed search returned unrelated celebrity content and did not establish an exact bridge resource."
+      ]
+    },
+    {
+      "placeId": "batanes-songsong-ruins",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Batanes Provincial Heritage and Tourism Office - mapped sites",
+          "url": "https://breathtakingbatanes.com/maps/",
+          "checkedOn": "2026-10-21",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Ruins_at_Sitio_Songsong.png",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Ruins_at_Sitio_Songsong.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "anne_jimenez",
+        "license": "CC BY 2.0"
+      },
+      "photoGap": null,
+      "videos": [
+        "https://www.youtube.com/watch?v=192gjuGUC5o"
+      ],
+      "rejectedVideos": [],
+      "notes": [
+        "Video gap: One exact-ruins resource selected; broad island guides not used as filler."
+      ]
+    },
+    {
+      "placeId": "batanes-alapad-rock",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Batanes Provincial Heritage and Tourism Office - mapped sites",
+          "url": "https://breathtakingbatanes.com/maps/",
+          "checkedOn": "2026-10-21",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Alapad_Hills_%26_Rock_Formation,_South_Batan,_Batanes.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Alapad_Hills_%26_Rock_Formation%2C_South_Batan%2C_Batanes.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "Jeremy.alinea",
+        "license": "CC BY-SA 4.0"
+      },
+      "photoGap": null,
+      "videos": [
+        "https://www.youtube.com/watch?v=NNG6mhffgNY"
+      ],
+      "rejectedVideos": [
+        {
+          "videoId": "a8glcVZy7KE",
+          "reason": "Official source does not currently confirm a playable, embeddable video with an accessible description"
+        }
+      ],
+      "notes": [
+        "Video a8glcVZy7KE: Official source does not currently confirm a playable, embeddable video with an accessible description"
+      ]
+    },
+    {
+      "placeId": "batanes-national-museum",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "National Museum — Batanes area museum",
+          "url": "https://www.nationalmuseum.gov.ph/our-museums/regional-area-and-site-museums/batanes/",
+          "checkedOn": "2026-10-22",
+          "supports": "Official reused LORAN complex, adaptation and published address."
+        },
+        {
+          "name": "National Museum — 2025 Batanes development documents",
+          "url": "https://www.nationalmuseum.gov.ph/wp-content/uploads/2025/09/Bidding-Documents-Batanes.pdf",
+          "checkedOn": "2026-10-22",
+          "supports": "Documented 2024 typhoon damage and proposed repair work; not proof of current reopening."
+        }
+      ],
+      "photo": null,
+      "photoGap": "No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+      "videos": [],
+      "rejectedVideos": [],
+      "notes": [
+        "Rejected municipality-wide Uyugan article and Imnajbu village photograph. Official museum address retained; no unsourced barangay correction made.",
+        "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+        "Video gap: Candidate recordings did not establish a useful current museum visit; no broader Uyugan video substituted."
+      ]
+    },
+    {
+      "placeId": "batanes-sabtang-san-vicente",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Batanes Provincial Heritage and Tourism Office - mapped sites",
+          "url": "https://breathtakingbatanes.com/maps/",
+          "checkedOn": "2026-10-21",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:San_Vicente_Ferrer_Church_(Sabtang_Batanes).jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9e/San_Vicente_Ferrer_Church_%28Sabtang_Batanes%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "Ranieljosecastaneda",
+        "license": "CC BY-SA 4.0"
+      },
+      "photoGap": null,
+      "videos": [],
+      "rejectedVideos": [
+        {
+          "videoId": "aqhOcUWa96M",
+          "reason": "Official source does not currently confirm a playable, embeddable video with an accessible description"
+        }
+      ],
+      "notes": [
+        "Exact Sabtang identity must be established from official video description before accepting the aerial resource.",
+        "Video aqhOcUWa96M: Official source does not currently confirm a playable, embeddable video with an accessible description"
+      ]
+    },
+    {
+      "placeId": "batanes-savidug-village",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "LetsGoBatanes - Sabtang heritage villages and tour route",
+          "url": "https://www.letsgobatanes.com/",
+          "checkedOn": "2026-10-21",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photo": null,
+      "photoGap": "No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+      "videos": [],
+      "rejectedVideos": [],
+      "notes": [
+        "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+        "Video gap: Broad Sabtang resources did not establish a specific Savidug segment in the initial review."
+      ]
+    },
+    {
+      "placeId": "batanes-chavayan-village",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Batanes Provincial Heritage and Tourism Office - mapped sites",
+          "url": "https://breathtakingbatanes.com/maps/",
+          "checkedOn": "2026-10-21",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:THE_CHAVAYAN_STONE_HOUSE_VILLAGE_OF_BATANES.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a9/THE_CHAVAYAN_STONE_HOUSE_VILLAGE_OF_BATANES.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "Jsinglador",
+        "license": "CC BY-SA 4.0"
+      },
+      "photoGap": null,
+      "videos": [
+        "https://www.youtube.com/watch?v=gkAp6YyE1D4"
+      ],
+      "rejectedVideos": [],
+      "notes": [
+        "Video gap: One exact-village resource selected; broader island routes not used without an established segment."
+      ]
+    },
+    {
+      "placeId": "batanes-morong-beach",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Batanes Provincial Heritage and Tourism Office - mapped sites",
+          "url": "https://breathtakingbatanes.com/maps/",
+          "checkedOn": "2026-10-21",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Nakabuang_Arch_in_Morong_Beach_in_Sabtang_Island_Batanes.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/7/79/Nakabuang_Arch_in_Morong_Beach_in_Sabtang_Island_Batanes.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "Ranieljosecastaneda",
+        "license": "CC BY-SA 4.0"
+      },
+      "photoGap": null,
+      "videos": [
+        "https://www.youtube.com/watch?v=izGqHeNslsE",
+        "https://www.youtube.com/watch?v=kGJB9Zitaas"
+      ],
+      "rejectedVideos": [],
+      "notes": [
+        "Rejected Morong, Bataan video results."
+      ]
+    },
+    {
+      "placeId": "batanes-chamantad-tinyan",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Batanes Provincial Heritage and Tourism Office - Sabtang attractions",
+          "url": "https://breathtakingbatanes.com/tourist-attraction-6/",
+          "checkedOn": "2026-10-21",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Chamantad_viewpoint.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Chamantad_viewpoint.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "Greenthumb331",
+        "license": "CC BY-SA 4.0"
+      },
+      "photoGap": null,
+      "videos": [
+        "https://www.youtube.com/watch?v=Mgn8ZYxYz8g",
+        "https://www.youtube.com/watch?v=XyifUBvMKio"
+      ],
+      "rejectedVideos": [],
+      "notes": []
+    }
+  ]
+}

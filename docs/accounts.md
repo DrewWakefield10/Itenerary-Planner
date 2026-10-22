@@ -149,7 +149,6 @@ API responses are private/no-store. Mutations require same-origin requests and v
 ## Optional Sites/Cloudflare local development
 
 The migration was generated with `npm run db:generate` and applied to the local preview database. Sites applies committed pending migrations during deployment. Do not create tables during requests, seed demo users in migrations, edit applied migrations, or replay an already-applied SQL file.
-
 For a fresh local checkout, build once, then apply the migration once:
 
 ```powershell

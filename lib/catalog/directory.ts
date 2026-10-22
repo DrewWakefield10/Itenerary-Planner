@@ -1,4 +1,5 @@
 import expansion from "./directory-expansion.json";
+import {placeContent} from "./place-content";
 import {mergeCommittedDirectory} from "./directory-import";
 import luzon from "./directory-luzon.json";
 import visayas from "./directory-visayas.json";
@@ -108,6 +109,8 @@ export function filterDirectory({
           p.name,
           ...(p.aliases||[]),
           p.description,
+          placeContent(p.id)?.summary,
+          ...(placeContent(p.id)?.overview||[]),
           p.destination_group,
           p.city_municipality,
           p.province,

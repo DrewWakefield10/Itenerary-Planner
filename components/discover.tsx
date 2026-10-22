@@ -39,6 +39,7 @@ import { SourceIndicator, SourceReviewNote } from "./source-indicator";
 import {directoryDetails} from "@/lib/catalog/directory-details";
 import {unverifiedSource} from "@/lib/sources";
 import {BookmarkButton} from "./bookmarks";
+import {PlacePhoto,PlaceOverview,PlaceVideos,PlaceEditorialCredits} from "./place-media";
 const AddDialog = lazy(() => import("./discovery-add-dialog"));
 const TripMap = lazy(() => import("./trip-map"));
 const dayLabel = (date: string) =>
@@ -84,14 +85,7 @@ function PlaceCard({
   return (
     <article className="discovery-card">
       <Link href={`/discover/${place.id}`} className="discovery-photo">
-        {place.image ? (
-          <img src={place.image.src} alt={place.image.alt} loading="lazy" />
-        ) : (
-          <div className="discovery-art">
-            <Compass size={62} strokeWidth={1} />
-            <span>{place.name}</span>
-          </div>
-        )}
+        <PlacePhoto key={place.image?.src||place.id} place={place}/>
         <span className="discovery-kind">
           {place.kind === "base" ? "Overnight base" : "Individual stop"}
         </span>
@@ -508,13 +502,56 @@ export default function Discover({ placeId }: { placeId?: string }) {
               Clear all filters
             </button>
           )}
+          <section className="discovery-section" aria-labelledby="spots-title">
+            <span className="eyebrow">01 / THE PLACE COLLECTION</span>
+            <h2 id="spots-title">
+              Spots to <em>discover.</em>
+            </h2>
+            <p>
+              Named places with reviewed identity and municipality. Check each
+              fact's source; unknown details remain unknown. Catalog inclusion
+              is not a popularity ranking.
+            </p>
+            <div className="discovery-grid">
+              {spots.slice((page - 1) * 12, page * 12).map((p) => (
+                <PlaceCard key={p.id} place={p} onAdd={setAdding} />
+              ))}
+            </div>
+            <div className="catalog-pagination" aria-label="Catalog pages">
+              <span role="status">
+                {spots.length} matching locations
+                {area !== "all" ? ` in ${area}` : " across all destinations"} /
+                Page {page} of {Math.max(1, Math.ceil(spots.length / 12))}
+              </span>
+              <button
+                className="button secondary"
+                disabled={page === 1}
+                onClick={() => setPage((p) => p - 1)}
+              >
+                Previous spots
+              </button>
+              <button
+                className="button secondary"
+                disabled={page * 12 >= spots.length}
+                onClick={() => setPage((p) => p + 1)}
+              >
+                Next spots
+              </button>
+            </div>
+            {!spots.length && (
+              <p className="discovery-empty">
+                No locations match these filters. Clear a filter or try another
+                name or municipality.
+              </p>
+            )}
+          </section>
           <section
             className="discovery-interest-section"
             aria-labelledby="attention-title"
           >
             <div className="section-heading">
               <div>
-                <span className="eyebrow">01 / A SIGNAL OF CURIOSITY</span>
+                <span className="eyebrow">02 / A SIGNAL OF CURIOSITY</span>
                 <h2 id="attention-title">
                   Gaining <em>attention.</em>
                 </h2>
@@ -655,49 +692,6 @@ export default function Discover({ placeId }: { placeId?: string }) {
                   </details>
                 )}
               </>
-            )}
-          </section>
-          <section className="discovery-section" aria-labelledby="spots-title">
-            <span className="eyebrow">02 / THE PLACE COLLECTION</span>
-            <h2 id="spots-title">
-              Spots to <em>discover.</em>
-            </h2>
-            <p>
-              Named places with reviewed identity and municipality. Check each
-              fact's source; unknown details remain unknown. Catalog inclusion
-              is not a popularity ranking.
-            </p>
-            <div className="discovery-grid">
-              {spots.slice((page - 1) * 12, page * 12).map((p) => (
-                <PlaceCard key={p.id} place={p} onAdd={setAdding} />
-              ))}
-            </div>
-            <div className="catalog-pagination" aria-label="Catalog pages">
-              <span role="status">
-                {spots.length} matching locations
-                {area !== "all" ? ` in ${area}` : " across all destinations"} /
-                Page {page} of {Math.max(1, Math.ceil(spots.length / 12))}
-              </span>
-              <button
-                className="button secondary"
-                disabled={page === 1}
-                onClick={() => setPage((p) => p - 1)}
-              >
-                Previous spots
-              </button>
-              <button
-                className="button secondary"
-                disabled={page * 12 >= spots.length}
-                onClick={() => setPage((p) => p + 1)}
-              >
-                Next spots
-              </button>
-            </div>
-            {!spots.length && (
-              <p className="discovery-empty">
-                No locations match these filters. Clear a filter or try another
-                name or municipality.
-              </p>
             )}
           </section>
           <section className="discovery-section" aria-labelledby="bases-title">
@@ -843,9 +837,8 @@ function PlaceDetails({
           </span>
           <h1 className="page-title">{place.name}</h1>
           <p className="lede">{place.description}</p>
-          <SourceIndicator source={place.source} label="Description" />
-          <BookmarkButton placeId={place.id} name={place.name}/>
-          <p className="discovery-reason">{place.reason}</p>
+          <p className="place-municipality">{place.directory?.city_municipality || base?.name}{place.directory?.province ? ` / ${place.directory.province}` : ""}</p>
+          <BookmarkButton placeId={place.id} name={place.name} showUnavailable/>
           <div className="discovery-actions">
             <Link
               className="button"
@@ -878,20 +871,19 @@ function PlaceDetails({
               : "A place to stay overnight, with its own local stops."}
           </p>
         </div>
-        {place.image && (
-          <figure>
-            <img src={place.image.src} alt={place.image.alt} />
-            <figcaption>
-              <a href={place.image.creditUrl}>Photo source & reuse license ↗</a>
-            </figcaption>
-          </figure>
-        )}
+        <figure>
+          <PlacePhoto key={place.image?.src||place.id} place={place} prominent/>
+          {place.image&&<figcaption><a href="#place-sources">Photo source and reuse license</a></figcaption>}
+        </figure>
       </div>
-      <div className="discovery-detail-grid">
+      <PlaceOverview place={place}/>
+      <PlaceVideos placeId={place.id}/>
+      <div className="place-practical">
         <section className="paper-note">
           <h2>
             Practical <em>notes.</em>
           </h2>
+          {!!place.editorial?.tips.length&&<ul>{place.editorial.tips.map(t=><li key={t.text}>{t.text}</li>)}</ul>}
           {place.directory && (
             <>
               <p>
@@ -901,16 +893,13 @@ function PlaceDetails({
               <p>
                 <strong>City / municipality:</strong>{" "}
                 {place.directory.city_municipality}{" "}
-                <SourceIndicator
-                  source={place.directory.sources.municipality}
-                  label="Municipality"
-                />
+
               </p>
               <p>
                 <strong>Province:</strong>{" "}
                 {place.directory.province ||
                   "No province assigned (independent city)"}{" "}
-                ? <strong>Region:</strong> {place.directory.region}
+                <strong>Region:</strong> {place.directory.region}
               </p>
               <p>
                 <strong>Barangay:</strong>{" "}
@@ -920,10 +909,7 @@ function PlaceDetails({
                 <strong>Address:</strong>{" "}
                 {place.directory.address ||
                   "Street or venue address not verified"}{" "}
-                <SourceIndicator
-                  source={place.directory.sources.address}
-                  label="Address"
-                />
+
               </p>
             </>
           )}
@@ -933,11 +919,8 @@ function PlaceDetails({
                 <strong>Entry price:</strong>{" "}
                 {notes.entryPrice.amount === null
                   ? "Unknown. Check with the venue."
-                  : `${peso(notes.entryPrice.amount)} per ${notes.entryPrice.basis}`}{" "}
-                <SourceIndicator
-                  source={notes.entryPrice.source}
-                  label="Entry price"
-                />
+                  : `${peso(notes.entryPrice.amount)} per ${notes.entryPrice.basis}${notes.entryPrice.source.status==="estimate"?" (estimate)":notes.entryPrice.source.status==="unverified"?" (unverified)":""}`}{" "}
+
               </p>
               <p>
                 <strong>Planning type:</strong>{" "}
@@ -973,55 +956,37 @@ function PlaceDetails({
               )}
               <p>
                 <strong>Booking:</strong> {notes.booking}{" "}
-                <SourceIndicator
-                  source={notes.sources.booking}
-                  label="Booking"
-                />
+
               </p>
               <p>
                 <strong>Visit allowance:</strong> {peso(notes.cost)} per{" "}
                 {notes.costBasis}{" "}
-                <SourceIndicator source={notes.sources.price} label="Price" />.
+                .
                 This is an illustrative allowance, not a quoted fee; zero does
                 not establish free admission.
               </p>
               <p>
-                <strong>Visit duration:</strong> about {notes.minutes} minutes{" "}
-                <SourceIndicator
-                  source={notes.sources.schedule}
-                  label="Duration"
-                />
+                <strong>Estimated visit duration:</strong> about {notes.minutes} minutes{" "}
+
               </p>
               <p>
                 <strong>Opening hours:</strong>{" "}
                 {notes.openingHours
                   ? `${notes.openingHours.weekdays.map((n) => ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"][n]).join(", ")} · ${notes.openingHours.opens}–${notes.openingHours.closes}`
                   : "Unknown. Check with the venue."}{" "}
-                <SourceIndicator
-                  source={notes.openingHours?.source || unverifiedSource()}
-                  label="Opening hours"
-                />
+
               </p>
               <p>
                 <strong>Accessibility:</strong> {notes.accessibility}{" "}
-                <SourceIndicator
-                  source={notes.sources.accessibility}
-                  label="Accessibility"
-                />
+
               </p>
               <p>
                 <strong>Local transport:</strong> {notes.transport}{" "}
-                <SourceIndicator
-                  source={notes.sources.transport}
-                  label="Local transport"
-                />
+
               </p>
               <p>
                 <strong>Location:</strong> {notes.locationDetails}{" "}
-                <SourceIndicator
-                  source={notes.sources.location}
-                  label="Location"
-                />
+
               </p>
             </>
           ) : (
@@ -1029,12 +994,6 @@ function PlaceDetails({
               <p>
                 {base?.transport ||
                   "No itinerary transport route is recorded. Confirm access and local travel arrangements."}{" "}
-                {base && (
-                  <SourceIndicator
-                    source={base.sources.transport}
-                    label="Transport"
-                  />
-                )}
               </p>
               {base && (
                 <Link className="text-link" href={`/destinations/${base.slug}`}>
@@ -1050,39 +1009,6 @@ function PlaceDetails({
               )}
             </>
           )}
-        </section>
-        <section className="paper-note">
-          <h2>
-            Behind this <em>discovery.</em>
-          </h2>
-          <p>
-            <strong>Catalog discovery</strong> · {place.platform}
-          </p>
-          <p>{place.supports}</p>
-          <SourceIndicator source={place.source} label="Description" />
-          <p>
-            {place.reviewedOn
-              ? `Reviewed ${dayLabel(place.reviewedOn)}`
-              : "No review date recorded for this description"}
-            {place.reviewExpiresOn
-              ? ` · review due ${dayLabel(place.reviewExpiresOn)}`
-              : ""}
-            .
-          </p>
-          {reviewExpired(place) && (
-            <p>
-              Review needs updating; adding this place is paused until it is
-              reviewed.
-            </p>
-          )}
-          {place.originalPostUrl && (
-            <p>
-              <a href={place.originalPostUrl} target="_blank" rel="noreferrer">
-                Open original post or video ↗
-              </a>
-            </p>
-          )}
-          <SourceReviewNote />
         </section>
       </div>
       <section className="discovery-section">
@@ -1124,6 +1050,39 @@ function PlaceDetails({
           </p>
         )}
       </section>
+      <details id="place-sources" className="discovery-section paper-note place-source-details">
+          <summary>Sources, detail checks and image credits</summary>
+          <PlaceEditorialCredits place={place}/>
+          {notes&&<div className="place-fact-sources">{Object.entries({...notes.sources,"Entry price":notes.entryPrice.source,"Opening hours":notes.openingHours?.source||unverifiedSource()}).map(([label,source])=><p key={label}><strong>{label}: </strong><SourceIndicator source={source} label={label}/></p>)}</div>}
+          <p>
+            <strong>Catalog discovery</strong> · {place.platform}
+          </p>
+          <p>{place.supports}</p>
+          <SourceIndicator source={place.source} label="Description" />
+          <p>
+            {place.reviewedOn
+              ? `Reviewed ${dayLabel(place.reviewedOn)}`
+              : "No review date recorded for this description"}
+            {place.reviewExpiresOn
+              ? ` · review due ${dayLabel(place.reviewExpiresOn)}`
+              : ""}
+            .
+          </p>
+          {reviewExpired(place) && (
+            <p>
+              Review needs updating; adding this place is paused until it is
+              reviewed.
+            </p>
+          )}
+          {place.originalPostUrl && (
+            <p>
+              <a href={place.originalPostUrl} target="_blank" rel="noreferrer">
+                Open original post or video ↗
+              </a>
+            </p>
+          )}
+          <SourceReviewNote />
+        </details>
       <section className="discovery-section">
         <h2>
           While you're <em>nearby.</em>

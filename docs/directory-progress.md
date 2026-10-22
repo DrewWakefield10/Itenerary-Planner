@@ -1,6 +1,6 @@
 # Directory research progress
 
-Snapshot: 22 October 2026. Each candidate has an explicit accepted, rejected, or unresolved decision. Acceptance means reviewed identity and municipality; it does not establish current access, admission, hours, or safety.
+Snapshot: 23 October 2026. Each candidate has an explicit accepted, rejected, or unresolved decision. Acceptance means reviewed identity and municipality; it does not establish current access, admission, hours, or safety.
 
 | Destination | Target | Researched | Accepted | Rejected | Unresolved | Shortfall |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: |

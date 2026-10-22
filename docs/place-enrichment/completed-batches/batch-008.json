@@ -1,0 +1,631 @@
+{
+  "batchId": "batch-008",
+  "checkedOn": "2026-10-22",
+  "places": 25,
+  "outcomes": [
+    {
+      "placeId": "bohol-bohol-bee-farm",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Bohol Provincial Tourism Office — Dauis",
+          "url": "https://tourism.bohol.gov.ph/visitbohol-dauis/",
+          "checkedOn": "2026-10-21",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Bee_farm_restaurant_in_Panglao_-_panoramio.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Bee_farm_restaurant_in_Panglao_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "Mats Sjödin",
+        "license": "CC BY 3.0"
+      },
+      "photoGap": null,
+      "videos": [
+        "https://www.youtube.com/watch?v=qucahHfhe_s"
+      ],
+      "rejectedVideos": [
+        {
+          "videoId": "2u8aT7ioZiA",
+          "reason": "Official source does not currently confirm a playable, embeddable video with an accessible description"
+        }
+      ],
+      "notes": [
+        "Video 2u8aT7ioZiA: Official source does not currently confirm a playable, embeddable video with an accessible description"
+      ]
+    },
+    {
+      "placeId": "bohol-common-crew",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Common Crew Bohol — brew bar",
+          "url": "https://www.commoncrewbohol.com/coffee-kombucha-brew-bar",
+          "checkedOn": "2026-10-22",
+          "supports": "Official coffee roasting, Philippine beans, kombucha, sandwich and bike-rack details."
+        }
+      ],
+      "photo": null,
+      "photoGap": "No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+      "videos": [
+        "https://www.youtube.com/watch?v=z8zQm-L7fbo",
+        "https://www.youtube.com/watch?v=-iH0eCmmxEk"
+      ],
+      "rejectedVideos": [],
+      "notes": [
+        "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results."
+      ]
+    },
+    {
+      "placeId": "bohol-shaka-panglao",
+      "description": "limited-evidence",
+      "sources": [
+        {
+          "name": "Shaka Cafes — operator company profile",
+          "url": "https://www.linkedin.com/company/shaka-cafes",
+          "checkedOn": "2026-10-21",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photo": null,
+      "photoGap": "No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+      "videos": [
+        "https://www.youtube.com/watch?v=PAdX5oNbxgc"
+      ],
+      "rejectedVideos": [],
+      "notes": [
+        "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+        "Video gap: One explicitly Panglao restaurant resource selected; unrelated beach-nightlife footage excluded."
+      ]
+    },
+    {
+      "placeId": "bohol-chocolate-hills",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Wikipedia — Chocolate Hills",
+          "url": "https://en.wikipedia.org/wiki/Chocolate_Hills",
+          "checkedOn": "2026-10-22",
+          "supports": "Reviewed place identity, municipality and the specific descriptive facts in this overview."
+        }
+      ],
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Chocolate_Hills_Bohol.JPG",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/af/Chocolate_Hills_Bohol.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "P199",
+        "license": "CC BY-SA 3.0"
+      },
+      "photoGap": null,
+      "videos": [
+        "https://www.youtube.com/watch?v=6NNbgUrBzwk"
+      ],
+      "rejectedVideos": [],
+      "notes": [
+        "Video gap: One Carmen-specific resource selected; another viewpoint business was not substituted."
+      ]
+    },
+    {
+      "placeId": "bohol-baclayon-church",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Wikipedia — Baclayon Church",
+          "url": "https://en.wikipedia.org/wiki/Baclayon_Church",
+          "checkedOn": "2026-10-22",
+          "supports": "Reviewed place identity, municipality and the specific descriptive facts in this overview."
+        }
+      ],
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Baclayon_Immaculate_Concepcion_Church_(Tagbilaran_East_Road,_Baclayon,_Bohol;_01-12-2023).jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/af/Baclayon_Immaculate_Concepcion_Church_%28Tagbilaran_East_Road%2C_Baclayon%2C_Bohol%3B_01-12-2023%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "Patrickroque01",
+        "license": "CC BY-SA 4.0"
+      },
+      "photoGap": null,
+      "videos": [
+        "https://www.youtube.com/watch?v=sOxK6bTXTpM",
+        "https://www.youtube.com/watch?v=lj4kVyJq0v4"
+      ],
+      "rejectedVideos": [],
+      "notes": []
+    },
+    {
+      "placeId": "bohol-loboc-church",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Wikipedia — Loboc Church",
+          "url": "https://en.wikipedia.org/wiki/Loboc_Church",
+          "checkedOn": "2026-10-22",
+          "supports": "Reviewed place identity, municipality and the specific descriptive facts in this overview."
+        }
+      ],
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Loboc_Church_(Loay_Interior_Road,_Loboc,_Bohol;_01-12-2023).jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Loboc_Church_%28Loay_Interior_Road%2C_Loboc%2C_Bohol%3B_01-12-2023%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "Patrickroque01",
+        "license": "CC BY-SA 4.0"
+      },
+      "photoGap": null,
+      "videos": [
+        "https://www.youtube.com/watch?v=FQIIX7Se8mw",
+        "https://www.youtube.com/watch?v=rzUEmqBYzUQ"
+      ],
+      "rejectedVideos": [],
+      "notes": []
+    },
+    {
+      "placeId": "bohol-national-museum",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "National Museum of the Philippines — Bohol",
+          "url": "https://www.nationalmuseum.gov.ph/our-museums/regional-area-and-site-museums/bohol/",
+          "checkedOn": "2026-10-22",
+          "supports": "Official building history, restoration, opening and described gallery subjects."
+        }
+      ],
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Old_Bohol_Capitol_National_Museum_facade_(CPG_Avenue,_Tagbilaran,_Bohol;_01-12-2023).jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Old_Bohol_Capitol_National_Museum_facade_%28CPG_Avenue%2C_Tagbilaran%2C_Bohol%3B_01-12-2023%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "Patrickroque01",
+        "license": "CC BY-SA 4.0"
+      },
+      "photoGap": null,
+      "videos": [
+        "https://www.youtube.com/watch?v=gyvGCd1EFfc",
+        "https://www.youtube.com/watch?v=Tkq3uPQrCVM"
+      ],
+      "rejectedVideos": [],
+      "notes": []
+    },
+    {
+      "placeId": "bohol-pamilacan-island",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Wikipedia — Pamilacan",
+          "url": "https://en.wikipedia.org/wiki/Pamilacan",
+          "checkedOn": "2026-10-22",
+          "supports": "Reviewed place identity, municipality and the specific descriptive facts in this overview."
+        }
+      ],
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Pamilacan_Island%27s_White_Sand_Beaches.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Pamilacan_Island%27s_White_Sand_Beaches.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "Baconlife213",
+        "license": "CC BY-SA 4.0"
+      },
+      "photoGap": null,
+      "videos": [
+        "https://www.youtube.com/watch?v=N2nRgMHwc_o",
+        "https://www.youtube.com/watch?v=XdQGOh04dwk"
+      ],
+      "rejectedVideos": [],
+      "notes": []
+    },
+    {
+      "placeId": "bohol-baclayon-parish-museum",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Municipality of Baclayon - parish museum",
+          "url": "https://baclayon.bohol.gov.ph/museo-parroquial-de-baclayon/",
+          "checkedOn": "2026-10-21",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photo": null,
+      "photoGap": "No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+      "videos": [
+        "https://www.youtube.com/watch?v=8nfDIENsnH4"
+      ],
+      "rejectedVideos": [
+        {
+          "videoId": "9u8RLDdSDPs",
+          "reason": "Official source does not currently confirm a playable, embeddable video with an accessible description"
+        }
+      ],
+      "notes": [
+        "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+        "Video 9u8RLDdSDPs: Official source does not currently confirm a playable, embeddable video with an accessible description"
+      ]
+    },
+    {
+      "placeId": "bohol-loboc-eco-adventure-park",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Bohol Provincial Tourism - Loboc",
+          "url": "https://tourism.bohol.gov.ph/visitbohol-loboc/",
+          "checkedOn": "2026-10-21",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photo": null,
+      "photoGap": "No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+      "videos": [
+        "https://www.youtube.com/watch?v=Srl3fds2nzA",
+        "https://www.youtube.com/watch?v=xxnBb6q3FI8"
+      ],
+      "rejectedVideos": [],
+      "notes": [
+        "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results."
+      ]
+    },
+    {
+      "placeId": "bohol-casa-rocha",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "National Museum - Casa Rocha",
+          "url": "https://www.nationalmuseum.gov.ph/2022/08/25/casa-rocha-balay-na-tisa-sa-bohol/",
+          "checkedOn": "2026-10-21",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Tagbilaran_-_The_Casa_Rocha_House.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Tagbilaran_-_The_Casa_Rocha_House.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "Anna Lou 78",
+        "license": "CC BY-SA 4.0"
+      },
+      "photoGap": null,
+      "videos": [
+        "https://www.youtube.com/watch?v=UMEFa7swsfA",
+        "https://www.youtube.com/watch?v=h_tQTzDuFbk"
+      ],
+      "rejectedVideos": [],
+      "notes": [
+        "3D-model video is explicitly labeled as such in the relevance note."
+      ]
+    },
+    {
+      "placeId": "bohol-philippine-tarsier-sanctuary",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Bohol Provincial Tourism - Corella",
+          "url": "https://tourism.bohol.gov.ph/visitbohol-corella-3/",
+          "checkedOn": "2026-10-22",
+          "supports": "Official sanctuary purpose, Canapnapan address and footwear guidance."
+        }
+      ],
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:IMG_0596_Tarsier_Visitors_Center_Corella.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fb/IMG_0596_Tarsier_Visitors_Center_Corella.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "Jeroen Hellingman",
+        "license": "CC BY-SA 3.0"
+      },
+      "photoGap": null,
+      "videos": [
+        "https://www.youtube.com/watch?v=LhDrD6mETVk",
+        "https://www.youtube.com/watch?v=Q6mxVQw8aCY"
+      ],
+      "rejectedVideos": [],
+      "notes": [
+        "No guaranteed animal sighting or handling activity inferred."
+      ]
+    },
+    {
+      "placeId": "bohol-green-thumb-farm",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Bohol Provincial Tourism - Corella",
+          "url": "https://tourism.bohol.gov.ph/visitbohol-corella-3/",
+          "checkedOn": "2026-10-22",
+          "supports": "Official farm/restaurant identity, mushroom dishes and Sambog address."
+        }
+      ],
+      "photo": null,
+      "photoGap": "No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+      "videos": [
+        "https://www.youtube.com/watch?v=G5QjpcBES6M",
+        "https://www.youtube.com/watch?v=ABwTL1Af9r8"
+      ],
+      "rejectedVideos": [],
+      "notes": [
+        "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results."
+      ]
+    },
+    {
+      "placeId": "bohol-quinale-beach",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Bohol Provincial Tourism - Anda",
+          "url": "https://tourism.bohol.gov.ph/visitbohol-anda/",
+          "checkedOn": "2026-10-21",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photo": null,
+      "photoGap": "No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+      "videos": [
+        "https://www.youtube.com/watch?v=u6GxphZ43k8",
+        "https://www.youtube.com/watch?v=O0gTM14oq8c"
+      ],
+      "rejectedVideos": [],
+      "notes": [
+        "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results."
+      ]
+    },
+    {
+      "placeId": "bohol-cabagnow-cave-pool",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Bohol Provincial Tourism - Anda",
+          "url": "https://tourism.bohol.gov.ph/visitbohol-anda/",
+          "checkedOn": "2026-10-21",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photo": null,
+      "photoGap": "No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+      "videos": [
+        "https://www.youtube.com/watch?v=pABSS4NNAP4",
+        "https://www.youtube.com/watch?v=EuTeumag3G4"
+      ],
+      "rejectedVideos": [],
+      "notes": [
+        "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results."
+      ]
+    },
+    {
+      "placeId": "bohol-danao-adventure-park",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Bohol Provincial Tourism - Danao",
+          "url": "https://tourism.bohol.gov.ph/visitbohol-danao/",
+          "checkedOn": "2026-10-21",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Danao_Adventure_Park.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Danao_Adventure_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "Boholmission",
+        "license": "CC BY-SA 3.0"
+      },
+      "photoGap": null,
+      "videos": [
+        "https://www.youtube.com/watch?v=4e8ftXyRakE",
+        "https://www.youtube.com/watch?v=wVotYgrWCqY"
+      ],
+      "rejectedVideos": [],
+      "notes": []
+    },
+    {
+      "placeId": "bohol-edith-grand-garden",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Municipality of Baclayon - tourism",
+          "url": "https://baclayon.bohol.gov.ph/tourism/",
+          "checkedOn": "2026-10-21",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photo": null,
+      "photoGap": "No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+      "videos": [
+        "https://www.youtube.com/watch?v=IpwT9HXkbMI"
+      ],
+      "rejectedVideos": [
+        {
+          "videoId": "QVYzWMMBInM",
+          "reason": "HTTP 401: https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DQVYzWMMBInM&format=json"
+        }
+      ],
+      "notes": [
+        "A disability-travel video title was not treated as a verified accessibility claim.",
+        "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+        "Video QVYzWMMBInM: HTTP 401: https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DQVYzWMMBInM&format=json"
+      ]
+    },
+    {
+      "placeId": "bohol-saffron-restaurant",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Amorita Resort - Saffron menu",
+          "url": "https://www.amoritaresort.com/saffron-menu",
+          "checkedOn": "2026-10-21",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photo": null,
+      "photoGap": "No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+      "videos": [
+        "https://www.youtube.com/watch?v=6gPbIAlFDHo"
+      ],
+      "rejectedVideos": [
+        {
+          "videoId": "D55jovOV_jE",
+          "reason": "Official source does not currently confirm a playable, embeddable video with an accessible description"
+        }
+      ],
+      "notes": [
+        "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+        "Video D55jovOV_jE: Official source does not currently confirm a playable, embeddable video with an accessible description"
+      ]
+    },
+    {
+      "placeId": "bohol-latavola-restaurant",
+      "description": "limited-evidence",
+      "sources": [
+        {
+          "name": "Panglao Tourism - Latavola",
+          "url": "https://www.panglaotourism.com/directory/latavola-italian-restaurant/",
+          "checkedOn": "2026-10-21",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photo": null,
+      "photoGap": "No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+      "videos": [],
+      "rejectedVideos": [],
+      "notes": [
+        "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+        "Video gap: Reviewed results did not establish an exact Latavola visit; a Boracay pizza restaurant and broad Panglao food guides were rejected."
+      ]
+    },
+    {
+      "placeId": "bohol-prawn-farm-bolod",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Panglao Tourism - The Prawn Farm",
+          "url": "https://www.panglaotourism.com/directory/the-prawn-farm-grill-and-seafoods/",
+          "checkedOn": "2026-10-21",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photo": null,
+      "photoGap": "No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+      "videos": [
+        "https://www.youtube.com/watch?v=c_T0EfII6MI"
+      ],
+      "rejectedVideos": [],
+      "notes": [
+        "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+        "Video gap: Other results concerned or did not exclude the Tagbilaran mall branch."
+      ]
+    },
+    {
+      "placeId": "batanes-basco-cathedral",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Wikipedia — Basco Cathedral",
+          "url": "https://en.wikipedia.org/wiki/Basco_Cathedral",
+          "checkedOn": "2026-10-22",
+          "supports": "Reviewed place identity, municipality and the specific descriptive facts in this overview."
+        }
+      ],
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Basco_Cathedral_viewed_from_afar.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/d/df/Basco_Cathedral_viewed_from_afar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "Lightningscale",
+        "license": "CC BY 4.0"
+      },
+      "photoGap": null,
+      "videos": [],
+      "rejectedVideos": [],
+      "notes": [
+        "Video gap: Initial results were broad town tours or multi-church compilations without an established exact segment."
+      ]
+    },
+    {
+      "placeId": "batanes-valugan-boulder-beach",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Batanes Provincial Heritage and Tourism Office - tourism map",
+          "url": "https://breathtakingbatanes.com/maps/",
+          "checkedOn": "2026-10-21",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Valugan_Boulder_Beach,_North_Batan,_Batanes.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/7/76/Valugan_Boulder_Beach%2C_North_Batan%2C_Batanes.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "Jeremy.alinea",
+        "license": "CC BY-SA 4.0"
+      },
+      "photoGap": null,
+      "videos": [
+        "https://www.youtube.com/watch?v=GoE_e32lng8"
+      ],
+      "rejectedVideos": [
+        {
+          "videoId": "Ijp3twM_-2E",
+          "reason": "Official source does not currently confirm a playable, embeddable video with an accessible description"
+        }
+      ],
+      "notes": [
+        "Video Ijp3twM_-2E: Official source does not currently confirm a playable, embeddable video with an accessible description"
+      ]
+    },
+    {
+      "placeId": "batanes-vayang-rolling-hills",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Batanes Provincial Heritage and Tourism Office - tourism map",
+          "url": "https://breathtakingbatanes.com/maps/",
+          "checkedOn": "2026-10-21",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Vayang_Rolling_Hills,_Basco,_Batanes.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Vayang_Rolling_Hills%2C_Basco%2C_Batanes.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "Tim Villanueva",
+        "license": "CC BY-SA 4.0"
+      },
+      "photoGap": null,
+      "videos": [
+        "https://www.youtube.com/watch?v=OYya6pMu1GU",
+        "https://www.youtube.com/watch?v=6TcyrPFrarU"
+      ],
+      "rejectedVideos": [],
+      "notes": []
+    },
+    {
+      "placeId": "batanes-tukon-chapel",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Wikipedia — Tukon Chapel",
+          "url": "https://en.wikipedia.org/wiki/Tukon_Chapel",
+          "checkedOn": "2026-10-22",
+          "supports": "Reviewed place identity, municipality and the specific descriptive facts in this overview."
+        }
+      ],
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Tukon_Chapel.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/8/84/Tukon_Chapel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "CharMel Creations",
+        "license": "CC BY-SA 4.0"
+      },
+      "photoGap": null,
+      "videos": [
+        "https://www.youtube.com/watch?v=DFaNvoZydKo",
+        "https://www.youtube.com/watch?v=cjdxQ0-Qwoc"
+      ],
+      "rejectedVideos": [],
+      "notes": []
+    },
+    {
+      "placeId": "batanes-dipnaysupuan-tunnel",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Batanes Provincial Heritage and Tourism Office - tourism map",
+          "url": "https://breathtakingbatanes.com/maps/",
+          "checkedOn": "2026-10-21",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photo": null,
+      "photoGap": "No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+      "videos": [
+        "https://www.youtube.com/watch?v=MS5-Jt7vn4k"
+      ],
+      "rejectedVideos": [
+        {
+          "videoId": "e3BdMMdRMUA",
+          "reason": "Official source does not currently confirm a playable, embeddable video with an accessible description"
+        }
+      ],
+      "notes": [
+        "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+        "Video e3BdMMdRMUA: Official source does not currently confirm a playable, embeddable video with an accessible description"
+      ]
+    }
+  ]
+}

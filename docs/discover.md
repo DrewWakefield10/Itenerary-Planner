@@ -28,17 +28,17 @@ Initial thresholds are a preceding-week baseline of **700** human-reader pagevie
 
 ## Free refresh, deployment, and storage
 
-Inspected setup: `vercel.json` selects native Next.js; the repo also retains its Sites/Vinext build. Trips are browser-local, `.openai/hosting.json` has no D1/R2 bindings, and no linked `.vercel` project, shared cache/storage credentials, or cron configuration was present. Account-level Vercel usage/quotas could not be inspected from this checkout. This release adds no service subscription, database, billing activation, dependency, cron, or framework/deployment change.
+`vercel.json` selects native Next.js; the repo also retains its Sites/Vinext build. Browser drafts remain local; the existing Google accounts save private trips and bookmarks through Turso on Vercel (see [accounts](accounts.md)). The readership snapshot is a separate checked-in file and does not use the account database. This Discover update adds no trend-source integration, paid API, database requirement, or cron configuration.
 
 Use the practical **manual publication snapshot** workflow:
 
-1. Run `npm run refresh:discover` locally (at most once daily). It computes data automatically; normal builds and visitors never call Wikimedia. No Wikimedia account, token, paid API, or billing setup is needed.
+1. Run `npx tsx scripts/refresh-discovery.ts` locally (at most once daily). It computes data automatically; normal builds and visitors never call Wikimedia. No Wikimedia account, token, paid API, or billing setup is needed.
 2. Inspect `lib/discovery-interest-snapshot.json`. The script atomically updates the local file and preserves each record's last successful values and timestamps on failure. Partial successes keep their actual individual coverage. Review any mapping errors before changing articles.
 3. Run tests/type checks/build, then commit and redeploy normally. This checked-in file is the durable shared snapshot on both hosts. Local/serverless filesystem writes are not used for runtime persistence. Published snapshots do not change until the next deployment.
 
 `/api/discovery` is read-only and serves only the publication snapshot with shared CDN caching (`s-maxage=3600`, stale-while-revalidate 3600; browser max-age 300). The browser checks freshness even when a cached response was once fresh. No per-card or per-visitor Wikimedia requests occur. No live snapshot means reviewed places plus an unavailable-data explanation. Test fixtures never enter the snapshot.
 
-Requests are serial with a 400 ms gap, eight-second timeouts, a maximum of 24 requests per refresh, and at most one retry for HTTP 429/503 when the wait is at most five seconds. Longer `Retry-After` pauses the batch and is persisted; a retry cannot bypass it. Failed attempts are timestamped and the normal daily guard also applies to them. `npm run refresh:discover -- --force` explicitly bypasses the daily guard for maintenance, but never an upstream cooldown. Do not use it as a loop.
+Requests are serial with a 400 ms gap, eight-second timeouts, a maximum of 24 requests per refresh, and at most one retry for HTTP 429/503 when the wait is at most five seconds. Longer `Retry-After` pauses the batch and is persisted; a retry cannot bypass it. Failed attempts are timestamped and the normal daily guard also applies to them. `npx tsx scripts/refresh-discovery.ts --force` explicitly bypasses the daily guard for maintenance, but never an upstream cooldown. Do not use it as a loop.
 
 Optional local environment variables: `WIKIMEDIA_USER_AGENT` for an identifying client name/version plus a real contact URL/email; the default identifies LakbayDiscoveryBot and its Site URL. Threshold overrides are `DISCOVER_MIN_BASELINE`, `DISCOVER_MIN_GROWTH`, `DISCOVER_MIN_PERCENT`, and `DISCOVER_FRESHNESS_HOURS`; validated values are recorded in the snapshot, so displayed methodology matches calculations. Authentication or Google Trends approval is not needed. A future free scheduled refresh can use a reviewed existing job runner to update/commit this file, but none is assumed or configured here.
 

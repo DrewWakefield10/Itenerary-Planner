@@ -1,0 +1,668 @@
+{
+  "batchId": "batch-001",
+  "checkedOn": "2026-10-22",
+  "places": 25,
+  "outcomes": [
+    {
+      "placeId": "iloilo-iloilo-river-esplanade",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Wikipedia — Iloilo River Esplanade",
+          "url": "https://en.wikipedia.org/wiki/Iloilo_River_Esplanade",
+          "checkedOn": "2026-10-22",
+          "supports": "Reviewed place identity, municipality and the specific descriptive facts in this overview."
+        }
+      ],
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Iloilo_River_Esplanade_I.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Iloilo_River_Esplanade_I.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "Johngaje92",
+        "license": "CC BY-SA 4.0"
+      },
+      "photoGap": null,
+      "videos": [
+        "https://www.youtube.com/watch?v=j-jsWl_6hl8"
+      ],
+      "rejectedVideos": [],
+      "notes": [
+        "Original government PDF returned HTTP 403; new descriptive facts use the reviewed article. Only one clearly relevant video selected from this search."
+      ]
+    },
+    {
+      "placeId": "iloilo-molo-mansion",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Wikipedia — Molo Mansion",
+          "url": "https://en.wikipedia.org/wiki/Molo_Mansion",
+          "checkedOn": "2026-10-22",
+          "supports": "Reviewed place identity, municipality and the specific descriptive facts in this overview."
+        }
+      ],
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Iloilo_Molo_Mansion.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Iloilo_Molo_Mansion.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "Herbertkikoy",
+        "license": "CC BY-SA 4.0"
+      },
+      "photoGap": null,
+      "videos": [
+        "https://www.youtube.com/watch?v=QOoT9yHrtn0",
+        "https://www.youtube.com/watch?v=89LwlZ3WvJY"
+      ],
+      "rejectedVideos": [],
+      "notes": [
+        "Original city planning PDF URL returned HTTP 404; the identity and architectural overview were checked against the exact house article."
+      ]
+    },
+    {
+      "placeId": "iloilo-national-museum-western-visayas",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Wikipedia — National Museum of the Philippines – Iloilo",
+          "url": "https://en.wikipedia.org/wiki/National_Museum_of_the_Philippines_%E2%80%93_Iloilo",
+          "checkedOn": "2026-10-22",
+          "supports": "Reviewed place identity, municipality and the specific descriptive facts in this overview."
+        }
+      ],
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:National_Museum_of_the_Philippines_in_Western_Visayas.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b0/National_Museum_of_the_Philippines_in_Western_Visayas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "Johngaje92",
+        "license": "CC BY-SA 4.0"
+      },
+      "photoGap": null,
+      "videos": [
+        "https://www.youtube.com/watch?v=za-lOqlHsNk",
+        "https://www.youtube.com/watch?v=aOkLD65N_Q4"
+      ],
+      "rejectedVideos": [],
+      "notes": [
+        "Do not repeat the article’s potentially outdated statement about ownership of the Old Jaro Municipal Hall. Current exhibition and admission details are not verified by these videos."
+      ]
+    },
+    {
+      "placeId": "iloilo-casa-real",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Wikipedia — Casa Real de Iloilo",
+          "url": "https://en.wikipedia.org/wiki/Casa_Real_de_Iloilo",
+          "checkedOn": "2026-10-22",
+          "supports": "Reviewed place identity, municipality and the specific descriptive facts in this overview."
+        }
+      ],
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Casa_Real_de_Iloilo_(Royal_House_of_Iloilo).jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/3/37/Casa_Real_de_Iloilo_%28Royal_House_of_Iloilo%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "Johngaje92",
+        "license": "CC BY-SA 4.0"
+      },
+      "photoGap": null,
+      "videos": [
+        "https://www.youtube.com/watch?v=iNkiZidzrXg"
+      ],
+      "rejectedVideos": [
+        {
+          "videoId": "aMb4kjXlH4w",
+          "reason": "Official source does not currently confirm a playable, embeddable video with an accessible description"
+        }
+      ],
+      "notes": [
+        "The original provincial website timed out. No current interior-access claim is made.",
+        "Video aMb4kjXlH4w: Official source does not currently confirm a playable, embeddable video with an accessible description"
+      ]
+    },
+    {
+      "placeId": "iloilo-jaro-cathedral",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Wikipedia — Jaro Cathedral",
+          "url": "https://en.wikipedia.org/wiki/Jaro_Cathedral",
+          "checkedOn": "2026-10-22",
+          "supports": "Reviewed place identity, municipality and the specific descriptive facts in this overview."
+        }
+      ],
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Jaro_Cathedral_(Catedral_de_Jaro)_(cropped).jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Jaro_Cathedral_%28Catedral_de_Jaro%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "Johngaje92",
+        "license": "CC BY-SA 4.0"
+      },
+      "photoGap": null,
+      "videos": [
+        "https://www.youtube.com/watch?v=mCGJlJENm6M",
+        "https://www.youtube.com/watch?v=6mfq8RwhCvc"
+      ],
+      "rejectedVideos": [],
+      "notes": [
+        "Do not infer current service times, admission or accessibility from recordings."
+      ]
+    },
+    {
+      "placeId": "iloilo-calle-real",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Wikipedia — Calle Real, Iloilo",
+          "url": "https://en.wikipedia.org/wiki/Calle_Real%2C_Iloilo",
+          "checkedOn": "2026-10-22",
+          "supports": "Reviewed place identity, municipality and the specific descriptive facts in this overview."
+        }
+      ],
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Legacy_of_Eusebio_Villanueva_Building.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Legacy_of_Eusebio_Villanueva_Building.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "Lenseyephotography",
+        "license": "CC BY-SA 4.0"
+      },
+      "photoGap": null,
+      "videos": [
+        "https://www.youtube.com/watch?v=zJwDGhmRhQY",
+        "https://www.youtube.com/watch?v=Gx0cocIngvM"
+      ],
+      "rejectedVideos": [],
+      "notes": [
+        "Corrected the research candidate to Calle Real, Iloilo; did not use the unrelated citywide article as the place’s identity."
+      ]
+    },
+    {
+      "placeId": "iloilo-baking-studio-theos",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Baking Studio by Theo’s — official North Grove page",
+          "url": "https://www.theosrestaurantandbakery.com/bakingstudiobytheos",
+          "checkedOn": "2026-10-22",
+          "supports": "North Grove address, combined restaurant/bakery concept and specialty coffee."
+        }
+      ],
+      "photo": null,
+      "photoGap": "No exact-branch Commons photograph found in the reviewed name-and-municipality search; official website photos have no established reuse permission.",
+      "videos": [
+        "https://www.youtube.com/watch?v=Y1CGBqHp8GI"
+      ],
+      "rejectedVideos": [],
+      "notes": [
+        "Kept branch identity explicit. One exact-branch video selected; broader Theo’s videos were not used as substitutes.",
+        "Photo gap: No exact-branch Commons photograph found in the reviewed name-and-municipality search; official website photos have no established reuse permission."
+      ]
+    },
+    {
+      "placeId": "iloilo-biscocho-haus",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Original Biscocho Haus — official Jaro store reference",
+          "url": "https://biscochohaus.com/",
+          "checkedOn": "2026-10-21",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photo": null,
+      "photoGap": "No reusable, exact-Jaro-branch image identified in the reviewed Commons search.",
+      "videos": [],
+      "rejectedVideos": [],
+      "notes": [
+        "Official website timed out; identity and municipality retain their prior catalog review date. Brief factual description retained without adding unsupported business history.",
+        "Photo gap: No reusable, exact-Jaro-branch image identified in the reviewed Commons search.",
+        "Video gap: Search results identify the brand or multiple stops, but this review did not establish an exact Jaro-branch match from the accessible source descriptions."
+      ]
+    },
+    {
+      "placeId": "iloilo-economic-history-museum",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Wikipedia — Museum of Philippine Economic History",
+          "url": "https://en.wikipedia.org/wiki/Museum_of_Philippine_Economic_History",
+          "checkedOn": "2026-10-22",
+          "supports": "Reviewed place identity, municipality and the specific descriptive facts in this overview."
+        }
+      ],
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Edificio_de_Ynchausti_y_Compa%C3%B1ia.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Edificio_de_Ynchausti_y_Compa%C3%B1ia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "Johngaje92",
+        "license": "CC BY-SA 4.0"
+      },
+      "photoGap": null,
+      "videos": [
+        "https://www.youtube.com/watch?v=V95HIyFi-D0",
+        "https://www.youtube.com/watch?v=-t-PvViAgYk"
+      ],
+      "rejectedVideos": [],
+      "notes": [
+        "Preferred institutional video creators over generic travel compilations."
+      ]
+    },
+    {
+      "placeId": "iloilo-san-joaquin-church",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Wikipedia — San Joaquin Church (Iloilo)",
+          "url": "https://en.wikipedia.org/wiki/San_Joaquin_Church_(Iloilo)",
+          "checkedOn": "2026-10-22",
+          "supports": "Reviewed place identity, municipality and the specific descriptive facts in this overview."
+        }
+      ],
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:San_Joaquin_Church,_Iloilo,_Aug_2024_(3).jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ea/San_Joaquin_Church%2C_Iloilo%2C_Aug_2024_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "Ralff Nestor Nacor",
+        "license": "CC BY-SA 4.0"
+      },
+      "photoGap": null,
+      "videos": [
+        "https://www.youtube.com/watch?v=L-Y6sSEcGg4",
+        "https://www.youtube.com/watch?v=VzCRZTpywO8"
+      ],
+      "rejectedVideos": [],
+      "notes": [
+        "Rejected the disambiguation page and used San Joaquin Church (Iloilo)."
+      ]
+    },
+    {
+      "placeId": "iloilo-bucari-pine-forest",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Philippine News Agency — Bucari Pine Forest, Leon",
+          "url": "https://www.pna.gov.ph/articles/1066964",
+          "checkedOn": "2026-10-21",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photo": null,
+      "photoGap": "Rejected a general Bucari scenery image because it did not establish the exact pine-forest site.",
+      "videos": [
+        "https://www.youtube.com/watch?v=sVrVQiQ-3Zs",
+        "https://www.youtube.com/watch?v=JwvG8AlJ8Y8"
+      ],
+      "rejectedVideos": [],
+      "notes": [
+        "Original PNA page returned HTTP 404. Kept the forest identity from prior reviewed catalog data; did not convert a barangay-wide Wikipedia article into exact-site verification.",
+        "Photo gap: Rejected a general Bucari scenery image because it did not establish the exact pine-forest site."
+      ]
+    },
+    {
+      "placeId": "iloilo-museo-iloilo",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Wikipedia — Museo Iloilo",
+          "url": "https://en.wikipedia.org/wiki/Museo_Iloilo",
+          "checkedOn": "2026-10-22",
+          "supports": "Reviewed place identity, municipality and the specific descriptive facts in this overview."
+        }
+      ],
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Museo_Iloilo.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Museo_Iloilo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "Johngaje92",
+        "license": "CC0"
+      },
+      "photoGap": null,
+      "videos": [
+        "https://www.youtube.com/watch?v=YbCCaWgp_XM",
+        "https://www.youtube.com/watch?v=Knsb9WPHz_0"
+      ],
+      "rejectedVideos": [],
+      "notes": [
+        "No current exhibition list or opening-hour claim added."
+      ]
+    },
+    {
+      "placeId": "iloilo-festive-walk-mall",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Wikipedia — Festive Walk Mall",
+          "url": "https://en.wikipedia.org/wiki/Festive_Walk_Mall",
+          "checkedOn": "2026-10-22",
+          "supports": "Reviewed place identity, municipality and the specific descriptive facts in this overview."
+        }
+      ],
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Festive_Walk_Mall_skybridge,_Iloilo_City_2026-03-27.jpeg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Festive_Walk_Mall_skybridge%2C_Iloilo_City_2026-03-27.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "BlockatePollop2",
+        "license": "CC BY-SA 4.0"
+      },
+      "photoGap": null,
+      "videos": [
+        "https://www.youtube.com/watch?v=nhBj1LFChjQ",
+        "https://www.youtube.com/watch?v=UNXztO6Q8m8"
+      ],
+      "rejectedVideos": [],
+      "notes": [
+        "Mall identity does not verify any particular tenant or event."
+      ]
+    },
+    {
+      "placeId": "iloilo-ilomoca",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Wikipedia — Iloilo Museum of Contemporary Art",
+          "url": "https://en.wikipedia.org/wiki/Iloilo_Museum_of_Contemporary_Art",
+          "checkedOn": "2026-10-22",
+          "supports": "Reviewed place identity, municipality and the specific descriptive facts in this overview."
+        }
+      ],
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Casa_De_Emperador_(Megaworld_Boulevard,_Mandurriao,_Iloilo_City;_10-22-2022).jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Casa_De_Emperador_%28Megaworld_Boulevard%2C_Mandurriao%2C_Iloilo_City%3B_10-22-2022%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "Patrickroque01",
+        "license": "CC BY-SA 4.0"
+      },
+      "photoGap": null,
+      "videos": [
+        "https://www.youtube.com/watch?v=R_dDf4bRq_s",
+        "https://www.youtube.com/watch?v=MSsTCHEJeoY"
+      ],
+      "rejectedVideos": [],
+      "notes": [
+        "The photograph depicts the museum’s building exterior, not a claim about current exhibitions."
+      ]
+    },
+    {
+      "placeId": "iloilo-brandy-museum",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Wikipedia — Brandy Museum (Philippines)",
+          "url": "https://en.wikipedia.org/wiki/Brandy_Museum_(Philippines)",
+          "checkedOn": "2026-10-22",
+          "supports": "Reviewed place identity, municipality and the specific descriptive facts in this overview."
+        }
+      ],
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Brandy_Museum_exhibit_2.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Brandy_Museum_exhibit_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "A.C.T. Alejandre",
+        "license": "CC BY-SA 4.0"
+      },
+      "photoGap": null,
+      "videos": [
+        "https://www.youtube.com/watch?v=LlxDLR1q534",
+        "https://www.youtube.com/watch?v=AtFtUD35CsY"
+      ],
+      "rejectedVideos": [],
+      "notes": [
+        "No tasting, age-policy or current retail claim inferred from recordings."
+      ]
+    },
+    {
+      "placeId": "iloilo-camina-balay-nga-bato",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Wikipedia — Camiña Balay Nga Bato",
+          "url": "https://en.wikipedia.org/wiki/Cami%C3%B1a_Balay_Nga_Bato",
+          "checkedOn": "2026-10-22",
+          "supports": "Reviewed place identity, municipality and the specific descriptive facts in this overview."
+        }
+      ],
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Cami%C3%B1a_Balay_nga_Bato_22.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Cami%C3%B1a_Balay_nga_Bato_22.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "Herbertkikoy",
+        "license": "CC BY-SA 4.0"
+      },
+      "photoGap": null,
+      "videos": [
+        "https://www.youtube.com/watch?v=tk49fqRwm_4",
+        "https://www.youtube.com/watch?v=RaCdWaKpiGs"
+      ],
+      "rejectedVideos": [],
+      "notes": [
+        "Did not treat video food experiences as current inclusions or prices."
+      ]
+    },
+    {
+      "placeId": "iloilo-breakthrough-villa",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Breakthrough Restaurants - main restaurant",
+          "url": "https://breakthroughrestaurants.com/breakthrough-2/",
+          "checkedOn": "2026-10-21",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photo": null,
+      "photoGap": "No exact-Villa-branch photograph with documented reuse rights was identified in the reviewed Commons search.",
+      "videos": [
+        "https://www.youtube.com/watch?v=hHYo0gQxr6E",
+        "https://www.youtube.com/watch?v=nih_fs31-l8"
+      ],
+      "rejectedVideos": [],
+      "notes": [
+        "Preserved the exact branch distinction; no menu prices or current service guarantees added.",
+        "Photo gap: No exact-Villa-branch photograph with documented reuse rights was identified in the reviewed Commons search."
+      ]
+    },
+    {
+      "placeId": "iloilo-dapli-valeria",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Dapli by Breakthrough — official restaurant page",
+          "url": "https://breakthroughrestaurants.com/dapli-2/",
+          "checkedOn": "2026-10-22",
+          "supports": "Valeria Street branch, meaning of dapli, described dishes and menu price caveat."
+        }
+      ],
+      "photo": null,
+      "photoGap": "No exact-branch reusable photograph identified; official menu and venue photographs lack established reuse permission.",
+      "videos": [],
+      "rejectedVideos": [],
+      "notes": [
+        "Fresh official-source description; no unsupported branch video inserted.",
+        "Photo gap: No exact-branch reusable photograph identified; official menu and venue photographs lack established reuse permission.",
+        "Video gap: The twelve reviewed search results did not establish a Dapli Valeria Street visit; unrelated Breakthrough branches were rejected."
+      ]
+    },
+    {
+      "placeId": "iloilo-ponsyon-plazuela",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Breakthrough Restaurants - Ponsyon",
+          "url": "https://breakthroughrestaurants.com/ponsyon-2/",
+          "checkedOn": "2026-10-21",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photo": null,
+      "photoGap": "No exact-Plazuela-branch photograph with documented reuse rights identified in the reviewed Commons search.",
+      "videos": [
+        "https://www.youtube.com/watch?v=ym2z1QwX1yY"
+      ],
+      "rejectedVideos": [],
+      "notes": [
+        "Retained the existing reviewed Plazuela identity; rejected videos of the Villa branch.",
+        "Photo gap: No exact-Plazuela-branch photograph with documented reuse rights identified in the reviewed Commons search."
+      ]
+    },
+    {
+      "placeId": "iloilo-san-joaquin-cemetery",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Iloilo Provincial Government - first district",
+          "url": "https://www.iloilo.gov.ph/1st-district",
+          "checkedOn": "2026-10-21",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:San_Joaquin_Cemetery_Chapel_cropped.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f7/San_Joaquin_Cemetery_Chapel_cropped.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "Rabosajr",
+        "license": "CC BY-SA 4.0"
+      },
+      "photoGap": null,
+      "videos": [
+        "https://www.youtube.com/watch?v=wrZDYhx4ndA",
+        "https://www.youtube.com/watch?v=3_XKjmP-wd8"
+      ],
+      "rejectedVideos": [],
+      "notes": [
+        "Original provincial source timed out; retained the prior reviewed hexagonal-chapel description without adding new historical claims."
+      ]
+    },
+    {
+      "placeId": "iloilo-tigbauan-church",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Wikipedia — Tigbauan Church",
+          "url": "https://en.wikipedia.org/wiki/Tigbauan_Church",
+          "checkedOn": "2026-10-22",
+          "supports": "Reviewed place identity, municipality and the specific descriptive facts in this overview."
+        }
+      ],
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Tigbauan_Church_(Allera_Street,_Tigbauan,_Iloilo;_01-26-2023).jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Tigbauan_Church_%28Allera_Street%2C_Tigbauan%2C_Iloilo%3B_01-26-2023%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "Patrickroque01",
+        "license": "CC BY-SA 4.0"
+      },
+      "photoGap": null,
+      "videos": [],
+      "rejectedVideos": [
+        {
+          "videoId": "Iw9yxG4vsRI",
+          "reason": "Official source does not currently confirm a playable, embeddable video with an accessible description"
+        },
+        {
+          "videoId": "pnmKvybaTIk",
+          "reason": "Official source does not currently confirm a playable, embeddable video with an accessible description"
+        }
+      ],
+      "notes": [
+        "Used the exact Tigbauan Church article, not an unrelated similarly named parish.",
+        "Video Iw9yxG4vsRI: Official source does not currently confirm a playable, embeddable video with an accessible description",
+        "Video pnmKvybaTIk: Official source does not currently confirm a playable, embeddable video with an accessible description"
+      ]
+    },
+    {
+      "placeId": "iloilo-taytay-tigre",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Iloilo Provincial Government - first district",
+          "url": "https://www.iloilo.gov.ph/1st-district",
+          "checkedOn": "2026-10-21",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photo": null,
+      "photoGap": "No exact-bridge reusable photo identified in the reviewed Commons search.",
+      "videos": [],
+      "rejectedVideos": [],
+      "notes": [
+        "Brief description retained from previously reviewed catalog evidence; source access was unavailable.",
+        "Photo gap: No exact-bridge reusable photo identified in the reviewed Commons search.",
+        "Video gap: Wider Guimbal videos did not provide an established bridge segment or verified start timestamp."
+      ]
+    },
+    {
+      "placeId": "iloilo-taytay-boni",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Municipality of Miagao — Puente de Boni",
+          "url": "https://www.miagao.gov.ph/about-miagao/miagao-history/puente-de-boni/",
+          "checkedOn": "2026-10-22",
+          "supports": "Official municipal history: 1854 construction, name, carriage use, stone material and distinctive posts."
+        }
+      ],
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Taytay_Boni.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Taytay_Boni.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "A.C.T. Alejandre",
+        "license": "CC BY-SA 4.0"
+      },
+      "photoGap": null,
+      "videos": [
+        "https://www.youtube.com/watch?v=gJ12bK5BzwA"
+      ],
+      "rejectedVideos": [
+        {
+          "videoId": "6GrYjxbrmtM",
+          "reason": "Official source does not currently confirm a playable, embeddable video with an accessible description"
+        }
+      ],
+      "notes": [
+        "Kept the reviewed bridge identity; no unsupported precise date or road-access claim added.",
+        "Video 6GrYjxbrmtM: Official source does not currently confirm a playable, embeddable video with an accessible description"
+      ]
+    },
+    {
+      "placeId": "iloilo-santa-barbara-church",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Iloilo Provincial Government - Santa Barbara convent",
+          "url": "https://www.iloilo.gov.ph/en/culture-news/php-2-m-sta-barbara-convent",
+          "checkedOn": "2026-10-21",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Santa_Barbara_Parish_Church_and_Convent_(Rizal_Street,_Santa_Barbara,_Iloilo;_10-20-2022).jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/7/76/Santa_Barbara_Parish_Church_and_Convent_%28Rizal_Street%2C_Santa_Barbara%2C_Iloilo%3B_10-20-2022%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "Patrickroque01",
+        "license": "CC BY-SA 4.0"
+      },
+      "photoGap": null,
+      "videos": [
+        "https://www.youtube.com/watch?v=CXgpOTZqGyU"
+      ],
+      "rejectedVideos": [
+        {
+          "videoId": "0qNwJ97fA3k",
+          "reason": "Official source does not currently confirm a playable, embeddable video with an accessible description"
+        }
+      ],
+      "notes": [
+        "No use of unrelated Santa Barbara search results or foreign church images.",
+        "Video 0qNwJ97fA3k: Official source does not currently confirm a playable, embeddable video with an accessible description"
+      ]
+    },
+    {
+      "placeId": "iloilo-janiuay-cemetery",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "National Museum - Janiuay Cemetery site plan",
+          "url": "https://weblinks.nationalmuseum.gov.ph/wp-content/uploads/2024/07/22094948/Bidding-Documents-Janiuay-Cemetery-and-Cabatuan-Cemetery.pdf",
+          "checkedOn": "2026-10-21",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Janiuay_Cemetery.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Janiuay_Cemetery.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "Mhlayson",
+        "license": "CC BY-SA 4.0"
+      },
+      "photoGap": null,
+      "videos": [
+        "https://www.youtube.com/watch?v=dhnpqw72hMU",
+        "https://www.youtube.com/watch?v=MgM5lMflx5w"
+      ],
+      "rejectedVideos": [],
+      "notes": [
+        "Retained the National Museum conservation-document reference and separate cemetery identity."
+      ]
+    }
+  ]
+}

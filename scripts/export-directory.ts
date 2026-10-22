@@ -10,8 +10,9 @@ import {
   destinationGroups,
 } from "../lib/catalog/directory";
 import { directoryCandidateSchema } from "../lib/catalog/directory-schema";
-import { destination, selectableDestinations } from "../lib/destinations";
+import { selectableDestinations } from "../lib/destinations";
 import { discoveryPlace } from "../lib/discovery";
+import {placeContent,placeContents,videosForPlace} from "../lib/catalog/place-content";
 import { normalizePlaceName } from "../lib/catalog/identity";
 
 const ids = new Set<string>(),
@@ -57,6 +58,12 @@ const accepted = directoryListings.map((p) => {
     slug:p.slug||p.id,
     aliases:p.aliases||[],
     image: discoveryPlace(p.id)?.image || null,
+    card_summary:placeContent(p.id)?.summary||p.description,
+    overview:placeContent(p.id)?.overview||[],
+    highlights:placeContent(p.id)?.highlights||[],
+    visiting_tips:placeContent(p.id)?.tips||[],
+    content_sources:placeContent(p.id)?.sources||[],
+    videos:videosForPlace(p.id),
     practical: stop
       ? {
           estimated_visit_minutes: stop.minutes,
@@ -95,6 +102,17 @@ const json = (p: string, value: unknown) =>
   writeFile(p, JSON.stringify(value, null, 2) + "\n", "utf8");
 await json("public/data/lakbay-candidates.json", directoryCandidates);
 await json("public/data/lakbay-locations.json", accepted);
+await writeFile("public/place-image-credits.txt", [
+  "Lakbay place photographs — source, creator and reuse rights",
+  "Optimized copies preserve the original license. Resized and JPEG compressed; card crops are presentation only.",
+  "Existing photographs outside this editorial overlay retain their credits in /image-credits.txt.",
+  "",
+  ...placeContents.filter(p=>p.photo).flatMap(p=>[
+    p.placeId, p.photo!.attribution,
+    `Source: ${p.photo!.sourcePage}`, `Original: ${p.photo!.originalUrl}`,
+    `License: ${p.photo!.licenseUrl}`, `Alt: ${p.photo!.alt}`, "",
+  ]),
+].join("\n"), "utf8");
 await json("public/data/research-progress.json", {
   generated_on: generatedOn,
   scope:
@@ -143,6 +161,12 @@ const columns = [
   "sources",
   "practical",
   "image",
+  "card_summary",
+  "overview",
+  "highlights",
+  "visiting_tips",
+  "content_sources",
+  "videos",
 ] as const;
 const csvCell = (v: unknown) =>
   `"${(v === null || v === undefined ? "" : typeof v === "object" ? JSON.stringify(v) : String(v)).replaceAll('"', '""')}"`;

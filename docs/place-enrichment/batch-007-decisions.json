@@ -1,0 +1,729 @@
+{
+  "batchId": "batch-007",
+  "checkedOn": "2026-10-22",
+  "entries": [
+    {
+      "placeId": "coron-barracuda-lake",
+      "summary": "Barracuda Lake is a lake destination on an operator-listed boat route from Coron, Palawan. Its exact lake name distinguishes it from Kayangan Lake and Twin Lagoon, which are separate stops on wider island excursions.",
+      "overview": [
+        "This listing identifies Barracuda Lake in the Coron visitor area. The operator lists it on a boat-excursion route. Keep the lake’s full name in a booking request, since Kayangan Lake and Twin Lagoon are different attractions with their own access arrangements."
+      ],
+      "highlights": [],
+      "tips": [],
+      "videos": [
+        {
+          "id": "r9W0qQmual8",
+          "relevance": "A Tour B visitor experience explicitly including Barracuda Lake."
+        }
+      ],
+      "photoFile": "Barracuda Lake (Coron, Palawan; 03-17-2024).jpg",
+      "videoGap": "One established lake-inclusive resource selected; broad Coron guides not used as filler.",
+      "sources": [
+        {
+          "name": "I Capture Travel — Coron tour routes",
+          "url": "https://www.corontravel.com/coron",
+          "checkedOn": "2026-10-19",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photoAlt": "Barracuda Lake in Coron"
+    },
+    {
+      "placeId": "coron-twin-lagoon",
+      "summary": "Twin Lagoon is a lagoon destination reached on boat excursions from Coron, Palawan. It is a distinct stop from the island’s named lakes and should be identified separately when checking an excursion route.",
+      "overview": [
+        "This entry concerns Twin Lagoon in the Coron visitor area. The operator includes it on a boat route alongside other separate attractions. Confirm the intended lagoon visit and current arrangements with the operator when choosing an excursion."
+      ],
+      "highlights": [],
+      "tips": [],
+      "videos": [
+        {
+          "id": "WDJXD0KS8f4",
+          "relevance": "A visitor guide explicitly focused on Twin Lagoon in Coron."
+        },
+        {
+          "id": "r9W0qQmual8",
+          "relevance": "A Tour B visitor experience explicitly including Twin Lagoon."
+        }
+      ],
+      "photoFile": "Twin Lagoon, Coron, Palawan.jpg",
+      "sources": [
+        {
+          "name": "I Capture Travel — Coron tour routes",
+          "url": "https://www.corontravel.com/coron",
+          "checkedOn": "2026-10-19",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photoAlt": "Twin Lagoon in Coron"
+    },
+    {
+      "placeId": "palawan-san-vicente-long-beach",
+      "summary": "Long Beach is a mainland shoreline extending across several barangays in San Vicente, Palawan. Its provincial coastal setting is separate from similarly named beaches elsewhere and from Port Barton’s beach in the same municipality.",
+      "overview": [
+        "This listing identifies Long Beach in San Vicente municipality. The long shoreline spans several barangays, so choose the particular section before arranging a pickup or a stay. “San Vicente, Palawan” is important in directions: the short beach name alone can identify unrelated destinations."
+      ],
+      "highlights": [],
+      "tips": [],
+      "videos": [
+        {
+          "id": "yYRfDpHDt1g",
+          "relevance": "A resource explicitly focused on Long Beach and its San Vicente barangays."
+        },
+        {
+          "id": "mXkeLgJykfg",
+          "relevance": "An aerial resource identifying San Vicente’s Long Beach landscape."
+        }
+      ],
+      "notes": [
+        "Rejected California city article and photograph; prior accepted administrative facts retained."
+      ],
+      "sources": [
+        {
+          "name": "Municipal Government of San Vicente — local history and tourism places",
+          "url": "https://sanvicentepalawan.gov.ph/wp-content/uploads/2026/03/San-Vicente-Kasaysayang-Lokal_Final-Edited.pdf",
+          "checkedOn": "2026-10-21",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photoFile": "Long Beach in San Vicente.JPG",
+      "photoAlt": "Coconut-lined Long Beach in San Vicente, Palawan"
+    },
+    {
+      "placeId": "palawan-port-barton-beach",
+      "summary": "Port Barton Beach is the beach at Port Barton’s coastal settlement in San Vicente, Palawan. It is a particular mainland shoreline, separate from Long Beach and from the islands visited on local boat excursions.",
+      "overview": [
+        "Port Barton is a coastal settlement within San Vicente municipality, and this listing concerns its beach. Use the full place and municipal names when arranging travel, since San Vicente’s Long Beach is a different shoreline area. Local island-excursion stops are also separate from the settlement beach."
+      ],
+      "highlights": [],
+      "tips": [],
+      "videos": [
+        {
+          "id": "fOSyK6XG-rc",
+          "relevance": "A visitor guide explicitly identifying Port Barton in San Vicente."
+        }
+      ],
+      "photoFile": "Port Barton, Beach, San Vicente, Palawan, Philippines.jpg",
+      "videoGap": "One settlement-focused guide selected; no unverified start timestamp added.",
+      "sources": [
+        {
+          "name": "Municipal Government of San Vicente — local history and tourism places",
+          "url": "https://sanvicentepalawan.gov.ph/wp-content/uploads/2026/03/San-Vicente-Kasaysayang-Lokal_Final-Edited.pdf",
+          "checkedOn": "2026-10-21",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photoAlt": "Port Barton Beach in San Vicente"
+    },
+    {
+      "placeId": "palawan-fort-santa-isabel",
+      "summary": "Fort Santa Isabel, also called Taytay Fort, is a coastal fortification in Taytay, Palawan. Its surviving fortified setting offers a specific heritage stop, distinct from the beach and island destinations elsewhere in the province.",
+      "overview": [
+        "Fort Santa Isabel is a coastal fortification in the town of Taytay. The alternative name Taytay Fort identifies the same place. Its actual municipality matters when arranging a heritage visit, since it is a separate provincial stop from El Nido and Puerto Princesa."
+      ],
+      "highlights": [],
+      "tips": [],
+      "videos": [
+        {
+          "id": "WIIjPzp_opo",
+          "relevance": "A dedicated walking tour of Fort Santa Isabel in Taytay."
+        },
+        {
+          "id": "EqB35lSUoug",
+          "relevance": "A separate visitor walk at the Taytay fort."
+        }
+      ],
+      "useWiki": true,
+      "sources": [
+        {
+          "name": "Wikipedia — Fort Santa Isabel",
+          "url": "https://en.wikipedia.org/wiki/Fort_Santa_Isabel",
+          "checkedOn": "2026-10-22",
+          "supports": "Reviewed place identity, municipality and the specific descriptive facts in this overview."
+        }
+      ],
+      "photoFile": "Fuerza de Sta. Isabel Taytay.jpg",
+      "photoAlt": "Fort Santa Isabel in Taytay"
+    },
+    {
+      "placeId": "el-nido-nagkalit-kalit-falls",
+      "summary": "Nagkalit-kalit Falls is an inland waterfall identified in El Nido’s tourism inventory. It offers a different natural setting from the municipality’s beaches, lagoons and island stops, with access that needs a separate land-based plan.",
+      "overview": [
+        "The El Nido tourism inventory identifies Nagkalit-kalit Falls as an inland waterfall. This is a separate excursion from Bacuit Bay’s boat routes. Confirm current trail and guide arrangements locally before planning around the falls, since conditions shown in a recorded visit may have changed."
+      ],
+      "highlights": [],
+      "tips": [],
+      "videos": [
+        {
+          "id": "pGeVCBweomU",
+          "relevance": "A separate recorded visit identifying Nagkalit-kalit Falls."
+        }
+      ],
+      "photoGap": "No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+      "sources": [
+        {
+          "name": "PCSD — El Nido municipal tourism inventory",
+          "url": "https://pkp-new.pcsd.gov.ph/wp-content/uploads/2021/02/El-Nido-Planred.pdf",
+          "checkedOn": "2026-10-21",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ]
+    },
+    {
+      "placeId": "puerto-princesa-iwahig-firefly-watching",
+      "summary": "The Iwahig community firefly site is a riverbank destination in Puerto Princesa. The city tourism office identifies a community-run nighttime experience focused on firefly colonies along the Iwahig River.",
+      "overview": [
+        "The city tourism office identifies Iwahig firefly watching with the Iwahig Community Ecotourism Association. The experience concerns firefly colonies along the riverbanks at night. It is a particular community tourism visit rather than a general city waterfront walk; arrange the intended visit with the local operator."
+      ],
+      "highlights": [],
+      "tips": [],
+      "videos": [
+        {
+          "id": "zs73AZIZ4RY",
+          "relevance": "A recorded visitor experience of Iwahig firefly watching."
+        }
+      ],
+      "photoGap": "No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+      "sources": [
+        {
+          "name": "Puerto Princesa City Tourism — community tourism destinations",
+          "url": "https://citytourism.puertoprincesa.ph/cbst-destinations/",
+          "checkedOn": "2026-10-22",
+          "supports": "Official community operator, Iwahig River location and nighttime firefly experience."
+        }
+      ],
+      "notes": [
+        "No guaranteed wildlife sightings or air-quality claims inferred."
+      ]
+    },
+    {
+      "placeId": "puerto-princesa-ugong-rock",
+      "summary": "Ugong Rock is a rock-formation attraction in Barangay Tagabinet, Puerto Princesa. The city describes an ascent with views of surrounding karst mountains and paddy fields, with adventure activities arranged at the site.",
+      "overview": [
+        "The city tourism office identifies Ugong Rock in Barangay Tagabinet. Its description focuses on climbing the rock and looking over karst mountains and surrounding paddy fields. Confirm the current activity and guide arrangements before planning around a particular ascent or zipline experience."
+      ],
+      "highlights": [
+        "Observe the karst-mountain setting.",
+        "Look toward the surrounding paddy fields."
+      ],
+      "tips": [],
+      "videos": [
+        {
+          "id": "WSMCXzI7bLU",
+          "relevance": "A visitor adventure resource explicitly identifying Ugong Rock."
+        },
+        {
+          "id": "KDiRJv75Ebo",
+          "relevance": "A separate recorded visit to Ugong Rock in Puerto Princesa."
+        }
+      ],
+      "photoGap": "No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+      "sources": [
+        {
+          "name": "Puerto Princesa City Tourism — community tourism destinations",
+          "url": "https://citytourism.puertoprincesa.ph/cbst-destinations/",
+          "checkedOn": "2026-10-22",
+          "supports": "Rock formation, Tagabinet setting, karst and paddy-field outlook."
+        }
+      ]
+    },
+    {
+      "placeId": "puerto-princesa-buenavista-viewdeck",
+      "summary": "Buenavista Viewdeck is a Puerto Princesa viewpoint overlooking Ulugan Bay on the city’s midwestern coast. Its bay outlook makes it a specific roadside viewing stop, separate from the underground river excursion.",
+      "overview": [
+        "The city tourism office identifies Buenavista Viewdeck as an outlook over Ulugan Bay. The bay is on Puerto Princesa’s midwestern coast. The particular viewdeck name is useful when arranging a stop, rather than treating the wider bay as a single visitor entrance."
+      ],
+      "highlights": [],
+      "tips": [],
+      "videos": [
+        {
+          "id": "0TUOE-wHxoA",
+          "relevance": "A recorded stop explicitly identifying Buenavista Viewdeck."
+        },
+        {
+          "id": "F-wYNSiIk04",
+          "relevance": "A separate visitor resource about the Puerto Princesa viewdeck."
+        }
+      ],
+      "photoGap": "No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+      "sources": [
+        {
+          "name": "Puerto Princesa City Tourism — community tourism destinations",
+          "url": "https://citytourism.puertoprincesa.ph/cbst-destinations/",
+          "checkedOn": "2026-10-22",
+          "supports": "Official viewpoint identity and Ulugan Bay outlook."
+        }
+      ]
+    },
+    {
+      "placeId": "puerto-princesa-bakers-hill",
+      "summary": "Baker’s Hill combines a bakery, restaurant and landscaped visitor grounds on Mitra Road in Puerto Princesa. The city tourism office highlights its hopia and garden setting, making it both a food and outdoor stop.",
+      "overview": [
+        "Baker’s Hill is on Mitra Road in Barangay Santa Monica. Its bakery identity is associated with hopia, while the visitor grounds include landscaped gardens and a playground. The city tourism office also identifies restaurant facilities. A visit can therefore focus on baked goods or on the garden setting; check the venue’s current information for particular products and dining arrangements."
+      ],
+      "highlights": [
+        "Look for the bakery’s hopia offering.",
+        "Explore the landscaped garden setting."
+      ],
+      "tips": [],
+      "videos": [
+        {
+          "id": "GO_kfdd_0vw",
+          "relevance": "A visitor resource explicitly focused on Baker’s Hill."
+        },
+        {
+          "id": "xYU9jSyn6fY",
+          "relevance": "A walking tour identifying the Baker’s Hill grounds."
+        }
+      ],
+      "photoGap": "No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+      "sources": [
+        {
+          "name": "Puerto Princesa City Tourism — Baker’s Hill",
+          "url": "https://citytourism.puertoprincesa.ph/bakers-hill/",
+          "checkedOn": "2026-10-22",
+          "supports": "Official hopia/bakery identity, restaurant, gardens, playground and Santa Monica address."
+        }
+      ]
+    },
+    {
+      "placeId": "puerto-princesa-balayong-peoples-park",
+      "summary": "Balayong People’s Park is a public recreational and cultural park in Puerto Princesa. Its city-park setting is a separate outdoor destination from the waterfront Baywalk and the historic memorial parks in the center.",
+      "overview": [
+        "This listing identifies Balayong People’s Park in Puerto Princesa. It is a public recreational and cultural park, with its own grounds rather than a general name for the city’s green spaces. Check current local information if planning around a seasonal display or public event."
+      ],
+      "highlights": [],
+      "tips": [],
+      "videos": [
+        {
+          "id": "h1gyexSt06s",
+          "relevance": "A visitor resource explicitly identifying Balayong People’s Park."
+        },
+        {
+          "id": "oZYKd84sOiQ",
+          "relevance": "A recent walking resource at Balayong Park in Puerto Princesa."
+        }
+      ],
+      "photoGap": "No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+      "sources": [
+        {
+          "name": "City Government of Puerto Princesa — Balayong Park",
+          "url": "https://puertoprincesa.ph/balayong-park/",
+          "checkedOn": "2026-10-21",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ]
+    },
+    {
+      "placeId": "el-nido-artcafe",
+      "summary": "El Nido Boutique & Artcafe is a restaurant and bar in El Nido, Palawan, associated with a farm-to-table menu. Its particular venue name identifies a town dining stop, separate from beach and island attractions.",
+      "overview": [
+        "This listing concerns El Nido Boutique & Artcafe and its restaurant-and-bar identity. The accepted operator description centers on a farm-to-table menu. Use the full venue name when checking dining information or arranging a meeting in El Nido town."
+      ],
+      "highlights": [],
+      "tips": [],
+      "videos": [
+        {
+          "id": "tkdKy3TI02I",
+          "relevance": "A virtual-tour resource explicitly identifying El Nido Boutique & Artcafe."
+        },
+        {
+          "id": "iiz7MtUkXFs",
+          "relevance": "A separate visitor recording naming the Artcafe in El Nido town."
+        }
+      ],
+      "photoGap": "No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+      "sources": [
+        {
+          "name": "El Nido Boutique & Artcafe — restaurant",
+          "url": "https://elnidoboutiqueandartcafe.com/artcafe-restuarant/",
+          "checkedOn": "2026-10-21",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ]
+    },
+    {
+      "placeId": "el-nido-trattoria-altrove",
+      "summary": "Trattoria Altrove’s El Nido branch is an Italian restaurant on Calle Hama. Keep the branch and street with the name when planning a meal, since the brand also operates a separate venue in Coron.",
+      "overview": [
+        "This entry identifies Trattoria Altrove on Calle Hama in El Nido. The Italian restaurant is a different branch from Altrove in Coron. Use the El Nido location when comparing visitor videos or making a reservation."
+      ],
+      "highlights": [],
+      "tips": [],
+      "videos": [
+        {
+          "id": "mjZfDUqvHxo",
+          "relevance": "A recorded pizza visit explicitly identifying Altrove in El Nido."
+        },
+        {
+          "id": "FUdtdjYN5nc",
+          "relevance": "A separate visitor resource focused on Altrove Pizza in El Nido."
+        }
+      ],
+      "photoGap": "No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+      "sources": [
+        {
+          "name": "Trattoria Altrove — official branch directory",
+          "url": "https://www.trattoriaaltrove.com/",
+          "checkedOn": "2026-10-21",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ]
+    },
+    {
+      "placeId": "coron-trattoria-altrove",
+      "summary": "Trattoria Altrove’s Coron branch is an Italian restaurant on Rosario Street. The branch name and town distinguish this meal stop from the related restaurant on Calle Hama in El Nido.",
+      "overview": [
+        "This listing identifies Trattoria Altrove on Rosario Street in Coron. It is a separate restaurant location from the El Nido branch. Keep Coron with the restaurant name when choosing a visitor resource or arranging a table."
+      ],
+      "highlights": [],
+      "tips": [],
+      "videos": [
+        {
+          "id": "kSyorWh9PGM",
+          "relevance": "PopTalk’s dining feature explicitly identifies the Coron restaurant."
+        },
+        {
+          "id": "a3tDr-X22sM",
+          "relevance": "A separate visitor resource about Altrove in Coron."
+        }
+      ],
+      "photoGap": "No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+      "sources": [
+        {
+          "name": "Trattoria Altrove — official branch directory",
+          "url": "https://www.trattoriaaltrove.com/",
+          "checkedOn": "2026-10-21",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ]
+    },
+    {
+      "placeId": "el-nido-kalye-artisano",
+      "summary": "Kalye Artisano is an artisan retail and cultural hub at Lio Tourism Estate in El Nido. Its spaces bring local artists and businesses together, making it a particular creative stop rather than another beach listing.",
+      "overview": [
+        "Kalye Artisano describes itself as an artisanal retail hub offering space to local artists and businesses. It is located at Lio Tourism Estate in El Nido. The community directory is useful for travelers looking for a particular creative business or activity, while individual tenants and events have their own arrangements."
+      ],
+      "highlights": [],
+      "tips": [],
+      "videos": [
+        {
+          "id": "KTMCoMixx4E",
+          "relevance": "A walk including Kalye Artisano and the surrounding Lio area."
+        }
+      ],
+      "sources": [
+        {
+          "name": "Kalye Artisano — artisan hub description",
+          "url": "https://kalyeartisano.com/pages/about-us",
+          "checkedOn": "2026-10-22",
+          "supports": "Official artisan-retail purpose and local artist/business community."
+        }
+      ],
+      "photoFile": "Kalye Artisano sign.jpg",
+      "photoAlt": "The Kalye Artisano sign at Lio in El Nido"
+    },
+    {
+      "placeId": "bohol-alona-beach-walk",
+      "summary": "Alona Beach is a public beach at the southwestern tip of Panglao Island. Its white sand, rocky cliffs and line of visitor businesses give this Panglao municipality shoreline a different character from Bohol’s inland attractions.",
+      "overview": [
+        "Alona Beach occupies roughly a kilometre of shoreline at the southwestern tip of Panglao Island. It is known for white sand and rocky cliffs, with commercial facilities along the beach. The actual municipality is Panglao, within Bohol province. Its developed beach setting is the focus of this listing; particular dive trips or resort facilities require their own arrangements."
+      ],
+      "highlights": [
+        "Notice the white-sand and rocky-cliff shoreline.",
+        "Explore the beach’s developed visitor setting."
+      ],
+      "tips": [],
+      "videos": [
+        {
+          "id": "_UfGs3H9nPg",
+          "relevance": "A morning walking resource explicitly identifying Alona Beach."
+        },
+        {
+          "id": "rjUlQw9WVh4",
+          "relevance": "A recent walk along Alona Beach in Panglao."
+        }
+      ],
+      "useWiki": true,
+      "sources": [
+        {
+          "name": "Wikipedia — Alona Beach",
+          "url": "https://en.wikipedia.org/wiki/Alona_Beach",
+          "checkedOn": "2026-10-22",
+          "supports": "Reviewed place identity, municipality and the specific descriptive facts in this overview."
+        }
+      ],
+      "photoFile": "Alona Beach Overview.jpg",
+      "photoAlt": "Alona Beach in Panglao"
+    },
+    {
+      "placeId": "bohol-danao-beach-afternoon",
+      "summary": "Danao Beach is a Panglao shoreline near the Alona visitor area. The municipal tourism office describes a quieter beach setting, with its own access point and local guidance separate from the more developed Alona beachfront.",
+      "overview": [
+        "Panglao Tourism identifies Danao Beach in Panglao municipality and describes it as a quieter alternative near Alona. The official visitor guidance asks travelers to leave shells and coral in place, respect coastal plants and follow local advisories. These are practical rules for a beach visit; descriptions of the shore do not determine sea conditions for your travel day."
+      ],
+      "highlights": [],
+      "tips": [
+        "Leave shells and coral where they belong.",
+        "Take rubbish away and follow local advisories."
+      ],
+      "videos": [
+        {
+          "id": "2fpHY4Gv0Q4",
+          "relevance": "A visitor resource explicitly identifying Danao Beach in Panglao."
+        },
+        {
+          "id": "Bbpgk9iOTQI",
+          "relevance": "A sunrise walking resource at Danao Beach."
+        }
+      ],
+      "photoGap": "No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+      "sources": [
+        {
+          "name": "Panglao Tourism — Danao Beach",
+          "url": "https://www.panglaotourism.com/beaches/danao-beach/",
+          "checkedOn": "2026-10-22",
+          "supports": "Official beach identity, quieter setting and environmental visitor guidance."
+        }
+      ],
+      "notes": [
+        "Rejected Danaos hotel photographs and a different Panglao beach image. No water-safety determination inferred."
+      ]
+    },
+    {
+      "placeId": "bohol-saint-augustine-church",
+      "summary": "Saint Augustine Parish Church is a heritage church near the sea in Panglao town. The provincial tourism office describes its baroque character and distinguishes the church from the nearby historic watchtower.",
+      "overview": [
+        "The provincial tourism office identifies St. Augustine Parish Church in Panglao, near the sea and the town’s watchtower. The church is described as baroque in character and is a distinct religious destination from the tower beside it."
+      ],
+      "highlights": [],
+      "tips": [],
+      "videos": [
+        {
+          "id": "-90lfHxfDAo",
+          "relevance": "A recent walkthrough of Saint Augustine Church in Panglao."
+        },
+        {
+          "id": "7u0IaRLa0Yk",
+          "relevance": "A separate visitor resource identifying the Panglao parish church."
+        }
+      ],
+      "photoFile": "Panglao church Bohol.jpg",
+      "sources": [
+        {
+          "name": "Bohol Provincial Tourism Office — Panglao",
+          "url": "https://tourism.bohol.gov.ph/visitbohol-panglao/",
+          "checkedOn": "2026-10-21",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photoAlt": "Saint Augustine Parish Church in Panglao"
+    },
+    {
+      "placeId": "bohol-panglao-watchtower",
+      "summary": "Panglao Watchtower is a historic tower near Saint Augustine Parish Church in Panglao town. It is a distinct heritage landmark, even when a walking route includes both the tower and church in one visit.",
+      "overview": [
+        "Panglao Watchtower stands near the town’s St. Augustine Parish Church. The provincial tourism office identifies the tower as a separate heritage attraction. Use the watchtower name when choosing a meeting point rather than assuming it is the church entrance."
+      ],
+      "highlights": [],
+      "tips": [],
+      "videos": [
+        {
+          "id": "ek2vy4FPZXU",
+          "relevance": "A visitor resource explicitly including Panglao Watchtower."
+        }
+      ],
+      "photoFile": "Panglao Watchtower (Poblacion, Panglao, Bohol; 01-09-2023).jpg",
+      "videoGap": "One exact-tower resource selected; unrelated beach nightlife videos were excluded.",
+      "sources": [
+        {
+          "name": "Bohol Provincial Tourism Office — Panglao",
+          "url": "https://tourism.bohol.gov.ph/visitbohol-panglao/",
+          "checkedOn": "2026-10-21",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photoAlt": "Panglao Watchtower in Panglao"
+    },
+    {
+      "placeId": "bohol-nova-shell-museum",
+      "summary": "Nova Shell Museum is a museum in Panglao devoted to marine shells. Its specialist collection provides a different island visit from beach stops, with the museum name identifying a particular cultural and natural-history venue.",
+      "overview": [
+        "The provincial tourism office lists Nova Shell Museum in Panglao. Its collection centers on marine shells, including material associated with the island’s shell diversity. This is a particular museum visit rather than permission to collect shells from Bohol’s beaches."
+      ],
+      "highlights": [],
+      "tips": [],
+      "videos": [
+        {
+          "id": "MQK3xmE2KN4",
+          "relevance": "A museum visit explicitly identifying Nova Shell Museum."
+        },
+        {
+          "id": "UAyxDpFAG_c",
+          "relevance": "A separate tour resource focused on the shell museum."
+        }
+      ],
+      "photoFile": "Nova shell museum, Bohol.png",
+      "sources": [
+        {
+          "name": "Bohol Provincial Tourism Office — Panglao",
+          "url": "https://tourism.bohol.gov.ph/visitbohol-panglao/",
+          "checkedOn": "2026-10-21",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photoAlt": "Nova Shell Museum in Panglao"
+    },
+    {
+      "placeId": "bohol-doljo-beach",
+      "summary": "Doljo Beach is a beach on the Panglao coast in Bohol. Its particular shoreline name distinguishes it from Alona, Dumaluan and other Panglao beaches when choosing a stay, a pickup point or a coastal visit.",
+      "overview": [
+        "Bohol’s provincial tourism office identifies Doljo among Panglao’s beaches. This listing concerns the beach itself, rather than a resort or shopping venue nearby. Use the beach name when arranging transport to the intended section of coast."
+      ],
+      "highlights": [],
+      "tips": [],
+      "videos": [
+        {
+          "id": "ejDegDtSfXo",
+          "relevance": "A visitor resource explicitly focused on Doljo Beach."
+        },
+        {
+          "id": "IbpgGGB3lIU",
+          "relevance": "A recorded visit including Doljo Beach and its surrounding visitor area."
+        }
+      ],
+      "photoFile": "Doljo Beach in Panglao.jpg",
+      "sources": [
+        {
+          "name": "Bohol Provincial Tourism Office — Panglao",
+          "url": "https://tourism.bohol.gov.ph/visitbohol-panglao/",
+          "checkedOn": "2026-10-21",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photoAlt": "Doljo Beach in Panglao"
+    },
+    {
+      "placeId": "bohol-dumaluan-beach",
+      "summary": "Dumaluan Beach is a sandy coastal destination in Panglao, Bohol. It is a particular beach area, distinct from Alona and neighboring Libaong, with access arrangements that depend on the part of the shore you intend to visit.",
+      "overview": [
+        "The provincial tourism office names Dumaluan among Panglao’s beach destinations. This listing identifies that particular sandy shoreline. A resort name or hotel video may describe only one access point, so choose the part of the beach you intend to reach before arranging a visit."
+      ],
+      "highlights": [],
+      "tips": [],
+      "videos": [
+        {
+          "id": "9apzh5BjlPw",
+          "relevance": "A visitor walk explicitly identifying Dumaluan Beach."
+        },
+        {
+          "id": "xIHmCz0CiFw",
+          "relevance": "A separate recorded visit to Dumaluan in Panglao."
+        }
+      ],
+      "photoFile": "Panglao Island banner Dumaluan Resort beach.png",
+      "photoAlt": "The Dumaluan Resort section of Dumaluan Beach in Panglao",
+      "sources": [
+        {
+          "name": "Bohol Provincial Tourism Office — Panglao",
+          "url": "https://tourism.bohol.gov.ph/visitbohol-panglao/",
+          "checkedOn": "2026-10-21",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ]
+    },
+    {
+      "placeId": "bohol-libaong-beach",
+      "summary": "Libaong Beach is a beach in Panglao municipality, Bohol. Its exact coastal name helps distinguish this stop from Dumaluan and Alona when choosing a walking resource, a stay or a pickup point.",
+      "overview": [
+        "Bohol’s provincial tourism office identifies Libaong as one of Panglao’s beaches. This listing concerns the Libaong shoreline itself. Use its exact name when checking access or choosing visitor resources, rather than relying on a general Panglao beach label."
+      ],
+      "highlights": [],
+      "tips": [],
+      "videos": [
+        {
+          "id": "6EKk8Y-D2lg",
+          "relevance": "A recent walking resource explicitly identifying Libaong Beach."
+        },
+        {
+          "id": "K-jGFU3mSSE",
+          "relevance": "A separate visitor resource about Libaong in Panglao."
+        }
+      ],
+      "photoGap": "No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+      "sources": [
+        {
+          "name": "Bohol Provincial Tourism Office — Panglao",
+          "url": "https://tourism.bohol.gov.ph/visitbohol-panglao/",
+          "checkedOn": "2026-10-21",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ]
+    },
+    {
+      "placeId": "bohol-hinagdanan-cave",
+      "summary": "Hinagdanan Cave is a naturally lit limestone cavern in Dauis on Panglao Island. Its lagoon, stalactites and stalagmites make it a distinct geological visit, separate from the beaches in neighboring Panglao municipality.",
+      "overview": [
+        "Hinagdanan Cave is located in Dauis, one of the municipalities on Panglao Island. The cavern contains a deep lagoon and large stalactites and stalagmites, with natural light entering the cave. Its actual municipality matters: Panglao Island and Panglao municipality are different geographic labels."
+      ],
+      "highlights": [
+        "Look for stalactites and stalagmites.",
+        "Observe the naturally lit cavern and lagoon."
+      ],
+      "tips": [],
+      "videos": [
+        {
+          "id": "2YjkqhrnEN8",
+          "relevance": "A visitor resource explicitly identifying Hinagdanan Cave in Bingag, Dauis."
+        },
+        {
+          "id": "lGtyJpNJDSw",
+          "relevance": "A separate recorded visit to Hinagdanan Cave."
+        }
+      ],
+      "useWiki": true,
+      "notes": [
+        "A historical swimming photograph does not establish current permission or conditions."
+      ],
+      "sources": [
+        {
+          "name": "Wikipedia — Hinagdanan Cave",
+          "url": "https://en.wikipedia.org/wiki/Hinagdanan_Cave",
+          "checkedOn": "2026-10-22",
+          "supports": "Reviewed place identity, municipality and the specific descriptive facts in this overview."
+        }
+      ],
+      "photoFile": "Snorkeling in Hinagdanan Cave.jpg",
+      "photoAlt": "Hinagdanan Cave in Dauis"
+    },
+    {
+      "placeId": "bohol-dauis-church",
+      "summary": "Assumption of Our Lady Shrine-Parish is a heritage Catholic church in Dauis, Bohol. Often called Dauis Church, it is a separate religious destination from Saint Augustine Parish Church in neighboring Panglao municipality.",
+      "overview": [
+        "This listing identifies the Assumption of Our Lady Shrine-Parish in Dauis. Its shortened name, Dauis Church, refers to this particular heritage parish. Keep the municipality with the church name when arranging a visit around Panglao Island."
+      ],
+      "highlights": [],
+      "tips": [],
+      "videos": [
+        {
+          "id": "gBkq94Xiu2w",
+          "relevance": "A resource explicitly identifying Our Lady of the Assumption Church in Dauis."
+        },
+        {
+          "id": "TVFvi8b-Bos",
+          "relevance": "A separate visitor resource about Dauis Church."
+        }
+      ],
+      "photoFile": "Assumption of Our Lady Shrine Parish (Dauis, Bohol) ceiling designs and columns 2018-06-17.jpg",
+      "photoAlt": "Ceiling designs and columns inside Dauis Church in Bohol",
+      "sources": [
+        {
+          "name": "Bohol Provincial Tourism Office — Dauis",
+          "url": "https://tourism.bohol.gov.ph/visitbohol-dauis/",
+          "checkedOn": "2026-10-21",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ]
+    }
+  ]
+}

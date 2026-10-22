@@ -1,0 +1,636 @@
+{
+  "batchId": "batch-010",
+  "checkedOn": "2026-10-22",
+  "places": 25,
+  "outcomes": [
+    {
+      "placeId": "davao-people-s-park",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Davao City Tourism — People's Park",
+          "url": "https://tourism.davaocity.gov.ph/explore-the-city/attractions/man-made-nature-parks/peoples-park/",
+          "checkedOn": "2026-10-22",
+          "supports": "Official cultural-theme identity, planted grounds, sculptures and durian dome."
+        }
+      ],
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Peoples_Park._(5032255217).jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/5/50/Peoples_Park._%285032255217%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "Reuel Mark Delez from Valenzuela, Philippines",
+        "license": "CC BY 2.0"
+      },
+      "photoGap": null,
+      "videos": [
+        "https://www.youtube.com/watch?v=h8I4MOKKTLc",
+        "https://www.youtube.com/watch?v=Zkbzz0M0tik"
+      ],
+      "rejectedVideos": [],
+      "notes": []
+    },
+    {
+      "placeId": "davao-san-pedro-cathedral-area",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Wikipedia — Davao Cathedral",
+          "url": "https://en.wikipedia.org/wiki/Davao_Cathedral",
+          "checkedOn": "2026-10-22",
+          "supports": "Reviewed place identity, municipality and the specific descriptive facts in this overview."
+        }
+      ],
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:San_Pedro_Metropolitan_Cathedral_-_Davao_City_04.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/6/69/San_Pedro_Metropolitan_Cathedral_-_Davao_City_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "Herbertkikoy",
+        "license": "CC BY-SA 4.0"
+      },
+      "photoGap": null,
+      "videos": [
+        "https://www.youtube.com/watch?v=0_R04F91F3Q",
+        "https://www.youtube.com/watch?v=R2GzewTpuBg"
+      ],
+      "rejectedVideos": [],
+      "notes": []
+    },
+    {
+      "placeId": "davao-museo-dabawenyo-area",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "City Government of Davao — Museo Dabawenyo Event Center, May 2025",
+          "url": "https://davaocity.gov.ph/local-government/museo-dabawenyo-event-center-opens-exhibit-a-history-of-davao-city-in-50-objects/",
+          "checkedOn": "2026-10-22",
+          "supports": "May 2025 event-center opening, Mabini Street venue and opening exhibition; not a guarantee of current displays."
+        }
+      ],
+      "photo": null,
+      "photoGap": "No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+      "videos": [
+        "https://www.youtube.com/watch?v=Th2cqIbgsUI"
+      ],
+      "rejectedVideos": [],
+      "notes": [
+        "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+        "Video gap: Other museum videos did not clearly establish this Mabini Street venue."
+      ]
+    },
+    {
+      "placeId": "davao-national-museum",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "National Museum of the Philippines — Davao",
+          "url": "https://www.nationalmuseum.gov.ph/nmp-davao/",
+          "checkedOn": "2026-10-22",
+          "supports": "Official museum identity, building, exhibition subjects, floor arrangement and address."
+        }
+      ],
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:National_Museum_of_the_Philippines_Davao.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/5/55/National_Museum_of_the_Philippines_Davao.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "Herbertkikoy",
+        "license": "CC BY-SA 4.0"
+      },
+      "photoGap": null,
+      "videos": [
+        "https://www.youtube.com/watch?v=m5SGbEsC5Rw"
+      ],
+      "rejectedVideos": [
+        {
+          "videoId": "ZY23a-aU7qc",
+          "reason": "HTTP 401: https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DZY23a-aU7qc&format=json"
+        }
+      ],
+      "notes": [
+        "Video admission claims were not imported as current fees.",
+        "Video ZY23a-aU7qc: HTTP 401: https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DZY23a-aU7qc&format=json"
+      ]
+    },
+    {
+      "placeId": "davao-roxas-night-market",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Davao City Tourism — Roxas Night Market",
+          "url": "https://tourism.davaocity.gov.ph/explore-the-city/restaurants/night-market/roxas-night-market/",
+          "checkedOn": "2026-10-19",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Davao_City_Night_Market_at_Roxas_St._03.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Davao_City_Night_Market_at_Roxas_St._03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "Herbertkikoy",
+        "license": "CC BY-SA 4.0"
+      },
+      "photoGap": null,
+      "videos": [
+        "https://www.youtube.com/watch?v=uDIWVhClXZs",
+        "https://www.youtube.com/watch?v=nO8QXgcDYg4"
+      ],
+      "rejectedVideos": [],
+      "notes": []
+    },
+    {
+      "placeId": "davao-kadayawan-cultural-village",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "City Government of Davao — Kadayawan Village, August 2025",
+          "url": "https://davaocity.gov.ph/tourism/kadayawan-village-remains-open-to-public-says-ctoo/",
+          "checkedOn": "2026-10-19",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Kadayawan_Village_in_Magsaysay_Park,_Davao_City_11.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Kadayawan_Village_in_Magsaysay_Park%2C_Davao_City_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "Herbertkikoy",
+        "license": "CC BY-SA 4.0"
+      },
+      "photoGap": null,
+      "videos": [
+        "https://www.youtube.com/watch?v=AB5_9IMSGOM",
+        "https://www.youtube.com/watch?v=f1sLL8r1YFs"
+      ],
+      "rejectedVideos": [],
+      "notes": []
+    },
+    {
+      "placeId": "davao-bone-collector-museum",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "D’ Bone Collector Museum — official visitor page",
+          "url": "https://d.bone.museum/",
+          "checkedOn": "2026-10-19",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photo": null,
+      "photoGap": "No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+      "videos": [
+        "https://www.youtube.com/watch?v=tzI76MJsu1I",
+        "https://www.youtube.com/watch?v=U8OXnXb32mw"
+      ],
+      "rejectedVideos": [],
+      "notes": [
+        "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results."
+      ]
+    },
+    {
+      "placeId": "davao-chinatown",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Wikipedia — Davao Chinatown",
+          "url": "https://en.wikipedia.org/wiki/Davao_Chinatown",
+          "checkedOn": "2026-10-22",
+          "supports": "Reviewed place identity, municipality and the specific descriptive facts in this overview."
+        }
+      ],
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Davao_Chinatown,_Davao_City,_August_2026_06.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/2/24/Davao_Chinatown%2C_Davao_City%2C_August_2026_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "Herbertkikoy",
+        "license": "CC BY-SA 4.0"
+      },
+      "photoGap": null,
+      "videos": [
+        "https://www.youtube.com/watch?v=V2VUj4UrFDU",
+        "https://www.youtube.com/watch?v=CzLTDwActao"
+      ],
+      "rejectedVideos": [],
+      "notes": []
+    },
+    {
+      "placeId": "davao-rizal-park",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "City Planning and Development Office of Davao — Heritage inventory",
+          "url": "https://cpdo.davaocity.gov.ph/wp-content/uploads/2023/07/Volume-3-Sectoral_Studies_compressed.pdf",
+          "checkedOn": "2026-10-19",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photo": null,
+      "photoGap": "No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+      "videos": [],
+      "rejectedVideos": [
+        {
+          "videoId": "c0yNwXkuaFA",
+          "reason": "HTTP 401: https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dc0yNwXkuaFA&format=json"
+        },
+        {
+          "videoId": "s_E7YoXLHuY",
+          "reason": "Official source does not currently confirm a playable, embeddable video with an accessible description"
+        }
+      ],
+      "notes": [
+        "Rejected Manila Rizal Park article and monument photograph. Original city PDF returned HTTP 404.",
+        "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+        "Video c0yNwXkuaFA: HTTP 401: https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dc0yNwXkuaFA&format=json",
+        "Video s_E7YoXLHuY: Official source does not currently confirm a playable, embeddable video with an accessible description"
+      ]
+    },
+    {
+      "placeId": "davao-osmena-park",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "City Planning and Development Office of Davao — Heritage inventory",
+          "url": "https://cpdo.davaocity.gov.ph/wp-content/uploads/2023/07/Volume-3-Sectoral_Studies_compressed.pdf",
+          "checkedOn": "2026-10-19",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Osme%C3%B1a_Park_(9105903228).jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/d/de/Osme%C3%B1a_Park_%289105903228%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "shankar s. from Dubai, united arab emirates",
+        "license": "CC BY 2.0"
+      },
+      "photoGap": null,
+      "videos": [
+        "https://www.youtube.com/watch?v=-b6R4Ler2hY",
+        "https://www.youtube.com/watch?v=B6mNwwJA6y8"
+      ],
+      "rejectedVideos": [],
+      "notes": [
+        "Original city inventory PDF returned HTTP 404; no new historical claims added."
+      ]
+    },
+    {
+      "placeId": "davao-dona-vicenta-park",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "City Government of Davao — Doña Vicenta Park",
+          "url": "https://davaocity.gov.ph/environment/dona-vicenta-park-now-open/",
+          "checkedOn": "2026-10-22",
+          "supports": "Official Barangay 9-A location, opening and described park features."
+        }
+      ],
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Dona_Vicenta_Park.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/0/09/Dona_Vicenta_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "MercedesFan4ever",
+        "license": "CC BY-SA 4.0"
+      },
+      "photoGap": null,
+      "videos": [
+        "https://www.youtube.com/watch?v=Zfkk_R30Ixg",
+        "https://www.youtube.com/watch?v=Zi7Y7Ag-GKQ"
+      ],
+      "rejectedVideos": [],
+      "notes": []
+    },
+    {
+      "placeId": "davao-eden-nature-park",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Eden Nature Park — official resort information",
+          "url": "https://www.edennaturepark.com.ph/",
+          "checkedOn": "2026-10-19",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Eden_Nature_Park_panorama.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Eden_Nature_Park_panorama.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "Michael E. Peligro",
+        "license": "CC BY-SA 4.0"
+      },
+      "photoGap": null,
+      "videos": [
+        "https://www.youtube.com/watch?v=r0Mx1bao9Bk",
+        "https://www.youtube.com/watch?v=R_txHciGTwg"
+      ],
+      "rejectedVideos": [],
+      "notes": []
+    },
+    {
+      "placeId": "davao-philippine-eagle-center",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Philippine Eagle Foundation — Philippine Eagle Center",
+          "url": "https://www.philippineeaglefoundation.org/copy-of-the-pec-1",
+          "checkedOn": "2026-10-19",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Pithecophaga_jefferyi_-Philippine_Eagle_Center,_Davao_City,_Philippines-8a.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/3/30/Pithecophaga_jefferyi_-Philippine_Eagle_Center%2C_Davao_City%2C_Philippines-8a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "Constantine Agustin from Manila, Philippines",
+        "license": "CC BY-SA 2.0"
+      },
+      "photoGap": null,
+      "videos": [
+        "https://www.youtube.com/watch?v=asGIEa0c9vM",
+        "https://www.youtube.com/watch?v=b-xn6NhdUjc"
+      ],
+      "rejectedVideos": [],
+      "notes": [
+        "Selected Philippine eagle image with exact facility name; unrelated species image was excluded."
+      ]
+    },
+    {
+      "placeId": "davao-malagos-garden-resort",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Wikipedia — Malagos Garden Resort",
+          "url": "https://en.wikipedia.org/wiki/Malagos_Garden_Resort",
+          "checkedOn": "2026-10-22",
+          "supports": "Reviewed place identity, municipality and the specific descriptive facts in this overview."
+        }
+      ],
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Malagos_Garden_Resort_Aviary_(49483553792).jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Malagos_Garden_Resort_Aviary_%2849483553792%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "Gary Todd from Xinzheng, China",
+        "license": "Public domain"
+      },
+      "photoGap": null,
+      "videos": [
+        "https://www.youtube.com/watch?v=-n5HokC1N68",
+        "https://www.youtube.com/watch?v=YPmXJLcoWzU"
+      ],
+      "rejectedVideos": [],
+      "notes": []
+    },
+    {
+      "placeId": "davao-imin-museum",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Davao City Tourism — IMIN Philippine–Japan Historical Museum",
+          "url": "https://tourism.davaocity.gov.ph/explore-the-city/attractions/musuems/imin-philippine-japan-historical-museum/",
+          "checkedOn": "2026-10-22",
+          "supports": "Official museum name and Purok 18, Durian Village, Calinan address; descriptive subject retained from existing catalog."
+        }
+      ],
+      "photo": null,
+      "photoGap": "No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+      "videos": [
+        "https://www.youtube.com/watch?v=mjyWm8T_QGw",
+        "https://www.youtube.com/watch?v=nbIZwMJ09wk"
+      ],
+      "rejectedVideos": [],
+      "notes": [
+        "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results."
+      ]
+    },
+    {
+      "placeId": "davao-crocodile-park",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Davao City Tourism — Davao Crocodile Park, Inc.",
+          "url": "https://tourism.davaocity.gov.ph/explore-the-city/attractions/resorts/davao-crocodile-park-inc/",
+          "checkedOn": "2026-10-21",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Davao_Crocodile_Park_02.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Davao_Crocodile_Park_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "Teemu Väisänen",
+        "license": "CC BY-SA 4.0"
+      },
+      "photoGap": null,
+      "videos": [
+        "https://www.youtube.com/watch?v=DR6cGI30FZI",
+        "https://www.youtube.com/watch?v=dQC93m1D-eI"
+      ],
+      "rejectedVideos": [],
+      "notes": []
+    },
+    {
+      "placeId": "davao-gap-farm",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Davao City Tourism — Gap Farm Resort",
+          "url": "https://tourism.davaocity.gov.ph/explore-the-city/attractions/man-made-nature-parks/gap-farm-resort/",
+          "checkedOn": "2026-10-21",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photo": null,
+      "photoGap": "No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+      "videos": [
+        "https://www.youtube.com/watch?v=dKGABEvmUyA"
+      ],
+      "rejectedVideos": [
+        {
+          "videoId": "irVCz3G_wEI",
+          "reason": "Official source does not currently confirm a playable, embeddable video with an accessible description"
+        }
+      ],
+      "notes": [
+        "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+        "Video irVCz3G_wEI: Official source does not currently confirm a playable, embeddable video with an accessible description"
+      ]
+    },
+    {
+      "placeId": "davao-dleonor-inland-resort",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Davao City Tourism — D’Leonor Inland Resort",
+          "url": "https://tourism.davaocity.gov.ph/explore-the-city/attractions/man-made-nature-parks/dleonor-inland-resort/",
+          "checkedOn": "2026-10-21",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photo": null,
+      "photoGap": "No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+      "videos": [
+        "https://www.youtube.com/watch?v=NeO7_LmvnWY",
+        "https://www.youtube.com/watch?v=ENNYc9AbBRQ"
+      ],
+      "rejectedVideos": [],
+      "notes": [
+        "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results."
+      ]
+    },
+    {
+      "placeId": "davao-japanese-tunnel",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Department of Tourism London — Davao cultural sites",
+          "url": "https://itsmorefuninthephilippines.co.uk/wp-content/uploads/PDOTL_DavaoCamiguin_Web.pdf",
+          "checkedOn": "2026-10-21",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photo": null,
+      "photoGap": "No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+      "videos": [
+        "https://www.youtube.com/watch?v=kEqzdPEbqzU"
+      ],
+      "rejectedVideos": [
+        {
+          "videoId": "98HsQz14wEg",
+          "reason": "Official source does not currently confirm a playable, embeddable video with an accessible description"
+        }
+      ],
+      "notes": [
+        "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+        "Video 98HsQz14wEg: Official source does not currently confirm a playable, embeddable video with an accessible description"
+      ]
+    },
+    {
+      "placeId": "davao-holy-infant-jesus-shrine",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Davao Catholic Herald — Shrine of the Holy Infant Jesus of Prague",
+          "url": "https://www.davaocatholicherald.com/mass-schedules/sto-nino-shrine-mass-schedule/",
+          "checkedOn": "2026-10-21",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:A_worship_at_the_shrine_of_the_Holy_Infant_Jesus_of_Prague,_Davao_City,_Philippines.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ea/A_worship_at_the_shrine_of_the_Holy_Infant_Jesus_of_Prague%2C_Davao_City%2C_Philippines.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "Constantine Agustin from Manila, Philippines",
+        "license": "CC BY-SA 2.0"
+      },
+      "photoGap": null,
+      "videos": [
+        "https://www.youtube.com/watch?v=ITVjsntAL7g"
+      ],
+      "rejectedVideos": [
+        {
+          "videoId": "6B6DGWM3H-0",
+          "reason": "HTTP 401: https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D6B6DGWM3H-0&format=json"
+        }
+      ],
+      "notes": [
+        "Video 6B6DGWM3H-0: HTTP 401: https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D6B6DGWM3H-0&format=json"
+      ]
+    },
+    {
+      "placeId": "davao-poblacion-market-central",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Alsons Development — Poblacion Market Central",
+          "url": "https://alsonsdev.com/alsons-dev-launches-poblacion-market-central-the-newest-lifestyle-destination-in-davao-where-heritage-meets-hip/",
+          "checkedOn": "2026-10-22",
+          "supports": "Developer account of tenant relocation, retail/cultural mix, Kukun and public art."
+        }
+      ],
+      "photo": null,
+      "photoGap": "No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+      "videos": [
+        "https://www.youtube.com/watch?v=VAly4mYaMso",
+        "https://www.youtube.com/watch?v=xVm2BYY7alg"
+      ],
+      "rejectedVideos": [],
+      "notes": [
+        "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results."
+      ]
+    },
+    {
+      "placeId": "davao-bago-esplanade",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "City Government of Davao — opened public parks and green spaces",
+          "url": "https://davaocity.gov.ph/sustainable-environment/city-to-open-more-green-spaces-parks/",
+          "checkedOn": "2026-10-21",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photo": null,
+      "photoGap": "No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+      "videos": [
+        "https://www.youtube.com/watch?v=ZjFaP_dBpes"
+      ],
+      "rejectedVideos": [
+        {
+          "videoId": "PXvRiDsS77s",
+          "reason": "Official source does not currently confirm a playable, embeddable video with an accessible description"
+        }
+      ],
+      "notes": [
+        "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+        "Video PXvRiDsS77s: Official source does not currently confirm a playable, embeddable video with an accessible description"
+      ]
+    },
+    {
+      "placeId": "davao-gulf-view-esplanade",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "City Government of Davao — opened public parks and green spaces",
+          "url": "https://davaocity.gov.ph/sustainable-environment/city-to-open-more-green-spaces-parks/",
+          "checkedOn": "2026-10-21",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photo": null,
+      "photoGap": "No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+      "videos": [],
+      "rejectedVideos": [],
+      "notes": [
+        "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+        "Video gap: Reviewed results concerned Gulf View subdivision or broad city routes, not an established esplanade visit."
+      ]
+    },
+    {
+      "placeId": "davao-marfori-botanical-garden",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "City Government of Davao — existing city park inventory",
+          "url": "https://davaocity.gov.ph/environment/six-new-public-parks-to-open-in-davao-city/",
+          "checkedOn": "2026-10-21",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photo": null,
+      "photoGap": "No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+      "videos": [
+        "https://www.youtube.com/watch?v=cfEoPBtYqsU"
+      ],
+      "rejectedVideos": [],
+      "notes": [
+        "Unrelated New York botanical-garden photographs were excluded.",
+        "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results."
+      ]
+    },
+    {
+      "placeId": "davao-toril-park",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "City Government of Davao — opened public parks and green spaces",
+          "url": "https://davaocity.gov.ph/sustainable-environment/city-to-open-more-green-spaces-parks/",
+          "checkedOn": "2026-10-21",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photo": null,
+      "photoGap": "No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+      "videos": [
+        "https://www.youtube.com/watch?v=pri_TZUVamo",
+        "https://www.youtube.com/watch?v=wbaRUmGMsr0"
+      ],
+      "rejectedVideos": [],
+      "notes": [
+        "Eden Nature Park photographs were excluded as a different attraction.",
+        "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results."
+      ]
+    }
+  ]
+}

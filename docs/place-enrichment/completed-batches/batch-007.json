@@ -1,0 +1,624 @@
+{
+  "batchId": "batch-007",
+  "checkedOn": "2026-10-22",
+  "places": 25,
+  "outcomes": [
+    {
+      "placeId": "coron-barracuda-lake",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "I Capture Travel — Coron tour routes",
+          "url": "https://www.corontravel.com/coron",
+          "checkedOn": "2026-10-19",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Barracuda_Lake_(Coron,_Palawan;_03-17-2024).jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Barracuda_Lake_%28Coron%2C_Palawan%3B_03-17-2024%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "Patrickroque01",
+        "license": "CC BY-SA 4.0"
+      },
+      "photoGap": null,
+      "videos": [
+        "https://www.youtube.com/watch?v=r9W0qQmual8"
+      ],
+      "rejectedVideos": [],
+      "notes": [
+        "Video gap: One established lake-inclusive resource selected; broad Coron guides not used as filler."
+      ]
+    },
+    {
+      "placeId": "coron-twin-lagoon",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "I Capture Travel — Coron tour routes",
+          "url": "https://www.corontravel.com/coron",
+          "checkedOn": "2026-10-19",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Twin_Lagoon,_Coron,_Palawan.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Twin_Lagoon%2C_Coron%2C_Palawan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "Franz C. Trinidad",
+        "license": "CC BY-SA 4.0"
+      },
+      "photoGap": null,
+      "videos": [
+        "https://www.youtube.com/watch?v=WDJXD0KS8f4",
+        "https://www.youtube.com/watch?v=r9W0qQmual8"
+      ],
+      "rejectedVideos": [],
+      "notes": []
+    },
+    {
+      "placeId": "palawan-san-vicente-long-beach",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Municipal Government of San Vicente — local history and tourism places",
+          "url": "https://sanvicentepalawan.gov.ph/wp-content/uploads/2026/03/San-Vicente-Kasaysayang-Lokal_Final-Edited.pdf",
+          "checkedOn": "2026-10-21",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Long_Beach_in_San_Vicente.JPG",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Long_Beach_in_San_Vicente.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "Jimaggro",
+        "license": "CC BY-SA 4.0"
+      },
+      "photoGap": null,
+      "videos": [
+        "https://www.youtube.com/watch?v=yYRfDpHDt1g",
+        "https://www.youtube.com/watch?v=mXkeLgJykfg"
+      ],
+      "rejectedVideos": [],
+      "notes": [
+        "Rejected California city article and photograph; prior accepted administrative facts retained."
+      ]
+    },
+    {
+      "placeId": "palawan-port-barton-beach",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Municipal Government of San Vicente — local history and tourism places",
+          "url": "https://sanvicentepalawan.gov.ph/wp-content/uploads/2026/03/San-Vicente-Kasaysayang-Lokal_Final-Edited.pdf",
+          "checkedOn": "2026-10-21",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Port_Barton,_Beach,_San_Vicente,_Palawan,_Philippines.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/7/72/Port_Barton%2C_Beach%2C_San_Vicente%2C_Palawan%2C_Philippines.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "Vyacheslav Argenberg",
+        "license": "CC BY 4.0"
+      },
+      "photoGap": null,
+      "videos": [
+        "https://www.youtube.com/watch?v=fOSyK6XG-rc"
+      ],
+      "rejectedVideos": [],
+      "notes": [
+        "Video gap: One settlement-focused guide selected; no unverified start timestamp added."
+      ]
+    },
+    {
+      "placeId": "palawan-fort-santa-isabel",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Wikipedia — Fort Santa Isabel",
+          "url": "https://en.wikipedia.org/wiki/Fort_Santa_Isabel",
+          "checkedOn": "2026-10-22",
+          "supports": "Reviewed place identity, municipality and the specific descriptive facts in this overview."
+        }
+      ],
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Fuerza_de_Sta._Isabel_Taytay.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/d/df/Fuerza_de_Sta._Isabel_Taytay.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "Christian Pirkl",
+        "license": "CC BY-SA 4.0"
+      },
+      "photoGap": null,
+      "videos": [
+        "https://www.youtube.com/watch?v=WIIjPzp_opo",
+        "https://www.youtube.com/watch?v=EqB35lSUoug"
+      ],
+      "rejectedVideos": [],
+      "notes": []
+    },
+    {
+      "placeId": "el-nido-nagkalit-kalit-falls",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "PCSD — El Nido municipal tourism inventory",
+          "url": "https://pkp-new.pcsd.gov.ph/wp-content/uploads/2021/02/El-Nido-Planred.pdf",
+          "checkedOn": "2026-10-21",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photo": null,
+      "photoGap": "No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+      "videos": [
+        "https://www.youtube.com/watch?v=pGeVCBweomU"
+      ],
+      "rejectedVideos": [
+        {
+          "videoId": "ZUO0WQhPDUw",
+          "reason": "Official source does not currently confirm a playable, embeddable video with an accessible description"
+        }
+      ],
+      "notes": [
+        "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+        "Video ZUO0WQhPDUw: Official source does not currently confirm a playable, embeddable video with an accessible description"
+      ]
+    },
+    {
+      "placeId": "puerto-princesa-iwahig-firefly-watching",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Puerto Princesa City Tourism — community tourism destinations",
+          "url": "https://citytourism.puertoprincesa.ph/cbst-destinations/",
+          "checkedOn": "2026-10-22",
+          "supports": "Official community operator, Iwahig River location and nighttime firefly experience."
+        }
+      ],
+      "photo": null,
+      "photoGap": "No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+      "videos": [
+        "https://www.youtube.com/watch?v=zs73AZIZ4RY"
+      ],
+      "rejectedVideos": [
+        {
+          "videoId": "NoO6EOhnpNg",
+          "reason": "Official source does not currently confirm a playable, embeddable video with an accessible description"
+        }
+      ],
+      "notes": [
+        "No guaranteed wildlife sightings or air-quality claims inferred.",
+        "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+        "Video NoO6EOhnpNg: Official source does not currently confirm a playable, embeddable video with an accessible description"
+      ]
+    },
+    {
+      "placeId": "puerto-princesa-ugong-rock",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Puerto Princesa City Tourism — community tourism destinations",
+          "url": "https://citytourism.puertoprincesa.ph/cbst-destinations/",
+          "checkedOn": "2026-10-22",
+          "supports": "Rock formation, Tagabinet setting, karst and paddy-field outlook."
+        }
+      ],
+      "photo": null,
+      "photoGap": "No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+      "videos": [
+        "https://www.youtube.com/watch?v=WSMCXzI7bLU",
+        "https://www.youtube.com/watch?v=KDiRJv75Ebo"
+      ],
+      "rejectedVideos": [],
+      "notes": [
+        "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results."
+      ]
+    },
+    {
+      "placeId": "puerto-princesa-buenavista-viewdeck",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Puerto Princesa City Tourism — community tourism destinations",
+          "url": "https://citytourism.puertoprincesa.ph/cbst-destinations/",
+          "checkedOn": "2026-10-22",
+          "supports": "Official viewpoint identity and Ulugan Bay outlook."
+        }
+      ],
+      "photo": null,
+      "photoGap": "No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+      "videos": [
+        "https://www.youtube.com/watch?v=0TUOE-wHxoA",
+        "https://www.youtube.com/watch?v=F-wYNSiIk04"
+      ],
+      "rejectedVideos": [],
+      "notes": [
+        "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results."
+      ]
+    },
+    {
+      "placeId": "puerto-princesa-bakers-hill",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Puerto Princesa City Tourism — Baker’s Hill",
+          "url": "https://citytourism.puertoprincesa.ph/bakers-hill/",
+          "checkedOn": "2026-10-22",
+          "supports": "Official hopia/bakery identity, restaurant, gardens, playground and Santa Monica address."
+        }
+      ],
+      "photo": null,
+      "photoGap": "No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+      "videos": [
+        "https://www.youtube.com/watch?v=GO_kfdd_0vw",
+        "https://www.youtube.com/watch?v=xYU9jSyn6fY"
+      ],
+      "rejectedVideos": [],
+      "notes": [
+        "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results."
+      ]
+    },
+    {
+      "placeId": "puerto-princesa-balayong-peoples-park",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "City Government of Puerto Princesa — Balayong Park",
+          "url": "https://puertoprincesa.ph/balayong-park/",
+          "checkedOn": "2026-10-21",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photo": null,
+      "photoGap": "No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+      "videos": [
+        "https://www.youtube.com/watch?v=h1gyexSt06s",
+        "https://www.youtube.com/watch?v=oZYKd84sOiQ"
+      ],
+      "rejectedVideos": [],
+      "notes": [
+        "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results."
+      ]
+    },
+    {
+      "placeId": "el-nido-artcafe",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "El Nido Boutique & Artcafe — restaurant",
+          "url": "https://elnidoboutiqueandartcafe.com/artcafe-restuarant/",
+          "checkedOn": "2026-10-21",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photo": null,
+      "photoGap": "No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+      "videos": [
+        "https://www.youtube.com/watch?v=tkdKy3TI02I",
+        "https://www.youtube.com/watch?v=iiz7MtUkXFs"
+      ],
+      "rejectedVideos": [],
+      "notes": [
+        "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results."
+      ]
+    },
+    {
+      "placeId": "el-nido-trattoria-altrove",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Trattoria Altrove — official branch directory",
+          "url": "https://www.trattoriaaltrove.com/",
+          "checkedOn": "2026-10-21",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photo": null,
+      "photoGap": "No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+      "videos": [
+        "https://www.youtube.com/watch?v=mjZfDUqvHxo",
+        "https://www.youtube.com/watch?v=FUdtdjYN5nc"
+      ],
+      "rejectedVideos": [],
+      "notes": [
+        "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results."
+      ]
+    },
+    {
+      "placeId": "coron-trattoria-altrove",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Trattoria Altrove — official branch directory",
+          "url": "https://www.trattoriaaltrove.com/",
+          "checkedOn": "2026-10-21",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photo": null,
+      "photoGap": "No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+      "videos": [
+        "https://www.youtube.com/watch?v=kSyorWh9PGM",
+        "https://www.youtube.com/watch?v=a3tDr-X22sM"
+      ],
+      "rejectedVideos": [],
+      "notes": [
+        "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results."
+      ]
+    },
+    {
+      "placeId": "el-nido-kalye-artisano",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Kalye Artisano — artisan hub description",
+          "url": "https://kalyeartisano.com/pages/about-us",
+          "checkedOn": "2026-10-22",
+          "supports": "Official artisan-retail purpose and local artist/business community."
+        }
+      ],
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Kalye_Artisano_sign.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/8/85/Kalye_Artisano_sign.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "LuzViMindaLife",
+        "license": "CC BY-SA 4.0"
+      },
+      "photoGap": null,
+      "videos": [
+        "https://www.youtube.com/watch?v=KTMCoMixx4E"
+      ],
+      "rejectedVideos": [
+        {
+          "videoId": "mhcI1MoWJXU",
+          "reason": "Official source does not currently confirm a playable, embeddable video with an accessible description"
+        }
+      ],
+      "notes": [
+        "Video mhcI1MoWJXU: Official source does not currently confirm a playable, embeddable video with an accessible description"
+      ]
+    },
+    {
+      "placeId": "bohol-alona-beach-walk",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Wikipedia — Alona Beach",
+          "url": "https://en.wikipedia.org/wiki/Alona_Beach",
+          "checkedOn": "2026-10-22",
+          "supports": "Reviewed place identity, municipality and the specific descriptive facts in this overview."
+        }
+      ],
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Alona_Beach_Overview.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/4/47/Alona_Beach_Overview.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "No machine-readable author provided. Magalhães assumed (based on copyright claims).",
+        "license": "Public domain"
+      },
+      "photoGap": null,
+      "videos": [
+        "https://www.youtube.com/watch?v=_UfGs3H9nPg",
+        "https://www.youtube.com/watch?v=rjUlQw9WVh4"
+      ],
+      "rejectedVideos": [],
+      "notes": []
+    },
+    {
+      "placeId": "bohol-danao-beach-afternoon",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Panglao Tourism — Danao Beach",
+          "url": "https://www.panglaotourism.com/beaches/danao-beach/",
+          "checkedOn": "2026-10-22",
+          "supports": "Official beach identity, quieter setting and environmental visitor guidance."
+        }
+      ],
+      "photo": null,
+      "photoGap": "No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+      "videos": [
+        "https://www.youtube.com/watch?v=2fpHY4Gv0Q4",
+        "https://www.youtube.com/watch?v=Bbpgk9iOTQI"
+      ],
+      "rejectedVideos": [],
+      "notes": [
+        "Rejected Danaos hotel photographs and a different Panglao beach image. No water-safety determination inferred.",
+        "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results."
+      ]
+    },
+    {
+      "placeId": "bohol-saint-augustine-church",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Bohol Provincial Tourism Office — Panglao",
+          "url": "https://tourism.bohol.gov.ph/visitbohol-panglao/",
+          "checkedOn": "2026-10-21",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Panglao_church_Bohol.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Panglao_church_Bohol.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "Bengoeswhere",
+        "license": "CC BY-SA 4.0"
+      },
+      "photoGap": null,
+      "videos": [
+        "https://www.youtube.com/watch?v=-90lfHxfDAo",
+        "https://www.youtube.com/watch?v=7u0IaRLa0Yk"
+      ],
+      "rejectedVideos": [],
+      "notes": []
+    },
+    {
+      "placeId": "bohol-panglao-watchtower",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Bohol Provincial Tourism Office — Panglao",
+          "url": "https://tourism.bohol.gov.ph/visitbohol-panglao/",
+          "checkedOn": "2026-10-21",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Panglao_Watchtower_(Poblacion,_Panglao,_Bohol;_01-09-2023).jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Panglao_Watchtower_%28Poblacion%2C_Panglao%2C_Bohol%3B_01-09-2023%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "Patrickroque01",
+        "license": "CC BY-SA 4.0"
+      },
+      "photoGap": null,
+      "videos": [
+        "https://www.youtube.com/watch?v=ek2vy4FPZXU"
+      ],
+      "rejectedVideos": [],
+      "notes": [
+        "Video gap: One exact-tower resource selected; unrelated beach nightlife videos were excluded."
+      ]
+    },
+    {
+      "placeId": "bohol-nova-shell-museum",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Bohol Provincial Tourism Office — Panglao",
+          "url": "https://tourism.bohol.gov.ph/visitbohol-panglao/",
+          "checkedOn": "2026-10-21",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Nova_shell_museum,_Bohol.png",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/0/05/Nova_shell_museum%2C_Bohol.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "Qaalvin",
+        "license": "CC BY-SA 3.0"
+      },
+      "photoGap": null,
+      "videos": [
+        "https://www.youtube.com/watch?v=MQK3xmE2KN4",
+        "https://www.youtube.com/watch?v=UAyxDpFAG_c"
+      ],
+      "rejectedVideos": [],
+      "notes": []
+    },
+    {
+      "placeId": "bohol-doljo-beach",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Bohol Provincial Tourism Office — Panglao",
+          "url": "https://tourism.bohol.gov.ph/visitbohol-panglao/",
+          "checkedOn": "2026-10-21",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Doljo_Beach_in_Panglao.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Doljo_Beach_in_Panglao.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "Deepak-nsk",
+        "license": "CC0"
+      },
+      "photoGap": null,
+      "videos": [
+        "https://www.youtube.com/watch?v=ejDegDtSfXo",
+        "https://www.youtube.com/watch?v=IbpgGGB3lIU"
+      ],
+      "rejectedVideos": [],
+      "notes": []
+    },
+    {
+      "placeId": "bohol-dumaluan-beach",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Bohol Provincial Tourism Office — Panglao",
+          "url": "https://tourism.bohol.gov.ph/visitbohol-panglao/",
+          "checkedOn": "2026-10-21",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Panglao_Island_banner_Dumaluan_Resort_beach.png",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Panglao_Island_banner_Dumaluan_Resort_beach.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "Francisco M. Pajares, Jr.",
+        "license": "CC BY-SA 4.0"
+      },
+      "photoGap": null,
+      "videos": [
+        "https://www.youtube.com/watch?v=9apzh5BjlPw",
+        "https://www.youtube.com/watch?v=xIHmCz0CiFw"
+      ],
+      "rejectedVideos": [],
+      "notes": []
+    },
+    {
+      "placeId": "bohol-libaong-beach",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Bohol Provincial Tourism Office — Panglao",
+          "url": "https://tourism.bohol.gov.ph/visitbohol-panglao/",
+          "checkedOn": "2026-10-21",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photo": null,
+      "photoGap": "No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+      "videos": [
+        "https://www.youtube.com/watch?v=6EKk8Y-D2lg",
+        "https://www.youtube.com/watch?v=K-jGFU3mSSE"
+      ],
+      "rejectedVideos": [],
+      "notes": [
+        "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results."
+      ]
+    },
+    {
+      "placeId": "bohol-hinagdanan-cave",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Wikipedia — Hinagdanan Cave",
+          "url": "https://en.wikipedia.org/wiki/Hinagdanan_Cave",
+          "checkedOn": "2026-10-22",
+          "supports": "Reviewed place identity, municipality and the specific descriptive facts in this overview."
+        }
+      ],
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Snorkeling_in_Hinagdanan_Cave.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/0/03/Snorkeling_in_Hinagdanan_Cave.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "Deepak-nsk",
+        "license": "CC0"
+      },
+      "photoGap": null,
+      "videos": [
+        "https://www.youtube.com/watch?v=2YjkqhrnEN8",
+        "https://www.youtube.com/watch?v=lGtyJpNJDSw"
+      ],
+      "rejectedVideos": [],
+      "notes": [
+        "A historical swimming photograph does not establish current permission or conditions."
+      ]
+    },
+    {
+      "placeId": "bohol-dauis-church",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Bohol Provincial Tourism Office — Dauis",
+          "url": "https://tourism.bohol.gov.ph/visitbohol-dauis/",
+          "checkedOn": "2026-10-21",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Assumption_of_Our_Lady_Shrine_Parish_(Dauis,_Bohol)_ceiling_designs_and_columns_2018-06-17.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/6/65/Assumption_of_Our_Lady_Shrine_Parish_%28Dauis%2C_Bohol%29_ceiling_designs_and_columns_2018-06-17.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "LMP 2001",
+        "license": "CC BY-SA 4.0"
+      },
+      "photoGap": null,
+      "videos": [
+        "https://www.youtube.com/watch?v=gBkq94Xiu2w",
+        "https://www.youtube.com/watch?v=TVFvi8b-Bos"
+      ],
+      "rejectedVideos": [],
+      "notes": []
+    }
+  ]
+}

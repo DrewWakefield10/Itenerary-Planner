@@ -1,6 +1,6 @@
 # Additional-place research progress
 
-Snapshot: 22 October 2026. Starting directory: 200 unique accepted places. Additional accepted identities: 132; final published count: 332. Remaining toward 150 additions: 18.
+Snapshot: 23 October 2026. Starting directory: 200 unique accepted places. Additional accepted identities: 132; final published count: 332. Remaining toward 150 additions: 18.
 
 | Destination | Starting | Added | Addition target | Final |
 | --- | ---: | ---: | ---: | ---: |

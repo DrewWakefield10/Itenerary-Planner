@@ -1,5 +1,6 @@
 import type {DirectoryCandidate} from "./catalog/directory-schema";
 import type { SourceMetadata } from "./sources";
+import type {PlaceContent,PlacePhoto} from "./catalog/place-content-schema";
 
 export type DiscoveryPlace = {
   id: string;
@@ -13,6 +14,7 @@ export type DiscoveryPlace = {
   stopId?: string;
   interests?: string[];
   description: string;
+  editorial?:PlaceContent;
   reason: string;
   platform:
     | "Tourism website"
@@ -28,7 +30,7 @@ export type DiscoveryPlace = {
   originalPostUrl?: string;
   coordinates?: { lat: number; lng: number; source: SourceMetadata };
   locationSource?: SourceMetadata;
-  image?: { src: string; alt: string; creditUrl: string };
+  image?: { src: string; alt: string; creditUrl: string } & Partial<PlacePhoto>;
   /** Canonical English article reviewed as describing this exact place. */
   wikipedia?: { title: string; reviewedOn: string };
 };

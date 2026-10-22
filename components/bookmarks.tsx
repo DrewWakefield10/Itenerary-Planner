@@ -7,9 +7,9 @@ import {loadBookmarks,changeBookmark,pendingAction} from "@/lib/account-client";
 import type {Bookmark} from "@/lib/account-contract";
 import DiscoveryAddDialog from "./discovery-add-dialog";
 import {discoveryPlace,discoveryStop} from "@/lib/discovery";
-export function BookmarkButton({placeId,name}:{placeId:string;name:string}){
+export function BookmarkButton({placeId,name,showUnavailable=false}:{placeId:string;name:string;showUnavailable?:boolean}){
   const account=useAccount(),[busy,setBusy]=useState(false),[error,setError]=useState("");
-  if(!account.enabled||account.loading)return null;
+  if(!account.enabled||account.loading)return showUnavailable?<div className="place-save-unavailable"><button className="button secondary" disabled>Save place</button><span className="fine-print">{account.loading?"Checking account saving…":"Account saving is unavailable. Your browsing and trip planning remain available."}</span></div>:null;
   if(!account.user)return <GoogleSignIn returnTo={`/discover/${placeId}`} before={()=>pendingAction({kind:"bookmark",id:placeId})}>Save place</GoogleSignIn>;
   const current=account.bookmarks.includes(placeId);
   return <div><button className="text-link plain-button" disabled={busy} aria-label={`${current?"Remove saved":"Save"} place ${name}`} aria-pressed={current} onClick={async()=>{if(busy)return;setBusy(true);setError("");try{await changeBookmark(placeId,!current);await account.refreshBookmarks();}catch(e){setError(e instanceof Error?e.message:"Could not save this place. Retry.");}finally{setBusy(false);}}}><Heart size={16} fill={current?"currentColor":"none"}/>{busy?"Updating…":current?"Saved place":"Save place"}</button>{error&&<p className="fine-print" role="alert">{error}</p>}</div>;

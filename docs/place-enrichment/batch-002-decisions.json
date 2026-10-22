@@ -1,0 +1,807 @@
+{
+  "batchId": "batch-002",
+  "checkedOn": "2026-10-22",
+  "entries": [
+    {
+      "placeId": "iloilo-cabatuan-church",
+      "summary": "Cabatuan Church is the San Nicolas de Tolentino parish church in Cabatuan, Iloilo. This brick church belongs to the Archdiocese of Jaro and forms a religious landmark in the municipality’s historic center.",
+      "overview": [
+        "The San Nicolas de Tolentino Parish Church is commonly known as Cabatuan Church. Its setting is Cabatuan municipality in Iloilo province, rather than Iloilo City. The brick church is part of the Archdiocese of Jaro; its full parish name is useful for distinguishing it from similarly named churches elsewhere in the Philippines."
+      ],
+      "highlights": [
+        "Identify the brick parish church in Cabatuan’s town center."
+      ],
+      "tips": [],
+      "videos": [],
+      "useWiki": true,
+      "videoGap": "The reviewed results included Cabanatuan, Nueva Ecija and did not establish two exact Cabatuan, Iloilo resources.",
+      "sources": [
+        {
+          "name": "Wikipedia — Cabatuan Church",
+          "url": "https://en.wikipedia.org/wiki/Cabatuan_Church",
+          "checkedOn": "2026-10-22",
+          "supports": "Reviewed place identity, municipality and the specific descriptive facts in this overview."
+        }
+      ],
+      "photoFile": "Church of Cabatuan, Iloilo.jpg",
+      "photoAlt": "St. Nicolas of Tolentine Parish Church - Cabatuan in Cabatuan"
+    },
+    {
+      "placeId": "iloilo-garin-farm",
+      "summary": "Garin Farm is a farm and pilgrimage destination in San Joaquin, Iloilo. It provides a different kind of provincial stop from the municipality’s historic church and cemetery, with its own visitor arrangements.",
+      "overview": [
+        "Garin Farm combines a farm setting and a pilgrimage destination in San Joaquin municipality. Its location is in Iloilo province, outside Iloilo City. Keep the farm name in directions rather than using San Joaquin Church or the Camposanto cemetery as interchangeable meeting points."
+      ],
+      "highlights": [],
+      "tips": [],
+      "videos": [
+        {
+          "id": "XW_uJXDDWs0",
+          "relevance": "A dedicated Garin Farm walking visit in San Joaquin, Iloilo."
+        },
+        {
+          "id": "ayelucr8-R8",
+          "relevance": "A visitor guide explicitly identifying Garin Farm in San Joaquin."
+        }
+      ],
+      "photoGap": "Commons results showed a general San Joaquin town view from the farm, not a clear photograph of the attraction.",
+      "sources": [
+        {
+          "name": "Philippine News Agency - southern Iloilo heritage caravan",
+          "url": "https://www.pna.gov.ph/articles/1214613",
+          "checkedOn": "2026-10-21",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ]
+    },
+    {
+      "placeId": "baguio-baguio-museum",
+      "summary": "Baguio Museum is a museum on Governor Pack Road in central Baguio. Its DOT–PTA Complex address distinguishes it from the city’s university museums and the Emilio Aguinaldo Museum on Happy Glen Loop.",
+      "overview": [
+        "Baguio Museum is identified by the city tourism office at the DOT–PTA Complex on Governor Pack Road. This is the museum to look for when a visitor resource uses the simple name “Baguio Museum.” Museo Kordilyera, the SLU museum and the Emilio Aguinaldo Museum are separate institutions, each with a different focus and entrance."
+      ],
+      "highlights": [],
+      "tips": [],
+      "videos": [
+        {
+          "id": "aES1pgdUL90",
+          "relevance": "Baguio Museum’s own virtual-tour resource introduces the museum."
+        }
+      ],
+      "sources": [
+        {
+          "name": "Baguio City — public tourism information",
+          "url": "https://main.baguio.gov.ph/api/infoboard/tourist-spots/baguio-museum",
+          "checkedOn": "2026-10-22",
+          "supports": "Official place name and street location only; the public description field is empty."
+        },
+        {
+          "name": "Baguio City Government - tourist directory",
+          "url": "https://infoboard.baguio.gov.ph/tourists-spots",
+          "checkedOn": "2026-10-21",
+          "supports": "Previously accepted place identity and concise descriptive facts."
+        }
+      ],
+      "photoFile": "Baguio Museum, March 2022.jpg",
+      "photoAlt": "The exterior of Baguio Museum on Governor Pack Road"
+    },
+    {
+      "placeId": "baguio-tam-awan-village",
+      "summary": "Tam-awan Village brings Cordillera huts, visual art and cultural activities together in Pinsao Proper, Baguio. Its landscaped hillside setting was designed to evoke a traditional village while making space for artists and visitors.",
+      "overview": [
+        "Tam-awan Village is a cultural space adapted to Baguio’s hillside terrain. Its name means “vantage point,” and its development brought together art, landscape and traditional Cordillera architecture. The village preserves huts from Sagada and Kalinga, giving visitors a particular setting in which to learn about the region’s built culture. Art exhibitions and cultural activities are part of its purpose, alongside a café and a craft shop. The operator describes woven products, brass accessories and woodcarving among the crafts represented. These are features of a cultural venue in Baguio, rather than a claim that the site is itself a village in Sagada or Kalinga."
+      ],
+      "highlights": [
+        "Look for the preserved Cordillera huts.",
+        "Explore the village’s art and craft focus."
+      ],
+      "tips": [],
+      "videos": [
+        {
+          "id": "gq6c0YA87CI",
+          "relevance": "A visitor introduction explicitly focused on Tam-awan Village."
+        },
+        {
+          "id": "QIVXS8k1-eg",
+          "relevance": "A separate visitor experience at Tam-awan Village in Baguio."
+        }
+      ],
+      "sources": [
+        {
+          "name": "Tam-awan Village — About us",
+          "url": "https://tamawanvillage.com/about-us/",
+          "checkedOn": "2026-10-22",
+          "supports": "Cultural purpose, hillside setting, huts, art, café and craft shop."
+        }
+      ],
+      "photoFile": "Tam-awan Village (Baguio City).jpg",
+      "photoAlt": "Tam-awan Village in Baguio City"
+    },
+    {
+      "placeId": "baguio-camp-john-hay",
+      "summary": "Camp John Hay is a mixed-use recreation destination and forest watershed reservation in Baguio. Its former military-base identity and wooded setting distinguish it from the city-center parks and individual businesses inside the estate.",
+      "overview": [
+        "Camp John Hay was formerly a United States military base and is now a mixed-use destination in Baguio. The wider property also serves as a forest watershed reservation. Its scale matters when planning a visit: Camp John Hay is the name of an area, not a single café, hotel or trail entrance. A visitor interested in its wooded landscape should choose a particular part of the property before arranging a pickup."
+      ],
+      "highlights": [
+        "Notice the forested setting of the former military base."
+      ],
+      "tips": [],
+      "videos": [
+        {
+          "id": "6q8MGD0843Y",
+          "relevance": "A walking resource focused on Camp John Hay in Baguio."
+        },
+        {
+          "id": "xlaIu9crE-0",
+          "relevance": "A second visitor perspective on Camp John Hay."
+        }
+      ],
+      "useWiki": true,
+      "photoFile": "Camp John Hay Forest Overlooking Baguio.jpg",
+      "photoAlt": "Forested Camp John Hay overlooking Baguio",
+      "sources": [
+        {
+          "name": "Wikipedia — Camp John Hay",
+          "url": "https://en.wikipedia.org/wiki/Camp_John_Hay",
+          "checkedOn": "2026-10-22",
+          "supports": "Reviewed place identity, municipality and the specific descriptive facts in this overview."
+        }
+      ]
+    },
+    {
+      "placeId": "baguio-easter-weaving-room",
+      "summary": "Easter Weaving Room is a weaving venue on Easter Road in Guisad, Baguio. It is a specific textile-related stop, distinct from the city’s other craft shops and university museum collections.",
+      "overview": [
+        "The city tourism office lists Easter Weaving Room, Inc. on Easter Road in Guisad. Its identity is connected with weaving, making the exact venue name useful for travelers interested in Baguio’s textile culture. A visit here should be planned separately from Narda’s or the SLU museum rather than treating those names as one attraction."
+      ],
+      "highlights": [],
+      "tips": [],
+      "videos": [
+        {
+          "id": "x13Qg54DLzU",
+          "relevance": "A visitor resource explicitly identifying Easter Weaving Room in Baguio."
+        },
+        {
+          "id": "MQ7pY8dNnIE",
+          "relevance": "A resource about Easter Weaving Room and its textile work."
+        }
+      ],
+      "sources": [
+        {
+          "name": "Baguio City — public tourism information",
+          "url": "https://main.baguio.gov.ph/api/infoboard/tourist-spots/easter-weaving-room-inc",
+          "checkedOn": "2026-10-22",
+          "supports": "Official place name and street location only; the public description field is empty."
+        },
+        {
+          "name": "Baguio City Government - tourist directory",
+          "url": "https://infoboard.baguio.gov.ph/tourists-spots",
+          "checkedOn": "2026-10-21",
+          "supports": "Previously accepted place identity and concise descriptive facts."
+        }
+      ],
+      "photoGap": "No exact-place photograph with established reuse rights in the reviewed Commons results."
+    },
+    {
+      "placeId": "baguio-ili-likha",
+      "summary": "Ili-Likha Artists’ Wateringhole is an artists’ venue on Assumption Road in Baguio. Its central-city address makes it a distinct creative stop, separate from the hillside cultural setting of Tam-awan Village.",
+      "overview": [
+        "Baguio’s tourism office identifies Ili-Likha Artists’ Wateringhole at 32 Assumption Road. This listing concerns that particular artists’ venue in the city center. Keep the venue name and street together when checking visitor resources, since Baguio has several independently operated art and cultural spaces."
+      ],
+      "highlights": [],
+      "tips": [],
+      "videos": [
+        {
+          "id": "OgpD4ef82WU",
+          "relevance": "A visit explicitly centered on Ili-Likha in Baguio."
+        },
+        {
+          "id": "6zo4QOKK5Rc",
+          "relevance": "A separate visitor’s look at Ili-Likha Artists’ Wateringhole."
+        }
+      ],
+      "sources": [
+        {
+          "name": "Baguio City — public tourism information",
+          "url": "https://main.baguio.gov.ph/api/infoboard/tourist-spots/ili-likha-artists-wateringhole",
+          "checkedOn": "2026-10-22",
+          "supports": "Official place name and street location only; the public description field is empty."
+        },
+        {
+          "name": "Baguio City Government - tourist directory",
+          "url": "https://infoboard.baguio.gov.ph/tourists-spots",
+          "checkedOn": "2026-10-21",
+          "supports": "Previously accepted place identity and concise descriptive facts."
+        }
+      ],
+      "photoGap": "No exact-place photograph with established reuse rights in the reviewed Commons results."
+    },
+    {
+      "placeId": "baguio-aguinaldo-museum",
+      "summary": "The Emilio F. Aguinaldo Museum is on Happy Glen Loop Road in Baguio. This museum is a separate destination from Aguinaldo’s house in Kawit, Cavite, and from the other museums around Governor Pack Road.",
+      "overview": [
+        "The city’s public tourism directory identifies the Emilio F. Aguinaldo Museum on Happy Glen Loop Road. The Baguio location is important when choosing a video or arranging directions: resources about Aguinaldo Shrine in Kawit describe another place. This listing concerns the museum in Baguio, with current exhibitions and visiting arrangements left to the institution."
+      ],
+      "highlights": [],
+      "tips": [],
+      "videos": [
+        {
+          "id": "ZspHylYSM4I",
+          "relevance": "A resource explicitly identifying the Emilio Aguinaldo Museum in Baguio."
+        }
+      ],
+      "sources": [
+        {
+          "name": "Baguio City — public tourism information",
+          "url": "https://main.baguio.gov.ph/api/infoboard/tourist-spots/emilio-f-aguinaldo-museum",
+          "checkedOn": "2026-10-22",
+          "supports": "Official place name and street location only; the public description field is empty."
+        },
+        {
+          "name": "Baguio City Government - tourist directory",
+          "url": "https://infoboard.baguio.gov.ph/tourists-spots",
+          "checkedOn": "2026-10-21",
+          "supports": "Previously accepted place identity and concise descriptive facts."
+        }
+      ],
+      "photoGap": "No exact-place photograph with established reuse rights in the reviewed Commons results.",
+      "videoGap": "Only one exact-Baguio resource selected; similarly named Cavite venues were excluded."
+    },
+    {
+      "placeId": "baguio-maryknoll-sanctuary",
+      "summary": "Maryknoll Ecological Sanctuary is a nature-oriented venue on North Santo Tomas Road in Baguio. Its specific sanctuary setting offers a different stop from a city plaza or a general mountain viewpoint.",
+      "overview": [
+        "Baguio’s tourism directory identifies Maryknoll Ecological Sanctuary on North Santo Tomas Road. The ecological-sanctuary identity and street location are the useful starting points for planning this visit. It is a separate destination from Mirador Hill and the parks around the city center."
+      ],
+      "highlights": [],
+      "tips": [],
+      "videos": [
+        {
+          "id": "GOOYDjMcjro",
+          "relevance": "A Baguio-focused resource identifying the Maryknoll sanctuary."
+        }
+      ],
+      "sources": [
+        {
+          "name": "Baguio City — public tourism information",
+          "url": "https://main.baguio.gov.ph/api/infoboard/tourist-spots/maryknoll-ecological-sanctuary",
+          "checkedOn": "2026-10-22",
+          "supports": "Official place name and street location only; the public description field is empty."
+        },
+        {
+          "name": "Baguio City Government - tourist directory",
+          "url": "https://infoboard.baguio.gov.ph/tourists-spots",
+          "checkedOn": "2026-10-21",
+          "supports": "Previously accepted place identity and concise descriptive facts."
+        }
+      ],
+      "photoGap": "No exact-place photograph with established reuse rights in the reviewed Commons results."
+    },
+    {
+      "placeId": "baguio-lourdes-grotto",
+      "summary": "Lourdes Grotto and Chapel is a religious destination on Saint Theresa Extension in Baguio. This listing concerns the Baguio site, rather than other Lourdes grottos elsewhere in the Philippines.",
+      "overview": [
+        "The city tourism office lists Lourdes Grotto and Chapel on Saint Theresa Extension. Its religious identity makes it a different visit from nearby hill attractions, even when a walking route includes more than one place. Use “Baguio” with the grotto name when choosing directions or visitor recordings."
+      ],
+      "highlights": [],
+      "tips": [],
+      "videos": [
+        {
+          "id": "SbnXHV8mbNw",
+          "relevance": "A walking resource explicitly identifying Lourdes Grotto in Baguio."
+        },
+        {
+          "id": "-IQXpumgslA",
+          "relevance": "A second visitor resource about the Baguio Lourdes Grotto."
+        }
+      ],
+      "sources": [
+        {
+          "name": "Baguio City — public tourism information",
+          "url": "https://main.baguio.gov.ph/api/infoboard/tourist-spots/lourdes-grotto-and-chapel",
+          "checkedOn": "2026-10-22",
+          "supports": "Official place name and street location only; the public description field is empty."
+        },
+        {
+          "name": "Baguio City Government - tourist directory",
+          "url": "https://infoboard.baguio.gov.ph/tourists-spots",
+          "checkedOn": "2026-10-21",
+          "supports": "Previously accepted place identity and concise descriptive facts."
+        }
+      ],
+      "photoFile": "Lourdes Grotto Chapel, Baguio City, Jan 2024.jpg",
+      "photoAlt": "Lourdes Grotto and Chapel in Baguio City"
+    },
+    {
+      "placeId": "baguio-heritage-hill",
+      "summary": "Heritage Hill and Nature Park occupies the Old Diplomat Hotel site on Dominican Hill in Baguio. The former building and hilltop setting are the focus of this heritage destination, separate from Lourdes Grotto.",
+      "overview": [
+        "The Old Diplomat Hotel site is now identified as Baguio’s Heritage Hill and Nature Park. It stands on Dominican Hill, and the city lists its address on Diplomat Road. The former structure and elevated setting distinguish it from the city’s parks and religious grottos. Rehabilitation has taken place at the property, so an older recording is useful for orientation without establishing which parts of the building can currently be entered."
+      ],
+      "highlights": [
+        "Identify the former hotel building on Dominican Hill."
+      ],
+      "tips": [],
+      "videos": [
+        {
+          "id": "28X9Kgtu110",
+          "relevance": "A resource focused on the Old Diplomat Hotel heritage site."
+        },
+        {
+          "id": "G_vHoWYYNx8",
+          "relevance": "A second visitor recording of the Baguio heritage property."
+        }
+      ],
+      "useWiki": true,
+      "notes": [
+        "Excluded supernatural claims; past recordings do not establish current interior access."
+      ],
+      "sources": [
+        {
+          "name": "Wikipedia — Diplomat Hotel",
+          "url": "https://en.wikipedia.org/wiki/Diplomat_Hotel",
+          "checkedOn": "2026-10-22",
+          "supports": "Reviewed place identity, municipality and the specific descriptive facts in this overview."
+        }
+      ],
+      "photoFile": "Diplomat Hotel - front (Dominican Hill, Baguio, Benguet)(2018-11-27).JPG",
+      "photoAlt": "Heritage Hill and Nature Park Garden in Baguio City"
+    },
+    {
+      "placeId": "baguio-museo-kordilyera",
+      "summary": "Museo Kordilyera is the University of the Philippines Baguio’s ethnographic museum. Its collections and exhibitions focus on indigenous cultures of Northern Luzon, making it a distinct cultural visit on the university’s Governor Pack Road campus.",
+      "overview": [
+        "Museo Kordilyera is UP Baguio’s ethnographic museum, dedicated to understanding and preserving indigenous cultures in Northern Luzon. Its collections, exhibitions and educational work provide ways to learn about the people of the Cordillera beyond a general introduction to Baguio. The museum publishes an online collection catalogue and resources about past exhibitions, including work concerning textiles and different Cordillera communities. Its shop also represents local handmade products. The institution is located on the UP Baguio campus on Governor Pack Road. Check the museum’s current exhibition information when planning a particular interest; material documented in an older virtual tour may describe a past installation."
+      ],
+      "highlights": [
+        "Explore the museum’s ethnographic focus.",
+        "Use its online catalogue to learn about collection objects."
+      ],
+      "tips": [],
+      "videos": [
+        {
+          "id": "1Zjt1etCO5M",
+          "relevance": "TVUP’s documentary resource introduces Museo Kordilyera."
+        },
+        {
+          "id": "XJE-w8Pnlno",
+          "relevance": "A visitor introduction explicitly focused on Museo Kordilyera."
+        }
+      ],
+      "sources": [
+        {
+          "name": "Museo Kordilyera — official UP Baguio museum",
+          "url": "https://museokordilyera.upb.edu.ph/",
+          "checkedOn": "2026-10-22",
+          "supports": "Ethnographic purpose, Northern Luzon cultures, online collections, exhibitions and museum shop."
+        },
+        {
+          "name": "Baguio City — public tourism information",
+          "url": "https://main.baguio.gov.ph/api/infoboard/tourist-spots/museo-kordilyera",
+          "checkedOn": "2026-10-22",
+          "supports": "Official place name and street location only; the public description field is empty."
+        }
+      ],
+      "photoFile": "UPB MuseoKordilyera.jpg",
+      "photoAlt": "Museo Kordilyera in Baguio City"
+    },
+    {
+      "placeId": "baguio-mansion-house",
+      "summary": "The Mansion is the Philippine president’s official summer residence in Baguio. This listing identifies the Romulo Drive property and its presidential-history interest, keeping the building distinct from Wright Park nearby.",
+      "overview": [
+        "The Mansion, also called Mansion House, is the official summer residence of the President of the Philippines. It is in Baguio’s Cordillera setting, and the city tourism office places it on Romulo Drive. An exterior photograph identifies the residence itself; it does not establish access to rooms or a particular museum display. Wright Park is a separate destination in the surrounding area."
+      ],
+      "highlights": [],
+      "tips": [],
+      "videos": [
+        {
+          "id": "baJTHhUJejk",
+          "relevance": "UNTV’s report identifies the presidential museum at the Baguio Mansion."
+        },
+        {
+          "id": "Fa3bfUoTvnc",
+          "relevance": "A visitor recording explicitly featuring the Mansion’s presidential museum."
+        }
+      ],
+      "useWiki": true,
+      "photoAlt": "The Mansion building in Baguio, photographed from outside",
+      "notes": [
+        "Video admission claims were not copied as current fees; exterior image is not a museum-interior photograph."
+      ],
+      "sources": [
+        {
+          "name": "Wikipedia — The Mansion (Baguio)",
+          "url": "https://en.wikipedia.org/wiki/The_Mansion_(Baguio)",
+          "checkedOn": "2026-10-22",
+          "supports": "Reviewed place identity, municipality and the specific descriptive facts in this overview."
+        }
+      ],
+      "photoFile": "The Mansion, Baguio City. Building only.jpg"
+    },
+    {
+      "placeId": "baguio-wright-park",
+      "summary": "Wright Park is a park on Romulo Drive in Baguio, near The Mansion. It is a separate outdoor stop, so directions and visitor resources should identify the park rather than the presidential residence.",
+      "overview": [
+        "Wright Park is a Baguio park identified by the city tourism office on Romulo Drive. Its location near The Mansion helps orient a visit, but the park and residence remain separate places. This listing focuses on the park itself; a route through the surrounding area may include other attractions with different access arrangements."
+      ],
+      "highlights": [],
+      "tips": [],
+      "videos": [
+        {
+          "id": "-toe3VWpmBA",
+          "relevance": "A walking visit explicitly focused on Wright Park in Baguio."
+        },
+        {
+          "id": "-69p6NM3eQM",
+          "relevance": "A second walking resource for Wright Park."
+        }
+      ],
+      "sources": [
+        {
+          "name": "Baguio City — public tourism information",
+          "url": "https://main.baguio.gov.ph/api/infoboard/tourist-spots/wright-park",
+          "checkedOn": "2026-10-22",
+          "supports": "Official place name and street location only; the public description field is empty."
+        },
+        {
+          "name": "Baguio City Government - tourist directory",
+          "url": "https://infoboard.baguio.gov.ph/tourists-spots",
+          "checkedOn": "2026-10-21",
+          "supports": "Previously accepted place identity and concise descriptive facts."
+        }
+      ],
+      "notes": [
+        "Retained the existing licensed Wright Park photograph."
+      ]
+    },
+    {
+      "placeId": "baguio-baguio-cathedral-area",
+      "summary": "Baguio Cathedral is the Roman Catholic Cathedral of Our Lady of the Atonement, adjacent to Session Road. Its cathedral identity and central-city setting distinguish it from Baguio’s convent chapels and hillside grottos.",
+      "overview": [
+        "The Baguio Cathedral and Diocesan Shrine of Our Lady of the Atonement is the seat of the Diocese of Baguio. It stands at Cathedral Loop beside Session Road. This is the principal cathedral identified by the short name “Baguio Cathedral”; Pink Sisters’ Chapel and Lourdes Grotto are different religious destinations. A visitor interested in the building should plan around its continuing role as a place of worship."
+      ],
+      "highlights": [
+        "Identify the Cathedral of Our Lady of the Atonement.",
+        "Orient your visit using Cathedral Loop and Session Road."
+      ],
+      "tips": [],
+      "videos": [
+        {
+          "id": "IMc4grEr_lI",
+          "relevance": "A resource explicitly identifying Baguio Cathedral."
+        },
+        {
+          "id": "dO4Ct8OvBq0",
+          "relevance": "A street-level visitor resource including the cathedral setting."
+        }
+      ],
+      "useWiki": true,
+      "sources": [
+        {
+          "name": "Wikipedia — Baguio Cathedral",
+          "url": "https://en.wikipedia.org/wiki/Baguio_Cathedral",
+          "checkedOn": "2026-10-22",
+          "supports": "Reviewed place identity, municipality and the specific descriptive facts in this overview."
+        }
+      ],
+      "photoFile": "Baguio Cathedral (Carlu Street, Baguio City; 02-25-2024).jpg",
+      "photoAlt": "Baguio Cathedral in Baguio City"
+    },
+    {
+      "placeId": "baguio-mirador-hill",
+      "summary": "Mirador Hill is a hill attraction on Saint Theresa Extension in Baguio. Its city-specific name and address distinguish it from other places called Mirador Hill, including the unrelated Antarctic geographic feature.",
+      "overview": [
+        "Baguio’s public tourism directory identifies Mirador Hill on Saint Theresa Extension. This is the Baguio hill destination featured in local visitor walks. Use the city and street with the attraction name when arranging a visit, since the short name alone can lead to an unrelated location."
+      ],
+      "highlights": [],
+      "tips": [],
+      "videos": [
+        {
+          "id": "tEhkM4H5VM4",
+          "relevance": "A second walking resource about Mirador in Baguio."
+        }
+      ],
+      "sources": [
+        {
+          "name": "Baguio City — public tourism information",
+          "url": "https://main.baguio.gov.ph/api/infoboard/tourist-spots/mirador-hill",
+          "checkedOn": "2026-10-22",
+          "supports": "Official place name and street location only; the public description field is empty."
+        },
+        {
+          "name": "Baguio City Government - tourist directory",
+          "url": "https://infoboard.baguio.gov.ph/tourists-spots",
+          "checkedOn": "2026-10-21",
+          "supports": "Previously accepted place identity and concise descriptive facts."
+        }
+      ],
+      "photoGap": "No exact-place photograph with established reuse rights in the reviewed Commons results.",
+      "notes": [
+        "Rejected Wikipedia’s unrelated Antarctic hill article and location map."
+      ]
+    },
+    {
+      "placeId": "baguio-pink-sisters",
+      "summary": "Pink Sisters’ Convent and Chapel is a religious destination on Brent Road in Baguio. Its convent setting makes it a distinct visit from the city cathedral and Lourdes Grotto.",
+      "overview": [
+        "The city tourism office identifies Pink Sisters’ Convent and Chapel on Brent Road. This listing concerns the Baguio chapel, rather than a similarly named religious community in another city. Its specific convent-and-chapel identity is useful when choosing directions and visitor resources."
+      ],
+      "highlights": [],
+      "tips": [],
+      "videos": [
+        {
+          "id": "LXx8cmCD2rs",
+          "relevance": "A resource explicitly identifying Pink Sisters’ Chapel in Baguio."
+        },
+        {
+          "id": "PdxutYCWg-4",
+          "relevance": "A Baguio walking guide to Pink Sisters’ Chapel."
+        }
+      ],
+      "sources": [
+        {
+          "name": "Baguio City — public tourism information",
+          "url": "https://main.baguio.gov.ph/api/infoboard/tourist-spots/pink-sisters-convent-and-chapel",
+          "checkedOn": "2026-10-22",
+          "supports": "Official place name and street location only; the public description field is empty."
+        },
+        {
+          "name": "Baguio City Government - tourist directory",
+          "url": "https://infoboard.baguio.gov.ph/tourists-spots",
+          "checkedOn": "2026-10-21",
+          "supports": "Previously accepted place identity and concise descriptive facts."
+        }
+      ],
+      "photoGap": "No exact-place photograph with established reuse rights in the reviewed Commons results."
+    },
+    {
+      "placeId": "baguio-slu-museum",
+      "summary": "Saint Louis University’s Museum of Igorot Cultures and Arts focuses on Cordillera cultural heritage. Located at the university on Bonifacio Street, it is a different institution from UP Baguio’s Museo Kordilyera.",
+      "overview": [
+        "SLU’s Museum of Igorot Cultures and Arts presents material relating to Igorot cultural heritage, including traditional objects and art. It is located at Saint Louis University on Bonifacio Street in Baguio. The museum’s educational purpose connects collections with the preservation and appreciation of culture, rather than treating the objects simply as decorations. Its visitor guidance asks guests not to handle artifacts without permission. Group and guided visits need advance arrangements with the museum. Travelers planning a focused cultural visit should distinguish this university institution from Museo Kordilyera at UP Baguio and the independently named Baguio Museum."
+      ],
+      "highlights": [
+        "Learn about traditional cultural objects and art.",
+        "Arrange a guided or group visit with the museum."
+      ],
+      "tips": [
+        "Do not handle artifacts unless museum staff give permission.",
+        "Arrange group or guided visits in advance."
+      ],
+      "videos": [],
+      "sources": [
+        {
+          "name": "Saint Louis University — Museum of Igorot Culture and Arts",
+          "url": "https://www.slu.edu.ph/museum-of-igorot-culture-and-arts/",
+          "checkedOn": "2026-10-22",
+          "supports": "Museum purpose, collections and published visitor guidance; public search-index text accessible, direct fetch failed."
+        },
+        {
+          "name": "Baguio City — public tourism information",
+          "url": "https://main.baguio.gov.ph/api/infoboard/tourist-spots/slu-museum-of-igorot-cultures-arts",
+          "checkedOn": "2026-10-22",
+          "supports": "Official place name and street location only; the public description field is empty."
+        }
+      ],
+      "photoGap": "No exact museum photograph with documented reuse rights found.",
+      "videoGap": "The reviewed YouTube search did not establish a useful exact-museum visitor resource.",
+      "notes": [
+        "Official university search-index text reviewed; direct page access failed. No opening hours or fees inferred."
+      ]
+    },
+    {
+      "placeId": "baguio-bamboo-sanctuary",
+      "summary": "St. Francis Xavier Bamboo Sanctuary is a bamboo-focused attraction in Pacdal, Baguio. The sanctuary name and Pacdal location identify this stop separately from other gardens and religious sites around the city.",
+      "overview": [
+        "The city’s public tourism directory names St. Francis Xavier Bamboo Sanctuary in Pacdal. Its bamboo setting is the particular focus of this listing. Use the full sanctuary name when checking visitor resources, rather than substituting a general Baguio garden or a bamboo attraction in another municipality."
+      ],
+      "highlights": [],
+      "tips": [],
+      "videos": [
+        {
+          "id": "U9NoXGV_5so",
+          "relevance": "A visitor resource explicitly identifying Baguio’s Bamboo Sanctuary."
+        }
+      ],
+      "sources": [
+        {
+          "name": "Baguio City — public tourism information",
+          "url": "https://main.baguio.gov.ph/api/infoboard/tourist-spots/bamboo-sanctuary",
+          "checkedOn": "2026-10-22",
+          "supports": "Official place name and street location only; the public description field is empty."
+        },
+        {
+          "name": "Baguio City Government - tourist directory",
+          "url": "https://infoboard.baguio.gov.ph/tourists-spots",
+          "checkedOn": "2026-10-21",
+          "supports": "Previously accepted place identity and concise descriptive facts."
+        }
+      ],
+      "photoGap": "No exact-place photograph with established reuse rights in the reviewed Commons results.",
+      "notes": [
+        "Official feed coordinate appears inconsistent with its Pacdal address; no coordinate change made from that feed."
+      ]
+    },
+    {
+      "placeId": "baguio-pilak-silvercraft",
+      "summary": "PILAK Silvercraft and Gift Shoppe is a silvercraft venue on Leonard Wood Road in Baguio. It offers a specific craft-related stop, distinct from the city’s textile shops and museum collections.",
+      "overview": [
+        "Baguio’s tourism office lists PILAK Silvercraft and Gift Shoppe at 37 Leonard Wood Road. Its silvercraft identity makes the full shop name useful when comparing visitor resources about local crafts. This is a specific business location, rather than a general listing for every silver seller in Baguio."
+      ],
+      "highlights": [],
+      "tips": [],
+      "videos": [],
+      "sources": [
+        {
+          "name": "Baguio City — public tourism information",
+          "url": "https://main.baguio.gov.ph/api/infoboard/tourist-spots/pilak-silvercraft-and-gift-shoppe",
+          "checkedOn": "2026-10-22",
+          "supports": "Official place name and street location only; the public description field is empty."
+        },
+        {
+          "name": "Baguio City Government - tourist directory",
+          "url": "https://infoboard.baguio.gov.ph/tourists-spots",
+          "checkedOn": "2026-10-21",
+          "supports": "Previously accepted place identity and concise descriptive facts."
+        }
+      ],
+      "photoGap": "No exact-place photograph with established reuse rights in the reviewed Commons results.",
+      "videoGap": "Craft-family interview did not establish a visit to this particular shop; excluded after source review.",
+      "notes": [
+        "Craft-family interview did not establish a visit to this particular shop; excluded after source review."
+      ]
+    },
+    {
+      "placeId": "baguio-nardas-handwoven",
+      "summary": "Narda’s Handwoven Arts and Crafts is a textile and craft venue on Upper Session Road in Baguio. This listing identifies the city shop, keeping it distinct from weaving venues elsewhere in the Cordillera.",
+      "overview": [
+        "The city tourism office identifies Narda’s Handwoven Arts and Crafts at 151 Upper Session Road. The handwoven-craft focus and precise address help distinguish this Baguio stop from other textile-related businesses. A brand appearance at a fashion event does not necessarily show this shop; the selected visitor resource identifies the Baguio venue."
+      ],
+      "highlights": [],
+      "tips": [],
+      "videos": [
+        {
+          "id": "Z_x8x6iY_Cc",
+          "relevance": "A visitor resource explicitly naming Narda’s in Baguio."
+        }
+      ],
+      "sources": [
+        {
+          "name": "Baguio City — public tourism information",
+          "url": "https://main.baguio.gov.ph/api/infoboard/tourist-spots/nardas-handwoven-arts-crafts",
+          "checkedOn": "2026-10-22",
+          "supports": "Official place name and street location only; the public description field is empty."
+        },
+        {
+          "name": "Baguio City Government - tourist directory",
+          "url": "https://infoboard.baguio.gov.ph/tourists-spots",
+          "checkedOn": "2026-10-21",
+          "supports": "Previously accepted place identity and concise descriptive facts."
+        }
+      ],
+      "photoGap": "No exact-place photograph with established reuse rights in the reviewed Commons results.",
+      "videoGap": "Other results focused on brand events rather than an established visit to this shop."
+    },
+    {
+      "placeId": "baguio-good-shepherd",
+      "summary": "Good Shepherd is a local-delicacy stop on Gibraltar Road in Baguio. Its exact city location matters when comparing visitor recordings or arranging a pickup, since the name also appears in other places.",
+      "overview": [
+        "Baguio’s tourism office lists Good Shepherd on Gibraltar Road. This listing concerns the local-delicacy stop identified by that address. A photograph of the surrounding grounds is not necessarily a photograph of the shop, so no general garden view has been substituted for the business itself."
+      ],
+      "highlights": [],
+      "tips": [],
+      "videos": [
+        {
+          "id": "jbV9DB2-mR0",
+          "relevance": "A second recorded visit to Good Shepherd in Baguio."
+        }
+      ],
+      "sources": [
+        {
+          "name": "Baguio City — public tourism information",
+          "url": "https://main.baguio.gov.ph/api/infoboard/tourist-spots/good-sheperd",
+          "checkedOn": "2026-10-22",
+          "supports": "Official place name and street location only; the public description field is empty."
+        },
+        {
+          "name": "Baguio City Government - tourist directory",
+          "url": "https://infoboard.baguio.gov.ph/tourists-spots",
+          "checkedOn": "2026-10-21",
+          "supports": "Previously accepted place identity and concise descriptive facts."
+        }
+      ],
+      "photoGap": "No exact-place photograph with established reuse rights in the reviewed Commons results.",
+      "notes": [
+        "Commons grounds and statue photographs did not clearly identify the shop; photo gap retained."
+      ]
+    },
+    {
+      "placeId": "baguio-malcolm-square",
+      "summary": "Malcolm Square is a public square at Lower Session Road in central Baguio. Its street-level civic setting makes it a distinct city stop, separate from the larger park grounds elsewhere in Baguio.",
+      "overview": [
+        "The city tourism directory identifies Malcolm Square at Lower Session Road. Its central street setting is useful for orienting a walk around this part of Baguio. Keep the square’s name in directions rather than assuming that every recording of Session Road shows the same public space."
+      ],
+      "highlights": [],
+      "tips": [],
+      "videos": [
+        {
+          "id": "93tpNZJB4i4",
+          "relevance": "A visitor walk explicitly identifying Malcolm Square."
+        },
+        {
+          "id": "Lo1FlIcqcrs",
+          "relevance": "A second street-level resource about Malcolm Square in Baguio."
+        }
+      ],
+      "sources": [
+        {
+          "name": "Baguio City — public tourism information",
+          "url": "https://main.baguio.gov.ph/api/infoboard/tourist-spots/malcolm-square",
+          "checkedOn": "2026-10-22",
+          "supports": "Official place name and street location only; the public description field is empty."
+        },
+        {
+          "name": "Baguio City Government - tourist directory",
+          "url": "https://infoboard.baguio.gov.ph/tourists-spots",
+          "checkedOn": "2026-10-21",
+          "supports": "Previously accepted place identity and concise descriptive facts."
+        }
+      ],
+      "photoFile": "Baguio city proper, Magsaysay Avenue, Malcolm Square (Baguio City; 12-03-2022).jpg",
+      "photoAlt": "Malcolm Square in Baguio City"
+    },
+    {
+      "placeId": "baguio-mines-view-park",
+      "summary": "Mines View Park is an overlook on Baguio’s northeastern edge, looking toward Itogon and former mining landscapes. Its observation deck is reached by a winding stone-covered stairway, making the viewpoint a specific outdoor stop.",
+      "overview": [
+        "Mines View Park occupies a promontory on the northeastern outskirts of Baguio. The outlook takes in the mining town of Itogon, including former gold and copper mining areas, with a glimpse toward the Amburayan Valley. The observation deck lies below a winding, stone-covered stairway near the parking area. That layout is worth considering when deciding which part of the park to visit; the park’s Baguio location and the landscape seen from it are not the same administrative place."
+      ],
+      "highlights": [
+        "Look toward Itogon’s former mining landscape.",
+        "Notice the stairway approach to the observation deck."
+      ],
+      "tips": [],
+      "videos": [
+        {
+          "id": "UPfuGVnZfwk",
+          "relevance": "A visitor resource explicitly focused on Mines View Park."
+        }
+      ],
+      "useWiki": true,
+      "sources": [
+        {
+          "name": "Wikipedia — Mines View Park",
+          "url": "https://en.wikipedia.org/wiki/Mines_View_Park",
+          "checkedOn": "2026-10-22",
+          "supports": "Reviewed place identity, municipality and the specific descriptive facts in this overview."
+        }
+      ],
+      "photoFile": "Mines View Park, Baguio City.jpg",
+      "photoAlt": "Mines View Park in Baguio City"
+    },
+    {
+      "placeId": "baguio-original-good-taste",
+      "summary": "The original Good Taste listing identifies the dining venue on Lapu Lapu Street in Baguio. Keep that street with the restaurant name, since another widely filmed Good Taste location is on Otek Street.",
+      "overview": [
+        "This listing is for the original Good Taste dining venue on Lapu Lapu Street. The specific address distinguishes it from the Otek Street restaurant that appears in many Baguio food videos. Use the street when arranging a visit or checking a recorded dining experience."
+      ],
+      "highlights": [],
+      "tips": [],
+      "videos": [],
+      "photoGap": "No documented reusable photograph clearly identifying the Lapu Lapu Street venue was found.",
+      "videoGap": "Search results did not clearly establish the Lapu Lapu branch; Otek Street resources were not substituted.",
+      "notes": [
+        "Limited description retains accepted branch identity; no menu, price or service claim added."
+      ],
+      "sources": [
+        {
+          "name": "The Original Good Taste Restaurant - official location",
+          "url": "https://goodtaste.ph/",
+          "checkedOn": "2026-10-21",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ]
+    }
+  ]
+}

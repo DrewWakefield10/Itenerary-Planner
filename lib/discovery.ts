@@ -2,6 +2,7 @@ import { destination, selectableDestinations, destinationImage, type Stop } from
 import { discoverySeeds, type DiscoveryPlace } from "./discovery-data";
 export { type DiscoveryPlace } from "./discovery-data";
 import {directoryListings,geographyOf} from "./catalog/directory";
+import {placeContent} from "./catalog/place-content";
 const curated=new Map(discoverySeeds.map(p=>[p.id,p]));
 const basePlaces:DiscoveryPlace[]=selectableDestinations.map(base=>curated.get(`base-${base.slug}`)||{
   id:`base-${base.slug}`,kind:"base",name:base.name,baseSlug:base.slug,category:"Overnight base",
@@ -19,13 +20,14 @@ const catalogPlaces:DiscoveryPlace[]=selectableDestinations.flatMap(base=>base.s
 })));
 export const discoveryPlaces:DiscoveryPlace[]=[...basePlaces,...directoryListings.map(p=>{
   const original=curated.get(p.id)||curated.get(p.catalog_stop_id||"");
+  const editorial=placeContent(p.id);
   return {
     id:p.id,kind:"spot" as const,name:p.name,baseSlug:p.itinerary_base_slug,category:p.category,
-    stopId:p.catalog_stop_id||undefined,description:p.description,interests:p.interests,directory:p,
+    stopId:p.catalog_stop_id||undefined,description:editorial?.summary||p.description,editorial,interests:p.interests,directory:p,
     reason:"Reviewed location identity and municipality. Check each practical detail separately.",
-    platform:original?.platform||"Other" as const,source:p.sources.identity,
+    platform:original?.platform||"Other" as const,source:editorial?{sourceName:editorial.sources[0].name,sourceUrl:editorial.sources[0].url,dateChecked:editorial.sources[0].checkedOn,status:p.sources.identity.status}:p.sources.identity,
     supports:"Identity and municipality were reviewed. Prices, opening hours, accessibility and current access have independent review statuses.",
-    reviewedOn:p.reviewed_on,...(original?.image?{image:original.image}:{}),...(original?.wikipedia?{wikipedia:original.wikipedia}:{}),
+    reviewedOn:editorial?.sources[0].checkedOn||p.reviewed_on,...(editorial?.photo?{image:{...editorial.photo,creditUrl:editorial.photo.sourcePage}}:original?.image?{image:original.image}:{}),...(original?.wikipedia?{wikipedia:original.wikipedia}:{}),
     ...(p.latitude!==null&&p.longitude!==null?{coordinates:{lat:p.latitude,lng:p.longitude,source:p.sources.coordinates}}:{}),
   };
 })];

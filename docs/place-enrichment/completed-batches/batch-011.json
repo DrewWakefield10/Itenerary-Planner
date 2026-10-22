@@ -1,0 +1,579 @@
+{
+  "batchId": "batch-011",
+  "checkedOn": "2026-10-22",
+  "places": 25,
+  "outcomes": [
+    {
+      "placeId": "davao-matina-linear-park",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "City Government of Davao — opened public parks and green spaces",
+          "url": "https://davaocity.gov.ph/sustainable-environment/city-to-open-more-green-spaces-parks/",
+          "checkedOn": "2026-10-21",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photo": null,
+      "photoGap": "No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+      "videos": [
+        "https://www.youtube.com/watch?v=VWh5-YtwOLY",
+        "https://www.youtube.com/watch?v=8PgbJrsdIg0"
+      ],
+      "rejectedVideos": [],
+      "notes": [
+        "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results."
+      ]
+    },
+    {
+      "placeId": "davao-candelaria-park",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "City Government of Davao — opened public parks and green spaces",
+          "url": "https://davaocity.gov.ph/sustainable-environment/city-to-open-more-green-spaces-parks/",
+          "checkedOn": "2026-10-21",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photo": null,
+      "photoGap": "No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+      "videos": [],
+      "rejectedVideos": [],
+      "notes": [
+        "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+        "Video gap: The candidate credited another creator without establishing an original upload; broader avenue walks were not substituted."
+      ]
+    },
+    {
+      "placeId": "davao-communal-pocket-park",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "City Government of Davao — opened public parks and green spaces",
+          "url": "https://davaocity.gov.ph/sustainable-environment/city-to-open-more-green-spaces-parks/",
+          "checkedOn": "2026-10-21",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photo": null,
+      "photoGap": "No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+      "videos": [],
+      "rejectedVideos": [],
+      "notes": [
+        "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+        "Video gap: Reviewed results concerned People’s Park or broad Davao routes; no exact Communal park resource established."
+      ]
+    },
+    {
+      "placeId": "davao-jacks-ridge-shrine-hills",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Davao City Tourism — Jack’s Ridge, Shrine Hills branch",
+          "url": "https://tourism.davaocity.gov.ph/explore-the-city/restaurants/restaurants/jacks-ridge-resort-and-restaurant-corp/",
+          "checkedOn": "2026-10-21",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photo": null,
+      "photoGap": "No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+      "videos": [
+        "https://www.youtube.com/watch?v=8r5raILXic4",
+        "https://www.youtube.com/watch?v=5nbwixLgIqY"
+      ],
+      "rejectedVideos": [],
+      "notes": [
+        "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results."
+      ]
+    },
+    {
+      "placeId": "davao-apo-ni-lola-matina",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "DOST — Apo ni Lola food-processing business, October 2026",
+          "url": "https://dost.gov.ph/knowledge-resources/news/4560-from-micro-to-medium-dost-steps-up-assistance-to-apo-ni-lola-thrive-in-food-processing-business.html",
+          "checkedOn": "2026-10-21",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photo": null,
+      "photoGap": "No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+      "videos": [
+        "https://www.youtube.com/watch?v=YwW--89BmAg"
+      ],
+      "rejectedVideos": [],
+      "notes": [
+        "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+        "Video gap: One exact-Matina resource selected; generic brand videos were not used as branch evidence."
+      ]
+    },
+    {
+      "placeId": "davao-marina-tuna-sandawa",
+      "description": "limited-evidence",
+      "sources": [
+        {
+          "name": "Davao City Tourism — Marina Tuna, Sandawa Plaza",
+          "url": "https://tourism.davaocity.gov.ph/explore-the-city/restaurants/restaurants/marina-tuna-2/",
+          "checkedOn": "2026-10-21",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photo": null,
+      "photoGap": "No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+      "videos": [],
+      "rejectedVideos": [],
+      "notes": [
+        "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+        "Video gap: Reviewed brand-level food features did not establish the Sandawa Plaza branch; no other branch substituted."
+      ]
+    },
+    {
+      "placeId": "boracay-white-beach-station-2",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Philippine Department of Tourism Australia and New Zealand — Boracay",
+          "url": "https://www.tourismphilippines.com.au/where/boracay",
+          "checkedOn": "2026-10-21",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Boracay_White_Beach_Station_2_4_(Malay,_Aklan;_04-06-2024).jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Boracay_White_Beach_Station_2_4_%28Malay%2C_Aklan%3B_04-06-2024%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "Patrickroque01",
+        "license": "CC BY-SA 4.0"
+      },
+      "photoGap": null,
+      "videos": [
+        "https://www.youtube.com/watch?v=x6gfSKHd0I4",
+        "https://www.youtube.com/watch?v=oRaZNFZV84o"
+      ],
+      "rejectedVideos": [],
+      "notes": []
+    },
+    {
+      "placeId": "boracay-d-mall-food-stroll",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Philippine Department of Tourism Australia and New Zealand — Boracay",
+          "url": "https://www.tourismphilippines.com.au/where/boracay",
+          "checkedOn": "2026-10-21",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:D%27mall_Boracay_-_panoramio.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/4/48/D%27mall_Boracay_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "Tuderna",
+        "license": "CC BY 3.0"
+      },
+      "photoGap": null,
+      "videos": [
+        "https://www.youtube.com/watch?v=Td0OwLHF5Fs",
+        "https://www.youtube.com/watch?v=I7u0CLMz8NE"
+      ],
+      "rejectedVideos": [],
+      "notes": []
+    },
+    {
+      "placeId": "boracay-bulabog-beach-walk",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Tourism Promotions Board — Boracay map, April 2020 place reference",
+          "url": "https://www.tpb.gov.ph/wp-content/uploads/2023/10/Boracay-Map.pdf",
+          "checkedOn": "2026-10-21",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Boracay_Bulabog_Beach_3_(Malay,_Aklan;_04-06-2024).jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Boracay_Bulabog_Beach_3_%28Malay%2C_Aklan%3B_04-06-2024%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "Patrickroque01",
+        "license": "CC BY-SA 4.0"
+      },
+      "photoGap": null,
+      "videos": [
+        "https://www.youtube.com/watch?v=Cz-mjcS_aX8",
+        "https://www.youtube.com/watch?v=TbBefgiU2Ek"
+      ],
+      "rejectedVideos": [],
+      "notes": []
+    },
+    {
+      "placeId": "boracay-willys-rock",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Tourism Promotions Board — Boracay map, April 2020 place reference",
+          "url": "https://www.tpb.gov.ph/wp-content/uploads/2023/10/Boracay-Map.pdf",
+          "checkedOn": "2026-10-21",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Boracay_Willy%27s_Rock_front_(Malay,_Aklan;_04-06-2024).jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/0/07/Boracay_Willy%27s_Rock_front_%28Malay%2C_Aklan%3B_04-06-2024%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "Patrickroque01",
+        "license": "CC BY-SA 4.0"
+      },
+      "photoGap": null,
+      "videos": [
+        "https://www.youtube.com/watch?v=c6cl7PO-Dr8"
+      ],
+      "rejectedVideos": [
+        {
+          "videoId": "VZokG5dQd1o",
+          "reason": "Official source does not currently confirm a playable, embeddable video with an accessible description"
+        }
+      ],
+      "notes": [
+        "Video VZokG5dQd1o: Official source does not currently confirm a playable, embeddable video with an accessible description"
+      ]
+    },
+    {
+      "placeId": "boracay-diniwid-beach",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Tourism Promotions Board — Boracay map, April 2020 place reference",
+          "url": "https://www.tpb.gov.ph/wp-content/uploads/2023/10/Boracay-Map.pdf",
+          "checkedOn": "2026-10-21",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Sunset_at_Diniwid_Beach,_Boracay_Island.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/0/06/Sunset_at_Diniwid_Beach%2C_Boracay_Island.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "Christopher Punzalan",
+        "license": "CC BY-SA 4.0"
+      },
+      "photoGap": null,
+      "videos": [
+        "https://www.youtube.com/watch?v=_IUaOwGufUw",
+        "https://www.youtube.com/watch?v=dwtNphvgiog"
+      ],
+      "rejectedVideos": [],
+      "notes": []
+    },
+    {
+      "placeId": "boracay-puka-shell-beach",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Tourism Promotions Board — Boracay map, April 2020 place reference",
+          "url": "https://www.tpb.gov.ph/wp-content/uploads/2023/10/Boracay-Map.pdf",
+          "checkedOn": "2026-10-21",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Puka_Beach_Boracay_Philippines.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/2/26/Puka_Beach_Boracay_Philippines.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "Paolobon140",
+        "license": "CC BY-SA 3.0"
+      },
+      "photoGap": null,
+      "videos": [
+        "https://www.youtube.com/watch?v=1yBaLynh4NE",
+        "https://www.youtube.com/watch?v=VMCAypSx2og"
+      ],
+      "rejectedVideos": [],
+      "notes": []
+    },
+    {
+      "placeId": "boracay-ilig-iligan-beach",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Tourism Promotions Board — Boracay map, April 2020 place reference",
+          "url": "https://www.tpb.gov.ph/wp-content/uploads/2023/10/Boracay-Map.pdf",
+          "checkedOn": "2026-10-21",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Viewing_Turtle_island_from_Ilig-Iligan_beach_(52261865792).jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Viewing_Turtle_island_from_Ilig-Iligan_beach_%2852261865792%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "Dinesh Valke from Thane, India",
+        "license": "CC BY-SA 2.0"
+      },
+      "photoGap": null,
+      "videos": [
+        "https://www.youtube.com/watch?v=95nOvrlkHPE",
+        "https://www.youtube.com/watch?v=GeSvoqH6hO8"
+      ],
+      "rejectedVideos": [],
+      "notes": []
+    },
+    {
+      "placeId": "boracay-tambisaan-beach",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Tourism Promotions Board — Boracay map, April 2020 place reference",
+          "url": "https://www.tpb.gov.ph/wp-content/uploads/2023/10/Boracay-Map.pdf",
+          "checkedOn": "2026-10-21",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photo": null,
+      "photoGap": "No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+      "videos": [
+        "https://www.youtube.com/watch?v=RvU3vThlr2w",
+        "https://www.youtube.com/watch?v=Ch2TzdXHdh8"
+      ],
+      "rejectedVideos": [],
+      "notes": [
+        "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results."
+      ]
+    },
+    {
+      "placeId": "boracay-tulubhan-beach",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Tourism Promotions Board — Boracay map, April 2020 place reference",
+          "url": "https://www.tpb.gov.ph/wp-content/uploads/2023/10/Boracay-Map.pdf",
+          "checkedOn": "2026-10-21",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photo": null,
+      "photoGap": "No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+      "videos": [
+        "https://www.youtube.com/watch?v=24cBmA-r76k"
+      ],
+      "rejectedVideos": [],
+      "notes": [
+        "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+        "Video gap: One exact-beach resource selected; broad all-island videos not used without a verified segment."
+      ]
+    },
+    {
+      "placeId": "boracay-balinghai-beach",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Tourism Promotions Board — Boracay map, April 2020 place reference",
+          "url": "https://www.tpb.gov.ph/wp-content/uploads/2023/10/Boracay-Map.pdf",
+          "checkedOn": "2026-10-21",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photo": null,
+      "photoGap": "No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+      "videos": [
+        "https://www.youtube.com/watch?v=d836tHJU3Kc",
+        "https://www.youtube.com/watch?v=gLNyZ4k4AvY"
+      ],
+      "rejectedVideos": [],
+      "notes": [
+        "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results."
+      ]
+    },
+    {
+      "placeId": "boracay-newcoast-keyhole",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Boracay Newcoast — official coves and Keyhole information",
+          "url": "https://boracaynewcoastph.com/coves/",
+          "checkedOn": "2026-10-21",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photo": null,
+      "photoGap": "No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+      "videos": [
+        "https://www.youtube.com/watch?v=lx-MkckpJz0"
+      ],
+      "rejectedVideos": [],
+      "notes": [
+        "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+        "Video gap: One exact-feature resource selected; broad township tours not used without a verified segment."
+      ]
+    },
+    {
+      "placeId": "boracay-balabag-wetland-park",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Aboitiz — annual and sustainability report, Balabag Wetland Park",
+          "url": "https://sustainability.aboitiz.com/wp-content/uploads/2023/11/2020-Annual-and-Sustainability-Report-1.pdf",
+          "checkedOn": "2026-10-21",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photo": null,
+      "photoGap": "No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+      "videos": [
+        "https://www.youtube.com/watch?v=4dpMJqie7rQ",
+        "https://www.youtube.com/watch?v=OCcpLy1oTwA"
+      ],
+      "rejectedVideos": [],
+      "notes": [
+        "Original sustainability report URL returned HTTP 404; no new rehabilitation date or current facility claim added.",
+        "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results."
+      ]
+    },
+    {
+      "placeId": "boracay-dtalipapa-market",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Philippine Department of Tourism Australia and New Zealand — Boracay",
+          "url": "https://www.tourismphilippines.com.au/where/boracay",
+          "checkedOn": "2026-10-21",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photo": null,
+      "photoGap": "No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+      "videos": [
+        "https://www.youtube.com/watch?v=Zipdm1J5sTE",
+        "https://www.youtube.com/watch?v=hJueDC8y7Xs"
+      ],
+      "rejectedVideos": [],
+      "notes": [
+        "A food photograph without a sufficiently clear market identity was not substituted.",
+        "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results."
+      ]
+    },
+    {
+      "placeId": "boracay-nonies-ondus",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Nonie’s — official Boracay restaurant",
+          "url": "https://www.nonies.com.ph/",
+          "checkedOn": "2026-10-22",
+          "supports": "Official Ondus branch, move from Mainroad, food description and reservation information."
+        }
+      ],
+      "photo": null,
+      "photoGap": "No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+      "videos": [],
+      "rejectedVideos": [],
+      "notes": [
+        "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+        "Video gap: Reviewed Ondus hotel room tours did not establish a useful Nonie’s restaurant segment; older restaurant-location videos not substituted."
+      ]
+    },
+    {
+      "placeId": "boracay-giuseppe-station-three",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Giuseppe — official Boracay branch",
+          "url": "https://giuseppe.ph/boracay/index.html",
+          "checkedOn": "2026-10-22",
+          "supports": "Official Station 3 address, stone-oven pizza and menu subjects."
+        }
+      ],
+      "photo": null,
+      "photoGap": "No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+      "videos": [
+        "https://www.youtube.com/watch?v=tc0SSwR6QaA",
+        "https://www.youtube.com/watch?v=JDIMioEgSco"
+      ],
+      "rejectedVideos": [],
+      "notes": [
+        "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results."
+      ]
+    },
+    {
+      "placeId": "boracay-little-taj",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Little Taj — official visitor location",
+          "url": "https://www.littletaj.com/visit",
+          "checkedOn": "2026-10-22",
+          "supports": "Official address, Indian cuisine, vegetarian/vegan guidance and reservation advice."
+        }
+      ],
+      "photo": null,
+      "photoGap": "No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+      "videos": [
+        "https://www.youtube.com/watch?v=FUcaT2VoFiA",
+        "https://www.youtube.com/watch?v=GAJz0sRGy0c"
+      ],
+      "rejectedVideos": [],
+      "notes": [
+        "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results."
+      ]
+    },
+    {
+      "placeId": "boracay-station-x",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Station X - official community page",
+          "url": "https://www.stationx.ph/tenants",
+          "checkedOn": "2026-10-21",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photo": null,
+      "photoGap": "No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+      "videos": [
+        "https://www.youtube.com/watch?v=oeVdSzboqRo",
+        "https://www.youtube.com/watch?v=nsu6PYyp3EM"
+      ],
+      "rejectedVideos": [],
+      "notes": [
+        "Rejected the unrelated codebreaking/television disambiguation article.",
+        "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results."
+      ]
+    },
+    {
+      "placeId": "boracay-muchos",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Muchos - official restaurant",
+          "url": "https://muchosboracay.com/",
+          "checkedOn": "2026-10-22",
+          "supports": "Official Zuzuni/Station 1 address, Latin American cuisine and described dishes."
+        }
+      ],
+      "photo": null,
+      "photoGap": "No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+      "videos": [
+        "https://www.youtube.com/watch?v=akNPaGWhOqI"
+      ],
+      "rejectedVideos": [],
+      "notes": [
+        "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+        "Video gap: One exact-restaurant resource selected; unrelated island videos were excluded."
+      ]
+    },
+    {
+      "placeId": "boracay-jammers-beach-shack",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Jammers Beach Shack - official restaurant",
+          "url": "https://jammersbeachshack.com/",
+          "checkedOn": "2026-10-22",
+          "supports": "Official D’Mall/Station 2 address, two-storey setting and described food."
+        }
+      ],
+      "photo": null,
+      "photoGap": "No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+      "videos": [
+        "https://www.youtube.com/watch?v=i8yASm7AHj4",
+        "https://www.youtube.com/watch?v=412T88K_KZA"
+      ],
+      "rejectedVideos": [],
+      "notes": [
+        "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results."
+      ]
+    }
+  ]
+}

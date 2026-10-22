@@ -1,5 +1,7 @@
 # Destination image credits
 
+Place-specific editorial photo credits are generated in [public/place-image-credits.txt](../public/place-image-credits.txt), retained in the JSON/CSV directory exports, and displayed on each place page. This file retains the earlier destination and seed-photo credits.
+
 Original photographs downloaded from Wikimedia Commons on 2026-10-13; later additions have their download dates listed below. Images were resized and JPEG-compressed for the website. License links and original source pages are provided below. CC BY-SA images remain available under their stated licenses. Hero image reuses palawan.jpg.
 
 ## palawan.jpg

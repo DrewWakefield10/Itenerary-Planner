@@ -1,0 +1,2604 @@
+{
+  "offset": 125,
+  "size": 25,
+  "checkedOn": "2026-10-22",
+  "status": "candidates-collected-not-automatically-published",
+  "records": [
+    {
+      "placeId": "el-nido-duli-beach",
+      "name": "Duli Beach",
+      "municipality": "El Nido",
+      "identitySource": {
+        "url": "https://dulibeach.com/contact/",
+        "error": "fetch failed"
+      },
+      "wikipedia": null,
+      "wikiSearchCandidates": [],
+      "imageCandidate": null,
+      "commonsCandidates": [
+        {
+          "title": "File:Duli beach can surprise with strong rip currents - panoramio.jpg",
+          "url": "https://commons.wikimedia.org/wiki/File:Duli_beach_can_surprise_with_strong_rip_currents_-_panoramio.jpg"
+        },
+        {
+          "title": "File:Road to Duli beach, damaged by heavy rain - panoramio.jpg",
+          "url": "https://commons.wikimedia.org/wiki/File:Road_to_Duli_beach,_damaged_by_heavy_rain_-_panoramio.jpg"
+        }
+      ],
+      "videoCandidates": {
+        "placeId": "el-nido-duli-beach",
+        "query": "Duli Beach El Nido Philippines tour",
+        "checkedOn": "2026-10-22",
+        "candidates": [
+          {
+            "videoId": "jpb2GAGT0-E",
+            "title": "elnido.ph - Duli Beach Travel Guide",
+            "creator": "elnido.ph",
+            "description": "See more Guides at http://elnido.ph Duli Beach, El Nido There is no shortage of swells in a remote surfing spot like Duli."
+          },
+          {
+            "videoId": "GvwT7Udg3nQ",
+            "title": "DULI BEACH EL NIDO | Travel From Home",
+            "creator": "CherChris",
+            "description": "DULI BEACH EL NIDO | Travel From Home Let's travel while home.. Even the whole world is in Pandemic, everything is down."
+          },
+          {
+            "videoId": "IZCpJd6bkeY",
+            "title": "Inland Tour El Nido: Duli Beach, Nacpan Beach & Lio Beach 🏖️🌴",
+            "creator": "Jem Lupina",
+            "description": "In this video, you will find breathtaking and stunning beaches in El Nido such like Duli Beach, Nacpan Beach and Lio Beach."
+          },
+          {
+            "videoId": "JhpCMUrXrlU",
+            "title": "DULI BEACH EL NIDO ADVENTURE | SE01 Episode 16",
+            "creator": "Brad Newton - Fitness Street",
+            "description": "Join me as I explore Duli beach El Nido with Isabella. We ride our motorbikes from Nacpan beach down small dirt roads to arrive ..."
+          },
+          {
+            "videoId": "vCv4rwYr-IQ",
+            "title": "DULI BEACH, EL NIDO (During Quarantine)  x  How to Get There and Where to Stay | aLegnaTravels",
+            "creator": "Angel Germino",
+            "description": "Join me (and Chukka) as we visit one of the finest beaches here in El Nido — Duli Beach! Now that we are under modified ..."
+          },
+          {
+            "videoId": "QDrwEh7wex0",
+            "title": "El Nido’s Best Beaches (No Tour Needed) | Duli Beach & Nacpan Beach | Palawan Vlog",
+            "creator": "Dodievic ",
+            "description": "Day 4 in El Nido felt like slowing down in the best way possible. We started the morning with a 41-minute scooter ride to Duli ..."
+          },
+          {
+            "videoId": "QX5hBkanppk",
+            "title": "SURFING in El Nido?! 🏄‍♀️ Duli Beach, Nacpan & Our Stay at Angkla 🌴☀️ | Part 3 Vlog",
+            "creator": "Joe and Jazz",
+            "description": "What to Expect in this Episode: ✓ Stay at the beautiful and relaxing Angkla El Nido ✓ SURFING in El Nido?! Yup! at the hidden ..."
+          },
+          {
+            "videoId": "xb2Il9XzEAU",
+            "title": "6 Days in EL NIDO, PALAWAN ☀️ | Island Hopping, Food Spots, Big Lagoon & Beaches",
+            "creator": "Gabriel Uy",
+            "description": "hello guys! I've always wanted to create a full-on travel youtube vlog, I love documenting some beautiful moments and preserving ..."
+          },
+          {
+            "videoId": "7dE56D1Kcaw",
+            "title": "El Nido, Duli Beach Resort, Palawan",
+            "creator": "Life appreciated",
+            "description": "El Nido, Duli Beach Resort, Palawan The Surfing spot of El Nido! Wide & Long shoreline Beachfront Bungalow Rooms Friendly ..."
+          },
+          {
+            "videoId": "tH4vpk8OwmA",
+            "title": "El Nido's Secret Surf Spot 🇵🇭",
+            "creator": "Ahan Way",
+            "description": "This El Nido beach has almost NO phone signal — and that's exactly why it's worth the trip. Duli Beach is El Nido's local surf spot, ..."
+          },
+          {
+            "videoId": "ODp5UgWJlgI",
+            "title": "Best Beaches in El Nido  #DuliBeach #NacpanBeach #VanillaBeach #LasCabanasZipline #LioBeach",
+            "creator": "Ex It This Way",
+            "description": "Looking for the best things to do in El Nido? Join us on a full-day adventure exploring some of the most beautiful beaches in El ..."
+          },
+          {
+            "videoId": "0vofCikLJSE",
+            "title": "DULI BEACH El Nido Palawan",
+            "creator": "El Nido ",
+            "description": "Unwinding in luxurious seclusion at Duli Beach, El Nido. Pure indulgence. ✨ #DuliBeach #ElNido #Palawan #Philippines ..."
+          }
+        ]
+      },
+      "decision": "pending-editorial-review"
+    },
+    {
+      "placeId": "el-nido-seven-commandos-beach",
+      "name": "Seven Commandos Beach",
+      "municipality": "El Nido",
+      "identitySource": {
+        "url": "https://www.discoverelnido.com/tours/tour-a/",
+        "status": 200,
+        "contentType": "text/html; charset=utf-8",
+        "checkedOn": "2026-10-22",
+        "title": "El Nido Tour A | Lagoons &amp; Limestone Legacy | Discover El Nido"
+      },
+      "wikipedia": null,
+      "wikiSearchCandidates": [
+        {
+          "title": "List of beaches in the Philippines",
+          "pageid": 35468102
+        },
+        {
+          "title": "List of terrorist incidents in the Philippines",
+          "pageid": 46810501
+        }
+      ],
+      "imageCandidate": null,
+      "commonsCandidates": [
+        {
+          "title": "File:Seven Commando Beach, El Nido, Philippines (36703369760).jpg",
+          "url": "https://commons.wikimedia.org/wiki/File:Seven_Commando_Beach,_El_Nido,_Philippines_(36703369760).jpg"
+        },
+        {
+          "title": "File:Seven Commando Beach, El Nido, Philippines (37099635485).jpg",
+          "url": "https://commons.wikimedia.org/wiki/File:Seven_Commando_Beach,_El_Nido,_Philippines_(37099635485).jpg"
+        },
+        {
+          "title": "File:Seven Commando Beach, El Nido, Philippines (36958045681).jpg",
+          "url": "https://commons.wikimedia.org/wiki/File:Seven_Commando_Beach,_El_Nido,_Philippines_(36958045681).jpg"
+        }
+      ],
+      "videoCandidates": {
+        "placeId": "el-nido-seven-commandos-beach",
+        "query": "Seven Commandos Beach El Nido Philippines tour",
+        "checkedOn": "2026-10-22",
+        "candidates": [
+          {
+            "videoId": "K9a-MFMafkA",
+            "title": "Seven Commando Beach, Shimizu Beach | El Nido Tour A | Palawan, Philippines",
+            "creator": "Deanna Troy Travels",
+            "description": "El Nido Tour A is the best tour option to choose! This island is packed with beaches, food, and snorkeling fun! Come with us in this ..."
+          },
+          {
+            "videoId": "eWD3jqgMTws",
+            "title": "4K | SEVEN COMMANDO BEACH WALKING TOUR - EL NIDO PALAWAN 2022 | DJI OM 5",
+            "creator": "WALKING TOUR TV",
+            "description": "Seven Commando Beach walking tour @ 4k."
+          },
+          {
+            "videoId": "BPsVoe8Zk4Y",
+            "title": "Seven Commandos Beach, El Nido, Palawan, Philippines",
+            "creator": "Pocket Stories",
+            "description": "Beach days and beyond ☀️⛰️  🏝️   Seven Commandos Beach, El Nido, Palawan, Philippines Book Island Hopping ..."
+          },
+          {
+            "videoId": "IqVL5tcWmI4",
+            "title": "Ultimate Chill Spot! 7 Commandos Beach, El Nido Palawan | White Sand & Crystal Waters #IslandHopping",
+            "creator": "Lovely Lovely World",
+            "description": "Join us as we continue our El Nido Palawan island hopping adventure (Tour Package A) from Shimizu Island straight to the ..."
+          },
+          {
+            "videoId": "3hVzvKuLMn8",
+            "title": "EL NIDO PALAWAN TRAVEL GUIDE: Tour Package, Car Rental & Must-Visit Beaches! | Marta Cervanez",
+            "creator": "I AM MARTA",
+            "description": "Hey guys! I AM MARTA here! Thanks for watching! Don't forget to click the subscribe button and hit that notif bell! ✨ --- ♡ Buy me ..."
+          },
+          {
+            "videoId": "QYxzYrCNf4Q",
+            "title": "El Nido 2025 Travel Guide: The BEST Tour in Palawan Philippines • Tour A, B, C, D • Budget Vlog",
+            "creator": "Angelica & Aileen Wanders",
+            "description": "Here is EVERYTHING you need to know about traveling to El Nido. This is the Ultimate 4-Day El Nido Sample Budget Itinerary ..."
+          },
+          {
+            "videoId": "CBpI5V1Wvbc",
+            "title": "EL NIDO Palawan 2026 🇵🇭 Ultimate Travel Guide + Expenses | Land Tour + Island Hopping Tour A+B+C+D",
+            "creator": "GALA NI CED",
+            "description": "See Breakdown and Total Expenses below. This video was taken on October 22-27, 2025. Translation from Filipino to English is ..."
+          },
+          {
+            "videoId": "leOlsirlhz0",
+            "title": "Don’t Book the WRONG El Nido Tour (A vs C 2026 Guide) Which Tour is Actually Worth It?”",
+            "creator": "Rachel & Ibe",
+            "description": "If you're planning a trip to El Nido, Palawan, choosing the right island hopping tour can make or break your experience."
+          },
+          {
+            "videoId": "ADUikPVq6Y0",
+            "title": "FIRST TIME at the Seven Commandos Beach! 🇵🇭 (El Nido Palawan Philippines)",
+            "creator": "Go With Robin",
+            "description": "Foreigners First time at the Seven Commandos Beach in El Nido Palawan! Did not expect this on Tour C here in the ..."
+          },
+          {
+            "videoId": "vYflmwHeHSk",
+            "title": "Is Seven Commandos Beach still Beautiful? Tour A 🌴 El Nido Palawan #travel #philippines #palawan",
+            "creator": "Don Mai | Mind • Money • Movement",
+            "description": "Seven commandos beach is part of Island Tour A. This is my experience walking through the Seven Commandos Beach right after ..."
+          },
+          {
+            "videoId": "AUo3gR6DRW4",
+            "title": "EL NIDO Speedboat Island Hopping Tour A + B | Sulit Ba ang Extra Bayad?",
+            "creator": "TITO TENG",
+            "description": "0:00 – Intro & Morning Prep (Balik-Motor) 2:40 – Pickup at Pagpunta sa Speedboat 4:22 – Welcome Aboard Princess Cleo!"
+          },
+          {
+            "videoId": "TtZr9Ns_T_Y",
+            "title": "7 COMMANDO BEACH IN EL NIDO PALAWAN",
+            "creator": "Informed Pinas",
+            "description": "travel #philippines This channel may feature video footage taken in public spaces during travels. We aim to respect the privacy ..."
+          }
+        ]
+      },
+      "decision": "pending-editorial-review"
+    },
+    {
+      "placeId": "el-nido-shimizu-island",
+      "name": "Shimizu Island",
+      "municipality": "El Nido",
+      "identitySource": {
+        "url": "https://www.discoverelnido.com/tours/tour-a/",
+        "status": 200,
+        "contentType": "text/html; charset=utf-8",
+        "checkedOn": "2026-10-22",
+        "title": "El Nido Tour A | Lagoons &amp; Limestone Legacy | Discover El Nido"
+      },
+      "wikipedia": null,
+      "wikiSearchCandidates": [
+        {
+          "title": "List of islands of the Philippines",
+          "pageid": 330144
+        },
+        {
+          "title": "List of beaches in the Philippines",
+          "pageid": 35468102
+        }
+      ],
+      "imageCandidate": null,
+      "commonsCandidates": [
+        {
+          "title": "File:El Nido - panoramio (30).jpg",
+          "url": "https://commons.wikimedia.org/wiki/File:El_Nido_-_panoramio_(30).jpg"
+        },
+        {
+          "title": "File:El Nido - panoramio (31).jpg",
+          "url": "https://commons.wikimedia.org/wiki/File:El_Nido_-_panoramio_(31).jpg"
+        },
+        {
+          "title": "File:Shimizu Island.jpg",
+          "url": "https://commons.wikimedia.org/wiki/File:Shimizu_Island.jpg"
+        }
+      ],
+      "videoCandidates": {
+        "placeId": "el-nido-shimizu-island",
+        "query": "Shimizu Island El Nido Philippines tour",
+        "checkedOn": "2026-10-22",
+        "candidates": [
+          {
+            "videoId": "QYxzYrCNf4Q",
+            "title": "El Nido 2025 Travel Guide: The BEST Tour in Palawan Philippines • Tour A, B, C, D • Budget Vlog",
+            "creator": "Angelica & Aileen Wanders",
+            "description": "Here is EVERYTHING you need to know about traveling to El Nido. This is the Ultimate 4-Day El Nido Sample Budget Itinerary ..."
+          },
+          {
+            "videoId": "Ork-FmImohU",
+            "title": "Philippines Travel 🇵🇭 | Palawan travel | Snorkelling in Shimizu Island EL Nido",
+            "creator": "rolandito l",
+            "description": "This video is a boat tour of EL Nido and the Bacuit Archipelago in Palawan, Philippines with Snorkelling in Shimizu Island. El Nido ..."
+          },
+          {
+            "videoId": "mYNN12rKchY",
+            "title": "EL NIDO-Shimizu Island",
+            "creator": "El Nido Tourism Official"
+          },
+          {
+            "videoId": "TIos6i51YeM",
+            "title": "Snorkeling El Nido's Best Coral Reefs | Shimizu Island Tour A #palawan #travelvlog",
+            "creator": "Lovely Lovely World",
+            "description": "Experience the ultimate tropical getaway with our snorkeling adventure at Shimizu Island, one of the absolute highlights of El Nido ..."
+          },
+          {
+            "videoId": "fahR2m57yPk",
+            "title": "Aerial View of Shimizu Island, El Nido, Palawan",
+            "creator": "Team Uy Travels",
+            "description": "Drone shot of Shimizu Island in El Nido, Palawan shot by Jonathan Uy."
+          },
+          {
+            "videoId": "orDsBKdZvEo",
+            "title": "El Nido Tour A 🇵🇭 | Big Lagoon, Secret Lagoon, Shimizu Island & Seven Commando Beach",
+            "creator": "Balukoo Travel Blog",
+            "description": "El Nido Tour A | Big Lagoon, Secret Lagoon & Seven Commandos Beach Among the famous island hopping routes in El ..."
+          },
+          {
+            "videoId": "QbXhxhue7sk",
+            "title": "DAY 2 IN Elnido Palawan: The Best Beaches is  Shimizu Island | Big Lagoon | Secret Lagoon”",
+            "creator": "Meriam Alom  ",
+            "description": "This is my favorite beaches in Palawan “ 1: The Big Lagoon in El Nido, Palawan, is a stunning marine attraction famous for its ..."
+          },
+          {
+            "videoId": "CBpI5V1Wvbc",
+            "title": "EL NIDO Palawan 2026 🇵🇭 Ultimate Travel Guide + Expenses | Land Tour + Island Hopping Tour A+B+C+D",
+            "creator": "GALA NI CED",
+            "description": "See Breakdown and Total Expenses below. This video was taken on October 22-27, 2025. Translation from Filipino to English is ..."
+          },
+          {
+            "videoId": "LLlOxjvPKF4",
+            "title": "Shimizu Island, El Nido, Palawan Philippines",
+            "creator": "Weeb Traveller",
+            "description": "Welcome to the enchanting beauty of Shimizu Island, nestled amidst the breathtaking landscapes of El Nido, Philippines."
+          },
+          {
+            "videoId": "PxW9N4lJs7M",
+            "title": "El Nido Tour A | Island Hopping in Palawan | Paradise of the Philippines",
+            "creator": "Shanshank Sharma",
+            "description": "El Nido Tour A was one of the highlights of my time in Palawan, Philippines. From kayaking through the stunning Big Lagoon to ..."
+          },
+          {
+            "videoId": "rGBo_Xr5JT8",
+            "title": "Shimizu Island El Nido 🇵🇭 | Hidden Paradise in Palawan (4K)",
+            "creator": "Cinematic Earth",
+            "description": "Discover Shimizu Island, one of the most beautiful spots in El Nido, Palawan, Philippines Crystal-clear turquoise water, ..."
+          },
+          {
+            "videoId": "rPpqxRNCWyo",
+            "title": "El Nido Palawan Tour A -  Big Lagoon, Shimizu Island, 7 Commandos, Secret Lagoon | kensamtv",
+            "creator": "KenSam Travel Vlogs",
+            "description": "El Nido is a Philippine municipality on Palawan island. It's known for white-sand beaches, coral reefs and as the gateway to the ..."
+          }
+        ]
+      },
+      "decision": "pending-editorial-review"
+    },
+    {
+      "placeId": "el-nido-secret-lagoon",
+      "name": "Secret Lagoon",
+      "municipality": "El Nido",
+      "identitySource": {
+        "url": "https://www.discoverelnido.com/tours/tour-a/",
+        "status": 200,
+        "contentType": "text/html; charset=utf-8",
+        "checkedOn": "2026-10-22",
+        "title": "El Nido Tour A | Lagoons &amp; Limestone Legacy | Discover El Nido"
+      },
+      "wikipedia": null,
+      "wikiSearchCandidates": [
+        {
+          "title": "Coron, Palawan",
+          "pageid": 498917
+        },
+        {
+          "title": "Second Thomas Shoal",
+          "pageid": 42262354
+        }
+      ],
+      "imageCandidate": null,
+      "commonsCandidates": [],
+      "videoCandidates": {
+        "placeId": "el-nido-secret-lagoon",
+        "query": "Secret Lagoon El Nido Philippines tour",
+        "checkedOn": "2026-10-22",
+        "candidates": [
+          {
+            "videoId": "8ZRErb_u4W8",
+            "title": "El Nido’s Secret Lagoon #ElNido #SecretLagoon",
+            "creator": "Lovely Lovely World",
+            "description": "Thinking of visiting El Nido, Palawan? In this video, we take you on a first-person journey into one of the most famous stops on ..."
+          },
+          {
+            "videoId": "orDsBKdZvEo",
+            "title": "El Nido Tour A 🇵🇭 | Big Lagoon, Secret Lagoon, Shimizu Island & Seven Commando Beach",
+            "creator": "Balukoo Travel Blog",
+            "description": "El Nido Tour A | Big Lagoon, Secret Lagoon & Seven Commandos Beach Among the famous island hopping routes in El ..."
+          },
+          {
+            "videoId": "UDphoKTuKPw",
+            "title": "Secret Lagoon - El Nido, Palawan, Philippines - 4K Drone",
+            "creator": "Travel Collage",
+            "description": "SecretLagoon #ElNido #PalawanPhilippines Our first day, we went to the Secret Lagoon in the Miniloc Island. Actually, it is an ..."
+          },
+          {
+            "videoId": "eXOotn7gilM",
+            "title": "Our Experience on EL NIDO TOUR A in Philippines (Big Lagoon + Secret Lagoon)",
+            "creator": "The Passport Couple",
+            "description": "If you're heading to El Nido, Tour A is the classic for a reason! Book your EL NIDO TOUR A: https://klook.tpo.li/LLvwBrxe ..."
+          },
+          {
+            "videoId": "Rrkcgi8Yx8s",
+            "title": "El Nido, Philippines | Island Hopping in paradise, Hidden Gems & Secret Lagoons",
+            "creator": "Mathilde Ravn",
+            "description": "We made it to El Nido in the Philippines - and it might be one of the most beautiful places we've ever visited! #elnido #philippines ..."
+          },
+          {
+            "videoId": "QYxzYrCNf4Q",
+            "title": "El Nido 2025 Travel Guide: The BEST Tour in Palawan Philippines • Tour A, B, C, D • Budget Vlog",
+            "creator": "Angelica & Aileen Wanders",
+            "description": "Here is EVERYTHING you need to know about traveling to El Nido. This is the Ultimate 4-Day El Nido Sample Budget Itinerary ..."
+          },
+          {
+            "videoId": "LaZ25cxHWxM",
+            "title": "Discover the Secret Lagoon in El Nido, Palawan, Philippines 🇵🇭",
+            "creator": "Destyling ",
+            "description": "Step inside the hidden wonder of El Nido, Palawan! We're taking you through the tiny rock entrance into the breathtaking Secret ..."
+          },
+          {
+            "videoId": "xb2Il9XzEAU",
+            "title": "6 Days in EL NIDO, PALAWAN ☀️ | Island Hopping, Food Spots, Big Lagoon & Beaches",
+            "creator": "Gabriel Uy",
+            "description": "hello guys! I've always wanted to create a full-on travel youtube vlog, I love documenting some beautiful moments and preserving ..."
+          },
+          {
+            "videoId": "AUo3gR6DRW4",
+            "title": "EL NIDO Speedboat Island Hopping Tour A + B | Sulit Ba ang Extra Bayad?",
+            "creator": "TITO TENG",
+            "description": "0:00 – Intro & Morning Prep (Balik-Motor) 2:40 – Pickup at Pagpunta sa Speedboat 4:22 – Welcome Aboard Princess Cleo!"
+          },
+          {
+            "videoId": "CBpI5V1Wvbc",
+            "title": "EL NIDO Palawan 2026 🇵🇭 Ultimate Travel Guide + Expenses | Land Tour + Island Hopping Tour A+B+C+D",
+            "creator": "GALA NI CED",
+            "description": "See Breakdown and Total Expenses below. This video was taken on October 22-27, 2025. Translation from Filipino to English is ..."
+          },
+          {
+            "videoId": "b0EYbEajj-g",
+            "title": "Secret Lagoon, Big Lagoon, Small Lagoon | El Nido Tour A | Palawan, Philippines",
+            "creator": "Deanna Troy Travels",
+            "description": "The famous lagoons of El Nido Island! On El Nido Tour A we explore the Secret Lagoon, Big Lagoon and Small Lagoon in ..."
+          },
+          {
+            "videoId": "_W6UqF-7zMA",
+            "title": "El Nido Palawan Tour A 🇵🇭 | Big Lagoon, Secret Lagoon & Shimizu Island (Travel Vlog 2026)",
+            "creator": "Snap and Soar",
+            "description": "Welcome to our not so detailed El Nido, Palawan adventure! ✨ In this vlog, we explored the famous Tour A—one of the most ..."
+          }
+        ]
+      },
+      "decision": "pending-editorial-review"
+    },
+    {
+      "placeId": "el-nido-small-lagoon",
+      "name": "Small Lagoon",
+      "municipality": "El Nido",
+      "identitySource": {
+        "url": "https://www.discoverelnido.com/tours/tour-d/",
+        "status": 200,
+        "contentType": "text/html; charset=utf-8",
+        "checkedOn": "2026-10-22",
+        "title": "El Nido Tour D | Peaceful Lagoons | Discover El Nido"
+      },
+      "wikipedia": null,
+      "wikiSearchCandidates": [
+        {
+          "title": "Palawan",
+          "pageid": 240395
+        },
+        {
+          "title": "El Nido, Palawan",
+          "pageid": 500207
+        }
+      ],
+      "imageCandidate": null,
+      "commonsCandidates": [
+        {
+          "title": "File:Small Lagoon, El Nido, Philippines (36957476521).jpg",
+          "url": "https://commons.wikimedia.org/wiki/File:Small_Lagoon,_El_Nido,_Philippines_(36957476521).jpg"
+        },
+        {
+          "title": "File:Small Lagoon, El Nido, Philippines (36910469846).jpg",
+          "url": "https://commons.wikimedia.org/wiki/File:Small_Lagoon,_El_Nido,_Philippines_(36910469846).jpg"
+        },
+        {
+          "title": "File:Small Lagoon, El Nido, Philippines (36263906554).jpg",
+          "url": "https://commons.wikimedia.org/wiki/File:Small_Lagoon,_El_Nido,_Philippines_(36263906554).jpg"
+        }
+      ],
+      "videoCandidates": {
+        "placeId": "el-nido-small-lagoon",
+        "query": "Small Lagoon El Nido Philippines tour",
+        "checkedOn": "2026-10-22",
+        "candidates": [
+          {
+            "videoId": "QYxzYrCNf4Q",
+            "title": "El Nido 2025 Travel Guide: The BEST Tour in Palawan Philippines • Tour A, B, C, D • Budget Vlog",
+            "creator": "Angelica & Aileen Wanders",
+            "description": "Here is EVERYTHING you need to know about traveling to El Nido. This is the Ultimate 4-Day El Nido Sample Budget Itinerary ..."
+          },
+          {
+            "videoId": "kMAakhzwG74",
+            "title": "El Nido, Palawan with the Fam and Besties! | Small Laude",
+            "creator": "Small Laude",
+            "description": "SmallLaude #ElNido #Palawan Hi Guys! Don't forget to hit that like button, turn on your notifications, and comment down below on ..."
+          },
+          {
+            "videoId": "CBpI5V1Wvbc",
+            "title": "EL NIDO Palawan 2026 🇵🇭 Ultimate Travel Guide + Expenses | Land Tour + Island Hopping Tour A+B+C+D",
+            "creator": "GALA NI CED",
+            "description": "See Breakdown and Total Expenses below. This video was taken on October 22-27, 2025. Translation from Filipino to English is ..."
+          },
+          {
+            "videoId": "JWqGX4BPed0",
+            "title": "Small Lagoon, El Nido, Palawan | Best Tourist Destination",
+            "creator": "Just For Fun Vlogs",
+            "description": "Our summer trip 2018 in Palawan, Philippines. One of the islands we visited is this Small Lagoon, El Nido Palawan and did ..."
+          },
+          {
+            "videoId": "OJeULqpM954",
+            "title": "💫 Tour D SMALL LAGOON EL NIDO PALAWAN @mhitamacabidangvlog ",
+            "creator": "Mhita Macabidang vlog",
+            "description": "The Small Lagoon in El Nido, located on Miniloc Island, is a premier tourist spot known for its crystal-clear turquoise waters, ..."
+          },
+          {
+            "videoId": "CWOS-Sa-Tx4",
+            "title": "Island Hopping in El Nido! | Small Laude",
+            "creator": "Small Laude",
+            "description": "SmallLaude #ElNido #Palawan Hi Guys! Don't forget to hit that like button, turn on your notifications, and comment down below on ..."
+          },
+          {
+            "videoId": "rGD3Lurslic",
+            "title": "Exploring Small Lagoon in El Nido, Philippines 🇵🇭 | Paradise on Earth!",
+            "creator": "soulXlove  Channel",
+            "description": "Join us as we explore the breathtaking Small Lagoon in El Nido, Palawan, Philippines! With crystal-clear turquoise waters, ..."
+          },
+          {
+            "videoId": "aWOdllk6u2U",
+            "title": "EL NIDO: The ULTIMATE Guide to PARADISE of the Philippines, Palawan in 4K",
+            "creator": "Wout of the World",
+            "description": "Welcome to El Nido – Paradise in the Philippines! Nowhere else are the islands so stunning, the lagoons so blue, and the jungle ..."
+          },
+          {
+            "videoId": "hBOD3xXQZSg",
+            "title": "Small Lagoon: Kayaking Adventure through Secret Entrance | El Nido",
+            "creator": "Robina Navallo",
+            "description": "robinanavallo #travel #small lagoon #kayakingadventures #elnidopalawan #hidden gem #crystal clear waters #coral formations ..."
+          },
+          {
+            "videoId": "b0EYbEajj-g",
+            "title": "Secret Lagoon, Big Lagoon, Small Lagoon | El Nido Tour A | Palawan, Philippines",
+            "creator": "Deanna Troy Travels",
+            "description": "The famous lagoons of El Nido Island! On El Nido Tour A we explore the Secret Lagoon, Big Lagoon and Small Lagoon in ..."
+          },
+          {
+            "videoId": "UegkqGmiG2w",
+            "title": "El Nido Tour D (Palawan🇵🇭)| Small Lagoon, Cadlao Lagoon, Serenity Beach & Paradise Beach",
+            "creator": "Balukoo Travel Blog",
+            "description": "El Nido Tour D | Small Lagoon, Cadlao Lagoon, Serenity Beach & Paradise Beach (Palawan Island Hopping Guide) El Nido ..."
+          },
+          {
+            "videoId": "2yzHcPALHXM",
+            "title": "BACK TO EL NIDO, PALAWAN! 🇵🇭 JAN 2025 (Kayaking Small Lagoon + Island Hopping + Lio Jetty)",
+            "creator": "Teter Patiga 🍀",
+            "description": "Join me in this vlog as I look back on our trip to El Nido, Palawan last January 2025. 00:00 Intro 00:32 San Vicente, ..."
+          }
+        ]
+      },
+      "decision": "pending-editorial-review"
+    },
+    {
+      "placeId": "el-nido-cadlao-lagoon",
+      "name": "Cadlao Lagoon",
+      "municipality": "El Nido",
+      "identitySource": {
+        "url": "https://www.discoverelnido.com/tours/tour-d/",
+        "status": 200,
+        "contentType": "text/html; charset=utf-8",
+        "checkedOn": "2026-10-22",
+        "title": "El Nido Tour D | Peaceful Lagoons | Discover El Nido"
+      },
+      "wikipedia": null,
+      "wikiSearchCandidates": [
+        {
+          "title": "El Nido, Palawan",
+          "pageid": 500207
+        }
+      ],
+      "imageCandidate": null,
+      "commonsCandidates": [
+        {
+          "title": "File:Cadlao Lagoon (48108503048).jpg",
+          "url": "https://commons.wikimedia.org/wiki/File:Cadlao_Lagoon_(48108503048).jpg"
+        },
+        {
+          "title": "File:Limestone Topography of Cadlao Lagoon.jpg",
+          "url": "https://commons.wikimedia.org/wiki/File:Limestone_Topography_of_Cadlao_Lagoon.jpg"
+        },
+        {
+          "title": "File:Topography of Cadlao Lagoon.jpg",
+          "url": "https://commons.wikimedia.org/wiki/File:Topography_of_Cadlao_Lagoon.jpg"
+        }
+      ],
+      "videoCandidates": {
+        "placeId": "el-nido-cadlao-lagoon",
+        "query": "Cadlao Lagoon El Nido Philippines tour",
+        "checkedOn": "2026-10-22",
+        "candidates": [
+          {
+            "videoId": "QYxzYrCNf4Q",
+            "title": "El Nido 2025 Travel Guide: The BEST Tour in Palawan Philippines • Tour A, B, C, D • Budget Vlog",
+            "creator": "Angelica & Aileen Wanders",
+            "description": "Here is EVERYTHING you need to know about traveling to El Nido. This is the Ultimate 4-Day El Nido Sample Budget Itinerary ..."
+          },
+          {
+            "videoId": "muxWighxaJs",
+            "title": "Explore Cadlao Lagoon in El Nido, Philippines: A Traveler's Dream | Things To Do In Philippines",
+            "creator": "ConnollyCove",
+            "description": "Explore Cadlao Lagoon in El Nido, Philippines: A Traveler's Dream | Things To Do In Philippines https://www.connollycove.com ..."
+          },
+          {
+            "videoId": "aWOdllk6u2U",
+            "title": "EL NIDO: The ULTIMATE Guide to PARADISE of the Philippines, Palawan in 4K",
+            "creator": "Wout of the World",
+            "description": "Welcome to El Nido – Paradise in the Philippines! Nowhere else are the islands so stunning, the lagoons so blue, and the jungle ..."
+          },
+          {
+            "videoId": "CBpI5V1Wvbc",
+            "title": "EL NIDO Palawan 2026 🇵🇭 Ultimate Travel Guide + Expenses | Land Tour + Island Hopping Tour A+B+C+D",
+            "creator": "GALA NI CED",
+            "description": "See Breakdown and Total Expenses below. This video was taken on October 22-27, 2025. Translation from Filipino to English is ..."
+          },
+          {
+            "videoId": "3ABfTJDq41U",
+            "title": "3 Days in El Nido, Philippines - Lagoons, Waterfalls & World-class Beaches (Palawan Travel Vlog)",
+            "creator": "Kristi Travel Escape",
+            "description": "Join me on an unforgettable 3-day adventure in the stunning paradise of El Nido, Philippines! In this Palawan travel vlog, I'll take ..."
+          },
+          {
+            "videoId": "pfm0ffUscOE",
+            "title": "El Nido Tour A & Tour D – What We Loved & What Went Wrong!",
+            "creator": "Pat and Yumi",
+            "description": "El Nido, Palawan is a tropical paradise, but what happens when your island-hopping tour doesn't go as planned? In this video ..."
+          },
+          {
+            "videoId": "ompyu8I5EIc",
+            "title": "El Nido Tour C 🇵🇭 | Hidden Costs, Cadlao Lagoon & Our Real Experience",
+            "creator": "Romeo On The Road",
+            "description": "Klook Affiliate: https://affiliate.klook.com/sl/2qGJTuT (save a little money!) El Nido Tour C is one of the most popular island hopping ..."
+          },
+          {
+            "videoId": "kMAakhzwG74",
+            "title": "El Nido, Palawan with the Fam and Besties! | Small Laude",
+            "creator": "Small Laude",
+            "description": "SmallLaude #ElNido #Palawan Hi Guys! Don't forget to hit that like button, turn on your notifications, and comment down below on ..."
+          },
+          {
+            "videoId": "WQ5IFvBwKU8",
+            "title": "Cadlao Lagoon in El Nido Philippines",
+            "creator": "Drone Destinations",
+            "description": "elnido."
+          },
+          {
+            "videoId": "UGtJW1ToOAo",
+            "title": "Island Hopping El Nido: Tour A Package",
+            "creator": "Nat - The Travelling Fox",
+            "description": "Here is Part 2 of our El Nido adventure! Join The Travelling Foxes on an unforgettable island-hopping adventure in El Nido, ..."
+          },
+          {
+            "videoId": "EO5ypIvJBD0",
+            "title": "El Nido Palawan Philippines 2020 [ Tour A with Cadlao Lagoon]",
+            "creator": "Lose Yourself Vlog",
+            "description": "El Nido Palawan Philippines 2020 [ Tour A with Cadlao Lagoon] Watch this video El Nido Palawan Philippines 2020 before ..."
+          },
+          {
+            "videoId": "CPCGawoHZZI",
+            "title": "The most UNDERRATED place in EL NIDO, PALWAN: CADLAO LAGOON + amazing beaches",
+            "creator": "Romanians On The Road",
+            "description": "Hi everyone and welcome to our channel Romanians on the Road! In this video we present you The most UNDERRATED place in ..."
+          }
+        ]
+      },
+      "decision": "pending-editorial-review"
+    },
+    {
+      "placeId": "el-nido-snake-island",
+      "name": "Snake Island",
+      "municipality": "El Nido",
+      "identitySource": {
+        "url": "https://www.discoverelnido.com/tours/tour-b/",
+        "status": 200,
+        "contentType": "text/html; charset=utf-8",
+        "checkedOn": "2026-10-22",
+        "title": "El Nido Tour B | Caves &amp; Sandbars | Discover El Nido"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Snake_Island",
+      "wikiSearchCandidates": [],
+      "imageCandidate": null,
+      "commonsCandidates": [
+        {
+          "title": "File:Snake Island, El Nido, Philippines (36914138776).jpg",
+          "url": "https://commons.wikimedia.org/wiki/File:Snake_Island,_El_Nido,_Philippines_(36914138776).jpg"
+        },
+        {
+          "title": "File:Snake Island, El Nido, Philippines (36267238674).jpg",
+          "url": "https://commons.wikimedia.org/wiki/File:Snake_Island,_El_Nido,_Philippines_(36267238674).jpg"
+        },
+        {
+          "title": "File:Snake Island, El Nido, Philippines (36267222444).jpg",
+          "url": "https://commons.wikimedia.org/wiki/File:Snake_Island,_El_Nido,_Philippines_(36267222444).jpg"
+        }
+      ],
+      "videoCandidates": {
+        "placeId": "el-nido-snake-island",
+        "query": "Snake Island El Nido Philippines tour",
+        "checkedOn": "2026-10-22",
+        "candidates": [
+          {
+            "videoId": "QYxzYrCNf4Q",
+            "title": "El Nido 2025 Travel Guide: The BEST Tour in Palawan Philippines • Tour A, B, C, D • Budget Vlog",
+            "creator": "Angelica & Aileen Wanders",
+            "description": "Here is EVERYTHING you need to know about traveling to El Nido. This is the Ultimate 4-Day El Nido Sample Budget Itinerary ..."
+          },
+          {
+            "videoId": "v4Afo4ff6gE",
+            "title": "Snake Island El Nido – Walk on Water in the Philippines 🇵🇭🌊",
+            "creator": "Roaming Together ",
+            "description": "Travel Gear & Useful Finds: https://link.amazon/B0axAfePb As an Amazon Associate I earn from qualifying purchases. Snake ..."
+          },
+          {
+            "videoId": "oXnTww1turw",
+            "title": "Is Tour B The BEST TOUR in EL NIDO Palawan? | SNAKE ISLAND!",
+            "creator": "DanVsWorld",
+            "description": "Day 74: Tour B was one of the best tours we took in El Nido Palawan. We saw some of the best beaches and Islands in the ..."
+          },
+          {
+            "videoId": "YhS-pSU-1JU",
+            "title": "Explore Snake Island and the Beautiful Beaches of El Nido in the Philippines",
+            "creator": "American Travelers TV",
+            "description": "Snake Island is a famous island where many TV shows are filmed, including Survivor. El Nido is a tourist destination located on ..."
+          },
+          {
+            "videoId": "sbQkH7mpx44",
+            "title": "The Most Dangerous Island in the Philippines | Snake Island",
+            "creator": "SEFTV",
+            "description": "1 Like = Another Island to Explore Please subscribe and hit the bell button :) MY OFFICIAL ACCOUNTS Youtube Channel ..."
+          },
+          {
+            "videoId": "ka_OXFyEgZY",
+            "title": "Snake Island, El Nido, Palawan, Filippine DRONE DJI SPARK",
+            "creator": "Avventure Esotiche",
+            "description": "Con la bassa marea una sottile lingua di sabbia emerge dall'acqua formando un isola a forma di serpente, le Filippine sono ..."
+          },
+          {
+            "videoId": "jrFPKOGdBmA",
+            "title": "EL NIDO Is THE WORLD’s #1 ISLAND! Palawan Philippines is Paradise on Earth! FULL ISLAND HOPPING 2026",
+            "creator": "PH Dot Net",
+            "description": "EL NIDO Is THE WORLD's #1 ISLAND! Palawan Philippines is Paradise on Earth! FULL ISLAND HOPPING 2026 In this video, we ..."
+          },
+          {
+            "videoId": "emJy4Xd_CN8",
+            "title": "SNAKE ISLAND, El Nido, Palawan, Philippines",
+            "creator": "MBVTuazon",
+            "description": "Get ready to slither into paradise! Snake Island, a hidden gem in El Nido, Palawan, is a destination like no other. Join us as we ..."
+          },
+          {
+            "videoId": "Id3ZiWjZCag",
+            "title": "Island Hopping in El Nido, Palawan 🇵🇭 (TOUR D)",
+            "creator": "Travel with Julius",
+            "description": "Join me on an unforgettable Island Hopping Tour D in El Nido, Palawan — one of the most underrated and peaceful tours ..."
+          },
+          {
+            "videoId": "jD4yb6mVtRA",
+            "title": "Visiting Snake Island in El nido palawan 🇵🇭",
+            "creator": "Game Time",
+            "description": "Visiting Snake Island in El Nido, Palawan One of the most beautiful hidden gems in the Philippines! The crystal-clear ..."
+          },
+          {
+            "videoId": "hz3eFzJ2_FQ",
+            "title": "DAY 4: Snake Island | El Nido, Palawan",
+            "creator": "Darkside1909",
+            "description": "At Snake Island in El Nido, fear takes a different shape—a long, winding sandbar revealed in pure white, best seen from above ..."
+          },
+          {
+            "videoId": "uWKvNghsvt0",
+            "title": "EL NIDO TOUR B Was WAY Better Than Expected?! 😱 Hidden Paradise in Palawan!",
+            "creator": "Jayventure TV",
+            "description": "EL NIDO TOUR B was an experience we will NEVER forget! From stunning islands and crystal-clear waters to hidden caves ..."
+          }
+        ]
+      },
+      "decision": "pending-editorial-review"
+    },
+    {
+      "placeId": "el-nido-cudugnon-cave",
+      "name": "Cudugnon Cave",
+      "municipality": "El Nido",
+      "identitySource": {
+        "url": "https://www.discoverelnido.com/tours/tour-b/",
+        "status": 200,
+        "contentType": "text/html; charset=utf-8",
+        "checkedOn": "2026-10-22",
+        "title": "El Nido Tour B | Caves &amp; Sandbars | Discover El Nido"
+      },
+      "wikipedia": null,
+      "wikiSearchCandidates": [],
+      "imageCandidate": null,
+      "commonsCandidates": [],
+      "videoCandidates": {
+        "placeId": "el-nido-cudugnon-cave",
+        "query": "Cudugnon Cave El Nido Philippines tour",
+        "checkedOn": "2026-10-22",
+        "candidates": [
+          {
+            "videoId": "rzId6-dNR1g",
+            "title": "Walking tour in El Nido Palawan featuring Cudugnon Cave and Cudugnon Beach",
+            "creator": "Ambient Hunting PH",
+            "description": "0:00 Walking in Cudugnon Cave and Cudugnon Beach 0:09 Inside Cudugnon Cave 2:35 Outside Cudugnon Cave 3:21 ..."
+          },
+          {
+            "videoId": "BzWr1lSBg-g",
+            "title": "Tour B CUDUGNON CAVE EL NIDO PALAWAN @mhitamacabidangvlog ",
+            "creator": "Mhita Macabidang vlog",
+            "description": "It's believed to be an important location for the indigenous Tagbanwa tribe, who have lived in the Palawan region for thousands of ..."
+          },
+          {
+            "videoId": "uWKvNghsvt0",
+            "title": "EL NIDO TOUR B Was WAY Better Than Expected?! 😱 Hidden Paradise in Palawan!",
+            "creator": "Jayventure TV",
+            "description": "EL NIDO TOUR B was an experience we will NEVER forget! From stunning islands and crystal-clear waters to hidden caves ..."
+          },
+          {
+            "videoId": "jhnG8u-5YqM",
+            "title": "CUDUGNON CAVE EL NIDO (MUST SEE!!) | SE02 Episode 20",
+            "creator": "Brad Newton - Fitness Street",
+            "description": "In this adventure, Robyn and I visit Cudugnon Cave El Nido. It is a small hole in a wall that leads into an amazing cave system."
+          },
+          {
+            "videoId": "jrFPKOGdBmA",
+            "title": "EL NIDO Is THE WORLD’s #1 ISLAND! Palawan Philippines is Paradise on Earth! FULL ISLAND HOPPING 2026",
+            "creator": "PH Dot Net",
+            "description": "EL NIDO Is THE WORLD's #1 ISLAND! Palawan Philippines is Paradise on Earth! FULL ISLAND HOPPING 2026 In this video, we ..."
+          },
+          {
+            "videoId": "dI15z5ZTMUU",
+            "title": "Is El Nido Tour B Worth It? Complete Island Hopping Experience | Palawan PH",
+            "creator": "MarkTravelsPH",
+            "description": "Good day, everyone! In this video, we booked El Nido Island Hopping Tour B. Join us as we explore stunning caves, pristine ..."
+          },
+          {
+            "videoId": "8H7Cjhi2PnU",
+            "title": "Island hoping! Cudugnon Cave! El Nido Palawan! //Sanchez Fun",
+            "creator": "Marie Sanchez",
+            "description": "5.10.17 Hellerskie!!! Back in Denver. Back Home. I love being home but i love love to travel. haha i just hate the laundry after ..."
+          },
+          {
+            "videoId": "aCQGj6shwJw",
+            "title": "Unveiling the Wonders of Cudugnon Cave in Palawan El Nido Tour B Part 12/18",
+            "creator": "Remo Suter",
+            "description": "Cudugnon Cave is a fascinating spot located in El Nido, Palawan, Philippines. It's known for two main things: its historical ..."
+          },
+          {
+            "videoId": "ne3ef6cU-Mg",
+            "title": "CUDUGNON CAVE, El Nido, Palawan, Philippines",
+            "creator": "MBVTuazon",
+            "description": "Discover the natural wonder of Cudugnon Cave, a majestic limestone cave located in El Nido, Palawan. This awe-inspiring ..."
+          },
+          {
+            "videoId": "GKqcHp9te6M",
+            "title": "El Nido Tour B:Island Hopping El Nido Philippines- Entalula & Snake Island Cudugnon & Cathedral Cave",
+            "creator": "Cathleen Dayao",
+            "description": "Experience the breathtaking beauty of El Nido, Philippines with the El Nido Tour B: Island Hopping adventure. This tour takes you ..."
+          },
+          {
+            "videoId": "2FdlvQ-cUgE",
+            "title": "Cudugnon Cave, El Nido, Palawan, Philippines 🇵🇭,  26.3.2016",
+            "creator": "Stu Holiday",
+            "description": "We hired our only boat for the whole day. c£150 back in 2016 which included c8 stops and bbq meal. Cudugnon Cave, El Nido, ..."
+          },
+          {
+            "videoId": "RlQfPgXj2CY",
+            "title": "Cudugnon Cave | El Nido Tour B 2020 | Palawan, Philippines | Zero Dark Personality Tour | Vlog #1169",
+            "creator": "Félix Rayuela",
+            "description": "El Nido is more than just the beach and sun but there are bound to be magnificent caves within those karst limestone cliffs. Part of ..."
+          }
+        ]
+      },
+      "decision": "pending-editorial-review"
+    },
+    {
+      "placeId": "puerto-princesa-plaza-cuartel",
+      "name": "Plaza Cuartel",
+      "municipality": "Puerto Princesa City",
+      "identitySource": {
+        "url": "https://citytourism.puertoprincesa.ph/plaza-cuartel/",
+        "status": 200,
+        "contentType": "text/html; charset=UTF-8",
+        "checkedOn": "2026-10-22",
+        "title": "Plaza Cuartel &#8211; City Tourism of Puerto Princesa"
+      },
+      "wikipedia": null,
+      "wikiSearchCandidates": [
+        {
+          "title": "Invasion of Palawan",
+          "pageid": 5288901
+        },
+        {
+          "title": "Palawan massacre",
+          "pageid": 31955697
+        }
+      ],
+      "imageCandidate": null,
+      "commonsCandidates": [
+        {
+          "title": "File:Plaza Cuartel Puerto Princesa City.jpg",
+          "url": "https://commons.wikimedia.org/wiki/File:Plaza_Cuartel_Puerto_Princesa_City.jpg"
+        },
+        {
+          "title": "File:Puerto Princesa Plaza Cuartel Marker.jpg",
+          "url": "https://commons.wikimedia.org/wiki/File:Puerto_Princesa_Plaza_Cuartel_Marker.jpg"
+        },
+        {
+          "title": "File:Puerto Princesa Plaza Cuartel.jpg",
+          "url": "https://commons.wikimedia.org/wiki/File:Puerto_Princesa_Plaza_Cuartel.jpg"
+        }
+      ],
+      "videoCandidates": {
+        "placeId": "puerto-princesa-plaza-cuartel",
+        "query": "Plaza Cuartel Puerto Princesa City Philippines tour",
+        "checkedOn": "2026-10-22",
+        "candidates": [
+          {
+            "videoId": "8HYw3tyiX0U",
+            "title": "#PLWN | Plaza Cuartel - Puerto Princesa City Stroll | PH - PLWN #Palawan",
+            "creator": "Joe Wie - PH",
+            "description": "JoeWiePh #Philippines."
+          },
+          {
+            "videoId": "jF7bOUZAM3c",
+            "title": "PLAZA CUARTEL PUERTO PRINCESA CITY",
+            "creator": "LAKWATSERONG CHUBBY VLOG",
+            "description": "HISTORICAL PLACE/BUILT HERITAGE."
+          },
+          {
+            "videoId": "smFNdi6CK9k",
+            "title": "Plaza Cuartel",
+            "creator": "Carlito Palatino",
+            "description": "A short detailed trip inside Plaza Cuartel in Puerto Princesa City, Palawan."
+          },
+          {
+            "videoId": "AnhcCGMba1o",
+            "title": "Vlog 4: the 11 survivor world War 2 | plaza cuartel | Puerto Princess City",
+            "creator": "LEGENDARY TV",
+            "description": "Vlog 4: the 11 survivor world War 2 | plaza cuartel | Puerto Princess City #plazacuartel #11survivors."
+          },
+          {
+            "videoId": "oPou6jf6NLo",
+            "title": "🇵🇭 PALAWAN FAMILY TRIP 2024 | PUERTO PRINCESA CITY TOUR | BAKER'S HILL| RANCHO MITRA | PLAZA CUARTEL",
+            "creator": "Joy Through The Globe",
+            "description": "TRAVEL PERIOD: 20 DECEMBER 2024 #PALAWAN #PuertoPrincesa #PuertoPrincesaCityTour #BakersHill #RancoMitra ..."
+          },
+          {
+            "videoId": "13cBrFsiNgY",
+            "title": "Plaza Cuartel, Puerto Princesa City, Palawan",
+            "creator": "Teacher Lumaban",
+            "description": "Plaza Cuartel appears to be a typical urban park, featuring concrete pathways, tall trees, and seating areas. However, beneath its ..."
+          },
+          {
+            "videoId": "njxUHoPH_D8",
+            "title": "The Plaza Cuartel of Puerto Princesa City",
+            "creator": "Exploring Palawan",
+            "description": "The Plaza Cuartel https://postimg.cc/user/plazacuartel Beautiful Islands of the World ..."
+          },
+          {
+            "videoId": "t9Eo7rrRFrM",
+            "title": "Plaza Cuartel Puerto Princesa City(full episode) | Biyahe ni JULES 2020",
+            "creator": "Biyahe ni JULES",
+            "description": "Plaza Cuartel, Cuartel, old garrison cell, park, tunnel, theme park, biyahe ni jules, historical place."
+          },
+          {
+            "videoId": "mW3WjW-XNZE",
+            "title": "Plaza Cuartel Palawan #touristplace #historical #travelvlog",
+            "creator": "Beth TV 🇬🇧 ",
+            "description": "Travel vlog! Enjoying my holiday. I travel to Puerto Princesa Palawan and visited Plaza Cuartel. A military base during second ..."
+          },
+          {
+            "videoId": "9ElvLFVNd_w",
+            "title": "4K 🇵🇭 Puerto Princesa City • Walking Tour 2024 • Palawan, Philippines",
+            "creator": "PH Dot Net",
+            "description": "Puerto Princesa Walking Tour 2024 • Palawan, Philippines • Busy Streets, Food Market + Puerto Princesa Baywalk Park Video ..."
+          },
+          {
+            "videoId": "x_VTNJ2Bof4",
+            "title": "CHECK THIS OUT!! PLAZA CUARTEL IN PUERTO PRINCESA CITY",
+            "creator": "Palawenia",
+            "description": "Plaza Cuartel in Puerto Princesa City is an Outdoor park & site of a formal penal colony, where 150 U.S. soldiers were burned by ..."
+          },
+          {
+            "videoId": "DIetVrNkieg",
+            "title": "WHY YOU MUST VISIT PLAZA CUARTEL AND THE IMMACULATE CONCEPTION CATHEDRAL IN PUERTO PRINCESA, PALAWAN",
+            "creator": "Zandra Travels",
+            "description": "Welcome to Puerto Princesa, a stunning city located in the beautiful island of Palawan in the Philippines! If you're looking for a ..."
+          }
+        ]
+      },
+      "decision": "pending-editorial-review"
+    },
+    {
+      "placeId": "puerto-princesa-immaculate-conception-cathedral-surroundings",
+      "name": "Immaculate Conception Cathedral",
+      "municipality": "Puerto Princesa City",
+      "identitySource": {
+        "url": "https://citytourism.puertoprincesa.ph/destination-map/",
+        "status": 200,
+        "contentType": "text/html; charset=UTF-8",
+        "checkedOn": "2026-10-22",
+        "title": "Destination Map &#8211; City Tourism of Puerto Princesa"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Cathedral_of_the_Immaculate_Conception",
+      "wikiSearchCandidates": [],
+      "imageCandidate": null,
+      "commonsCandidates": [
+        {
+          "title": "File:Immaculate Conception Cathedral - Puerto Princesa City.jpg",
+          "url": "https://commons.wikimedia.org/wiki/File:Immaculate_Conception_Cathedral_-_Puerto_Princesa_City.jpg"
+        },
+        {
+          "title": "File:Immaculate Conception Cathedral - Puerto Princesa City1.jpg",
+          "url": "https://commons.wikimedia.org/wiki/File:Immaculate_Conception_Cathedral_-_Puerto_Princesa_City1.jpg"
+        },
+        {
+          "title": "File:Immaculate Conception Cathedral - Puerto Princesa City2.jpg",
+          "url": "https://commons.wikimedia.org/wiki/File:Immaculate_Conception_Cathedral_-_Puerto_Princesa_City2.jpg"
+        }
+      ],
+      "videoCandidates": {
+        "placeId": "puerto-princesa-immaculate-conception-cathedral-surroundings",
+        "query": "Immaculate Conception Cathedral Puerto Princesa City Philippines tour",
+        "checkedOn": "2026-10-22",
+        "candidates": [
+          {
+            "videoId": "bvCSaac5CTA",
+            "title": "City Tour | #CabsFam goes to Puerto Princess Palawan",
+            "creator": "KathNicoleC",
+            "description": "LIKE | COMMENT | SUBSCRIBE | SHARE facebook.com/MsKathCayabyab cayabyabkath@gmail.com ---- SIGN UP on KLOOK ..."
+          },
+          {
+            "videoId": "XV2VmVpcLyY",
+            "title": "IMMACULATE CONCEPTION CATHEDRAL |PUERTO PRINCESA CITY",
+            "creator": "PALAWAN = Palawonderful Adventures Travel",
+            "description": "The Immaculate Conception Cathedral in Puerto Princesa is one of the grandest Cathedrals in the Philippines. In 1965, Bishop ..."
+          },
+          {
+            "videoId": "fFjLsZZFTZI",
+            "title": "Immaculate Conception Cathedral, Puerto Princesa City, Palawan, Philippines",
+            "creator": "gsdilig palawan"
+          },
+          {
+            "videoId": "4nCPLuNAS40",
+            "title": "Immaculate Conception Cathedral, Puerto Princesa Palawan (360 video)",
+            "creator": "Top Virtual Tours ",
+            "description": "this historical landmark celebrated the first mass in Puerto Princesa in 1872 where a Spanish expedition proclaimed the ..."
+          },
+          {
+            "videoId": "_Xcv2ObwwzI",
+            "title": "Immaculate Conception Cathedral, Puerto Princesa City",
+            "creator": "Emmanuel Alberto",
+            "description": "immaculateconception #Immaculate Conception cathedral #puertoprincesa # puertoPrincesa City."
+          },
+          {
+            "videoId": "DIetVrNkieg",
+            "title": "WHY YOU MUST VISIT PLAZA CUARTEL AND THE IMMACULATE CONCEPTION CATHEDRAL IN PUERTO PRINCESA, PALAWAN",
+            "creator": "Zandra Travels",
+            "description": "Welcome to Puerto Princesa, a stunning city located in the beautiful island of Palawan in the Philippines! If you're looking for a ..."
+          },
+          {
+            "videoId": "kxj8vvUiOfI",
+            "title": "THE IMMACULATE CONCEPTION CATHEDRAL IN PUERTO PRINCESA PALAWAN #old #architecture #palawan",
+            "creator": "GU TO SKOOL CHANNEL MIX VLOG"
+          },
+          {
+            "videoId": "DjxHfEbi1-k",
+            "title": "Puerto Princesa City Baywalk Park & イマキュレート・コンセプション大聖堂 Immaculate Conception Cathedral",
+            "creator": "MAKOPIマコピー / PIANO CHANNEL",
+            "description": "２０２６年３月１２日〜１８日で、フィリピンのパラワン島へ来ています。１３日〜１６日の３泊４日は、ポートバートンの ..."
+          },
+          {
+            "videoId": "wjPaM9kPEUE",
+            "title": "CHURCH SERIES: Palawan Cathedral, Puerto Princesa City",
+            "creator": "BENITO ROBENTA",
+            "description": "Walking tour at Immaculate Conception Cathedral (Palawan Cathedral), Puerto Princesa City #visitaiglesia #churchseries ..."
+          },
+          {
+            "videoId": "srqqZUSYtIA",
+            "title": "IMMACULATE CONCEPTION CATHEDRAL PARISH - Puerto Princesa City",
+            "creator": "Ad Esguerra TV"
+          },
+          {
+            "videoId": "UEkDoTz7Uk8",
+            "title": "immaculate Conception Cathedral in puerto princesa, palawan,philippines",
+            "creator": "Photo videos",
+            "description": "The Immaculate Conception Cathedral, located in Puerto Princesa City on the island of Palawan in the Philippines, is a beautiful ..."
+          },
+          {
+            "videoId": "MvcGQBahulY",
+            "title": "Puerto Princesa City Tour, Baywalk, Plaza Quartel, Cathedral",
+            "creator": "FARM & SEA LIFE TV",
+            "description": "... City Baywalk, Puerto Princesa City Tour #City Tour # Plaza Quartel # Cathedral# Immaculate Concepcion Cathedral# Catholic ..."
+          }
+        ]
+      },
+      "decision": "pending-editorial-review"
+    },
+    {
+      "placeId": "puerto-princesa-puerto-princesa-baywalk",
+      "name": "Puerto Princesa Baywalk",
+      "municipality": "Puerto Princesa City",
+      "identitySource": {
+        "url": "https://citytourism.puertoprincesa.ph/destination-map/",
+        "status": 200,
+        "contentType": "text/html; charset=UTF-8",
+        "checkedOn": "2026-10-22",
+        "title": "Destination Map &#8211; City Tourism of Puerto Princesa"
+      },
+      "wikipedia": null,
+      "wikiSearchCandidates": [
+        {
+          "title": "Puerto Princesa",
+          "pageid": 2171719
+        },
+        {
+          "title": "List of beaches in the Philippines",
+          "pageid": 35468102
+        }
+      ],
+      "imageCandidate": null,
+      "commonsCandidates": [
+        {
+          "title": "File:Puerto Princesa City Baywalk (Puerto Princesa, Palawan; 08-03-2023).jpg",
+          "url": "https://commons.wikimedia.org/wiki/File:Puerto_Princesa_City_Baywalk_(Puerto_Princesa,_Palawan;_08-03-2023).jpg"
+        }
+      ],
+      "videoCandidates": {
+        "placeId": "puerto-princesa-puerto-princesa-baywalk",
+        "query": "Puerto Princesa Baywalk Puerto Princesa City Philippines tour",
+        "checkedOn": "2026-10-22",
+        "candidates": [
+          {
+            "videoId": "ZsbrqWmI54Y",
+            "title": "Walking in PUERTO PRINCESA’s TOWN CENTER + Puerto Princesa Baywalk Park Tour | Palawan Philippines",
+            "creator": "PH Dot Net",
+            "description": "Walking in PUERTO PRINCESA's TOWN CENTER + Puerto Princesa Baywalk Park Tour | Palawan Philippines Let's go for a walk ..."
+          },
+          {
+            "videoId": "Rm-RE9qPuFA",
+            "title": "Puerto Princesa Baywalk Park walking tour | Relaxing walk in Puerto Princesa Baywalk Park Palawan",
+            "creator": "Ambient Hunting PH",
+            "description": "Welcome to my walking tour video of Puerto Princesa Baywalk Park in Palawan, Philippines! Join me as I stroll along the ..."
+          },
+          {
+            "videoId": "jbJ2RC-yacY",
+            "title": "PUERTO PRINCESA PALAWAN 🇵🇭| Guide and Expenses- Driving Tour 2026",
+            "creator": "Hop On Places",
+            "description": "puertoprincesa #whitebeach Puerto Princesa Driving Tour 2026 • Palawan, Philippines • Busy Streets, Food Market + Puerto ..."
+          },
+          {
+            "videoId": "CKdvpyRVkc0",
+            "title": "THE BAYWALK OF PUERTO PRINCESA | PALAWAN",
+            "creator": "DenDiman BOX",
+            "description": "Puert Princesa Baywalk is an ideal place for walking, strolling, bonding with friends and family. a great place for relaxation ..."
+          },
+          {
+            "videoId": "fznPYG-yiTo",
+            "title": "PUERTO PRINCESA PALAWAN 🇵🇭| Guide and Expenses - Underground River + Honda Bay + City Tour (ENG SUB)",
+            "creator": "GALA NI CED",
+            "description": "This is my 3 days itinerary in Puerto Princesa. This video was taken on September 4-7, 2023. I would recommend to visit Puerto ..."
+          },
+          {
+            "videoId": "qOhJwBavqBU",
+            "title": "Puerto Princesa Baywalk Tour 🇵🇭 | Amazing Sunset, Street Food & Local Life",
+            "creator": "Wander Nonoy",
+            "description": "Take a relaxing afternoon walk with me at the Puerto Princesa City Baywalk, one of the cleanest and most peaceful waterfront ..."
+          },
+          {
+            "videoId": "u2ufEEPpGRg",
+            "title": "Puerto Princesa Palawan Baywalk Park 2026 | Come with Me Let's Explore It",
+            "creator": "Rundom Talks With Soybitz",
+            "description": "We visited Puerto Princesa, Palawan and our number 1 goal if we are a runner is to explore the place early in the morning through ..."
+          },
+          {
+            "videoId": "am6mOfnBgjA",
+            "title": "Puerto Princesa City Tour + Best Restaurants in Puerto Princesa Palawan",
+            "creator": "Zondiland",
+            "description": "A typical city tour in Puerto Princesa offers a mix of historical, cultural, and scenic attractions. It's a great way to explore the city's ..."
+          },
+          {
+            "videoId": "9yxZaBvcg18",
+            "title": "Puerto Princesa City Tour 2026 🇵🇭✨ | Mitras Ranch | Baker's Hill | Hidden Gems in Palawan🌴",
+            "creator": "Miles Babor-Sajorda",
+            "description": "Welcome to Day 1 of our Palawan adventure! ☀️ Join us as we explore the beautiful city of Puerto Princesa and visit some of ..."
+          },
+          {
+            "videoId": "KkDDOErQYgE",
+            "title": "Puerto Princesa City Baywalk I Walking Tour",
+            "creator": "Walk Into Places"
+          },
+          {
+            "videoId": "9ElvLFVNd_w",
+            "title": "4K 🇵🇭 Puerto Princesa City • Walking Tour 2024 • Palawan, Philippines",
+            "creator": "PH Dot Net",
+            "description": "Puerto Princesa Walking Tour 2024 • Palawan, Philippines • Busy Streets, Food Market + Puerto Princesa Baywalk Park Video ..."
+          },
+          {
+            "videoId": "h0_VXh5GIgI",
+            "title": "PUERTO PRINCESA BAYWALK, Palawan, Philippines",
+            "creator": "MBVTuazon",
+            "description": "Sunset chasers, foodies, and nature lovers - Puerto Princesa Baywalk has it all! We strolled along the bay, indulging in local eats ..."
+          }
+        ]
+      },
+      "decision": "pending-editorial-review"
+    },
+    {
+      "placeId": "puerto-princesa-mendoza-park",
+      "name": "Mendoza Park",
+      "municipality": "Puerto Princesa City",
+      "identitySource": {
+        "url": "https://citytourism.puertoprincesa.ph/historical-landmarks/",
+        "status": 200,
+        "contentType": "text/html; charset=UTF-8",
+        "checkedOn": "2026-10-22",
+        "title": "Historical Landmarks &#8211; City Tourism of Puerto Princesa"
+      },
+      "wikipedia": null,
+      "wikiSearchCandidates": [
+        {
+          "title": "Palawan",
+          "pageid": 240395
+        },
+        {
+          "title": "Puerto Princesa",
+          "pageid": 2171719
+        }
+      ],
+      "imageCandidate": null,
+      "commonsCandidates": [
+        {
+          "title": "File:W. F. Burnett's 1920 guia oficial del Sud America; seccion de la Republica de Bolivia. (IA wfburnettsguiaof00burn).pdf",
+          "url": "https://commons.wikimedia.org/wiki/File:W._F._Burnett%27s_1920_guia_oficial_del_Sud_America;_seccion_de_la_Republica_de_Bolivia._(IA_wfburnettsguiaof00burn).pdf"
+        },
+        {
+          "title": "File:Monthly Bulletins (IA acd5391.1921.001.umich.edu).pdf",
+          "url": "https://commons.wikimedia.org/wiki/File:Monthly_Bulletins_(IA_acd5391.1921.001.umich.edu).pdf"
+        },
+        {
+          "title": "File:Bulletin (IA acp1028.0001.025.umich.edu).pdf",
+          "url": "https://commons.wikimedia.org/wiki/File:Bulletin_(IA_acp1028.0001.025.umich.edu).pdf"
+        }
+      ],
+      "videoCandidates": {
+        "placeId": "puerto-princesa-mendoza-park",
+        "query": "Mendoza Park Puerto Princesa City Philippines tour",
+        "checkedOn": "2026-10-22",
+        "candidates": [
+          {
+            "videoId": "uvorNflKwjM",
+            "title": "MENDOZA PARK in Puerto Princesa City",
+            "creator": "PALAWAN = Palawonderful Adventures Travel",
+            "description": "Truly a nature-friendly city, Mendoza Park in Puerto Princesa offers green spaces where you can recharge and reconnect with ..."
+          },
+          {
+            "videoId": "2KOne1xZhOk",
+            "title": "MENDOZA PARK || PUERTO PRINCESA CITY PALAWAN",
+            "creator": "Mr. Mon",
+            "description": "MENDOZA PARK Located at Barangay Model, Puerto Princesa City, Palawan, Philippines Stay Connected with me Please Follow ..."
+          },
+          {
+            "videoId": "6NwUv3RdUWQ",
+            "title": "AROUND MENDOZA PARK | PUERTO PRINCESA, PALAWAN",
+            "creator": "DenDiman BOX",
+            "description": "Mendoza Park located at Puerto Princesa, Palawan is  a historic public park known for its relaxng green space and local ..."
+          },
+          {
+            "videoId": "cubDc5ZowZA",
+            "title": "Mendoza Park @ Puerto Princesa City, Palawan",
+            "creator": "Cezar Emmanuel Mediana",
+            "description": "Dr. Higinio Mendoza (1898-1944) was born in Taytay, Palawan, a doctor by profession & a governor during the Japanese ..."
+          },
+          {
+            "videoId": "k3U0duyroQE",
+            "title": "Mendoza Park, Puerto Princesa City, Palawan",
+            "creator": "Annzil Pepper"
+          },
+          {
+            "videoId": "mQ14HeAszXw",
+            "title": "Puerto Princesa City, Mendoza Park Vlog 🇵🇭 5-15-19",
+            "creator": "Thefallenangel Compass",
+            "description": "MendozaPark #PuertoPrinsesa #Palawan Mendoza Park Park is located at the center of the city. Its good for family gatherings and ..."
+          },
+          {
+            "videoId": "9yxZaBvcg18",
+            "title": "Puerto Princesa City Tour 2026 🇵🇭✨ | Mitras Ranch | Baker's Hill | Hidden Gems in Palawan🌴",
+            "creator": "Miles Babor-Sajorda",
+            "description": "Welcome to Day 1 of our Palawan adventure! ☀️ Join us as we explore the beautiful city of Puerto Princesa and visit some of ..."
+          },
+          {
+            "videoId": "fznPYG-yiTo",
+            "title": "PUERTO PRINCESA PALAWAN 🇵🇭| Guide and Expenses - Underground River + Honda Bay + City Tour (ENG SUB)",
+            "creator": "GALA NI CED",
+            "description": "This is my 3 days itinerary in Puerto Princesa. This video was taken on September 4-7, 2023. I would recommend to visit Puerto ..."
+          },
+          {
+            "videoId": "hoR4LpevHuM",
+            "title": "MENDOZA PARK, PUERTO PRINCESA",
+            "creator": "Mayo's Corner",
+            "description": "Mendoza Park is located along Rizal Avenue. Named after Dr. Hginio Mendoz, war hero of Palawan."
+          },
+          {
+            "videoId": "x-nFmBn6cPc",
+            "title": "Mendoza Park @ Puerto Princesa City, Palawan",
+            "creator": "Cezar Emmanuel Mediana",
+            "description": "Featuring: *Puerto Princesa Amphi Theater *Puerto Princesa City Police Station *Palawan Museum *Puerto Princesa City Health ..."
+          },
+          {
+            "videoId": "CoUFdkukU_4",
+            "title": "Mendoza Park in Puerto Princesa City, Palawan",
+            "creator": "Lakad ni JEPOY",
+            "description": "Ayan! Welcome to my Youtube Channel! Dito po tayo ngayon sa MENDOZA PARK in Puerto Princesa City, Palawan! Viewing tour ..."
+          },
+          {
+            "videoId": "gyxkwNy_jXQ",
+            "title": "Mendoza Park, Puerto Princesa City Palawan",
+            "creator": "Kuyang JB TV",
+            "description": "Don't forget to SUBSCRIBE.. DISCLAIMER: I hereby declare that I do not own the rights to this music/song. All rights belong to the ..."
+          }
+        ]
+      },
+      "decision": "pending-editorial-review"
+    },
+    {
+      "placeId": "puerto-princesa-princess-eulalia-park",
+      "name": "Princess Eulalia Park",
+      "municipality": "Puerto Princesa City",
+      "identitySource": {
+        "url": "https://citytourism.puertoprincesa.ph/historical-landmarks/",
+        "status": 200,
+        "contentType": "text/html; charset=UTF-8",
+        "checkedOn": "2026-10-22",
+        "title": "Historical Landmarks &#8211; City Tourism of Puerto Princesa"
+      },
+      "wikipedia": null,
+      "wikiSearchCandidates": [
+        {
+          "title": "Puerto Princesa",
+          "pageid": 2171719
+        },
+        {
+          "title": "Socrates Mesiona",
+          "pageid": 79357267
+        }
+      ],
+      "imageCandidate": null,
+      "commonsCandidates": [],
+      "videoCandidates": {
+        "placeId": "puerto-princesa-princess-eulalia-park",
+        "query": "Princess Eulalia Park Puerto Princesa City Philippines tour",
+        "checkedOn": "2026-10-22",
+        "candidates": []
+      },
+      "decision": "pending-editorial-review"
+    },
+    {
+      "placeId": "puerto-princesa-palawan-heritage-center",
+      "name": "Palawan Heritage Center",
+      "municipality": "Puerto Princesa City",
+      "identitySource": {
+        "url": "https://www.puertoprincesatourism.com/_files/ugd/3668db_31558baedb484e898e1bd7efb719f797.pdf",
+        "status": 200,
+        "contentType": "application/pdf",
+        "checkedOn": "2026-10-22"
+      },
+      "wikipedia": null,
+      "wikiSearchCandidates": [
+        {
+          "title": "Coron, Palawan",
+          "pageid": 498917
+        },
+        {
+          "title": "Palawan",
+          "pageid": 240395
+        }
+      ],
+      "imageCandidate": null,
+      "commonsCandidates": [
+        {
+          "title": "File:The Nautilus. Vol. 005-006, 1891-1893 (IA conchologistsexc5618aver).pdf",
+          "url": "https://commons.wikimedia.org/wiki/File:The_Nautilus._Vol._005-006,_1891-1893_(IA_conchologistsexc5618aver).pdf"
+        },
+        {
+          "title": "File:Proceedings of the Biological Society of Washington (IA proceedings6465195152biol).pdf",
+          "url": "https://commons.wikimedia.org/wiki/File:Proceedings_of_the_Biological_Society_of_Washington_(IA_proceedings6465195152biol).pdf"
+        },
+        {
+          "title": "File:Entrance of Palawan Heritage Center.jpg",
+          "url": "https://commons.wikimedia.org/wiki/File:Entrance_of_Palawan_Heritage_Center.jpg"
+        }
+      ],
+      "videoCandidates": {
+        "placeId": "puerto-princesa-palawan-heritage-center",
+        "query": "Palawan Heritage Center Puerto Princesa City Philippines tour",
+        "checkedOn": "2026-10-22",
+        "candidates": [
+          {
+            "videoId": "9yxZaBvcg18",
+            "title": "Puerto Princesa City Tour 2026 🇵🇭✨ | Mitras Ranch | Baker's Hill | Hidden Gems in Palawan🌴",
+            "creator": "Miles Babor-Sajorda",
+            "description": "Welcome to Day 1 of our Palawan adventure! ☀️ Join us as we explore the beautiful city of Puerto Princesa and visit some of ..."
+          },
+          {
+            "videoId": "WX9g8kzXu9E",
+            "title": "Puerto Princesa City, Palawan. Historical and Heritage Tour.",
+            "creator": "Joseph Bautista",
+            "description": "Welcome to Puerto Princesa City. The city in the forest. Where nature begins, and it never ends. This is the second biggest city in ..."
+          },
+          {
+            "videoId": "CaxnoJMmEyo",
+            "title": "PALAWAN MUSEUM VIRTUAL TOUR",
+            "creator": "Patrick Lens TV",
+            "description": "Join this channel to get access to perks: https://www.youtube.com/channel/UCG4oTzMevjeXA5iLNz9uxxQ/join."
+          },
+          {
+            "videoId": "am6mOfnBgjA",
+            "title": "Puerto Princesa City Tour + Best Restaurants in Puerto Princesa Palawan",
+            "creator": "Zondiland",
+            "description": "Stops on a Typical Puerto Princesa City Tour 1. Binuatan Creations Weaving Center in Puerto Princesa, Palawan, is a must-visit ..."
+          },
+          {
+            "videoId": "hKHvkgpHGKA",
+            "title": "The Palawan's Cultural Heritage : The Palawan Museum Tour 303│Erwin Punay Medalle",
+            "creator": "Erwin Punay Medalle (BeastMaster)",
+            "description": "The Palawan's Cultural Heritage : The Palawan Museum Tour 303 #LovethePhilippines #TourismPhilippines ..."
+          },
+          {
+            "videoId": "fznPYG-yiTo",
+            "title": "PUERTO PRINCESA PALAWAN 🇵🇭| Guide and Expenses - Underground River + Honda Bay + City Tour (ENG SUB)",
+            "creator": "GALA NI CED",
+            "description": "This is my 3 days itinerary in Puerto Princesa. This video was taken on September 4-7, 2023. I would recommend to visit Puerto ..."
+          },
+          {
+            "videoId": "Lv2mZ1pPtIw",
+            "title": "Palawan for Beginners: Puerto Princesa City Tour, Philippines",
+            "creator": "Tisa Diaries",
+            "description": "Welcome to Puerto Princesa, the stunning gateway to Palawan! In this city tour guide, we'll explore everything you need to know ..."
+          },
+          {
+            "videoId": "9ElvLFVNd_w",
+            "title": "4K 🇵🇭 Puerto Princesa City • Walking Tour 2024 • Palawan, Philippines",
+            "creator": "PH Dot Net",
+            "description": "Puerto Princesa Walking Tour 2024 • Palawan, Philippines • Busy Streets, Food Market + Puerto Princesa Baywalk Park Video ..."
+          },
+          {
+            "videoId": "uInNOG8TreA",
+            "title": "Puerto Princesa Palawan Vlog | Underground River, renting a bike 🚴‍♀️ Butterfly Garden, Baker's Hill",
+            "creator": "mearii",
+            "description": "hey everyone! 𐙚˙✧˖°   ༘ ⋆｡ ˚ I hope you enjoy watching! Don't forget to like and subscribe for more✨ with love, mearii ..."
+          },
+          {
+            "videoId": "U-U3yE6dyXA",
+            "title": "Virtual Tour | It's More Fun with You in Puerto Princesa",
+            "creator": "Tourism Philippines",
+            "description": "Let's wander the Puerto Princesa Underground River! Famous for its limestone landscapes and stunning cave formations. Get lost ..."
+          },
+          {
+            "videoId": "xKIyVJPONkc",
+            "title": "Puerto Princesa, Palawan: Visiting the Eco-Tourism Capital of the Philippines",
+            "creator": "NSTV travel vlog",
+            "description": "When people talk about Puerto Princesa, the first thing that comes to mind is the underground river. For decades tourists have ..."
+          },
+          {
+            "videoId": "jbJ2RC-yacY",
+            "title": "PUERTO PRINCESA PALAWAN 🇵🇭| Guide and Expenses- Driving Tour 2026",
+            "creator": "Hop On Places",
+            "description": "puertoprincesa #whitebeach Puerto Princesa Driving Tour 2026 • Palawan, Philippines • Busy Streets, Food Market + Puerto ..."
+          }
+        ]
+      },
+      "decision": "pending-editorial-review"
+    },
+    {
+      "placeId": "puerto-princesa-palawan-museum",
+      "name": "Palawan Museum",
+      "municipality": "Puerto Princesa City",
+      "identitySource": {
+        "url": "https://www.puertoprincesatourism.com/palawan-museum",
+        "status": 200,
+        "contentType": "text/html; charset=UTF-8",
+        "checkedOn": "2026-10-22",
+        "title": "Palawan Museum | Puerto Princesa City"
+      },
+      "wikipedia": null,
+      "wikiSearchCandidates": [
+        {
+          "title": "Palawan",
+          "pageid": 240395
+        },
+        {
+          "title": "Palawan (island)",
+          "pageid": 1056473
+        }
+      ],
+      "imageCandidate": null,
+      "commonsCandidates": [
+        {
+          "title": "File:Bulletin of the British Ornithologists' Club (IA bulletinofb1620190507brit).pdf",
+          "url": "https://commons.wikimedia.org/wiki/File:Bulletin_of_the_British_Ornithologists%27_Club_(IA_bulletinofb1620190507brit).pdf"
+        },
+        {
+          "title": "File:The Nautilus. Vol. 005-006, 1891-1893 (IA conchologistsexc5618aver).pdf",
+          "url": "https://commons.wikimedia.org/wiki/File:The_Nautilus._Vol._005-006,_1891-1893_(IA_conchologistsexc5618aver).pdf"
+        },
+        {
+          "title": "File:Report (IA acc6740.1910.001.umich.edu).pdf",
+          "url": "https://commons.wikimedia.org/wiki/File:Report_(IA_acc6740.1910.001.umich.edu).pdf"
+        }
+      ],
+      "videoCandidates": {
+        "placeId": "puerto-princesa-palawan-museum",
+        "query": "Palawan Museum Puerto Princesa City Philippines tour",
+        "checkedOn": "2026-10-22",
+        "candidates": [
+          {
+            "videoId": "WX9g8kzXu9E",
+            "title": "Puerto Princesa City, Palawan. Historical and Heritage Tour.",
+            "creator": "Joseph Bautista",
+            "description": "Welcome to Puerto Princesa City. The city in the forest. Where nature begins, and it never ends. This is the second biggest city in ..."
+          },
+          {
+            "videoId": "e6nmteXXB1Y",
+            "title": "Palawan Museum #puertoprincesacity",
+            "creator": "Skittles_219",
+            "description": "travel #puertoprincesacity #palawan #museum."
+          },
+          {
+            "videoId": "CaxnoJMmEyo",
+            "title": "PALAWAN MUSEUM VIRTUAL TOUR",
+            "creator": "Patrick Lens TV",
+            "description": "Join this channel to get access to perks: https://www.youtube.com/channel/UCG4oTzMevjeXA5iLNz9uxxQ/join."
+          },
+          {
+            "videoId": "w8zS1J4EwuE",
+            "title": "Top 12 Things To Do In Puerto Princesa, Palawan | DIY Trip 2025",
+            "creator": "Jem Lupina",
+            "description": "Puerto Princesa, Palawan, is often hailed as one of the most beautiful destinations in the Philippines. It's stunning beaches ..."
+          },
+          {
+            "videoId": "1D1Jj8pT0mo",
+            "title": "THE DARK HISTORY OF PALAWAN | Palawan Special Battalion WW2 Memorial Museum Philippines 🇵🇭",
+            "creator": "KeonPH",
+            "description": "We visited a World War 2 museum here in Puerto Princesa, Palawan to see all kinds of memorabilia that were displayed there."
+          },
+          {
+            "videoId": "GqjjROWPnDg",
+            "title": "Puerto Princesa tour Philliphines",
+            "creator": "Aimar & Daisy",
+            "description": "Join us for an unforgettable day in Puerto Princesa City, Palawan! In this travel vlog, my beautiful Filipina wife, Daisy, takes you on ..."
+          },
+          {
+            "videoId": "eMW2IW6KAnk",
+            "title": "Palawan Museum - Puerto Princesa",
+            "creator": "Maria Karanikola-Kostourou",
+            "description": "Palawan heritage - ethnographic museum."
+          },
+          {
+            "videoId": "e-UUiEoJq4U",
+            "title": "PALAWAN Day 3 | Palawan Museum - Baywalk Puerto Princesa City | VLOG",
+            "creator": "RapiBoi",
+            "description": "3rd day of our tour in Palawan. Palawan Museum-is a nice museum in the heart of the City of Puerto Princesa. The Palawan ..."
+          },
+          {
+            "videoId": "S2mwopw8PB8",
+            "title": "The Side of Palawan You Usually Skip! 🌴 Puerto Princesa City Tour & The Dome Hotel [4K]",
+            "creator": "Ferdz Decena",
+            "description": "Think you've seen all of Palawan? Think again! ✨ Most travelers use Puerto Princesa just as a jump-off point, but the city itself ..."
+          },
+          {
+            "videoId": "PH23XoVhK8U",
+            "title": "Palawan WW2 memorial museum, Puerto Princesa, Philippines",
+            "creator": "sartemisa1",
+            "description": "In 1944 the area was controlled, as were the rest of the Philippines, by the Imperial Japanese Army which had captured the ..."
+          },
+          {
+            "videoId": "fCeyC2GLQzM",
+            "title": "𝙏𝙃𝙀 𝙉𝘼𝙏𝙄𝙊𝙉𝘼𝙇 𝙃𝙄𝙎𝙏𝙊𝙍𝙄𝘾𝘼𝙇 𝙎𝙄𝙏𝙀 𝙄𝙉 𝙋𝙐𝙀𝙍𝙏𝙊 𝙋𝙍𝙄𝙉𝘾𝙀𝙎𝘼 𝙋𝘼𝙇𝘼𝙒𝘼𝙉 𝙈𝙐𝙎𝙀𝙐𝙈  \"No copyright intended\"",
+            "creator": "⏩Theryhung⏪",
+            "description": "Palawan's rich resources and historic legacy. While it houses ..."
+          },
+          {
+            "videoId": "usrS_0mQVpk",
+            "title": "Puerto Princesa city Palawan museum",
+            "creator": "Mark Oczon",
+            "description": "Palawan Museum located at the cities hearth. an unexpected trip with friends and fellow church mate. napagtripan lang na mag ..."
+          }
+        ]
+      },
+      "decision": "pending-editorial-review"
+    },
+    {
+      "placeId": "puerto-princesa-world-war-ii-memorial-museum",
+      "name": "World War II Memorial Museum",
+      "municipality": "Puerto Princesa City",
+      "identitySource": {
+        "url": "https://citytourism.puertoprincesa.ph/destination-map/",
+        "status": 200,
+        "contentType": "text/html; charset=UTF-8",
+        "checkedOn": "2026-10-22",
+        "title": "Destination Map &#8211; City Tourism of Puerto Princesa"
+      },
+      "wikipedia": null,
+      "wikiSearchCandidates": [
+        {
+          "title": "World War II monuments and memorials in the Philippines",
+          "pageid": 73810693
+        },
+        {
+          "title": "War crimes in World War II",
+          "pageid": 67938712
+        }
+      ],
+      "imageCandidate": null,
+      "commonsCandidates": [
+        {
+          "title": "File:Vicente Ãnes Pincon (IA vicentenespinc00mcclrich).pdf",
+          "url": "https://commons.wikimedia.org/wiki/File:Vicente_%C3%83nes_Pincon_(IA_vicentenespinc00mcclrich).pdf"
+        },
+        {
+          "title": "File:Pictorial album on Rizal (JRNCC, 1962).pdf",
+          "url": "https://commons.wikimedia.org/wiki/File:Pictorial_album_on_Rizal_(JRNCC,_1962).pdf"
+        }
+      ],
+      "videoCandidates": {
+        "placeId": "puerto-princesa-world-war-ii-memorial-museum",
+        "query": "World War II Memorial Museum Puerto Princesa City Philippines tour",
+        "checkedOn": "2026-10-22",
+        "candidates": [
+          {
+            "videoId": "nnlbzAkcRic",
+            "title": "WORLD WAR II MUSEUM, PUERTO PRINCESA CITY, PALAWAN, PHILIPPINES. A MUST VISIT PLACE...",
+            "creator": "Pamz TV",
+            "description": "worldwar2 #museum #tourismphilippines #puertoprincesacity #palawanphilippines #veterans."
+          },
+          {
+            "videoId": "QNjGDzpiOTM",
+            "title": "Palawan Special Battalion WW-II (Memorial Museum) Just look and learn, but don’t touch 😉",
+            "creator": "July Satina",
+            "description": "It was established in memory of Dr. Higinio Mendoza, the local hero that sparked the first guerilla warfare against Japanese forces ..."
+          },
+          {
+            "videoId": "1D1Jj8pT0mo",
+            "title": "THE DARK HISTORY OF PALAWAN | Palawan Special Battalion WW2 Memorial Museum Philippines 🇵🇭",
+            "creator": "KeonPH",
+            "description": "We visited a World War 2 museum here in Puerto Princesa, Palawan to see all kinds of memorabilia that were displayed there."
+          },
+          {
+            "videoId": "PH23XoVhK8U",
+            "title": "Palawan WW2 memorial museum, Puerto Princesa, Philippines",
+            "creator": "sartemisa1",
+            "description": "In 1944 the area was controlled, as were the rest of the Philippines, by the Imperial Japanese Army which had captured the ..."
+          },
+          {
+            "videoId": "1mFSghLi-lI",
+            "title": "Palawan Special Battalion WW-II Memorial Museum | Puerto Princesa",
+            "creator": "JenTägtström",
+            "description": "The Palawan Special Battalion WW-II Memorial Museum was inaugurated on December 5, 2011 and officially open to the public ..."
+          },
+          {
+            "videoId": "BdMNWeK5Kv0",
+            "title": "#Touristpots #PuertoPrincesaPalawan Palawan Special Battalion WW-II Memorial Museum ||JonalynMontoya",
+            "creator": "Jonalyn Montoya",
+            "description": "Sharing this Memorial Museum / Palawan Special Battalion WW-II. I hope you enjoyed this video. Thank you For watching. Please ..."
+          },
+          {
+            "videoId": "1WeeddUdb5Q",
+            "title": "Palawan Special Battalion WW II Memorial Museum | Puerto Princesa, Palawan, Philippines",
+            "creator": "Kenny Castelo",
+            "description": "The Palawan Special Battalion World War 2 Memorial Museum commemorates the history and sacrifices of the Palawan Special ..."
+          },
+          {
+            "videoId": "pBvbwSSnxAA",
+            "title": "Palawan Special  Battalion World War II Museum | Puerto Princesa Palawan | Nyle Leuterio",
+            "creator": "Nyle Leuterio",
+            "description": "Thank you for watching, please do click the like, and subscribe button and hit the notification bell for you to be updated. Follow me ..."
+          },
+          {
+            "videoId": "CZtY_WjRUUI",
+            "title": "Palawan Special Battallion WW-II Memorial Museum",
+            "creator": "The Team Orozco",
+            "description": "Step Back in Time: Palawan Special Battalion WW-II Memorial Museum Discover the hidden history of Puerto Princesa!"
+          },
+          {
+            "videoId": "64IDvk7nxYU",
+            "title": "World War 2 Museo Puerto Princesa 🇵🇭 |Roadtrip-E13|",
+            "creator": "Tommi maailmalla",
+            "description": "... Palawan Special Battalion WW-II Memorial Museum, Puerto Princesa city, Palawan-saari, Filippiinit."
+          },
+          {
+            "videoId": "vouN7nJ-9UM",
+            "title": "ITINERARY || Palawan Special Battalion WWII Memorial Museum | Palawan News",
+            "creator": "Palawan News",
+            "description": "... ang Palawan Special Battalion WWII Memorial Museum. For breaking news and stories from the city of Puerto Princesa and the ..."
+          },
+          {
+            "videoId": "XA48FbH19yY",
+            "title": "Palawan Special Batallion WW-II Memorial Museum",
+            "creator": "Robert Smith",
+            "description": "Today we toured the PSB WW-2 MM located in Puerto Princesa Palawan, Philippines."
+          }
+        ]
+      },
+      "decision": "pending-editorial-review"
+    },
+    {
+      "placeId": "puerto-princesa-butterfly-ecological-garden",
+      "name": "Palawan Butterfly Ecological Garden",
+      "municipality": "Puerto Princesa City",
+      "identitySource": {
+        "url": "https://citytourism.puertoprincesa.ph/destination-map/",
+        "status": 200,
+        "contentType": "text/html; charset=UTF-8",
+        "checkedOn": "2026-10-22",
+        "title": "Destination Map &#8211; City Tourism of Puerto Princesa"
+      },
+      "wikipedia": null,
+      "wikiSearchCandidates": [
+        {
+          "title": "Palawan",
+          "pageid": 240395
+        },
+        {
+          "title": "Puerto Princesa Cathedral",
+          "pageid": 66872970
+        }
+      ],
+      "imageCandidate": null,
+      "commonsCandidates": [],
+      "videoCandidates": {
+        "placeId": "puerto-princesa-butterfly-ecological-garden",
+        "query": "Palawan Butterfly Ecological Garden Puerto Princesa City Philippines tour",
+        "checkedOn": "2026-10-22",
+        "candidates": [
+          {
+            "videoId": "mLSdwCvm95Q",
+            "title": "The Butterfly Garden and Tribal Village in Puerto Princesa, Palawan",
+            "creator": "Leonard Calma",
+            "description": "The Butterfly Garden and Tribal Village in Puerto Princesa is a unique attraction that combines nature and culture in one place."
+          },
+          {
+            "videoId": "ByxevF59RoY",
+            "title": "Palawan Butterfly Ecological Garden and Tribal Village, Puerto Princesa, Palawan | Full Walking Tour",
+            "creator": "Tuklasero PH"
+          },
+          {
+            "videoId": "tqFhhU9a84I",
+            "title": "Butterfly Garden and Tribal Village Puerto Princesa City",
+            "creator": "Harold Offdrone Faigao",
+            "description": "Credit: https://www.tripadvisor.com.ph About The Palawan Butterfly Ecological Garden and Tribal Village is a place that reflects ..."
+          },
+          {
+            "videoId": "c5f2NV1WgD8",
+            "title": "Butterfly Eco Garden Puerto Princesa l Probinsyana Morena 🇵🇭 ",
+            "creator": "Probinsyana Morena",
+            "description": "ButterflyEcoGarden #PalawanButterflyGarden #PuertoPrincesaAttraction #TribalVillage #NatureReserve #ButterflySanctuary ..."
+          },
+          {
+            "videoId": "ZrlkiXLgSm8",
+            "title": "Amazing Conservation Projects in the Heart of Puerto Princesa, Palawan! (Philippines Eps.22)",
+            "creator": "Wanderlust Wurzels",
+            "description": "Join Wanderlust Wurzels as we explore the ecological and cultural gems of Puerto Princesa, Palawan! Discover the vibrant ..."
+          },
+          {
+            "videoId": "eCL6lFfl6uE",
+            "title": "Puerto Princesa City Tour (Part 1) | Mitra’s Ranch, Butterfly Garden & Tribal Village",
+            "creator": "TravelGeek Sakina",
+            "description": "Puerto Princesa শহরের সৌন্দর্য ঘুরে দেখার প্রথম পর্বে আপনাকে স্বাগতম!"
+          },
+          {
+            "videoId": "TDcJIpBLqig",
+            "title": "Explore Puerto Princesa Butterfly Eco Garden",
+            "creator": "GOLDEN MAJORENOS",
+            "description": "DISCLAIMER: I hereby declare that I do not own the rights to this music. All rights belong to the owner. No Copyright Infringement ..."
+          },
+          {
+            "videoId": "lMuwyALRtDE",
+            "title": "PUERTO PRINCESA CITY DIY TOUR | BOULEVARD | BUTTERFLY ECOLOGICAL GARDEN & TRIBAL VILLAGE | PALAWAN",
+            "creator": "LeonGuerreroTV",
+            "description": "Hi! I'm Leon Guerrero. I make Vlogs and lifestyle videos. Get notified with my new uploads, kindly click the Notification bell and the ..."
+          },
+          {
+            "videoId": "vKpO12U20Ts",
+            "title": "Part 1 Day 1 City Tour in Puerto Princesa Palawan Butterfly Garden & Tribal Village",
+            "creator": "SIEGMARK #14",
+            "description": "puertoprincesa #palawan Join this channel to get access to perks: ..."
+          },
+          {
+            "videoId": "_bjN9BtztTU",
+            "title": "BUTTERFLY ECO GARDEN & TRIBAL VILLAGE , CITY TOUR, PUERTO PRINCESA, PALAWAN TRIP #karzymikatv",
+            "creator": "Karzy Mika TV",
+            "description": "GUYS, HOW ARE YOU?.. HERE'S ANOTHER VIDEO FROM OUR PALAWAN TRIP ON MY BIRTHDAY LAST APRIL 2023."
+          },
+          {
+            "videoId": "dQdKIykMdWE",
+            "title": "FLY, FLY BUTTERFLY/PALAWAN ESCAPADE/VISITING BUTTERFLY ECO GARDEN AT PUERTO PRINCESA CITY",
+            "creator": "JOY'S OVERLOAD VLOG",
+            "description": "We had a short visit in one of the tourist spot in Palawan called \"Butterfly Garden\". The place is beautiful and we enjoyed watching ..."
+          },
+          {
+            "videoId": "VJx4DJYgJgw",
+            "title": "HISTORY OF PALAWAN PROVINCE |PUERTO PRINCESA CITY, PALAWAN | 3DAYS & 2NIGHTS | PART 2",
+            "creator": "Kukai Orlina",
+            "description": "... Palawan province at Palawan Butterfly Ecological Garden and Tribal Village ‍     Puerto Prinsesa, Palawan, Philippines ..."
+          }
+        ]
+      },
+      "decision": "pending-editorial-review"
+    },
+    {
+      "placeId": "puerto-princesa-mitra-ranch",
+      "name": "Mitra’s Ranch",
+      "municipality": "Puerto Princesa City",
+      "identitySource": {
+        "url": "https://citytourism.puertoprincesa.ph/destination-map/",
+        "status": 200,
+        "contentType": "text/html; charset=UTF-8",
+        "checkedOn": "2026-10-22",
+        "title": "Destination Map &#8211; City Tourism of Puerto Princesa"
+      },
+      "wikipedia": null,
+      "wikiSearchCandidates": [
+        {
+          "title": "Ramon Mitra Jr.",
+          "pageid": 3513955
+        },
+        {
+          "title": "Busuanga, Palawan",
+          "pageid": 498916
+        }
+      ],
+      "imageCandidate": null,
+      "commonsCandidates": [],
+      "videoCandidates": {
+        "placeId": "puerto-princesa-mitra-ranch",
+        "query": "Mitra’s Ranch Puerto Princesa City Philippines tour",
+        "checkedOn": "2026-10-22",
+        "candidates": [
+          {
+            "videoId": "FPtH2aIftKw",
+            "title": "Mitra's Ranch l Puerto Princesa Philippines l Probinsyana Morena 🇵🇭",
+            "creator": "Probinsyana Morena"
+          },
+          {
+            "videoId": "CS7CV5hFLt0",
+            "title": "PUERTO PRINCESA, PALAWAN Day 1: Hilarious Start to Our Trip (Mitra’s Ranch, Baywalk and more)",
+            "creator": "CJ Estrada",
+            "description": "Our Palawan adventure begins! In this first episode, we fly from Cebu to Puerto Princesa and start our 5-day DIY road trip across ..."
+          },
+          {
+            "videoId": "9yxZaBvcg18",
+            "title": "Puerto Princesa City Tour 2026 🇵🇭✨ | Mitras Ranch | Baker's Hill | Hidden Gems in Palawan🌴",
+            "creator": "Miles Babor-Sajorda",
+            "description": "Welcome to Day 1 of our Palawan adventure! ☀️ Join us as we explore the beautiful city of Puerto Princesa and visit some of ..."
+          },
+          {
+            "videoId": "y-aMfMwykNY",
+            "title": "Puerto Princesa City Tour | Mitra's Ranch + Baker's Hill and restaurant ideas | Philippines Vlog 15",
+            "creator": "andi arales",
+            "description": "This is a quick city of Puerto Princesa City, Palawan. We explore Mitra's Ranch, Baker's Hill, and some fine restaurants such as Ka ..."
+          },
+          {
+            "videoId": "3UWtBlxt8P8",
+            "title": "Our Journey from BALABAC to PPS | DIY City Tour | Mitra's Ranch | Baker's Hill | Baywalk || alektish",
+            "creator": "ALEKTISH OFFICIAL",
+            "description": "PuertoPrincesa #Palawan #Philippines #TravelGuide ​✈️ TRAVEL DEALS & DISCOUNTS ​Planning your next escape?"
+          },
+          {
+            "videoId": "E06fy6-b-b8",
+            "title": "MITRA'S RANCH in Puerto Princesa, Palawan, Philippines ",
+            "creator": "Ricky Shetty",
+            "description": "MITRA'S RANCH in Puerto Princesa, Palawan, Philippines."
+          },
+          {
+            "videoId": "fznPYG-yiTo",
+            "title": "PUERTO PRINCESA PALAWAN 🇵🇭| Guide and Expenses - Underground River + Honda Bay + City Tour (ENG SUB)",
+            "creator": "GALA NI CED",
+            "description": "This is my 3 days itinerary in Puerto Princesa. This video was taken on September 4-7, 2023. I would recommend to visit Puerto ..."
+          },
+          {
+            "videoId": "JGBhYqfGWQY",
+            "title": "Puerto Princesa Palawan 2025: Mitra Ranch; Pearl & Souvenir Shops; Baker's Hill; Butterfly Garden",
+            "creator": "Ivy Carla Stories",
+            "description": "It was a long overdue family reunion. I haven't seen my siblings for several years! Truly, having us all in one place is a rare ..."
+          },
+          {
+            "videoId": "39fHw-EPWMU",
+            "title": "Mitra's Ranch in Puerto Princesa Palawan",
+            "creator": "Crack Vlog",
+            "description": "palawan #puertoprincesacity #puertoprincesapalawan."
+          },
+          {
+            "videoId": "L5l6odMfOCY",
+            "title": "MITRA'S RANCH, Sta. Monica, Puerto Princesa City | Biyahe ni JULES 2020",
+            "creator": "Biyahe ni JULES",
+            "description": "PeaceOfMindBody&Soul."
+          },
+          {
+            "videoId": "eCL6lFfl6uE",
+            "title": "Puerto Princesa City Tour (Part 1) | Mitra’s Ranch, Butterfly Garden & Tribal Village",
+            "creator": "TravelGeek Sakina",
+            "description": "Puerto Princesa শহরের সৌন্দর্য ঘুরে দেখার প্রথম পর্বে আপনাকে স্বাগতম!"
+          },
+          {
+            "videoId": "wrvMxpz84DY",
+            "title": "Puerto Princesa Palawan City Tour Part I | Baker's Hill | Mitra Ranch | Fire Flies Watching",
+            "creator": "Jeric P",
+            "description": "puertoprincesacity."
+          }
+        ]
+      },
+      "decision": "pending-editorial-review"
+    },
+    {
+      "placeId": "puerto-princesa-wildlife-rescue-center",
+      "name": "Palawan Wildlife Rescue and Conservation Center",
+      "municipality": "Puerto Princesa City",
+      "identitySource": {
+        "url": "https://citytourism.puertoprincesa.ph/destination-map/",
+        "status": 200,
+        "contentType": "text/html; charset=UTF-8",
+        "checkedOn": "2026-10-22",
+        "title": "Destination Map &#8211; City Tourism of Puerto Princesa"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Palawan_Wildlife_Rescue_and_Conservation_Center",
+      "wikiSearchCandidates": [],
+      "imageCandidate": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Palawan_Wildlife_Rescue_and_Conservation_Center_(9165480252).jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/4/43/Palawan_Wildlife_Rescue_and_Conservation_Center_%289165480252%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+      },
+      "commonsCandidates": null,
+      "videoCandidates": {
+        "placeId": "puerto-princesa-wildlife-rescue-center",
+        "query": "Palawan Wildlife Rescue and Conservation Center Puerto Princesa City Philippines tour",
+        "checkedOn": "2026-10-22",
+        "candidates": [
+          {
+            "videoId": "MQjgzGDqtjo",
+            "title": "Palawan Day 1: Puerto Princesa Crocodile Farm Visit! | Filipino-Japanese Couple",
+            "creator": "Le mur des je t'aime",
+            "description": "Welcome to Day 1 of our Palawan adventure! As a Japanese-Filipino couple, we're exploring the must-see spots in Puerto ..."
+          },
+          {
+            "videoId": "qiEIt-mgcns",
+            "title": "Palawan Wildlife Rescue & Conservation Centre // Palawan Adventure // Puerto Princesa #tour #travel",
+            "creator": "Jano YT Channel",
+            "description": "This video is all about my stay in Puerto Princesa, meeting old friends and getting to know awesome places in this city. Although ..."
+          },
+          {
+            "videoId": "3edzQy5Z_tI",
+            "title": "PALAWAN WILDLIFE RESCUE and CONSERVATION CENTER || FORMERLY KNOWN AS CROCDILE FARMING INSTITUTE",
+            "creator": "Journey with Ann",
+            "description": "Palawan Wildlife Rescue and Conservation Center Formerly known as Crocodile Farming Institute, this Puerto Princesa ..."
+          },
+          {
+            "videoId": "2Ko_O5L7Tjs",
+            "title": "Palawan Wildlife Rescue and Conservation Center, Puerto Princesa City, Palawan, Philippines",
+            "creator": "Grumpy Jackass"
+          },
+          {
+            "videoId": "YYpvQsOMvdc",
+            "title": "Crocodile Farm Puerto Princesa Palawan",
+            "creator": "LJ Family Vlogs",
+            "description": "Check out our sponsor using the link below: https://goeco.mobi/Z5h0jPAM Join this channel to get access to perks: ..."
+          },
+          {
+            "videoId": "VGaqEsyhcO8",
+            "title": "Exploring Puerto Princesa, Palawan/City Tour #andavlogger #beyoncefraylevlogs",
+            "creator": "Beyonce Frayle Vlog",
+            "description": "... most amazing spots in Puerto Princesa, Palawan! First stop, we visited the Palawan Wildlife Rescue and Conservation Center ..."
+          },
+          {
+            "videoId": "16nf2ThYlig",
+            "title": "Crocodile Farm in Puerto Princesa Palawan | Palawan Wildlife Rescue and Conservation Center",
+            "creator": "Leonard Calma",
+            "description": "Here's a look at the Palawan Wildlife Rescue and Conservation Center—commonly referred to as the Crocodile Farm—in Puerto ..."
+          },
+          {
+            "videoId": "54JL88F9_6Q",
+            "title": "PWRCC (Palawan Wildlife Rescue and Conservation Center), Puerto Princesa City, Philippines",
+            "creator": "ARNEL (Forestry and Agri-Tourism)"
+          },
+          {
+            "videoId": "9G0A775Mhhw",
+            "title": "245. Exploring Puerto Princesa,. Visiting Palawan Wildlife Rescue and Conservation Center.",
+            "creator": "TravelCrazeMania",
+            "description": "The Palawan Wildlife Rescue and Conservation Center (PWRCC) was established on August 20, 1987, as the Crocodile Farming ..."
+          },
+          {
+            "videoId": "U9LJ3j85Wu0",
+            "title": "Crocodile Farm and Nature Park | Palawan Wildlife Rescue and Conservation Center",
+            "creator": "Salvador Forte",
+            "description": "Palawan Wildlife Rescue and Conservation Center also known as Crocodile Farm is a breeding ground for Philippine Salt ..."
+          },
+          {
+            "videoId": "Zmnj0hOc9q0",
+            "title": "May 4, 2012. Puerto Princesa City Tour 1 - PALAWAN WILDLIFE RESCUE & CONSERVATION CENTER",
+            "creator": "MissKful",
+            "description": "2012 Puerto Princesa tour with family and friends. * our city tour, first at Palawan Wildlife Rescue & Conservation Center."
+          },
+          {
+            "videoId": "QUwGmLwNv9A",
+            "title": "PALAWAN WILDLIFE RESCUE AND CONSERVATION CENTER | PUERTO PRINCESA",
+            "creator": "Bernardo Tabinas TOURistas",
+            "description": "A day in the nature park Puerto Princesa City AS WE VISITTHE BEAUTIFUL ISLAND OF PALAWAN WE STOP BY TO SEE THE ..."
+          }
+        ]
+      },
+      "decision": "pending-editorial-review"
+    },
+    {
+      "placeId": "puerto-princesa-underground-river",
+      "name": "Puerto Princesa Underground River",
+      "municipality": "Puerto Princesa City",
+      "identitySource": {
+        "url": "https://citytourism.puertoprincesa.ph/ppur/",
+        "status": 200,
+        "contentType": "text/html; charset=UTF-8",
+        "checkedOn": "2026-10-22",
+        "title": "PPUR &#8211; City Tourism of Puerto Princesa"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Puerto_Princesa_Subterranean_River_National_Park",
+      "wikiSearchCandidates": [],
+      "imageCandidate": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Puerto-Princesa_Subterranean_River_National_Park-112012.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/0/09/Puerto-Princesa_Subterranean_River_National_Park-112012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+      },
+      "commonsCandidates": null,
+      "videoCandidates": {
+        "placeId": "puerto-princesa-underground-river",
+        "query": "Puerto Princesa Underground River Puerto Princesa City Philippines tour",
+        "checkedOn": "2026-10-22",
+        "candidates": [
+          {
+            "videoId": "fznPYG-yiTo",
+            "title": "PUERTO PRINCESA PALAWAN 🇵🇭| Guide and Expenses - Underground River + Honda Bay + City Tour (ENG SUB)",
+            "creator": "GALA NI CED",
+            "description": "This is my 3 days itinerary in Puerto Princesa. This video was taken on September 4-7, 2023. I would recommend to visit Puerto ..."
+          },
+          {
+            "videoId": "U-U3yE6dyXA",
+            "title": "Virtual Tour | It's More Fun with You in Puerto Princesa",
+            "creator": "Tourism Philippines",
+            "description": "Let's wander the Puerto Princesa Underground River! Famous for its limestone landscapes and stunning cave formations. Get lost ..."
+          },
+          {
+            "videoId": "UOzs-l5huD8",
+            "title": "UNDERGROUND RIVER, Palawan - BEST Nature Wonder of the World!? in Puerto Princesa",
+            "creator": "Wout of the World",
+            "description": "Puerto Princesa is a city with a beautiful name, but also a beautiful natural wonder of the world. In 2007, those new wonders of the ..."
+          },
+          {
+            "videoId": "emPKrZPKu3M",
+            "title": "Puerto Princesa Underground River   September 2 2026",
+            "creator": "Bradley Rymph",
+            "description": "One of the most and honored attractions on Palawan Island in the Philippines is the Puerto Princesa Subterranean River."
+          },
+          {
+            "videoId": "U52ocFI3USw",
+            "title": "UNDERGROUND RIVER PALAWAN 2026 GUIDE | COMPLETE TRAVEL GUIDE FOR FIRST TIMERS | BUDGET TRAVEL TIPS",
+            "creator": "Charlie Nayve",
+            "description": "Palawan Underground River 2026 Guide | Complete Travel Tips + Budget + What to Expect! Discover the breathtaking ..."
+          },
+          {
+            "videoId": "YQAHmYJYSYk",
+            "title": "Mother Nature tries to hide this 8km River Underground",
+            "creator": "SEFTV",
+            "description": "Wanna see how 8km long river look like underground? Check out this hidden river located under the mountains of Palawan."
+          },
+          {
+            "videoId": "VQMG4CRp48I",
+            "title": "Day tour at the Puerto Princesa Underground River, Palawan + Cacaoyan Forest Park",
+            "creator": "Rodel Flordeliz",
+            "description": "Did you know that only a portion of Puerto Princesa Underground River in Palawan is open to the public. With a span of about ..."
+          },
+          {
+            "videoId": "w6SyDBx40Ac",
+            "title": "Exploring the Puerto Princesa Underground River in Palawan, Philippines - 8K",
+            "creator": "RVG Travel Vlogs",
+            "description": "Puerto Princesa is a tourist city with many beach resorts and seafood restaurants. It has been acclaimed several times as the ..."
+          },
+          {
+            "videoId": "UWAiSYu8mD4",
+            "title": "Puerto Princesa Palawan Trip | Detailed Itinerary & Costing (Hotel Tour + Underground River) Travel",
+            "creator": "Team OGAD Vlogs - OGADventure",
+            "description": "First time namin sa Palawan, ang sarap sa feeling. Ang daming puno, masasarap pagkain at hindi rin naman super mahal ang ..."
+          },
+          {
+            "videoId": "FnoktU21G10",
+            "title": "Puerto Princesa Underground River",
+            "creator": "O-Zone",
+            "description": "O-Zone - A family of 4 who sold everything and are travelling the world. One of our stops in Palawan Philippines. Follow us to see ..."
+          },
+          {
+            "videoId": "b1ef5sDWfVc",
+            "title": "Exploring Puerto Princesa’s Underground River – Is It Really Worth It?",
+            "creator": "Pat and Yumi",
+            "description": "Welcome to another adventure! In this video, we take you on a journey to the Puerto Princesa Underground River, one of the New ..."
+          },
+          {
+            "videoId": "DUrKmhHqa3Y",
+            "title": "Exploring Puerto Princesa Underground River - World’s Wonder of Nature (Palawan Travel Vlog)",
+            "creator": "Kristi Travel Escape",
+            "description": "Welcome to my Palawan Travel Vlog as we explore Puerto Princesa Underground River, one of the magnificent New 7 Wonders ..."
+          }
+        ]
+      },
+      "decision": "pending-editorial-review"
+    },
+    {
+      "placeId": "coron-lualhati-park",
+      "name": "Lualhati Park",
+      "municipality": "Coron",
+      "identitySource": {
+        "url": "https://coron.gov.ph/wp-content/uploads/2024/10/Accomplishment-Report-CY-2022.pdf",
+        "status": 200,
+        "contentType": "application/pdf",
+        "checkedOn": "2026-10-22"
+      },
+      "wikipedia": null,
+      "wikiSearchCandidates": [
+        {
+          "title": "Fidel V. Ramos",
+          "pageid": 378466
+        },
+        {
+          "title": "The Voice of the Philippines season 1",
+          "pageid": 37154996
+        }
+      ],
+      "imageCandidate": null,
+      "commonsCandidates": [
+        {
+          "title": "File:Road to Lualhati Park - panoramio.jpg",
+          "url": "https://commons.wikimedia.org/wiki/File:Road_to_Lualhati_Park_-_panoramio.jpg"
+        },
+        {
+          "title": "File:Lualhati Park, Bacuit Island view (Coron, Palawan; 03-16-2024).jpg",
+          "url": "https://commons.wikimedia.org/wiki/File:Lualhati_Park,_Bacuit_Island_view_(Coron,_Palawan;_03-16-2024).jpg"
+        },
+        {
+          "title": "File:Mount Tapyas, Lualhati Park bay view (Coron, Palawan; 03-17-2024).jpg",
+          "url": "https://commons.wikimedia.org/wiki/File:Mount_Tapyas,_Lualhati_Park_bay_view_(Coron,_Palawan;_03-17-2024).jpg"
+        }
+      ],
+      "videoCandidates": {
+        "placeId": "coron-lualhati-park",
+        "query": "Lualhati Park Coron Philippines tour",
+        "checkedOn": "2026-10-22",
+        "candidates": [
+          {
+            "videoId": "J933ME6Wcuc",
+            "title": "Lualhati Park walking tour in Coron | Walking in Coron Palawan",
+            "creator": "Ambient Hunting PH",
+            "description": "Welcome to my virtual walking tour of Lualhati Park in Coron, Palawan! Today, I'm taking you on a leisurely stroll through this ..."
+          },
+          {
+            "videoId": "2OTvarM2E_Q",
+            "title": "Lualhati Park, Coron, Palawan, Philippines",
+            "creator": "AJMtravelgoals",
+            "description": "Lualhati park, or pantalan, or loading area. This is the gate way to many wonderful island destinations Coron has to offer. All boat ..."
+          },
+          {
+            "videoId": "X0UKByJX5XE",
+            "title": "Coron Palawan DIY Land Tour. Maquinit Hot Spring, Poblacion, Lualhati Park, Mt. Tapyas.",
+            "creator": "Joseph Bautista",
+            "description": "Can a 63-year old man still climb the 720-step, 167-meter MASL Mt. Tapyas? In 2011, when I was younger and still active, I was ..."
+          },
+          {
+            "videoId": "zKSKuq2-swI",
+            "title": "Coron Trip - Lualhati Park + St. Augustine Parish",
+            "creator": "LLAY travels",
+            "description": "travel #adventure #philippines #fyp #highlights #trending #viral #travelvlog #beach #palawan #coronpalawan."
+          },
+          {
+            "videoId": "52TjcfnHspI",
+            "title": "CORON PALAWAN VLOG | Lualhati Park + Mt. Tapyas + Souvenir Gift Shop + Maquinit Hot Spring (Day 1)",
+            "creator": "Glen Espartero",
+            "description": "Gala ni Glen sa Coron Palawan 2023(Day 1) Enjoy watching! :) Connect with me! Facebook: ..."
+          },
+          {
+            "videoId": "DJSVityfvaA",
+            "title": "Coron Palawan Day 1 - Lualhati Park, Cashew Factory, Mt. Tapyas View Deck, Maquinit Hotspring",
+            "creator": "Reality of Life and Relaxation",
+            "description": "Coron Palawan Day 1 - Lualhati Park, Cashew Factory, Mt. Tapyas View Deck, Maquinit Hotspring Timestamps: 00:00 - 00:40 ..."
+          },
+          {
+            "videoId": "YKNUTIs_IR4",
+            "title": "Lualhati Park in Coron Palawan 2021",
+            "creator": "Lakad ni JEPOY",
+            "description": "AYAN AYAN AYAN! Welcome to my Youtube Channel ! Visiting again \"Walking Around Lualhati Park (Baywalk) Coron Palawan\" ..."
+          },
+          {
+            "videoId": "XqMywLfHdaI",
+            "title": "Lualhati Park, Coron, Palawan Philippines",
+            "creator": "Jean Figues",
+            "description": "What to see at Lualhati Park in Coron, Palawan? We strolled Lualhati Park to see the village and also the sunset view. There's a ..."
+          },
+          {
+            "videoId": "642QknCUwFY",
+            "title": "CORON SOLO TRAVEL: CORON TOWN TOUR: SOUVENIR SHOP, LUALHATI PARK, MT. TAPYAS & MAQUINIT HOTSPRING!",
+            "creator": "@jenpacganern",
+            "description": "In this episode, I embark on an exciting solo adventure in Coron, Philippines. Join me as I explore the stunning beauty of this ..."
+          },
+          {
+            "videoId": "LFoRG6iR9h8",
+            "title": "coron bay, lualhati park coron palawan",
+            "creator": "DickTanAdventureVideo",
+            "description": "Family tour in Coron Palawan 2018."
+          },
+          {
+            "videoId": "fUF-WUoLBOE",
+            "title": "LUALHATI PARK CORON PALAWAN - BEST TOUR GUIDE PAUL",
+            "creator": "Teody's Hobbies",
+            "description": "SENIOR PINOYS FROM CANADA. ENJOYING BEING PAMPERED AT CORON PALAWAN."
+          },
+          {
+            "videoId": "kGyK2pZMD7s",
+            "title": "Lualhati Park - A Reclamation Area CORON, PALAWAN",
+            "creator": "Melvin Vlogs PH"
+          }
+        ]
+      },
+      "decision": "pending-editorial-review"
+    },
+    {
+      "placeId": "coron-mount-tapyas",
+      "name": "Mount Tapyas",
+      "municipality": "Coron",
+      "identitySource": {
+        "url": "https://www.tpb.gov.ph/wp-content/uploads/2025/08/PBD_PR-No.-2025.07.049_taiwan-agent_ipd-1.pdf",
+        "status": 403,
+        "contentType": "text/html; charset=UTF-8",
+        "checkedOn": "2026-10-22"
+      },
+      "wikipedia": null,
+      "wikiSearchCandidates": [
+        {
+          "title": "Busuanga Island",
+          "pageid": 498913
+        },
+        {
+          "title": "Land reclamation",
+          "pageid": 579223
+        }
+      ],
+      "imageCandidate": null,
+      "commonsCandidates": [
+        {
+          "title": "File:Coron Port, Mount Tapyas skyline (Coron, Palawan; 08-02-2023).jpg",
+          "url": "https://commons.wikimedia.org/wiki/File:Coron_Port,_Mount_Tapyas_skyline_(Coron,_Palawan;_08-02-2023).jpg"
+        },
+        {
+          "title": "File:Mount Tapyas (Coron, Palawan; 03-16-2024).jpg",
+          "url": "https://commons.wikimedia.org/wiki/File:Mount_Tapyas_(Coron,_Palawan;_03-16-2024).jpg"
+        },
+        {
+          "title": "File:Mount Tapyas - Tapyas1700.jpg",
+          "url": "https://commons.wikimedia.org/wiki/File:Mount_Tapyas_-_Tapyas1700.jpg"
+        }
+      ],
+      "videoCandidates": {
+        "placeId": "coron-mount-tapyas",
+        "query": "Mount Tapyas Coron Philippines tour",
+        "checkedOn": "2026-10-22",
+        "candidates": []
+      },
+      "decision": "pending-editorial-review"
+    },
+    {
+      "placeId": "coron-maquinit-hot-springs",
+      "name": "Maquinit Hot Springs",
+      "municipality": "Coron",
+      "identitySource": {
+        "url": "https://www.tourism.gov.ph/destination/mimaropa/coron/",
+        "status": 200,
+        "contentType": "text/html; charset=UTF-8",
+        "checkedOn": "2026-10-22",
+        "title": "Coron - Love the Philippines"
+      },
+      "wikipedia": null,
+      "wikiSearchCandidates": [],
+      "imageCandidate": null,
+      "commonsCandidates": [
+        {
+          "title": "File:Pier of Maquinit Hot Springs, Coron, Philipppines - panoramio.jpg",
+          "url": "https://commons.wikimedia.org/wiki/File:Pier_of_Maquinit_Hot_Springs,_Coron,_Philipppines_-_panoramio.jpg"
+        },
+        {
+          "title": "File:One of the pools of Maquinit Hotspring, Coron, Palawan.jpg",
+          "url": "https://commons.wikimedia.org/wiki/File:One_of_the_pools_of_Maquinit_Hotspring,_Coron,_Palawan.jpg"
+        },
+        {
+          "title": "File:Maquinit Hotspring - Mainit na Bukal ng Maquinit - Hotspring in Coron, Palawan, Philippines.jpg",
+          "url": "https://commons.wikimedia.org/wiki/File:Maquinit_Hotspring_-_Mainit_na_Bukal_ng_Maquinit_-_Hotspring_in_Coron,_Palawan,_Philippines.jpg"
+        }
+      ],
+      "videoCandidates": {
+        "placeId": "coron-maquinit-hot-springs",
+        "query": "Maquinit Hot Springs Coron Philippines tour",
+        "checkedOn": "2026-10-22",
+        "candidates": [
+          {
+            "videoId": "7WfpoSDm6eE",
+            "title": "CORON, PALAWAN 🇵🇭 | Super Ultimate Tour + Maquinit Hot Spring | Coron 180 Hotel ✈️🏝",
+            "creator": "Chris & Whitney",
+            "description": "Our Coron adventure begins! 🏝️✈️ Join us as we arrive in Coron, Palawan and start our unforgettable island getaway."
+          },
+          {
+            "videoId": "RbzqdR5d5kE",
+            "title": "Maquinit Hot Spring, Coron, Palawan, Philippines",
+            "creator": "Dive The Planet",
+            "description": "Just a few km's from Coron town is the Maquinit Hot Spring. A great place to rest and recover from a full day's activities."
+          },
+          {
+            "videoId": "kURT15DdLKg",
+            "title": "Everything You Need To Know About The Maquinit Hot Springs In Coron Town, Palawan",
+            "creator": "Hup Learns Chinese",
+            "description": "Getting to the Maquinit Hot Springs in Coron, Palawan is easy. Just grab a tricycle driver, be ready to pay the P200 entrance fee ..."
+          },
+          {
+            "videoId": "kwT4HX20lq8",
+            "title": "Maquinit Hot Spring Coron Philippines 🇵🇭 Is It Worth $4?",
+            "creator": "Travel With Rye",
+            "description": "Maquinit Hot Springs In Coron Palawan Philippines is a very good tourist spot for bathing and soaking in the hot waters."
+          },
+          {
+            "videoId": "eF9C8TvoJ60",
+            "title": "CORON VLOG • Coron Town Tour: Maquinit Hotspring, Mt. Tapyas, Cashew Shop, etc. | Ivan de Guzman",
+            "creator": "Ivan de Guzman",
+            "description": "CORON VLOG • FINAL EPISODE Coron Town Tour: Maquinit Hotspring, St. Augustine Church, Cashew Shop, etc."
+          },
+          {
+            "videoId": "H108KKcNN7M",
+            "title": "Maquinit Hot Spring: The Only Saltwater Hot Spring in the Philippines! 🇵🇭 | Coron Palawan Adventure",
+            "creator": "Just Man",
+            "description": "Soaked in nature's warmth at Maquinit Hot Spring — the only saltwater hot spring in the entire Philippines! Nestled in the heart of ..."
+          },
+          {
+            "videoId": "X0UKByJX5XE",
+            "title": "Coron Palawan DIY Land Tour. Maquinit Hot Spring, Poblacion, Lualhati Park, Mt. Tapyas.",
+            "creator": "Joseph Bautista",
+            "description": "Can a 63-year old man still climb the 720-step, 167-meter MASL Mt. Tapyas? In 2011, when I was younger and still active, I was ..."
+          },
+          {
+            "videoId": "uRniArBm32Y",
+            "title": "Maquinit Hot Spring in Coron, Palawan",
+            "creator": "Feetnwheels",
+            "description": "The only natural salt water hot spring in the Philippines. Is it worth a visit? #travel #CoronPalawan #MaquinitHotSpring #Hotspring ..."
+          },
+          {
+            "videoId": "J-ZZtNGhMuE",
+            "title": "Exploring Coron Palawan | Real Street Nightlife, Views & Hot Springs",
+            "creator": "TeamDy TV",
+            "description": "Explore the beautiful town of Coron, Palawan in this travel vlog! Join us as we walk through Real Street, the center of Coron ..."
+          },
+          {
+            "videoId": "1Z5Xa3Vpe5s",
+            "title": "🇵🇭 Maquinit Hot Spring | Coron - Palawan - Philippines [ 🇵🇭 WALK 4K ] #palawan #philippines",
+            "creator": "Yanina Burns",
+            "description": "Que tal si nos tomamos un relax en Coron? Ni bien pongas un pie en Coron, algún tuk tuk se ofrecerá a llevarte a las ..."
+          },
+          {
+            "videoId": "bvPvRgLBWl4",
+            "title": "CORON DAY 3 - LAND TOUR TO MAQUINIT HOTSPRING",
+            "creator": "Dok Sheena’s Tale of Taste & Travel"
+          },
+          {
+            "videoId": "F737xcSC748",
+            "title": "Explore Maquinit Hot Spring,Coron, Palawan, Philippines 🇵🇭",
+            "creator": "PH Adventure vlog",
+            "description": "Maquinit hot spring is one of the only saltwater hot springs in the world.Located along the Southern coast of Busaunga Island."
+          }
+        ]
+      },
+      "decision": "pending-editorial-review"
+    },
+    {
+      "placeId": "coron-saint-augustine-parish",
+      "name": "Saint Augustine Parish Church",
+      "municipality": "Coron",
+      "identitySource": {
+        "url": "https://www.corontravel.com/coron",
+        "status": 200,
+        "contentType": "text/html; charset=UTF-8",
+        "checkedOn": "2026-10-22",
+        "title": "CORON | I Capture Travel"
+      },
+      "wikipedia": null,
+      "wikiSearchCandidates": [
+        {
+          "title": "List of Catholic churches in the Philippines",
+          "pageid": 35805191
+        },
+        {
+          "title": "List of Catholic dioceses in the Philippines",
+          "pageid": 6874642
+        }
+      ],
+      "imageCandidate": null,
+      "commonsCandidates": [
+        {
+          "title": "File:Memorials of T.G. Godfrey-Faussett (IA memorialsoftggod00faus).pdf",
+          "url": "https://commons.wikimedia.org/wiki/File:Memorials_of_T.G._Godfrey-Faussett_(IA_memorialsoftggod00faus).pdf"
+        },
+        {
+          "title": "File:A series of executed examples of ecclesiastical and domestic structures, from the designs of modern architects. With twenty-six plates (IA cu31924015683059).pdf",
+          "url": "https://commons.wikimedia.org/wiki/File:A_series_of_executed_examples_of_ecclesiastical_and_domestic_structures,_from_the_designs_of_modern_architects._With_twenty-six_plates_(IA_cu31924015683059).pdf"
+        },
+        {
+          "title": "File:Transactions of the Bristol and Gloucestershire Archaeological Society (IA transactionsofbr1418bris).pdf",
+          "url": "https://commons.wikimedia.org/wiki/File:Transactions_of_the_Bristol_and_Gloucestershire_Archaeological_Society_(IA_transactionsofbr1418bris).pdf"
+        }
+      ],
+      "videoCandidates": {
+        "placeId": "coron-saint-augustine-parish",
+        "query": "Saint Augustine Parish Church Coron Philippines tour",
+        "checkedOn": "2026-10-22",
+        "candidates": [
+          {
+            "videoId": "Yj7besHHi88",
+            "title": "San Agustin Parish Coron",
+            "creator": "Mr Lee AC",
+            "description": "San Agustin Parish Coron."
+          },
+          {
+            "videoId": "POaXtMD35ac",
+            "title": "#LifeAsIs | Super Ultimate Tour in Coron, Palawan",
+            "creator": "This is Life As Is",
+            "description": "Coron really has a way of leaving you mesmerized. I wish I could've stayed a little longer, but I guess that just gives me a reason ..."
+          },
+          {
+            "videoId": "9oAB6bsoLLQ",
+            "title": "Must Visit Coron Land City Tour: Mount Tapyas, Souvenirs Shop, San Augustin Church and Lualhati Park",
+            "creator": "Kevhyl",
+            "description": "... is coron worth visiting, coron land tour itinerary, coron land tour package, mt tapyas coron, san augustin parish church coron, ..."
+          },
+          {
+            "videoId": "LZVU18sVFyo",
+            "title": "Coron Palawan Day 1 Vlog | Mt. Tapyas | Maquinit Hotspring | Lualhati Park | St. Augustine Church",
+            "creator": "Engr. Jao",
+            "description": "coronpalawan #MtTapyas #MaquinitHotspring #Lualhati Park #SaintAugustineChurch #cashew #Coronsouvernirshop #coron ..."
+          },
+          {
+            "videoId": "dRdrjMbKqk0",
+            "title": "Family Trip: Day 1 - San Agustin Parish Church, Mt. Tapyas, Maquinit Hotspring (Coron, Palawan)",
+            "creator": "𝐽𝐵'𝑠 𝑉𝑙𝑜𝑔"
+          },
+          {
+            "videoId": "4Rzicv_YJHo",
+            "title": "CORON PALAWAN 2025 : Mt. Tapyas Hike + Maquinit Hot Spring  + Town Tour",
+            "creator": "Wensell",
+            "description": "Chapters: 00:00 Airport to Coron Palawan | Travel Vlog Intro 01:42 Arrival in Coron Palawan | First Impressions 02:50 Strolling at ..."
+          },
+          {
+            "videoId": "zKSKuq2-swI",
+            "title": "Coron Trip - Lualhati Park + St. Augustine Parish",
+            "creator": "LLAY travels",
+            "description": "travel #adventure #philippines #fyp #highlights #trending #viral #travelvlog #beach #palawan #coronpalawan."
+          },
+          {
+            "videoId": "iNaY-mmhnvc",
+            "title": "CORON PALAWAN 🇵🇭 | Ultimate Travel Guide for First Timers + Expenses",
+            "creator": "GALA NI CED",
+            "description": "See Breakdown and Total Expenses below. This video was taken on October 8, 2026. Translation from Filipino to English is ..."
+          },
+          {
+            "videoId": "Vo2UIT2Nj1g",
+            "title": "SAINT AUGUSTINE PARISH CHURCH CORON",
+            "creator": "nemototravel"
+          },
+          {
+            "videoId": "Hyv4FoXbU7k",
+            "title": "Consecration at Saint Augustine Parish Church",
+            "creator": "libasan",
+            "description": "Coron, Palawan Philippines."
+          },
+          {
+            "videoId": "jxdUVwYhVkA",
+            "title": "CORON DAY 1 (St. Augustine Church + Mt. Tapyas)",
+            "creator": "angelica marian singca",
+            "description": "Hello everyone!! We also went to Maquinit hotspring but it wasn't included in the vlog, sorry. This is probably just the first vlog ..."
+          },
+          {
+            "videoId": "dkaep-ilOI8",
+            "title": "Unveiling the beauty of St. Agustin Church @Coron Palawan  #church #history #beautiful",
+            "creator": "lhor show",
+            "description": "The only Catholic Church located in Coron Palawan Philippines."
+          }
+        ]
+      },
+      "decision": "pending-editorial-review"
+    },
+    {
+      "placeId": "coron-kayangan-lake",
+      "name": "Kayangan Lake",
+      "municipality": "Coron",
+      "identitySource": {
+        "url": "https://www.corontravel.com/coron",
+        "status": 200,
+        "contentType": "text/html; charset=UTF-8",
+        "checkedOn": "2026-10-22",
+        "title": "CORON | I Capture Travel"
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Kayangan_Lake",
+      "wikiSearchCandidates": [],
+      "imageCandidate": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Cayangan_Lake,_Coron_Islands,_Philippines_-_panoramio.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/4/48/Cayangan_Lake%2C_Coron_Islands%2C_Philippines_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+      },
+      "commonsCandidates": null,
+      "videoCandidates": {
+        "placeId": "coron-kayangan-lake",
+        "query": "Kayangan Lake Coron Philippines tour",
+        "checkedOn": "2026-10-22",
+        "candidates": [
+          {
+            "videoId": "nXTR6jSYFrE",
+            "title": "Coron 2026 Budget Travel Guide: DIY Itinerary • Island Hopping & Town Tour •Palawan Philippines Vlog",
+            "creator": "Angelica & Aileen Wanders",
+            "description": "Here is EVERYTHING you need to know about traveling to Coron. This is the Ultimate 4-Day Coron Sample Budget Itinerary with ..."
+          },
+          {
+            "videoId": "xd7ydYaQZfY",
+            "title": "Kayangan Lake in Coron Palawan Philippines 2020 | Walking Tour",
+            "creator": "One-Armed Wanderer",
+            "description": "SAVE on hotels, flights & tours — just use my codes! Agoda: OAWAGODA | Klook: OAWKLOOK ..."
+          },
+          {
+            "videoId": "IDYC0p24esc",
+            "title": "5 EPIC Things To Do in Coron Palawan 🇵🇭 | Kayangan Lake, Mt. Tapyas Sunset & Fireflies!",
+            "creator": "Triphappy PH",
+            "description": "Discover the 5 best things to do in Coron Palawan in 2025 — from iconic island hopping to magical firefly watching! ✨ Here's ..."
+          },
+          {
+            "videoId": "CgoeB94VFA0",
+            "title": "CORON 🇵🇭 Ultimate Guide + Expenses | Mt. Tapyas + Maquinit + Island Tour A, B, D + PUKAWAY CAVE",
+            "creator": "GALA NI CED",
+            "description": "See Breakdown and Total Expenses below. This video was taken on December 12 to 17, 2024. Translation from Filipino to ..."
+          },
+          {
+            "videoId": "axpq0FaBnjk",
+            "title": "346. Kayangan lake island tour with my family. @ Coron, Palawan, Philippines.",
+            "creator": "TravelCrazeMania"
+          },
+          {
+            "videoId": "Zjfr_disM1c",
+            "title": "CORON PALAWAN|KAYANGAN LAKE,TWIN LAGOON & BARRACUDA LAKE|ISLAND HOPPING EXPERIENCE",
+            "creator": "yanie tv",
+            "description": "Welcome to our unforgettable adventure in Coron, Palawan Philippines! In this vlog, we explored three of the most ..."
+          },
+          {
+            "videoId": "g-VZS_Lpf2M",
+            "title": "This MUST be HEAVEN!!! Coron, Palawan, Philippines Island Hopping. Kayangan Lake!",
+            "creator": "Our Backman Family",
+            "description": "We had the most amazing day island hopping in Coron, Palawan, Philippines. We were blown away with how incredibly beautiful ..."
+          },
+          {
+            "videoId": "xCuDPUQ8b64",
+            "title": "Ultimate Coron Tour 🇵🇭 | Kayangan Lake, Twin Lagoon & Barracuda Lake",
+            "creator": "Passport And Pixels",
+            "description": "We join the famous Ultimate Coron Tour and visit some of the most iconic places in Palawan, including Kayangan Lake, Twin ..."
+          },
+          {
+            "videoId": "yxIWuL1MDe8",
+            "title": "KAYANGAN LAKE CORON PALAWAN 2024 | walking tour #philippines",
+            "creator": "THE PHILIPPINES EXPLORER",
+            "description": "KAYANGAN LAKE CORON PALAWAN PHILIPPINES 2024 coron island tour, philippines tourism, tourist, tourist attractions in ..."
+          },
+          {
+            "videoId": "SFZXtnms6B8",
+            "title": "This Place Doesn’t Look Real... | KAYANGAN LAKE Walking Tour 🇵🇭\"",
+            "creator": "Stroll with DeshiMike",
+            "description": "Join me on a peaceful walking tour through one of the most breathtaking spots in the Philippines — Kayangan Lake in Coron, ..."
+          },
+          {
+            "videoId": "bIDGuTo8y0Y",
+            "title": "CORON PALAWAN ISLAND HOPPING TOUR A! 😍 Kayangan Lake, Green Lagoon, CYC Beach & Coral Garden",
+            "creator": "KenSam Travel Vlogs",
+            "description": "CORON PALAWAN ISLAND HOPPING TOUR A! Join us as we explore the breathtaking beauty of Coron, Palawan on our ..."
+          },
+          {
+            "videoId": "S-qn0nd74nI",
+            "title": "Insane PARADISE at CORON PHILIPPINES: Twin Lagoons, Barracuda & Kayangan Lake",
+            "creator": "Djemo Graphic",
+            "description": "Coron is no doubt one of the most beautiful places to be visited in the Philippines. Meanwhile, Coron has become quite popular, ..."
+          }
+        ]
+      },
+      "decision": "pending-editorial-review"
+    }
+  ]
+}

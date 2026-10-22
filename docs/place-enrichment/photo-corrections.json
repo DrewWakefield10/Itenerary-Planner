@@ -1,0 +1,66 @@
+{
+  "checkedOn": "2026-10-22",
+  "reason": "Contact-sheet review rejected a Fort San Pedro view incorrectly associated with the National Museum and an unhelpful Simala walkway view. The museum now uses a history display photographed inside the institution, with alt text describing that actual subject; Simala uses a view of its complex. Separate TOPS and Sirao searches found suitable photos.",
+  "photos": [
+    {
+      "placeId": "cebu-national-museum",
+      "src": "/images/places/cebu-national-museum.jpg",
+      "srcSmall": "/images/places/cebu-national-museum-640.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:The_Aduana_Building.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/0/00/The_Aduana_Building.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "creator": "Kozak005",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "attribution": "Kozak005 / Wikimedia Commons / CC BY 4.0. Resized and JPEG compressed.",
+      "alt": "Aduana building history display inside the National Museum of the Philippines–Cebu",
+      "width": 1200,
+      "height": 800,
+      "checkedOn": "2026-10-22"
+    },
+    {
+      "placeId": "cebu-simala-shrine",
+      "src": "/images/places/cebu-simala-shrine.jpg",
+      "srcSmall": "/images/places/cebu-simala-shrine-640.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Simala_Parish_Church.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/5/57/Simala_Parish_Church.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "creator": "Jennifer Bauzon",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "attribution": "Jennifer Bauzon / Wikimedia Commons / CC BY-SA 4.0. Resized and JPEG compressed.",
+      "alt": "Simala Shrine in Sibonga, Cebu",
+      "width": 1200,
+      "height": 881,
+      "checkedOn": "2026-10-22"
+    },
+    {
+      "placeId": "cebu-tops-lookout",
+      "src": "/images/places/cebu-tops-lookout.jpg",
+      "srcSmall": "/images/places/cebu-tops-lookout-640.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:WikiNights_Cebu_-_Tops_Lookout_(003).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/1/12/WikiNights_Cebu_-_Tops_Lookout_%28003%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "creator": "Bjeweld",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "attribution": "Bjeweld / Wikimedia Commons / CC BY-SA 4.0. Resized and JPEG compressed.",
+      "alt": "Cebu City skyline at night seen from TOPS in Busay",
+      "width": 1200,
+      "height": 800,
+      "checkedOn": "2026-10-22"
+    },
+    {
+      "placeId": "cebu-sirao-garden",
+      "src": "/images/places/cebu-sirao-garden.jpg",
+      "srcSmall": "/images/places/cebu-sirao-garden-640.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Cebu_Sirao_Garden.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/5/51/Cebu_Sirao_Garden.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "creator": "Kabu Sawsaw",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "attribution": "Kabu Sawsaw / Wikimedia Commons / CC BY-SA 4.0. Resized and JPEG compressed.",
+      "alt": "Flower beds at Sirao Garden in Cebu City",
+      "width": 1200,
+      "height": 900,
+      "checkedOn": "2026-10-22"
+    }
+  ]
+}

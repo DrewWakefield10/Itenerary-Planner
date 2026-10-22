@@ -1,0 +1,730 @@
+{
+  "batchId": "batch-002",
+  "checkedOn": "2026-10-22",
+  "places": 25,
+  "outcomes": [
+    {
+      "placeId": "iloilo-cabatuan-church",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Wikipedia — Cabatuan Church",
+          "url": "https://en.wikipedia.org/wiki/Cabatuan_Church",
+          "checkedOn": "2026-10-22",
+          "supports": "Reviewed place identity, municipality and the specific descriptive facts in this overview."
+        }
+      ],
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Church_of_Cabatuan,_Iloilo.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Church_of_Cabatuan%2C_Iloilo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "Joelaldor",
+        "license": "CC BY-SA 4.0"
+      },
+      "photoGap": null,
+      "videos": [],
+      "rejectedVideos": [],
+      "notes": [
+        "Video gap: The reviewed results included Cabanatuan, Nueva Ecija and did not establish two exact Cabatuan, Iloilo resources."
+      ]
+    },
+    {
+      "placeId": "iloilo-garin-farm",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Philippine News Agency - southern Iloilo heritage caravan",
+          "url": "https://www.pna.gov.ph/articles/1214613",
+          "checkedOn": "2026-10-21",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photo": null,
+      "photoGap": "Commons results showed a general San Joaquin town view from the farm, not a clear photograph of the attraction.",
+      "videos": [
+        "https://www.youtube.com/watch?v=XW_uJXDDWs0",
+        "https://www.youtube.com/watch?v=ayelucr8-R8"
+      ],
+      "rejectedVideos": [],
+      "notes": [
+        "Photo gap: Commons results showed a general San Joaquin town view from the farm, not a clear photograph of the attraction."
+      ]
+    },
+    {
+      "placeId": "baguio-baguio-museum",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Baguio City — public tourism information",
+          "url": "https://main.baguio.gov.ph/api/infoboard/tourist-spots/baguio-museum",
+          "checkedOn": "2026-10-22",
+          "supports": "Official place name and street location only; the public description field is empty."
+        },
+        {
+          "name": "Baguio City Government - tourist directory",
+          "url": "https://infoboard.baguio.gov.ph/tourists-spots",
+          "checkedOn": "2026-10-21",
+          "supports": "Previously accepted place identity and concise descriptive facts."
+        }
+      ],
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Baguio_Museum,_March_2022.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Baguio_Museum%2C_March_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "Ralff Nestor Nacor",
+        "license": "CC BY-SA 4.0"
+      },
+      "photoGap": null,
+      "videos": [
+        "https://www.youtube.com/watch?v=aES1pgdUL90"
+      ],
+      "rejectedVideos": [
+        {
+          "videoId": "SVbvwQ9Vv0g",
+          "reason": "HTTP 401: https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DSVbvwQ9Vv0g&format=json"
+        }
+      ],
+      "notes": [
+        "Video SVbvwQ9Vv0g: HTTP 401: https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DSVbvwQ9Vv0g&format=json"
+      ]
+    },
+    {
+      "placeId": "baguio-tam-awan-village",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Tam-awan Village — About us",
+          "url": "https://tamawanvillage.com/about-us/",
+          "checkedOn": "2026-10-22",
+          "supports": "Cultural purpose, hillside setting, huts, art, café and craft shop."
+        }
+      ],
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Tam-awan_Village_(Baguio_City).jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Tam-awan_Village_%28Baguio_City%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "Shubert Ciencia",
+        "license": "CC BY 2.0"
+      },
+      "photoGap": null,
+      "videos": [
+        "https://www.youtube.com/watch?v=gq6c0YA87CI",
+        "https://www.youtube.com/watch?v=QIVXS8k1-eg"
+      ],
+      "rejectedVideos": [],
+      "notes": []
+    },
+    {
+      "placeId": "baguio-camp-john-hay",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Wikipedia — Camp John Hay",
+          "url": "https://en.wikipedia.org/wiki/Camp_John_Hay",
+          "checkedOn": "2026-10-22",
+          "supports": "Reviewed place identity, municipality and the specific descriptive facts in this overview."
+        }
+      ],
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Camp_John_Hay_Forest_Overlooking_Baguio.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/9/94/Camp_John_Hay_Forest_Overlooking_Baguio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "Jun's World",
+        "license": "CC BY 2.0"
+      },
+      "photoGap": null,
+      "videos": [
+        "https://www.youtube.com/watch?v=6q8MGD0843Y",
+        "https://www.youtube.com/watch?v=xlaIu9crE-0"
+      ],
+      "rejectedVideos": [],
+      "notes": []
+    },
+    {
+      "placeId": "baguio-easter-weaving-room",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Baguio City — public tourism information",
+          "url": "https://main.baguio.gov.ph/api/infoboard/tourist-spots/easter-weaving-room-inc",
+          "checkedOn": "2026-10-22",
+          "supports": "Official place name and street location only; the public description field is empty."
+        },
+        {
+          "name": "Baguio City Government - tourist directory",
+          "url": "https://infoboard.baguio.gov.ph/tourists-spots",
+          "checkedOn": "2026-10-21",
+          "supports": "Previously accepted place identity and concise descriptive facts."
+        }
+      ],
+      "photo": null,
+      "photoGap": "No exact-place photograph with established reuse rights in the reviewed Commons results.",
+      "videos": [
+        "https://www.youtube.com/watch?v=x13Qg54DLzU",
+        "https://www.youtube.com/watch?v=MQ7pY8dNnIE"
+      ],
+      "rejectedVideos": [],
+      "notes": [
+        "Photo gap: No exact-place photograph with established reuse rights in the reviewed Commons results."
+      ]
+    },
+    {
+      "placeId": "baguio-ili-likha",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Baguio City — public tourism information",
+          "url": "https://main.baguio.gov.ph/api/infoboard/tourist-spots/ili-likha-artists-wateringhole",
+          "checkedOn": "2026-10-22",
+          "supports": "Official place name and street location only; the public description field is empty."
+        },
+        {
+          "name": "Baguio City Government - tourist directory",
+          "url": "https://infoboard.baguio.gov.ph/tourists-spots",
+          "checkedOn": "2026-10-21",
+          "supports": "Previously accepted place identity and concise descriptive facts."
+        }
+      ],
+      "photo": null,
+      "photoGap": "No exact-place photograph with established reuse rights in the reviewed Commons results.",
+      "videos": [
+        "https://www.youtube.com/watch?v=OgpD4ef82WU",
+        "https://www.youtube.com/watch?v=6zo4QOKK5Rc"
+      ],
+      "rejectedVideos": [],
+      "notes": [
+        "Photo gap: No exact-place photograph with established reuse rights in the reviewed Commons results."
+      ]
+    },
+    {
+      "placeId": "baguio-aguinaldo-museum",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Baguio City — public tourism information",
+          "url": "https://main.baguio.gov.ph/api/infoboard/tourist-spots/emilio-f-aguinaldo-museum",
+          "checkedOn": "2026-10-22",
+          "supports": "Official place name and street location only; the public description field is empty."
+        },
+        {
+          "name": "Baguio City Government - tourist directory",
+          "url": "https://infoboard.baguio.gov.ph/tourists-spots",
+          "checkedOn": "2026-10-21",
+          "supports": "Previously accepted place identity and concise descriptive facts."
+        }
+      ],
+      "photo": null,
+      "photoGap": "No exact-place photograph with established reuse rights in the reviewed Commons results.",
+      "videos": [
+        "https://www.youtube.com/watch?v=ZspHylYSM4I"
+      ],
+      "rejectedVideos": [],
+      "notes": [
+        "Photo gap: No exact-place photograph with established reuse rights in the reviewed Commons results.",
+        "Video gap: Only one exact-Baguio resource selected; similarly named Cavite venues were excluded."
+      ]
+    },
+    {
+      "placeId": "baguio-maryknoll-sanctuary",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Baguio City — public tourism information",
+          "url": "https://main.baguio.gov.ph/api/infoboard/tourist-spots/maryknoll-ecological-sanctuary",
+          "checkedOn": "2026-10-22",
+          "supports": "Official place name and street location only; the public description field is empty."
+        },
+        {
+          "name": "Baguio City Government - tourist directory",
+          "url": "https://infoboard.baguio.gov.ph/tourists-spots",
+          "checkedOn": "2026-10-21",
+          "supports": "Previously accepted place identity and concise descriptive facts."
+        }
+      ],
+      "photo": null,
+      "photoGap": "No exact-place photograph with established reuse rights in the reviewed Commons results.",
+      "videos": [
+        "https://www.youtube.com/watch?v=GOOYDjMcjro"
+      ],
+      "rejectedVideos": [
+        {
+          "videoId": "eH9SEoii7KU",
+          "reason": "Official source does not currently confirm a playable, embeddable video with an accessible description"
+        }
+      ],
+      "notes": [
+        "Photo gap: No exact-place photograph with established reuse rights in the reviewed Commons results.",
+        "Video eH9SEoii7KU: Official source does not currently confirm a playable, embeddable video with an accessible description"
+      ]
+    },
+    {
+      "placeId": "baguio-lourdes-grotto",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Baguio City — public tourism information",
+          "url": "https://main.baguio.gov.ph/api/infoboard/tourist-spots/lourdes-grotto-and-chapel",
+          "checkedOn": "2026-10-22",
+          "supports": "Official place name and street location only; the public description field is empty."
+        },
+        {
+          "name": "Baguio City Government - tourist directory",
+          "url": "https://infoboard.baguio.gov.ph/tourists-spots",
+          "checkedOn": "2026-10-21",
+          "supports": "Previously accepted place identity and concise descriptive facts."
+        }
+      ],
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Lourdes_Grotto_Chapel,_Baguio_City,_Jan_2024.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/4/43/Lourdes_Grotto_Chapel%2C_Baguio_City%2C_Jan_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "Ralffralff",
+        "license": "CC BY-SA 4.0"
+      },
+      "photoGap": null,
+      "videos": [
+        "https://www.youtube.com/watch?v=SbnXHV8mbNw",
+        "https://www.youtube.com/watch?v=-IQXpumgslA"
+      ],
+      "rejectedVideos": [],
+      "notes": []
+    },
+    {
+      "placeId": "baguio-heritage-hill",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Wikipedia — Diplomat Hotel",
+          "url": "https://en.wikipedia.org/wiki/Diplomat_Hotel",
+          "checkedOn": "2026-10-22",
+          "supports": "Reviewed place identity, municipality and the specific descriptive facts in this overview."
+        }
+      ],
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Diplomat_Hotel_-_front_(Dominican_Hill,_Baguio,_Benguet)(2018-11-27).JPG",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Diplomat_Hotel_-_front_%28Dominican_Hill%2C_Baguio%2C_Benguet%29%282018-11-27%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "patrickroque01",
+        "license": "CC BY-SA 4.0"
+      },
+      "photoGap": null,
+      "videos": [
+        "https://www.youtube.com/watch?v=28X9Kgtu110",
+        "https://www.youtube.com/watch?v=G_vHoWYYNx8"
+      ],
+      "rejectedVideos": [],
+      "notes": [
+        "Excluded supernatural claims; past recordings do not establish current interior access."
+      ]
+    },
+    {
+      "placeId": "baguio-museo-kordilyera",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Museo Kordilyera — official UP Baguio museum",
+          "url": "https://museokordilyera.upb.edu.ph/",
+          "checkedOn": "2026-10-22",
+          "supports": "Ethnographic purpose, Northern Luzon cultures, online collections, exhibitions and museum shop."
+        },
+        {
+          "name": "Baguio City — public tourism information",
+          "url": "https://main.baguio.gov.ph/api/infoboard/tourist-spots/museo-kordilyera",
+          "checkedOn": "2026-10-22",
+          "supports": "Official place name and street location only; the public description field is empty."
+        }
+      ],
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:UPB_MuseoKordilyera.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/0/04/UPB_MuseoKordilyera.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "Charrie Anne Nacor",
+        "license": "CC BY-SA 4.0"
+      },
+      "photoGap": null,
+      "videos": [
+        "https://www.youtube.com/watch?v=1Zjt1etCO5M",
+        "https://www.youtube.com/watch?v=XJE-w8Pnlno"
+      ],
+      "rejectedVideos": [],
+      "notes": []
+    },
+    {
+      "placeId": "baguio-mansion-house",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Wikipedia — The Mansion (Baguio)",
+          "url": "https://en.wikipedia.org/wiki/The_Mansion_(Baguio)",
+          "checkedOn": "2026-10-22",
+          "supports": "Reviewed place identity, municipality and the specific descriptive facts in this overview."
+        }
+      ],
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:The_Mansion,_Baguio_City._Building_only.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/3/30/The_Mansion%2C_Baguio_City._Building_only.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "Kylesy20",
+        "license": "CC BY-SA 4.0"
+      },
+      "photoGap": null,
+      "videos": [
+        "https://www.youtube.com/watch?v=baJTHhUJejk",
+        "https://www.youtube.com/watch?v=Fa3bfUoTvnc"
+      ],
+      "rejectedVideos": [],
+      "notes": [
+        "Video admission claims were not copied as current fees; exterior image is not a museum-interior photograph."
+      ]
+    },
+    {
+      "placeId": "baguio-wright-park",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Baguio City — public tourism information",
+          "url": "https://main.baguio.gov.ph/api/infoboard/tourist-spots/wright-park",
+          "checkedOn": "2026-10-22",
+          "supports": "Official place name and street location only; the public description field is empty."
+        },
+        {
+          "name": "Baguio City Government - tourist directory",
+          "url": "https://infoboard.baguio.gov.ph/tourists-spots",
+          "checkedOn": "2026-10-21",
+          "supports": "Previously accepted place identity and concise descriptive facts."
+        }
+      ],
+      "photo": null,
+      "photoGap": null,
+      "videos": [
+        "https://www.youtube.com/watch?v=-toe3VWpmBA",
+        "https://www.youtube.com/watch?v=-69p6NM3eQM"
+      ],
+      "rejectedVideos": [],
+      "notes": [
+        "Retained the existing licensed Wright Park photograph."
+      ]
+    },
+    {
+      "placeId": "baguio-baguio-cathedral-area",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Wikipedia — Baguio Cathedral",
+          "url": "https://en.wikipedia.org/wiki/Baguio_Cathedral",
+          "checkedOn": "2026-10-22",
+          "supports": "Reviewed place identity, municipality and the specific descriptive facts in this overview."
+        }
+      ],
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Baguio_Cathedral_(Carlu_Street,_Baguio_City;_02-25-2024).jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/3/35/Baguio_Cathedral_%28Carlu_Street%2C_Baguio_City%3B_02-25-2024%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "Patrickroque01",
+        "license": "CC BY-SA 4.0"
+      },
+      "photoGap": null,
+      "videos": [
+        "https://www.youtube.com/watch?v=IMc4grEr_lI",
+        "https://www.youtube.com/watch?v=dO4Ct8OvBq0"
+      ],
+      "rejectedVideos": [],
+      "notes": []
+    },
+    {
+      "placeId": "baguio-mirador-hill",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Baguio City — public tourism information",
+          "url": "https://main.baguio.gov.ph/api/infoboard/tourist-spots/mirador-hill",
+          "checkedOn": "2026-10-22",
+          "supports": "Official place name and street location only; the public description field is empty."
+        },
+        {
+          "name": "Baguio City Government - tourist directory",
+          "url": "https://infoboard.baguio.gov.ph/tourists-spots",
+          "checkedOn": "2026-10-21",
+          "supports": "Previously accepted place identity and concise descriptive facts."
+        }
+      ],
+      "photo": null,
+      "photoGap": "No exact-place photograph with established reuse rights in the reviewed Commons results.",
+      "videos": [
+        "https://www.youtube.com/watch?v=tEhkM4H5VM4"
+      ],
+      "rejectedVideos": [
+        {
+          "videoId": "kyCFiIl4HPw",
+          "reason": "HTTP 401: https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DkyCFiIl4HPw&format=json"
+        }
+      ],
+      "notes": [
+        "Rejected Wikipedia’s unrelated Antarctic hill article and location map.",
+        "Photo gap: No exact-place photograph with established reuse rights in the reviewed Commons results.",
+        "Video kyCFiIl4HPw: HTTP 401: https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DkyCFiIl4HPw&format=json"
+      ]
+    },
+    {
+      "placeId": "baguio-pink-sisters",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Baguio City — public tourism information",
+          "url": "https://main.baguio.gov.ph/api/infoboard/tourist-spots/pink-sisters-convent-and-chapel",
+          "checkedOn": "2026-10-22",
+          "supports": "Official place name and street location only; the public description field is empty."
+        },
+        {
+          "name": "Baguio City Government - tourist directory",
+          "url": "https://infoboard.baguio.gov.ph/tourists-spots",
+          "checkedOn": "2026-10-21",
+          "supports": "Previously accepted place identity and concise descriptive facts."
+        }
+      ],
+      "photo": null,
+      "photoGap": "No exact-place photograph with established reuse rights in the reviewed Commons results.",
+      "videos": [
+        "https://www.youtube.com/watch?v=LXx8cmCD2rs",
+        "https://www.youtube.com/watch?v=PdxutYCWg-4"
+      ],
+      "rejectedVideos": [],
+      "notes": [
+        "Photo gap: No exact-place photograph with established reuse rights in the reviewed Commons results."
+      ]
+    },
+    {
+      "placeId": "baguio-slu-museum",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Saint Louis University — Museum of Igorot Culture and Arts",
+          "url": "https://www.slu.edu.ph/museum-of-igorot-culture-and-arts/",
+          "checkedOn": "2026-10-22",
+          "supports": "Museum purpose, collections and published visitor guidance; public search-index text accessible, direct fetch failed."
+        },
+        {
+          "name": "Baguio City — public tourism information",
+          "url": "https://main.baguio.gov.ph/api/infoboard/tourist-spots/slu-museum-of-igorot-cultures-arts",
+          "checkedOn": "2026-10-22",
+          "supports": "Official place name and street location only; the public description field is empty."
+        }
+      ],
+      "photo": null,
+      "photoGap": "No exact museum photograph with documented reuse rights found.",
+      "videos": [],
+      "rejectedVideos": [],
+      "notes": [
+        "Official university search-index text reviewed; direct page access failed. No opening hours or fees inferred.",
+        "Photo gap: No exact museum photograph with documented reuse rights found.",
+        "Video gap: The reviewed YouTube search did not establish a useful exact-museum visitor resource."
+      ]
+    },
+    {
+      "placeId": "baguio-bamboo-sanctuary",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Baguio City — public tourism information",
+          "url": "https://main.baguio.gov.ph/api/infoboard/tourist-spots/bamboo-sanctuary",
+          "checkedOn": "2026-10-22",
+          "supports": "Official place name and street location only; the public description field is empty."
+        },
+        {
+          "name": "Baguio City Government - tourist directory",
+          "url": "https://infoboard.baguio.gov.ph/tourists-spots",
+          "checkedOn": "2026-10-21",
+          "supports": "Previously accepted place identity and concise descriptive facts."
+        }
+      ],
+      "photo": null,
+      "photoGap": "No exact-place photograph with established reuse rights in the reviewed Commons results.",
+      "videos": [
+        "https://www.youtube.com/watch?v=U9NoXGV_5so"
+      ],
+      "rejectedVideos": [
+        {
+          "videoId": "PYLTeiHPUbU",
+          "reason": "Official source does not currently confirm a playable, embeddable video with an accessible description"
+        }
+      ],
+      "notes": [
+        "Official feed coordinate appears inconsistent with its Pacdal address; no coordinate change made from that feed.",
+        "Photo gap: No exact-place photograph with established reuse rights in the reviewed Commons results.",
+        "Video PYLTeiHPUbU: Official source does not currently confirm a playable, embeddable video with an accessible description"
+      ]
+    },
+    {
+      "placeId": "baguio-pilak-silvercraft",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Baguio City — public tourism information",
+          "url": "https://main.baguio.gov.ph/api/infoboard/tourist-spots/pilak-silvercraft-and-gift-shoppe",
+          "checkedOn": "2026-10-22",
+          "supports": "Official place name and street location only; the public description field is empty."
+        },
+        {
+          "name": "Baguio City Government - tourist directory",
+          "url": "https://infoboard.baguio.gov.ph/tourists-spots",
+          "checkedOn": "2026-10-21",
+          "supports": "Previously accepted place identity and concise descriptive facts."
+        }
+      ],
+      "photo": null,
+      "photoGap": "No exact-place photograph with established reuse rights in the reviewed Commons results.",
+      "videos": [],
+      "rejectedVideos": [
+        {
+          "videoId": "wjiD-sXLz54",
+          "reason": "Official source does not currently confirm a playable, embeddable video with an accessible description"
+        },
+        {
+          "videoId": "1Ioomvj8B-8",
+          "reason": "Craft-family interview did not establish a visit to this particular shop; excluded after source review."
+        }
+      ],
+      "notes": [
+        "Photo gap: No exact-place photograph with established reuse rights in the reviewed Commons results.",
+        "Video wjiD-sXLz54: Official source does not currently confirm a playable, embeddable video with an accessible description",
+        "Craft-family interview did not establish a visit to this particular shop; excluded after source review."
+      ]
+    },
+    {
+      "placeId": "baguio-nardas-handwoven",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Baguio City — public tourism information",
+          "url": "https://main.baguio.gov.ph/api/infoboard/tourist-spots/nardas-handwoven-arts-crafts",
+          "checkedOn": "2026-10-22",
+          "supports": "Official place name and street location only; the public description field is empty."
+        },
+        {
+          "name": "Baguio City Government - tourist directory",
+          "url": "https://infoboard.baguio.gov.ph/tourists-spots",
+          "checkedOn": "2026-10-21",
+          "supports": "Previously accepted place identity and concise descriptive facts."
+        }
+      ],
+      "photo": null,
+      "photoGap": "No exact-place photograph with established reuse rights in the reviewed Commons results.",
+      "videos": [
+        "https://www.youtube.com/watch?v=Z_x8x6iY_Cc"
+      ],
+      "rejectedVideos": [],
+      "notes": [
+        "Photo gap: No exact-place photograph with established reuse rights in the reviewed Commons results.",
+        "Video gap: Other results focused on brand events rather than an established visit to this shop."
+      ]
+    },
+    {
+      "placeId": "baguio-good-shepherd",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Baguio City — public tourism information",
+          "url": "https://main.baguio.gov.ph/api/infoboard/tourist-spots/good-sheperd",
+          "checkedOn": "2026-10-22",
+          "supports": "Official place name and street location only; the public description field is empty."
+        },
+        {
+          "name": "Baguio City Government - tourist directory",
+          "url": "https://infoboard.baguio.gov.ph/tourists-spots",
+          "checkedOn": "2026-10-21",
+          "supports": "Previously accepted place identity and concise descriptive facts."
+        }
+      ],
+      "photo": null,
+      "photoGap": "No exact-place photograph with established reuse rights in the reviewed Commons results.",
+      "videos": [
+        "https://www.youtube.com/watch?v=jbV9DB2-mR0"
+      ],
+      "rejectedVideos": [
+        {
+          "videoId": "cUqLSHrUrvU",
+          "reason": "Official source does not currently confirm a playable, embeddable video with an accessible description"
+        }
+      ],
+      "notes": [
+        "Commons grounds and statue photographs did not clearly identify the shop; photo gap retained.",
+        "Photo gap: No exact-place photograph with established reuse rights in the reviewed Commons results.",
+        "Video cUqLSHrUrvU: Official source does not currently confirm a playable, embeddable video with an accessible description"
+      ]
+    },
+    {
+      "placeId": "baguio-malcolm-square",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Baguio City — public tourism information",
+          "url": "https://main.baguio.gov.ph/api/infoboard/tourist-spots/malcolm-square",
+          "checkedOn": "2026-10-22",
+          "supports": "Official place name and street location only; the public description field is empty."
+        },
+        {
+          "name": "Baguio City Government - tourist directory",
+          "url": "https://infoboard.baguio.gov.ph/tourists-spots",
+          "checkedOn": "2026-10-21",
+          "supports": "Previously accepted place identity and concise descriptive facts."
+        }
+      ],
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Baguio_city_proper,_Magsaysay_Avenue,_Malcolm_Square_(Baguio_City;_12-03-2022).jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/4/46/Baguio_city_proper%2C_Magsaysay_Avenue%2C_Malcolm_Square_%28Baguio_City%3B_12-03-2022%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "Patrickroque01",
+        "license": "CC BY-SA 4.0"
+      },
+      "photoGap": null,
+      "videos": [
+        "https://www.youtube.com/watch?v=93tpNZJB4i4",
+        "https://www.youtube.com/watch?v=Lo1FlIcqcrs"
+      ],
+      "rejectedVideos": [],
+      "notes": []
+    },
+    {
+      "placeId": "baguio-mines-view-park",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Wikipedia — Mines View Park",
+          "url": "https://en.wikipedia.org/wiki/Mines_View_Park",
+          "checkedOn": "2026-10-22",
+          "supports": "Reviewed place identity, municipality and the specific descriptive facts in this overview."
+        }
+      ],
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Mines_View_Park,_Baguio_City.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Mines_View_Park%2C_Baguio_City.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "Lawrence Ruiz",
+        "license": "CC BY-SA 4.0"
+      },
+      "photoGap": null,
+      "videos": [
+        "https://www.youtube.com/watch?v=UPfuGVnZfwk"
+      ],
+      "rejectedVideos": [
+        {
+          "videoId": "8eJ6VcNxSnY",
+          "reason": "Official source does not currently confirm a playable, embeddable video with an accessible description"
+        }
+      ],
+      "notes": [
+        "Video 8eJ6VcNxSnY: Official source does not currently confirm a playable, embeddable video with an accessible description"
+      ]
+    },
+    {
+      "placeId": "baguio-original-good-taste",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "The Original Good Taste Restaurant - official location",
+          "url": "https://goodtaste.ph/",
+          "checkedOn": "2026-10-21",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photo": null,
+      "photoGap": "No documented reusable photograph clearly identifying the Lapu Lapu Street venue was found.",
+      "videos": [],
+      "rejectedVideos": [],
+      "notes": [
+        "Limited description retains accepted branch identity; no menu, price or service claim added.",
+        "Photo gap: No documented reusable photograph clearly identifying the Lapu Lapu Street venue was found.",
+        "Video gap: Search results did not clearly establish the Lapu Lapu branch; Otek Street resources were not substituted."
+      ]
+    }
+  ]
+}

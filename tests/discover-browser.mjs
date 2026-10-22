@@ -2,7 +2,7 @@ import { chromium, expect } from "@playwright/test";
 import assert from "node:assert/strict";
 const browser = await chromium.launch({ channel: "chrome", headless: true });
 const page = await browser.newPage({ viewport: { width: 1440, height: 1000 } });
-const origin = "http://127.0.0.1:5173";
+const origin = process.env.LAKBAY_TEST_ORIGIN || "http://127.0.0.1:5173";
 const directory = JSON.parse(
   await (await page.request.get(origin + "/data/lakbay-locations.json")).text(),
 );
@@ -158,6 +158,7 @@ try {
   await expect(
     page.getByText("City / municipality:", { exact: false }).locator(".."),
   ).toContainText("Makati City");
+  await page.locator("#place-sources>summary").click();
   await expect(
     page.getByRole("link", { name: /Municipality: Checked/ }),
   ).toHaveAttribute("href", metro.sources.municipality.sourceUrl);

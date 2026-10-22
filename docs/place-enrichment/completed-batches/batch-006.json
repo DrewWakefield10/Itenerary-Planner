@@ -1,0 +1,632 @@
+{
+  "batchId": "batch-006",
+  "checkedOn": "2026-10-22",
+  "places": 25,
+  "outcomes": [
+    {
+      "placeId": "el-nido-duli-beach",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Duli Beach Resort — location",
+          "url": "https://dulibeach.com/contact/",
+          "checkedOn": "2026-10-19",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Duli_beach_can_surprise_with_strong_rip_currents_-_panoramio.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Duli_beach_can_surprise_with_strong_rip_currents_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "Tuderna",
+        "license": "CC BY 3.0"
+      },
+      "photoGap": null,
+      "videos": [
+        "https://www.youtube.com/watch?v=jpb2GAGT0-E",
+        "https://www.youtube.com/watch?v=GvwT7Udg3nQ"
+      ],
+      "rejectedVideos": [],
+      "notes": []
+    },
+    {
+      "placeId": "el-nido-seven-commandos-beach",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Discover El Nido — operator route description",
+          "url": "https://www.discoverelnido.com/tours/tour-a/",
+          "checkedOn": "2026-10-22",
+          "supports": "Exact stop, excursion route and operator’s warning that the order can change; no current fee claim imported."
+        }
+      ],
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Seven_Commando_Beach,_El_Nido,_Philippines_(36703369760).jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Seven_Commando_Beach%2C_El_Nido%2C_Philippines_%2836703369760%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "Fabio Achilli from Milano, Italy",
+        "license": "CC BY 2.0"
+      },
+      "photoGap": null,
+      "videos": [
+        "https://www.youtube.com/watch?v=eWD3jqgMTws",
+        "https://www.youtube.com/watch?v=K9a-MFMafkA"
+      ],
+      "rejectedVideos": [],
+      "notes": []
+    },
+    {
+      "placeId": "el-nido-shimizu-island",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Discover El Nido — operator route description",
+          "url": "https://www.discoverelnido.com/tours/tour-a/",
+          "checkedOn": "2026-10-22",
+          "supports": "Exact stop, excursion route and operator’s warning that the order can change; no current fee claim imported."
+        }
+      ],
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Shimizu_Island.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Shimizu_Island.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "Nicko Melendres",
+        "license": "CC BY-SA 4.0"
+      },
+      "photoGap": null,
+      "videos": [
+        "https://www.youtube.com/watch?v=Ork-FmImohU"
+      ],
+      "rejectedVideos": [
+        {
+          "videoId": "mYNN12rKchY",
+          "reason": "Official source does not currently confirm a playable, embeddable video with an accessible description"
+        }
+      ],
+      "notes": [
+        "Video mYNN12rKchY: Official source does not currently confirm a playable, embeddable video with an accessible description"
+      ]
+    },
+    {
+      "placeId": "el-nido-secret-lagoon",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Discover El Nido — operator route description",
+          "url": "https://www.discoverelnido.com/tours/tour-a/",
+          "checkedOn": "2026-10-22",
+          "supports": "Exact stop, excursion route and operator’s warning that the order can change; no current fee claim imported."
+        }
+      ],
+      "photo": null,
+      "photoGap": "No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+      "videos": [
+        "https://www.youtube.com/watch?v=8ZRErb_u4W8",
+        "https://www.youtube.com/watch?v=UDphoKTuKPw"
+      ],
+      "rejectedVideos": [],
+      "notes": [
+        "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results."
+      ]
+    },
+    {
+      "placeId": "el-nido-small-lagoon",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Discover El Nido — operator route description",
+          "url": "https://www.discoverelnido.com/tours/tour-d/",
+          "checkedOn": "2026-10-22",
+          "supports": "Exact stop, excursion route and operator’s warning that the order can change; no current fee claim imported."
+        }
+      ],
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Small_Lagoon,_El_Nido,_Philippines_(36957476521).jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Small_Lagoon%2C_El_Nido%2C_Philippines_%2836957476521%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "Fabio Achilli from Milano, Italy",
+        "license": "CC BY 2.0"
+      },
+      "photoGap": null,
+      "videos": [
+        "https://www.youtube.com/watch?v=R_sifAecn94",
+        "https://www.youtube.com/watch?v=hBOD3xXQZSg"
+      ],
+      "rejectedVideos": [],
+      "notes": []
+    },
+    {
+      "placeId": "el-nido-cadlao-lagoon",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Discover El Nido — operator route description",
+          "url": "https://www.discoverelnido.com/tours/tour-d/",
+          "checkedOn": "2026-10-22",
+          "supports": "Exact stop, excursion route and operator’s warning that the order can change; no current fee claim imported."
+        }
+      ],
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Cadlao_Lagoon_(48108503048).jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Cadlao_Lagoon_%2848108503048%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "David Stanley from Nanaimo, Canada",
+        "license": "CC BY 2.0"
+      },
+      "photoGap": null,
+      "videos": [
+        "https://www.youtube.com/watch?v=muxWighxaJs",
+        "https://www.youtube.com/watch?v=Z-2jv8KY1-E"
+      ],
+      "rejectedVideos": [],
+      "notes": []
+    },
+    {
+      "placeId": "el-nido-snake-island",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Discover El Nido — operator route description",
+          "url": "https://www.discoverelnido.com/tours/tour-b/",
+          "checkedOn": "2026-10-22",
+          "supports": "Exact stop, excursion route and operator’s warning that the order can change; no current fee claim imported."
+        }
+      ],
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Snake_Island,_El_Nido,_Philippines_(36914138776).jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Snake_Island%2C_El_Nido%2C_Philippines_%2836914138776%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "Fabio Achilli from Milano, Italy",
+        "license": "CC BY 2.0"
+      },
+      "photoGap": null,
+      "videos": [
+        "https://www.youtube.com/watch?v=v4Afo4ff6gE",
+        "https://www.youtube.com/watch?v=oXnTww1turw"
+      ],
+      "rejectedVideos": [],
+      "notes": []
+    },
+    {
+      "placeId": "el-nido-cudugnon-cave",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Discover El Nido — operator route description",
+          "url": "https://www.discoverelnido.com/tours/tour-b/",
+          "checkedOn": "2026-10-22",
+          "supports": "Exact stop, excursion route and operator’s warning that the order can change; no current fee claim imported."
+        }
+      ],
+      "photo": null,
+      "photoGap": "No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+      "videos": [
+        "https://www.youtube.com/watch?v=rzId6-dNR1g",
+        "https://www.youtube.com/watch?v=BzWr1lSBg-g"
+      ],
+      "rejectedVideos": [],
+      "notes": [
+        "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results."
+      ]
+    },
+    {
+      "placeId": "puerto-princesa-plaza-cuartel",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Puerto Princesa City Tourism — Plaza Cuartel address",
+          "url": "https://citytourism.puertoprincesa.ph/plaza-cuartel/",
+          "checkedOn": "2026-10-22",
+          "supports": "Official former-garrison identity, wartime memorial context and Taft Street address."
+        }
+      ],
+      "photo": null,
+      "photoGap": null,
+      "videos": [
+        "https://www.youtube.com/watch?v=8HYw3tyiX0U",
+        "https://www.youtube.com/watch?v=jF7bOUZAM3c"
+      ],
+      "rejectedVideos": [],
+      "notes": [
+        "Retained the existing licensed actual-place photograph. Did not repeat the source’s apparent survivor-count typo or old fare estimates."
+      ]
+    },
+    {
+      "placeId": "puerto-princesa-immaculate-conception-cathedral-surroundings",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Puerto Princesa City Tourism — Historical Landmarks",
+          "url": "https://citytourism.puertoprincesa.ph/historical-landmarks/",
+          "checkedOn": "2026-10-22",
+          "supports": "Cathedral construction and architectural identity; Mendoza Park memorial and planted setting; Princess Eulalia Park foundation memorial."
+        }
+      ],
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Immaculate_Conception_Cathedral_-_Puerto_Princesa_City.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Immaculate_Conception_Cathedral_-_Puerto_Princesa_City.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "Herbertkikoy",
+        "license": "CC BY-SA 4.0"
+      },
+      "photoGap": null,
+      "videos": [
+        "https://www.youtube.com/watch?v=XV2VmVpcLyY"
+      ],
+      "rejectedVideos": [
+        {
+          "videoId": "fFjLsZZFTZI",
+          "reason": "Official source does not currently confirm a playable, embeddable video with an accessible description"
+        }
+      ],
+      "notes": [
+        "Video fFjLsZZFTZI: Official source does not currently confirm a playable, embeddable video with an accessible description"
+      ]
+    },
+    {
+      "placeId": "puerto-princesa-puerto-princesa-baywalk",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Puerto Princesa City Tourism — destination inventory",
+          "url": "https://citytourism.puertoprincesa.ph/destination-map/",
+          "checkedOn": "2026-10-21",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Puerto_Princesa_City_Baywalk_(Puerto_Princesa,_Palawan;_08-03-2023).jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Puerto_Princesa_City_Baywalk_%28Puerto_Princesa%2C_Palawan%3B_08-03-2023%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "Patrickroque01",
+        "license": "CC BY-SA 4.0"
+      },
+      "photoGap": null,
+      "videos": [
+        "https://www.youtube.com/watch?v=Rm-RE9qPuFA"
+      ],
+      "rejectedVideos": [
+        {
+          "videoId": "ZsbrqWmI54Y",
+          "reason": "HTTP 401: https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DZsbrqWmI54Y&format=json"
+        }
+      ],
+      "notes": [
+        "Video ZsbrqWmI54Y: HTTP 401: https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DZsbrqWmI54Y&format=json"
+      ]
+    },
+    {
+      "placeId": "puerto-princesa-mendoza-park",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Puerto Princesa City Tourism — Historical Landmarks",
+          "url": "https://citytourism.puertoprincesa.ph/historical-landmarks/",
+          "checkedOn": "2026-10-22",
+          "supports": "Cathedral construction and architectural identity; Mendoza Park memorial and planted setting; Princess Eulalia Park foundation memorial."
+        }
+      ],
+      "photo": null,
+      "photoGap": "No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+      "videos": [
+        "https://www.youtube.com/watch?v=uvorNflKwjM",
+        "https://www.youtube.com/watch?v=2KOne1xZhOk"
+      ],
+      "rejectedVideos": [],
+      "notes": [
+        "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results."
+      ]
+    },
+    {
+      "placeId": "puerto-princesa-princess-eulalia-park",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Puerto Princesa City Tourism — Historical Landmarks",
+          "url": "https://citytourism.puertoprincesa.ph/historical-landmarks/",
+          "checkedOn": "2026-10-22",
+          "supports": "Cathedral construction and architectural identity; Mendoza Park memorial and planted setting; Princess Eulalia Park foundation memorial."
+        }
+      ],
+      "photo": null,
+      "photoGap": "No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+      "videos": [
+        "https://www.youtube.com/watch?v=5pYWbehcSHM",
+        "https://www.youtube.com/watch?v=4blOVFs6ViQ"
+      ],
+      "rejectedVideos": [],
+      "notes": [
+        "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results."
+      ]
+    },
+    {
+      "placeId": "puerto-princesa-palawan-heritage-center",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Puerto Princesa City Tourism — 2018–2027 master plan",
+          "url": "https://www.puertoprincesatourism.com/_files/ugd/3668db_31558baedb484e898e1bd7efb719f797.pdf",
+          "checkedOn": "2026-10-19",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Entrance_of_Palawan_Heritage_Center.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Entrance_of_Palawan_Heritage_Center.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "Markanthonygabo",
+        "license": "CC BY-SA 4.0"
+      },
+      "photoGap": null,
+      "videos": [
+        "https://www.youtube.com/watch?v=lq0FYz73gtY",
+        "https://www.youtube.com/watch?v=akcD3ifHHs0"
+      ],
+      "rejectedVideos": [],
+      "notes": []
+    },
+    {
+      "placeId": "puerto-princesa-palawan-museum",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Puerto Princesa City Tourism — Palawan Museum",
+          "url": "https://www.puertoprincesatourism.com/palawan-museum",
+          "checkedOn": "2026-10-19",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photo": null,
+      "photoGap": "No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+      "videos": [
+        "https://www.youtube.com/watch?v=CaxnoJMmEyo",
+        "https://www.youtube.com/watch?v=e6nmteXXB1Y"
+      ],
+      "rejectedVideos": [],
+      "notes": [
+        "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results."
+      ]
+    },
+    {
+      "placeId": "puerto-princesa-world-war-ii-memorial-museum",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Puerto Princesa City Tourism — Destination map",
+          "url": "https://citytourism.puertoprincesa.ph/destination-map/",
+          "checkedOn": "2026-10-19",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photo": null,
+      "photoGap": "No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+      "videos": [
+        "https://www.youtube.com/watch?v=nnlbzAkcRic",
+        "https://www.youtube.com/watch?v=1D1Jj8pT0mo"
+      ],
+      "rejectedVideos": [],
+      "notes": [
+        "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results."
+      ]
+    },
+    {
+      "placeId": "puerto-princesa-butterfly-ecological-garden",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Puerto Princesa City Tourism — Destination map",
+          "url": "https://citytourism.puertoprincesa.ph/destination-map/",
+          "checkedOn": "2026-10-19",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photo": null,
+      "photoGap": "No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+      "videos": [
+        "https://www.youtube.com/watch?v=mLSdwCvm95Q"
+      ],
+      "rejectedVideos": [
+        {
+          "videoId": "ByxevF59RoY",
+          "reason": "Official source does not currently confirm a playable, embeddable video with an accessible description"
+        }
+      ],
+      "notes": [
+        "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+        "Video ByxevF59RoY: Official source does not currently confirm a playable, embeddable video with an accessible description"
+      ]
+    },
+    {
+      "placeId": "puerto-princesa-mitra-ranch",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Puerto Princesa City Tourism — Destination map",
+          "url": "https://citytourism.puertoprincesa.ph/destination-map/",
+          "checkedOn": "2026-10-19",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photo": null,
+      "photoGap": "No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+      "videos": [],
+      "rejectedVideos": [
+        {
+          "videoId": "FPtH2aIftKw",
+          "reason": "Official source does not currently confirm a playable, embeddable video with an accessible description"
+        }
+      ],
+      "notes": [
+        "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+        "Video gap: One exact-ranch resource selected; broad city-tour videos not used without a verified segment.",
+        "Video FPtH2aIftKw: Official source does not currently confirm a playable, embeddable video with an accessible description"
+      ]
+    },
+    {
+      "placeId": "puerto-princesa-wildlife-rescue-center",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Wikipedia — Palawan Wildlife Rescue and Conservation Center",
+          "url": "https://en.wikipedia.org/wiki/Palawan_Wildlife_Rescue_and_Conservation_Center",
+          "checkedOn": "2026-10-22",
+          "supports": "Reviewed place identity, municipality and the specific descriptive facts in this overview."
+        }
+      ],
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Palawan_Wildlife_Rescue_and_Conservation_Center_(9165480252).jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/4/43/Palawan_Wildlife_Rescue_and_Conservation_Center_%289165480252%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "shankar s. from Poona (pune), India, India",
+        "license": "CC BY 2.0"
+      },
+      "photoGap": null,
+      "videos": [
+        "https://www.youtube.com/watch?v=qiEIt-mgcns",
+        "https://www.youtube.com/watch?v=3edzQy5Z_tI"
+      ],
+      "rejectedVideos": [],
+      "notes": []
+    },
+    {
+      "placeId": "puerto-princesa-underground-river",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Puerto Princesa City Tourism — Underground River access",
+          "url": "https://citytourism.puertoprincesa.ph/ppur/",
+          "checkedOn": "2026-10-22",
+          "supports": "Official Sabang/Cabayugan location, cave-and-river identity, wharf access and permit requirement."
+        }
+      ],
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Puerto-Princesa_Subterranean_River_National_Park-112012.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/0/09/Puerto-Princesa_Subterranean_River_National_Park-112012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "Ron Van Oers",
+        "license": "CC BY-SA 3.0 igo"
+      },
+      "photoGap": null,
+      "videos": [
+        "https://www.youtube.com/watch?v=UOzs-l5huD8",
+        "https://www.youtube.com/watch?v=U-U3yE6dyXA"
+      ],
+      "rejectedVideos": [],
+      "notes": [
+        "No old transport fares, permit fees or boat duration copied as current facts."
+      ]
+    },
+    {
+      "placeId": "coron-lualhati-park",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Municipality of Coron — 2022 accomplishments, Lualhati Park",
+          "url": "https://coron.gov.ph/wp-content/uploads/2024/10/Accomplishment-Report-CY-2022.pdf",
+          "checkedOn": "2026-10-21",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Lualhati_Park,_Bacuit_Island_view_(Coron,_Palawan;_03-16-2024).jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/9/92/Lualhati_Park%2C_Bacuit_Island_view_%28Coron%2C_Palawan%3B_03-16-2024%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "Patrickroque01",
+        "license": "CC BY-SA 4.0"
+      },
+      "photoGap": null,
+      "videos": [
+        "https://www.youtube.com/watch?v=J933ME6Wcuc",
+        "https://www.youtube.com/watch?v=2OTvarM2E_Q"
+      ],
+      "rejectedVideos": [],
+      "notes": []
+    },
+    {
+      "placeId": "coron-mount-tapyas",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Tourism Promotions Board — Coron town landmarks",
+          "url": "https://www.tpb.gov.ph/wp-content/uploads/2025/08/PBD_PR-No.-2025.07.049_taiwan-agent_ipd-1.pdf",
+          "checkedOn": "2026-10-21",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Mount_Tapyas_(Coron,_Palawan;_03-16-2024).jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/1/18/Mount_Tapyas_%28Coron%2C_Palawan%3B_03-16-2024%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "Patrickroque01",
+        "license": "CC BY-SA 4.0"
+      },
+      "photoGap": null,
+      "videos": [
+        "https://www.youtube.com/watch?v=ligIMs_E49A",
+        "https://www.youtube.com/watch?v=Rq65P4j__ss"
+      ],
+      "rejectedVideos": [],
+      "notes": []
+    },
+    {
+      "placeId": "coron-maquinit-hot-springs",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Department of Tourism — Coron",
+          "url": "https://www.tourism.gov.ph/destination/mimaropa/coron/",
+          "checkedOn": "2026-10-19",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Maquinit_Hotspring_-_Mainit_na_Bukal_ng_Maquinit_-_Hotspring_in_Coron,_Palawan,_Philippines.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Maquinit_Hotspring_-_Mainit_na_Bukal_ng_Maquinit_-_Hotspring_in_Coron%2C_Palawan%2C_Philippines.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "Paul Christian B. Yang-ed",
+        "license": "CC BY-SA 4.0"
+      },
+      "photoGap": null,
+      "videos": [
+        "https://www.youtube.com/watch?v=RbzqdR5d5kE",
+        "https://www.youtube.com/watch?v=kURT15DdLKg"
+      ],
+      "rejectedVideos": [],
+      "notes": []
+    },
+    {
+      "placeId": "coron-saint-augustine-parish",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "I Capture Travel — Coron tour routes",
+          "url": "https://www.corontravel.com/coron",
+          "checkedOn": "2026-10-19",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photo": null,
+      "photoGap": "No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+      "videos": [
+        "https://www.youtube.com/watch?v=Yj7besHHi88"
+      ],
+      "rejectedVideos": [],
+      "notes": [
+        "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+        "Video gap: One exact-parish resource selected; broader town tours not used without an established church segment."
+      ]
+    },
+    {
+      "placeId": "coron-kayangan-lake",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Wikipedia — Kayangan Lake",
+          "url": "https://en.wikipedia.org/wiki/Kayangan_Lake",
+          "checkedOn": "2026-10-22",
+          "supports": "Reviewed place identity, municipality and the specific descriptive facts in this overview."
+        }
+      ],
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Cayangan_Lake,_Coron_Islands,_Philippines_-_panoramio.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/4/48/Cayangan_Lake%2C_Coron_Islands%2C_Philippines_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "Monette Nyem",
+        "license": "CC BY 3.0"
+      },
+      "photoGap": null,
+      "videos": [
+        "https://www.youtube.com/watch?v=xd7ydYaQZfY"
+      ],
+      "rejectedVideos": [],
+      "notes": [
+        "Video gap: One exact-lake resource selected; broader Coron guides not used as filler."
+      ]
+    }
+  ]
+}

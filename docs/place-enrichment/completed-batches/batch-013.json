@@ -1,0 +1,555 @@
+{
+  "batchId": "batch-013",
+  "checkedOn": "2026-10-22",
+  "places": 24,
+  "outcomes": [
+    {
+      "placeId": "siargao-corregidor-island",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "DENR — Siargao ecotourism sites and actual municipalities, July 2023 bulletin",
+          "url": "https://denr.gov.ph/wp-content/uploads/2023/07/DENR_News_Alerts_09_July_2023_Sunday_opt.pdf",
+          "checkedOn": "2026-10-21",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photo": null,
+      "photoGap": "No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+      "videos": [
+        "https://www.youtube.com/watch?v=WMfLKUvr3Lk"
+      ],
+      "rejectedVideos": [],
+      "notes": [
+        "Rejected Manila Bay Corregidor article and 1941 map.",
+        "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+        "Video gap: One exact-Siargao resource selected; Manila Bay tours were excluded."
+      ]
+    },
+    {
+      "placeId": "siargao-paghungawan-marsh",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Caraga State University journal — Paghungawan Marsh study site in Pilar",
+          "url": "https://journals.carsu.edu.ph/JESEG/article/download/131/118/450",
+          "checkedOn": "2026-10-21",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photo": null,
+      "photoGap": "No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+      "videos": [
+        "https://www.youtube.com/watch?v=TIbgFYYBROg",
+        "https://www.youtube.com/watch?v=Pv7UP52kB6Y"
+      ],
+      "rejectedVideos": [],
+      "notes": [
+        "No animal encounters, public trails or unrestricted entry inferred.",
+        "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results."
+      ]
+    },
+    {
+      "placeId": "siargao-somyot-cave",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "SIPLAS Management Plan 2021–2030 — municipal ecotourism and wetland inventory",
+          "url": "https://rsis.ramsar.org/RISapp/files/57292175/documents/PH2553_mgt230606.pdf",
+          "checkedOn": "2026-10-21",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photo": null,
+      "photoGap": "No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+      "videos": [
+        "https://www.youtube.com/watch?v=-sQq_R4Bn7E",
+        "https://www.youtube.com/watch?v=tDDydDSwB5E"
+      ],
+      "rejectedVideos": [],
+      "notes": [
+        "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results."
+      ]
+    },
+    {
+      "placeId": "siargao-osmena-wetland",
+      "description": "limited-evidence",
+      "sources": [
+        {
+          "name": "BusinessMirror / DENR-Caraga SIPLAS — named ecotourism sites",
+          "url": "https://businessmirror.com.ph/2023/07/08/saving-siargao-island-paradise-battling-environmental-woes/",
+          "checkedOn": "2026-10-21",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photo": null,
+      "photoGap": "No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+      "videos": [],
+      "rejectedVideos": [],
+      "notes": [
+        "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+        "Video gap: Reviewed results did not establish an exact wetland visit; abandoned-house and town-wide videos were excluded."
+      ]
+    },
+    {
+      "placeId": "siargao-kermit-restaurant",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Kermit Siargao — official restaurant and address",
+          "url": "https://www.kermitsiargao.com/restaurant",
+          "checkedOn": "2026-10-22",
+          "supports": "Official food description, menu subjects and General Luna location."
+        }
+      ],
+      "photo": null,
+      "photoGap": "No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+      "videos": [
+        "https://www.youtube.com/watch?v=8WLcUdQcYyw"
+      ],
+      "rejectedVideos": [],
+      "notes": [
+        "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+        "Video gap: One restaurant-specific resource selected; room tours not used as dining substitutes."
+      ]
+    },
+    {
+      "placeId": "siargao-trattoria-altrove",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Trattoria Altrove — official branch directory",
+          "url": "https://www.trattoriaaltrove.com/",
+          "checkedOn": "2026-10-21",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photo": null,
+      "photoGap": "No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+      "videos": [
+        "https://www.youtube.com/watch?v=MndlwZH5_Pg"
+      ],
+      "rejectedVideos": [],
+      "notes": [
+        "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+        "Video gap: One Siargao-specific resource selected; the Coron television feature was excluded."
+      ]
+    },
+    {
+      "placeId": "siargao-warung",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Siargao Island Villas — Warung restaurant",
+          "url": "https://siargaoislandvillas.com/warung/",
+          "checkedOn": "2026-10-22",
+          "supports": "Official Indonesian restaurant identity, resort association and reservation channel."
+        }
+      ],
+      "photo": null,
+      "photoGap": "No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+      "videos": [
+        "https://www.youtube.com/watch?v=ZRxO6AUYzuY"
+      ],
+      "rejectedVideos": [],
+      "notes": [
+        "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+        "Video gap: One exact-restaurant resource selected; general resort room tours were not substituted."
+      ]
+    },
+    {
+      "placeId": "siargao-brunch-spot",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Brunch Spot Siargao — official venue website",
+          "url": "https://bs-siargao.com/",
+          "checkedOn": "2026-10-22",
+          "supports": "Official food/drink focus and Purok 5 address."
+        }
+      ],
+      "photo": null,
+      "photoGap": "No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+      "videos": [
+        "https://www.youtube.com/watch?v=ERU_l6Hjg1E"
+      ],
+      "rejectedVideos": [],
+      "notes": [
+        "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+        "Video gap: One exact-café resource selected; broad General Luna walks were not used as substitutes."
+      ]
+    },
+    {
+      "placeId": "siargao-bravo-restaurant",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Bravo Beach Resort Siargao — official restaurant and location",
+          "url": "https://www.bravosiargao.com/",
+          "checkedOn": "2026-10-21",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photo": null,
+      "photoGap": "No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+      "videos": [
+        "https://www.youtube.com/watch?v=gmEWMedpbPc"
+      ],
+      "rejectedVideos": [],
+      "notes": [
+        "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+        "Video gap: One restaurant-specific resource selected; broad nightlife and resort videos were not substituted."
+      ]
+    },
+    {
+      "placeId": "siargao-naga-restaurant",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "NĀGA Siargao — official restaurant website",
+          "url": "https://www.nagaconcepts.co/naga-siargao",
+          "checkedOn": "2026-10-22",
+          "supports": "Official restaurant concept, food preparation statement and separate Siargao/Boracay addresses."
+        }
+      ],
+      "photo": null,
+      "photoGap": "No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+      "videos": [],
+      "rejectedVideos": [],
+      "notes": [
+        "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+        "Video gap: Reviewed General Luna street routes did not establish an exact NĀGA segment."
+      ]
+    },
+    {
+      "placeId": "siargao-malinao-beach",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "SIPLAS Management Plan 2021–2030 — General Luna beach areas",
+          "url": "https://rsis.ramsar.org/RISapp/files/57292175/documents/PH2553_mgt230606.pdf",
+          "checkedOn": "2026-10-21",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photo": null,
+      "photoGap": "No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+      "videos": [
+        "https://www.youtube.com/watch?v=FszJlIrQZ0s"
+      ],
+      "rejectedVideos": [],
+      "notes": [
+        "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+        "Video gap: One exact-beach resource selected; skate-road footage was not substituted for the shore."
+      ]
+    },
+    {
+      "placeId": "siargao-paseo-de-cabuntog",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "TIEZA — Paseo de Cabuntog, Poblacion I, General Luna",
+          "url": "https://tieza.gov.ph/wp-content/uploads/2024/02/SUMMARY-OF-BID-5-1.pdf",
+          "checkedOn": "2026-10-21",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photo": null,
+      "photoGap": "No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+      "videos": [],
+      "rejectedVideos": [],
+      "notes": [
+        "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+        "Video gap: Broad General Luna boulevard and nightlife results did not establish an exact Paseo segment."
+      ]
+    },
+    {
+      "placeId": "siargao-lokal-hub-general-luna",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Lokal Lab — The Hub locations and community program",
+          "url": "https://www.lokallab.org/the-hub",
+          "checkedOn": "2026-10-22",
+          "supports": "Official community/fundraising purpose and described hub initiatives; General Luna branch identity retained from accepted record."
+        }
+      ],
+      "photo": null,
+      "photoGap": "No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+      "videos": [
+        "https://www.youtube.com/watch?v=THSj7kaEclI"
+      ],
+      "rejectedVideos": [],
+      "notes": [
+        "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+        "Video gap: One exact-hub resource selected; an unrelated music video was excluded."
+      ]
+    },
+    {
+      "placeId": "siargao-clubhouse-golf",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "The Clubhouse Siargao — official location and visitor booking guidance",
+          "url": "https://theclubhouse.ph/location",
+          "checkedOn": "2026-10-22",
+          "supports": "Official indoor golf identity, General Luna location and booking/availability guidance."
+        }
+      ],
+      "photo": null,
+      "photoGap": "No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+      "videos": [],
+      "rejectedVideos": [],
+      "notes": [
+        "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+        "Video gap: Reviewed town-wide routes did not establish a useful exact-venue resource."
+      ]
+    },
+    {
+      "placeId": "sagada-sumaguing-cave",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Municipality of Sagada - iPass destination directory",
+          "url": "https://umali-kayo.sagada.gov.ph/",
+          "checkedOn": "2026-10-21",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Sumaguing_Cave_(South_Road,_Sagada,_Mountain_Province;_12-01-2022).jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/1/17/Sumaguing_Cave_%28South_Road%2C_Sagada%2C_Mountain_Province%3B_12-01-2022%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "Patrickroque01",
+        "license": "CC BY-SA 4.0"
+      },
+      "photoGap": null,
+      "videos": [
+        "https://www.youtube.com/watch?v=zzkQXxjEK3k"
+      ],
+      "rejectedVideos": [],
+      "notes": [
+        "Video gap: One exact-cave resource selected; broad or ambiguously named cave videos were not used as filler."
+      ]
+    },
+    {
+      "placeId": "sagada-lumiang-cave",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Municipality of Sagada - iPass destination directory",
+          "url": "https://umali-kayo.sagada.gov.ph/",
+          "checkedOn": "2026-10-21",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Lumiang_Cave_Sagada_Philippines_1.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/9/96/Lumiang_Cave_Sagada_Philippines_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "Philip Nalangan",
+        "license": "CC BY-SA 4.0"
+      },
+      "photoGap": null,
+      "videos": [
+        "https://www.youtube.com/watch?v=j7YinfSM4W0",
+        "https://www.youtube.com/watch?v=a13-iFpecsI"
+      ],
+      "rejectedVideos": [],
+      "notes": []
+    },
+    {
+      "placeId": "sagada-bomod-ok-falls",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Municipality of Sagada - iPass destination directory",
+          "url": "https://umali-kayo.sagada.gov.ph/",
+          "checkedOn": "2026-10-21",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Bomod-ok_Falls_in_Sagada.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/2/25/Bomod-ok_Falls_in_Sagada.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "Mmlibranda",
+        "license": "CC BY-SA 4.0"
+      },
+      "photoGap": null,
+      "videos": [
+        "https://www.youtube.com/watch?v=mk22wGGeltQ",
+        "https://www.youtube.com/watch?v=53Nv7hNEolU"
+      ],
+      "rejectedVideos": [],
+      "notes": []
+    },
+    {
+      "placeId": "sagada-hanging-coffins",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Municipality of Sagada - iPass destination directory",
+          "url": "https://umali-kayo.sagada.gov.ph/",
+          "checkedOn": "2026-10-21",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Sagada_Hanging_Coffins.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Sagada_Hanging_Coffins.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "Kok Leng, Maurice Yeo from Singapore, Singapore",
+        "license": "CC BY 2.0"
+      },
+      "photoGap": null,
+      "videos": [
+        "https://www.youtube.com/watch?v=jJ0TWaFyfns",
+        "https://www.youtube.com/watch?v=myEFOgmE1VI"
+      ],
+      "rejectedVideos": [],
+      "notes": [
+        "General worldwide hanging-coffin article was not used for new Sagada-specific ritual claims."
+      ]
+    },
+    {
+      "placeId": "sagada-bokong-falls",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Municipality of Sagada - iPass destination directory",
+          "url": "https://umali-kayo.sagada.gov.ph/",
+          "checkedOn": "2026-10-21",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photo": null,
+      "photoGap": "No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+      "videos": [
+        "https://www.youtube.com/watch?v=9nPK2XQmJus",
+        "https://www.youtube.com/watch?v=SzlvcvepBWE"
+      ],
+      "rejectedVideos": [],
+      "notes": [
+        "Bomod-ok Falls photograph excluded as the wrong waterfall; cliff-jumping videos not used to establish permission.",
+        "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results."
+      ]
+    },
+    {
+      "placeId": "sagada-blue-soil",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Municipality of Sagada - iPass destination directory",
+          "url": "https://umali-kayo.sagada.gov.ph/",
+          "checkedOn": "2026-10-21",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Sagada_Blue_Soil_Hills_facing_south_(Sagada,_Mountain_Province;_12-01-2022).jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Sagada_Blue_Soil_Hills_facing_south_%28Sagada%2C_Mountain_Province%3B_12-01-2022%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "Patrickroque01",
+        "license": "CC BY-SA 4.0"
+      },
+      "photoGap": null,
+      "videos": [
+        "https://www.youtube.com/watch?v=zVI3aIHrr2A",
+        "https://www.youtube.com/watch?v=swC65CmNqW0"
+      ],
+      "rejectedVideos": [],
+      "notes": []
+    },
+    {
+      "placeId": "sagada-marlboro-hills",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Municipality of Sagada - iPass destination directory",
+          "url": "https://umali-kayo.sagada.gov.ph/",
+          "checkedOn": "2026-10-21",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Lamagan_Hills_pine_trees_1_(Sagada,_Mountain_Province;_12-01-2022).jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Lamagan_Hills_pine_trees_1_%28Sagada%2C_Mountain_Province%3B_12-01-2022%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "Patrickroque01",
+        "license": "CC BY-SA 4.0"
+      },
+      "photoGap": null,
+      "videos": [
+        "https://www.youtube.com/watch?v=16juitrH5JA",
+        "https://www.youtube.com/watch?v=46fbPdlPk8o"
+      ],
+      "rejectedVideos": [],
+      "notes": []
+    },
+    {
+      "placeId": "sagada-ampacao",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Municipality of Sagada - iPass destination directory",
+          "url": "https://umali-kayo.sagada.gov.ph/",
+          "checkedOn": "2026-10-21",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photo": null,
+      "photoGap": "No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+      "videos": [
+        "https://www.youtube.com/watch?v=rjk1-0uYUC8",
+        "https://www.youtube.com/watch?v=CeuJEZuq6jw"
+      ],
+      "rejectedVideos": [],
+      "notes": [
+        "An ambiguously named Alumani photograph was not accepted as the Ampacao viewpoint.",
+        "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results."
+      ]
+    },
+    {
+      "placeId": "sagada-balangagan-cave",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Municipality of Sagada - iPass destination directory",
+          "url": "https://umali-kayo.sagada.gov.ph/",
+          "checkedOn": "2026-10-21",
+          "supports": "Existing accepted catalog facts retained; no new claim about present-day operation, prices or access."
+        }
+      ],
+      "photo": null,
+      "photoGap": "No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+      "videos": [
+        "https://www.youtube.com/watch?v=xNGdRYTG4e4"
+      ],
+      "rejectedVideos": [],
+      "notes": [
+        "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results.",
+        "Video gap: One exact-cave resource selected; general group-tour videos were not used as substitutes."
+      ]
+    },
+    {
+      "placeId": "sagada-church-of-saint-mary-area",
+      "description": "improved",
+      "sources": [
+        {
+          "name": "Wikipedia — Church of Saint Mary the Virgin (Sagada)",
+          "url": "https://en.wikipedia.org/wiki/Church_of_Saint_Mary_the_Virgin_(Sagada)",
+          "checkedOn": "2026-10-22",
+          "supports": "Reviewed place identity, municipality and the specific descriptive facts in this overview."
+        }
+      ],
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Anglican_Church,Pobalcion,_Sagada,_Mountain_Province.JPG",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Anglican_Church%2CPobalcion%2C_Sagada%2C_Mountain_Province.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "Aldrin J. Garces (ag)",
+        "license": "CC BY-SA 3.0"
+      },
+      "photoGap": null,
+      "videos": [
+        "https://www.youtube.com/watch?v=CMyBlr-G_Gw",
+        "https://www.youtube.com/watch?v=dvNJX9MOmww"
+      ],
+      "rejectedVideos": [],
+      "notes": []
+    }
+  ]
+}
