@@ -1,12 +1,13 @@
 import {tripSchema,type Trip} from "./trip";
 import {AccountError,type AccountTrip,type Bookmark} from "./account-contract";
 import {discoveryPlace} from "./discovery";
+import type {AccountDatabase} from "./account-sql";
 type Row={owner_id:string;id:string;snapshot:string;revision:number;created_at:string;updated_at:string;mutation_id:string};
 const decode=(r:Row):AccountTrip=>({trip:tripSchema.parse(JSON.parse(r.snapshot)),ownerId:r.owner_id,revision:r.revision,createdAt:r.created_at,updatedAt:r.updated_at});
 /** All queries bind the authenticated server-side owner. Composite keys prevent
  * ID guessing and imports with a matching ID from crossing account boundaries. */
 export class AccountStore{
-  constructor(private db:D1Database,private ownerId:string){}
+  constructor(private db:AccountDatabase,private ownerId:string){}
   async list(offset=0){
     const {results}=await this.db.prepare("SELECT * FROM personal_trips WHERE owner_id=? ORDER BY updated_at DESC,id LIMIT 21 OFFSET ?").bind(this.ownerId,offset).all<Row>();
     return {trips:results.slice(0,20).map(decode),hasMore:results.length>20,nextOffset:offset+20};

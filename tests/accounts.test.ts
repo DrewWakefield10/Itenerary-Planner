@@ -73,7 +73,7 @@ test("Google OAuth uses real state/PKCE validation, registers verified personal 
 });
 test("missing Google configuration fails closed without trusting platform identity",async()=>{
   const previous=process.env.GOOGLE_CLIENT_ID;delete process.env.GOOGLE_CLIENT_ID;
-  try{assert.equal(authConfiguration(),null);const response=await handleAccountRequest(new Request(config.origin+"/api/account/session"));assert.deepEqual(await response.json(),{enabled:false,user:null});assert.equal((await handleAccountRequest(new Request(config.origin+"/api/account/trips"))).status,503);}finally{if(previous!==undefined)process.env.GOOGLE_CLIENT_ID=previous;}
+  try{assert.equal(authConfiguration(),null);const response=await handleAccountRequest(new Request(config.origin+"/api/account/session"));assert.deepEqual(await response.json(),{enabled:false,user:null,readiness:"auth_configuration_invalid"});assert.equal((await handleAccountRequest(new Request(config.origin+"/api/account/trips"))).status,503);}finally{if(previous!==undefined)process.env.GOOGLE_CLIENT_ID=previous;}
 });
 test("saved trips survive a new database connection and account-store session without regeneration",async()=>{
   const filename=join(tmpdir(),`lakbay-account-${crypto.randomUUID()}.sqlite`),t=trip();

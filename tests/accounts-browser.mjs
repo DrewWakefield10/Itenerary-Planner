@@ -3,7 +3,7 @@ import assert from "node:assert/strict";
 const browser=await chromium.launch({channel:"chrome",headless:true});
 const page=await browser.newPage({viewport:{width:1440,height:1000}}),errors=[];
 page.on("pageerror",e=>errors.push(e.message));
-const origin="http://127.0.0.1:5173",records=new Map(),bookmarks=new Map();
+const origin=process.env.LAKBAY_TEST_ORIGIN||"http://127.0.0.1:5173",records=new Map(),bookmarks=new Map();
 let user=null,loginAs="alice",failSave=false,puts=0;
 const visible=()=>[...records.values()].filter(r=>r.ownerId===user?.id);
 const profile=id=>({id,displayName:id==="alice"?"Alice Traveler":"Bob Traveler",email:`${id}@example.com`});
@@ -37,6 +37,10 @@ await page.route("**/api/account/**",async route=>{
   }
 });
 try{
+  await page.goto(origin+"/account");
+  await expect(page.getByText("Lakbay is a standalone travel planner.",{exact:false})).toBeVisible();
+  await expect(page.getByText(/Let.s Corp/)).toHaveCount(0);
+  await expect(page.getByRole("button",{name:"Continue with Google",exact:true})).toBeVisible();
   await page.goto(origin+"/planner?destinations=baguio&days=3");await expect(page.getByLabel("Number of days")).toHaveValue("3");
   for(let i=0;i<5;i++)await page.getByRole("button",{name:"Next chapter"}).click();
   await page.getByRole("button",{name:"Generate demo itinerary"}).click();await expect(page.getByRole("heading",{name:"Baguio — my island story"})).toBeVisible();
@@ -50,7 +54,7 @@ try{
   await page.getByRole("button",{name:"Rename trip",exact:true}).click();await page.getByLabel("Trip name",{exact:true}).fill("Alice's personal itinerary");await page.getByRole("button",{name:"Update trip name",exact:true}).click();
   await expect(page.getByText("Unsaved changes",{exact:true})).toBeVisible();
   await page.getByRole("link",{name:"My travel journal",exact:true}).click();await expect(page.getByRole("heading",{name:"Leave with unsaved changes?"})).toBeVisible();await page.getByRole("button",{name:"Cancel",exact:true}).click();
-  failSave=true;await page.getByRole("button",{name:"Save Changes",exact:true}).click();await expect(page.getByRole("alert")).toContainText("edits are preserved");await expect(page.getByRole("heading",{name:"Alice's personal itinerary"})).toBeVisible();
+  failSave=true;await page.getByRole("button",{name:"Save Changes",exact:true}).click();await expect(page.locator("main").getByRole("alert")).toContainText("edits are preserved");await expect(page.getByRole("heading",{name:"Alice's personal itinerary"})).toBeVisible();
   await page.getByRole("button",{name:"Retry save",exact:true}).click();await expect(page.getByText("Saved to your account",{exact:true})).toBeVisible();
   await page.getByRole("button",{name:"Update travel dates"}).click();await page.getByLabel("Trip start date",{exact:true}).fill("2026-12-20");await page.getByRole("button",{name:"Update dates",exact:true}).click();
   await page.getByRole("tab",{name:"Budget",exact:true}).click();await page.getByRole("button",{name:"Adjust budget",exact:true}).click();await page.getByLabel("Budget amount in pesos",{exact:true}).fill("");await page.getByRole("button",{name:"Update budget",exact:true}).click();await expect(page.getByText("Choose a whole-peso budget from 500 to 2,000,000.",{exact:true})).toBeVisible();await page.getByLabel("Budget amount in pesos",{exact:true}).fill("40000");await page.getByRole("button",{name:"Update budget",exact:true}).click();

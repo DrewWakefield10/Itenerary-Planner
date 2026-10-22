@@ -1,5 +1,4 @@
-import {getAuth,accountUser} from "./auth";
-import {accountDatabase} from "./account-context";
+import {accountReadiness} from "./auth";
 import {AccountStore} from "./account-store";
 import {AccountError,accountIdSchema,saveAccountTripSchema} from "./account-contract";
 const reply=(body:unknown,status=200)=>Response.json(body,{status,headers:{"Cache-Control":"private, no-store","Vary":"Cookie"}});
@@ -8,18 +7,20 @@ export async function handleAccountRequest(request:Request){
     const url=new URL(request.url),parts=url.pathname.slice("/api/account/".length).split("/");
     if(request.method!=="GET"&&(request.headers.get("origin")!==url.origin||request.headers.get("sec-fetch-site")==="cross-site"))throw new AccountError(403,"This action must come from Lakbay.");
     if(parts[0]==="session"&&request.method==="GET"){
-      const auth=getAuth(),enabled=!!auth;
+      const readiness=await accountReadiness(),auth=readiness.auth,enabled=!!auth;
       const response=auth?await auth.handler(new Request(new URL("/api/auth/get-session",request.url),{headers:request.headers})):null;
       const data=response?await response.json() as {user?:{id:string;name:string;email:string}}|null:null;
       const user=data?.user;
-      const result=reply({enabled,user:user?{id:user.id,displayName:user.name,email:user.email}:null});
+      if(response&&!response.ok)return reply({enabled:false,user:null,readiness:"database_unavailable"},503);
+      const result=reply({enabled,readiness:readiness.status,user:user?{id:user.id,displayName:user.name,email:user.email}:null});
       for(const cookie of response?.headers.getSetCookie()||[])result.headers.append("Set-Cookie",cookie);
       return result;
     }
-    if(!getAuth())throw new AccountError(503,"Google account saving is not configured yet. Your browser draft is preserved.");
-    const user=await accountUser(request);
+    const {auth,db}=await accountReadiness();
+    if(!auth||!db)throw new AccountError(503,"Google account saving is unavailable. Your browser draft is preserved.");
+    const user=(await auth.api.getSession({headers:request.headers}))?.user;
     if(!user)throw new AccountError(401,"Your session expired or you are signed out. Sign in with Google again; your edits are preserved.");
-    const store=new AccountStore(accountDatabase()!,user.id);
+    const store=new AccountStore(db,user.id);
     if(parts[0]==="trips"){
       if(!parts[1]&&request.method==="GET"){
         const offset=Number(url.searchParams.get("offset")||0);
