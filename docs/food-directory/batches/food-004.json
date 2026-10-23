@@ -1,0 +1,3517 @@
+{
+  "id": "food-004",
+  "checkedOn": "2026-10-22",
+  "entries": [
+    {
+      "approved": true,
+      "identityReviewed": true,
+      "operationReviewed": true,
+      "record": {
+        "id": "siargao-spotted-pig-catangnan",
+        "name": "Spotted Pig Cafe — Catangnan",
+        "destination_group": "Siargao",
+        "region": "Caraga",
+        "province": "Surigao del Norte",
+        "city_municipality": "General Luna",
+        "barangay": "Catangnan",
+        "address": "Las Palmas Villas & Casitas, Tourism Road",
+        "latitude": null,
+        "longitude": null,
+        "sources": {
+          "identity": {
+            "sourceName": "Spotted Pig Cafe — Catangnan — venue website",
+            "sourceUrl": "https://laspalmassiargao.com/spotted-pig-cafe/",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "municipality": {
+            "sourceName": "Spotted Pig Cafe — Catangnan — venue website",
+            "sourceUrl": "https://laspalmassiargao.com/spotted-pig-cafe/",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "address": {
+            "sourceName": "Spotted Pig Cafe — Catangnan — venue website",
+            "sourceUrl": "https://laspalmassiargao.com/spotted-pig-cafe/",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "coordinates": {
+            "sourceName": null,
+            "sourceUrl": null,
+            "dateChecked": null,
+            "status": "unverified"
+          }
+        },
+        "category": "Food & drink",
+        "description": "Spotted Pig sits outside Las Palmas Villas & Casitas on Tourism Road. The host advertises specialty coffee, all-day breakfast, brunch and homemade pastries; this listing is specifically for the Siargao café.",
+        "interests": [
+          "Food Hunter",
+          "Slow Traveler"
+        ],
+        "itinerary_base_slug": "siargao",
+        "catalog_stop_id": "siargao-spotted-pig-catangnan",
+        "status": "accepted",
+        "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+        "reviewed_on": "2026-10-22",
+        "planning": {
+          "base_slug": "siargao",
+          "mode": "local",
+          "cluster": "siargao-spotted-pig-catangnan",
+          "minutes": 60,
+          "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+          "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+          "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+          "requiresBooking": false,
+          "scheduling": "candidate",
+          "outdoor": false,
+          "openingHours": {
+            "weekdays": [
+              0,
+              1,
+              2,
+              3,
+              4,
+              5,
+              6
+            ],
+            "opens": "07:00",
+            "closes": "18:00",
+            "source": {
+              "sourceName": "Spotted Pig Cafe — Catangnan — venue website",
+              "sourceUrl": "https://laspalmassiargao.com/spotted-pig-cafe/",
+              "dateChecked": "2026-10-22",
+              "status": "verified"
+            }
+          }
+        },
+        "slug": "siargao-spotted-pig-catangnan"
+      },
+      "food": {
+        "placeId": "siargao-spotted-pig-catangnan",
+        "primary": "cafe",
+        "venueType": "cafe",
+        "suitability": [
+          "coffee",
+          "meal",
+          "breakfast",
+          "bakery"
+        ],
+        "specialties": [
+          "specialty coffee",
+          "brunch",
+          "pastries"
+        ],
+        "source": {
+          "sourceName": "Spotted Pig Cafe — Catangnan — venue website",
+          "sourceUrl": "https://laspalmassiargao.com/spotted-pig-cafe/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "officialUrl": "https://laspalmassiargao.com/spotted-pig-cafe/",
+        "operation": {
+          "basis": "venue-offering",
+          "source": {
+            "sourceName": "Spotted Pig Cafe — Catangnan — venue website",
+            "sourceUrl": "https://laspalmassiargao.com/spotted-pig-cafe/",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "limitation": "The public venue page offers this service when reviewed; no live table availability, closure guarantee or independent on-site check."
+        }
+      },
+      "content": {
+        "placeId": "siargao-spotted-pig-catangnan",
+        "summary": "Spotted Pig sits outside Las Palmas Villas & Casitas on Tourism Road. The host advertises specialty coffee, all-day breakfast, brunch and homemade pastries; this listing is specifically for the Siargao café.",
+        "overview": [
+          "Spotted Pig sits outside Las Palmas Villas & Casitas on Tourism Road. The host advertises specialty coffee, all-day breakfast, brunch and homemade pastries; this listing is specifically for the Siargao café.",
+          "Confirm the current menu and service before travelling. Lakbay has not verified a map pin, meal prices or accessibility for this listing; any itinerary allowance is an estimate."
+        ],
+        "highlights": [
+          {
+            "text": "specialty coffee",
+            "sourceUrls": [
+              "https://laspalmassiargao.com/spotted-pig-cafe/"
+            ]
+          },
+          {
+            "text": "brunch",
+            "sourceUrls": [
+              "https://laspalmassiargao.com/spotted-pig-cafe/"
+            ]
+          },
+          {
+            "text": "pastries",
+            "sourceUrls": [
+              "https://laspalmassiargao.com/spotted-pig-cafe/"
+            ]
+          }
+        ],
+        "tips": [],
+        "sources": [
+          {
+            "name": "Spotted Pig Cafe — Catangnan — venue website",
+            "url": "https://laspalmassiargao.com/spotted-pig-cafe/",
+            "checkedOn": "2026-10-22",
+            "supports": "Exact venue, municipality and the descriptive food or coffee offering stated above; no verification of prices, accessibility or unsupplied coordinates."
+          }
+        ]
+      },
+      "photoResearch": {
+        "sources": [
+          "https://laspalmassiargao.com/spotted-pig-cafe/",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Spotted+Pig+Cafe+General+Luna&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Spotted+Pig+Cafe&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=Spotted+Pig+Cafe+General+Luna&license=4%2C5%2C9%2C10"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "approved": true,
+      "identityReviewed": true,
+      "operationReviewed": true,
+      "record": {
+        "id": "siargao-weekend-cafe",
+        "name": "/Week·End/ Cafe",
+        "destination_group": "Siargao",
+        "region": "Caraga",
+        "province": "Surigao del Norte",
+        "city_municipality": "General Luna",
+        "barangay": null,
+        "address": null,
+        "latitude": null,
+        "longitude": null,
+        "sources": {
+          "identity": {
+            "sourceName": "/Week·End/ Cafe — venue website",
+            "sourceUrl": "https://www.weekendsiargao.com/",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "municipality": {
+            "sourceName": "TravelGO — Weekend Cafe General Luna merchant directory",
+            "sourceUrl": "https://travelgo.ph/browse-food/areas/general-luna",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "address": {
+            "sourceName": null,
+            "sourceUrl": null,
+            "dateChecked": null,
+            "status": "unverified"
+          },
+          "coordinates": {
+            "sourceName": null,
+            "sourceUrl": null,
+            "dateChecked": null,
+            "status": "unverified"
+          }
+        },
+        "category": "Food & drink",
+        "description": "Week·End serves coffee and Filipino brunch plates in a nipa-roofed island café. The venue highlights ube-cheese latte, cloud-foam drinks and a breakfast plate with rice, danggit, longganisa and eggs.",
+        "interests": [
+          "Food Hunter",
+          "Slow Traveler"
+        ],
+        "itinerary_base_slug": "siargao",
+        "catalog_stop_id": "siargao-weekend-cafe",
+        "status": "accepted",
+        "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+        "reviewed_on": "2026-10-22",
+        "planning": {
+          "base_slug": "siargao",
+          "mode": "local",
+          "cluster": "siargao-weekend-cafe",
+          "minutes": 60,
+          "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+          "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+          "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+          "requiresBooking": false,
+          "scheduling": "manual",
+          "outdoor": false,
+          "openingHours": {
+            "weekdays": [
+              0,
+              1,
+              3,
+              4,
+              5,
+              6
+            ],
+            "opens": "08:00",
+            "closes": "18:00",
+            "source": {
+              "sourceName": "/Week·End/ Cafe — venue website",
+              "sourceUrl": "https://www.weekendsiargao.com/",
+              "dateChecked": "2026-10-22",
+              "status": "verified"
+            }
+          }
+        },
+        "slug": "siargao-weekend-cafe"
+      },
+      "food": {
+        "placeId": "siargao-weekend-cafe",
+        "primary": "cafe",
+        "venueType": "cafe",
+        "suitability": [
+          "coffee",
+          "meal",
+          "breakfast"
+        ],
+        "specialties": [
+          "ube-cheese latte",
+          "Filipino brunch"
+        ],
+        "source": {
+          "sourceName": "/Week·End/ Cafe — venue website",
+          "sourceUrl": "https://www.weekendsiargao.com/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "officialUrl": "https://www.weekendsiargao.com/",
+        "operation": {
+          "basis": "venue-offering",
+          "source": {
+            "sourceName": "/Week·End/ Cafe — venue website",
+            "sourceUrl": "https://www.weekendsiargao.com/",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "limitation": "The public venue page offers this service when reviewed; no live table availability, closure guarantee or independent on-site check."
+        }
+      },
+      "content": {
+        "placeId": "siargao-weekend-cafe",
+        "summary": "Week·End serves coffee and Filipino brunch plates in a nipa-roofed island café. The venue highlights ube-cheese latte, cloud-foam drinks and a breakfast plate with rice, danggit, longganisa and eggs.",
+        "overview": [
+          "Week·End serves coffee and Filipino brunch plates in a nipa-roofed island café. The venue highlights ube-cheese latte, cloud-foam drinks and a breakfast plate with rice, danggit, longganisa and eggs.",
+          "The official page closes Tuesdays. Confirm the exact entrance and current service window before arranging a visit; no pin or inferred daily opening interval is published."
+        ],
+        "highlights": [
+          {
+            "text": "ube-cheese latte",
+            "sourceUrls": [
+              "https://www.weekendsiargao.com/"
+            ]
+          },
+          {
+            "text": "Filipino brunch",
+            "sourceUrls": [
+              "https://www.weekendsiargao.com/"
+            ]
+          }
+        ],
+        "tips": [],
+        "sources": [
+          {
+            "name": "/Week·End/ Cafe — venue website",
+            "url": "https://www.weekendsiargao.com/",
+            "checkedOn": "2026-10-22",
+            "supports": "Exact venue, municipality and the descriptive food or coffee offering stated above; no verification of prices, accessibility or unsupplied coordinates."
+          },
+          {
+            "name": "TravelGO — Weekend Cafe General Luna merchant directory",
+            "url": "https://travelgo.ph/browse-food/areas/general-luna",
+            "checkedOn": "2026-10-22",
+            "supports": "Exact venue is listed under General Luna; separate municipality evidence from the operator website’s island-level address."
+          }
+        ]
+      },
+      "photoResearch": {
+        "sources": [
+          "https://www.weekendsiargao.com/",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=%2FWeek%C2%B7End%2F+Cafe+General+Luna&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=%2FWeek%C2%B7End%2F+Cafe&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=%2FWeek%C2%B7End%2F+Cafe+General+Luna&license=4%2C5%2C9%2C10"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "approved": true,
+      "identityReviewed": true,
+      "operationReviewed": true,
+      "record": {
+        "id": "siargao-sinag-snack-bar",
+        "name": "Sinag Snack Bar",
+        "destination_group": "Siargao",
+        "region": "Caraga",
+        "province": "Surigao del Norte",
+        "city_municipality": "General Luna",
+        "barangay": "Catangnan",
+        "address": "Sinag Hostel",
+        "latitude": null,
+        "longitude": null,
+        "sources": {
+          "identity": {
+            "sourceName": "Sinag Snack Bar — venue website",
+            "sourceUrl": "https://sinagsiargao.com/",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "municipality": {
+            "sourceName": "Sinag Snack Bar — venue website",
+            "sourceUrl": "https://sinagsiargao.com/",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "address": {
+            "sourceName": "Sinag Snack Bar — venue website",
+            "sourceUrl": "https://sinagsiargao.com/",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "coordinates": {
+            "sourceName": null,
+            "sourceUrl": null,
+            "dateChecked": null,
+            "status": "unverified"
+          }
+        },
+        "category": "Food & drink",
+        "description": "Sinag’s named snack bar is part of its Catangnan hostel and café. The public offering includes breakfast and lighter dishes, with coffee woven into the hostel’s shared-meal and surf-day setting.",
+        "interests": [
+          "Food Hunter",
+          "Slow Traveler"
+        ],
+        "itinerary_base_slug": "siargao",
+        "catalog_stop_id": "siargao-sinag-snack-bar",
+        "status": "accepted",
+        "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+        "reviewed_on": "2026-10-22",
+        "planning": {
+          "base_slug": "siargao",
+          "mode": "local",
+          "cluster": "siargao-sinag-snack-bar",
+          "minutes": 60,
+          "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+          "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+          "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+          "requiresBooking": false,
+          "scheduling": "candidate",
+          "outdoor": false
+        },
+        "slug": "siargao-sinag-snack-bar"
+      },
+      "food": {
+        "placeId": "siargao-sinag-snack-bar",
+        "primary": "cafe",
+        "venueType": "cafe",
+        "suitability": [
+          "coffee",
+          "meal",
+          "breakfast"
+        ],
+        "specialties": [
+          "breakfast",
+          "coffee"
+        ],
+        "source": {
+          "sourceName": "Sinag Snack Bar — venue website",
+          "sourceUrl": "https://sinagsiargao.com/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "officialUrl": "https://sinagsiargao.com/",
+        "operation": {
+          "basis": "venue-offering",
+          "source": {
+            "sourceName": "Sinag Snack Bar — venue website",
+            "sourceUrl": "https://sinagsiargao.com/",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "limitation": "The public venue page offers this service when reviewed; no live table availability, closure guarantee or independent on-site check."
+        }
+      },
+      "content": {
+        "placeId": "siargao-sinag-snack-bar",
+        "summary": "Sinag’s named snack bar is part of its Catangnan hostel and café. The public offering includes breakfast and lighter dishes, with coffee woven into the hostel’s shared-meal and surf-day setting.",
+        "overview": [
+          "Sinag’s named snack bar is part of its Catangnan hostel and café. The public offering includes breakfast and lighter dishes, with coffee woven into the hostel’s shared-meal and surf-day setting.",
+          "Confirm the current menu and service before travelling. Lakbay has not verified a map pin, meal prices or accessibility for this listing; any itinerary allowance is an estimate."
+        ],
+        "highlights": [
+          {
+            "text": "breakfast",
+            "sourceUrls": [
+              "https://sinagsiargao.com/"
+            ]
+          },
+          {
+            "text": "coffee",
+            "sourceUrls": [
+              "https://sinagsiargao.com/"
+            ]
+          }
+        ],
+        "tips": [],
+        "sources": [
+          {
+            "name": "Sinag Snack Bar — venue website",
+            "url": "https://sinagsiargao.com/",
+            "checkedOn": "2026-10-22",
+            "supports": "Exact venue, municipality and the descriptive food or coffee offering stated above; no verification of prices, accessibility or unsupplied coordinates."
+          }
+        ]
+      },
+      "photoResearch": {
+        "sources": [
+          "https://sinagsiargao.com/",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Sinag+Snack+Bar+General+Luna&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Sinag+Snack+Bar&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=Sinag+Snack+Bar+General+Luna&license=4%2C5%2C9%2C10"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "approved": true,
+      "identityReviewed": true,
+      "operationReviewed": true,
+      "record": {
+        "id": "siargao-saint-thomas",
+        "name": "Saint Thomas Coffee",
+        "destination_group": "Siargao",
+        "region": "Caraga",
+        "province": "Surigao del Norte",
+        "city_municipality": "General Luna",
+        "barangay": null,
+        "address": null,
+        "latitude": null,
+        "longitude": null,
+        "sources": {
+          "identity": {
+            "sourceName": "Fin & Fin team — July 2026 General Luna food guide",
+            "sourceUrl": "https://finandfin.com/siargao-food-guide",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "municipality": {
+            "sourceName": "Fin & Fin team — July 2026 General Luna food guide",
+            "sourceUrl": "https://finandfin.com/siargao-food-guide",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "address": {
+            "sourceName": null,
+            "sourceUrl": null,
+            "dateChecked": null,
+            "status": "unverified"
+          },
+          "coordinates": {
+            "sourceName": null,
+            "sourceUrl": null,
+            "dateChecked": null,
+            "status": "unverified"
+          }
+        },
+        "category": "Food & drink",
+        "description": "Saint Thomas is a coffee-first café in General Luna, described in local July 2026 reporting. It suits a drink break rather than a promised full breakfast; its café role is kept distinct from meal venues.",
+        "interests": [
+          "Food Hunter",
+          "Slow Traveler"
+        ],
+        "itinerary_base_slug": "siargao",
+        "catalog_stop_id": "siargao-saint-thomas",
+        "status": "accepted",
+        "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+        "reviewed_on": "2026-10-22",
+        "planning": {
+          "base_slug": "siargao",
+          "mode": "local",
+          "cluster": "siargao-saint-thomas",
+          "minutes": 60,
+          "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+          "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+          "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+          "requiresBooking": false,
+          "scheduling": "candidate",
+          "outdoor": false
+        },
+        "slug": "siargao-saint-thomas"
+      },
+      "food": {
+        "placeId": "siargao-saint-thomas",
+        "primary": "cafe",
+        "venueType": "cafe",
+        "suitability": [
+          "coffee"
+        ],
+        "specialties": [
+          "coffee"
+        ],
+        "source": {
+          "sourceName": "Fin & Fin team — July 2026 General Luna food guide",
+          "sourceUrl": "https://finandfin.com/siargao-food-guide",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "officialUrl": null,
+        "operation": {
+          "basis": "recent-report",
+          "source": {
+            "sourceName": "Fin & Fin team — July 2026 General Luna food guide",
+            "sourceUrl": "https://finandfin.com/siargao-food-guide",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "limitation": "Dated visitor or local reporting supports this venue. Current opening, menu availability and access still need direct confirmation."
+        }
+      },
+      "content": {
+        "placeId": "siargao-saint-thomas",
+        "summary": "Saint Thomas is a coffee-first café in General Luna, described in local July 2026 reporting. It suits a drink break rather than a promised full breakfast; its café role is kept distinct from meal venues.",
+        "overview": [
+          "Saint Thomas is a coffee-first café in General Luna, described in local July 2026 reporting. It suits a drink break rather than a promised full breakfast; its café role is kept distinct from meal venues.",
+          "Confirm the current menu and service before travelling. Lakbay has not verified a map pin, meal prices or accessibility for this listing; any itinerary allowance is an estimate."
+        ],
+        "highlights": [
+          {
+            "text": "coffee",
+            "sourceUrls": [
+              "https://finandfin.com/siargao-food-guide"
+            ]
+          }
+        ],
+        "tips": [],
+        "sources": [
+          {
+            "name": "Fin & Fin team — July 2026 General Luna food guide",
+            "url": "https://finandfin.com/siargao-food-guide",
+            "checkedOn": "2026-10-22",
+            "supports": "Exact venue, municipality and the descriptive food or coffee offering stated above; no verification of prices, accessibility or unsupplied coordinates."
+          }
+        ]
+      },
+      "photoResearch": {
+        "sources": [
+          "https://finandfin.com/siargao-food-guide",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Saint+Thomas+Coffee+General+Luna&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Saint+Thomas+Coffee&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=Saint+Thomas+Coffee+General+Luna&license=4%2C5%2C9%2C10"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "approved": true,
+      "identityReviewed": true,
+      "operationReviewed": true,
+      "record": {
+        "id": "siargao-sunset-coffee",
+        "name": "Sunset Coffee Roasters",
+        "destination_group": "Siargao",
+        "region": "Caraga",
+        "province": "Surigao del Norte",
+        "city_municipality": "General Luna",
+        "barangay": null,
+        "address": null,
+        "latitude": null,
+        "longitude": null,
+        "sources": {
+          "identity": {
+            "sourceName": "Fin & Fin team — July 2026 General Luna food guide",
+            "sourceUrl": "https://finandfin.com/siargao-food-guide",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "municipality": {
+            "sourceName": "Fin & Fin team — July 2026 General Luna food guide",
+            "sourceUrl": "https://finandfin.com/siargao-food-guide",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "address": {
+            "sourceName": null,
+            "sourceUrl": null,
+            "dateChecked": null,
+            "status": "unverified"
+          },
+          "coordinates": {
+            "sourceName": null,
+            "sourceUrl": null,
+            "dateChecked": null,
+            "status": "unverified"
+          }
+        },
+        "category": "Food & drink",
+        "description": "Sunset Coffee is a General Luna coffee stop near Catangnan Bridge, documented by local July 2026 reporting. Espresso and pastries are the focus; this venue is separate from the bridge attraction itself.",
+        "interests": [
+          "Food Hunter",
+          "Slow Traveler"
+        ],
+        "itinerary_base_slug": "siargao",
+        "catalog_stop_id": "siargao-sunset-coffee",
+        "status": "accepted",
+        "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+        "reviewed_on": "2026-10-22",
+        "planning": {
+          "base_slug": "siargao",
+          "mode": "local",
+          "cluster": "siargao-sunset-coffee",
+          "minutes": 60,
+          "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+          "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+          "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+          "requiresBooking": false,
+          "scheduling": "candidate",
+          "outdoor": false
+        },
+        "slug": "siargao-sunset-coffee"
+      },
+      "food": {
+        "placeId": "siargao-sunset-coffee",
+        "primary": "cafe",
+        "venueType": "cafe",
+        "suitability": [
+          "coffee",
+          "bakery"
+        ],
+        "specialties": [
+          "espresso",
+          "pastries"
+        ],
+        "source": {
+          "sourceName": "Fin & Fin team — July 2026 General Luna food guide",
+          "sourceUrl": "https://finandfin.com/siargao-food-guide",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "officialUrl": null,
+        "operation": {
+          "basis": "recent-report",
+          "source": {
+            "sourceName": "Fin & Fin team — July 2026 General Luna food guide",
+            "sourceUrl": "https://finandfin.com/siargao-food-guide",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "limitation": "Dated visitor or local reporting supports this venue. Current opening, menu availability and access still need direct confirmation."
+        }
+      },
+      "content": {
+        "placeId": "siargao-sunset-coffee",
+        "summary": "Sunset Coffee is a General Luna coffee stop near Catangnan Bridge, documented by local July 2026 reporting. Espresso and pastries are the focus; this venue is separate from the bridge attraction itself.",
+        "overview": [
+          "Sunset Coffee is a General Luna coffee stop near Catangnan Bridge, documented by local July 2026 reporting. Espresso and pastries are the focus; this venue is separate from the bridge attraction itself.",
+          "Confirm the current menu and service before travelling. Lakbay has not verified a map pin, meal prices or accessibility for this listing; any itinerary allowance is an estimate."
+        ],
+        "highlights": [
+          {
+            "text": "espresso",
+            "sourceUrls": [
+              "https://finandfin.com/siargao-food-guide"
+            ]
+          },
+          {
+            "text": "pastries",
+            "sourceUrls": [
+              "https://finandfin.com/siargao-food-guide"
+            ]
+          }
+        ],
+        "tips": [],
+        "sources": [
+          {
+            "name": "Fin & Fin team — July 2026 General Luna food guide",
+            "url": "https://finandfin.com/siargao-food-guide",
+            "checkedOn": "2026-10-22",
+            "supports": "Exact venue, municipality and the descriptive food or coffee offering stated above; no verification of prices, accessibility or unsupplied coordinates."
+          }
+        ]
+      },
+      "photoResearch": {
+        "sources": [
+          "https://finandfin.com/siargao-food-guide",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Sunset+Coffee+Roasters+General+Luna&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Sunset+Coffee+Roasters&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=Sunset+Coffee+Roasters+General+Luna&license=4%2C5%2C9%2C10"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "approved": true,
+      "identityReviewed": true,
+      "operationReviewed": true,
+      "record": {
+        "id": "siargao-fin-fin",
+        "name": "Fin & Fin Beach Shack",
+        "destination_group": "Siargao",
+        "region": "Caraga",
+        "province": "Surigao del Norte",
+        "city_municipality": "General Luna",
+        "barangay": null,
+        "address": "Tourism Road, across from Cloud 9",
+        "latitude": null,
+        "longitude": null,
+        "sources": {
+          "identity": {
+            "sourceName": "Fin & Fin Beach Shack — venue website",
+            "sourceUrl": "https://finandfin.com/",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "municipality": {
+            "sourceName": "Fin & Fin Beach Shack — venue website",
+            "sourceUrl": "https://finandfin.com/",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "address": {
+            "sourceName": "Fin & Fin Beach Shack — venue website",
+            "sourceUrl": "https://finandfin.com/",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "coordinates": {
+            "sourceName": null,
+            "sourceUrl": null,
+            "dateChecked": null,
+            "status": "unverified"
+          }
+        },
+        "category": "Food & drink",
+        "description": "Fin & Fin is a seafood-focused beach shack across from Cloud 9. Its public offering centers on a tuna smash burger, local seafood and cocktails, making it a dining venue rather than a beach attraction.",
+        "interests": [
+          "Food Hunter"
+        ],
+        "itinerary_base_slug": "siargao",
+        "catalog_stop_id": "siargao-fin-fin",
+        "status": "accepted",
+        "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+        "reviewed_on": "2026-10-22",
+        "planning": {
+          "base_slug": "siargao",
+          "mode": "local",
+          "cluster": "siargao-fin-fin",
+          "minutes": 90,
+          "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+          "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+          "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+          "requiresBooking": false,
+          "scheduling": "candidate",
+          "outdoor": false
+        },
+        "slug": "siargao-fin-fin"
+      },
+      "food": {
+        "placeId": "siargao-fin-fin",
+        "primary": "other-food",
+        "venueType": "restaurant",
+        "suitability": [
+          "meal"
+        ],
+        "specialties": [
+          "seafood",
+          "tuna smash burger"
+        ],
+        "source": {
+          "sourceName": "Fin & Fin Beach Shack — venue website",
+          "sourceUrl": "https://finandfin.com/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "officialUrl": "https://finandfin.com/",
+        "operation": {
+          "basis": "venue-offering",
+          "source": {
+            "sourceName": "Fin & Fin Beach Shack — venue website",
+            "sourceUrl": "https://finandfin.com/",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "limitation": "The public venue page offers this service when reviewed; no live table availability, closure guarantee or independent on-site check."
+        }
+      },
+      "content": {
+        "placeId": "siargao-fin-fin",
+        "summary": "Fin & Fin is a seafood-focused beach shack across from Cloud 9. Its public offering centers on a tuna smash burger, local seafood and cocktails, making it a dining venue rather than a beach attraction.",
+        "overview": [
+          "Fin & Fin is a seafood-focused beach shack across from Cloud 9. Its public offering centers on a tuna smash burger, local seafood and cocktails, making it a dining venue rather than a beach attraction.",
+          "Confirm the current menu and service before travelling. Lakbay has not verified a map pin, meal prices or accessibility for this listing; any itinerary allowance is an estimate."
+        ],
+        "highlights": [
+          {
+            "text": "seafood",
+            "sourceUrls": [
+              "https://finandfin.com/"
+            ]
+          },
+          {
+            "text": "tuna smash burger",
+            "sourceUrls": [
+              "https://finandfin.com/"
+            ]
+          }
+        ],
+        "tips": [],
+        "sources": [
+          {
+            "name": "Fin & Fin Beach Shack — venue website",
+            "url": "https://finandfin.com/",
+            "checkedOn": "2026-10-22",
+            "supports": "Exact venue, municipality and the descriptive food or coffee offering stated above; no verification of prices, accessibility or unsupplied coordinates."
+          }
+        ]
+      },
+      "photoResearch": {
+        "sources": [
+          "https://finandfin.com/",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Fin+%26+Fin+Beach+Shack+General+Luna&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Fin+%26+Fin+Beach+Shack&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=Fin+%26+Fin+Beach+Shack+General+Luna&license=4%2C5%2C9%2C10"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "approved": true,
+      "identityReviewed": true,
+      "operationReviewed": true,
+      "record": {
+        "id": "bohol-overgrown-panglao",
+        "name": "Overgrown Café & Bar — Panglao",
+        "destination_group": "Bohol",
+        "region": "Central Visayas",
+        "province": "Bohol",
+        "city_municipality": "Panglao",
+        "barangay": "Tawala",
+        "address": "Ester A. Lim Drive",
+        "latitude": null,
+        "longitude": null,
+        "sources": {
+          "identity": {
+            "sourceName": "Proprietary — January 2026 Overgrown visit",
+            "sourceUrl": "https://proprietary.tistory.com/975",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "municipality": {
+            "sourceName": "Proprietary — January 2026 Overgrown visit",
+            "sourceUrl": "https://proprietary.tistory.com/975",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "address": {
+            "sourceName": "Proprietary — January 2026 Overgrown visit",
+            "sourceUrl": "https://proprietary.tistory.com/975",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "coordinates": {
+            "sourceName": null,
+            "sourceUrl": null,
+            "dateChecked": null,
+            "status": "unverified"
+          }
+        },
+        "category": "Food & drink",
+        "description": "Overgrown’s Panglao café serves coffee, smoothie bowls and sandwiches on Ester A. Lim Drive. A dated January 2026 visit documents this exact venue, separate from the brand’s Tagbilaran location.",
+        "interests": [
+          "Food Hunter",
+          "Slow Traveler"
+        ],
+        "itinerary_base_slug": "bohol",
+        "catalog_stop_id": "bohol-overgrown-panglao",
+        "status": "accepted",
+        "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+        "reviewed_on": "2026-10-22",
+        "planning": {
+          "base_slug": "bohol",
+          "mode": "local",
+          "cluster": "bohol-overgrown-panglao",
+          "minutes": 60,
+          "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+          "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+          "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+          "requiresBooking": false,
+          "scheduling": "candidate",
+          "outdoor": false
+        },
+        "slug": "bohol-overgrown-panglao"
+      },
+      "food": {
+        "placeId": "bohol-overgrown-panglao",
+        "primary": "cafe",
+        "venueType": "cafe",
+        "suitability": [
+          "coffee",
+          "meal",
+          "breakfast"
+        ],
+        "specialties": [
+          "latte",
+          "smoothie bowls",
+          "sandwiches"
+        ],
+        "source": {
+          "sourceName": "Proprietary — January 2026 Overgrown visit",
+          "sourceUrl": "https://proprietary.tistory.com/975",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "officialUrl": null,
+        "operation": {
+          "basis": "recent-report",
+          "source": {
+            "sourceName": "Trip.com — July 2026 dated visitor reports",
+            "sourceUrl": "https://us.trip.com/restaurant/philippines/panglao-municipality/detail/overgrown-caf-148835995/",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "limitation": "Dated visitor or local reporting supports this venue. Current opening, menu availability and access still need direct confirmation."
+        }
+      },
+      "content": {
+        "placeId": "bohol-overgrown-panglao",
+        "summary": "Overgrown’s Panglao café serves coffee, smoothie bowls and sandwiches on Ester A. Lim Drive. A dated January 2026 visit documents this exact venue, separate from the brand’s Tagbilaran location.",
+        "overview": [
+          "Overgrown’s Panglao café serves coffee, smoothie bowls and sandwiches on Ester A. Lim Drive. A dated January 2026 visit documents this exact venue, separate from the brand’s Tagbilaran location.",
+          "Confirm the current menu and service before travelling. Lakbay has not verified a map pin, meal prices or accessibility for this listing; any itinerary allowance is an estimate."
+        ],
+        "highlights": [
+          {
+            "text": "latte",
+            "sourceUrls": [
+              "https://proprietary.tistory.com/975"
+            ]
+          },
+          {
+            "text": "smoothie bowls",
+            "sourceUrls": [
+              "https://proprietary.tistory.com/975"
+            ]
+          },
+          {
+            "text": "sandwiches",
+            "sourceUrls": [
+              "https://proprietary.tistory.com/975"
+            ]
+          }
+        ],
+        "tips": [],
+        "sources": [
+          {
+            "name": "Proprietary — January 2026 Overgrown visit",
+            "url": "https://proprietary.tistory.com/975",
+            "checkedOn": "2026-10-22",
+            "supports": "Exact venue, municipality and the descriptive food or coffee offering stated above; no verification of prices, accessibility or unsupplied coordinates."
+          }
+        ]
+      },
+      "photoResearch": {
+        "sources": [
+          "https://proprietary.tistory.com/975",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Overgrown+Caf%C3%A9+%26+Bar+Panglao&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Overgrown+Caf%C3%A9+%26+Bar&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=Overgrown+Caf%C3%A9+%26+Bar+Panglao&license=4%2C5%2C9%2C10"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "approved": true,
+      "identityReviewed": true,
+      "operationReviewed": true,
+      "record": {
+        "id": "bohol-mosia-cafe",
+        "name": "Mosia Cafe",
+        "destination_group": "Bohol",
+        "region": "Central Visayas",
+        "province": "Bohol",
+        "city_municipality": "Tagbilaran City",
+        "barangay": "Mansasa",
+        "address": "121 V.P. Inting Avenue",
+        "latitude": null,
+        "longitude": null,
+        "sources": {
+          "identity": {
+            "sourceName": "Philippine Primer — Mosia venue profile",
+            "sourceUrl": "https://primer.com.ph/food/restaurant-type/bakery-and-sweets/mosia-cafe/",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "municipality": {
+            "sourceName": "Philippine Primer — Mosia venue profile",
+            "sourceUrl": "https://primer.com.ph/food/restaurant-type/bakery-and-sweets/mosia-cafe/",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "address": {
+            "sourceName": "Philippine Primer — Mosia venue profile",
+            "sourceUrl": "https://primer.com.ph/food/restaurant-type/bakery-and-sweets/mosia-cafe/",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "coordinates": {
+            "sourceName": null,
+            "sourceUrl": null,
+            "dateChecked": null,
+            "status": "unverified"
+          }
+        },
+        "category": "Food & drink",
+        "description": "Mosia is an artisan café in Tagbilaran’s Mansasa area, with small-batch desserts and a garden setting. Its identity is documented by local reporting; more recent visitor reports describe continuing café visits.",
+        "interests": [
+          "Food Hunter",
+          "Slow Traveler"
+        ],
+        "itinerary_base_slug": "bohol",
+        "catalog_stop_id": "bohol-mosia-cafe",
+        "status": "accepted",
+        "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+        "reviewed_on": "2026-10-22",
+        "planning": {
+          "base_slug": "bohol",
+          "mode": "local",
+          "cluster": "bohol-mosia-cafe",
+          "minutes": 60,
+          "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+          "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+          "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+          "requiresBooking": false,
+          "scheduling": "candidate",
+          "outdoor": false
+        },
+        "slug": "bohol-mosia-cafe"
+      },
+      "food": {
+        "placeId": "bohol-mosia-cafe",
+        "primary": "cafe",
+        "venueType": "cafe",
+        "suitability": [
+          "coffee",
+          "dessert"
+        ],
+        "specialties": [
+          "artisan desserts"
+        ],
+        "source": {
+          "sourceName": "Philippine Primer — Mosia venue profile",
+          "sourceUrl": "https://primer.com.ph/food/restaurant-type/bakery-and-sweets/mosia-cafe/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "officialUrl": null,
+        "operation": {
+          "basis": "recent-report",
+          "source": {
+            "sourceName": "Restaurant Guru — recent dated Mosia visitor reports",
+            "sourceUrl": "https://restaurantguru.com/Mosia-Cupcakes-and-Cookie-Shop-Tagbilaran-City",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "limitation": "Identity and dessert offering retained from the venue profile; 2026 visitor reports provide separate operation evidence. No live opening check or exact current dessert menu."
+        }
+      },
+      "content": {
+        "placeId": "bohol-mosia-cafe",
+        "summary": "Mosia is an artisan café in Tagbilaran’s Mansasa area, with small-batch desserts and a garden setting. Its identity is documented by local reporting; more recent visitor reports describe continuing café visits.",
+        "overview": [
+          "Mosia is an artisan café in Tagbilaran’s Mansasa area, with small-batch desserts and a garden setting. Its identity is documented by local reporting; more recent visitor reports describe continuing café visits.",
+          "Confirm the current menu and service before travelling. Lakbay has not verified a map pin, meal prices or accessibility for this listing; any itinerary allowance is an estimate."
+        ],
+        "highlights": [
+          {
+            "text": "artisan desserts",
+            "sourceUrls": [
+              "https://primer.com.ph/food/restaurant-type/bakery-and-sweets/mosia-cafe/"
+            ]
+          }
+        ],
+        "tips": [],
+        "sources": [
+          {
+            "name": "Philippine Primer — Mosia venue profile",
+            "url": "https://primer.com.ph/food/restaurant-type/bakery-and-sweets/mosia-cafe/",
+            "checkedOn": "2026-10-22",
+            "supports": "Exact venue, municipality and the descriptive food or coffee offering stated above; no verification of prices, accessibility or unsupplied coordinates."
+          }
+        ]
+      },
+      "photoResearch": {
+        "sources": [
+          "https://primer.com.ph/food/restaurant-type/bakery-and-sweets/mosia-cafe/",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Mosia+Cafe+Tagbilaran+City&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Mosia+Cafe&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=Mosia+Cafe+Tagbilaran+City&license=4%2C5%2C9%2C10"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "approved": true,
+      "identityReviewed": true,
+      "operationReviewed": true,
+      "record": {
+        "id": "bohol-slotide-danao",
+        "name": "Slotide Coffee Club",
+        "destination_group": "Bohol",
+        "region": "Central Visayas",
+        "province": "Bohol",
+        "city_municipality": "Panglao",
+        "barangay": "Danao",
+        "address": "Purok 3, Daorong, beside Santa Cruz Chapel",
+        "latitude": null,
+        "longitude": null,
+        "sources": {
+          "identity": {
+            "sourceName": "Slotide business posts — accessible public mirror, April 2026",
+            "sourceUrl": "https://www.findglocal.com/PH/Panglao/677674168759391/slotide-coffee-club",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "municipality": {
+            "sourceName": "Slotide business posts — accessible public mirror, April 2026",
+            "sourceUrl": "https://www.findglocal.com/PH/Panglao/677674168759391/slotide-coffee-club",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "address": {
+            "sourceName": "Slotide business posts — accessible public mirror, April 2026",
+            "sourceUrl": "https://www.findglocal.com/PH/Panglao/677674168759391/slotide-coffee-club",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "coordinates": {
+            "sourceName": null,
+            "sourceUrl": null,
+            "dateChecked": null,
+            "status": "unverified"
+          }
+        },
+        "category": "Food & drink",
+        "description": "Slotide Coffee Club is a Daorong coffee-and-brunch venue beside Santa Cruz Chapel in Danao. April 2026 business posts describe drinks, desserts and meals at this exact Panglao location.",
+        "interests": [
+          "Food Hunter",
+          "Slow Traveler"
+        ],
+        "itinerary_base_slug": "bohol",
+        "catalog_stop_id": "bohol-slotide-danao",
+        "status": "accepted",
+        "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+        "reviewed_on": "2026-10-22",
+        "planning": {
+          "base_slug": "bohol",
+          "mode": "local",
+          "cluster": "bohol-slotide-danao",
+          "minutes": 60,
+          "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+          "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+          "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+          "requiresBooking": false,
+          "scheduling": "candidate",
+          "outdoor": false
+        },
+        "slug": "bohol-slotide-danao"
+      },
+      "food": {
+        "placeId": "bohol-slotide-danao",
+        "primary": "cafe",
+        "venueType": "cafe",
+        "suitability": [
+          "coffee",
+          "meal",
+          "breakfast",
+          "dessert"
+        ],
+        "specialties": [
+          "coffee",
+          "brunch",
+          "desserts"
+        ],
+        "source": {
+          "sourceName": "Slotide business posts — accessible public mirror, April 2026",
+          "sourceUrl": "https://www.findglocal.com/PH/Panglao/677674168759391/slotide-coffee-club",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "officialUrl": null,
+        "operation": {
+          "basis": "recent-report",
+          "source": {
+            "sourceName": "Slotide business posts — accessible public mirror, April 2026",
+            "sourceUrl": "https://www.findglocal.com/PH/Panglao/677674168759391/slotide-coffee-club",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "limitation": "Dated visitor or local reporting supports this venue. Current opening, menu availability and access still need direct confirmation."
+        }
+      },
+      "content": {
+        "placeId": "bohol-slotide-danao",
+        "summary": "Slotide Coffee Club is a Daorong coffee-and-brunch venue beside Santa Cruz Chapel in Danao. April 2026 business posts describe drinks, desserts and meals at this exact Panglao location.",
+        "overview": [
+          "Slotide Coffee Club is a Daorong coffee-and-brunch venue beside Santa Cruz Chapel in Danao. April 2026 business posts describe drinks, desserts and meals at this exact Panglao location.",
+          "Confirm the current menu and service before travelling. Lakbay has not verified a map pin, meal prices or accessibility for this listing; any itinerary allowance is an estimate."
+        ],
+        "highlights": [
+          {
+            "text": "coffee",
+            "sourceUrls": [
+              "https://www.findglocal.com/PH/Panglao/677674168759391/slotide-coffee-club"
+            ]
+          },
+          {
+            "text": "brunch",
+            "sourceUrls": [
+              "https://www.findglocal.com/PH/Panglao/677674168759391/slotide-coffee-club"
+            ]
+          },
+          {
+            "text": "desserts",
+            "sourceUrls": [
+              "https://www.findglocal.com/PH/Panglao/677674168759391/slotide-coffee-club"
+            ]
+          }
+        ],
+        "tips": [],
+        "sources": [
+          {
+            "name": "Slotide business posts — accessible public mirror, April 2026",
+            "url": "https://www.findglocal.com/PH/Panglao/677674168759391/slotide-coffee-club",
+            "checkedOn": "2026-10-22",
+            "supports": "Exact venue, municipality and the descriptive food or coffee offering stated above; no verification of prices, accessibility or unsupplied coordinates."
+          }
+        ]
+      },
+      "photoResearch": {
+        "sources": [
+          "https://www.findglocal.com/PH/Panglao/677674168759391/slotide-coffee-club",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Slotide+Coffee+Club+Panglao&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Slotide+Coffee+Club&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=Slotide+Coffee+Club+Panglao&license=4%2C5%2C9%2C10"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "approved": true,
+      "identityReviewed": true,
+      "operationReviewed": true,
+      "record": {
+        "id": "bohol-smoque-bistro",
+        "name": "Smoque Bistro + Cafe & Bar",
+        "destination_group": "Bohol",
+        "region": "Central Visayas",
+        "province": "Bohol",
+        "city_municipality": "Tagbilaran City",
+        "barangay": "Bool",
+        "address": "Carlos P. Garcia East Avenue",
+        "latitude": null,
+        "longitude": null,
+        "sources": {
+          "identity": {
+            "sourceName": "Zoy to the World — June 2026 Smoque visit",
+            "sourceUrl": "https://www.zoytotheworld.com/blog/bohol-food-trip-smoque-bistro-cafe-and-bar",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "municipality": {
+            "sourceName": "Zoy to the World — June 2026 Smoque visit",
+            "sourceUrl": "https://www.zoytotheworld.com/blog/bohol-food-trip-smoque-bistro-cafe-and-bar",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "address": {
+            "sourceName": "Zoy to the World — June 2026 Smoque visit",
+            "sourceUrl": "https://www.zoytotheworld.com/blog/bohol-food-trip-smoque-bistro-cafe-and-bar",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "coordinates": {
+            "sourceName": null,
+            "sourceUrl": null,
+            "dateChecked": null,
+            "status": "unverified"
+          }
+        },
+        "category": "Food & drink",
+        "description": "Smoque combines a meat-focused bistro with an attached café in Bool, Tagbilaran. A June 2026 visit describes spare ribs, pork belly and cakes; it counts once as a dining venue.",
+        "interests": [
+          "Food Hunter"
+        ],
+        "itinerary_base_slug": "bohol",
+        "catalog_stop_id": "bohol-smoque-bistro",
+        "status": "accepted",
+        "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+        "reviewed_on": "2026-10-22",
+        "planning": {
+          "base_slug": "bohol",
+          "mode": "local",
+          "cluster": "bohol-smoque-bistro",
+          "minutes": 90,
+          "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+          "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+          "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+          "requiresBooking": false,
+          "scheduling": "candidate",
+          "outdoor": false
+        },
+        "slug": "bohol-smoque-bistro"
+      },
+      "food": {
+        "placeId": "bohol-smoque-bistro",
+        "primary": "other-food",
+        "venueType": "restaurant",
+        "suitability": [
+          "meal"
+        ],
+        "specialties": [
+          "smoked meats",
+          "spare ribs",
+          "cakes"
+        ],
+        "source": {
+          "sourceName": "Zoy to the World — June 2026 Smoque visit",
+          "sourceUrl": "https://www.zoytotheworld.com/blog/bohol-food-trip-smoque-bistro-cafe-and-bar",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "officialUrl": null,
+        "operation": {
+          "basis": "recent-report",
+          "source": {
+            "sourceName": "Zoy to the World — June 2026 Smoque visit",
+            "sourceUrl": "https://www.zoytotheworld.com/blog/bohol-food-trip-smoque-bistro-cafe-and-bar",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "limitation": "Dated visitor or local reporting supports this venue. Current opening, menu availability and access still need direct confirmation."
+        }
+      },
+      "content": {
+        "placeId": "bohol-smoque-bistro",
+        "summary": "Smoque combines a meat-focused bistro with an attached café in Bool, Tagbilaran. A June 2026 visit describes spare ribs, pork belly and cakes; it counts once as a dining venue.",
+        "overview": [
+          "Smoque combines a meat-focused bistro with an attached café in Bool, Tagbilaran. A June 2026 visit describes spare ribs, pork belly and cakes; it counts once as a dining venue.",
+          "Confirm the current menu and service before travelling. Lakbay has not verified a map pin, meal prices or accessibility for this listing; any itinerary allowance is an estimate."
+        ],
+        "highlights": [
+          {
+            "text": "smoked meats",
+            "sourceUrls": [
+              "https://www.zoytotheworld.com/blog/bohol-food-trip-smoque-bistro-cafe-and-bar"
+            ]
+          },
+          {
+            "text": "spare ribs",
+            "sourceUrls": [
+              "https://www.zoytotheworld.com/blog/bohol-food-trip-smoque-bistro-cafe-and-bar"
+            ]
+          },
+          {
+            "text": "cakes",
+            "sourceUrls": [
+              "https://www.zoytotheworld.com/blog/bohol-food-trip-smoque-bistro-cafe-and-bar"
+            ]
+          }
+        ],
+        "tips": [],
+        "sources": [
+          {
+            "name": "Zoy to the World — June 2026 Smoque visit",
+            "url": "https://www.zoytotheworld.com/blog/bohol-food-trip-smoque-bistro-cafe-and-bar",
+            "checkedOn": "2026-10-22",
+            "supports": "Exact venue, municipality and the descriptive food or coffee offering stated above; no verification of prices, accessibility or unsupplied coordinates."
+          }
+        ]
+      },
+      "photoResearch": {
+        "sources": [
+          "https://www.zoytotheworld.com/blog/bohol-food-trip-smoque-bistro-cafe-and-bar",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Smoque+Bistro+%2B+Cafe+%26+Bar+Tagbilaran+City&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Smoque+Bistro+%2B+Cafe+%26+Bar&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=Smoque+Bistro+%2B+Cafe+%26+Bar+Tagbilaran+City&license=4%2C5%2C9%2C10"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "approved": true,
+      "identityReviewed": true,
+      "operationReviewed": true,
+      "record": {
+        "id": "bohol-mist-danao",
+        "name": "MIST Cafe and Restaurant",
+        "destination_group": "Bohol",
+        "region": "Central Visayas",
+        "province": "Bohol",
+        "city_municipality": "Panglao",
+        "barangay": "Danao",
+        "address": null,
+        "latitude": null,
+        "longitude": null,
+        "sources": {
+          "identity": {
+            "sourceName": "MIST business posts — accessible public mirror, July 2026",
+            "sourceUrl": "https://www.findglocal.com/PH/Panglao/111216513963698/MIST",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "municipality": {
+            "sourceName": "MIST business posts — accessible public mirror, July 2026",
+            "sourceUrl": "https://www.findglocal.com/PH/Panglao/111216513963698/MIST",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "address": {
+            "sourceName": null,
+            "sourceUrl": null,
+            "dateChecked": null,
+            "status": "unverified"
+          },
+          "coordinates": {
+            "sourceName": null,
+            "sourceUrl": null,
+            "dateChecked": null,
+            "status": "unverified"
+          }
+        },
+        "category": "Food & drink",
+        "description": "MIST is a multi-level restaurant in Danao, Panglao, with timber architecture and greenery. Its July 2026 business posts offer dinner service and identify the exact Bohol venue; it is counted as dining.",
+        "interests": [
+          "Food Hunter"
+        ],
+        "itinerary_base_slug": "bohol",
+        "catalog_stop_id": "bohol-mist-danao",
+        "status": "accepted",
+        "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+        "reviewed_on": "2026-10-22",
+        "planning": {
+          "base_slug": "bohol",
+          "mode": "local",
+          "cluster": "bohol-mist-danao",
+          "minutes": 90,
+          "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+          "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+          "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+          "requiresBooking": false,
+          "scheduling": "candidate",
+          "outdoor": false
+        },
+        "slug": "bohol-mist-danao"
+      },
+      "food": {
+        "placeId": "bohol-mist-danao",
+        "primary": "other-food",
+        "venueType": "restaurant",
+        "suitability": [
+          "meal"
+        ],
+        "specialties": [
+          "dining"
+        ],
+        "source": {
+          "sourceName": "MIST business posts — accessible public mirror, July 2026",
+          "sourceUrl": "https://www.findglocal.com/PH/Panglao/111216513963698/MIST",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "officialUrl": null,
+        "operation": {
+          "basis": "recent-report",
+          "source": {
+            "sourceName": "MIST business posts — accessible public mirror, July 2026",
+            "sourceUrl": "https://www.findglocal.com/PH/Panglao/111216513963698/MIST",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "limitation": "Dated visitor or local reporting supports this venue. Current opening, menu availability and access still need direct confirmation."
+        }
+      },
+      "content": {
+        "placeId": "bohol-mist-danao",
+        "summary": "MIST is a multi-level restaurant in Danao, Panglao, with timber architecture and greenery. Its July 2026 business posts offer dinner service and identify the exact Bohol venue; it is counted as dining.",
+        "overview": [
+          "MIST is a multi-level restaurant in Danao, Panglao, with timber architecture and greenery. Its July 2026 business posts offer dinner service and identify the exact Bohol venue; it is counted as dining.",
+          "Confirm the current menu and service before travelling. Lakbay has not verified a map pin, meal prices or accessibility for this listing; any itinerary allowance is an estimate."
+        ],
+        "highlights": [
+          {
+            "text": "dining",
+            "sourceUrls": [
+              "https://www.findglocal.com/PH/Panglao/111216513963698/MIST"
+            ]
+          }
+        ],
+        "tips": [],
+        "sources": [
+          {
+            "name": "MIST business posts — accessible public mirror, July 2026",
+            "url": "https://www.findglocal.com/PH/Panglao/111216513963698/MIST",
+            "checkedOn": "2026-10-22",
+            "supports": "Exact venue, municipality and the descriptive food or coffee offering stated above; no verification of prices, accessibility or unsupplied coordinates."
+          }
+        ]
+      },
+      "photoResearch": {
+        "sources": [
+          "https://www.findglocal.com/PH/Panglao/111216513963698/MIST",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=MIST+Cafe+and+Restaurant+Panglao&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=MIST+Cafe+and+Restaurant&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=MIST+Cafe+and+Restaurant+Panglao&license=4%2C5%2C9%2C10"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "approved": true,
+      "identityReviewed": true,
+      "operationReviewed": true,
+      "record": {
+        "id": "bohol-tomar-amorita",
+        "name": "Tomar Tapas x Bar — Amorita",
+        "destination_group": "Bohol",
+        "region": "Central Visayas",
+        "province": "Bohol",
+        "city_municipality": "Panglao",
+        "barangay": "Tawala",
+        "address": "Amorita Resort, 1 Ester A. Lim Drive",
+        "latitude": null,
+        "longitude": null,
+        "sources": {
+          "identity": {
+            "sourceName": "Tomar Tapas x Bar — Amorita — venue website",
+            "sourceUrl": "https://www.amoritaresort.com/tomar-menu",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "municipality": {
+            "sourceName": "Tomar Tapas x Bar — Amorita — venue website",
+            "sourceUrl": "https://www.amoritaresort.com/tomar-menu",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "address": {
+            "sourceName": "Tomar Tapas x Bar — Amorita — venue website",
+            "sourceUrl": "https://www.amoritaresort.com/tomar-menu",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "coordinates": {
+            "sourceName": null,
+            "sourceUrl": null,
+            "dateChecked": null,
+            "status": "unverified"
+          }
+        },
+        "category": "Food & drink",
+        "description": "Tomar serves Spanish tapas, rice dishes and seafood at Amorita Resort. Its published menu includes gambas al ajillo, seafood paella and churros; it remains separate from the resort’s other named restaurants.",
+        "interests": [
+          "Food Hunter"
+        ],
+        "itinerary_base_slug": "bohol",
+        "catalog_stop_id": "bohol-tomar-amorita",
+        "status": "accepted",
+        "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+        "reviewed_on": "2026-10-22",
+        "planning": {
+          "base_slug": "bohol",
+          "mode": "local",
+          "cluster": "bohol-tomar-amorita",
+          "minutes": 90,
+          "booking": "Ask Amorita about restaurant-patron access and reservations. A resort room or restaurant table is not booked by adding this venue.",
+          "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+          "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+          "requiresBooking": false,
+          "scheduling": "candidate",
+          "outdoor": false
+        },
+        "slug": "bohol-tomar-amorita"
+      },
+      "food": {
+        "placeId": "bohol-tomar-amorita",
+        "primary": "other-food",
+        "venueType": "restaurant",
+        "suitability": [
+          "meal"
+        ],
+        "specialties": [
+          "Spanish",
+          "tapas",
+          "seafood paella"
+        ],
+        "source": {
+          "sourceName": "Tomar Tapas x Bar — Amorita — venue website",
+          "sourceUrl": "https://www.amoritaresort.com/tomar-menu",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "officialUrl": "https://www.amoritaresort.com/tomar-menu",
+        "operation": {
+          "basis": "venue-offering",
+          "source": {
+            "sourceName": "Tomar Tapas x Bar — Amorita — venue website",
+            "sourceUrl": "https://www.amoritaresort.com/tomar-menu",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "limitation": "The public venue page offers this service when reviewed; no live table availability, closure guarantee or independent on-site check."
+        }
+      },
+      "content": {
+        "placeId": "bohol-tomar-amorita",
+        "summary": "Tomar serves Spanish tapas, rice dishes and seafood at Amorita Resort. Its published menu includes gambas al ajillo, seafood paella and churros; it remains separate from the resort’s other named restaurants.",
+        "overview": [
+          "Tomar serves Spanish tapas, rice dishes and seafood at Amorita Resort. Its published menu includes gambas al ajillo, seafood paella and churros; it remains separate from the resort’s other named restaurants.",
+          "Confirm the current menu and service before travelling. Lakbay has not verified a map pin, meal prices or accessibility for this listing; any itinerary allowance is an estimate."
+        ],
+        "highlights": [
+          {
+            "text": "Spanish",
+            "sourceUrls": [
+              "https://www.amoritaresort.com/tomar-menu"
+            ]
+          },
+          {
+            "text": "tapas",
+            "sourceUrls": [
+              "https://www.amoritaresort.com/tomar-menu"
+            ]
+          },
+          {
+            "text": "seafood paella",
+            "sourceUrls": [
+              "https://www.amoritaresort.com/tomar-menu"
+            ]
+          }
+        ],
+        "tips": [],
+        "sources": [
+          {
+            "name": "Tomar Tapas x Bar — Amorita — venue website",
+            "url": "https://www.amoritaresort.com/tomar-menu",
+            "checkedOn": "2026-10-22",
+            "supports": "Exact venue, municipality and the descriptive food or coffee offering stated above; no verification of prices, accessibility or unsupplied coordinates."
+          }
+        ]
+      },
+      "photoResearch": {
+        "sources": [
+          "https://www.amoritaresort.com/tomar-menu",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Tomar+Tapas+x+Bar+Panglao&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Tomar+Tapas+x+Bar&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=Tomar+Tapas+x+Bar+Panglao&license=4%2C5%2C9%2C10"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "approved": true,
+      "identityReviewed": true,
+      "operationReviewed": true,
+      "record": {
+        "id": "baguio-rebel-irisan",
+        "name": "Rebel Bakehouse — Irisan",
+        "destination_group": "Baguio",
+        "region": "Cordillera Administrative Region",
+        "province": null,
+        "city_municipality": "Baguio City",
+        "barangay": "Irisan",
+        "address": null,
+        "latitude": null,
+        "longitude": null,
+        "sources": {
+          "identity": {
+            "sourceName": "Simpol — August 2026 Irisan flagship visit",
+            "sourceUrl": "https://www.simpol.ph/at-rebel-bakehouse-baguios-best-pastries-come-with-a-sense-of-place/",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "municipality": {
+            "sourceName": "Simpol — August 2026 Irisan flagship visit",
+            "sourceUrl": "https://www.simpol.ph/at-rebel-bakehouse-baguios-best-pastries-come-with-a-sense-of-place/",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "address": {
+            "sourceName": null,
+            "sourceUrl": null,
+            "dateChecked": null,
+            "status": "unverified"
+          },
+          "coordinates": {
+            "sourceName": null,
+            "sourceUrl": null,
+            "dateChecked": null,
+            "status": "unverified"
+          }
+        },
+        "category": "Food & drink",
+        "description": "Rebel’s Irisan flagship combines an open bakery with a coffee bar. August 2026 reporting describes butter and almond croissants and pain au chocolat, distinguishing this venue from the brand’s cathedral and Bell House branches.",
+        "interests": [
+          "Food Hunter",
+          "Slow Traveler"
+        ],
+        "itinerary_base_slug": "baguio",
+        "catalog_stop_id": "baguio-rebel-irisan",
+        "status": "accepted",
+        "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+        "reviewed_on": "2026-10-22",
+        "planning": {
+          "base_slug": "baguio",
+          "mode": "local",
+          "cluster": "baguio-rebel-irisan",
+          "minutes": 60,
+          "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+          "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+          "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+          "requiresBooking": false,
+          "scheduling": "candidate",
+          "outdoor": false
+        },
+        "slug": "baguio-rebel-irisan"
+      },
+      "food": {
+        "placeId": "baguio-rebel-irisan",
+        "primary": "cafe",
+        "venueType": "bakery",
+        "suitability": [
+          "coffee",
+          "bakery"
+        ],
+        "specialties": [
+          "croissants",
+          "pain au chocolat"
+        ],
+        "source": {
+          "sourceName": "Simpol — August 2026 Irisan flagship visit",
+          "sourceUrl": "https://www.simpol.ph/at-rebel-bakehouse-baguios-best-pastries-come-with-a-sense-of-place/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "officialUrl": null,
+        "operation": {
+          "basis": "recent-report",
+          "source": {
+            "sourceName": "Simpol — August 2026 Irisan flagship visit",
+            "sourceUrl": "https://www.simpol.ph/at-rebel-bakehouse-baguios-best-pastries-come-with-a-sense-of-place/",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "limitation": "Dated visitor or local reporting supports this venue. Current opening, menu availability and access still need direct confirmation."
+        }
+      },
+      "content": {
+        "placeId": "baguio-rebel-irisan",
+        "summary": "Rebel’s Irisan flagship combines an open bakery with a coffee bar. August 2026 reporting describes butter and almond croissants and pain au chocolat, distinguishing this venue from the brand’s cathedral and Bell House branches.",
+        "overview": [
+          "Rebel’s Irisan flagship combines an open bakery with a coffee bar. August 2026 reporting describes butter and almond croissants and pain au chocolat, distinguishing this venue from the brand’s cathedral and Bell House branches.",
+          "Confirm the current menu and service before travelling. Lakbay has not verified a map pin, meal prices or accessibility for this listing; any itinerary allowance is an estimate."
+        ],
+        "highlights": [
+          {
+            "text": "croissants",
+            "sourceUrls": [
+              "https://www.simpol.ph/at-rebel-bakehouse-baguios-best-pastries-come-with-a-sense-of-place/"
+            ]
+          },
+          {
+            "text": "pain au chocolat",
+            "sourceUrls": [
+              "https://www.simpol.ph/at-rebel-bakehouse-baguios-best-pastries-come-with-a-sense-of-place/"
+            ]
+          }
+        ],
+        "tips": [],
+        "sources": [
+          {
+            "name": "Simpol — August 2026 Irisan flagship visit",
+            "url": "https://www.simpol.ph/at-rebel-bakehouse-baguios-best-pastries-come-with-a-sense-of-place/",
+            "checkedOn": "2026-10-22",
+            "supports": "Exact venue, municipality and the descriptive food or coffee offering stated above; no verification of prices, accessibility or unsupplied coordinates."
+          }
+        ]
+      },
+      "photoResearch": {
+        "sources": [
+          "https://www.simpol.ph/at-rebel-bakehouse-baguios-best-pastries-come-with-a-sense-of-place/",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Rebel+Bakehouse+Baguio+City&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Rebel+Bakehouse&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=Rebel+Bakehouse+Baguio+City&license=4%2C5%2C9%2C10"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "approved": true,
+      "identityReviewed": true,
+      "operationReviewed": true,
+      "record": {
+        "id": "baguio-hatch-easter",
+        "name": "Hatch Coffee — Easter Road",
+        "destination_group": "Baguio",
+        "region": "Cordillera Administrative Region",
+        "province": null,
+        "city_municipality": "Baguio City",
+        "barangay": null,
+        "address": null,
+        "latitude": null,
+        "longitude": null,
+        "sources": {
+          "identity": {
+            "sourceName": "Simpol — August 2026 Hatch café reporting",
+            "sourceUrl": "https://www.simpol.ph/the-baguio-cafe-where-coffee-and-memories-take-root/",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "municipality": {
+            "sourceName": "Simpol — August 2026 Hatch café reporting",
+            "sourceUrl": "https://www.simpol.ph/the-baguio-cafe-where-coffee-and-memories-take-root/",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "address": {
+            "sourceName": null,
+            "sourceUrl": null,
+            "dateChecked": null,
+            "status": "unverified"
+          },
+          "coordinates": {
+            "sourceName": null,
+            "sourceUrl": null,
+            "dateChecked": null,
+            "status": "unverified"
+          }
+        },
+        "category": "Food & drink",
+        "description": "Hatch is a Baguio neighborhood café serving coffee and comfort food in a garden setting. August 2026 reporting documents its café offering; the Easter Road branch is distinguished from newer city locations.",
+        "interests": [
+          "Food Hunter",
+          "Slow Traveler"
+        ],
+        "itinerary_base_slug": "baguio",
+        "catalog_stop_id": "baguio-hatch-easter",
+        "status": "accepted",
+        "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+        "reviewed_on": "2026-10-22",
+        "planning": {
+          "base_slug": "baguio",
+          "mode": "local",
+          "cluster": "baguio-hatch-easter",
+          "minutes": 60,
+          "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+          "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+          "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+          "requiresBooking": false,
+          "scheduling": "manual",
+          "outdoor": false
+        },
+        "slug": "baguio-hatch-easter"
+      },
+      "food": {
+        "placeId": "baguio-hatch-easter",
+        "primary": "cafe",
+        "venueType": "cafe",
+        "suitability": [
+          "coffee",
+          "meal"
+        ],
+        "specialties": [
+          "coffee",
+          "comfort food"
+        ],
+        "source": {
+          "sourceName": "Simpol — August 2026 Hatch café reporting",
+          "sourceUrl": "https://www.simpol.ph/the-baguio-cafe-where-coffee-and-memories-take-root/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "officialUrl": null,
+        "operation": {
+          "basis": "recent-report",
+          "source": {
+            "sourceName": "Simpol — August 2026 Hatch café reporting",
+            "sourceUrl": "https://www.simpol.ph/the-baguio-cafe-where-coffee-and-memories-take-root/",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "limitation": "Dated visitor or local reporting supports this venue. Current opening, menu availability and access still need direct confirmation."
+        }
+      },
+      "content": {
+        "placeId": "baguio-hatch-easter",
+        "summary": "Hatch is a Baguio neighborhood café serving coffee and comfort food in a garden setting. August 2026 reporting documents its café offering; the Easter Road branch is distinguished from newer city locations.",
+        "overview": [
+          "Hatch is a Baguio neighborhood café serving coffee and comfort food in a garden setting. August 2026 reporting documents its café offering; the Easter Road branch is distinguished from newer city locations.",
+          "The August 2026 article explicitly identifies Easter Road. Confirm the entrance and service window; a map pin and daily opening interval have not been independently checked."
+        ],
+        "highlights": [
+          {
+            "text": "coffee",
+            "sourceUrls": [
+              "https://www.simpol.ph/the-baguio-cafe-where-coffee-and-memories-take-root/"
+            ]
+          },
+          {
+            "text": "comfort food",
+            "sourceUrls": [
+              "https://www.simpol.ph/the-baguio-cafe-where-coffee-and-memories-take-root/"
+            ]
+          }
+        ],
+        "tips": [],
+        "sources": [
+          {
+            "name": "Simpol — August 2026 Hatch café reporting",
+            "url": "https://www.simpol.ph/the-baguio-cafe-where-coffee-and-memories-take-root/",
+            "checkedOn": "2026-10-22",
+            "supports": "Exact venue, municipality and the descriptive food or coffee offering stated above; no verification of prices, accessibility or unsupplied coordinates."
+          }
+        ]
+      },
+      "photoResearch": {
+        "sources": [
+          "https://www.simpol.ph/the-baguio-cafe-where-coffee-and-memories-take-root/",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Hatch+Coffee+Baguio+City&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Hatch+Coffee&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=Hatch+Coffee+Baguio+City&license=4%2C5%2C9%2C10",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=%22Hatch+Coffee%22&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "approved": true,
+      "identityReviewed": true,
+      "operationReviewed": true,
+      "record": {
+        "id": "baguio-foam-legarda",
+        "name": "Foam Coffee — Legarda",
+        "destination_group": "Baguio",
+        "region": "Cordillera Administrative Region",
+        "province": null,
+        "city_municipality": "Baguio City",
+        "barangay": null,
+        "address": "15 Bukaneg Street",
+        "latitude": null,
+        "longitude": null,
+        "sources": {
+          "identity": {
+            "sourceName": "Foam Coffee — Legarda — venue website",
+            "sourceUrl": "https://www.foamcoffeeph.com/",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "municipality": {
+            "sourceName": "Foam Coffee — Legarda — venue website",
+            "sourceUrl": "https://www.foamcoffeeph.com/",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "address": {
+            "sourceName": "Foam Coffee — Legarda — venue website",
+            "sourceUrl": "https://www.foamcoffeeph.com/",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "coordinates": {
+            "sourceName": null,
+            "sourceUrl": null,
+            "dateChecked": null,
+            "status": "unverified"
+          }
+        },
+        "category": "Food & drink",
+        "description": "Foam’s Legarda-area branch is at 15 Bukaneg Street. The operator offers coffee, pastries and Asian-fusion meals; this listing counts one Baguio branch rather than every branch in its growing network.",
+        "interests": [
+          "Food Hunter",
+          "Slow Traveler"
+        ],
+        "itinerary_base_slug": "baguio",
+        "catalog_stop_id": "baguio-foam-legarda",
+        "status": "accepted",
+        "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+        "reviewed_on": "2026-10-22",
+        "planning": {
+          "base_slug": "baguio",
+          "mode": "local",
+          "cluster": "baguio-foam-legarda",
+          "minutes": 60,
+          "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+          "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+          "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+          "requiresBooking": false,
+          "scheduling": "candidate",
+          "outdoor": false
+        },
+        "slug": "baguio-foam-legarda"
+      },
+      "food": {
+        "placeId": "baguio-foam-legarda",
+        "primary": "cafe",
+        "venueType": "cafe",
+        "suitability": [
+          "coffee",
+          "meal",
+          "bakery",
+          "breakfast"
+        ],
+        "specialties": [
+          "coffee",
+          "pastries",
+          "Asian fusion"
+        ],
+        "source": {
+          "sourceName": "Foam Coffee — Legarda — venue website",
+          "sourceUrl": "https://www.foamcoffeeph.com/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "officialUrl": "https://www.foamcoffeeph.com/",
+        "operation": {
+          "basis": "venue-offering",
+          "source": {
+            "sourceName": "Foam Coffee — Legarda — venue website",
+            "sourceUrl": "https://www.foamcoffeeph.com/",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "limitation": "The public venue page offers this service when reviewed; no live table availability, closure guarantee or independent on-site check."
+        }
+      },
+      "content": {
+        "placeId": "baguio-foam-legarda",
+        "summary": "Foam’s Legarda-area branch is at 15 Bukaneg Street. The operator offers coffee, pastries and Asian-fusion meals; this listing counts one Baguio branch rather than every branch in its growing network.",
+        "overview": [
+          "Foam’s Legarda-area branch is at 15 Bukaneg Street. The operator offers coffee, pastries and Asian-fusion meals; this listing counts one Baguio branch rather than every branch in its growing network.",
+          "The website footer contains a placeholder phone number; it is not published here. Late-night hours cross midnight and are not encoded as a same-day interval."
+        ],
+        "highlights": [
+          {
+            "text": "coffee",
+            "sourceUrls": [
+              "https://www.foamcoffeeph.com/"
+            ]
+          },
+          {
+            "text": "pastries",
+            "sourceUrls": [
+              "https://www.foamcoffeeph.com/"
+            ]
+          },
+          {
+            "text": "Asian fusion",
+            "sourceUrls": [
+              "https://www.foamcoffeeph.com/"
+            ]
+          }
+        ],
+        "tips": [],
+        "sources": [
+          {
+            "name": "Foam Coffee — Legarda — venue website",
+            "url": "https://www.foamcoffeeph.com/",
+            "checkedOn": "2026-10-22",
+            "supports": "Exact venue, municipality and the descriptive food or coffee offering stated above; no verification of prices, accessibility or unsupplied coordinates."
+          }
+        ]
+      },
+      "photoResearch": {
+        "sources": [
+          "https://www.foamcoffeeph.com/",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Foam+Coffee+Baguio+City&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Foam+Coffee&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=Foam+Coffee+Baguio+City&license=4%2C5%2C9%2C10"
+        ],
+        "outcome": "Individual license, identity and visual review approved; published separately through the optimized image pipeline.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "approved": true,
+      "identityReviewed": true,
+      "operationReviewed": true,
+      "record": {
+        "id": "baguio-hot-cat-yangco",
+        "name": "Hot Cat Specialty Coffee — Yangco",
+        "destination_group": "Baguio",
+        "region": "Cordillera Administrative Region",
+        "province": null,
+        "city_municipality": "Baguio City",
+        "barangay": null,
+        "address": "Yangco Road",
+        "latitude": null,
+        "longitude": null,
+        "sources": {
+          "identity": {
+            "sourceName": "Philippine Information Agency — February 2026 Hot Cat staff and visitor interviews",
+            "sourceUrl": "https://pia.gov.ph/news/hot-cat-cafe-silungan-ng-mga-pusang-gala/",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "municipality": {
+            "sourceName": "Philippine Information Agency — February 2026 Hot Cat staff and visitor interviews",
+            "sourceUrl": "https://pia.gov.ph/news/hot-cat-cafe-silungan-ng-mga-pusang-gala/",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "address": {
+            "sourceName": "Philippine Information Agency — February 2026 Hot Cat staff and visitor interviews",
+            "sourceUrl": "https://pia.gov.ph/news/hot-cat-cafe-silungan-ng-mga-pusang-gala/",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "coordinates": {
+            "sourceName": null,
+            "sourceUrl": null,
+            "dateChecked": null,
+            "status": "unverified"
+          }
+        },
+        "category": "Food & drink",
+        "description": "Hot Cat is a Yangco Road coffee venue whose barista and coffee roaster were interviewed by the Philippine Information Agency in February 2026. The café also cares for stray cats while they await adoption.",
+        "interests": [
+          "Food Hunter",
+          "Slow Traveler"
+        ],
+        "itinerary_base_slug": "baguio",
+        "catalog_stop_id": "baguio-hot-cat-yangco",
+        "status": "accepted",
+        "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+        "reviewed_on": "2026-10-22",
+        "planning": {
+          "base_slug": "baguio",
+          "mode": "local",
+          "cluster": "baguio-hot-cat-yangco",
+          "minutes": 60,
+          "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+          "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+          "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+          "requiresBooking": false,
+          "scheduling": "manual",
+          "outdoor": false
+        },
+        "slug": "baguio-hot-cat-yangco"
+      },
+      "food": {
+        "placeId": "baguio-hot-cat-yangco",
+        "primary": "cafe",
+        "venueType": "cafe",
+        "suitability": [
+          "coffee"
+        ],
+        "specialties": [
+          "coffee"
+        ],
+        "source": {
+          "sourceName": "Philippine Information Agency — February 2026 Hot Cat staff and visitor interviews",
+          "sourceUrl": "https://pia.gov.ph/news/hot-cat-cafe-silungan-ng-mga-pusang-gala/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "officialUrl": null,
+        "operation": {
+          "basis": "recent-report",
+          "source": {
+            "sourceName": "Philippine Information Agency — February 2026 Hot Cat staff and visitor interviews",
+            "sourceUrl": "https://pia.gov.ph/news/hot-cat-cafe-silungan-ng-mga-pusang-gala/",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "limitation": "February 2026 staff and visitor interviews establish the named Yangco Road café. No current meal menu, entrance pin or opening hours were established; manual scheduling pending confirmation."
+        }
+      },
+      "content": {
+        "placeId": "baguio-hot-cat-yangco",
+        "summary": "Hot Cat is a Yangco Road coffee venue whose barista and coffee roaster were interviewed by the Philippine Information Agency in February 2026. The café also cares for stray cats while they await adoption.",
+        "overview": [
+          "Hot Cat is a Yangco Road coffee venue whose barista and coffee roaster were interviewed by the Philippine Information Agency in February 2026. The café also cares for stray cats while they await adoption.",
+          "Confirm the current service window and exact entrance. No meal suitability, prices, accessibility or map pin is inferred from the café name."
+        ],
+        "highlights": [
+          {
+            "text": "coffee",
+            "sourceUrls": [
+              "https://pia.gov.ph/news/hot-cat-cafe-silungan-ng-mga-pusang-gala/"
+            ]
+          }
+        ],
+        "tips": [],
+        "sources": [
+          {
+            "name": "Philippine Information Agency — February 2026 Hot Cat staff and visitor interviews",
+            "url": "https://pia.gov.ph/news/hot-cat-cafe-silungan-ng-mga-pusang-gala/",
+            "checkedOn": "2026-10-22",
+            "supports": "Yangco Road venue, Baguio City, coffee roasting and February 2026 staff/visitor interviews; no reusable photo permission inferred."
+          }
+        ]
+      },
+      "photoResearch": {
+        "sources": [
+          "https://pia.gov.ph/news/hot-cat-cafe-silungan-ng-mga-pusang-gala/",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Hot+Cat+Specialty+Coffee+Baguio+City&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Hot+Cat+Specialty+Coffee&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=Hot+Cat+Specialty+Coffee+Baguio+City&license=4%2C5%2C9%2C10",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=%22Hot+Cat%22+%22Baguio%22&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "approved": true,
+      "identityReviewed": true,
+      "operationReviewed": true,
+      "record": {
+        "id": "baguio-cafe-by-ruins",
+        "name": "Café by the Ruins — Shuntug",
+        "destination_group": "Baguio",
+        "region": "Cordillera Administrative Region",
+        "province": null,
+        "city_municipality": "Baguio City",
+        "barangay": null,
+        "address": "25 Shuntug Road",
+        "latitude": null,
+        "longitude": null,
+        "sources": {
+          "identity": {
+            "sourceName": "Café by the Ruins business posts — September 2026 public mirror",
+            "sourceUrl": "https://www.findglocal.com/PH/Baguio-City/38813861009/Cafe-By-The-Ruins",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "municipality": {
+            "sourceName": "Café by the Ruins business posts — September 2026 public mirror",
+            "sourceUrl": "https://www.findglocal.com/PH/Baguio-City/38813861009/Cafe-By-The-Ruins",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "address": {
+            "sourceName": "Café by the Ruins business posts — September 2026 public mirror",
+            "sourceUrl": "https://www.findglocal.com/PH/Baguio-City/38813861009/Cafe-By-The-Ruins",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "coordinates": {
+            "sourceName": null,
+            "sourceUrl": null,
+            "dateChecked": null,
+            "status": "unverified"
+          }
+        },
+        "category": "Food & drink",
+        "description": "Café by the Ruins is the Shuntug Road café-restaurant known for regional ingredients and baked goods. September 2026 business posts offer ensaymada with Rizal chocolate and confirm the named city-hall-area venue.",
+        "interests": [
+          "Food Hunter",
+          "Slow Traveler"
+        ],
+        "itinerary_base_slug": "baguio",
+        "catalog_stop_id": "baguio-cafe-by-ruins",
+        "status": "accepted",
+        "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+        "reviewed_on": "2026-10-22",
+        "planning": {
+          "base_slug": "baguio",
+          "mode": "local",
+          "cluster": "baguio-cafe-by-ruins",
+          "minutes": 60,
+          "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+          "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+          "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+          "requiresBooking": false,
+          "scheduling": "candidate",
+          "outdoor": false
+        },
+        "slug": "baguio-cafe-by-ruins"
+      },
+      "food": {
+        "placeId": "baguio-cafe-by-ruins",
+        "primary": "cafe",
+        "venueType": "cafe",
+        "suitability": [
+          "coffee",
+          "meal",
+          "bakery",
+          "dessert"
+        ],
+        "specialties": [
+          "ensaymada",
+          "Rizal chocolate",
+          "regional ingredients"
+        ],
+        "source": {
+          "sourceName": "Café by the Ruins business posts — September 2026 public mirror",
+          "sourceUrl": "https://www.findglocal.com/PH/Baguio-City/38813861009/Cafe-By-The-Ruins",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "officialUrl": null,
+        "operation": {
+          "basis": "recent-report",
+          "source": {
+            "sourceName": "Café by the Ruins business posts — September 2026 public mirror",
+            "sourceUrl": "https://www.findglocal.com/PH/Baguio-City/38813861009/Cafe-By-The-Ruins",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "limitation": "Dated visitor or local reporting supports this venue. Current opening, menu availability and access still need direct confirmation."
+        }
+      },
+      "content": {
+        "placeId": "baguio-cafe-by-ruins",
+        "summary": "Café by the Ruins is the Shuntug Road café-restaurant known for regional ingredients and baked goods. September 2026 business posts offer ensaymada with Rizal chocolate and confirm the named city-hall-area venue.",
+        "overview": [
+          "Café by the Ruins is the Shuntug Road café-restaurant known for regional ingredients and baked goods. September 2026 business posts offer ensaymada with Rizal chocolate and confirm the named city-hall-area venue.",
+          "Confirm the current menu and service before travelling. Lakbay has not verified a map pin, meal prices or accessibility for this listing; any itinerary allowance is an estimate."
+        ],
+        "highlights": [
+          {
+            "text": "ensaymada",
+            "sourceUrls": [
+              "https://www.findglocal.com/PH/Baguio-City/38813861009/Cafe-By-The-Ruins"
+            ]
+          },
+          {
+            "text": "Rizal chocolate",
+            "sourceUrls": [
+              "https://www.findglocal.com/PH/Baguio-City/38813861009/Cafe-By-The-Ruins"
+            ]
+          },
+          {
+            "text": "regional ingredients",
+            "sourceUrls": [
+              "https://www.findglocal.com/PH/Baguio-City/38813861009/Cafe-By-The-Ruins"
+            ]
+          }
+        ],
+        "tips": [],
+        "sources": [
+          {
+            "name": "Café by the Ruins business posts — September 2026 public mirror",
+            "url": "https://www.findglocal.com/PH/Baguio-City/38813861009/Cafe-By-The-Ruins",
+            "checkedOn": "2026-10-22",
+            "supports": "Exact venue, municipality and the descriptive food or coffee offering stated above; no verification of prices, accessibility or unsupplied coordinates."
+          }
+        ]
+      },
+      "photoResearch": {
+        "sources": [
+          "https://www.findglocal.com/PH/Baguio-City/38813861009/Cafe-By-The-Ruins",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Caf%C3%A9+by+the+Ruins+Baguio+City&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Caf%C3%A9+by+the+Ruins&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=Caf%C3%A9+by+the+Ruins+Baguio+City&license=4%2C5%2C9%2C10",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=%22Cafe+by+the+Ruins%22&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "approved": true,
+      "identityReviewed": true,
+      "operationReviewed": true,
+      "record": {
+        "id": "batanes-cafe-du-tukon",
+        "name": "Café du Tukon",
+        "destination_group": "Batanes",
+        "region": "Cagayan Valley",
+        "province": "Batanes",
+        "city_municipality": "Basco",
+        "barangay": null,
+        "address": null,
+        "latitude": null,
+        "longitude": null,
+        "sources": {
+          "identity": {
+            "sourceName": "Café du Tukon — venue website",
+            "sourceUrl": "https://fundacionpacita.com/cafe.html",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "municipality": {
+            "sourceName": "Café du Tukon — venue website",
+            "sourceUrl": "https://fundacionpacita.com/cafe.html",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "address": {
+            "sourceName": null,
+            "sourceUrl": null,
+            "dateChecked": null,
+            "status": "unverified"
+          },
+          "coordinates": {
+            "sourceName": null,
+            "sourceUrl": null,
+            "dateChecked": null,
+            "status": "unverified"
+          }
+        },
+        "category": "Food & drink",
+        "description": "Café du Tukon highlights Ivatan ingredients supplied by local farmers and fishing communities at Fundacion Pacita. Its seasonal cooking reflects island produce; confirm the available menu and dining arrangements directly.",
+        "interests": [
+          "Food Hunter",
+          "Slow Traveler"
+        ],
+        "itinerary_base_slug": "batanes",
+        "catalog_stop_id": "batanes-cafe-du-tukon",
+        "status": "accepted",
+        "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+        "reviewed_on": "2026-10-22",
+        "planning": {
+          "base_slug": "batanes",
+          "mode": "local",
+          "cluster": "batanes-cafe-du-tukon",
+          "minutes": 60,
+          "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+          "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+          "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+          "requiresBooking": false,
+          "scheduling": "manual",
+          "outdoor": false
+        },
+        "slug": "batanes-cafe-du-tukon"
+      },
+      "food": {
+        "placeId": "batanes-cafe-du-tukon",
+        "primary": "cafe",
+        "venueType": "cafe",
+        "suitability": [
+          "meal"
+        ],
+        "specialties": [
+          "Ivatan",
+          "seasonal produce"
+        ],
+        "source": {
+          "sourceName": "Café du Tukon — venue website",
+          "sourceUrl": "https://fundacionpacita.com/cafe.html",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "officialUrl": "https://fundacionpacita.com/cafe.html",
+        "operation": {
+          "basis": "current-guide",
+          "source": {
+            "sourceName": "DOT Region 2 — accreditation register, validity through August 2027",
+            "sourceUrl": "https://sites.google.com/view/dotregion2accreditedtourisment/secondary-tourism-enterprises/restaurant",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "limitation": "Venue offering and DOT accreditation register reviewed. Accreditation is not proof of present table availability, hours or visitor access."
+        }
+      },
+      "content": {
+        "placeId": "batanes-cafe-du-tukon",
+        "summary": "Café du Tukon highlights Ivatan ingredients supplied by local farmers and fishing communities at Fundacion Pacita. Its seasonal cooking reflects island produce; confirm the available menu and dining arrangements directly.",
+        "overview": [
+          "Café du Tukon highlights Ivatan ingredients supplied by local farmers and fishing communities at Fundacion Pacita. Its seasonal cooking reflects island produce; confirm the available menu and dining arrangements directly.",
+          "Confirm the current menu and service before travelling. Lakbay has not verified a map pin, meal prices or accessibility for this listing; any itinerary allowance is an estimate."
+        ],
+        "highlights": [
+          {
+            "text": "Ivatan",
+            "sourceUrls": [
+              "https://fundacionpacita.com/cafe.html"
+            ]
+          },
+          {
+            "text": "seasonal produce",
+            "sourceUrls": [
+              "https://fundacionpacita.com/cafe.html"
+            ]
+          }
+        ],
+        "tips": [],
+        "sources": [
+          {
+            "name": "Café du Tukon — venue website",
+            "url": "https://fundacionpacita.com/cafe.html",
+            "checkedOn": "2026-10-22",
+            "supports": "Exact venue, municipality and the descriptive food or coffee offering stated above; no verification of prices, accessibility or unsupplied coordinates."
+          }
+        ]
+      },
+      "photoResearch": {
+        "sources": [
+          "https://fundacionpacita.com/cafe.html",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Caf%C3%A9+du+Tukon+Basco&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Caf%C3%A9+du+Tukon&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=Caf%C3%A9+du+Tukon+Basco&license=4%2C5%2C9%2C10"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "approved": true,
+      "identityReviewed": true,
+      "operationReviewed": true,
+      "record": {
+        "id": "batanes-bunkers-bistro",
+        "name": "Bunkers Bistro",
+        "destination_group": "Batanes",
+        "region": "Cagayan Valley",
+        "province": "Batanes",
+        "city_municipality": "Basco",
+        "barangay": null,
+        "address": null,
+        "latitude": null,
+        "longitude": null,
+        "sources": {
+          "identity": {
+            "sourceName": "DOT Region 2 — restaurant accreditation register",
+            "sourceUrl": "https://sites.google.com/view/dotregion2accreditedtourisment/secondary-tourism-enterprises/restaurant",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "municipality": {
+            "sourceName": "DOT Region 2 — restaurant accreditation register",
+            "sourceUrl": "https://sites.google.com/view/dotregion2accreditedtourisment/secondary-tourism-enterprises/restaurant",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "address": {
+            "sourceName": null,
+            "sourceUrl": null,
+            "dateChecked": null,
+            "status": "unverified"
+          },
+          "coordinates": {
+            "sourceName": null,
+            "sourceUrl": null,
+            "dateChecked": null,
+            "status": "unverified"
+          }
+        },
+        "category": "Food & drink",
+        "description": "Bunkers Bistro is a named Basco dining establishment in the DOT Region 2 restaurant register. Its accreditation is listed through January 2027; the exact menu and opening schedule remain unverified.",
+        "interests": [
+          "Food Hunter"
+        ],
+        "itinerary_base_slug": "batanes",
+        "catalog_stop_id": "batanes-bunkers-bistro",
+        "status": "accepted",
+        "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+        "reviewed_on": "2026-10-22",
+        "planning": {
+          "base_slug": "batanes",
+          "mode": "local",
+          "cluster": "batanes-bunkers-bistro",
+          "minutes": 90,
+          "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+          "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+          "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+          "requiresBooking": false,
+          "scheduling": "manual",
+          "outdoor": false
+        },
+        "slug": "batanes-bunkers-bistro"
+      },
+      "food": {
+        "placeId": "batanes-bunkers-bistro",
+        "primary": "other-food",
+        "venueType": "restaurant",
+        "suitability": [
+          "meal"
+        ],
+        "specialties": [],
+        "source": {
+          "sourceName": "DOT Region 2 — restaurant accreditation register",
+          "sourceUrl": "https://sites.google.com/view/dotregion2accreditedtourisment/secondary-tourism-enterprises/restaurant",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "officialUrl": null,
+        "operation": {
+          "basis": "current-guide",
+          "source": {
+            "sourceName": "DOT Region 2 — restaurant accreditation register",
+            "sourceUrl": "https://sites.google.com/view/dotregion2accreditedtourisment/secondary-tourism-enterprises/restaurant",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "limitation": "DOT lists Basco identity and accreditation validity through 29 January 2027. Accreditation does not establish current opening, menu, table availability or a precise entrance."
+        }
+      },
+      "content": {
+        "placeId": "batanes-bunkers-bistro",
+        "summary": "Bunkers Bistro is a named Basco dining establishment in the DOT Region 2 restaurant register. Its accreditation is listed through January 2027; the exact menu and opening schedule remain unverified.",
+        "overview": [
+          "Bunkers Bistro is a named Basco dining establishment in the DOT Region 2 restaurant register. Its accreditation is listed through January 2027; the exact menu and opening schedule remain unverified.",
+          "Confirm the current menu and service before travelling. Lakbay has not verified a map pin, meal prices or accessibility for this listing; any itinerary allowance is an estimate."
+        ],
+        "highlights": [],
+        "tips": [],
+        "sources": [
+          {
+            "name": "DOT Region 2 — restaurant accreditation register",
+            "url": "https://sites.google.com/view/dotregion2accreditedtourisment/secondary-tourism-enterprises/restaurant",
+            "checkedOn": "2026-10-22",
+            "supports": "Exact venue, municipality and the descriptive food or coffee offering stated above; no verification of prices, accessibility or unsupplied coordinates."
+          }
+        ]
+      },
+      "photoResearch": {
+        "sources": [
+          "https://sites.google.com/view/dotregion2accreditedtourisment/secondary-tourism-enterprises/restaurant",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Bunkers+Bistro+Basco&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Bunkers+Bistro&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=Bunkers+Bistro+Basco&license=4%2C5%2C9%2C10"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "approved": true,
+      "identityReviewed": true,
+      "operationReviewed": true,
+      "record": {
+        "id": "sagada-yoghurt-house",
+        "name": "Yoghurt House",
+        "destination_group": "Sagada",
+        "region": "Cordillera Administrative Region",
+        "province": "Mountain Province",
+        "city_municipality": "Sagada",
+        "barangay": null,
+        "address": null,
+        "latitude": null,
+        "longitude": null,
+        "sources": {
+          "identity": {
+            "sourceName": "No Juan Is An Island — June 2026 Sagada return visit",
+            "sourceUrl": "https://nojuanisanisland.com/2026/06/02/an-ode-to-nostalgia-why-simply-showing-up-in-sagada-was-a-big-win/",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "municipality": {
+            "sourceName": "No Juan Is An Island — June 2026 Sagada return visit",
+            "sourceUrl": "https://nojuanisanisland.com/2026/06/02/an-ode-to-nostalgia-why-simply-showing-up-in-sagada-was-a-big-win/",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "address": {
+            "sourceName": null,
+            "sourceUrl": null,
+            "dateChecked": null,
+            "status": "unverified"
+          },
+          "coordinates": {
+            "sourceName": null,
+            "sourceUrl": null,
+            "dateChecked": null,
+            "status": "unverified"
+          }
+        },
+        "category": "Food & drink",
+        "description": "Yoghurt House is a named Sagada dining stop associated with bowls of tart yogurt. A June 2026 return visit documents the venue; no historic price or menu is treated as current.",
+        "interests": [
+          "Food Hunter"
+        ],
+        "itinerary_base_slug": "sagada",
+        "catalog_stop_id": "sagada-yoghurt-house",
+        "status": "accepted",
+        "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+        "reviewed_on": "2026-10-22",
+        "planning": {
+          "base_slug": "sagada",
+          "mode": "local",
+          "cluster": "sagada-yoghurt-house",
+          "minutes": 90,
+          "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+          "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+          "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+          "requiresBooking": false,
+          "scheduling": "candidate",
+          "outdoor": false
+        },
+        "slug": "sagada-yoghurt-house"
+      },
+      "food": {
+        "placeId": "sagada-yoghurt-house",
+        "primary": "other-food",
+        "venueType": "restaurant",
+        "suitability": [
+          "meal",
+          "dessert"
+        ],
+        "specialties": [
+          "yogurt"
+        ],
+        "source": {
+          "sourceName": "No Juan Is An Island — June 2026 Sagada return visit",
+          "sourceUrl": "https://nojuanisanisland.com/2026/06/02/an-ode-to-nostalgia-why-simply-showing-up-in-sagada-was-a-big-win/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "officialUrl": null,
+        "operation": {
+          "basis": "recent-report",
+          "source": {
+            "sourceName": "No Juan Is An Island — June 2026 Sagada return visit",
+            "sourceUrl": "https://nojuanisanisland.com/2026/06/02/an-ode-to-nostalgia-why-simply-showing-up-in-sagada-was-a-big-win/",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "limitation": "Dated visitor or local reporting supports this venue. Current opening, menu availability and access still need direct confirmation."
+        }
+      },
+      "content": {
+        "placeId": "sagada-yoghurt-house",
+        "summary": "Yoghurt House is a named Sagada dining stop associated with bowls of tart yogurt. A June 2026 return visit documents the venue; no historic price or menu is treated as current.",
+        "overview": [
+          "Yoghurt House is a named Sagada dining stop associated with bowls of tart yogurt. A June 2026 return visit documents the venue; no historic price or menu is treated as current.",
+          "Confirm the current menu and service before travelling. Lakbay has not verified a map pin, meal prices or accessibility for this listing; any itinerary allowance is an estimate."
+        ],
+        "highlights": [
+          {
+            "text": "yogurt",
+            "sourceUrls": [
+              "https://nojuanisanisland.com/2026/06/02/an-ode-to-nostalgia-why-simply-showing-up-in-sagada-was-a-big-win/"
+            ]
+          }
+        ],
+        "tips": [],
+        "sources": [
+          {
+            "name": "No Juan Is An Island — June 2026 Sagada return visit",
+            "url": "https://nojuanisanisland.com/2026/06/02/an-ode-to-nostalgia-why-simply-showing-up-in-sagada-was-a-big-win/",
+            "checkedOn": "2026-10-22",
+            "supports": "Exact venue, municipality and the descriptive food or coffee offering stated above; no verification of prices, accessibility or unsupplied coordinates."
+          }
+        ]
+      },
+      "photoResearch": {
+        "sources": [
+          "https://nojuanisanisland.com/2026/06/02/an-ode-to-nostalgia-why-simply-showing-up-in-sagada-was-a-big-win/",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Yoghurt+House+Sagada&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Yoghurt+House&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=Yoghurt+House+Sagada&license=4%2C5%2C9%2C10",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=%22Yogurt+House%22+%22Sagada%22&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640"
+        ],
+        "outcome": "Individual license, identity and visual review approved; published separately through the optimized image pipeline.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "approved": true,
+      "identityReviewed": true,
+      "operationReviewed": true,
+      "record": {
+        "id": "sagada-cafe-bodega-rock-inn",
+        "name": "Café Bodega — Rock Inn",
+        "destination_group": "Sagada",
+        "region": "Cordillera Administrative Region",
+        "province": "Mountain Province",
+        "city_municipality": "Sagada",
+        "barangay": null,
+        "address": null,
+        "latitude": null,
+        "longitude": null,
+        "sources": {
+          "identity": {
+            "sourceName": "No Juan Is An Island — June 2026 Café Bodega visit",
+            "sourceUrl": "https://nojuanisanisland.com/2026/06/02/an-ode-to-nostalgia-why-simply-showing-up-in-sagada-was-a-big-win/",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "municipality": {
+            "sourceName": "No Juan Is An Island — June 2026 Café Bodega visit",
+            "sourceUrl": "https://nojuanisanisland.com/2026/06/02/an-ode-to-nostalgia-why-simply-showing-up-in-sagada-was-a-big-win/",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "address": {
+            "sourceName": null,
+            "sourceUrl": null,
+            "dateChecked": null,
+            "status": "unverified"
+          },
+          "coordinates": {
+            "sourceName": null,
+            "sourceUrl": null,
+            "dateChecked": null,
+            "status": "unverified"
+          }
+        },
+        "category": "Food & drink",
+        "description": "Café Bodega is Rock Inn’s in-house café and restaurant in Sagada. A June 2026 visitor reports all-day breakfast; confirm the exact route and café access separately from booking accommodation.",
+        "interests": [
+          "Food Hunter",
+          "Slow Traveler"
+        ],
+        "itinerary_base_slug": "sagada",
+        "catalog_stop_id": "sagada-cafe-bodega-rock-inn",
+        "status": "accepted",
+        "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+        "reviewed_on": "2026-10-22",
+        "planning": {
+          "base_slug": "sagada",
+          "mode": "local",
+          "cluster": "sagada-cafe-bodega-rock-inn",
+          "minutes": 60,
+          "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+          "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+          "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+          "requiresBooking": false,
+          "scheduling": "manual",
+          "outdoor": false
+        },
+        "slug": "sagada-cafe-bodega-rock-inn"
+      },
+      "food": {
+        "placeId": "sagada-cafe-bodega-rock-inn",
+        "primary": "cafe",
+        "venueType": "cafe",
+        "suitability": [
+          "meal",
+          "breakfast"
+        ],
+        "specialties": [
+          "all-day breakfast"
+        ],
+        "source": {
+          "sourceName": "No Juan Is An Island — June 2026 Café Bodega visit",
+          "sourceUrl": "https://nojuanisanisland.com/2026/06/02/an-ode-to-nostalgia-why-simply-showing-up-in-sagada-was-a-big-win/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "officialUrl": null,
+        "operation": {
+          "basis": "recent-report",
+          "source": {
+            "sourceName": "No Juan Is An Island — June 2026 Café Bodega visit",
+            "sourceUrl": "https://nojuanisanisland.com/2026/06/02/an-ode-to-nostalgia-why-simply-showing-up-in-sagada-was-a-big-win/",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "limitation": "Dated visitor or local reporting supports this venue. Current opening, menu availability and access still need direct confirmation."
+        }
+      },
+      "content": {
+        "placeId": "sagada-cafe-bodega-rock-inn",
+        "summary": "Café Bodega is Rock Inn’s in-house café and restaurant in Sagada. A June 2026 visitor reports all-day breakfast; confirm the exact route and café access separately from booking accommodation.",
+        "overview": [
+          "Café Bodega is Rock Inn’s in-house café and restaurant in Sagada. A June 2026 visitor reports all-day breakfast; confirm the exact route and café access separately from booking accommodation.",
+          "Confirm the current menu and service before travelling. Lakbay has not verified a map pin, meal prices or accessibility for this listing; any itinerary allowance is an estimate."
+        ],
+        "highlights": [
+          {
+            "text": "all-day breakfast",
+            "sourceUrls": [
+              "https://nojuanisanisland.com/2026/06/02/an-ode-to-nostalgia-why-simply-showing-up-in-sagada-was-a-big-win/"
+            ]
+          }
+        ],
+        "tips": [],
+        "sources": [
+          {
+            "name": "No Juan Is An Island — June 2026 Café Bodega visit",
+            "url": "https://nojuanisanisland.com/2026/06/02/an-ode-to-nostalgia-why-simply-showing-up-in-sagada-was-a-big-win/",
+            "checkedOn": "2026-10-22",
+            "supports": "Exact venue, municipality and the descriptive food or coffee offering stated above; no verification of prices, accessibility or unsupplied coordinates."
+          }
+        ]
+      },
+      "photoResearch": {
+        "sources": [
+          "https://nojuanisanisland.com/2026/06/02/an-ode-to-nostalgia-why-simply-showing-up-in-sagada-was-a-big-win/",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Caf%C3%A9+Bodega+Sagada&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Caf%C3%A9+Bodega&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=Caf%C3%A9+Bodega+Sagada&license=4%2C5%2C9%2C10"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "approved": true,
+      "identityReviewed": true,
+      "operationReviewed": true,
+      "record": {
+        "id": "sagada-log-cabin",
+        "name": "Log Cabin Sagada",
+        "destination_group": "Sagada",
+        "region": "Cordillera Administrative Region",
+        "province": "Mountain Province",
+        "city_municipality": "Sagada",
+        "barangay": null,
+        "address": "Ato, Patay, along Sagada–Besao Road",
+        "latitude": null,
+        "longitude": null,
+        "sources": {
+          "identity": {
+            "sourceName": "Log Cabin Sagada — TableAgent booking page",
+            "sourceUrl": "https://tableagent.com/manila/log-cabin-sagada/",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "municipality": {
+            "sourceName": "Log Cabin Sagada — TableAgent booking page",
+            "sourceUrl": "https://tableagent.com/manila/log-cabin-sagada/",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "address": {
+            "sourceName": "Log Cabin Sagada — TableAgent booking page",
+            "sourceUrl": "https://tableagent.com/manila/log-cabin-sagada/",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "coordinates": {
+            "sourceName": null,
+            "sourceUrl": null,
+            "dateChecked": null,
+            "status": "unverified"
+          }
+        },
+        "category": "Food & drink",
+        "description": "Log Cabin serves European–Filipino cooking in an Ato residential-house setting. Its booking page identifies the Sagada venue and meal service; arrange Saturday buffet reservations separately from a normal restaurant visit.",
+        "interests": [
+          "Food Hunter"
+        ],
+        "itinerary_base_slug": "sagada",
+        "catalog_stop_id": "sagada-log-cabin",
+        "status": "accepted",
+        "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+        "reviewed_on": "2026-10-22",
+        "planning": {
+          "base_slug": "sagada",
+          "mode": "local",
+          "cluster": "sagada-log-cabin",
+          "minutes": 90,
+          "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+          "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+          "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+          "requiresBooking": false,
+          "scheduling": "manual",
+          "outdoor": false
+        },
+        "slug": "sagada-log-cabin"
+      },
+      "food": {
+        "placeId": "sagada-log-cabin",
+        "primary": "other-food",
+        "venueType": "restaurant",
+        "suitability": [
+          "meal"
+        ],
+        "specialties": [
+          "European–Filipino",
+          "pasta"
+        ],
+        "source": {
+          "sourceName": "Log Cabin Sagada — TableAgent booking page",
+          "sourceUrl": "https://tableagent.com/manila/log-cabin-sagada/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "officialUrl": "https://tableagent.com/manila/log-cabin-sagada/",
+        "operation": {
+          "basis": "recent-report",
+          "source": {
+            "sourceName": "Manila Bulletin — July 2026 Log Cabin reporting",
+            "sourceUrl": "https://mb.com.ph/2026/07/15/visiting-sagada-this-beloved-restaurant-buys-what-farmers-cant-sell-turning-it-into-specialty-products",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "limitation": "Dated local reporting supports this named venue and its offering. It does not establish today’s opening, menu availability or table availability; confirm directly before travelling."
+        }
+      },
+      "content": {
+        "placeId": "sagada-log-cabin",
+        "summary": "Log Cabin serves European–Filipino cooking in an Ato residential-house setting. Its booking page identifies the Sagada venue and meal service; arrange Saturday buffet reservations separately from a normal restaurant visit.",
+        "overview": [
+          "Log Cabin serves European–Filipino cooking in an Ato residential-house setting. Its booking page identifies the Sagada venue and meal service; arrange Saturday buffet reservations separately from a normal restaurant visit.",
+          "Confirm the current menu and service before travelling. Lakbay has not verified a map pin, meal prices or accessibility for this listing; any itinerary allowance is an estimate."
+        ],
+        "highlights": [
+          {
+            "text": "European–Filipino",
+            "sourceUrls": [
+              "https://tableagent.com/manila/log-cabin-sagada/"
+            ]
+          },
+          {
+            "text": "pasta",
+            "sourceUrls": [
+              "https://tableagent.com/manila/log-cabin-sagada/"
+            ]
+          }
+        ],
+        "tips": [],
+        "sources": [
+          {
+            "name": "Log Cabin Sagada — TableAgent booking page",
+            "url": "https://tableagent.com/manila/log-cabin-sagada/",
+            "checkedOn": "2026-10-22",
+            "supports": "Exact venue, municipality and the descriptive food or coffee offering stated above; no verification of prices, accessibility or unsupplied coordinates."
+          }
+        ]
+      },
+      "photoResearch": {
+        "sources": [
+          "https://tableagent.com/manila/log-cabin-sagada/",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Log+Cabin+Sagada+Sagada&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Log+Cabin+Sagada&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=Log+Cabin+Sagada+Sagada&license=4%2C5%2C9%2C10",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=%22Log+Cabin%22+%22Sagada%22&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "approved": true,
+      "identityReviewed": true,
+      "operationReviewed": true,
+      "record": {
+        "id": "sagada-cellar-door",
+        "name": "Sagada Cellar Door",
+        "destination_group": "Sagada",
+        "region": "Cordillera Administrative Region",
+        "province": "Mountain Province",
+        "city_municipality": "Sagada",
+        "barangay": null,
+        "address": null,
+        "latitude": null,
+        "longitude": null,
+        "sources": {
+          "identity": {
+            "sourceName": "No Juan Is An Island — June 2026 Cellar Door dinner",
+            "sourceUrl": "https://nojuanisanisland.com/2026/06/02/an-ode-to-nostalgia-why-simply-showing-up-in-sagada-was-a-big-win/",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "municipality": {
+            "sourceName": "No Juan Is An Island — June 2026 Cellar Door dinner",
+            "sourceUrl": "https://nojuanisanisland.com/2026/06/02/an-ode-to-nostalgia-why-simply-showing-up-in-sagada-was-a-big-win/",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "address": {
+            "sourceName": null,
+            "sourceUrl": null,
+            "dateChecked": null,
+            "status": "unverified"
+          },
+          "coordinates": {
+            "sourceName": null,
+            "sourceUrl": null,
+            "dateChecked": null,
+            "status": "unverified"
+          }
+        },
+        "category": "Food & drink",
+        "description": "Sagada Cellar Door offers a distinct dinner experience with Igorot cooking and rice wine. A June 2026 visit describes pinikpikan with tapuey; arrange the evening directly rather than assuming daily walk-in service.",
+        "interests": [
+          "Food Hunter"
+        ],
+        "itinerary_base_slug": "sagada",
+        "catalog_stop_id": "sagada-cellar-door",
+        "status": "accepted",
+        "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+        "reviewed_on": "2026-10-22",
+        "planning": {
+          "base_slug": "sagada",
+          "mode": "local",
+          "cluster": "sagada-cellar-door",
+          "minutes": 90,
+          "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+          "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+          "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+          "requiresBooking": true,
+          "scheduling": "manual",
+          "outdoor": false
+        },
+        "slug": "sagada-cellar-door"
+      },
+      "food": {
+        "placeId": "sagada-cellar-door",
+        "primary": "other-food",
+        "venueType": "restaurant",
+        "suitability": [
+          "meal"
+        ],
+        "specialties": [
+          "Igorot cooking",
+          "pinikpikan",
+          "tapuey"
+        ],
+        "source": {
+          "sourceName": "No Juan Is An Island — June 2026 Cellar Door dinner",
+          "sourceUrl": "https://nojuanisanisland.com/2026/06/02/an-ode-to-nostalgia-why-simply-showing-up-in-sagada-was-a-big-win/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "officialUrl": null,
+        "operation": {
+          "basis": "recent-report",
+          "source": {
+            "sourceName": "No Juan Is An Island — June 2026 Cellar Door dinner",
+            "sourceUrl": "https://nojuanisanisland.com/2026/06/02/an-ode-to-nostalgia-why-simply-showing-up-in-sagada-was-a-big-win/",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "limitation": "Dated visitor or local reporting supports this venue. Current opening, menu availability and access still need direct confirmation."
+        }
+      },
+      "content": {
+        "placeId": "sagada-cellar-door",
+        "summary": "Sagada Cellar Door offers a distinct dinner experience with Igorot cooking and rice wine. A June 2026 visit describes pinikpikan with tapuey; arrange the evening directly rather than assuming daily walk-in service.",
+        "overview": [
+          "Sagada Cellar Door offers a distinct dinner experience with Igorot cooking and rice wine. A June 2026 visit describes pinikpikan with tapuey; arrange the evening directly rather than assuming daily walk-in service.",
+          "Confirm the current menu and service before travelling. Lakbay has not verified a map pin, meal prices or accessibility for this listing; any itinerary allowance is an estimate."
+        ],
+        "highlights": [
+          {
+            "text": "Igorot cooking",
+            "sourceUrls": [
+              "https://nojuanisanisland.com/2026/06/02/an-ode-to-nostalgia-why-simply-showing-up-in-sagada-was-a-big-win/"
+            ]
+          },
+          {
+            "text": "pinikpikan",
+            "sourceUrls": [
+              "https://nojuanisanisland.com/2026/06/02/an-ode-to-nostalgia-why-simply-showing-up-in-sagada-was-a-big-win/"
+            ]
+          },
+          {
+            "text": "tapuey",
+            "sourceUrls": [
+              "https://nojuanisanisland.com/2026/06/02/an-ode-to-nostalgia-why-simply-showing-up-in-sagada-was-a-big-win/"
+            ]
+          }
+        ],
+        "tips": [],
+        "sources": [
+          {
+            "name": "No Juan Is An Island — June 2026 Cellar Door dinner",
+            "url": "https://nojuanisanisland.com/2026/06/02/an-ode-to-nostalgia-why-simply-showing-up-in-sagada-was-a-big-win/",
+            "checkedOn": "2026-10-22",
+            "supports": "Exact venue, municipality and the descriptive food or coffee offering stated above; no verification of prices, accessibility or unsupplied coordinates."
+          }
+        ]
+      },
+      "photoResearch": {
+        "sources": [
+          "https://nojuanisanisland.com/2026/06/02/an-ode-to-nostalgia-why-simply-showing-up-in-sagada-was-a-big-win/",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Sagada+Cellar+Door+Sagada&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Sagada+Cellar+Door&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=Sagada+Cellar+Door+Sagada&license=4%2C5%2C9%2C10"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "approved": true,
+      "identityReviewed": true,
+      "operationReviewed": true,
+      "record": {
+        "id": "sagada-gaia-cafe",
+        "name": "Gaia Cafe & Crafts",
+        "destination_group": "Sagada",
+        "region": "Cordillera Administrative Region",
+        "province": "Mountain Province",
+        "city_municipality": "Sagada",
+        "barangay": "Ambasing",
+        "address": null,
+        "latitude": null,
+        "longitude": null,
+        "sources": {
+          "identity": {
+            "sourceName": "Tripadvisor — Gaia identity and dated March 2026 visit",
+            "sourceUrl": "https://www.tripadvisor.ca/Restaurant_Review-g304053-d3512205-Reviews-Gaia_Cafe_Crafts-Sagada_Mountain_Province_Cordillera_Region_Luzon.html",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "municipality": {
+            "sourceName": "Tripadvisor — Gaia identity and dated March 2026 visit",
+            "sourceUrl": "https://www.tripadvisor.ca/Restaurant_Review-g304053-d3512205-Reviews-Gaia_Cafe_Crafts-Sagada_Mountain_Province_Cordillera_Region_Luzon.html",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "address": {
+            "sourceName": null,
+            "sourceUrl": null,
+            "dateChecked": null,
+            "status": "unverified"
+          },
+          "coordinates": {
+            "sourceName": null,
+            "sourceUrl": null,
+            "dateChecked": null,
+            "status": "unverified"
+          }
+        },
+        "category": "Food & drink",
+        "description": "Gaia is a café in Ambasing overlooking rice paddies. A March 2026 visitor documents lunch and outdoor seating; verify the current menu and avoid assuming dietary or accessibility suitability from older descriptions.",
+        "interests": [
+          "Food Hunter",
+          "Slow Traveler"
+        ],
+        "itinerary_base_slug": "sagada",
+        "catalog_stop_id": "sagada-gaia-cafe",
+        "status": "accepted",
+        "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+        "reviewed_on": "2026-10-22",
+        "planning": {
+          "base_slug": "sagada",
+          "mode": "local",
+          "cluster": "sagada-gaia-cafe",
+          "minutes": 60,
+          "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+          "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+          "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+          "requiresBooking": false,
+          "scheduling": "candidate",
+          "outdoor": false
+        },
+        "slug": "sagada-gaia-cafe"
+      },
+      "food": {
+        "placeId": "sagada-gaia-cafe",
+        "primary": "cafe",
+        "venueType": "cafe",
+        "suitability": [
+          "coffee",
+          "meal"
+        ],
+        "specialties": [
+          "cafe"
+        ],
+        "source": {
+          "sourceName": "Tripadvisor — Gaia identity and dated March 2026 visit",
+          "sourceUrl": "https://www.tripadvisor.ca/Restaurant_Review-g304053-d3512205-Reviews-Gaia_Cafe_Crafts-Sagada_Mountain_Province_Cordillera_Region_Luzon.html",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "officialUrl": null,
+        "operation": {
+          "basis": "recent-report",
+          "source": {
+            "sourceName": "No Juan Is An Island — June 2026 Gaia return visit",
+            "sourceUrl": "https://nojuanisanisland.com/2026/06/02/an-ode-to-nostalgia-why-simply-showing-up-in-sagada-was-a-big-win/",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "limitation": "Dated visitor or local reporting supports this venue. Current opening, menu availability and access still need direct confirmation."
+        }
+      },
+      "content": {
+        "placeId": "sagada-gaia-cafe",
+        "summary": "Gaia is a café in Ambasing overlooking rice paddies. A March 2026 visitor documents lunch and outdoor seating; verify the current menu and avoid assuming dietary or accessibility suitability from older descriptions.",
+        "overview": [
+          "Gaia is a café in Ambasing overlooking rice paddies. A March 2026 visitor documents lunch and outdoor seating; verify the current menu and avoid assuming dietary or accessibility suitability from older descriptions.",
+          "Confirm the current menu and service before travelling. Lakbay has not verified a map pin, meal prices or accessibility for this listing; any itinerary allowance is an estimate."
+        ],
+        "highlights": [
+          {
+            "text": "cafe",
+            "sourceUrls": [
+              "https://www.tripadvisor.ca/Restaurant_Review-g304053-d3512205-Reviews-Gaia_Cafe_Crafts-Sagada_Mountain_Province_Cordillera_Region_Luzon.html"
+            ]
+          }
+        ],
+        "tips": [],
+        "sources": [
+          {
+            "name": "Tripadvisor — Gaia identity and dated March 2026 visit",
+            "url": "https://www.tripadvisor.ca/Restaurant_Review-g304053-d3512205-Reviews-Gaia_Cafe_Crafts-Sagada_Mountain_Province_Cordillera_Region_Luzon.html",
+            "checkedOn": "2026-10-22",
+            "supports": "Exact venue, municipality and the descriptive food or coffee offering stated above; no verification of prices, accessibility or unsupplied coordinates."
+          }
+        ]
+      },
+      "photoResearch": {
+        "sources": [
+          "https://www.tripadvisor.ca/Restaurant_Review-g304053-d3512205-Reviews-Gaia_Cafe_Crafts-Sagada_Mountain_Province_Cordillera_Region_Luzon.html",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Gaia+Cafe+%26+Crafts+Sagada&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Gaia+Cafe+%26+Crafts&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=Gaia+Cafe+%26+Crafts+Sagada&license=4%2C5%2C9%2C10",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=%22Gaia%22+%22Sagada%22&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "approved": true,
+      "identityReviewed": true,
+      "operationReviewed": true,
+      "record": {
+        "id": "sagada-banas-cafe",
+        "name": "Bana’s Coffee",
+        "destination_group": "Sagada",
+        "region": "Cordillera Administrative Region",
+        "province": "Mountain Province",
+        "city_municipality": "Sagada",
+        "barangay": null,
+        "address": null,
+        "latitude": null,
+        "longitude": null,
+        "sources": {
+          "identity": {
+            "sourceName": "No Juan Is An Island — June 2026 Bana’s return visit",
+            "sourceUrl": "https://nojuanisanisland.com/2026/06/02/an-ode-to-nostalgia-why-simply-showing-up-in-sagada-was-a-big-win/",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "municipality": {
+            "sourceName": "No Juan Is An Island — June 2026 Bana’s return visit",
+            "sourceUrl": "https://nojuanisanisland.com/2026/06/02/an-ode-to-nostalgia-why-simply-showing-up-in-sagada-was-a-big-win/",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "address": {
+            "sourceName": null,
+            "sourceUrl": null,
+            "dateChecked": null,
+            "status": "unverified"
+          },
+          "coordinates": {
+            "sourceName": null,
+            "sourceUrl": null,
+            "dateChecked": null,
+            "status": "unverified"
+          }
+        },
+        "category": "Food & drink",
+        "description": "Bana’s is a long-running Sagada café revisited in June 2026. The report documents renovations and menu changes, a reminder to confirm the current selection rather than expecting drinks remembered from earlier trips.",
+        "interests": [
+          "Food Hunter",
+          "Slow Traveler"
+        ],
+        "itinerary_base_slug": "sagada",
+        "catalog_stop_id": "sagada-banas-cafe",
+        "status": "accepted",
+        "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+        "reviewed_on": "2026-10-22",
+        "planning": {
+          "base_slug": "sagada",
+          "mode": "local",
+          "cluster": "sagada-banas-cafe",
+          "minutes": 60,
+          "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+          "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+          "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+          "requiresBooking": false,
+          "scheduling": "candidate",
+          "outdoor": false
+        },
+        "slug": "sagada-banas-cafe"
+      },
+      "food": {
+        "placeId": "sagada-banas-cafe",
+        "primary": "cafe",
+        "venueType": "cafe",
+        "suitability": [
+          "coffee"
+        ],
+        "specialties": [
+          "coffee"
+        ],
+        "source": {
+          "sourceName": "No Juan Is An Island — June 2026 Bana’s return visit",
+          "sourceUrl": "https://nojuanisanisland.com/2026/06/02/an-ode-to-nostalgia-why-simply-showing-up-in-sagada-was-a-big-win/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "officialUrl": null,
+        "operation": {
+          "basis": "recent-report",
+          "source": {
+            "sourceName": "No Juan Is An Island — June 2026 Bana’s return visit",
+            "sourceUrl": "https://nojuanisanisland.com/2026/06/02/an-ode-to-nostalgia-why-simply-showing-up-in-sagada-was-a-big-win/",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "limitation": "Dated visitor or local reporting supports this venue. Current opening, menu availability and access still need direct confirmation."
+        }
+      },
+      "content": {
+        "placeId": "sagada-banas-cafe",
+        "summary": "Bana’s is a long-running Sagada café revisited in June 2026. The report documents renovations and menu changes, a reminder to confirm the current selection rather than expecting drinks remembered from earlier trips.",
+        "overview": [
+          "Bana’s is a long-running Sagada café revisited in June 2026. The report documents renovations and menu changes, a reminder to confirm the current selection rather than expecting drinks remembered from earlier trips.",
+          "Confirm the current menu and service before travelling. Lakbay has not verified a map pin, meal prices or accessibility for this listing; any itinerary allowance is an estimate."
+        ],
+        "highlights": [
+          {
+            "text": "coffee",
+            "sourceUrls": [
+              "https://nojuanisanisland.com/2026/06/02/an-ode-to-nostalgia-why-simply-showing-up-in-sagada-was-a-big-win/"
+            ]
+          }
+        ],
+        "tips": [],
+        "sources": [
+          {
+            "name": "No Juan Is An Island — June 2026 Bana’s return visit",
+            "url": "https://nojuanisanisland.com/2026/06/02/an-ode-to-nostalgia-why-simply-showing-up-in-sagada-was-a-big-win/",
+            "checkedOn": "2026-10-22",
+            "supports": "Exact venue, municipality and the descriptive food or coffee offering stated above; no verification of prices, accessibility or unsupplied coordinates."
+          }
+        ]
+      },
+      "photoResearch": {
+        "sources": [
+          "https://nojuanisanisland.com/2026/06/02/an-ode-to-nostalgia-why-simply-showing-up-in-sagada-was-a-big-win/",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Bana%E2%80%99s+Coffee+Sagada&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Bana%E2%80%99s+Coffee&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=Bana%E2%80%99s+Coffee+Sagada&license=4%2C5%2C9%2C10"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    }
+  ],
+  "decisions": [
+    {
+      "name": "Greenhouse beachfront café",
+      "status": "unresolved",
+      "sources": [
+        "https://www.greenhousesiargao.com/pages/rooms"
+      ],
+      "reason": "Operator announces beachfront closure/renovations and transition to a roadside café; current exact venue requires reconciliation."
+    },
+    {
+      "name": "Chido Cafe",
+      "status": "unresolved",
+      "sources": [
+        "https://linktr.ee/Chidocafe_bohol",
+        "https://wanderlog.com/list/geoCategory/291107/cafes"
+      ],
+      "reason": "Public business links and 2026 visits conflict with permanently-closed label; do not publish until reconciled."
+    },
+    {
+      "name": "Nomads Bohol Coffee Lounge",
+      "status": "rejected",
+      "sources": [
+        "https://nomadsbohol.com/"
+      ],
+      "reason": "Operator states planned December 2026 opening; not a currently operating café at review date."
+    },
+    {
+      "name": "Seollem Café / Shop / Bistro",
+      "status": "unresolved",
+      "sources": [
+        "https://www.spot.ph/things-to-do/weekend-guides/90920/new-baguio-tourist-spots-you-can-visit-a1131-20221023-lfrm2",
+        "https://www.cybo.com/PH-biz/seollem-cafe"
+      ],
+      "reason": "Old café/shop identities and current military-cutoff address conflict; exact branch and recent operation need review."
+    }
+  ]
+}

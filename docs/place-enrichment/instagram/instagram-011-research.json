@@ -1,0 +1,511 @@
+{
+  "batchId": "instagram-011",
+  "checkedOn": "2026-10-22",
+  "mode": "unapproved-research",
+  "records": [
+    {
+      "placeId": "boracay-cafe-del-sol",
+      "name": "Cafe del Sol",
+      "destination": "Boracay",
+      "municipality": "Malay",
+      "category": "Food & drink",
+      "hasApprovedPhoto": false,
+      "batchId": "instagram-011",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://www.careers.aria.com.ph/",
+          "finalUrl": "https://www.careers.aria.com.ph/",
+          "status": 200,
+          "title": "Boracay Entertainment Resources Inc. About Us & Career Page",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "boracay-beach-truck",
+      "name": "Boracay Beach Truck",
+      "destination": "Boracay",
+      "municipality": "Malay",
+      "category": "Food & drink",
+      "hasApprovedPhoto": false,
+      "batchId": "instagram-011",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://www.careers.aria.com.ph/",
+          "finalUrl": "https://www.careers.aria.com.ph/",
+          "status": 200,
+          "title": "Boracay Entertainment Resources Inc. About Us & Career Page",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "boracay-dinibeach-bar",
+      "name": "Dinibeach Bar & Restaurant",
+      "destination": "Boracay",
+      "municipality": "Malay",
+      "category": "Food & drink",
+      "hasApprovedPhoto": false,
+      "batchId": "instagram-011",
+      "status": "candidates-awaiting-review",
+      "sources": [
+        {
+          "url": "https://diniviewboracay.com/",
+          "finalUrl": "https://diniviewboracay.com/",
+          "status": 200,
+          "title": "Diniview Villa Resort | Book A Dream Holiday Villa in Boracay, Philippines",
+          "candidates": [
+            {
+              "url": "https://www.instagram.com/reel/Dd8PuwHTq6l/",
+              "account": null,
+              "context": "Publisher contains individual post links; embedded asset metadata omitted. Open the publisher page to review its place context.",
+              "manualMarkup": false
+            },
+            {
+              "url": "https://www.instagram.com/p/DdyGSFazguU/",
+              "account": null,
+              "context": "Publisher contains individual post links; embedded asset metadata omitted. Open the publisher page to review its place context.",
+              "manualMarkup": false
+            },
+            {
+              "url": "https://www.instagram.com/reel/DdfbpPsTFLO/",
+              "account": null,
+              "context": "Publisher contains individual post links; embedded asset metadata omitted. Open the publisher page to review its place context.",
+              "manualMarkup": false
+            },
+            {
+              "url": "https://www.instagram.com/reel/DdRKbH9zywF/",
+              "account": null,
+              "context": "Publisher contains individual post links; embedded asset metadata omitted. Open the publisher page to review its place context.",
+              "manualMarkup": false
+            },
+            {
+              "url": "https://www.instagram.com/p/DdKxfPDk_xA/",
+              "account": null,
+              "context": "Publisher contains individual post links; embedded asset metadata omitted. Open the publisher page to review its place context.",
+              "manualMarkup": false
+            },
+            {
+              "url": "https://www.instagram.com/reel/DdC4Re4ziEJ/",
+              "account": null,
+              "context": "Publisher contains individual post links; embedded asset metadata omitted. Open the publisher page to review its place context.",
+              "manualMarkup": false
+            },
+            {
+              "url": "https://www.instagram.com/p/Dc7SqXTE1Hz/",
+              "account": null,
+              "context": "Publisher contains individual post links; embedded asset metadata omitted. Open the publisher page to review its place context.",
+              "manualMarkup": false
+            },
+            {
+              "url": "https://www.instagram.com/p/DcPrEGAoHdC/",
+              "account": null,
+              "context": "Publisher contains individual post links; embedded asset metadata omitted. Open the publisher page to review its place context.",
+              "manualMarkup": false
+            },
+            {
+              "url": "https://www.instagram.com/reel/DcIUwStgyPR/",
+              "account": null,
+              "context": "Publisher contains individual post links; embedded asset metadata omitted. Open the publisher page to review its place context.",
+              "manualMarkup": false
+            },
+            {
+              "url": "https://www.instagram.com/p/DbkZ1U8iAT2/",
+              "account": null,
+              "context": "Publisher contains individual post links; embedded asset metadata omitted. Open the publisher page to review its place context.",
+              "manualMarkup": false
+            },
+            {
+              "url": "https://www.instagram.com/p/DbcJFWhCNED/",
+              "account": null,
+              "context": "Publisher contains individual post links; embedded asset metadata omitted. Open the publisher page to review its place context.",
+              "manualMarkup": false
+            },
+            {
+              "url": "https://www.instagram.com/p/DbW_eDojENK/",
+              "account": null,
+              "context": "Publisher contains individual post links; embedded asset metadata omitted. Open the publisher page to review its place context.",
+              "manualMarkup": false
+            }
+          ],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "boracay-citymall",
+      "name": "CityMall Boracay",
+      "destination": "Boracay",
+      "municipality": "Malay",
+      "category": "Parks & markets",
+      "hasApprovedPhoto": false,
+      "batchId": "instagram-011",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://www.doubledragon.com.ph/article/boracay-gets-first-real-mall",
+          "finalUrl": "https://www.doubledragon.com.ph/article/boracay-gets-first-real-mall",
+          "status": 200,
+          "title": "Press Materials/News | DoubleDragon Properties Corp.",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "boracay-sirena",
+      "name": "Sirena Restaurant & Clifftop Bar",
+      "destination": "Boracay",
+      "municipality": "Malay",
+      "category": "Food & drink",
+      "hasApprovedPhoto": false,
+      "batchId": "instagram-011",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://www.shangri-la.com/restaurants-bars/boracay/boracayresort/sirena/",
+          "finalUrl": "https://www.shangri-la.com/restaurants-bars/boracay/boracayresort/sirena/",
+          "status": 403,
+          "title": "",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "boracay-los-indios-bravos",
+      "name": "Los Indios Bravos",
+      "destination": "Boracay",
+      "municipality": "Malay",
+      "category": "Food & drink",
+      "hasApprovedPhoto": false,
+      "batchId": "instagram-011",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://www.losindiosbravos.com/",
+          "finalUrl": "https://www.losindiosbravos.com/",
+          "status": 200,
+          "title": "The Brave Filipino Table",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "iloilo-breakthrough-villa",
+      "name": "Breakthrough Restaurant - Villa",
+      "destination": "Iloilo",
+      "municipality": "Iloilo City",
+      "category": "Food & drink",
+      "hasApprovedPhoto": false,
+      "batchId": "instagram-011",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://breakthroughrestaurants.com/breakthrough-2/",
+          "finalUrl": "https://breakthroughrestaurants.com/breakthrough-2/",
+          "status": 200,
+          "title": "Breakthrough 2 | Breakthrough Restaurants",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "iloilo-ponsyon-plazuela",
+      "name": "Ponsyon by Breakthrough",
+      "destination": "Iloilo",
+      "municipality": "Iloilo City",
+      "category": "Food & drink",
+      "hasApprovedPhoto": false,
+      "batchId": "instagram-011",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://breakthroughrestaurants.com/ponsyon-2/",
+          "finalUrl": "https://breakthroughrestaurants.com/ponsyon-2/",
+          "status": 200,
+          "title": "Ponsyon 2 | Breakthrough Restaurants",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "iloilo-garin-farm",
+      "name": "Garin Farm",
+      "destination": "Iloilo",
+      "municipality": "San Joaquin",
+      "category": "Attractions",
+      "hasApprovedPhoto": false,
+      "batchId": "instagram-011",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://www.pna.gov.ph/articles/1214613",
+          "finalUrl": "https://www.pna.gov.ph/articles/1214613",
+          "status": 404,
+          "title": "",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "batanes-beehan",
+      "name": "Beehan Food Enterprise",
+      "destination": "Batanes",
+      "municipality": "Basco",
+      "category": "Food & drink",
+      "hasApprovedPhoto": false,
+      "batchId": "instagram-011",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://breathtakingbatanes.com/foodmap.pdf",
+          "finalUrl": "https://breathtakingbatanes.com/foodmap.pdf",
+          "status": 404,
+          "title": "",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "batanes-honesty-coffee-shop",
+      "name": "Honesty Coffee Shop",
+      "destination": "Batanes",
+      "municipality": "Ivana",
+      "category": "Food & drink",
+      "hasApprovedPhoto": false,
+      "batchId": "instagram-011",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://www.region2fun.ph/official/batanes-2/",
+          "finalUrl": "https://www.region2fun.ph/official/batanes-2/",
+          "status": 200,
+          "title": "Batanes &#8211; Official Website of Department of Tourism Region 2",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "batanes-chawa-viewdeck",
+      "name": "Chawa View Deck",
+      "destination": "Batanes",
+      "municipality": "Mahatao",
+      "category": "Nature",
+      "hasApprovedPhoto": false,
+      "batchId": "instagram-011",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://bookings.breathtakingbatanes.com/",
+          "finalUrl": "https://bookings.breathtakingbatanes.com/",
+          "status": 200,
+          "title": "Tourism Portal",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "puerto-princesa-mitra-ranch",
+      "name": "Mitra’s Ranch",
+      "destination": "Palawan",
+      "municipality": "Puerto Princesa City",
+      "category": "Nature",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-011",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://citytourism.puertoprincesa.ph/destination-map/",
+          "finalUrl": "https://citytourism.puertoprincesa.ph/destination-map/",
+          "status": 200,
+          "title": "Destination Map &#8211; City Tourism of Puerto Princesa",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "cebu-heritage-monument",
+      "name": "Heritage of Cebu Monument",
+      "destination": "Cebu",
+      "municipality": "Cebu City",
+      "category": "Culture",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-011",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://philippines.travel/destinations/cebu-city/index",
+          "finalUrl": "https://philippines.travel/destinations/cebu-city/index",
+          "status": 200,
+          "title": "Cebu City &#8211; Love Philippines",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Heritage_of_Cebu_Monument",
+          "finalUrl": "https://en.wikipedia.org/wiki/Heritage_of_Cebu_Monument",
+          "status": 200,
+          "title": "Heritage of Cebu Monument - Wikipedia",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "iloilo-biscocho-haus",
+      "name": "Original Biscocho Haus — Jaro",
+      "destination": "Iloilo",
+      "municipality": "Iloilo City",
+      "category": "Food & drink",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-011",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://biscochohaus.com/",
+          "finalUrl": "https://biscochohaus.com/",
+          "status": 500,
+          "title": "",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "batanes-basco-cathedral",
+      "name": "Basco Cathedral",
+      "destination": "Batanes",
+      "municipality": "Basco",
+      "category": "Culture",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-011",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://breathtakingbatanes.com/maps/",
+          "finalUrl": "https://breathtakingbatanes.com/maps/",
+          "status": 200,
+          "title": "Batanes Tourism Map",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Basco_Cathedral",
+          "finalUrl": "https://en.wikipedia.org/wiki/Basco_Cathedral",
+          "status": 200,
+          "title": "Basco Cathedral - Wikipedia",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "iloilo-tigbauan-church",
+      "name": "St. John of Sahagun Parish Church",
+      "destination": "Iloilo",
+      "municipality": "Tigbauan",
+      "category": "Culture",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-011",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://www.iloilo.gov.ph/1st-district",
+          "status": null,
+          "error": "The operation was aborted due to timeout",
+          "candidates": [],
+          "limitation": "Inaccessible publisher source; no private content or authentication workaround attempted."
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Tigbauan_Church",
+          "finalUrl": "https://en.wikipedia.org/wiki/Tigbauan_Church",
+          "status": 200,
+          "title": "Tigbauan Church - Wikipedia",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "iloilo-cabatuan-church",
+      "name": "St. Nicolas of Tolentine Parish Church - Cabatuan",
+      "destination": "Iloilo",
+      "municipality": "Cabatuan",
+      "category": "Culture",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-011",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://cabatuan.gov.ph/wp-content/uploads/2020/06/List-of-Cultural-Properties.pdf",
+          "finalUrl": "https://cabatuan.gov.ph/wp-content/uploads/2020/06/List-of-Cultural-Properties.pdf",
+          "status": 200,
+          "title": "",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Cabatuan_Church",
+          "finalUrl": "https://en.wikipedia.org/wiki/Cabatuan_Church",
+          "status": 200,
+          "title": "Cabatuan Church - Wikipedia",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "batanes-san-jose-spanish-bridge",
+      "name": "San Jose Spanish Bridge",
+      "destination": "Batanes",
+      "municipality": "Ivana",
+      "category": "Culture",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-011",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://breathtakingbatanes.com/maps/",
+          "finalUrl": "https://breathtakingbatanes.com/maps/",
+          "status": 200,
+          "title": "Batanes Tourism Map",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "batanes-sabtang-san-vicente",
+      "name": "San Vicente Ferrer Parish Church",
+      "destination": "Batanes",
+      "municipality": "Sabtang",
+      "category": "Culture",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-011",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://breathtakingbatanes.com/maps/",
+          "finalUrl": "https://breathtakingbatanes.com/maps/",
+          "status": 200,
+          "title": "Batanes Tourism Map",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    }
+  ]
+}

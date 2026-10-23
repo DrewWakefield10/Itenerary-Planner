@@ -1,0 +1,70 @@
+{
+  "id": "food-004",
+  "checkedOn": "2026-10-22",
+  "accepted": [
+    "siargao-spotted-pig-catangnan",
+    "siargao-weekend-cafe",
+    "siargao-sinag-snack-bar",
+    "siargao-saint-thomas",
+    "siargao-sunset-coffee",
+    "siargao-fin-fin",
+    "bohol-overgrown-panglao",
+    "bohol-mosia-cafe",
+    "bohol-slotide-danao",
+    "bohol-smoque-bistro",
+    "bohol-mist-danao",
+    "bohol-tomar-amorita",
+    "baguio-rebel-irisan",
+    "baguio-hatch-easter",
+    "baguio-foam-legarda",
+    "baguio-hot-cat-yangco",
+    "baguio-cafe-by-ruins",
+    "batanes-cafe-du-tukon",
+    "batanes-bunkers-bistro",
+    "sagada-yoghurt-house",
+    "sagada-cafe-bodega-rock-inn",
+    "sagada-log-cabin",
+    "sagada-cellar-door",
+    "sagada-gaia-cafe",
+    "sagada-banas-cafe"
+  ],
+  "inserted": 0,
+  "promoted": 0,
+  "unchanged": 25,
+  "decisions": [
+    {
+      "name": "Greenhouse beachfront café",
+      "status": "unresolved",
+      "sources": [
+        "https://www.greenhousesiargao.com/pages/rooms"
+      ],
+      "reason": "Operator announces beachfront closure/renovations and transition to a roadside café; current exact venue requires reconciliation."
+    },
+    {
+      "name": "Chido Cafe",
+      "status": "unresolved",
+      "sources": [
+        "https://linktr.ee/Chidocafe_bohol",
+        "https://wanderlog.com/list/geoCategory/291107/cafes"
+      ],
+      "reason": "Public business links and 2026 visits conflict with permanently-closed label; do not publish until reconciled."
+    },
+    {
+      "name": "Nomads Bohol Coffee Lounge",
+      "status": "rejected",
+      "sources": [
+        "https://nomadsbohol.com/"
+      ],
+      "reason": "Operator states planned December 2026 opening; not a currently operating café at review date."
+    },
+    {
+      "name": "Seollem Café / Shop / Bistro",
+      "status": "unresolved",
+      "sources": [
+        "https://www.spot.ph/things-to-do/weekend-guides/90920/new-baguio-tourist-spots-you-can-visit-a1131-20221023-lfrm2",
+        "https://www.cybo.com/PH-biz/seollem-cafe"
+      ],
+      "reason": "Old café/shop identities and current military-cutoff address conflict; exact branch and recent operation need review."
+    }
+  ]
+}

@@ -3,8 +3,8 @@
   "scope": "11 browsing destinations; identity and municipality acceptance does not verify operating details",
   "totals": {
     "target": 350,
-    "researched": 362,
-    "accepted": 332,
+    "researched": 456,
+    "accepted": 426,
     "rejected": 15,
     "unresolved": 15
   },
@@ -12,8 +12,8 @@
     {
       "destination": "Palawan",
       "target": 45,
-      "researched": 54,
-      "accepted": 45,
+      "researched": 75,
+      "accepted": 66,
       "rejected": 7,
       "unresolved": 2,
       "shortfall": 0,
@@ -22,18 +22,18 @@
     {
       "destination": "Cebu",
       "target": 35,
-      "researched": 37,
-      "accepted": 35,
+      "researched": 53,
+      "accepted": 51,
       "rejected": 0,
       "unresolved": 2,
       "shortfall": 0,
-      "batches": 2
+      "batches": 3
     },
     {
       "destination": "Manila",
       "target": 32,
-      "researched": 32,
-      "accepted": 32,
+      "researched": 49,
+      "accepted": 49,
       "rejected": 0,
       "unresolved": 0,
       "shortfall": 0,
@@ -42,8 +42,8 @@
     {
       "destination": "Siargao",
       "target": 30,
-      "researched": 30,
-      "accepted": 30,
+      "researched": 36,
+      "accepted": 36,
       "rejected": 0,
       "unresolved": 0,
       "shortfall": 0,
@@ -52,8 +52,8 @@
     {
       "destination": "Bohol",
       "target": 30,
-      "researched": 31,
-      "accepted": 30,
+      "researched": 37,
+      "accepted": 36,
       "rejected": 0,
       "unresolved": 1,
       "shortfall": 0,
@@ -72,8 +72,8 @@
     {
       "destination": "Baguio",
       "target": 30,
-      "researched": 34,
-      "accepted": 30,
+      "researched": 39,
+      "accepted": 35,
       "rejected": 3,
       "unresolved": 1,
       "shortfall": 0,
@@ -82,28 +82,28 @@
     {
       "destination": "Iloilo",
       "target": 35,
-      "researched": 33,
-      "accepted": 31,
+      "researched": 40,
+      "accepted": 38,
       "rejected": 1,
       "unresolved": 1,
-      "shortfall": 4,
+      "shortfall": 0,
       "batches": 2
     },
     {
       "destination": "Davao",
       "target": 35,
-      "researched": 31,
-      "accepted": 31,
+      "researched": 39,
+      "accepted": 39,
       "rejected": 0,
       "unresolved": 0,
-      "shortfall": 4,
+      "shortfall": 0,
       "batches": 2
     },
     {
       "destination": "Batanes",
       "target": 30,
-      "researched": 33,
-      "accepted": 30,
+      "researched": 35,
+      "accepted": 32,
       "rejected": 1,
       "unresolved": 2,
       "shortfall": 0,
@@ -112,11 +112,11 @@
     {
       "destination": "Sagada",
       "target": 20,
-      "researched": 14,
-      "accepted": 10,
+      "researched": 20,
+      "accepted": 16,
       "rejected": 1,
       "unresolved": 3,
-      "shortfall": 10,
+      "shortfall": 4,
       "batches": 1
     }
   ]

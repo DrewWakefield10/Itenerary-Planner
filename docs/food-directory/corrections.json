@@ -1,0 +1,161 @@
+{
+  "checkedOn": "2026-10-22",
+  "changes": [
+    {
+      "id": "cebu-house-of-lechon-acacia",
+      "reason": "Classify restaurant-guide evidence separately from an operator offering."
+    },
+    {
+      "id": "cebu-pares-pares-escario",
+      "reason": "Classify restaurant-guide evidence separately from an operator offering."
+    },
+    {
+      "id": "cebu-abli",
+      "reason": "Classify restaurant-guide evidence separately from an operator offering."
+    },
+    {
+      "id": "cebu-abaseria",
+      "reason": "Classify restaurant-guide evidence separately from an operator offering."
+    },
+    {
+      "id": "cebu-ato-ah",
+      "reason": "Classify restaurant-guide evidence separately from an operator offering."
+    },
+    {
+      "id": "cebu-lantaw-compostela",
+      "reason": "Classify restaurant-guide evidence separately from an operator offering."
+    },
+    {
+      "id": "manila-your-local",
+      "reason": "Classify restaurant-guide evidence separately from an operator offering."
+    },
+    {
+      "id": "manila-sarsa-rada",
+      "reason": "Classify restaurant-guide evidence separately from an operator offering."
+    },
+    {
+      "id": "manila-metiz-karrivin",
+      "reason": "Classify restaurant-guide evidence separately from an operator offering."
+    },
+    {
+      "id": "manila-cirkulo",
+      "reason": "Classify restaurant-guide evidence separately from an operator offering."
+    },
+    {
+      "id": "manila-la-pita-poblacion",
+      "reason": "Classify restaurant-guide evidence separately from an operator offering."
+    },
+    {
+      "id": "manila-morning-sun-project-four",
+      "reason": "Classify restaurant-guide evidence separately from an operator offering."
+    },
+    {
+      "id": "manila-el-poco-malate",
+      "reason": "Classify restaurant-guide evidence separately from an operator offering."
+    },
+    {
+      "id": "manila-rodics-maginhawa",
+      "reason": "Classify restaurant-guide evidence separately from an operator offering."
+    },
+    {
+      "id": "siargao-weekend-cafe",
+      "reason": "Add independent exact-municipality evidence; do not use the operator’s generic island address or illustrative embedded map as a pin."
+    },
+    {
+      "id": "baguio-hatch-easter",
+      "reason": "Full article confirms Easter Road (rather than assuming a branch from brand-level reporting). Keep conservative manual scheduling."
+    },
+    {
+      "id": "baguio-hot-cat-yangco",
+      "reason": "Replace an undated directory-only operation basis with dated government staff/visitor reporting; remove unsupported meal and breakfast roles."
+    },
+    {
+      "id": "bohol-saffron-restaurant",
+      "reason": "Current operator naming differs from the legacy listing. Preserve stable ID and snapshots, flag publicly and prevent automatic scheduling."
+    }
+  ],
+  "legacyOperation": {
+    "placeIds": [
+      "davao-roxas-night-market",
+      "puerto-princesa-bakers-hill",
+      "cebu-sugbo-mercado",
+      "bohol-bohol-bee-farm",
+      "bohol-common-crew",
+      "bohol-shaka-panglao",
+      "boracay-dtalipapa-market",
+      "boracay-nonies-ondus",
+      "boracay-giuseppe-station-three",
+      "boracay-little-taj",
+      "iloilo-baking-studio-theos",
+      "iloilo-biscocho-haus",
+      "el-nido-artcafe",
+      "el-nido-trattoria-altrove",
+      "coron-trattoria-altrove",
+      "cebu-pig-and-palm",
+      "cebu-turning-wheels-brewery",
+      "cebu-abaca-baking-crossroads",
+      "bohol-latavola-restaurant",
+      "bohol-prawn-farm-bolod",
+      "manila-eng-bee-tin-ongpin",
+      "manila-ilustrado-restaurant",
+      "manila-barbaras-heritage",
+      "baguio-good-shepherd",
+      "baguio-original-good-taste",
+      "baguio-choco-late-batirol",
+      "baguio-hill-station",
+      "baguio-amare-outlook",
+      "baguio-craft-brewery",
+      "baguio-craft-1945",
+      "siargao-kermit-restaurant",
+      "siargao-trattoria-altrove",
+      "siargao-warung",
+      "siargao-brunch-spot",
+      "siargao-bravo-restaurant",
+      "siargao-naga-restaurant",
+      "davao-jacks-ridge-shrine-hills",
+      "davao-apo-ni-lola-matina",
+      "davao-marina-tuna-sandawa",
+      "boracay-muchos",
+      "boracay-jammers-beach-shack",
+      "boracay-aria-cucina",
+      "boracay-hama",
+      "boracay-cafe-del-sol",
+      "boracay-beach-truck",
+      "boracay-dinibeach-bar",
+      "boracay-sirena",
+      "boracay-los-indios-bravos",
+      "boracay-sands-bar-restaurant",
+      "iloilo-breakthrough-villa",
+      "iloilo-dapli-valeria",
+      "iloilo-ponsyon-plazuela",
+      "batanes-casa-napoli-town",
+      "batanes-beehan",
+      "batanes-harbour-cafe",
+      "batanes-vunong-dinette",
+      "batanes-honesty-coffee-shop"
+    ],
+    "reason": "Original identity review does not establish current operation. Preserve identity sources and dates; display operation as unverified and undated rather than reusing a verified identity check."
+  },
+  "foodShopCorrection": {
+    "placeId": "davao-apo-ni-lola-matina",
+    "reason": "Durian confectionery is a dessert/food shop; do not imply bakery or full-meal suitability."
+  },
+  "finalEvidence": {
+    "checkedOn": "2026-10-22",
+    "changes": [
+      "Separate dated reporting limitations from operator-site wording.",
+      "Encode official Week·End Wednesday–Monday hours while preserving manual scheduling.",
+      "Keep Netong’s dated bowl price evidence separate from admission and illustrative meal budgets.",
+      "Record four reused existing identities as duplicate candidates, not new additions."
+    ]
+  },
+  "addressReview": {
+    "placeId": "davao-purge-tulip",
+    "reason": "Do not turn a broad Matina area label in the city tourism directory into a verified administrative barangay. Keep null pending exact-place barangay confirmation.",
+    "contextSource": "https://psa.gov.ph/classification/psgc/barangays/1130700000"
+  },
+  "coffeeRoleAudit": {
+    "checkedOn": "2026-10-22",
+    "reason": "Cafe names/accreditation do not prove a coffee menu. Add explicit independent coffee evidence for Itoy’s and Koffee Kat; remove unsupported coffee roles from Jeju, Kofilab and Divine’s. Empty menu-role arrays are valid and displayed honestly, while verified café identities remain discoverable."
+  }
+}

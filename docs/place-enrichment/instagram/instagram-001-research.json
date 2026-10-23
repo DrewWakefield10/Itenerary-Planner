@@ -1,0 +1,429 @@
+{
+  "batchId": "instagram-001",
+  "checkedOn": "2026-10-22",
+  "mode": "unapproved-research",
+  "records": [
+    {
+      "placeId": "siargao-catangnan-bridge",
+      "name": "Catangnan–Cabitoonan Bridge",
+      "destination": "Siargao",
+      "municipality": "General Luna",
+      "category": "Attractions",
+      "hasApprovedPhoto": false,
+      "batchId": "instagram-001",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://www.gojavalava.com/siargaotours",
+          "finalUrl": "https://www.gojavalava.com/siargaotours",
+          "status": 200,
+          "title": "Siargao Day Tours & Shore Excursions | Book now with Javalava Tours",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "davao-rizal-park",
+      "name": "Rizal Park",
+      "destination": "Davao",
+      "municipality": "Davao City",
+      "category": "Parks & markets",
+      "hasApprovedPhoto": false,
+      "batchId": "instagram-001",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://cpdo.davaocity.gov.ph/wp-content/uploads/2023/07/Volume-3-Sectoral_Studies_compressed.pdf",
+          "finalUrl": "https://cpdo.davaocity.gov.ph/wp-content/uploads/2023/07/Volume-3-Sectoral_Studies_compressed.pdf",
+          "status": 404,
+          "title": "",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "siargao-osmena-wetland",
+      "name": "Osmeña Wetland",
+      "destination": "Siargao",
+      "municipality": "Dapa",
+      "category": "Nature",
+      "hasApprovedPhoto": false,
+      "batchId": "instagram-001",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://businessmirror.com.ph/2023/07/08/saving-siargao-island-paradise-battling-environmental-woes/",
+          "finalUrl": "https://businessmirror.com.ph/2023/07/08/saving-siargao-island-paradise-battling-environmental-woes/",
+          "status": 403,
+          "title": "",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "boracay-nonies-ondus",
+      "name": "Nonie’s — Ondus Hotel",
+      "destination": "Boracay",
+      "municipality": "Malay",
+      "category": "Food & drink",
+      "hasApprovedPhoto": false,
+      "batchId": "instagram-001",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://www.nonies.com.ph/",
+          "finalUrl": "https://www.nonies.com.ph/",
+          "status": 200,
+          "title": "Nonie&#x27;s Boracay — One of Boracay&#x27;s Best Restaurants for 9 years",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "cebu-turning-wheels-brewery",
+      "name": "Turning Wheels Brewery",
+      "destination": "Cebu",
+      "municipality": "Cebu City",
+      "category": "Food & drink",
+      "hasApprovedPhoto": false,
+      "batchId": "instagram-001",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://turningwheelsbeer.com/",
+          "finalUrl": "https://turningwheelsbeer.com/",
+          "status": 403,
+          "title": "",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "bohol-latavola-restaurant",
+      "name": "Latavola Italian Restaurant",
+      "destination": "Bohol",
+      "municipality": "Panglao",
+      "category": "Food & drink",
+      "hasApprovedPhoto": false,
+      "batchId": "instagram-001",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://www.panglaotourism.com/directory/latavola-italian-restaurant/",
+          "finalUrl": "https://www.panglaotourism.com/directory/latavola-italian-restaurant/",
+          "status": 200,
+          "title": "Latavola Italian Restaurant &#8211; Panglao Tourism",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "baguio-slu-museum",
+      "name": "SLU Museum of Igorot Cultures and Arts",
+      "destination": "Baguio",
+      "municipality": "Baguio City",
+      "category": "Culture",
+      "hasApprovedPhoto": false,
+      "batchId": "instagram-001",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://infoboard.baguio.gov.ph/tourists-spots",
+          "finalUrl": "https://infoboard.baguio.gov.ph/tourists-spots",
+          "status": 200,
+          "title": "",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        },
+        {
+          "url": "https://www.slu.edu.ph/museum-of-igorot-culture-and-arts/",
+          "status": null,
+          "error": "fetch failed",
+          "candidates": [],
+          "limitation": "Inaccessible publisher source; no private content or authentication workaround attempted."
+        },
+        {
+          "url": "https://main.baguio.gov.ph/api/infoboard/tourist-spots/slu-museum-of-igorot-cultures-arts",
+          "finalUrl": "https://main.baguio.gov.ph/api/infoboard/tourist-spots/slu-museum-of-igorot-cultures-arts",
+          "status": 200,
+          "title": "",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "baguio-pilak-silvercraft",
+      "name": "PILAK Silvercraft and Gift Shoppe",
+      "destination": "Baguio",
+      "municipality": "Baguio City",
+      "category": "Culture",
+      "hasApprovedPhoto": false,
+      "batchId": "instagram-001",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://infoboard.baguio.gov.ph/tourists-spots",
+          "finalUrl": "https://infoboard.baguio.gov.ph/tourists-spots",
+          "status": 200,
+          "title": "",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        },
+        {
+          "url": "https://main.baguio.gov.ph/api/infoboard/tourist-spots/pilak-silvercraft-and-gift-shoppe",
+          "finalUrl": "https://main.baguio.gov.ph/api/infoboard/tourist-spots/pilak-silvercraft-and-gift-shoppe",
+          "status": 200,
+          "title": "",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "baguio-original-good-taste",
+      "name": "The Original Good Taste Restaurant",
+      "destination": "Baguio",
+      "municipality": "Baguio City",
+      "category": "Food & drink",
+      "hasApprovedPhoto": false,
+      "batchId": "instagram-001",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://goodtaste.ph/",
+          "finalUrl": "https://goodtaste.ph/",
+          "status": 200,
+          "title": "The Original Good Taste Restaurant - new website coming soon",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "siargao-naga-restaurant",
+      "name": "NĀGA Siargao",
+      "destination": "Siargao",
+      "municipality": "General Luna",
+      "category": "Food & drink",
+      "hasApprovedPhoto": false,
+      "batchId": "instagram-001",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://www.nagaconcepts.co/naga-siargao",
+          "finalUrl": "https://www.nagaconcepts.co/naga-siargao",
+          "status": 200,
+          "title": "NĀGA Siargao | Official Website | Restaurant & Cocktail Bar in General Luna",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "siargao-paseo-de-cabuntog",
+      "name": "Paseo de Cabuntog",
+      "destination": "Siargao",
+      "municipality": "General Luna",
+      "category": "Parks & markets",
+      "hasApprovedPhoto": false,
+      "batchId": "instagram-001",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://tieza.gov.ph/wp-content/uploads/2024/02/SUMMARY-OF-BID-5-1.pdf",
+          "finalUrl": "https://tieza.gov.ph/wp-content/uploads/2024/02/SUMMARY-OF-BID-5-1.pdf",
+          "status": 200,
+          "title": "",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "siargao-clubhouse-golf",
+      "name": "The Clubhouse Siargao",
+      "destination": "Siargao",
+      "municipality": "General Luna",
+      "category": "Attractions",
+      "hasApprovedPhoto": false,
+      "batchId": "instagram-001",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://theclubhouse.ph/location",
+          "finalUrl": "https://theclubhouse.ph/location",
+          "status": 200,
+          "title": "Location | The Clubhouse Siargao",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "davao-gulf-view-esplanade",
+      "name": "Gulf View Esplanade",
+      "destination": "Davao",
+      "municipality": "Davao City",
+      "category": "Parks & markets",
+      "hasApprovedPhoto": false,
+      "batchId": "instagram-001",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://davaocity.gov.ph/sustainable-environment/city-to-open-more-green-spaces-parks/",
+          "finalUrl": "https://davaocity.gov.ph/sustainable-environment/city-to-open-more-green-spaces-parks/",
+          "status": 200,
+          "title": "City to open more green spaces, parks - City Government of Davao",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "davao-candelaria-park",
+      "name": "Candelaria Park",
+      "destination": "Davao",
+      "municipality": "Davao City",
+      "category": "Parks & markets",
+      "hasApprovedPhoto": false,
+      "batchId": "instagram-001",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://davaocity.gov.ph/sustainable-environment/city-to-open-more-green-spaces-parks/",
+          "finalUrl": "https://davaocity.gov.ph/sustainable-environment/city-to-open-more-green-spaces-parks/",
+          "status": 200,
+          "title": "City to open more green spaces, parks - City Government of Davao",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "davao-communal-pocket-park",
+      "name": "Communal Pocket Park",
+      "destination": "Davao",
+      "municipality": "Davao City",
+      "category": "Parks & markets",
+      "hasApprovedPhoto": false,
+      "batchId": "instagram-001",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://davaocity.gov.ph/sustainable-environment/city-to-open-more-green-spaces-parks/",
+          "finalUrl": "https://davaocity.gov.ph/sustainable-environment/city-to-open-more-green-spaces-parks/",
+          "status": 200,
+          "title": "City to open more green spaces, parks - City Government of Davao",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "davao-marina-tuna-sandawa",
+      "name": "Marina Tuna — Sandawa Plaza",
+      "destination": "Davao",
+      "municipality": "Davao City",
+      "category": "Food & drink",
+      "hasApprovedPhoto": false,
+      "batchId": "instagram-001",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://tourism.davaocity.gov.ph/explore-the-city/restaurants/restaurants/marina-tuna-2/",
+          "finalUrl": "https://tourism.davaocity.gov.ph/explore-the-city/restaurants/restaurants/marina-tuna-2/",
+          "status": 200,
+          "title": "Davao City Tourism Website",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "boracay-sands-bar-restaurant",
+      "name": "Sands Bar & Restaurant",
+      "destination": "Boracay",
+      "municipality": "Malay",
+      "category": "Food & drink",
+      "hasApprovedPhoto": false,
+      "batchId": "instagram-001",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://boracaysands.com/amenities/",
+          "finalUrl": "https://boracaysands.com/amenities/",
+          "status": 200,
+          "title": "Pool, Spa & Beachfront Dining | Boracay Sands Hotel",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "iloilo-dapli-valeria",
+      "name": "Dapli by Breakthrough",
+      "destination": "Iloilo",
+      "municipality": "Iloilo City",
+      "category": "Food & drink",
+      "hasApprovedPhoto": false,
+      "batchId": "instagram-001",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://breakthroughrestaurants.com/dapli-2/",
+          "finalUrl": "https://breakthroughrestaurants.com/dapli-2/",
+          "status": 200,
+          "title": "Dapli 2 | Breakthrough Restaurants",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "iloilo-taytay-tigre",
+      "name": "Taytay Tigre",
+      "destination": "Iloilo",
+      "municipality": "Guimbal",
+      "category": "Culture",
+      "hasApprovedPhoto": false,
+      "batchId": "instagram-001",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://www.iloilo.gov.ph/1st-district",
+          "status": null,
+          "error": "The operation was aborted due to timeout",
+          "candidates": [],
+          "limitation": "Inaccessible publisher source; no private content or authentication workaround attempted."
+        }
+      ]
+    },
+    {
+      "placeId": "batanes-casa-napoli-town",
+      "name": "Casa Napoli Pizza and Pasta - Basco Town",
+      "destination": "Batanes",
+      "municipality": "Basco",
+      "category": "Food & drink",
+      "hasApprovedPhoto": false,
+      "batchId": "instagram-001",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://breathtakingbatanes.com/foodmap.pdf",
+          "finalUrl": "https://breathtakingbatanes.com/foodmap.pdf",
+          "status": 404,
+          "title": "",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    }
+  ]
+}

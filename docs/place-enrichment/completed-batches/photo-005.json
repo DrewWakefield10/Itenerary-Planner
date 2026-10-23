@@ -1,0 +1,2775 @@
+{
+  "batchId": "photo-005",
+  "mode": "photos-only",
+  "checkedOn": "2026-10-22",
+  "outcomes": [
+    {
+      "placeId": "batanes-honesty-coffee-shop",
+      "checkedOn": "2026-10-22",
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "Honesty Coffee Shop",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Honesty+Coffee+Shop&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Honesty Coffee Shop Batanes",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Honesty+Coffee+Shop+Batanes&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Honesty Coffee Shop Batanes",
+          "url": "https://www.flickr.com/search/?text=Honesty+Coffee+Shop+Batanes&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Honesty Batanes",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Honesty+Batanes&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 1
+        },
+        {
+          "provider": "Flickr",
+          "query": "Honesty Batanes",
+          "url": "https://www.flickr.com/search/?text=Honesty+Batanes&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=Honesty+Batanes&srlimit=4",
+          "categories": []
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=Honesty+Coffee+Shop&limit=3",
+          "candidates": []
+        }
+      ],
+      "rejections": [
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Ivatan_of_Batanes.jpg",
+          "title": "File:Ivatan of Batanes.jpg",
+          "reason": "The Ivatan of Batanes image is a portrait at a stone-house window, not a photograph of the Honesty Coffee Shop. No cafe image with established identity and rights was available."
+        }
+      ],
+      "notes": [
+        "No permission requested and no owner contacted. Official/public visibility alone does not grant reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "The Ivatan of Batanes image is a portrait at a stone-house window, not a photograph of the Honesty Coffee Shop. No cafe image with established identity and rights was available."
+    },
+    {
+      "placeId": "batanes-rakuh-idi-spring",
+      "checkedOn": "2026-10-22",
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "Rakuh-a-Idi Spring",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Rakuh-a-Idi+Spring&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Rakuh-a-Idi Spring Batanes",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Rakuh-a-Idi+Spring+Batanes&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Rakuh-a-Idi Spring Batanes",
+          "url": "https://www.flickr.com/search/?text=Rakuh-a-Idi+Spring+Batanes&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Rakuh spring",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Rakuh+spring&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Rakuh spring",
+          "url": "https://www.flickr.com/search/?text=Rakuh+spring&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=Rakuh+spring&srlimit=4",
+          "categories": []
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=Rakuh-a-Idi+Spring&limit=3",
+          "candidates": []
+        }
+      ],
+      "rejections": [],
+      "notes": [
+        "No permission requested and no owner contacted. Official/public visibility alone does not grant reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "No photograph established both the exact place/branch and compatible individual-image reuse rights in the reviewed searches. A supplied photograph with documented rights is needed."
+    },
+    {
+      "placeId": "batanes-chawa-viewdeck",
+      "checkedOn": "2026-10-22",
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "Chawa View Deck",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Chawa+View+Deck&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 1
+        },
+        {
+          "provider": "Commons",
+          "query": "Chawa View Deck Batanes",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Chawa+View+Deck+Batanes&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 1
+        },
+        {
+          "provider": "Flickr",
+          "query": "Chawa View Deck Batanes",
+          "url": "https://www.flickr.com/search/?text=Chawa+View+Deck+Batanes&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Chawa",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Chawa&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 7
+        },
+        {
+          "provider": "Flickr",
+          "query": "Chawa",
+          "url": "https://www.flickr.com/search/?text=Chawa&license=4%2C5%2C9%2C10",
+          "count": 10
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=Chawa&srlimit=4",
+          "categories": [
+            "Category:Chawa (given name)",
+            "Category:Pi chawa",
+            "Category:Chawa Rubin (Aleksander Świętochowski)",
+            "Category:Eva Kotchever"
+          ]
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=Chawa+View+Deck&limit=3",
+          "candidates": []
+        }
+      ],
+      "rejections": [
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Chawa_Viiew_Deck,_Batanes.jpg",
+          "title": "File:Chawa Viiew Deck, Batanes.jpg",
+          "reason": "The Chawa candidate caption says Sabtang Island, conflicting with the catalog’s Mahatao location. No geotag resolving this conflict was provided; the image was not accepted."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Male_human_head_louse.jpg",
+          "title": "File:Male human head louse.jpg",
+          "reason": "The Chawa candidate caption says Sabtang Island, conflicting with the catalog’s Mahatao location. No geotag resolving this conflict was provided; the image was not accepted."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Stolperstein_Barnimstr_38_(Frhai)_Chawa_Gutmann.jpg",
+          "title": "File:Stolperstein Barnimstr 38 (Frhai) Chawa Gutmann.jpg",
+          "reason": "The Chawa candidate caption says Sabtang Island, conflicting with the catalog’s Mahatao location. No geotag resolving this conflict was provided; the image was not accepted."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Lice_on_my_head_03.jpg",
+          "title": "File:Lice on my head 03.jpg",
+          "reason": "The Chawa candidate caption says Sabtang Island, conflicting with the catalog’s Mahatao location. No geotag resolving this conflict was provided; the image was not accepted."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Lice_on_my_head_04.jpg",
+          "title": "File:Lice on my head 04.jpg",
+          "reason": "The Chawa candidate caption says Sabtang Island, conflicting with the catalog’s Mahatao location. No geotag resolving this conflict was provided; the image was not accepted."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Lice_on_my_head_05.jpg",
+          "title": "File:Lice on my head 05.jpg",
+          "reason": "The Chawa candidate caption says Sabtang Island, conflicting with the catalog’s Mahatao location. No geotag resolving this conflict was provided; the image was not accepted."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Chawa_pail_Railway_station.jpg",
+          "title": "File:Chawa pail Railway station.jpg",
+          "reason": "The Chawa candidate caption says Sabtang Island, conflicting with the catalog’s Mahatao location. No geotag resolving this conflict was provided; the image was not accepted."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/davies/8845231480/",
+          "title": "Ku Chawa Trout Farm, Zomba Plateau",
+          "reason": "The Chawa candidate caption says Sabtang Island, conflicting with the catalog’s Mahatao location. No geotag resolving this conflict was provided; the image was not accepted."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/faisal_akram/6172595971/",
+          "title": "44/365",
+          "reason": "The Chawa candidate caption says Sabtang Island, conflicting with the catalog’s Mahatao location. No geotag resolving this conflict was provided; the image was not accepted."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/138425397@N05/48580621627/",
+          "title": "PFF19_Cha_Wa (4)",
+          "reason": "The Chawa candidate caption says Sabtang Island, conflicting with the catalog’s Mahatao location. No geotag resolving this conflict was provided; the image was not accepted."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/138425397@N05/48580476631/",
+          "title": "PFF19_Cha_Wa (1)",
+          "reason": "The Chawa candidate caption says Sabtang Island, conflicting with the catalog’s Mahatao location. No geotag resolving this conflict was provided; the image was not accepted."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/138425397@N05/48580476431/",
+          "title": "PFF19_Cha_Wa (2)",
+          "reason": "The Chawa candidate caption says Sabtang Island, conflicting with the catalog’s Mahatao location. No geotag resolving this conflict was provided; the image was not accepted."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/138425397@N05/48580621392/",
+          "title": "PFF19_Cha_Wa (5)",
+          "reason": "The Chawa candidate caption says Sabtang Island, conflicting with the catalog’s Mahatao location. No geotag resolving this conflict was provided; the image was not accepted."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/138425397@N05/48580621112/",
+          "title": "PFF19_Cha_Wa (6)",
+          "reason": "The Chawa candidate caption says Sabtang Island, conflicting with the catalog’s Mahatao location. No geotag resolving this conflict was provided; the image was not accepted."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/138425397@N05/48580475586/",
+          "title": "PFF19_Cha_Wa (7)",
+          "reason": "The Chawa candidate caption says Sabtang Island, conflicting with the catalog’s Mahatao location. No geotag resolving this conflict was provided; the image was not accepted."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/138425397@N05/48580475156/",
+          "title": "PFF19_Cha_Wa (8)",
+          "reason": "The Chawa candidate caption says Sabtang Island, conflicting with the catalog’s Mahatao location. No geotag resolving this conflict was provided; the image was not accepted."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/tzmp3media/40253385223/",
+          "title": "Download Audio | Manginja - Chawa",
+          "reason": "The Chawa candidate caption says Sabtang Island, conflicting with the catalog’s Mahatao location. No geotag resolving this conflict was provided; the image was not accepted."
+        }
+      ],
+      "notes": [
+        "No permission requested and no owner contacted. Official/public visibility alone does not grant reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "The Chawa candidate caption says Sabtang Island, conflicting with the catalog’s Mahatao location. No geotag resolving this conflict was provided; the image was not accepted."
+    },
+    {
+      "placeId": "batanes-san-jose-spanish-bridge",
+      "checkedOn": "2026-10-22",
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "San Jose Spanish Bridge",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=San+Jose+Spanish+Bridge&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 8
+        },
+        {
+          "provider": "Commons",
+          "query": "San Jose Spanish Batanes",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=San+Jose+Spanish+Batanes&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 2
+        },
+        {
+          "provider": "Flickr",
+          "query": "San Jose Spanish Bridge Batanes",
+          "url": "https://www.flickr.com/search/?text=San+Jose+Spanish+Bridge+Batanes&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Spanish bridge Ivana",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Spanish+bridge+Ivana&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 3
+        },
+        {
+          "provider": "Flickr",
+          "query": "Spanish bridge Ivana",
+          "url": "https://www.flickr.com/search/?text=Spanish+bridge+Ivana&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=Spanish+bridge+Ivana&srlimit=4",
+          "categories": []
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=San+Jose+Spanish+Bridge&limit=3",
+          "candidates": []
+        }
+      ],
+      "rejections": [
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Montanejos_-_21.jpeg",
+          "title": "File:Montanejos - 21.jpeg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Montanejos._Puente_de_San_Jos%C3%A9_1.jpg",
+          "title": "File:Montanejos. Puente de San José 1.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Montanejos._Puente_de_San_Jos%C3%A9_2.jpg",
+          "title": "File:Montanejos. Puente de San José 2.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Montanejos._Puente_de_San_Jos%C3%A9_3.jpg",
+          "title": "File:Montanejos. Puente de San José 3.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Montanejos._Puente_de_San_Jos%C3%A9_4.jpg",
+          "title": "File:Montanejos. Puente de San José 4.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Montanejos._Puente_de_San_Jos%C3%A9_5.jpg",
+          "title": "File:Montanejos. Puente de San José 5.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Montanejos._Puente_de_San_Jos%C3%A9_6.jpg",
+          "title": "File:Montanejos. Puente de San José 6.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Puente-Acueducto_de_San_Jos%C3%A9_(Montanejos,_Castell%C3%B3n).jpg",
+          "title": "File:Puente-Acueducto de San José (Montanejos, Castellón).jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:San_Jose_de_Obrero_Church.jpg",
+          "title": "File:San Jose de Obrero Church.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Simbahan_ng_Ivana_(San_Jose_el_Obrero_Church).jpg",
+          "title": "File:Simbahan ng Ivana (San Jose el Obrero Church).jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Spanish_Bridge_Batanes.jpg",
+          "title": "File:Spanish Bridge Batanes.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Spanish_Bridge_made_of_stone.jpg",
+          "title": "File:Spanish Bridge made of stone.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        }
+      ],
+      "notes": [],
+      "status": "added",
+      "photo": {
+        "placeId": "batanes-san-jose-spanish-bridge",
+        "src": "/images/places/batanes-san-jose-spanish-bridge.jpg",
+        "srcSmall": "/images/places/batanes-san-jose-spanish-bridge-640.jpg",
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Old_Spanish_Bridge.png",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Old_Spanish_Bridge.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "anne_jimenez",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "attribution": "anne_jimenez / Wikimedia Commons / CC BY 2.0. Resized and JPEG compressed.",
+        "alt": "Old stone arch bridge in Ivana, Batanes",
+        "width": 1024,
+        "height": 679,
+        "checkedOn": "2026-10-22"
+      }
+    },
+    {
+      "placeId": "batanes-national-museum",
+      "checkedOn": "2026-10-22",
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "National Museum of the Philippines",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=National+Museum+of+the+Philippines&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 6
+        },
+        {
+          "provider": "Commons",
+          "query": "National Museum of Batanes",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=National+Museum+of+Batanes&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 6
+        },
+        {
+          "provider": "Flickr",
+          "query": "National Museum of the Philippines Batanes",
+          "url": "https://www.flickr.com/search/?text=National+Museum+of+the+Philippines+Batanes&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Batanes museum",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Batanes+museum&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 6
+        },
+        {
+          "provider": "Flickr",
+          "query": "Batanes museum",
+          "url": "https://www.flickr.com/search/?text=Batanes+museum&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=Batanes+museum&srlimit=4",
+          "categories": [
+            "Category:Photographs by Judgefloro, 2019"
+          ]
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=National+Museum+of+the+Philippines&limit=3",
+          "candidates": [
+            {
+              "id": "Q1667156",
+              "label": "National Museum of the Philippines",
+              "description": "national museum institution in the Philippines",
+              "url": "http://www.wikidata.org/entity/Q1667156"
+            },
+            {
+              "id": "Q55624779",
+              "label": "National Museum Complex",
+              "description": "main set of museums of the National Museum of the Philippines in Manila",
+              "url": "http://www.wikidata.org/entity/Q55624779"
+            },
+            {
+              "id": "Q3385100",
+              "label": "National Museum of the Philippines (Cebu)",
+              "description": "national museum in Cebu City, Philippines",
+              "url": "http://www.wikidata.org/entity/Q3385100"
+            }
+          ]
+        }
+      ],
+      "rejections": [
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:National_Museum,_Philippines.JPG",
+          "title": "File:National Museum, Philippines.JPG",
+          "reason": "Rejected Manila museum, Mahatao church and botanical specimens; none depicts the museum in Uyugan."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Staircase_of_the_National_Museum_of_Slovenia.jpg",
+          "title": "File:Staircase of the National Museum of Slovenia.jpg",
+          "reason": "Rejected Manila museum, Mahatao church and botanical specimens; none depicts the museum in Uyugan."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:The_National_Museum_of_the_Philippines_in_Manila_on_June_7,_2022_(54898).jpg",
+          "title": "File:The National Museum of the Philippines in Manila on June 7, 2022 (54898).jpg",
+          "reason": "Rejected Manila museum, Mahatao church and botanical specimens; none depicts the museum in Uyugan."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:National_Museum_of_Natural_History_facade_with_Daniel_Quasar%27s_%22Progress%22_variant_of_the_LGBTQ%2B_rainbow_flag_(Manila,_Philippines)(06-30-2024).jpg",
+          "title": "File:National Museum of Natural History facade with Daniel Quasar's \"Progress\" variant of the LGBTQ+ rainbow flag (Manila, Philippines)(06-30-2024).jpg",
+          "reason": "Rejected Manila museum, Mahatao church and botanical specimens; none depicts the museum in Uyugan."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Seal_of_the_National_Museum_of_the_Philippines.png",
+          "title": "File:Seal of the National Museum of the Philippines.png",
+          "reason": "Rejected Manila museum, Mahatao church and botanical specimens; none depicts the museum in Uyugan."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:National_Museum_of_the_Philippines_logo_(full).png",
+          "title": "File:National Museum of the Philippines logo (full).png",
+          "reason": "Rejected Manila museum, Mahatao church and botanical specimens; none depicts the museum in Uyugan."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Sperm_Whale_(Skeleton).jpg",
+          "title": "File:Sperm Whale (Skeleton).jpg",
+          "reason": "Rejected Manila museum, Mahatao church and botanical specimens; none depicts the museum in Uyugan."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Goniophlebium_coadunatum_Barcelona_%26_M_G_Price_nmnhbotany_2096136_NMNH-00604355.jpg",
+          "title": "File:Goniophlebium coadunatum Barcelona & M G Price nmnhbotany 2096136 NMNH-00604355.jpg",
+          "reason": "Rejected Manila museum, Mahatao church and botanical specimens; none depicts the museum in Uyugan."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Cyathea_fenicis_Copel_nmnhbotany_2124150_NMNH-00134756.jpg",
+          "title": "File:Cyathea fenicis Copel nmnhbotany 2124150 NMNH-00134756.jpg",
+          "reason": "Rejected Manila museum, Mahatao church and botanical specimens; none depicts the museum in Uyugan."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Piper_fenixii_C_DC_nmnhbotany_2094929_NMNH-00106398.jpg",
+          "title": "File:Piper fenixii C DC nmnhbotany 2094929 NMNH-00106398.jpg",
+          "reason": "Rejected Manila museum, Mahatao church and botanical specimens; none depicts the museum in Uyugan."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Pinanga_batanensis_Becc_nmnhbotany_2159893_NMNH-00087679-000001.jpg",
+          "title": "File:Pinanga batanensis Becc nmnhbotany 2159893 NMNH-00087679-000001.jpg",
+          "reason": "Rejected Manila museum, Mahatao church and botanical specimens; none depicts the museum in Uyugan."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:MAHATAO_CHURCH_OF_BATANES.jpg",
+          "title": "File:MAHATAO CHURCH OF BATANES.jpg",
+          "reason": "Rejected Manila museum, Mahatao church and botanical specimens; none depicts the museum in Uyugan."
+        }
+      ],
+      "notes": [
+        "No permission requested and no owner contacted. Official/public visibility alone does not grant reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "Rejected Manila museum, Mahatao church and botanical specimens; none depicts the museum in Uyugan."
+    },
+    {
+      "placeId": "batanes-savidug-village",
+      "checkedOn": "2026-10-22",
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "Savidug Heritage Village",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Savidug+Heritage+Village&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Savidug Heritage Village Batanes",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Savidug+Heritage+Village+Batanes&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Savidug Heritage Village Batanes",
+          "url": "https://www.flickr.com/search/?text=Savidug+Heritage+Village+Batanes&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Savidug",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Savidug&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 4
+        },
+        {
+          "provider": "Flickr",
+          "query": "Savidug",
+          "url": "https://www.flickr.com/search/?text=Savidug&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=Savidug&srlimit=4",
+          "categories": []
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=Savidug+Heritage+Village&limit=3",
+          "candidates": []
+        }
+      ],
+      "rejections": [
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Ivatan_House.jpg",
+          "title": "File:Ivatan House.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Wakay_Beach_Sabtang_Batanes_1.jpg",
+          "title": "File:Wakay Beach Sabtang Batanes 1.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Savidug_Stone_Houses.jpg",
+          "title": "File:Savidug Stone Houses.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        }
+      ],
+      "notes": [],
+      "status": "added",
+      "photo": {
+        "placeId": "batanes-savidug-village",
+        "src": "/images/places/batanes-savidug-village.jpg",
+        "srcSmall": "/images/places/batanes-savidug-village-640.jpg",
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Batanes_Stone_house.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Batanes_Stone_house.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "Greenthumb331",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "Greenthumb331 / Wikimedia Commons / CC BY-SA 4.0. Resized and JPEG compressed.",
+        "alt": "Traditional stone house beside the chapel in Savidug, Sabtang, Batanes",
+        "width": 1200,
+        "height": 503,
+        "checkedOn": "2026-10-22"
+      }
+    },
+    {
+      "placeId": "el-nido-corong-corong-beach",
+      "checkedOn": "2026-10-22",
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "Corong Corong Beach",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Corong+Corong+Beach&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 8
+        },
+        {
+          "provider": "Commons",
+          "query": "Corong Corong Palawan",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Corong+Corong+Palawan&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 8
+        },
+        {
+          "provider": "Flickr",
+          "query": "Corong Corong Beach Palawan",
+          "url": "https://www.flickr.com/search/?text=Corong+Corong+Beach+Palawan&license=4%2C5%2C9%2C10",
+          "count": 3
+        },
+        {
+          "provider": "Commons",
+          "query": "Corong Corong",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Corong+Corong&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 8
+        },
+        {
+          "provider": "Flickr",
+          "query": "Corong Corong",
+          "url": "https://www.flickr.com/search/?text=Corong+Corong&license=4%2C5%2C9%2C10",
+          "count": 12
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=Corong+Corong&srlimit=4",
+          "categories": [
+            "Category:Corong",
+            "Category:Gorges du Corong",
+            "Category:Corong-Corong Beach",
+            "Category:Water cranes"
+          ]
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=Corong+Corong+Beach&limit=3",
+          "candidates": []
+        }
+      ],
+      "rejections": [
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Corong_Corong_Beach,_El_Nido,_Palawan_Island,_Philippines.jpg",
+          "title": "File:Corong Corong Beach, El Nido, Palawan Island, Philippines.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Corong_Corong_Beach_2,_El_Nido,_Palawan_Island,_Philippines.jpg",
+          "title": "File:Corong Corong Beach 2, El Nido, Palawan Island, Philippines.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Corong_Corong_Beach_3,_El_Nido,_Palawan_Island,_Philippines.jpg",
+          "title": "File:Corong Corong Beach 3, El Nido, Palawan Island, Philippines.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Corong_Corong_Beach,_Vista,_El_Nido,_Palawan_Island,_Philippines.jpg",
+          "title": "File:Corong Corong Beach, Vista, El Nido, Palawan Island, Philippines.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Corong_Corong_Beach,_Coconut_trees,_El_Nido,_Palawan_Island,_Philippines.jpg",
+          "title": "File:Corong Corong Beach, Coconut trees, El Nido, Palawan Island, Philippines.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Corong_Corong,_El_Nido,_Palawan_Island,_Philippines.jpg",
+          "title": "File:Corong Corong, El Nido, Palawan Island, Philippines.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Corong_Corong_Beach,_Rocks,_El_Nido,_Palawan,_Philippines.jpg",
+          "title": "File:Corong Corong Beach, Rocks, El Nido, Palawan, Philippines.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Corong_Corong_Beach,_Coconut_palm_trees,_El_Nido,_Palawan_Island,_Philippines.jpg",
+          "title": "File:Corong Corong Beach, Coconut palm trees, El Nido, Palawan Island, Philippines.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/travelourplanet/36266778064/",
+          "title": "Corong Corong Beach, El Nido, Philippines",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/91701539@N03/49388462287/",
+          "title": "Corong Corong Beach- El Nido- Palawan- Philippines",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/travelourplanet/36931569432/",
+          "title": "Corong Corong Beach, El Nido, Philippines",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/ministeriodedefensaperu/51868951621/",
+          "title": "OPERATIVO CONJUNTO ENTRE MINISTERIO DE DEFENSA LA MARINA DE GUERRA DEL PER’U Y POLICIA NACIONAL DEL PERÚ EN PUEBLO NUEVO Y CORONGO",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/ministeriodedefensaperu/51869264449/",
+          "title": "OPERATIVO CONJUNTO ENTRE MINISTERIO DE DEFENSA LA MARINA DE GUERRA DEL PER’U Y POLICIA NACIONAL DEL PERÚ EN PUEBLO NUEVO Y CORONGO",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/ministeriodedefensaperu/51867983477/",
+          "title": "OPERATIVO CONJUNTO ENTRE MINISTERIO DE DEFENSA LA MARINA DE GUERRA DEL PER’U Y POLICIA NACIONAL DEL PERÚ EN PUEBLO NUEVO Y CORONGO",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/ministeriodedefensaperu/51869029743/",
+          "title": "OPERATIVO CONJUNTO ENTRE MINISTERIO DE DEFENSA LA MARINA DE GUERRA DEL PER’U Y POLICIA NACIONAL DEL PERÚ EN PUEBLO NUEVO Y CORONGO",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/ministeriodedefensaperu/51869030013/",
+          "title": "OPERATIVO CONJUNTO ENTRE MINISTERIO DE DEFENSA LA MARINA DE GUERRA DEL PER’U Y POLICIA NACIONAL DEL PERÚ EN PUEBLO NUEVO Y CORONGO",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/ministeriodedefensaperu/51869264124/",
+          "title": "OPERATIVO CONJUNTO ENTRE MINISTERIO DE DEFENSA LA MARINA DE GUERRA DEL PER’U Y POLICIA NACIONAL DEL PERÚ EN PUEBLO NUEVO Y CORONGO",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/ministeriodedefensaperu/51869271234/",
+          "title": "OPERATIVO CONJUNTO ENTRE MINISTERIO DE DEFENSA LA MARINA DE GUERRA DEL PER’U Y POLICIA NACIONAL DEL PERÚ EN PUEBLO NUEVO Y CORONGO",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/ministeriodedefensaperu/51869031713/",
+          "title": "OPERATIVO CONJUNTO ENTRE MINISTERIO DE DEFENSA LA MARINA DE GUERRA DEL PER’U Y POLICIA NACIONAL DEL PERÚ EN PUEBLO NUEVO Y CORONGO",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/ministeriodedefensaperu/51869265559/",
+          "title": "OPERATIVO CONJUNTO ENTRE MINISTERIO DE DEFENSA LA MARINA DE GUERRA DEL PER’U Y POLICIA NACIONAL DEL PERÚ EN PUEBLO NUEVO Y CORONGO",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        }
+      ],
+      "notes": [],
+      "status": "added",
+      "photo": {
+        "placeId": "el-nido-corong-corong-beach",
+        "src": "/images/places/el-nido-corong-corong-beach.jpg",
+        "srcSmall": "/images/places/el-nido-corong-corong-beach-640.jpg",
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Corong_Corong_Beach,_White_sand_beach,_Palms,_El_Nido,_Palawan_Island,_Philippines.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/0/06/Corong_Corong_Beach%2C_White_sand_beach%2C_Palms%2C_El_Nido%2C_Palawan_Island%2C_Philippines.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "Vyacheslav Argenberg",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "© Vyacheslav Argenberg / Wikimedia Commons / CC BY 4.0. Resized and JPEG compressed.",
+        "alt": "Sandy shoreline and coconut palms at Corong Corong Beach in El Nido, Palawan",
+        "width": 1200,
+        "height": 800,
+        "checkedOn": "2026-10-22"
+      }
+    },
+    {
+      "placeId": "el-nido-secret-lagoon",
+      "checkedOn": "2026-10-22",
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "Secret Lagoon",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Secret+Lagoon&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 8
+        },
+        {
+          "provider": "Commons",
+          "query": "Secret Lagoon Palawan",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Secret+Lagoon+Palawan&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Secret Lagoon Palawan",
+          "url": "https://www.flickr.com/search/?text=Secret+Lagoon+Palawan&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Secret Lagoon El Nido",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Secret+Lagoon+El+Nido&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Secret Lagoon El Nido",
+          "url": "https://www.flickr.com/search/?text=Secret+Lagoon+El+Nido&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Wikidata linked image records",
+          "url": "https://www.wikidata.org/w/api.php?action=wbgetentities&format=json&ids=Q27016704&props=claims%7Clabels%7Cdescriptions%7Csitelinks&languages=en",
+          "entity": "Q27016704",
+          "files": []
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=Secret+Lagoon+El+Nido&srlimit=4",
+          "categories": []
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=Secret+Lagoon&limit=3",
+          "candidates": [
+            {
+              "id": "Q27016704",
+              "label": "Secret Lagoon",
+              "url": "http://www.wikidata.org/entity/Q27016704"
+            }
+          ]
+        }
+      ],
+      "rejections": [
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Secret_lagoon_beach_on_Miniloc_-_panoramio.jpg",
+          "title": "File:Secret lagoon beach on Miniloc - panoramio.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Secret_lagoon_beach_on_Miniloc_island_-_panoramio.jpg",
+          "title": "File:Secret lagoon beach on Miniloc island - panoramio.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Secret_lagoon_beach_on_Miniloc_island_-_panoramio_-_Tuderna.jpg",
+          "title": "File:Secret lagoon beach on Miniloc island - panoramio - Tuderna.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Secret_lagoon_beach_on_Miniloc_island_-_panoramio_-_Tuderna_(1).jpg",
+          "title": "File:Secret lagoon beach on Miniloc island - panoramio - Tuderna (1).jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Secret_Lagoon_in_Isla_Gigantes.jpg",
+          "title": "File:Secret Lagoon in Isla Gigantes.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Outdoor_gym_equipment_at_Secret_Harbour,_November_2019_01.jpg",
+          "title": "File:Outdoor gym equipment at Secret Harbour, November 2019 01.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Outdoor_gym_equipment_at_Secret_Harbour,_November_2019_02.jpg",
+          "title": "File:Outdoor gym equipment at Secret Harbour, November 2019 02.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Secret_Lagoon_at_Malakdang,_Sabtang_Island,_Batanes.jpg",
+          "title": "File:Secret Lagoon at Malakdang, Sabtang Island, Batanes.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        }
+      ],
+      "notes": [
+        "No permission requested and no owner contacted. Official/public visibility alone does not grant reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "No photograph established both the exact place/branch and compatible individual-image reuse rights in the reviewed searches. A supplied photograph with documented rights is needed."
+    },
+    {
+      "placeId": "el-nido-cudugnon-cave",
+      "checkedOn": "2026-10-22",
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "Cudugnon Cave",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Cudugnon+Cave&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Cudugnon Cave Palawan",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Cudugnon+Cave+Palawan&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Cudugnon Cave Palawan",
+          "url": "https://www.flickr.com/search/?text=Cudugnon+Cave+Palawan&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Cudugnon",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Cudugnon&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Cudugnon",
+          "url": "https://www.flickr.com/search/?text=Cudugnon&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=Cudugnon&srlimit=4",
+          "categories": []
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=Cudugnon+Cave&limit=3",
+          "candidates": []
+        }
+      ],
+      "rejections": [],
+      "notes": [
+        "No permission requested and no owner contacted. Official/public visibility alone does not grant reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "No photograph established both the exact place/branch and compatible individual-image reuse rights in the reviewed searches. A supplied photograph with documented rights is needed."
+    },
+    {
+      "placeId": "puerto-princesa-mendoza-park",
+      "checkedOn": "2026-10-22",
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "Mendoza Park",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Mendoza+Park&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 8
+        },
+        {
+          "provider": "Commons",
+          "query": "Mendoza Palawan",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Mendoza+Palawan&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 8
+        },
+        {
+          "provider": "Flickr",
+          "query": "Mendoza Park Palawan",
+          "url": "https://www.flickr.com/search/?text=Mendoza+Park+Palawan&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Mendoza park Puerto Princesa",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Mendoza+park+Puerto+Princesa&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Mendoza park Puerto Princesa",
+          "url": "https://www.flickr.com/search/?text=Mendoza+park+Puerto+Princesa&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Wikidata linked image records",
+          "url": "https://www.wikidata.org/w/api.php?action=wbgetentities&format=json&ids=Q55507340&props=claims%7Clabels%7Cdescriptions%7Csitelinks&languages=en",
+          "entity": "Q55507340",
+          "files": []
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=Mendoza+park+Puerto+Princesa&srlimit=4",
+          "categories": []
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=Mendoza+Park&limit=3",
+          "candidates": [
+            {
+              "id": "Q55507340",
+              "label": "Mendoza Park",
+              "url": "http://www.wikidata.org/entity/Q55507340"
+            },
+            {
+              "id": "Q49525285",
+              "label": "Mendoza Park",
+              "description": "park in Sacramento County, California, United States of America",
+              "url": "http://www.wikidata.org/entity/Q49525285"
+            }
+          ]
+        }
+      ],
+      "rejections": [
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Mendoza_-_Park_gate.jpg",
+          "title": "File:Mendoza - Park gate.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Fontain_in_the_Hidalgo_Park_in_Mendoza_City,_Veracruz.jpg",
+          "title": "File:Fontain in the Hidalgo Park in Mendoza City, Veracruz.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:General_San_Mart%C3%ADn_Park,_Mendoza_01.jpg",
+          "title": "File:General San Martín Park, Mendoza 01.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Fountain_of_the_Continents,_Mendoza_01.jpg",
+          "title": "File:Fountain of the Continents, Mendoza 01.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Fountain_of_the_Continents,_Mendoza_02.jpg",
+          "title": "File:Fountain of the Continents, Mendoza 02.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Fountain_of_the_Continents,_Mendoza_03.jpg",
+          "title": "File:Fountain of the Continents, Mendoza 03.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Havana_-_Mendoza_park.jpg",
+          "title": "File:Havana - Mendoza park.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Havana_-_Mendoza_Park_2.jpg",
+          "title": "File:Havana - Mendoza Park 2.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Defense.gov_News_Photo_120322-M-IJ457-055_-_U.S._Marine_Corps_Lance_Cpl._Melinda_Carbajal_left_with_Marine_Wing_Support_Squadron_172_1st_Marine_Aircraft_Wing_and_Philippine_Navy_Petty.jpg",
+          "title": "File:Defense.gov News Photo 120322-M-IJ457-055 - U.S. Marine Corps Lance Cpl. Melinda Carbajal left with Marine Wing Support Squadron 172 1st Marine Aircraft Wing and Philippine Navy Petty.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Historical_Marker_of_Higinio_Mendoza.JPG",
+          "title": "File:Historical Marker of Higinio Mendoza.JPG",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Hrep3610-20220614-154607.jpg",
+          "title": "File:Hrep3610-20220614-154607.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Mark_Llandro_Mendoza_-_cropped_(hrep3610-20220614-154607).jpg",
+          "title": "File:Mark Llandro Mendoza - cropped (hrep3610-20220614-154607).jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Mary_Mitzi_Cajayon-Uy_-_cropped_(hrep3610-20220614-154607).jpg",
+          "title": "File:Mary Mitzi Cajayon-Uy - cropped (hrep3610-20220614-154607).jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Higinio_Acosta_Mendoza.jpg",
+          "title": "File:Higinio Acosta Mendoza.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Excursionistas_de_Palaw%C3%A1n_agasajados_por_Cavite%C3%B1os.jpg",
+          "title": "File:Excursionistas de Palawán agasajados por Caviteños.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Balikatan_2026-_5-3_Long_Range_Fires_Battalion_Prepares_to_Move_(9644716).jpg",
+          "title": "File:Balikatan 2026- 5-3 Long Range Fires Battalion Prepares to Move (9644716).jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        }
+      ],
+      "notes": [
+        "No permission requested and no owner contacted. Official/public visibility alone does not grant reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "No photograph established both the exact place/branch and compatible individual-image reuse rights in the reviewed searches. A supplied photograph with documented rights is needed."
+    },
+    {
+      "placeId": "puerto-princesa-princess-eulalia-park",
+      "checkedOn": "2026-10-22",
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "Princess Eulalia Park",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Princess+Eulalia+Park&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Princess Eulalia Palawan",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Princess+Eulalia+Palawan&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Princess Eulalia Park Palawan",
+          "url": "https://www.flickr.com/search/?text=Princess+Eulalia+Park+Palawan&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Eulalia park Palawan",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Eulalia+park+Palawan&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Eulalia park Palawan",
+          "url": "https://www.flickr.com/search/?text=Eulalia+park+Palawan&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=Eulalia+park+Palawan&srlimit=4",
+          "categories": []
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=Princess+Eulalia+Park&limit=3",
+          "candidates": []
+        }
+      ],
+      "rejections": [],
+      "notes": [
+        "No permission requested and no owner contacted. Official/public visibility alone does not grant reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "No photograph established both the exact place/branch and compatible individual-image reuse rights in the reviewed searches. A supplied photograph with documented rights is needed."
+    },
+    {
+      "placeId": "puerto-princesa-palawan-museum",
+      "checkedOn": "2026-10-22",
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "Palawan Museum",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Palawan+Museum&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 8
+        },
+        {
+          "provider": "Commons",
+          "query": "Palawan Museum Palawan",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Palawan+Museum+Palawan&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 7
+        },
+        {
+          "provider": "Flickr",
+          "query": "Palawan Museum Palawan",
+          "url": "https://www.flickr.com/search/?text=Palawan+Museum+Palawan&license=4%2C5%2C9%2C10",
+          "count": 11
+        },
+        {
+          "provider": "Flickr",
+          "query": "Palawan museum",
+          "url": "https://www.flickr.com/search/?text=Palawan+museum&license=4%2C5%2C9%2C10",
+          "count": 12
+        },
+        {
+          "provider": "Commons category members",
+          "category": "Category:Palawan Museum",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=categorymembers&gcmtitle=Category%3APalawan+Museum&gcmtype=file&gcmlimit=30&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 15
+        },
+        {
+          "provider": "Wikidata linked image records",
+          "url": "https://www.wikidata.org/w/api.php?action=wbgetentities&format=json&ids=Q25663410&props=claims%7Clabels%7Cdescriptions%7Csitelinks&languages=en",
+          "entity": "Q25663410",
+          "files": [
+            "Palawan Museum.jpg"
+          ]
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=Palawan+museum&srlimit=4",
+          "categories": [
+            "Category:Palawan Museum"
+          ]
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=Palawan+Museum&limit=3",
+          "candidates": [
+            {
+              "id": "Q25663410",
+              "label": "Museum of Palawan",
+              "description": "museum in Palawan",
+              "url": "http://www.wikidata.org/entity/Q25663410"
+            }
+          ]
+        }
+      ],
+      "rejections": [
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Tapayan_Manunggul.jpg",
+          "title": "File:Tapayan Manunggul.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Anteater_Balintong.jpg",
+          "title": "File:Anteater Balintong.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Sildok.jpg",
+          "title": "File:Sildok.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Guhit_kalingking.jpg",
+          "title": "File:Guhit kalingking.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Nota_kudyapi.jpg",
+          "title": "File:Nota kudyapi.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Buskay5.jpg",
+          "title": "File:Buskay5.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Plaza_Cuartel_Museum_historical_marker_for_the_Palawan_Massacre.jpg",
+          "title": "File:Plaza Cuartel Museum historical marker for the Palawan Massacre.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Gubing.jpg",
+          "title": "File:Gubing.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/davidstanleytravel/48021874722/",
+          "title": "Special Battalion Museum",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/davidstanleytravel/48024536976/",
+          "title": "Imelda Marcos Shoes",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/trishhhh/2334603971/",
+          "title": "Philippines March 2005 055",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/101561334@N08/24517982393/",
+          "title": "Porcelain, Palawan, 15th Century",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/101561334@N08/32125443384/",
+          "title": "Neolithic Pottery Burial Jar, Palawan, 890-710 BC",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/101561334@N08/32588323440/",
+          "title": "Label for Neolithic Pottery Burial Jar, Palawan, 890-710 BC",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/101561334@N08/24514008484/",
+          "title": "Metal Age Pottery, Palawan",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/101561334@N08/24777150039/",
+          "title": "Neolithic Pottery Burial Jar, Palawan, 890-710 BC",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/101561334@N08/25144673285/",
+          "title": "Neolithic Pottery Burial Jar, Palawan, 890-710 BC",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/101561334@N08/25093330921/",
+          "title": "Ivory Elephant Tusks Recovered from Palawan Shipwreck",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/101561334@N08/25185083155/",
+          "title": "Distribution of Syllabic Writers in Mindoro & Palawan",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/101561334@N08/32928172006/",
+          "title": "Neolithic Pottery Burial Jar, Palawan, 890-710 BC",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/101561334@N08/25118474056/",
+          "title": "Porcelain, Palawan, Late 12th Century",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Mga_buskay_1.jpg",
+          "title": "File:Mga buskay 1.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:20151002_164314_-_Copy.jpg",
+          "title": "File:20151002 164314 - Copy.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Kalombiga.jpg",
+          "title": "File:Kalombiga.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Kalombiga2.jpg",
+          "title": "File:Kalombiga2.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Gamit_nin_paraoma.jpg",
+          "title": "File:Gamit nin paraoma.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Buskay3.jpg",
+          "title": "File:Buskay3.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Pawikan.jpg",
+          "title": "File:Pawikan.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        }
+      ],
+      "notes": [],
+      "status": "added",
+      "photo": {
+        "placeId": "puerto-princesa-palawan-museum",
+        "src": "/images/places/puerto-princesa-palawan-museum.jpg",
+        "srcSmall": "/images/places/puerto-princesa-palawan-museum-640.jpg",
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Palawan_Museum.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/7/77/Palawan_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "Ringer",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "Ringer / Wikimedia Commons / CC BY-SA 4.0. Resized and JPEG compressed.",
+        "alt": "Entrance facade and sign of the Palawan Museum in Puerto Princesa City",
+        "width": 716,
+        "height": 614,
+        "checkedOn": "2026-10-22"
+      }
+    },
+    {
+      "placeId": "puerto-princesa-world-war-ii-memorial-museum",
+      "checkedOn": "2026-10-22",
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "World War II Memorial Museum",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=World+War+II+Memorial+Museum&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 8
+        },
+        {
+          "provider": "Commons",
+          "query": "World War II Palawan",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=World+War+II+Palawan&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 6
+        },
+        {
+          "provider": "Flickr",
+          "query": "World War II Memorial Museum Palawan",
+          "url": "https://www.flickr.com/search/?text=World+War+II+Memorial+Museum+Palawan&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Palawan war museum",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Palawan+war+museum&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 3
+        },
+        {
+          "provider": "Flickr",
+          "query": "Palawan war museum",
+          "url": "https://www.flickr.com/search/?text=Palawan+war+museum&license=4%2C5%2C9%2C10",
+          "count": 2
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=Palawan+war+museum&srlimit=4",
+          "categories": []
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=World+War+II+Memorial+Museum&limit=3",
+          "candidates": []
+        }
+      ],
+      "rejections": [
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Lofoten_Krigsminnemuseum_(World_War_2_Memorial_Museum_1940-1945),_Fiskergata_3,_Svolv%C3%A6r,_Norway_2019-05-08_DSC09819.jpg",
+          "title": "File:Lofoten Krigsminnemuseum (World War 2 Memorial Museum 1940-1945), Fiskergata 3, Svolvær, Norway 2019-05-08 DSC09819.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Martin_Linge._Lofoten_World_War_II_Memorial_Museum_(Lofoten_Krigsminnemuseum)_Svolv%C3%A6r,_Norway_2008.jpg",
+          "title": "File:Martin Linge. Lofoten World War II Memorial Museum (Lofoten Krigsminnemuseum) Svolvær, Norway 2008.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:WW2_German_Airforce_(Luftwaffe)_Oberf%C3%A4hnrich_uniform_etc._Lofoten_World_War_II_Memorial_Museum_(Lofoten_Krigsminnemuseum)_Svolv%C3%A6r,_Norway_2008.jpg",
+          "title": "File:WW2 German Airforce (Luftwaffe) Oberfähnrich uniform etc. Lofoten World War II Memorial Museum (Lofoten Krigsminnemuseum) Svolvær, Norway 2008.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Soviet_Red_Army_Cavalry_uniform_jacket_blouse_M1923._Lofoten_World_War_II_Memorial_Museum_(Lofoten_Krigsminnemuseum)_Svolv%C3%A6r,_Norway_2008.jpg",
+          "title": "File:Soviet Red Army Cavalry uniform jacket blouse M1923. Lofoten World War II Memorial Museum (Lofoten Krigsminnemuseum) Svolvær, Norway 2008.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Soviet_Russian_POW_in_Norway._Telogreika_quilted_winter_jacket_etc._Lofoten_World_War_II_Memorial_Museum_(Lofoten_Krigsminnemuseum)_Svolv%C3%A6r,_Norway_2008.jpg",
+          "title": "File:Soviet Russian POW in Norway. Telogreika quilted winter jacket etc. Lofoten World War II Memorial Museum (Lofoten Krigsminnemuseum) Svolvær, Norway 2008.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Wooden_sculpture_of_an_eagle_and_rabbit_and_other_handicraft_made_by_Russian_prisoners_of_war._Lofoten_World_War_II_Memorial_Museum_(Lofoten_Krigsminnemuseum)_Svolv%C3%A6r,_Norway_2008.jpg",
+          "title": "File:Wooden sculpture of an eagle and rabbit and other handicraft made by Russian prisoners of war. Lofoten World War II Memorial Museum (Lofoten Krigsminnemuseum) Svolvær, Norway 2008.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Russian_Red_Army_uniform._Lofoten_World_War_II_Memorial_Museum_(Lofoten_Krigsminnemuseum)_Svolv%C3%A6r,_Norway_2008.jpg",
+          "title": "File:Russian Red Army uniform. Lofoten World War II Memorial Museum (Lofoten Krigsminnemuseum) Svolvær, Norway 2008.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:WW2_Red_Army_Russian_soldier_and_official_uniforms._Lofoten_World_War_II_Memorial_Museum_(Lofoten_Krigsminnemuseum)_Svolv%C3%A6r,_Norway_2008.jpg",
+          "title": "File:WW2 Red Army Russian soldier and official uniforms. Lofoten World War II Memorial Museum (Lofoten Krigsminnemuseum) Svolvær, Norway 2008.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Palawan_Massacre_POW_Burial_Site_1945.jpg",
+          "title": "File:Palawan Massacre POW Burial Site 1945.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Plaza_Cuartel_Museum_historical_marker_for_the_Palawan_Massacre.jpg",
+          "title": "File:Plaza Cuartel Museum historical marker for the Palawan Massacre.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Palawan_massacre_historical_marker.jpg",
+          "title": "File:Palawan massacre historical marker.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Palawan_massacre_historical_marker_2,_Plaza_Cuartel,_Puerta_Princesa.jpg",
+          "title": "File:Palawan massacre historical marker 2, Plaza Cuartel, Puerta Princesa.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Palawan_massacre_historical_marker_3,_Plaza_Cuartel,_Puerta_Princesa.jpg",
+          "title": "File:Palawan massacre historical marker 3, Plaza Cuartel, Puerta Princesa.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:A_Beach_in_Limestone._Coron,_Palawan,_Philippines.jpg",
+          "title": "File:A Beach in Limestone. Coron, Palawan, Philippines.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Operating_room_(MAMAS_D45-416-44E),_National_Museum_of_Health_and_Medicine_(302736523).jpg",
+          "title": "File:Operating room (MAMAS D45-416-44E), National Museum of Health and Medicine (302736523).jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Special_Battalion_Museum_(48021874722).jpg",
+          "title": "File:Special Battalion Museum (48021874722).jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/davidstanleytravel/48021874722/",
+          "title": "Special Battalion Museum",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/trishhhh/2334603971/",
+          "title": "Philippines March 2005 055",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        }
+      ],
+      "notes": [
+        "No permission requested and no owner contacted. Official/public visibility alone does not grant reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "No photograph established both the exact place/branch and compatible individual-image reuse rights in the reviewed searches. A supplied photograph with documented rights is needed."
+    },
+    {
+      "placeId": "puerto-princesa-butterfly-ecological-garden",
+      "checkedOn": "2026-10-22",
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "Palawan Butterfly Ecological Garden",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Palawan+Butterfly+Ecological+Garden&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Palawan Butterfly Ecological Palawan",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Palawan+Butterfly+Ecological+Palawan&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Palawan Butterfly Ecological Garden Palawan",
+          "url": "https://www.flickr.com/search/?text=Palawan+Butterfly+Ecological+Garden+Palawan&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Palawan butterfly",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Palawan+butterfly&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 8
+        },
+        {
+          "provider": "Flickr",
+          "query": "Palawan butterfly",
+          "url": "https://www.flickr.com/search/?text=Palawan+butterfly&license=4%2C5%2C9%2C10",
+          "count": 12
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=Palawan+butterfly&srlimit=4",
+          "categories": [
+            "Category:Rapala sphinx"
+          ]
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=Palawan+Butterfly+Ecological+Garden&limit=3",
+          "candidates": []
+        }
+      ],
+      "rejections": [
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:ArhopalaEumolphusAristomachusFBB1903AC1.jpg",
+          "title": "File:ArhopalaEumolphusAristomachusFBB1903AC1.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:EurydiceMFUpUn_538_539_AC1.jpg",
+          "title": "File:EurydiceMFUpUn 538 539 AC1.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Baron_butterfly_caterpillar.JPG",
+          "title": "File:Baron butterfly caterpillar.JPG",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Lycaenid_butterfly,Palawan_Island,the_Philippines,_Jamides_aritai.male.jpg",
+          "title": "File:Lycaenid butterfly,Palawan Island,the Philippines, Jamides aritai.male.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Palawan_Butterfly_Garden_(1).jpg",
+          "title": "File:Palawan Butterfly Garden (1).jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Palawan_Butterfly_Garden_(2).jpg",
+          "title": "File:Palawan Butterfly Garden (2).jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Summer_vacation.jpg",
+          "title": "File:Summer vacation.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Blue_Moon_Butterfly_1.jpg",
+          "title": "File:Blue Moon Butterfly 1.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/dany13/33767703265/",
+          "title": "IMG_0005/Thailand/Koh Samui Island/Cirrochroa Tyche Rotundata/",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/berniedup/8420067759/",
+          "title": "Asian Swallowtail (Papilio lowii) underside",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/berniedup/8420041181/",
+          "title": "Asian Swallowtail (Papilio lowii)",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/biodivlibrary/7704258702/",
+          "title": "n174_w1150",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/dany13/33717513472/",
+          "title": "IMG_9842/Thailand/Koh Samui Island/Euploea Eunice Leucogonis/Blue Banded King Crow/",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/dany13/33874290335/",
+          "title": "IMG_9847/Thailand/Koh Samui Island/Ideopsis Vulgaris Macrina/femelle/",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/dany13/33789032656/",
+          "title": "IMG_9537/Thailand/Koh Samui Island/Euploea Midamus Chloe/male",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/balakrishnan_valappil/30491408175/",
+          "title": "Neochera inops_Adult B",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/dany13/26408843125/",
+          "title": "IMG_1030/Burma/Arakan States/ Pantoporia Hordonia Hordonia/Common Lascar",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/frank-wouters/3402929501/",
+          "title": "spiegelpauw",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/tkksummers/6597822929/",
+          "title": "Butterfly farm Palawan, Philipines",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/dany13/33717512672/",
+          "title": "IMG_9930/Thailand/Koh Samui Island/ Euréma Andersonii Andersonii/male/ One Spot Grass Yellow/",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        }
+      ],
+      "notes": [
+        "No permission requested and no owner contacted. Official/public visibility alone does not grant reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "No photograph established both the exact place/branch and compatible individual-image reuse rights in the reviewed searches. A supplied photograph with documented rights is needed."
+    },
+    {
+      "placeId": "puerto-princesa-mitra-ranch",
+      "checkedOn": "2026-10-22",
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "Mitras Ranch",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Mitras+Ranch&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 3
+        },
+        {
+          "provider": "Commons",
+          "query": "Mitras Ranch Palawan",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Mitras+Ranch+Palawan&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 1
+        },
+        {
+          "provider": "Flickr",
+          "query": "Mitras Ranch Palawan",
+          "url": "https://www.flickr.com/search/?text=Mitras+Ranch+Palawan&license=4%2C5%2C9%2C10",
+          "count": 12
+        },
+        {
+          "provider": "Commons",
+          "query": "Mitra ranch",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Mitra+ranch&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 3
+        },
+        {
+          "provider": "Flickr",
+          "query": "Mitra ranch",
+          "url": "https://www.flickr.com/search/?text=Mitra+ranch&license=4%2C5%2C9%2C10",
+          "count": 12
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=Mitra+ranch&srlimit=4",
+          "categories": []
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=Mitras+Ranch&limit=3",
+          "candidates": []
+        }
+      ],
+      "rejections": [
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:View_from_Baker%27s_Hill_(9162925937).jpg",
+          "title": "File:View from Baker's Hill (9162925937).jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Villa_at_Mitra%27s_Ranch_on_Baker%27s_Hill_(9165141956).jpg",
+          "title": "File:Villa at Mitra's Ranch on Baker's Hill (9165141956).jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/shankaronline/9212014703/",
+          "title": "Marilyn Monroe figurine",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/shankaronline/9165141956/",
+          "title": "Villa at Mitra's Ranch on Baker's Hill",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/shankaronline/9212011229/",
+          "title": "Decorative hedge trimming",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/shankaronline/9162927471/",
+          "title": "Zipline hut at Baker's Hill",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/shankaronline/9165143768/",
+          "title": "Tourists at the Baker's Hill villa",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/pinay67/103270313/",
+          "title": "Near Mitra's Ranch, Palawan, Philippines",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/shankaronline/9165478818/",
+          "title": "Moi with Tootsie, our tourist guide",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/shankaronline/9162912239/",
+          "title": "Baker's Hill- the bakery",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/shankaronline/9165147420/",
+          "title": "Horse riding on Baker's Hill",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/shankaronline/9165140154/",
+          "title": "Baker's Hill- the bakery",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/shankaronline/9162925937/",
+          "title": "View from Baker's Hill",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/shankaronline/9163278713/",
+          "title": "Upmarket housing on Baker's Hill",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        }
+      ],
+      "notes": [],
+      "status": "added",
+      "photo": {
+        "placeId": "puerto-princesa-mitra-ranch",
+        "src": "/images/places/puerto-princesa-mitra-ranch.jpg",
+        "srcSmall": "/images/places/puerto-princesa-mitra-ranch-640.jpg",
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Mitra%27s_Ranch_Puerto_Princesa_,_Palawan_-_panoramio.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Mitra%27s_Ranch_Puerto_Princesa_%2C_Palawan_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "Mats Sjödin",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+        "attribution": "Mats Sjödin / Wikimedia Commons / CC BY 3.0. Resized and JPEG compressed.",
+        "alt": "Grassy grounds, fence and distant coastal view at Mitra’s Ranch in Puerto Princesa",
+        "width": 1200,
+        "height": 900,
+        "checkedOn": "2026-10-22"
+      }
+    },
+    {
+      "placeId": "coron-saint-augustine-parish",
+      "checkedOn": "2026-10-22",
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "Saint Augustine Parish Church",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Saint+Augustine+Parish+Church&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 8
+        },
+        {
+          "provider": "Commons",
+          "query": "Saint Augustine Parish Palawan",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Saint+Augustine+Parish+Palawan&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 1
+        },
+        {
+          "provider": "Flickr",
+          "query": "Saint Augustine Parish Church Palawan",
+          "url": "https://www.flickr.com/search/?text=Saint+Augustine+Parish+Church+Palawan&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Coron church",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Coron+church&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 8
+        },
+        {
+          "provider": "Flickr",
+          "query": "Coron church",
+          "url": "https://www.flickr.com/search/?text=Coron+church&license=4%2C5%2C9%2C10",
+          "count": 12
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=Coron+church&srlimit=4",
+          "categories": [
+            "Category:Église Saint-Louis de Coron",
+            "Category:Papal tiaras",
+            "Category:Exterior of Église Saint-Louis de Coron",
+            "Category:Interior of Église Saint-Louis de Coron"
+          ]
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=Saint+Augustine+Parish+Church&limit=3",
+          "candidates": [
+            {
+              "id": "Q18750483",
+              "label": "Lubao Church",
+              "description": "Roman Catholic parish church in Lubao, Pampanga, Philippines",
+              "url": "http://www.wikidata.org/entity/Q18750483"
+            },
+            {
+              "id": "Q7587193",
+              "label": "Baliwag Church",
+              "description": "Roman Catholic parish church in Baliwag, Bulacan, Philippines",
+              "url": "http://www.wikidata.org/entity/Q7587193"
+            },
+            {
+              "id": "Q61775296",
+              "label": "Dumangas Church",
+              "description": "Roman Catholic parish church in Dumangas, Iloilo, Philippines",
+              "url": "http://www.wikidata.org/entity/Q61775296"
+            }
+          ]
+        }
+      ],
+      "rejections": [
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Pinamalayan_Church.jpg",
+          "title": "File:Pinamalayan Church.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Collective_wedding_at_Saint_Augustine_Parish_Church_of_Baliuag_Bulacan.jpg",
+          "title": "File:Collective wedding at Saint Augustine Parish Church of Baliuag Bulacan.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Collective_wedding_at_Saint_Augustine_Parish_Church_of_Baliuag_14.jpg",
+          "title": "File:Collective wedding at Saint Augustine Parish Church of Baliuag 14.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Collective_wedding_at_Saint_Augustine_Parish_Church_of_Baliuag_21.jpg",
+          "title": "File:Collective wedding at Saint Augustine Parish Church of Baliuag 21.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Collective_wedding_at_Saint_Augustine_Parish_Church_of_Baliuag_22.jpg",
+          "title": "File:Collective wedding at Saint Augustine Parish Church of Baliuag 22.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Collective_wedding_at_Saint_Augustine_Parish_Church_of_Baliuag_23.jpg",
+          "title": "File:Collective wedding at Saint Augustine Parish Church of Baliuag 23.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Collective_wedding_at_Saint_Augustine_Parish_Church_of_Baliuag_27.jpg",
+          "title": "File:Collective wedding at Saint Augustine Parish Church of Baliuag 27.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Porta_Sancta_of_the_Saint_Augustine_Parish_Church_(Baliuag)_08.jpg",
+          "title": "File:Porta Sancta of the Saint Augustine Parish Church (Baliuag) 08.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:The_Quadricentennial_Door_of_the_Fort_of_Cuyo.jpg",
+          "title": "File:The Quadricentennial Door of the Fort of Cuyo.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:San_Agustin_Church_at_Coron,_Palawan.jpg",
+          "title": "File:San Agustin Church at Coron, Palawan.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Coron_(49)_%C3%89glise_Saint-Louis_-_Ext%C3%A9rieur_-_01.jpg",
+          "title": "File:Coron (49) Église Saint-Louis - Extérieur - 01.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Coron_(49)_%C3%89glise_Saint-Louis_-_Int%C3%A9rieur_-_01.jpg",
+          "title": "File:Coron (49) Église Saint-Louis - Intérieur - 01.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Coron_(49)_%C3%89glise_Saint-Louis_-_Int%C3%A9rieur_-_Statue_de_Saint-Roch.jpg",
+          "title": "File:Coron (49) Église Saint-Louis - Intérieur - Statue de Saint-Roch.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Coron_(49)_%C3%89glise_Saint-Louis_-_Int%C3%A9rieur_-_Monument_aux_morts.jpg",
+          "title": "File:Coron (49) Église Saint-Louis - Intérieur - Monument aux morts.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Coron_(49)_%C3%89glise_Saint-Louis_-_Int%C3%A9rieur_-_Baie_00.jpg",
+          "title": "File:Coron (49) Église Saint-Louis - Intérieur - Baie 00.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Coron_(49)_%C3%89glise_Saint-Louis_-_Int%C3%A9rieur_-_Baie_01.jpg",
+          "title": "File:Coron (49) Église Saint-Louis - Intérieur - Baie 01.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Coron_(49)_%C3%89glise_Saint-Louis_-_Int%C3%A9rieur_-_Baie_02.jpg",
+          "title": "File:Coron (49) Église Saint-Louis - Intérieur - Baie 02.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/bara-koukoug/36183048012/",
+          "title": "Église Saint-Germain, Argentan",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/greenmarlin/5383628817/",
+          "title": "Duomo - Abside",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/51470606@N05/5428274247/",
+          "title": "Iglesia de San Jéronimo el Real-Madrid",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/70626035@N00/16250293978/",
+          "title": "Convento de San Pascual Bailón * Madrid",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/eltb/16518687976/",
+          "title": "Parroquia San Fernando (Cuauhtémoc) Centro,Ciudad de México.",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/eltb/8549746137/",
+          "title": "Catedral Basilica de León\"Nuestra Madre Santisima de la Luz\"León,Estado de Guanajuato,México",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/eltb/15935387173/",
+          "title": "Templo Nuestra Señora del Loreto (Cuauhtémoc) Centro,Ciudad de México,México",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/eltb/12263196714/",
+          "title": "Catedral Basilica de León\"Nuestra Madre Santisima de la Luz\"León,Estado de Guanajuato,México",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/eltb/33856881643/",
+          "title": "Parroquia del Purisimo Corazón de María,Del Valle (Benito Juárez) Ciudad de México",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/51470606@N05/6784132293/",
+          "title": "Parroquia de Santa Bárbara (Salesas Reales) - Madrid",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/eltb/9431143120/",
+          "title": "Sacristia del Templo Santa María de Gracia,Guadalajara,Estado de Jalisco,México",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/eltb/10634396804/",
+          "title": "Catedral Ciudad Victoria\"Sagrado Corazón de Jesús,Ciudad Victoria,Estado de Tamaulipas,México",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        }
+      ],
+      "notes": [
+        "No permission requested and no owner contacted. Official/public visibility alone does not grant reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "No photograph established both the exact place/branch and compatible individual-image reuse rights in the reviewed searches. A supplied photograph with documented rights is needed."
+    },
+    {
+      "placeId": "el-nido-nagkalit-kalit-falls",
+      "checkedOn": "2026-10-22",
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "Nagkalit-kalit Falls",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Nagkalit-kalit+Falls&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Nagkalit-kalit Falls Palawan",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Nagkalit-kalit+Falls+Palawan&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Nagkalit-kalit Falls Palawan",
+          "url": "https://www.flickr.com/search/?text=Nagkalit-kalit+Falls+Palawan&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Nagkalit",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Nagkalit&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Nagkalit",
+          "url": "https://www.flickr.com/search/?text=Nagkalit&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=Nagkalit&srlimit=4",
+          "categories": []
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=Nagkalit-kalit+Falls&limit=3",
+          "candidates": []
+        }
+      ],
+      "rejections": [],
+      "notes": [
+        "No permission requested and no owner contacted. Official/public visibility alone does not grant reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "No photograph established both the exact place/branch and compatible individual-image reuse rights in the reviewed searches. A supplied photograph with documented rights is needed."
+    },
+    {
+      "placeId": "puerto-princesa-iwahig-firefly-watching",
+      "checkedOn": "2026-10-22",
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "Iwahig River",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Iwahig+River&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 4
+        },
+        {
+          "provider": "Commons",
+          "query": "Iwahig River Palawan",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Iwahig+River+Palawan&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 3
+        },
+        {
+          "provider": "Flickr",
+          "query": "Iwahig River Palawan",
+          "url": "https://www.flickr.com/search/?text=Iwahig+River+Palawan&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Iwahig firefly",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Iwahig+firefly&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Iwahig firefly",
+          "url": "https://www.flickr.com/search/?text=Iwahig+firefly&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=Iwahig+firefly&srlimit=4",
+          "categories": []
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=Iwahig+River&limit=3",
+          "candidates": [
+            {
+              "id": "Q109973660",
+              "label": "Iwahig River",
+              "description": "river in Palawan, Philippines",
+              "url": "http://www.wikidata.org/entity/Q109973660"
+            }
+          ]
+        }
+      ],
+      "rejections": [
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Iwahig_Penal_Farm.jpg",
+          "title": "File:Iwahig Penal Farm.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Iwahig_River_Operational_Map_1st_Edition_-_NARA_-_76058442.jpg",
+          "title": "File:Iwahig River Operational Map 1st Edition - NARA - 76058442.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Iwahig_River,_Puerto_Princesa.jpg",
+          "title": "File:Iwahig River, Puerto Princesa.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Iwahig_River,_Puerto_Princesa_City.jpg",
+          "title": "File:Iwahig River, Puerto Princesa City.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        }
+      ],
+      "notes": [
+        "No permission requested and no owner contacted. Official/public visibility alone does not grant reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "No photograph established both the exact place/branch and compatible individual-image reuse rights in the reviewed searches. A supplied photograph with documented rights is needed."
+    },
+    {
+      "placeId": "puerto-princesa-ugong-rock",
+      "checkedOn": "2026-10-22",
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "Ugong Rock",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Ugong+Rock&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 3
+        },
+        {
+          "provider": "Commons",
+          "query": "Ugong Rock Palawan",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Ugong+Rock+Palawan&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 2
+        },
+        {
+          "provider": "Flickr",
+          "query": "Ugong Rock Palawan",
+          "url": "https://www.flickr.com/search/?text=Ugong+Rock+Palawan&license=4%2C5%2C9%2C10",
+          "count": 1
+        },
+        {
+          "provider": "Commons",
+          "query": "Ugong",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Ugong&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 8
+        },
+        {
+          "provider": "Flickr",
+          "query": "Ugong",
+          "url": "https://www.flickr.com/search/?text=Ugong&license=4%2C5%2C9%2C10",
+          "count": 1
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=Ugong&srlimit=4",
+          "categories": [
+            "Category:Ugong, Pasig",
+            "Category:Ugong, Valenzuela City",
+            "Category:Ugong footbridge (Circumferential Road 5–Ortigas Avenue, Pasig City)",
+            "Category:Barangay Ugong Norte, Quezon City"
+          ]
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=Ugong+Rock&limit=3",
+          "candidates": []
+        }
+      ],
+      "rejections": [
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Zipline_in_ugong_rock_adventure.jpg",
+          "title": "File:Zipline in ugong rock adventure.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Ugong_Rock_Formation.jpg",
+          "title": "File:Ugong Rock Formation.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/davidstanleytravel/48092715913/",
+          "title": "Ugong Rock",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Ugong_Bridge_Ugong_Creek_Balagtas_02.jpg",
+          "title": "File:Ugong Bridge Ugong Creek Balagtas 02.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Ugong_Bridge_Ugong_Creek_Balagtas_03.jpg",
+          "title": "File:Ugong Bridge Ugong Creek Balagtas 03.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Ugong_Bridge_Ugong_Creek_Balagtas_04.jpg",
+          "title": "File:Ugong Bridge Ugong Creek Balagtas 04.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Ugong_Footbridge_07.jpg",
+          "title": "File:Ugong Footbridge 07.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Ugong,_Valenzuela_12.jpg",
+          "title": "File:Ugong, Valenzuela 12.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Ugong_Footbridge_11.jpg",
+          "title": "File:Ugong Footbridge 11.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Ugong_Footbridge_10.jpg",
+          "title": "File:Ugong Footbridge 10.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Ugong_Footbridge_13.jpg",
+          "title": "File:Ugong Footbridge 13.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        }
+      ],
+      "notes": [],
+      "status": "added",
+      "photo": {
+        "placeId": "puerto-princesa-ugong-rock",
+        "src": "/images/places/puerto-princesa-ugong-rock.jpg",
+        "srcSmall": "/images/places/puerto-princesa-ugong-rock-640.jpg",
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Ugong_Rock_(48092715913).jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Ugong_Rock_%2848092715913%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "David Stanley from Nanaimo, Canada",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "attribution": "David Stanley from Nanaimo, Canada / Wikimedia Commons / CC BY 2.0. Resized and JPEG compressed.",
+        "alt": "Viewpoint and Ugong Rock sign at the attraction in Tagabinet, Puerto Princesa",
+        "width": 1024,
+        "height": 768,
+        "checkedOn": "2026-10-22"
+      }
+    },
+    {
+      "placeId": "puerto-princesa-buenavista-viewdeck",
+      "checkedOn": "2026-10-22",
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "Buenavista Viewdeck",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Buenavista+Viewdeck&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Buenavista Viewdeck Palawan",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Buenavista+Viewdeck+Palawan&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Buenavista Viewdeck Palawan",
+          "url": "https://www.flickr.com/search/?text=Buenavista+Viewdeck+Palawan&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Buenavista Viewdeck",
+          "url": "https://www.flickr.com/search/?text=Buenavista+Viewdeck&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=Buenavista+Viewdeck&srlimit=4",
+          "categories": []
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=Buenavista+Viewdeck&limit=3",
+          "candidates": []
+        }
+      ],
+      "rejections": [],
+      "notes": [
+        "No permission requested and no owner contacted. Official/public visibility alone does not grant reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "No photograph established both the exact place/branch and compatible individual-image reuse rights in the reviewed searches. A supplied photograph with documented rights is needed."
+    },
+    {
+      "placeId": "puerto-princesa-bakers-hill",
+      "checkedOn": "2026-10-22",
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "Bakers Hill",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Bakers+Hill&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 8
+        },
+        {
+          "provider": "Commons",
+          "query": "Bakers Hill Palawan",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Bakers+Hill+Palawan&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 1
+        },
+        {
+          "provider": "Flickr",
+          "query": "Bakers Hill Palawan",
+          "url": "https://www.flickr.com/search/?text=Bakers+Hill+Palawan&license=4%2C5%2C9%2C10",
+          "count": 12
+        },
+        {
+          "provider": "Flickr",
+          "query": "Bakers Hill",
+          "url": "https://www.flickr.com/search/?text=Bakers+Hill&license=4%2C5%2C9%2C10",
+          "count": 12
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=Bakers+Hill&srlimit=4",
+          "categories": [
+            "Category:Bakers Hill",
+            "Category:Bakers Hill, Western Australia",
+            "Category:Bakers Hill, Tiverton",
+            "Category:Woondowing Nature Reserve"
+          ]
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=Bakers+Hill&limit=3",
+          "candidates": [
+            {
+              "id": "Q4849265",
+              "label": "Bakers Hill",
+              "description": "town in the Wheatbelt region of Western Australia, Australia",
+              "url": "http://www.wikidata.org/entity/Q4849265"
+            },
+            {
+              "id": "Q66466823",
+              "label": "Bakers Hill",
+              "description": "street in the London Borough of Barnet",
+              "url": "http://www.wikidata.org/entity/Q66466823"
+            },
+            {
+              "id": "Q4849082",
+              "label": "Baker's Hill",
+              "description": "suburb in Coleford, Gloucestershire, England, UK",
+              "url": "http://www.wikidata.org/entity/Q4849082"
+            }
+          ]
+        }
+      ],
+      "rejections": [
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:CSIRO_ScienceImage_4287_Salinity_and_high_water_table_at_CSIRO_Yalanbee_research_farm_Bakers_Hill_WA_9_Sept_1974.jpg",
+          "title": "File:CSIRO ScienceImage 4287 Salinity and high water table at CSIRO Yalanbee research farm Bakers Hill WA 9 Sept 1974.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:CSIRO_ScienceImage_4390_Groundwater_seeping_from_channelbank_at_Yalanbee_BAkers_Hill_WA.jpg",
+          "title": "File:CSIRO ScienceImage 4390 Groundwater seeping from channelbank at Yalanbee BAkers Hill WA.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Bakers_Hill_railway_station_Western_Australia.jpg",
+          "title": "File:Bakers Hill railway station Western Australia.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Bakers_Hill_Pie_Shop.jpg",
+          "title": "File:Bakers Hill Pie Shop.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Bakers_Hill,_Barnet,_from_Hadley_Wood_Road_on_the_London_Loop.jpg",
+          "title": "File:Bakers Hill, Barnet, from Hadley Wood Road on the London Loop.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Bakers_Hill_23_April_2017.jpg",
+          "title": "File:Bakers Hill 23 April 2017.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Bakers_Hill_-_geograph.org.uk_-_3032501.jpg",
+          "title": "File:Bakers Hill - geograph.org.uk - 3032501.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Bakers_Hill_GE_Hwy_entrance.jpg",
+          "title": "File:Bakers Hill GE Hwy entrance.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:ArevisionofAmblypodia_Bethune_Baker_Plate_II.jpg",
+          "title": "File:ArevisionofAmblypodia Bethune Baker Plate II.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/shankaronline/9162912239/",
+          "title": "Baker's Hill- the bakery",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/shankaronline/9165140154/",
+          "title": "Baker's Hill- the bakery",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/shankaronline/9165143768/",
+          "title": "Tourists at the Baker's Hill villa",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/shankaronline/9162925937/",
+          "title": "View from Baker's Hill",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/shankaronline/9163278713/",
+          "title": "Upmarket housing on Baker's Hill",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/shankaronline/9212014703/",
+          "title": "Marilyn Monroe figurine",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/shankaronline/9165141956/",
+          "title": "Villa at Mitra's Ranch on Baker's Hill",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/shankaronline/9212011229/",
+          "title": "Decorative hedge trimming",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/shankaronline/9165145134/",
+          "title": "Horse riding on Baker's Hill",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/shankaronline/9165478818/",
+          "title": "Moi with Tootsie, our tourist guide",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/shankaronline/9163529383/",
+          "title": "The crowds picking up the 'hot cakes'",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/wanderstrucktravelandtours/7746255956/",
+          "title": "DSC04110",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/keepitsurreal/3972848653/",
+          "title": "Baker Canyon",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/26786061@N00/6849987951/",
+          "title": "Baker backcountry",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/jovanlaar/5144768557/",
+          "title": "Baker",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/26786061@N00/6849938001/",
+          "title": "Baker backcountry",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/26786061@N00/6849973667/",
+          "title": "Baker backcountry",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/26786061@N00/6850005741/",
+          "title": "Baker backcountry",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/curtsm/4807044774/",
+          "title": "Mt. Baker & Coleman Glacier",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/curtsm/4807428914/",
+          "title": "Mt. Baker",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/26786061@N00/6849956199/",
+          "title": "Baker backcountry",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/docentjoyce/22921620783/",
+          "title": "Zzyzx Pond - Desert Studies Center",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/docentjoyce/23252972550/",
+          "title": "Zzyzx Calif - Limestone Formation",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/curtsm/2906808432/",
+          "title": "Mt Baker & blueberries",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        }
+      ],
+      "notes": [
+        "No permission requested and no owner contacted. Official/public visibility alone does not grant reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "No photograph established both the exact place/branch and compatible individual-image reuse rights in the reviewed searches. A supplied photograph with documented rights is needed."
+    },
+    {
+      "placeId": "puerto-princesa-balayong-peoples-park",
+      "checkedOn": "2026-10-22",
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "Balayong Peoples Park",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Balayong+Peoples+Park&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Balayong Peoples Palawan",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Balayong+Peoples+Palawan&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Balayong Peoples Park Palawan",
+          "url": "https://www.flickr.com/search/?text=Balayong+Peoples+Park+Palawan&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Balayong park",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Balayong+park&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Balayong park",
+          "url": "https://www.flickr.com/search/?text=Balayong+park&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=Balayong+park&srlimit=4",
+          "categories": []
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=Balayong+Peoples+Park&limit=3",
+          "candidates": []
+        }
+      ],
+      "rejections": [],
+      "notes": [
+        "No permission requested and no owner contacted. Official/public visibility alone does not grant reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "No photograph established both the exact place/branch and compatible individual-image reuse rights in the reviewed searches. A supplied photograph with documented rights is needed."
+    },
+    {
+      "placeId": "el-nido-artcafe",
+      "checkedOn": "2026-10-22",
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "El Nido Boutique & Artcafe",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=El+Nido+Boutique+%26+Artcafe&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "El Nido Boutique Palawan",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=El+Nido+Boutique+Palawan&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 2
+        },
+        {
+          "provider": "Flickr",
+          "query": "El Nido Boutique & Artcafe Palawan",
+          "url": "https://www.flickr.com/search/?text=El+Nido+Boutique+%26+Artcafe+Palawan&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Artcafe El Nido",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Artcafe+El+Nido&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Artcafe El Nido",
+          "url": "https://www.flickr.com/search/?text=Artcafe+El+Nido&license=4%2C5%2C9%2C10",
+          "count": 1
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=Artcafe+El+Nido&srlimit=4",
+          "categories": []
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=El+Nido+Boutique+%26+Artcafe&limit=3",
+          "candidates": []
+        }
+      ],
+      "rejections": [
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Landscapes_%26_Resort_Infrastructure5.jpg",
+          "title": "File:Landscapes & Resort Infrastructure5.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Isla_Amara.jpg",
+          "title": "File:Isla Amara.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/travelourplanet/36958194831/",
+          "title": "Art Café, El Nido, Philippines",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        }
+      ],
+      "notes": [
+        "No permission requested and no owner contacted. Official/public visibility alone does not grant reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "No photograph established both the exact place/branch and compatible individual-image reuse rights in the reviewed searches. A supplied photograph with documented rights is needed."
+    },
+    {
+      "placeId": "el-nido-trattoria-altrove",
+      "checkedOn": "2026-10-22",
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "Trattoria Altrove",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Trattoria+Altrove&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Trattoria Altrove Palawan",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Trattoria+Altrove+Palawan&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Trattoria Altrove Palawan",
+          "url": "https://www.flickr.com/search/?text=Trattoria+Altrove+Palawan&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Altrove El Nido",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Altrove+El+Nido&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Altrove El Nido",
+          "url": "https://www.flickr.com/search/?text=Altrove+El+Nido&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=Altrove+El+Nido&srlimit=4",
+          "categories": []
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=Trattoria+Altrove&limit=3",
+          "candidates": []
+        }
+      ],
+      "rejections": [],
+      "notes": [
+        "No permission requested and no owner contacted. Official/public visibility alone does not grant reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "No photograph established both the exact place/branch and compatible individual-image reuse rights in the reviewed searches. A supplied photograph with documented rights is needed."
+    },
+    {
+      "placeId": "coron-trattoria-altrove",
+      "checkedOn": "2026-10-22",
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "Trattoria Altrove",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Trattoria+Altrove&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Trattoria Altrove Palawan",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Trattoria+Altrove+Palawan&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Trattoria Altrove Palawan",
+          "url": "https://www.flickr.com/search/?text=Trattoria+Altrove+Palawan&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Altrove Coron",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Altrove+Coron&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Altrove Coron",
+          "url": "https://www.flickr.com/search/?text=Altrove+Coron&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=Altrove+Coron&srlimit=4",
+          "categories": []
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=Trattoria+Altrove&limit=3",
+          "candidates": []
+        }
+      ],
+      "rejections": [],
+      "notes": [
+        "No permission requested and no owner contacted. Official/public visibility alone does not grant reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "No photograph established both the exact place/branch and compatible individual-image reuse rights in the reviewed searches. A supplied photograph with documented rights is needed."
+    }
+  ],
+  "validation": {
+    "schemaAndImages": "passed",
+    "publishedImagesVisuallyReviewed": true,
+    "preservationHashes": "passed",
+    "cardsAndDetailsDesktopMobile": "passed"
+  }
+}

@@ -1,0 +1,570 @@
+{
+  "batchId": "instagram-017",
+  "checkedOn": "2026-10-22",
+  "mode": "unapproved-research",
+  "records": [
+    {
+      "placeId": "boracay-balinghai-beach",
+      "name": "Balinghai Beach",
+      "destination": "Boracay",
+      "municipality": "Malay",
+      "category": "Nature",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-017",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://www.tpb.gov.ph/wp-content/uploads/2023/10/Boracay-Map.pdf",
+          "finalUrl": "https://www.tpb.gov.ph/wp-content/uploads/2023/10/Boracay-Map.pdf",
+          "status": 403,
+          "title": "",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "iloilo-iloilo-river-esplanade",
+      "name": "Iloilo River Esplanade",
+      "destination": "Iloilo",
+      "municipality": "Iloilo City",
+      "category": "Nature",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-017",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://rsc6.gov.ph/wp-content/uploads/2024/10/WV-RSET-Chapter-8-TOURISM.pdf",
+          "finalUrl": "https://rsc6.gov.ph/wp-content/uploads/2024/10/WV-RSET-Chapter-8-TOURISM.pdf",
+          "status": 403,
+          "title": "",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Iloilo_River_Esplanade",
+          "finalUrl": "https://en.wikipedia.org/wiki/Iloilo_River_Esplanade",
+          "status": 200,
+          "title": "Iloilo River Esplanade - Wikipedia",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "iloilo-molo-church-plaza",
+      "name": "Molo Church",
+      "destination": "Iloilo",
+      "municipality": "Iloilo City",
+      "category": "Culture",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-017",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://ldr.senate.gov.ph/sites/default/files/2023-03/1380811653%21.pdf",
+          "finalUrl": "https://ldr.senate.gov.ph/sites/default/files/2023-03/1380811653%21.pdf",
+          "status": 403,
+          "title": "",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Molo_Church",
+          "finalUrl": "https://en.wikipedia.org/wiki/Molo_Church",
+          "status": 200,
+          "title": "Molo Church - Wikipedia",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "iloilo-jaro-plaza-heritage-area",
+      "name": "Jaro Plaza",
+      "destination": "Iloilo",
+      "municipality": "Iloilo City",
+      "category": "Parks & markets",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-017",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://ldr.senate.gov.ph/sites/default/files/2023-03/1380811653%21.pdf",
+          "finalUrl": "https://ldr.senate.gov.ph/sites/default/files/2023-03/1380811653%21.pdf",
+          "status": 403,
+          "title": "",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Jaro_Plaza",
+          "finalUrl": "https://en.wikipedia.org/wiki/Jaro_Plaza",
+          "status": 200,
+          "title": "Jaro Plaza - Wikipedia",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        },
+        {
+          "url": "https://www.exploreiloilo.com/do/info/jaro-plaza/",
+          "finalUrl": "https://www.exploreiloilo.com/do/info/jaro-plaza/",
+          "status": 200,
+          "title": "Jaro Plaza - Explore Iloilo",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "iloilo-molo-mansion",
+      "name": "Molo Mansion",
+      "destination": "Iloilo",
+      "municipality": "Iloilo City",
+      "category": "Culture",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-017",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://iloilocity.gov.ph/main/wp-content/uploads/2021/03/Vol1_CLUP-3-3-21-final-draft-1.pdf",
+          "finalUrl": "https://iloilocity.gov.ph/main/wp-content/uploads/2021/03/Vol1_CLUP-3-3-21-final-draft-1.pdf",
+          "status": 404,
+          "title": "",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Molo_Mansion",
+          "finalUrl": "https://en.wikipedia.org/wiki/Molo_Mansion",
+          "status": 200,
+          "title": "Molo Mansion - Wikipedia",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "iloilo-national-museum-western-visayas",
+      "name": "National Museum Western Visayas",
+      "destination": "Iloilo",
+      "municipality": "Iloilo City",
+      "category": "Culture",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-017",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://www.nationalmuseum.gov.ph/our-museums/regional-area-and-site-museums/western-visayas/",
+          "finalUrl": "https://www.nationalmuseum.gov.ph/our-museums/regional-area-and-site-museums/western-visayas/",
+          "status": 200,
+          "title": "Western Visayas &#8211; National Museum",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/National_Museum_of_the_Philippines_%E2%80%93_Iloilo",
+          "finalUrl": "https://en.wikipedia.org/wiki/National_Museum_of_the_Philippines_%E2%80%93_Iloilo",
+          "status": 200,
+          "title": "National Museum of the Philippines – Iloilo - Wikipedia",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "iloilo-casa-real",
+      "name": "Casa Real de Iloilo",
+      "destination": "Iloilo",
+      "municipality": "Iloilo City",
+      "category": "Culture",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-017",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://www.iloilo.gov.ph/en/gallery/casa-real-de-iloilo",
+          "status": null,
+          "error": "The operation was aborted due to timeout",
+          "candidates": [],
+          "limitation": "Inaccessible publisher source; no private content or authentication workaround attempted."
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Casa_Real_de_Iloilo",
+          "finalUrl": "https://en.wikipedia.org/wiki/Casa_Real_de_Iloilo",
+          "status": 200,
+          "title": "Casa Real de Iloilo - Wikipedia",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "iloilo-jaro-cathedral",
+      "name": "Jaro Cathedral",
+      "destination": "Iloilo",
+      "municipality": "Iloilo City",
+      "category": "Culture",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-017",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://ldr.senate.gov.ph/sites/default/files/2023-03/1380811653%21.pdf",
+          "finalUrl": "https://ldr.senate.gov.ph/sites/default/files/2023-03/1380811653%21.pdf",
+          "status": 403,
+          "title": "",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Jaro_Cathedral",
+          "finalUrl": "https://en.wikipedia.org/wiki/Jaro_Cathedral",
+          "status": 200,
+          "title": "Jaro Cathedral - Wikipedia",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "iloilo-calle-real",
+      "name": "Calle Real heritage streets",
+      "destination": "Iloilo",
+      "municipality": "Iloilo City",
+      "category": "Culture",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-017",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://iloilocity.gov.ph/main/wp-content/uploads/2021/03/Vol1_CLUP-3-3-21-final-draft-1.pdf",
+          "finalUrl": "https://iloilocity.gov.ph/main/wp-content/uploads/2021/03/Vol1_CLUP-3-3-21-final-draft-1.pdf",
+          "status": 404,
+          "title": "",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Calle_Real%2C_Iloilo",
+          "finalUrl": "https://en.wikipedia.org/wiki/Calle_Real%2C_Iloilo",
+          "status": 200,
+          "title": "Calle Real, Iloilo - Wikipedia",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "iloilo-plaza-libertad",
+      "name": "Plaza Libertad",
+      "destination": "Iloilo",
+      "municipality": "Iloilo City",
+      "category": "Parks & markets",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-017",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://ldr.senate.gov.ph/sites/default/files/2023-03/1380811653%21.pdf",
+          "finalUrl": "https://ldr.senate.gov.ph/sites/default/files/2023-03/1380811653%21.pdf",
+          "status": 403,
+          "title": "",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Plaza_Libertad",
+          "finalUrl": "https://en.wikipedia.org/wiki/Plaza_Libertad",
+          "status": 200,
+          "title": "Plaza Libertad - Wikipedia",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        },
+        {
+          "url": "https://www.exploreiloilo.com/do/info/plaza-libertad/",
+          "finalUrl": "https://www.exploreiloilo.com/do/info/plaza-libertad/",
+          "status": 200,
+          "title": "Plaza Libertad - Explore Iloilo",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "iloilo-economic-history-museum",
+      "name": "Museum of Philippine Economic History",
+      "destination": "Iloilo",
+      "municipality": "Iloilo City",
+      "category": "Culture",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-017",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://rsc6.gov.ph/wp-content/uploads/2024/10/WV-RSET-Chapter-8-TOURISM.pdf",
+          "finalUrl": "https://rsc6.gov.ph/wp-content/uploads/2024/10/WV-RSET-Chapter-8-TOURISM.pdf",
+          "status": 403,
+          "title": "",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Museum_of_Philippine_Economic_History",
+          "finalUrl": "https://en.wikipedia.org/wiki/Museum_of_Philippine_Economic_History",
+          "status": 200,
+          "title": "Museum of Philippine Economic History - Wikipedia",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "iloilo-miagao-church",
+      "name": "Miagao Church",
+      "destination": "Iloilo",
+      "municipality": "Miagao",
+      "category": "Culture",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-017",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://www.iloilo.gov.ph/1st-district",
+          "status": null,
+          "error": "The operation was aborted due to timeout",
+          "candidates": [],
+          "limitation": "Inaccessible publisher source; no private content or authentication workaround attempted."
+        },
+        {
+          "url": "https://whc.unesco.org/en/list/677/",
+          "finalUrl": "https://whc.unesco.org/en/list/677/",
+          "status": 403,
+          "title": "",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Miagao_Church",
+          "finalUrl": "https://en.wikipedia.org/wiki/Miagao_Church",
+          "status": 200,
+          "title": "Miagao Church - Wikipedia",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "iloilo-san-joaquin-church",
+      "name": "San Joaquin Church",
+      "destination": "Iloilo",
+      "municipality": "San Joaquin",
+      "category": "Culture",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-017",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://www.iloilo.gov.ph/1st-district",
+          "status": null,
+          "error": "The operation was aborted due to timeout",
+          "candidates": [],
+          "limitation": "Inaccessible publisher source; no private content or authentication workaround attempted."
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/San_Joaquin_Church_(Iloilo)",
+          "finalUrl": "https://en.wikipedia.org/wiki/San_Joaquin_Church_(Iloilo)",
+          "status": 200,
+          "title": "San Joaquin Church (Iloilo) - Wikipedia",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "iloilo-bucari-pine-forest",
+      "name": "Bucari Pine Forest",
+      "destination": "Iloilo",
+      "municipality": "Leon",
+      "category": "Nature",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-017",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://www.pna.gov.ph/articles/1066964",
+          "finalUrl": "https://www.pna.gov.ph/articles/1066964",
+          "status": 404,
+          "title": "",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "iloilo-museo-iloilo",
+      "name": "Museo Iloilo",
+      "destination": "Iloilo",
+      "municipality": "Iloilo City",
+      "category": "Culture",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-017",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://iloilo.gov.ph/en/gallery/casa-real-de-iloilo",
+          "status": null,
+          "error": "The operation was aborted due to timeout",
+          "candidates": [],
+          "limitation": "Inaccessible publisher source; no private content or authentication workaround attempted."
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Museo_Iloilo",
+          "finalUrl": "https://en.wikipedia.org/wiki/Museo_Iloilo",
+          "status": 200,
+          "title": "Museo Iloilo - Wikipedia",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "iloilo-festive-walk-mall",
+      "name": "Festive Walk Mall",
+      "destination": "Iloilo",
+      "municipality": "Iloilo City",
+      "category": "Parks & markets",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-017",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://www.megaworldcorp.com/lifestyle-malls/festive-walk-mall",
+          "finalUrl": "https://www.megaworldcorp.com/lifestyle-malls/festive-walk-mall",
+          "status": 200,
+          "title": "Megaworld Corporation",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Festive_Walk_Mall",
+          "finalUrl": "https://en.wikipedia.org/wiki/Festive_Walk_Mall",
+          "status": 200,
+          "title": "Festive Walk Mall - Wikipedia",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "cebu-carbon-market",
+      "name": "Carbon Market",
+      "destination": "Cebu",
+      "municipality": "Cebu City",
+      "category": "Parks & markets",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-017",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://www.cebucity.gov.ph/project-no-1-rehabilitation-of-unit-3-carbon-market-at-brgy-ermita-cebu-city/",
+          "status": null,
+          "error": "fetch failed",
+          "candidates": [],
+          "limitation": "Inaccessible publisher source; no private content or authentication workaround attempted."
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Carbon_Market",
+          "finalUrl": "https://en.wikipedia.org/wiki/Carbon_Market",
+          "status": 200,
+          "title": "Carbon Market - Wikipedia",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "baguio-baguio-museum",
+      "name": "Baguio Museum",
+      "destination": "Baguio",
+      "municipality": "Baguio City",
+      "category": "Culture",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-017",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://infoboard.baguio.gov.ph/tourists-spots",
+          "finalUrl": "https://infoboard.baguio.gov.ph/tourists-spots",
+          "status": 200,
+          "title": "",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        },
+        {
+          "url": "https://main.baguio.gov.ph/api/infoboard/tourist-spots/baguio-museum",
+          "finalUrl": "https://main.baguio.gov.ph/api/infoboard/tourist-spots/baguio-museum",
+          "status": 200,
+          "title": "",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "baguio-tam-awan-village",
+      "name": "Tam-awan Village",
+      "destination": "Baguio",
+      "municipality": "Baguio City",
+      "category": "Culture",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-017",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://infoboard.baguio.gov.ph/tourists-spots",
+          "finalUrl": "https://infoboard.baguio.gov.ph/tourists-spots",
+          "status": 200,
+          "title": "",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        },
+        {
+          "url": "https://tamawanvillage.com/about-us/",
+          "finalUrl": "https://tamawanvillage.com/about-us/",
+          "status": 200,
+          "title": "About us | Tam-awan Village",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "baguio-camp-john-hay",
+      "name": "Camp John Hay",
+      "destination": "Baguio",
+      "municipality": "Baguio City",
+      "category": "Nature",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-017",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://infoboard.baguio.gov.ph/tourists-spots",
+          "finalUrl": "https://infoboard.baguio.gov.ph/tourists-spots",
+          "status": 200,
+          "title": "",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Camp_John_Hay",
+          "finalUrl": "https://en.wikipedia.org/wiki/Camp_John_Hay",
+          "status": 200,
+          "title": "Camp John Hay - Wikipedia",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+[
+  {
+    "placeId": "boracay-puka-shell-beach",
+    "outcome": "candidate-rejected-other-posts-pending",
+    "reason": "The caption describes a crystal kayak but does not establish Puka Beach; article placement alone is insufficient. Further exact-post discovery remains; do not repeat this candidate without changed evidence."
+  },
+  {
+    "placeId": "iloilo-ilomoca",
+    "outcome": "candidate-rejected-other-posts-pending",
+    "reason": "The post promotes the wider business-park township, not the museum named by the nearby article heading. Further exact-post discovery remains; do not repeat this candidate without changed evidence."
+  },
+  {
+    "placeId": "boracay-los-indios-bravos",
+    "outcome": "candidate-rejected-other-posts-pending",
+    "reason": "The live official widget identifies Bar Lo Restaurant at Two Seasons, not Los Indios Bravos. Rejected despite its placement in a restaurant guide. Further exact-post discovery remains; do not repeat this candidate without changed evidence."
+  },
+  {
+    "placeId": "manila-national-museum-natural-history",
+    "outcome": "candidate-rejected-other-posts-pending",
+    "reason": "The initial photograph shows the Fine Arts building; the general museum advocacy caption does not establish a Natural History-specific resource. Further exact-post discovery remains; do not repeat this candidate without changed evidence."
+  },
+  {
+    "placeId": "baguio-good-shepherd",
+    "outcome": "candidate-rejected-other-posts-pending",
+    "reason": "The article identifies a café by the cathedral steps, not the catalog’s Good Shepherd Convent location. Further exact-post discovery remains; do not repeat this candidate without changed evidence."
+  },
+  {
+    "placeId": "boracay-nonies-ondus",
+    "outcome": "candidate-rejected-other-posts-pending",
+    "reason": "This restaurant-guide reference concerns Conga’s, not Nonie’s. The broader source also discusses Nonie’s historical Station X setting, not the catalog’s Ondus branch. Further exact-post discovery remains; do not repeat this candidate without changed evidence."
+  },
+  {
+    "placeId": "sagada-gaia-cafe",
+    "outcome": "candidate-rejected-other-posts-pending",
+    "reason": "The initial image is rice terraces and the caption identifies Sagada broadly. Neither confirms that it depicts the café itself. Further exact-post discovery remains; do not repeat this candidate without changed evidence."
+  },
+  {
+    "placeId": "davao-paramount-star-hotel",
+    "outcome": "candidate-rejected-other-posts-pending",
+    "reason": "The roaster account promotes a coffee product sourced from Mount Apo; it does not identify the Star Hotel café branch. Further exact-post discovery remains; do not repeat this candidate without changed evidence."
+  },
+  {
+    "placeId": "davao-fourth-street-narra",
+    "outcome": "candidate-rejected-other-posts-pending",
+    "reason": "The official-account reel shows coffee preparation, but neither the accessible caption nor widget identifies the Narra branch. Further exact-post discovery remains; do not repeat this candidate without changed evidence."
+  },
+  {
+    "placeId": "davao-purge-tulip",
+    "outcome": "candidate-rejected-other-posts-pending",
+    "reason": "The public post names Purge and shows coffee, but the reviewed evidence does not independently establish the Tulip Drive branch. Kept unpublished. Further exact-post discovery remains; do not repeat this candidate without changed evidence."
+  },
+  {
+    "placeId": "baguio-baguio-museum",
+    "outcome": "inaccessible-post-other-research-pending",
+    "reason": "The official widget reports that the post link may be broken or removed; public caption is unavailable. Do not infer a current account or publish a fake preview. Further exact-post discovery remains; do not repeat this candidate without changed evidence."
+  },
+  {
+    "placeId": "bohol-bohol-bee-farm",
+    "outcome": "inaccessible-post-other-research-pending",
+    "reason": "No public caption; the official widget reports the post may be removed. Further exact-post discovery remains; do not repeat this candidate without changed evidence."
+  },
+  {
+    "placeId": "bohol-pamilacan-island",
+    "outcome": "inaccessible-post-other-research-pending",
+    "reason": "No public caption; the official widget reports the post may be removed. Further exact-post discovery remains; do not repeat this candidate without changed evidence."
+  },
+  {
+    "placeId": "iloilo-molo-mansion",
+    "outcome": "inaccessible-post-other-research-pending",
+    "reason": "No public caption; the official widget reports the post may be removed. Further exact-post discovery remains; do not repeat this candidate without changed evidence."
+  },
+  {
+    "placeId": "davao-japanese-tunnel",
+    "outcome": "inaccessible-post-other-research-pending",
+    "reason": "No public caption; the official widget reports the post may be removed. Further exact-post discovery remains; do not repeat this candidate without changed evidence."
+  },
+  {
+    "placeId": "sagada-log-cabin",
+    "outcome": "inaccessible-post-other-research-pending",
+    "reason": "No public caption; the official widget reports the post may be removed. Further exact-post discovery remains; do not repeat this candidate without changed evidence."
+  },
+  {
+    "placeId": "el-nido-maremegmeg-beach",
+    "outcome": "candidate-rejected-other-posts-pending",
+    "reason": "The caption names Las Cabañas. A sufficiently precise mapping to the catalog’s Maremegmeg entry was not established in this pass; retain as a candidate instead of assuming a synonym. Further exact-post discovery remains; do not repeat this candidate without changed evidence."
+  }
+]

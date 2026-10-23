@@ -438,6 +438,1107 @@
       "decision_reason": "Verified distinct physical place; practical details require separate confirmation.",
       "reviewed_on": "2026-10-21",
       "slug": "manila-ocean-park"
+    },
+    {
+      "id": "manila-yardstick-esteban",
+      "name": "Yardstick — Legazpi Village",
+      "destination_group": "Manila",
+      "region": "National Capital Region",
+      "province": null,
+      "city_municipality": "Makati",
+      "barangay": null,
+      "address": "Universal LMS Building, 106 Esteban Street, Legazpi Village",
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "Yardstick — Legazpi Village — venue website",
+          "sourceUrl": "https://store.yardstickcoffee.com/pages/cafe/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Yardstick — Legazpi Village — venue website",
+          "sourceUrl": "https://store.yardstickcoffee.com/pages/cafe/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "Yardstick — Legazpi Village — venue website",
+          "sourceUrl": "https://store.yardstickcoffee.com/pages/cafe/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "category": "Food & drink",
+      "description": "Yardstick’s Esteban Street flagship combines specialty coffee with a bean shop and a separately reserved Flavor Bar. The operator flags kitchen renovations, so this listing currently qualifies for coffee rather than a promised brunch.",
+      "interests": [
+        "Food Hunter",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "manila",
+      "catalog_stop_id": "manila-yardstick-esteban",
+      "status": "accepted",
+      "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+      "reviewed_on": "2026-10-22",
+      "planning": {
+        "base_slug": "manila",
+        "mode": "local",
+        "cluster": "manila-yardstick-esteban",
+        "minutes": 60,
+        "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+        "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+        "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+        "requiresBooking": false,
+        "scheduling": "candidate",
+        "outdoor": false
+      },
+      "slug": "manila-yardstick-esteban"
+    },
+    {
+      "id": "manila-commune-poblacion",
+      "name": "Commune Café + Bar",
+      "destination_group": "Manila",
+      "region": "National Capital Region",
+      "province": null,
+      "city_municipality": "Makati",
+      "barangay": "Poblacion",
+      "address": "36 Polaris corner Durban Streets",
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "Commune Café + Bar — venue website",
+          "sourceUrl": "https://commune.ph/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Commune Café + Bar — venue website",
+          "sourceUrl": "https://commune.ph/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "Commune Café + Bar — venue website",
+          "sourceUrl": "https://commune.ph/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "category": "Food & drink",
+      "description": "Commune serves Philippine coffee, Filipino comfort food and light meals at Polaris and Durban Streets. Its Poblacion café also hosts events and coffee classes, with October 2026 classes advertised on its website.",
+      "interests": [
+        "Food Hunter",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "manila",
+      "catalog_stop_id": "manila-commune-poblacion",
+      "status": "accepted",
+      "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+      "reviewed_on": "2026-10-22",
+      "planning": {
+        "base_slug": "manila",
+        "mode": "local",
+        "cluster": "manila-commune-poblacion",
+        "minutes": 60,
+        "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+        "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+        "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+        "requiresBooking": false,
+        "scheduling": "candidate",
+        "outdoor": false
+      },
+      "slug": "manila-commune-poblacion"
+    },
+    {
+      "id": "manila-exchange-alley-molito",
+      "name": "Exchange Alley Coffee House — Molito",
+      "destination_group": "Manila",
+      "region": "National Capital Region",
+      "province": null,
+      "city_municipality": "Muntinlupa",
+      "barangay": null,
+      "address": "Building 7, Molito, Madrigal Avenue corner Commerce Avenue, Alabang",
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "Molito Lifestyle Center — Exchange Alley tenant page",
+          "sourceUrl": "https://molito.com.ph/food_beverages/exchange-alley-coffee-house/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Molito Lifestyle Center — Exchange Alley tenant page",
+          "sourceUrl": "https://molito.com.ph/food_beverages/exchange-alley-coffee-house/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "Molito Lifestyle Center — Exchange Alley tenant page",
+          "sourceUrl": "https://molito.com.ph/food_beverages/exchange-alley-coffee-house/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "category": "Food & drink",
+      "description": "Exchange Alley Coffee House combines specialty coffee, a roastery and all-day brunch at Molito. This Muntinlupa café is a specific venue within the lifestyle center, rather than the entire dining complex.",
+      "interests": [
+        "Food Hunter",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "manila",
+      "catalog_stop_id": "manila-exchange-alley-molito",
+      "status": "accepted",
+      "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+      "reviewed_on": "2026-10-22",
+      "planning": {
+        "base_slug": "manila",
+        "mode": "local",
+        "cluster": "manila-molito",
+        "minutes": 60,
+        "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+        "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+        "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+        "requiresBooking": false,
+        "scheduling": "candidate",
+        "outdoor": false,
+        "openingHours": {
+          "weekdays": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "opens": "07:00",
+          "closes": "23:00",
+          "source": {
+            "sourceName": "Molito Lifestyle Center — Exchange Alley tenant page",
+            "sourceUrl": "https://molito.com.ph/food_beverages/exchange-alley-coffee-house/",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          }
+        }
+      },
+      "slug": "manila-exchange-alley-molito"
+    },
+    {
+      "id": "manila-group-boiler-molito",
+      "name": "Group & Boiler — Molito",
+      "destination_group": "Manila",
+      "region": "National Capital Region",
+      "province": null,
+      "city_municipality": "Muntinlupa",
+      "barangay": null,
+      "address": "Building 4, Molito, Madrigal Avenue corner Commerce Avenue, Alabang",
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "Molito Lifestyle Center — Group & Boiler tenant page",
+          "sourceUrl": "https://molito.com.ph/food_beverages/group-boiler/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Molito Lifestyle Center — Group & Boiler tenant page",
+          "sourceUrl": "https://molito.com.ph/food_beverages/group-boiler/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "Molito Lifestyle Center — Group & Boiler tenant page",
+          "sourceUrl": "https://molito.com.ph/food_beverages/group-boiler/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "category": "Food & drink",
+      "description": "Group & Boiler is a café in Building 4 of Molito, Muntinlupa. The host’s current tenant page describes coffee, tea, food and desserts, with a separate menu available for the named café.",
+      "interests": [
+        "Food Hunter",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "manila",
+      "catalog_stop_id": "manila-group-boiler-molito",
+      "status": "accepted",
+      "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+      "reviewed_on": "2026-10-22",
+      "planning": {
+        "base_slug": "manila",
+        "mode": "local",
+        "cluster": "manila-molito",
+        "minutes": 60,
+        "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+        "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+        "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+        "requiresBooking": false,
+        "scheduling": "candidate",
+        "outdoor": false
+      },
+      "slug": "manila-group-boiler-molito"
+    },
+    {
+      "id": "manila-type-a-nbs",
+      "name": "Type A Coffee — NBS Park",
+      "destination_group": "Manila",
+      "region": "National Capital Region",
+      "province": null,
+      "city_municipality": "Mandaluyong",
+      "barangay": null,
+      "address": "NBS Park, Pioneer Street",
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "Top Gear Philippines — June 2026 Type A café visit",
+          "sourceUrl": "https://www.topgear.com.ph/features/feature-articles/type-a-coffee-run-2026-a962-20260603",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Top Gear Philippines — June 2026 Type A café visit",
+          "sourceUrl": "https://www.topgear.com.ph/features/feature-articles/type-a-coffee-run-2026-a962-20260603",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "Top Gear Philippines — June 2026 Type A café visit",
+          "sourceUrl": "https://www.topgear.com.ph/features/feature-articles/type-a-coffee-run-2026-a962-20260603",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "category": "Food & drink",
+      "description": "Type A’s NBS Park café on Pioneer Street is documented in a June 2026 visit report. Its cold-brew focus and compound location distinguish it from the brand’s online coffee products and other stockists.",
+      "interests": [
+        "Food Hunter",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "manila",
+      "catalog_stop_id": "manila-type-a-nbs",
+      "status": "accepted",
+      "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+      "reviewed_on": "2026-10-22",
+      "planning": {
+        "base_slug": "manila",
+        "mode": "local",
+        "cluster": "manila-type-a-nbs",
+        "minutes": 60,
+        "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+        "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+        "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+        "requiresBooking": false,
+        "scheduling": "candidate",
+        "outdoor": false
+      },
+      "slug": "manila-type-a-nbs"
+    },
+    {
+      "id": "manila-the-den-escolta",
+      "name": "The Den — Escolta",
+      "destination_group": "Manila",
+      "region": "National Capital Region",
+      "province": null,
+      "city_municipality": "Manila",
+      "barangay": null,
+      "address": "HUB Make Lab, First United Building, Escolta Street",
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "The Den — Escolta — venue website",
+          "sourceUrl": "https://thedenmanila.com/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "The Den — Escolta — venue website",
+          "sourceUrl": "https://thedenmanila.com/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "The Den — Escolta — venue website",
+          "sourceUrl": "https://thedenmanila.com/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "category": "Food & drink",
+      "description": "The Den is a café and shop inside HUB Make Lab in Escolta’s First United Building. Its coffee program sits within a creative and cultural hub; this listing identifies the café rather than every tenant.",
+      "interests": [
+        "Food Hunter",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "manila",
+      "catalog_stop_id": "manila-the-den-escolta",
+      "status": "accepted",
+      "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+      "reviewed_on": "2026-10-22",
+      "planning": {
+        "base_slug": "manila",
+        "mode": "local",
+        "cluster": "manila-the-den-escolta",
+        "minutes": 60,
+        "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+        "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+        "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+        "requiresBooking": false,
+        "scheduling": "candidate",
+        "outdoor": false
+      },
+      "slug": "manila-the-den-escolta"
+    },
+    {
+      "id": "manila-saigon-coffee-arca",
+      "name": "Saigon Coffee — Arca South",
+      "destination_group": "Manila",
+      "region": "National Capital Region",
+      "province": null,
+      "city_municipality": "Taguig",
+      "barangay": null,
+      "address": "Ground floor, Ayala Malls Arca South, West Union Drive",
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "Saigon Coffee — Arca South — venue website",
+          "sourceUrl": "https://saigoncoffee.ph/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Saigon Coffee — Arca South — venue website",
+          "sourceUrl": "https://saigoncoffee.ph/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "Saigon Coffee — Arca South — venue website",
+          "sourceUrl": "https://saigoncoffee.ph/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "category": "Food & drink",
+      "description": "Saigon Coffee’s Arca South branch offers Vietnamese specialty-coffee drinks on the ground floor of Ayala Malls Arca South. This record identifies the Taguig café, separate from its SM Megamall branch.",
+      "interests": [
+        "Food Hunter",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "manila",
+      "catalog_stop_id": "manila-saigon-coffee-arca",
+      "status": "accepted",
+      "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+      "reviewed_on": "2026-10-22",
+      "planning": {
+        "base_slug": "manila",
+        "mode": "local",
+        "cluster": "manila-saigon-coffee-arca",
+        "minutes": 60,
+        "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+        "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+        "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+        "requiresBooking": false,
+        "scheduling": "candidate",
+        "outdoor": false,
+        "openingHours": {
+          "weekdays": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "opens": "10:00",
+          "closes": "22:00",
+          "source": {
+            "sourceName": "Saigon Coffee — Arca South — venue website",
+            "sourceUrl": "https://saigoncoffee.ph/",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          }
+        }
+      },
+      "slug": "manila-saigon-coffee-arca"
+    },
+    {
+      "id": "manila-toyo-eatery",
+      "name": "Toyo Eatery",
+      "destination_group": "Manila",
+      "region": "National Capital Region",
+      "province": null,
+      "city_municipality": "Makati",
+      "barangay": null,
+      "address": "The Alley at Karrivin, Chino Roces Avenue Extension",
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "Toyo Eatery — official TableCheck reservation page",
+          "sourceUrl": "https://www.tablecheck.com/tl/toyoeatery/reserve/landing",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Toyo Eatery — official TableCheck reservation page",
+          "sourceUrl": "https://www.tablecheck.com/tl/toyoeatery/reserve/landing",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "Toyo Eatery — official TableCheck reservation page",
+          "sourceUrl": "https://www.tablecheck.com/tl/toyoeatery/reserve/landing",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "category": "Food & drink",
+      "description": "Toyo Eatery offers a reservation-led Filipino dining experience at Karrivin Plaza. Its booking page publishes dated November 2026 reservation releases and closure days, so arrange a specific seating rather than treating it as a walk-in meal.",
+      "interests": [
+        "Food Hunter"
+      ],
+      "itinerary_base_slug": "manila",
+      "catalog_stop_id": "manila-toyo-eatery",
+      "status": "accepted",
+      "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+      "reviewed_on": "2026-10-22",
+      "planning": {
+        "base_slug": "manila",
+        "mode": "local",
+        "cluster": "manila-toyo-eatery",
+        "minutes": 90,
+        "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+        "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+        "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+        "requiresBooking": true,
+        "scheduling": "manual",
+        "outdoor": false
+      },
+      "slug": "manila-toyo-eatery"
+    },
+    {
+      "id": "manila-gallery-by-chele",
+      "name": "Gallery by Chele",
+      "destination_group": "Manila",
+      "region": "National Capital Region",
+      "province": null,
+      "city_municipality": "Taguig",
+      "barangay": null,
+      "address": "5F Clipp Center, 11th Avenue corner 39th Street, Bonifacio Global City",
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "Gallery by Chele — venue website",
+          "sourceUrl": "https://gallerybychele.com/about-us/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Gallery by Chele — venue website",
+          "sourceUrl": "https://gallerybychele.com/about-us/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "Gallery by Chele — venue website",
+          "sourceUrl": "https://gallerybychele.com/about-us/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "category": "Food & drink",
+      "description": "Gallery by Chele serves tasting menus built around Philippine and Southeast Asian ingredients at Clipp Center in Taguig. Its reservation service is separate from ordinary café dining; plan a booked evening deliberately.",
+      "interests": [
+        "Food Hunter"
+      ],
+      "itinerary_base_slug": "manila",
+      "catalog_stop_id": "manila-gallery-by-chele",
+      "status": "accepted",
+      "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+      "reviewed_on": "2026-10-22",
+      "planning": {
+        "base_slug": "manila",
+        "mode": "local",
+        "cluster": "manila-gallery-by-chele",
+        "minutes": 90,
+        "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+        "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+        "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+        "requiresBooking": true,
+        "scheduling": "manual",
+        "outdoor": false
+      },
+      "slug": "manila-gallery-by-chele"
+    },
+    {
+      "id": "manila-your-local",
+      "name": "Your Local",
+      "destination_group": "Manila",
+      "region": "National Capital Region",
+      "province": null,
+      "city_municipality": "Makati",
+      "barangay": null,
+      "address": "106 Esteban Street, Legazpi Village",
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "MICHELIN Guide — current venue review",
+          "sourceUrl": "https://guide.michelin.com/en/metro-manila/makati-city_2329358/restaurant/your-local",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "MICHELIN Guide — current venue review",
+          "sourceUrl": "https://guide.michelin.com/en/metro-manila/makati-city_2329358/restaurant/your-local",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "MICHELIN Guide — current venue review",
+          "sourceUrl": "https://guide.michelin.com/en/metro-manila/makati-city_2329358/restaurant/your-local",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "category": "Food & drink",
+      "description": "Your Local serves contemporary Asian dishes designed for sharing on Esteban Street in Makati. The guide describes Japanese, Chinese, Indian and Filipino influences, with separate lunch and dinner service windows.",
+      "interests": [
+        "Food Hunter"
+      ],
+      "itinerary_base_slug": "manila",
+      "catalog_stop_id": "manila-your-local",
+      "status": "accepted",
+      "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+      "reviewed_on": "2026-10-22",
+      "planning": {
+        "base_slug": "manila",
+        "mode": "local",
+        "cluster": "manila-your-local",
+        "minutes": 90,
+        "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+        "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+        "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+        "requiresBooking": false,
+        "scheduling": "manual",
+        "outdoor": false
+      },
+      "slug": "manila-your-local"
+    },
+    {
+      "id": "manila-sarsa-rada",
+      "name": "Sarsa — Rada Street",
+      "destination_group": "Manila",
+      "region": "National Capital Region",
+      "province": null,
+      "city_municipality": "Makati",
+      "barangay": null,
+      "address": "109 Rada Street, Legazpi Village",
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "MICHELIN Guide — current venue review",
+          "sourceUrl": "https://guide.michelin.com/ph/en/metro-manila/makati-city_2329358/restaurant/sarsa",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "MICHELIN Guide — current venue review",
+          "sourceUrl": "https://guide.michelin.com/ph/en/metro-manila/makati-city_2329358/restaurant/sarsa",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "MICHELIN Guide — current venue review",
+          "sourceUrl": "https://guide.michelin.com/ph/en/metro-manila/makati-city_2329358/restaurant/sarsa",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "category": "Food & drink",
+      "description": "Sarsa’s Rada Street restaurant serves Filipino dishes in sharing portions. Kinilaw, lechon manok and turon a la mode are among the dishes highlighted in its current dining-guide review.",
+      "interests": [
+        "Food Hunter"
+      ],
+      "itinerary_base_slug": "manila",
+      "catalog_stop_id": "manila-sarsa-rada",
+      "status": "accepted",
+      "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+      "reviewed_on": "2026-10-22",
+      "planning": {
+        "base_slug": "manila",
+        "mode": "local",
+        "cluster": "manila-sarsa-rada",
+        "minutes": 90,
+        "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+        "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+        "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+        "requiresBooking": false,
+        "scheduling": "candidate",
+        "outdoor": false
+      },
+      "slug": "manila-sarsa-rada"
+    },
+    {
+      "id": "manila-metiz-karrivin",
+      "name": "Metiz",
+      "destination_group": "Manila",
+      "region": "National Capital Region",
+      "province": null,
+      "city_municipality": "Makati",
+      "barangay": null,
+      "address": "Ground floor, Building A, Karrivin Plaza, 2316 Chino Roces Avenue Extension",
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "MICHELIN Guide — current venue review",
+          "sourceUrl": "https://guide.michelin.com/ph/en/metro-manila/makati-city_2329358/restaurant/metiz",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "MICHELIN Guide — current venue review",
+          "sourceUrl": "https://guide.michelin.com/ph/en/metro-manila/makati-city_2329358/restaurant/metiz",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "MICHELIN Guide — current venue review",
+          "sourceUrl": "https://guide.michelin.com/ph/en/metro-manila/makati-city_2329358/restaurant/metiz",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "category": "Food & drink",
+      "description": "Metiz is a contemporary Filipino restaurant in Karrivin Plaza, using local ingredients and fermentation in its cooking. Its dining experience requires deliberate booking; it is separate from neighboring Toyo Eatery.",
+      "interests": [
+        "Food Hunter"
+      ],
+      "itinerary_base_slug": "manila",
+      "catalog_stop_id": "manila-metiz-karrivin",
+      "status": "accepted",
+      "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+      "reviewed_on": "2026-10-22",
+      "planning": {
+        "base_slug": "manila",
+        "mode": "local",
+        "cluster": "manila-metiz-karrivin",
+        "minutes": 90,
+        "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+        "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+        "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+        "requiresBooking": true,
+        "scheduling": "manual",
+        "outdoor": false
+      },
+      "slug": "manila-metiz-karrivin"
+    },
+    {
+      "id": "manila-cirkulo",
+      "name": "Cirkulo",
+      "destination_group": "Manila",
+      "region": "National Capital Region",
+      "province": null,
+      "city_municipality": "Makati",
+      "barangay": null,
+      "address": "Ground floor, Milky Way Building, 900 Arnaiz Avenue corner Paseo de Roxas",
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "MICHELIN Guide — current venue review",
+          "sourceUrl": "https://guide.michelin.com/gb/en/metro-manila/makati-city_2329358/restaurant/cirkulo",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "MICHELIN Guide — current venue review",
+          "sourceUrl": "https://guide.michelin.com/gb/en/metro-manila/makati-city_2329358/restaurant/cirkulo",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "MICHELIN Guide — current venue review",
+          "sourceUrl": "https://guide.michelin.com/gb/en/metro-manila/makati-city_2329358/restaurant/cirkulo",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "category": "Food & drink",
+      "description": "Cirkulo serves Spanish cooking on the ground floor of Makati’s Milky Way Building. Its menu includes tapas and paella in different serving sizes, with lunch and dinner separated by an afternoon break.",
+      "interests": [
+        "Food Hunter"
+      ],
+      "itinerary_base_slug": "manila",
+      "catalog_stop_id": "manila-cirkulo",
+      "status": "accepted",
+      "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+      "reviewed_on": "2026-10-22",
+      "planning": {
+        "base_slug": "manila",
+        "mode": "local",
+        "cluster": "manila-cirkulo",
+        "minutes": 90,
+        "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+        "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+        "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+        "requiresBooking": false,
+        "scheduling": "manual",
+        "outdoor": false
+      },
+      "slug": "manila-cirkulo"
+    },
+    {
+      "id": "manila-la-pita-poblacion",
+      "name": "La Pita — Poblacion",
+      "destination_group": "Manila",
+      "region": "National Capital Region",
+      "province": null,
+      "city_municipality": "Makati",
+      "barangay": "Poblacion",
+      "address": "5652 Don Pedro Street",
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "MICHELIN Guide — current venue review",
+          "sourceUrl": "https://guide.michelin.com/sa/en/metro-manila/makati-city_2329358/restaurant/la-pita-poblacion",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "MICHELIN Guide — current venue review",
+          "sourceUrl": "https://guide.michelin.com/sa/en/metro-manila/makati-city_2329358/restaurant/la-pita-poblacion",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "MICHELIN Guide — current venue review",
+          "sourceUrl": "https://guide.michelin.com/sa/en/metro-manila/makati-city_2329358/restaurant/la-pita-poblacion",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "category": "Food & drink",
+      "description": "La Pita serves Middle Eastern cooking from a small Poblacion kitchen. House-made pita, muhammara and muhallebi dessert distinguish this named Don Pedro Street restaurant from generic kebab or food-market listings.",
+      "interests": [
+        "Food Hunter"
+      ],
+      "itinerary_base_slug": "manila",
+      "catalog_stop_id": "manila-la-pita-poblacion",
+      "status": "accepted",
+      "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+      "reviewed_on": "2026-10-22",
+      "planning": {
+        "base_slug": "manila",
+        "mode": "local",
+        "cluster": "manila-la-pita-poblacion",
+        "minutes": 90,
+        "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+        "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+        "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+        "requiresBooking": false,
+        "scheduling": "candidate",
+        "outdoor": false
+      },
+      "slug": "manila-la-pita-poblacion"
+    },
+    {
+      "id": "manila-morning-sun-project-four",
+      "name": "Morning Sun Eatery",
+      "destination_group": "Manila",
+      "region": "National Capital Region",
+      "province": null,
+      "city_municipality": "Quezon City",
+      "barangay": null,
+      "address": "120 J.P. Rizal Street, Project 4",
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "MICHELIN Guide — current venue review",
+          "sourceUrl": "https://guide.michelin.com/gb/en/metro-manila/quenzon-city_2323700/restaurant/morning-sun-eatery",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "MICHELIN Guide — current venue review",
+          "sourceUrl": "https://guide.michelin.com/gb/en/metro-manila/quenzon-city_2323700/restaurant/morning-sun-eatery",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "MICHELIN Guide — current venue review",
+          "sourceUrl": "https://guide.michelin.com/gb/en/metro-manila/quenzon-city_2323700/restaurant/morning-sun-eatery",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "category": "Food & drink",
+      "description": "Morning Sun is an Ilocano turo-turo eatery in Quezon City’s Project 4. Diners choose counter dishes such as pinakbet, laing and pork skewers; the selection can vary with the day’s cooking.",
+      "interests": [
+        "Food Hunter"
+      ],
+      "itinerary_base_slug": "manila",
+      "catalog_stop_id": "manila-morning-sun-project-four",
+      "status": "accepted",
+      "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+      "reviewed_on": "2026-10-22",
+      "planning": {
+        "base_slug": "manila",
+        "mode": "local",
+        "cluster": "manila-morning-sun-project-four",
+        "minutes": 90,
+        "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+        "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+        "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+        "requiresBooking": false,
+        "scheduling": "candidate",
+        "outdoor": false
+      },
+      "slug": "manila-morning-sun-project-four"
+    },
+    {
+      "id": "manila-el-poco-malate",
+      "name": "El Poco Cantina — Malate",
+      "destination_group": "Manila",
+      "region": "National Capital Region",
+      "province": null,
+      "city_municipality": "Manila",
+      "barangay": null,
+      "address": "945 Estrada Street, Malate",
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "MICHELIN Guide — current venue review",
+          "sourceUrl": "https://guide.michelin.com/ph/en/metro-manila/manila_2329836/restaurant/el-poco-cantina-malate",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "MICHELIN Guide — current venue review",
+          "sourceUrl": "https://guide.michelin.com/ph/en/metro-manila/manila_2329836/restaurant/el-poco-cantina-malate",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "MICHELIN Guide — current venue review",
+          "sourceUrl": "https://guide.michelin.com/ph/en/metro-manila/manila_2329836/restaurant/el-poco-cantina-malate",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "category": "Food & drink",
+      "description": "El Poco Cantina’s Malate venue serves Mexican-style tacos and horchata on Estrada Street. The current review describes beef barbacoa and pork carnitas fillings; this record represents the Malate branch only.",
+      "interests": [
+        "Food Hunter"
+      ],
+      "itinerary_base_slug": "manila",
+      "catalog_stop_id": "manila-el-poco-malate",
+      "status": "accepted",
+      "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+      "reviewed_on": "2026-10-22",
+      "planning": {
+        "base_slug": "manila",
+        "mode": "local",
+        "cluster": "manila-el-poco-malate",
+        "minutes": 90,
+        "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+        "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+        "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+        "requiresBooking": false,
+        "scheduling": "candidate",
+        "outdoor": false,
+        "openingHours": {
+          "weekdays": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "opens": "10:00",
+          "closes": "22:00",
+          "source": {
+            "sourceName": "MICHELIN Guide — current venue review",
+            "sourceUrl": "https://guide.michelin.com/ph/en/metro-manila/manila_2329836/restaurant/el-poco-cantina-malate",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          }
+        }
+      },
+      "slug": "manila-el-poco-malate"
+    },
+    {
+      "id": "manila-rodics-maginhawa",
+      "name": "Rodic’s Diner — Maginhawa",
+      "destination_group": "Manila",
+      "region": "National Capital Region",
+      "province": null,
+      "city_municipality": "Quezon City",
+      "barangay": null,
+      "address": "Corner Masaya Avenue and Maginhawa Street",
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "MICHELIN Guide — 2 Days in Manila, January 2026",
+          "sourceUrl": "https://guide.michelin.com/ph/en/article/travel/2-days-in-manila",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "MICHELIN Guide — 2 Days in Manila, January 2026",
+          "sourceUrl": "https://guide.michelin.com/ph/en/article/travel/2-days-in-manila",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "MICHELIN Guide — 2 Days in Manila, January 2026",
+          "sourceUrl": "https://guide.michelin.com/ph/en/article/travel/2-days-in-manila",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "category": "Food & drink",
+      "description": "Rodic’s Maginhawa branch is a family-run diner associated with shredded beef tapa and tapsilog. The guide’s January 2026 city visit identifies the Masaya–Maginhawa corner, rather than treating every Rodic’s branch as one location.",
+      "interests": [
+        "Food Hunter"
+      ],
+      "itinerary_base_slug": "manila",
+      "catalog_stop_id": "manila-rodics-maginhawa",
+      "status": "accepted",
+      "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+      "reviewed_on": "2026-10-22",
+      "planning": {
+        "base_slug": "manila",
+        "mode": "local",
+        "cluster": "manila-rodics-maginhawa",
+        "minutes": 90,
+        "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+        "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+        "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+        "requiresBooking": false,
+        "scheduling": "candidate",
+        "outdoor": false
+      },
+      "slug": "manila-rodics-maginhawa"
     }
   ]
 }

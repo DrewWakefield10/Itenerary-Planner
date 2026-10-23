@@ -1,0 +1,34 @@
+{
+  "mode": "instagram-only",
+  "batchId": "instagram-reviewed-004",
+  "checkedOn": "2026-10-22",
+  "entries": [
+    {
+      "placeId": "davao-glasshouse-oboza",
+      "decision": "approved",
+      "identityReviewed": true,
+      "posts": [
+        {
+          "placeId": "davao-glasshouse-oboza",
+          "url": "https://www.instagram.com/p/BsdGWygAtz9/",
+          "account": "glasshousecoffeeph",
+          "accountName": "Glasshouse Coffee",
+          "relevance": "The café account shares a flat white beside reading material. The linked interview places this historical post at Glasshouse in the Oboza heritage-house compound in Davao, rather than another branch.",
+          "checkedOn": "2026-10-22",
+          "review": "public-post",
+          "evidenceUrls": [
+            "https://www.instagram.com/p/BsdGWygAtz9/",
+            "https://clavelmagazine.com/2020/02/05/glasshouse-is-the-davao-cafe-built-on-restrictions/"
+          ],
+          "limitation": "Public account, caption, original interview and initial embedded photograph reviewed. The interview establishes the historical Oboza setting. Remaining media, current menus, appearance and operation were not confirmed. Instagram visibility and embedding can change.",
+          "presentation": "manual-embed",
+          "embedCheck": {
+            "status": "unconfirmed",
+            "checkedOn": null,
+            "note": "Official public widget rendered during research; rendering on its Lakbay detail page remains to be checked."
+          }
+        }
+      ]
+    }
+  ]
+}

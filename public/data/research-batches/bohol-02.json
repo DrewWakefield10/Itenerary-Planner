@@ -368,6 +368,375 @@
       "decision_reason": "Primary source confirms this physical place and municipality. Identity review does not confirm present-day admission or access.",
       "reviewed_on": "2026-10-21",
       "slug": "bohol-prawn-farm-bolod"
+    },
+    {
+      "id": "bohol-overgrown-panglao",
+      "name": "Overgrown Café & Bar — Panglao",
+      "destination_group": "Bohol",
+      "region": "Central Visayas",
+      "province": "Bohol",
+      "city_municipality": "Panglao",
+      "barangay": "Tawala",
+      "address": "Ester A. Lim Drive",
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "Proprietary — January 2026 Overgrown visit",
+          "sourceUrl": "https://proprietary.tistory.com/975",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Proprietary — January 2026 Overgrown visit",
+          "sourceUrl": "https://proprietary.tistory.com/975",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "Proprietary — January 2026 Overgrown visit",
+          "sourceUrl": "https://proprietary.tistory.com/975",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "category": "Food & drink",
+      "description": "Overgrown’s Panglao café serves coffee, smoothie bowls and sandwiches on Ester A. Lim Drive. A dated January 2026 visit documents this exact venue, separate from the brand’s Tagbilaran location.",
+      "interests": [
+        "Food Hunter",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "bohol",
+      "catalog_stop_id": "bohol-overgrown-panglao",
+      "status": "accepted",
+      "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+      "reviewed_on": "2026-10-22",
+      "planning": {
+        "base_slug": "bohol",
+        "mode": "local",
+        "cluster": "bohol-overgrown-panglao",
+        "minutes": 60,
+        "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+        "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+        "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+        "requiresBooking": false,
+        "scheduling": "candidate",
+        "outdoor": false
+      },
+      "slug": "bohol-overgrown-panglao"
+    },
+    {
+      "id": "bohol-mosia-cafe",
+      "name": "Mosia Cafe",
+      "destination_group": "Bohol",
+      "region": "Central Visayas",
+      "province": "Bohol",
+      "city_municipality": "Tagbilaran City",
+      "barangay": "Mansasa",
+      "address": "121 V.P. Inting Avenue",
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "Philippine Primer — Mosia venue profile",
+          "sourceUrl": "https://primer.com.ph/food/restaurant-type/bakery-and-sweets/mosia-cafe/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Philippine Primer — Mosia venue profile",
+          "sourceUrl": "https://primer.com.ph/food/restaurant-type/bakery-and-sweets/mosia-cafe/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "Philippine Primer — Mosia venue profile",
+          "sourceUrl": "https://primer.com.ph/food/restaurant-type/bakery-and-sweets/mosia-cafe/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "category": "Food & drink",
+      "description": "Mosia is an artisan café in Tagbilaran’s Mansasa area, with small-batch desserts and a garden setting. Its identity is documented by local reporting; more recent visitor reports describe continuing café visits.",
+      "interests": [
+        "Food Hunter",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "bohol",
+      "catalog_stop_id": "bohol-mosia-cafe",
+      "status": "accepted",
+      "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+      "reviewed_on": "2026-10-22",
+      "planning": {
+        "base_slug": "bohol",
+        "mode": "local",
+        "cluster": "bohol-mosia-cafe",
+        "minutes": 60,
+        "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+        "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+        "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+        "requiresBooking": false,
+        "scheduling": "candidate",
+        "outdoor": false
+      },
+      "slug": "bohol-mosia-cafe"
+    },
+    {
+      "id": "bohol-slotide-danao",
+      "name": "Slotide Coffee Club",
+      "destination_group": "Bohol",
+      "region": "Central Visayas",
+      "province": "Bohol",
+      "city_municipality": "Panglao",
+      "barangay": "Danao",
+      "address": "Purok 3, Daorong, beside Santa Cruz Chapel",
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "Slotide business posts — accessible public mirror, April 2026",
+          "sourceUrl": "https://www.findglocal.com/PH/Panglao/677674168759391/slotide-coffee-club",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Slotide business posts — accessible public mirror, April 2026",
+          "sourceUrl": "https://www.findglocal.com/PH/Panglao/677674168759391/slotide-coffee-club",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "Slotide business posts — accessible public mirror, April 2026",
+          "sourceUrl": "https://www.findglocal.com/PH/Panglao/677674168759391/slotide-coffee-club",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "category": "Food & drink",
+      "description": "Slotide Coffee Club is a Daorong coffee-and-brunch venue beside Santa Cruz Chapel in Danao. April 2026 business posts describe drinks, desserts and meals at this exact Panglao location.",
+      "interests": [
+        "Food Hunter",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "bohol",
+      "catalog_stop_id": "bohol-slotide-danao",
+      "status": "accepted",
+      "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+      "reviewed_on": "2026-10-22",
+      "planning": {
+        "base_slug": "bohol",
+        "mode": "local",
+        "cluster": "bohol-slotide-danao",
+        "minutes": 60,
+        "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+        "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+        "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+        "requiresBooking": false,
+        "scheduling": "candidate",
+        "outdoor": false
+      },
+      "slug": "bohol-slotide-danao"
+    },
+    {
+      "id": "bohol-smoque-bistro",
+      "name": "Smoque Bistro + Cafe & Bar",
+      "destination_group": "Bohol",
+      "region": "Central Visayas",
+      "province": "Bohol",
+      "city_municipality": "Tagbilaran City",
+      "barangay": "Bool",
+      "address": "Carlos P. Garcia East Avenue",
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "Zoy to the World — June 2026 Smoque visit",
+          "sourceUrl": "https://www.zoytotheworld.com/blog/bohol-food-trip-smoque-bistro-cafe-and-bar",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Zoy to the World — June 2026 Smoque visit",
+          "sourceUrl": "https://www.zoytotheworld.com/blog/bohol-food-trip-smoque-bistro-cafe-and-bar",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "Zoy to the World — June 2026 Smoque visit",
+          "sourceUrl": "https://www.zoytotheworld.com/blog/bohol-food-trip-smoque-bistro-cafe-and-bar",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "category": "Food & drink",
+      "description": "Smoque combines a meat-focused bistro with an attached café in Bool, Tagbilaran. A June 2026 visit describes spare ribs, pork belly and cakes; it counts once as a dining venue.",
+      "interests": [
+        "Food Hunter"
+      ],
+      "itinerary_base_slug": "bohol",
+      "catalog_stop_id": "bohol-smoque-bistro",
+      "status": "accepted",
+      "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+      "reviewed_on": "2026-10-22",
+      "planning": {
+        "base_slug": "bohol",
+        "mode": "local",
+        "cluster": "bohol-smoque-bistro",
+        "minutes": 90,
+        "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+        "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+        "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+        "requiresBooking": false,
+        "scheduling": "candidate",
+        "outdoor": false
+      },
+      "slug": "bohol-smoque-bistro"
+    },
+    {
+      "id": "bohol-mist-danao",
+      "name": "MIST Cafe and Restaurant",
+      "destination_group": "Bohol",
+      "region": "Central Visayas",
+      "province": "Bohol",
+      "city_municipality": "Panglao",
+      "barangay": "Danao",
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "MIST business posts — accessible public mirror, July 2026",
+          "sourceUrl": "https://www.findglocal.com/PH/Panglao/111216513963698/MIST",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "MIST business posts — accessible public mirror, July 2026",
+          "sourceUrl": "https://www.findglocal.com/PH/Panglao/111216513963698/MIST",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "category": "Food & drink",
+      "description": "MIST is a multi-level restaurant in Danao, Panglao, with timber architecture and greenery. Its July 2026 business posts offer dinner service and identify the exact Bohol venue; it is counted as dining.",
+      "interests": [
+        "Food Hunter"
+      ],
+      "itinerary_base_slug": "bohol",
+      "catalog_stop_id": "bohol-mist-danao",
+      "status": "accepted",
+      "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+      "reviewed_on": "2026-10-22",
+      "planning": {
+        "base_slug": "bohol",
+        "mode": "local",
+        "cluster": "bohol-mist-danao",
+        "minutes": 90,
+        "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+        "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+        "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+        "requiresBooking": false,
+        "scheduling": "candidate",
+        "outdoor": false
+      },
+      "slug": "bohol-mist-danao"
+    },
+    {
+      "id": "bohol-tomar-amorita",
+      "name": "Tomar Tapas x Bar — Amorita",
+      "destination_group": "Bohol",
+      "region": "Central Visayas",
+      "province": "Bohol",
+      "city_municipality": "Panglao",
+      "barangay": "Tawala",
+      "address": "Amorita Resort, 1 Ester A. Lim Drive",
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "Tomar Tapas x Bar — Amorita — venue website",
+          "sourceUrl": "https://www.amoritaresort.com/tomar-menu",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Tomar Tapas x Bar — Amorita — venue website",
+          "sourceUrl": "https://www.amoritaresort.com/tomar-menu",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "Tomar Tapas x Bar — Amorita — venue website",
+          "sourceUrl": "https://www.amoritaresort.com/tomar-menu",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "category": "Food & drink",
+      "description": "Tomar serves Spanish tapas, rice dishes and seafood at Amorita Resort. Its published menu includes gambas al ajillo, seafood paella and churros; it remains separate from the resort’s other named restaurants.",
+      "interests": [
+        "Food Hunter"
+      ],
+      "itinerary_base_slug": "bohol",
+      "catalog_stop_id": "bohol-tomar-amorita",
+      "status": "accepted",
+      "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+      "reviewed_on": "2026-10-22",
+      "planning": {
+        "base_slug": "bohol",
+        "mode": "local",
+        "cluster": "bohol-tomar-amorita",
+        "minutes": 90,
+        "booking": "Ask Amorita about restaurant-patron access and reservations. A resort room or restaurant table is not booked by adding this venue.",
+        "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+        "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+        "requiresBooking": false,
+        "scheduling": "candidate",
+        "outdoor": false
+      },
+      "slug": "bohol-tomar-amorita"
     }
   ]
 }

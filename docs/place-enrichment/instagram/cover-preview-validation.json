@@ -1,0 +1,56 @@
+{
+  "validatedOn": "2026-10-23",
+  "timezone": "UTC",
+  "status": "implemented-and-verified-locally-not-deployed",
+  "officialGuidance": {
+    "checkedOn": "2026-10-23",
+    "sources": [
+      {"url": "https://developers.facebook.com/documentation/instagram-platform/embed-button", "status": 200},
+      {"url": "https://developers.facebook.com/documentation/instagram-platform/oembed", "status": 200}
+    ],
+    "method": "Existing official embed.js runtime and manual public-post markup; no oEmbed API or new credentials. Rendered frames retain platform-owned styles and controls."
+  },
+  "dataPreservation": {
+    "catalogLocations": 426,
+    "approvedPhotographsBeforeAndAfter": 214,
+    "photoGapsBeforeAndAfter": 212,
+    "instagramResourcesBeforeAndAfter": 37,
+    "locationsWithInstagramBeforeAndAfter": 36,
+    "eligibleMissingPhotoCovers": 9,
+    "descriptionsPhotosVideosAndStableIds": "Existing preservation-hash tests passed",
+    "changedAccountTripBookmarkStorageOrMigrations": false,
+    "downloadedOrRehostedInstagramPhotos": false
+  },
+  "checks": {
+    "unitIntegration": {"command": "npm test", "passed": 97, "failed": 0},
+    "typecheck": {"command": "npm run typecheck", "passed": true},
+    "sitesBuild": {"command": "npm run build", "passed": true},
+    "cleanVercelBuild": {"command": "npm run build:vercel", "passed": true, "compiledCoverStylesPresent": true},
+    "dependencyInstall": {"command": "npm ci --ignore-scripts --prefer-offline --no-audit --no-fund", "passed": true, "note": "Restored the existing locked dependency tree after a fresh build exposed an incomplete local @libsql/client installation. package-lock.json and dependency declarations were not changed."},
+    "focusedLint": {"passed": true, "scope": "Instagram component, selection helper and Instagram unit/browser tests"},
+    "mediaValidation": {"command": "npm run validate:places", "passed": true, "documentedImagesDecoded": 212, "existingVideoAssociations": 515},
+    "whitespaceDiff": {"passed": true},
+    "staticUiAudit": {"newFindings": 0, "inheritedFindings": 7, "sameAsExistingUiAudit": true, "note": "Existing connector/Base UI wrapper findings remain outside this cover change. Full-repository lint retains previously recorded failures; no rules disabled."}
+  },
+  "productionBuildBrowser": {
+    "origin": "http://localhost:5193",
+    "instagramSuites": {"command": "npm run test:instagram:browser", "passed": true, "fixtureScope": ["Keyboard opt-in after hydration", "No Instagram requests before activation", "Approved-photo preference, including failed image downloads", "Missing/unavailable/link-only resource selection", "1100 px frame remains unclipped and original link stays below it", "320/390/820/1440 px layouts and no horizontal overflow", "Cover post not duplicated in lower section", "Other posts need separate activation and share one SDK", "Script failure, original source link and retry", "Existing lower Instagram section still works for photographed places"]},
+    "placeContentRegression": {"command": "node tests/place-content-browser.mjs", "passed": true},
+    "realOfficialPost": "https://www.instagram.com/p/CQr9d2jjvGv/",
+    "realChecks": [
+      {"viewport": 1440, "instagramRequestsBeforeAction": 0, "renderedAfterAction": true, "overflow": false, "originalLinkVisible": true, "applicationErrors": []},
+      {"viewport": 820, "instagramRequestsBeforeAction": 0, "renderedAfterAction": true, "overflow": false, "originalLinkVisible": true, "applicationErrors": []},
+      {"viewport": 390, "instagramRequestsBeforeAction": 0, "renderedAfterAction": true, "overflow": false, "originalLinkVisible": true, "applicationErrors": []},
+      {"viewport": 320, "instagramRequestsBeforeAction": 0, "instagramRequestsAfterAction": 0, "renderedAfterAction": false, "overflow": false, "originalLinkVisible": true, "expectedBehavior": "Source links below official minimum width", "applicationErrors": []}
+    ],
+    "initialImagesAndCompleteWidgetPresentationVisuallyInspected": true,
+    "fullFootageReviewed": false
+  },
+  "limitations": [
+    "Post removal, sign-in restrictions, owner settings, privacy extensions or network policy may prevent rendering; source links remain available.",
+    "The cover fallback is an original post, not an approved or separately licensed photograph.",
+    "Clean local framework artifacts were required after stale generated CSS was detected. Do not run the two framework previews/builds concurrently against shared generated output.",
+    "Existing 390-location Instagram coverage gap is unchanged; this task did not repeat catalog research.",
+    "No GitHub push or Vercel deployment performed. Push the intended changes and redeploy to publish; no new environment variable, paid API or database migration is needed."
+  ]
+}

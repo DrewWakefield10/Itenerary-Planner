@@ -492,6 +492,437 @@
       "decision_reason": "Primary source confirms this physical place and actual city or municipality; admission and present access are separate facts.",
       "reviewed_on": "2026-10-21",
       "slug": "iloilo-garin-farm"
+    },
+    {
+      "destination_group": "Iloilo",
+      "region": "Western Visayas",
+      "province": null,
+      "city_municipality": "Iloilo City",
+      "barangay": "San Rafael",
+      "address": "Shops at Atria, Donato Pison Avenue, Mandurriao",
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "Shops at Atria — August 2026 Neighbor event announcements",
+          "sourceUrl": "https://www.findglocal.com/PH/Iloilo-City/512507965554615/Shops-at-Atria%2C-Ayala-Malls",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Shops at Atria — August 2026 Neighbor event announcements",
+          "sourceUrl": "https://www.findglocal.com/PH/Iloilo-City/512507965554615/Shops-at-Atria%2C-Ayala-Malls",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "Shops at Atria — August 2026 Neighbor event announcements",
+          "sourceUrl": "https://www.findglocal.com/PH/Iloilo-City/512507965554615/Shops-at-Atria%2C-Ayala-Malls",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "id": "iloilo-neighbor-atria",
+      "name": "Neighbor Coffee — Shops at Atria",
+      "slug": "iloilo-neighbor-atria",
+      "planning": {
+        "base_slug": "iloilo",
+        "mode": "local",
+        "cluster": "iloilo-neighbor-atria",
+        "minutes": 60,
+        "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+        "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+        "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+        "requiresBooking": false,
+        "scheduling": "candidate",
+        "outdoor": false
+      },
+      "category": "Food & drink",
+      "description": "Neighbor’s Atria café is identified in its host mall’s August 2026 event announcements. This listing covers the coffee venue at Shops at Atria, rather than older Neighbor addresses elsewhere in Iloilo.",
+      "interests": [
+        "Food Hunter",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "iloilo",
+      "catalog_stop_id": "iloilo-neighbor-atria",
+      "status": "accepted",
+      "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+      "reviewed_on": "2026-10-22"
+    },
+    {
+      "destination_group": "Iloilo",
+      "region": "Western Visayas",
+      "province": null,
+      "city_municipality": "Iloilo City",
+      "barangay": null,
+      "address": "Upper ground floor, North Wing, SM City Iloilo, Benigno Aquino Avenue, Mandurriao",
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "Bluejay SM City — June 2026 business posts, public mirror",
+          "sourceUrl": "https://www.findglocal.com/PH/Iloilo-City/1549445962029867/Bluejay-Coffee-%26-Company-SM-City-Iloilo",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Bluejay SM City — June 2026 business posts, public mirror",
+          "sourceUrl": "https://www.findglocal.com/PH/Iloilo-City/1549445962029867/Bluejay-Coffee-%26-Company-SM-City-Iloilo",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "Bluejay SM City — June 2026 business posts, public mirror",
+          "sourceUrl": "https://www.findglocal.com/PH/Iloilo-City/1549445962029867/Bluejay-Coffee-%26-Company-SM-City-Iloilo",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "id": "iloilo-bluejay-sm-city",
+      "name": "Bluejay Coffee & Company — SM City Iloilo",
+      "slug": "iloilo-bluejay-sm-city",
+      "planning": {
+        "base_slug": "iloilo",
+        "mode": "local",
+        "cluster": "iloilo-bluejay-sm-city",
+        "minutes": 60,
+        "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+        "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+        "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+        "requiresBooking": false,
+        "scheduling": "candidate",
+        "outdoor": false
+      },
+      "category": "Food & drink",
+      "description": "Bluejay’s SM City branch offers coffee and meals in the mall’s north wing. June 2026 business posts describe vanilla latte and aglio e olio at this specific Iloilo branch.",
+      "interests": [
+        "Food Hunter",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "iloilo",
+      "catalog_stop_id": "iloilo-bluejay-sm-city",
+      "status": "accepted",
+      "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+      "reviewed_on": "2026-10-22"
+    },
+    {
+      "destination_group": "Iloilo",
+      "region": "Western Visayas",
+      "province": null,
+      "city_municipality": "Iloilo City",
+      "barangay": "San Rafael",
+      "address": "Benigno Aquino Avenue, Mandurriao",
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "Monkey Grounds — branch-specific merchant menu and 2026 orders",
+          "sourceUrl": "https://www.foodpanda.ph/restaurant/r9rc/monkey-grounds-coffee-benigno-aquino-avenue",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Monkey Grounds — branch-specific merchant menu and 2026 orders",
+          "sourceUrl": "https://www.foodpanda.ph/restaurant/r9rc/monkey-grounds-coffee-benigno-aquino-avenue",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "Monkey Grounds — branch-specific merchant menu and 2026 orders",
+          "sourceUrl": "https://www.foodpanda.ph/restaurant/r9rc/monkey-grounds-coffee-benigno-aquino-avenue",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "id": "iloilo-monkey-grounds",
+      "name": "Monkey Grounds Coffee — Benigno Aquino Avenue",
+      "slug": "iloilo-monkey-grounds",
+      "planning": {
+        "base_slug": "iloilo",
+        "mode": "local",
+        "cluster": "iloilo-monkey-grounds",
+        "minutes": 60,
+        "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+        "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+        "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+        "requiresBooking": false,
+        "scheduling": "candidate",
+        "outdoor": false
+      },
+      "category": "Food & drink",
+      "description": "Monkey Grounds lists espresso, pour-over and nitro cold brew alongside rice bowls and sandwiches. Its Benigno Aquino Avenue merchant menu and dated 2026 orders support the named Iloilo venue.",
+      "interests": [
+        "Food Hunter",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "iloilo",
+      "catalog_stop_id": "iloilo-monkey-grounds",
+      "status": "accepted",
+      "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+      "reviewed_on": "2026-10-22"
+    },
+    {
+      "destination_group": "Iloilo",
+      "region": "Western Visayas",
+      "province": null,
+      "city_municipality": "Iloilo City",
+      "barangay": null,
+      "address": "Smallville, Mandurriao",
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "LoCo Local Coffee — Smallville — venue website",
+          "sourceUrl": "https://localcoffee.ph/pages/about-us",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "LoCo Local Coffee — Smallville — venue website",
+          "sourceUrl": "https://localcoffee.ph/pages/about-us",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "LoCo Local Coffee — Smallville — venue website",
+          "sourceUrl": "https://localcoffee.ph/pages/about-us",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "id": "iloilo-loco-smallville",
+      "name": "LoCo Local Coffee — Smallville",
+      "slug": "iloilo-loco-smallville",
+      "planning": {
+        "base_slug": "iloilo",
+        "mode": "local",
+        "cluster": "iloilo-loco-smallville",
+        "minutes": 60,
+        "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+        "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+        "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+        "requiresBooking": false,
+        "scheduling": "candidate",
+        "outdoor": false
+      },
+      "category": "Food & drink",
+      "description": "LoCo’s Smallville café highlights beans from Iloilo’s highlands and small-batch roasting. Its own menu description includes cold brew, silog meals, chicken pastil, panini and pasta.",
+      "interests": [
+        "Food Hunter",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "iloilo",
+      "catalog_stop_id": "iloilo-loco-smallville",
+      "status": "accepted",
+      "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+      "reviewed_on": "2026-10-22"
+    },
+    {
+      "destination_group": "Iloilo",
+      "region": "Western Visayas",
+      "province": null,
+      "city_municipality": "Iloilo City",
+      "barangay": null,
+      "address": "La Paz Public Market",
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "BusinessWorld — April 2026 owner interview",
+          "sourceUrl": "https://www.bworldonline.com/bw-launchpad/2026/04/15/742817/netongs-eyes-partnerships-to-cushion-rising-costs/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "BusinessWorld — April 2026 owner interview",
+          "sourceUrl": "https://www.bworldonline.com/bw-launchpad/2026/04/15/742817/netongs-eyes-partnerships-to-cushion-rising-costs/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "BusinessWorld — April 2026 owner interview",
+          "sourceUrl": "https://www.bworldonline.com/bw-launchpad/2026/04/15/742817/netongs-eyes-partnerships-to-cushion-rising-costs/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "id": "iloilo-netongs-la-paz",
+      "name": "Netong’s Original Special La Paz Batchoy — La Paz Market",
+      "slug": "iloilo-netongs-la-paz",
+      "planning": {
+        "base_slug": "iloilo",
+        "mode": "local",
+        "cluster": "iloilo-netongs-la-paz",
+        "minutes": 90,
+        "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+        "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+        "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+        "requiresBooking": false,
+        "scheduling": "candidate",
+        "outdoor": false
+      },
+      "category": "Food & drink",
+      "description": "Netong’s market branch serves La Paz batchoy, a noodle soup with meat, innards and crunchy toppings. An April 2026 owner interview confirms continued operation at the redeveloped La Paz Public Market.",
+      "interests": [
+        "Food Hunter"
+      ],
+      "itinerary_base_slug": "iloilo",
+      "catalog_stop_id": "iloilo-netongs-la-paz",
+      "status": "accepted",
+      "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+      "reviewed_on": "2026-10-22"
+    },
+    {
+      "destination_group": "Iloilo",
+      "region": "Western Visayas",
+      "province": null,
+      "city_municipality": "Iloilo City",
+      "barangay": null,
+      "address": "61 J.M. Basa Street",
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "Outrage Magazine — January 2026 Roberto’s visit",
+          "sourceUrl": "https://outragemag.com/it-supposedly-has-the-best-siopao-in-iloilo-city-so-we-tried-robertos/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Outrage Magazine — January 2026 Roberto’s visit",
+          "sourceUrl": "https://outragemag.com/it-supposedly-has-the-best-siopao-in-iloilo-city-so-we-tried-robertos/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "Outrage Magazine — January 2026 Roberto’s visit",
+          "sourceUrl": "https://outragemag.com/it-supposedly-has-the-best-siopao-in-iloilo-city-so-we-tried-robertos/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "id": "iloilo-robertos-jm-basa",
+      "name": "Roberto’s — J.M. Basa",
+      "slug": "iloilo-robertos-jm-basa",
+      "planning": {
+        "base_slug": "iloilo",
+        "mode": "local",
+        "cluster": "iloilo-robertos-jm-basa",
+        "minutes": 90,
+        "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+        "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+        "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+        "requiresBooking": false,
+        "scheduling": "candidate",
+        "outdoor": false
+      },
+      "category": "Food & drink",
+      "description": "Roberto’s on J.M. Basa Street is a local siopao destination, documented by a January 2026 visit. The Queen bun combines several fillings; this is one named shop, without counting individual bun varieties as venues.",
+      "interests": [
+        "Food Hunter"
+      ],
+      "itinerary_base_slug": "iloilo",
+      "catalog_stop_id": "iloilo-robertos-jm-basa",
+      "status": "accepted",
+      "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+      "reviewed_on": "2026-10-22"
+    },
+    {
+      "destination_group": "Iloilo",
+      "region": "Western Visayas",
+      "province": null,
+      "city_municipality": "Iloilo City",
+      "barangay": null,
+      "address": "117 Benigno Aquino Avenue, Dungon",
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "Carlo’s Bakery & Cafe — Dungon — venue website",
+          "sourceUrl": "https://carlos-bakeshop.com/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Carlo’s Bakery & Cafe — Dungon — venue website",
+          "sourceUrl": "https://carlos-bakeshop.com/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "Carlo’s Bakery & Cafe — Dungon — venue website",
+          "sourceUrl": "https://carlos-bakeshop.com/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "id": "iloilo-carlos-dungon",
+      "name": "Carlo’s Bakery & Cafe — Dungon",
+      "slug": "iloilo-carlos-dungon",
+      "planning": {
+        "base_slug": "iloilo",
+        "mode": "local",
+        "cluster": "iloilo-carlos-dungon",
+        "minutes": 90,
+        "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+        "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+        "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+        "requiresBooking": false,
+        "scheduling": "candidate",
+        "outdoor": false
+      },
+      "category": "Food & drink",
+      "description": "Carlo’s Dungon bakery-café serves baked goods, sandwiches, pasta and merienda dishes at 117 Benigno Aquino Avenue. The family business’s own branch page identifies this particular Iloilo shop.",
+      "interests": [
+        "Food Hunter"
+      ],
+      "itinerary_base_slug": "iloilo",
+      "catalog_stop_id": "iloilo-carlos-dungon",
+      "status": "accepted",
+      "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+      "reviewed_on": "2026-10-22"
     }
   ]
 }

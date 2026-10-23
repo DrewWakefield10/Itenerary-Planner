@@ -69,7 +69,7 @@ test("shortages never substitute unrelated venues and regeneration keeps categor
   assert.ok(none.days.every(d=>d.activities.every(a=>!a.catalogStopId)));
   assert.ok(none.warnings.some(w=>w.includes("0 beaches")));assert.ok(none.warnings.some(w=>w.includes("too few suitable")));
   const t=generateDemo({...request,destinations:["siargao"],activityCategories:["cafe"]});
-  assert.equal(t.days.flatMap(d=>d.activities).filter(a=>a.catalogStopId).length,1);
+  assert.ok(t.days.flatMap(d=>d.activities).filter(a=>a.catalogStopId).length>=1);
   t.days[0].activities.find(a=>a.catalogStopId)!.locked=true;
   const before=JSON.stringify(t),changed=regenerateDay(t,0,3);
   assert.equal(JSON.stringify(t),before);assert.deepEqual(changed.days.slice(1),t.days.slice(1));

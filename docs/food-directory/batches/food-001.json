@@ -1,0 +1,1155 @@
+{
+  "id": "food-001",
+  "checkedOn": "2026-10-22",
+  "entries": [
+    {
+      "approved": true,
+      "identityReviewed": true,
+      "operationReviewed": true,
+      "record": {
+        "id": "el-nido-grounded-town",
+        "name": "Grounded — El Nido Town",
+        "destination_group": "Palawan",
+        "region": "MIMAROPA",
+        "province": "Palawan",
+        "city_municipality": "El Nido",
+        "barangay": null,
+        "address": "Ground floor, S Hotel, Rizal Street",
+        "latitude": null,
+        "longitude": null,
+        "sources": {
+          "identity": {
+            "sourceName": "Grounded — El Nido Town — venue website",
+            "sourceUrl": "https://grounded.ph/",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "municipality": {
+            "sourceName": "Grounded — El Nido Town — venue website",
+            "sourceUrl": "https://grounded.ph/",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "address": {
+            "sourceName": "Grounded — El Nido Town — venue website",
+            "sourceUrl": "https://grounded.ph/",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "coordinates": {
+            "sourceName": null,
+            "sourceUrl": null,
+            "dateChecked": null,
+            "status": "unverified"
+          }
+        },
+        "category": "Food & drink",
+        "description": "Grounded’s town café serves specialty coffee from the ground floor of S Hotel on Rizal Street. This listing is for the town café, rather than its separate Nacpan coffee truck.",
+        "interests": [
+          "Food Hunter",
+          "Slow Traveler"
+        ],
+        "itinerary_base_slug": "el-nido",
+        "catalog_stop_id": "el-nido-grounded-town",
+        "status": "accepted",
+        "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+        "reviewed_on": "2026-10-22",
+        "planning": {
+          "base_slug": "el-nido",
+          "mode": "local",
+          "cluster": "el-nido-s-hotel",
+          "minutes": 60,
+          "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+          "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+          "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+          "requiresBooking": false,
+          "scheduling": "candidate",
+          "outdoor": false,
+          "openingHours": {
+            "weekdays": [
+              0,
+              1,
+              2,
+              3,
+              4,
+              5,
+              6
+            ],
+            "opens": "06:00",
+            "closes": "23:00",
+            "source": {
+              "sourceName": "Grounded — El Nido Town — venue website",
+              "sourceUrl": "https://grounded.ph/",
+              "dateChecked": "2026-10-22",
+              "status": "verified"
+            }
+          }
+        },
+        "slug": "el-nido-grounded-town"
+      },
+      "food": {
+        "placeId": "el-nido-grounded-town",
+        "primary": "cafe",
+        "venueType": "cafe",
+        "suitability": [
+          "coffee"
+        ],
+        "specialties": [
+          "specialty coffee",
+          "espresso"
+        ],
+        "source": {
+          "sourceName": "Grounded — El Nido Town — venue website",
+          "sourceUrl": "https://grounded.ph/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "officialUrl": "https://grounded.ph/",
+        "operation": {
+          "basis": "venue-offering",
+          "source": {
+            "sourceName": "Grounded — El Nido Town — venue website",
+            "sourceUrl": "https://grounded.ph/",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "limitation": "The public venue page offers this service when reviewed; no live table availability, closure guarantee or independent on-site check."
+        }
+      },
+      "content": {
+        "placeId": "el-nido-grounded-town",
+        "summary": "Grounded’s town café serves specialty coffee from the ground floor of S Hotel on Rizal Street. This listing is for the town café, rather than its separate Nacpan coffee truck.",
+        "overview": [
+          "Grounded’s town café serves specialty coffee from the ground floor of S Hotel on Rizal Street. This listing is for the town café, rather than its separate Nacpan coffee truck.",
+          "Confirm the current menu and service before travelling. Lakbay has not verified a map pin, meal prices or accessibility for this listing; any itinerary allowance is an estimate."
+        ],
+        "highlights": [
+          {
+            "text": "specialty coffee",
+            "sourceUrls": [
+              "https://grounded.ph/"
+            ]
+          },
+          {
+            "text": "espresso",
+            "sourceUrls": [
+              "https://grounded.ph/"
+            ]
+          }
+        ],
+        "tips": [],
+        "sources": [
+          {
+            "name": "Grounded — El Nido Town — venue website",
+            "url": "https://grounded.ph/",
+            "checkedOn": "2026-10-22",
+            "supports": "Exact venue, municipality and the descriptive food or coffee offering stated above; no verification of prices, accessibility or unsupplied coordinates."
+          }
+        ]
+      },
+      "photoResearch": {
+        "sources": [
+          "https://grounded.ph/",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Grounded+El+Nido&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Grounded&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=Grounded+El+Nido&license=4%2C5%2C9%2C10"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "approved": true,
+      "identityReviewed": true,
+      "operationReviewed": true,
+      "record": {
+        "id": "el-nido-janu-coffee-tea",
+        "name": "Janu Coffee & Tea",
+        "destination_group": "Palawan",
+        "region": "MIMAROPA",
+        "province": "Palawan",
+        "city_municipality": "El Nido",
+        "barangay": null,
+        "address": "Ground floor, S Hotel, Rizal Street",
+        "latitude": null,
+        "longitude": null,
+        "sources": {
+          "identity": {
+            "sourceName": "Janu Coffee & Tea — venue website",
+            "sourceUrl": "https://janu.ph/",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "municipality": {
+            "sourceName": "Janu Coffee & Tea — venue website",
+            "sourceUrl": "https://janu.ph/",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "address": {
+            "sourceName": "Janu Coffee & Tea — venue website",
+            "sourceUrl": "https://janu.ph/",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "coordinates": {
+            "sourceName": null,
+            "sourceUrl": null,
+            "dateChecked": null,
+            "status": "unverified"
+          }
+        },
+        "category": "Food & drink",
+        "description": "Janu pairs specialty coffee with Japanese tea at a sixteen-seat bar in El Nido town. The emphasis is on watching drinks prepared, with reservations recommended for the small bar.",
+        "interests": [
+          "Food Hunter",
+          "Slow Traveler"
+        ],
+        "itinerary_base_slug": "el-nido",
+        "catalog_stop_id": "el-nido-janu-coffee-tea",
+        "status": "accepted",
+        "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+        "reviewed_on": "2026-10-22",
+        "planning": {
+          "base_slug": "el-nido",
+          "mode": "local",
+          "cluster": "el-nido-s-hotel",
+          "minutes": 60,
+          "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+          "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+          "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+          "requiresBooking": false,
+          "scheduling": "candidate",
+          "outdoor": false
+        },
+        "slug": "el-nido-janu-coffee-tea"
+      },
+      "food": {
+        "placeId": "el-nido-janu-coffee-tea",
+        "primary": "cafe",
+        "venueType": "cafe",
+        "suitability": [
+          "coffee"
+        ],
+        "specialties": [
+          "specialty coffee",
+          "Japanese tea",
+          "matcha",
+          "hojicha"
+        ],
+        "source": {
+          "sourceName": "Janu Coffee & Tea — venue website",
+          "sourceUrl": "https://janu.ph/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "officialUrl": "https://janu.ph/",
+        "operation": {
+          "basis": "venue-offering",
+          "source": {
+            "sourceName": "Janu Coffee & Tea — venue website",
+            "sourceUrl": "https://janu.ph/",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "limitation": "The public venue page offers this service when reviewed; no live table availability, closure guarantee or independent on-site check."
+        }
+      },
+      "content": {
+        "placeId": "el-nido-janu-coffee-tea",
+        "summary": "Janu pairs specialty coffee with Japanese tea at a sixteen-seat bar in El Nido town. The emphasis is on watching drinks prepared, with reservations recommended for the small bar.",
+        "overview": [
+          "Janu pairs specialty coffee with Japanese tea at a sixteen-seat bar in El Nido town. The emphasis is on watching drinks prepared, with reservations recommended for the small bar.",
+          "The venue page gives conflicting daily and Tuesday–Sunday wording. Regular opening days remain unknown in the planner; confirm before visiting. Reservations are recommended, not recorded as mandatory."
+        ],
+        "highlights": [
+          {
+            "text": "specialty coffee",
+            "sourceUrls": [
+              "https://janu.ph/"
+            ]
+          },
+          {
+            "text": "Japanese tea",
+            "sourceUrls": [
+              "https://janu.ph/"
+            ]
+          },
+          {
+            "text": "matcha",
+            "sourceUrls": [
+              "https://janu.ph/"
+            ]
+          }
+        ],
+        "tips": [],
+        "sources": [
+          {
+            "name": "Janu Coffee & Tea — venue website",
+            "url": "https://janu.ph/",
+            "checkedOn": "2026-10-22",
+            "supports": "Exact venue, municipality and the descriptive food or coffee offering stated above; no verification of prices, accessibility or unsupplied coordinates."
+          }
+        ]
+      },
+      "photoResearch": {
+        "sources": [
+          "https://janu.ph/",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Janu+Coffee+%26+Tea+El+Nido&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Janu+Coffee+%26+Tea&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=Janu+Coffee+%26+Tea+El+Nido&license=4%2C5%2C9%2C10"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "approved": true,
+      "identityReviewed": true,
+      "operationReviewed": true,
+      "record": {
+        "id": "puerto-princesa-itoys-coffee-haus",
+        "name": "Itoy’s Coffee Haus",
+        "destination_group": "Palawan",
+        "region": "MIMAROPA",
+        "province": "Palawan",
+        "city_municipality": "Puerto Princesa City",
+        "barangay": "Maningning",
+        "address": "Alivay Benito, Rizal Avenue",
+        "latitude": null,
+        "longitude": null,
+        "sources": {
+          "identity": {
+            "sourceName": "Puerto Princesa Tourism — March 2026 accredited restaurants",
+            "sourceUrl": "https://www.puertoprincesatourism.com/restaurants",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "municipality": {
+            "sourceName": "Puerto Princesa Tourism — March 2026 accredited restaurants",
+            "sourceUrl": "https://www.puertoprincesatourism.com/restaurants",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "address": {
+            "sourceName": "Puerto Princesa Tourism — March 2026 accredited restaurants",
+            "sourceUrl": "https://www.puertoprincesatourism.com/restaurants",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "coordinates": {
+            "sourceName": null,
+            "sourceUrl": null,
+            "dateChecked": null,
+            "status": "unverified"
+          }
+        },
+        "category": "Food & drink",
+        "description": "Itoy’s Coffee Haus is a named coffee stop on Rizal Avenue in Puerto Princesa’s Maningning area. The city’s March 2026 accreditation list identifies this establishment and its location.",
+        "interests": [
+          "Food Hunter",
+          "Slow Traveler"
+        ],
+        "itinerary_base_slug": "puerto-princesa",
+        "catalog_stop_id": "puerto-princesa-itoys-coffee-haus",
+        "status": "accepted",
+        "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+        "reviewed_on": "2026-10-22",
+        "planning": {
+          "base_slug": "puerto-princesa",
+          "mode": "local",
+          "cluster": "puerto-princesa-itoys-coffee-haus",
+          "minutes": 60,
+          "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+          "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+          "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+          "requiresBooking": false,
+          "scheduling": "candidate",
+          "outdoor": false
+        },
+        "slug": "puerto-princesa-itoys-coffee-haus"
+      },
+      "food": {
+        "placeId": "puerto-princesa-itoys-coffee-haus",
+        "primary": "cafe",
+        "venueType": "cafe",
+        "suitability": [
+          "coffee"
+        ],
+        "specialties": [],
+        "source": {
+          "sourceName": "Petit Futé — 2026 professional Itoy’s coffee venue review",
+          "sourceUrl": "https://www.petitfute.co.uk/v40864-puerto-princesa/c1169-s-amuser-sortir/c182-bar-cafe/c219-coffee-shop-et-salon-de-the/1596505-itoy-s-coffee-haus.html",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "officialUrl": "https://www.puertoprincesatourism.com/restaurants",
+        "operation": {
+          "basis": "2026-accreditation",
+          "source": {
+            "sourceName": "Puerto Princesa Tourism — March 2026 accredited restaurants",
+            "sourceUrl": "https://www.puertoprincesatourism.com/restaurants",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "limitation": "Tourism office lists this exact establishment as compliant on 30 March 2026. This is not a live opening or availability check."
+        }
+      },
+      "content": {
+        "placeId": "puerto-princesa-itoys-coffee-haus",
+        "summary": "Itoy’s Coffee Haus is a named coffee stop on Rizal Avenue in Puerto Princesa’s Maningning area. The city’s March 2026 accreditation list identifies this establishment and its location.",
+        "overview": [
+          "Itoy’s Coffee Haus is a named coffee stop on Rizal Avenue in Puerto Princesa’s Maningning area. The city’s March 2026 accreditation list identifies this establishment and its location.",
+          "Confirm the current menu and service before travelling. Lakbay has not verified a map pin, meal prices or accessibility for this listing; any itinerary allowance is an estimate."
+        ],
+        "highlights": [],
+        "tips": [],
+        "sources": [
+          {
+            "name": "Puerto Princesa Tourism — March 2026 accredited restaurants",
+            "url": "https://www.puertoprincesatourism.com/restaurants",
+            "checkedOn": "2026-10-22",
+            "supports": "Exact venue, municipality and the descriptive food or coffee offering stated above; no verification of prices, accessibility or unsupplied coordinates."
+          },
+          {
+            "name": "Petit Futé — 2026 professional Itoy’s coffee venue review",
+            "url": "https://www.petitfute.co.uk/v40864-puerto-princesa/c1169-s-amuser-sortir/c182-bar-cafe/c219-coffee-shop-et-salon-de-the/1596505-itoy-s-coffee-haus.html",
+            "checkedOn": "2026-10-22",
+            "supports": "Explicit coffee offering at the exact named venue; independent from the city accreditation record. No copied menu prices or hours."
+          }
+        ]
+      },
+      "photoResearch": {
+        "sources": [
+          "https://www.puertoprincesatourism.com/restaurants",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Itoy%E2%80%99s+Coffee+Haus+Puerto+Princesa+City&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Itoy%E2%80%99s+Coffee+Haus&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=Itoy%E2%80%99s+Coffee+Haus+Puerto+Princesa+City&license=4%2C5%2C9%2C10"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "approved": true,
+      "identityReviewed": true,
+      "operationReviewed": true,
+      "record": {
+        "id": "puerto-princesa-koffee-kat",
+        "name": "Koffee Kat Cafe",
+        "destination_group": "Palawan",
+        "region": "MIMAROPA",
+        "province": "Palawan",
+        "city_municipality": "Puerto Princesa City",
+        "barangay": "Tagumpay",
+        "address": "32 Burgos Street",
+        "latitude": null,
+        "longitude": null,
+        "sources": {
+          "identity": {
+            "sourceName": "Puerto Princesa Tourism — March 2026 accredited restaurants",
+            "sourceUrl": "https://www.puertoprincesatourism.com/restaurants",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "municipality": {
+            "sourceName": "Puerto Princesa Tourism — March 2026 accredited restaurants",
+            "sourceUrl": "https://www.puertoprincesatourism.com/restaurants",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "address": {
+            "sourceName": "Puerto Princesa Tourism — March 2026 accredited restaurants",
+            "sourceUrl": "https://www.puertoprincesatourism.com/restaurants",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "coordinates": {
+            "sourceName": null,
+            "sourceUrl": null,
+            "dateChecked": null,
+            "status": "unverified"
+          }
+        },
+        "category": "Food & drink",
+        "description": "Koffee Kat is a café at 32 Burgos Street in Tagumpay, Puerto Princesa. The city tourism office includes this exact café in its March 2026 list of compliant restaurants.",
+        "interests": [
+          "Food Hunter",
+          "Slow Traveler"
+        ],
+        "itinerary_base_slug": "puerto-princesa",
+        "catalog_stop_id": "puerto-princesa-koffee-kat",
+        "status": "accepted",
+        "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+        "reviewed_on": "2026-10-22",
+        "planning": {
+          "base_slug": "puerto-princesa",
+          "mode": "local",
+          "cluster": "puerto-princesa-koffee-kat",
+          "minutes": 60,
+          "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+          "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+          "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+          "requiresBooking": false,
+          "scheduling": "candidate",
+          "outdoor": false
+        },
+        "slug": "puerto-princesa-koffee-kat"
+      },
+      "food": {
+        "placeId": "puerto-princesa-koffee-kat",
+        "primary": "cafe",
+        "venueType": "cafe",
+        "suitability": [
+          "coffee"
+        ],
+        "specialties": [],
+        "source": {
+          "sourceName": "Restaurant Guru — Koffee Kat Burgos Street coffee reports",
+          "sourceUrl": "https://restaurantguru.com/Coffee-Cat-Palawan-Puerto-Princesa",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "officialUrl": "https://www.puertoprincesatourism.com/restaurants",
+        "operation": {
+          "basis": "2026-accreditation",
+          "source": {
+            "sourceName": "Puerto Princesa Tourism — March 2026 accredited restaurants",
+            "sourceUrl": "https://www.puertoprincesatourism.com/restaurants",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "limitation": "Tourism office lists this exact establishment as compliant on 30 March 2026. This is not a live opening or availability check."
+        }
+      },
+      "content": {
+        "placeId": "puerto-princesa-koffee-kat",
+        "summary": "Koffee Kat is a café at 32 Burgos Street in Tagumpay, Puerto Princesa. The city tourism office includes this exact café in its March 2026 list of compliant restaurants.",
+        "overview": [
+          "Koffee Kat is a café at 32 Burgos Street in Tagumpay, Puerto Princesa. The city tourism office includes this exact café in its March 2026 list of compliant restaurants.",
+          "Confirm the current menu and service before travelling. Lakbay has not verified a map pin, meal prices or accessibility for this listing; any itinerary allowance is an estimate."
+        ],
+        "highlights": [],
+        "tips": [],
+        "sources": [
+          {
+            "name": "Puerto Princesa Tourism — March 2026 accredited restaurants",
+            "url": "https://www.puertoprincesatourism.com/restaurants",
+            "checkedOn": "2026-10-22",
+            "supports": "Exact venue, municipality and the descriptive food or coffee offering stated above; no verification of prices, accessibility or unsupplied coordinates."
+          },
+          {
+            "name": "Restaurant Guru — Koffee Kat Burgos Street coffee reports",
+            "url": "https://restaurantguru.com/Coffee-Cat-Palawan-Puerto-Princesa",
+            "checkedOn": "2026-10-22",
+            "supports": "Explicit coffee offering at the exact named venue; independent from the city accreditation record. No copied menu prices or hours."
+          }
+        ]
+      },
+      "photoResearch": {
+        "sources": [
+          "https://www.puertoprincesatourism.com/restaurants",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Koffee+Kat+Cafe+Puerto+Princesa+City&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Koffee+Kat+Cafe&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=Koffee+Kat+Cafe+Puerto+Princesa+City&license=4%2C5%2C9%2C10"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "approved": true,
+      "identityReviewed": true,
+      "operationReviewed": true,
+      "record": {
+        "id": "puerto-princesa-vietville-restaurant",
+        "name": "Vietville Restaurant",
+        "destination_group": "Palawan",
+        "region": "MIMAROPA",
+        "province": "Palawan",
+        "city_municipality": "Puerto Princesa City",
+        "barangay": "Santa Lourdes",
+        "address": "Km 13, Viet Village, Hung Vuong",
+        "latitude": null,
+        "longitude": null,
+        "sources": {
+          "identity": {
+            "sourceName": "Puerto Princesa Tourism — March 2026 accredited restaurants",
+            "sourceUrl": "https://www.puertoprincesatourism.com/restaurants",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "municipality": {
+            "sourceName": "Puerto Princesa Tourism — March 2026 accredited restaurants",
+            "sourceUrl": "https://www.puertoprincesatourism.com/restaurants",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "address": {
+            "sourceName": "Puerto Princesa Tourism — March 2026 accredited restaurants",
+            "sourceUrl": "https://www.puertoprincesatourism.com/restaurants",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "coordinates": {
+            "sourceName": null,
+            "sourceUrl": null,
+            "dateChecked": null,
+            "status": "unverified"
+          }
+        },
+        "category": "Food & drink",
+        "description": "Vietville Restaurant is the named dining establishment at Viet Village in Santa Lourdes, Puerto Princesa. Its kilometre-13 location is separate from the central city’s restaurant streets; plan the journey deliberately.",
+        "interests": [
+          "Food Hunter"
+        ],
+        "itinerary_base_slug": "puerto-princesa",
+        "catalog_stop_id": "puerto-princesa-vietville-restaurant",
+        "status": "accepted",
+        "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+        "reviewed_on": "2026-10-22",
+        "planning": {
+          "base_slug": "puerto-princesa",
+          "mode": "local",
+          "cluster": "puerto-princesa-vietville-restaurant",
+          "minutes": 90,
+          "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+          "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+          "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+          "requiresBooking": false,
+          "scheduling": "manual",
+          "outdoor": false
+        },
+        "slug": "puerto-princesa-vietville-restaurant"
+      },
+      "food": {
+        "placeId": "puerto-princesa-vietville-restaurant",
+        "primary": "other-food",
+        "venueType": "restaurant",
+        "suitability": [
+          "meal"
+        ],
+        "specialties": [],
+        "source": {
+          "sourceName": "Puerto Princesa Tourism — March 2026 accredited restaurants",
+          "sourceUrl": "https://www.puertoprincesatourism.com/restaurants",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "officialUrl": "https://www.puertoprincesatourism.com/restaurants",
+        "operation": {
+          "basis": "2026-accreditation",
+          "source": {
+            "sourceName": "Puerto Princesa Tourism — March 2026 accredited restaurants",
+            "sourceUrl": "https://www.puertoprincesatourism.com/restaurants",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "limitation": "Tourism office lists this exact establishment as compliant on 30 March 2026. This is not a live opening or availability check."
+        }
+      },
+      "content": {
+        "placeId": "puerto-princesa-vietville-restaurant",
+        "summary": "Vietville Restaurant is the named dining establishment at Viet Village in Santa Lourdes, Puerto Princesa. Its kilometre-13 location is separate from the central city’s restaurant streets; plan the journey deliberately.",
+        "overview": [
+          "Vietville Restaurant is the named dining establishment at Viet Village in Santa Lourdes, Puerto Princesa. Its kilometre-13 location is separate from the central city’s restaurant streets; plan the journey deliberately.",
+          "Confirm the current menu and service before travelling. Lakbay has not verified a map pin, meal prices or accessibility for this listing; any itinerary allowance is an estimate."
+        ],
+        "highlights": [],
+        "tips": [],
+        "sources": [
+          {
+            "name": "Puerto Princesa Tourism — March 2026 accredited restaurants",
+            "url": "https://www.puertoprincesatourism.com/restaurants",
+            "checkedOn": "2026-10-22",
+            "supports": "Exact venue, municipality and the descriptive food or coffee offering stated above; no verification of prices, accessibility or unsupplied coordinates."
+          }
+        ]
+      },
+      "photoResearch": {
+        "sources": [
+          "https://www.puertoprincesatourism.com/restaurants",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Vietville+Restaurant+Puerto+Princesa+City&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Vietville+Restaurant&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=Vietville+Restaurant+Puerto+Princesa+City&license=4%2C5%2C9%2C10"
+        ],
+        "outcome": "Individual license, identity and visual review approved; published separately through the optimized image pipeline.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "approved": true,
+      "identityReviewed": true,
+      "operationReviewed": true,
+      "record": {
+        "id": "puerto-princesa-ka-inato-main",
+        "name": "Ka Inato — Tiniguiban",
+        "destination_group": "Palawan",
+        "region": "MIMAROPA",
+        "province": "Palawan",
+        "city_municipality": "Puerto Princesa City",
+        "barangay": "Tiniguiban",
+        "address": "Corner San Manuel Road",
+        "latitude": null,
+        "longitude": null,
+        "sources": {
+          "identity": {
+            "sourceName": "Puerto Princesa Tourism — March 2026 accredited restaurants",
+            "sourceUrl": "https://www.puertoprincesatourism.com/restaurants",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "municipality": {
+            "sourceName": "Puerto Princesa Tourism — March 2026 accredited restaurants",
+            "sourceUrl": "https://www.puertoprincesatourism.com/restaurants",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "address": {
+            "sourceName": "Puerto Princesa Tourism — March 2026 accredited restaurants",
+            "sourceUrl": "https://www.puertoprincesatourism.com/restaurants",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "coordinates": {
+            "sourceName": null,
+            "sourceUrl": null,
+            "dateChecked": null,
+            "status": "unverified"
+          }
+        },
+        "category": "Food & drink",
+        "description": "This Ka Inato listing is for the Tiniguiban establishment at the San Manuel Road corner. It is distinct from other city branches and appears in Puerto Princesa’s March 2026 compliant-restaurant list.",
+        "interests": [
+          "Food Hunter"
+        ],
+        "itinerary_base_slug": "puerto-princesa",
+        "catalog_stop_id": "puerto-princesa-ka-inato-main",
+        "status": "accepted",
+        "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+        "reviewed_on": "2026-10-22",
+        "planning": {
+          "base_slug": "puerto-princesa",
+          "mode": "local",
+          "cluster": "puerto-princesa-ka-inato-main",
+          "minutes": 90,
+          "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+          "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+          "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+          "requiresBooking": false,
+          "scheduling": "candidate",
+          "outdoor": false
+        },
+        "slug": "puerto-princesa-ka-inato-main"
+      },
+      "food": {
+        "placeId": "puerto-princesa-ka-inato-main",
+        "primary": "other-food",
+        "venueType": "restaurant",
+        "suitability": [
+          "meal"
+        ],
+        "specialties": [],
+        "source": {
+          "sourceName": "Puerto Princesa Tourism — March 2026 accredited restaurants",
+          "sourceUrl": "https://www.puertoprincesatourism.com/restaurants",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "officialUrl": "https://www.puertoprincesatourism.com/restaurants",
+        "operation": {
+          "basis": "2026-accreditation",
+          "source": {
+            "sourceName": "Puerto Princesa Tourism — March 2026 accredited restaurants",
+            "sourceUrl": "https://www.puertoprincesatourism.com/restaurants",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "limitation": "Tourism office lists this exact establishment as compliant on 30 March 2026. This is not a live opening or availability check."
+        }
+      },
+      "content": {
+        "placeId": "puerto-princesa-ka-inato-main",
+        "summary": "This Ka Inato listing is for the Tiniguiban establishment at the San Manuel Road corner. It is distinct from other city branches and appears in Puerto Princesa’s March 2026 compliant-restaurant list.",
+        "overview": [
+          "This Ka Inato listing is for the Tiniguiban establishment at the San Manuel Road corner. It is distinct from other city branches and appears in Puerto Princesa’s March 2026 compliant-restaurant list.",
+          "Confirm the current menu and service before travelling. Lakbay has not verified a map pin, meal prices or accessibility for this listing; any itinerary allowance is an estimate."
+        ],
+        "highlights": [],
+        "tips": [],
+        "sources": [
+          {
+            "name": "Puerto Princesa Tourism — March 2026 accredited restaurants",
+            "url": "https://www.puertoprincesatourism.com/restaurants",
+            "checkedOn": "2026-10-22",
+            "supports": "Exact venue, municipality and the descriptive food or coffee offering stated above; no verification of prices, accessibility or unsupplied coordinates."
+          }
+        ]
+      },
+      "photoResearch": {
+        "sources": [
+          "https://www.puertoprincesatourism.com/restaurants",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Ka+Inato+Puerto+Princesa+City&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Ka+Inato&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=Ka+Inato+Puerto+Princesa+City&license=4%2C5%2C9%2C10"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "approved": true,
+      "identityReviewed": true,
+      "operationReviewed": true,
+      "record": {
+        "id": "cebu-north-cafe-citymall",
+        "name": "North Café & Co — CityMall Bacalso",
+        "destination_group": "Cebu",
+        "region": "Central Visayas",
+        "province": "Cebu",
+        "city_municipality": "Cebu City",
+        "barangay": null,
+        "address": "Ground floor, CityMall Bacalso Street",
+        "latitude": null,
+        "longitude": null,
+        "sources": {
+          "identity": {
+            "sourceName": "North Café & Co — CityMall Bacalso — venue website",
+            "sourceUrl": "https://www.northcafeandco.ph/",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "municipality": {
+            "sourceName": "North Café & Co — CityMall Bacalso — venue website",
+            "sourceUrl": "https://www.northcafeandco.ph/",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "address": {
+            "sourceName": "North Café & Co — CityMall Bacalso — venue website",
+            "sourceUrl": "https://www.northcafeandco.ph/",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "coordinates": {
+            "sourceName": null,
+            "sourceUrl": null,
+            "dateChecked": null,
+            "status": "unverified"
+          }
+        },
+        "category": "Food & drink",
+        "description": "North Café & Co combines coffee with an open main hall and a rear payag space at CityMall Bacalso. Its public program also includes art nights, workshops and community events.",
+        "interests": [
+          "Food Hunter",
+          "Slow Traveler"
+        ],
+        "itinerary_base_slug": "cebu",
+        "catalog_stop_id": "cebu-north-cafe-citymall",
+        "status": "accepted",
+        "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+        "reviewed_on": "2026-10-22",
+        "planning": {
+          "base_slug": "cebu",
+          "mode": "local",
+          "cluster": "cebu-north-cafe-citymall",
+          "minutes": 60,
+          "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+          "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+          "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+          "requiresBooking": false,
+          "scheduling": "candidate",
+          "outdoor": false,
+          "openingHours": {
+            "weekdays": [
+              0,
+              1,
+              2,
+              3,
+              4,
+              5,
+              6
+            ],
+            "opens": "08:00",
+            "closes": "20:30",
+            "source": {
+              "sourceName": "North Café & Co — CityMall Bacalso — venue website",
+              "sourceUrl": "https://www.northcafeandco.ph/",
+              "dateChecked": "2026-10-22",
+              "status": "verified"
+            }
+          }
+        },
+        "slug": "cebu-north-cafe-citymall"
+      },
+      "food": {
+        "placeId": "cebu-north-cafe-citymall",
+        "primary": "cafe",
+        "venueType": "cafe",
+        "suitability": [
+          "coffee"
+        ],
+        "specialties": [
+          "coffee"
+        ],
+        "source": {
+          "sourceName": "North Café & Co — CityMall Bacalso — venue website",
+          "sourceUrl": "https://www.northcafeandco.ph/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "officialUrl": "https://www.northcafeandco.ph/",
+        "operation": {
+          "basis": "venue-offering",
+          "source": {
+            "sourceName": "North Café & Co — CityMall Bacalso — venue website",
+            "sourceUrl": "https://www.northcafeandco.ph/",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "limitation": "The public venue page offers this service when reviewed; no live table availability, closure guarantee or independent on-site check."
+        }
+      },
+      "content": {
+        "placeId": "cebu-north-cafe-citymall",
+        "summary": "North Café & Co combines coffee with an open main hall and a rear payag space at CityMall Bacalso. Its public program also includes art nights, workshops and community events.",
+        "overview": [
+          "North Café & Co combines coffee with an open main hall and a rear payag space at CityMall Bacalso. Its public program also includes art nights, workshops and community events.",
+          "Confirm the current menu and service before travelling. Lakbay has not verified a map pin, meal prices or accessibility for this listing; any itinerary allowance is an estimate."
+        ],
+        "highlights": [
+          {
+            "text": "coffee",
+            "sourceUrls": [
+              "https://www.northcafeandco.ph/"
+            ]
+          }
+        ],
+        "tips": [],
+        "sources": [
+          {
+            "name": "North Café & Co — CityMall Bacalso — venue website",
+            "url": "https://www.northcafeandco.ph/",
+            "checkedOn": "2026-10-22",
+            "supports": "Exact venue, municipality and the descriptive food or coffee offering stated above; no verification of prices, accessibility or unsupplied coordinates."
+          }
+        ]
+      },
+      "photoResearch": {
+        "sources": [
+          "https://www.northcafeandco.ph/",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=North+Caf%C3%A9+%26+Co+Cebu+City&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=North+Caf%C3%A9+%26+Co&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=North+Caf%C3%A9+%26+Co+Cebu+City&license=4%2C5%2C9%2C10"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "approved": true,
+      "identityReviewed": true,
+      "operationReviewed": true,
+      "record": {
+        "id": "cebu-teamo-hotel-one",
+        "name": "Te’Amo Café — Hotel One",
+        "destination_group": "Cebu",
+        "region": "Central Visayas",
+        "province": "Cebu",
+        "city_municipality": "Cebu City",
+        "barangay": null,
+        "address": "2nd floor, Hotel One, Juana Osmeña Street",
+        "latitude": null,
+        "longitude": null,
+        "sources": {
+          "identity": {
+            "sourceName": "Te’Amo Café — Hotel One — venue website",
+            "sourceUrl": "https://www.teamocafecebu.com/",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "municipality": {
+            "sourceName": "Te’Amo Café — Hotel One — venue website",
+            "sourceUrl": "https://www.teamocafecebu.com/",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "address": {
+            "sourceName": "Te’Amo Café — Hotel One — venue website",
+            "sourceUrl": "https://www.teamocafecebu.com/",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "coordinates": {
+            "sourceName": null,
+            "sourceUrl": null,
+            "dateChecked": null,
+            "status": "unverified"
+          }
+        },
+        "category": "Food & drink",
+        "description": "Te’Amo’s Hotel One café serves coffee, tea, cakes and all-day breakfast upstairs on Juana Osmeña Street. Cake-painting and flower-arranging sessions are separate activities requiring advance arrangements.",
+        "interests": [
+          "Food Hunter",
+          "Slow Traveler"
+        ],
+        "itinerary_base_slug": "cebu",
+        "catalog_stop_id": "cebu-teamo-hotel-one",
+        "status": "accepted",
+        "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+        "reviewed_on": "2026-10-22",
+        "planning": {
+          "base_slug": "cebu",
+          "mode": "local",
+          "cluster": "cebu-teamo-hotel-one",
+          "minutes": 60,
+          "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+          "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+          "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+          "requiresBooking": false,
+          "scheduling": "candidate",
+          "outdoor": false,
+          "openingHours": {
+            "weekdays": [
+              0,
+              1,
+              2,
+              3,
+              4,
+              5,
+              6
+            ],
+            "opens": "06:00",
+            "closes": "22:00",
+            "source": {
+              "sourceName": "Te’Amo Café — Hotel One — venue website",
+              "sourceUrl": "https://www.teamocafecebu.com/",
+              "dateChecked": "2026-10-22",
+              "status": "verified"
+            }
+          }
+        },
+        "slug": "cebu-teamo-hotel-one"
+      },
+      "food": {
+        "placeId": "cebu-teamo-hotel-one",
+        "primary": "cafe",
+        "venueType": "cafe",
+        "suitability": [
+          "coffee",
+          "meal",
+          "breakfast",
+          "dessert"
+        ],
+        "specialties": [
+          "coffee",
+          "cake",
+          "all-day breakfast",
+          "pastries"
+        ],
+        "source": {
+          "sourceName": "Te’Amo Café — Hotel One — venue website",
+          "sourceUrl": "https://www.teamocafecebu.com/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "officialUrl": "https://www.teamocafecebu.com/",
+        "operation": {
+          "basis": "venue-offering",
+          "source": {
+            "sourceName": "Te’Amo Café — Hotel One — venue website",
+            "sourceUrl": "https://www.teamocafecebu.com/",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "limitation": "The public venue page offers this service when reviewed; no live table availability, closure guarantee or independent on-site check."
+        }
+      },
+      "content": {
+        "placeId": "cebu-teamo-hotel-one",
+        "summary": "Te’Amo’s Hotel One café serves coffee, tea, cakes and all-day breakfast upstairs on Juana Osmeña Street. Cake-painting and flower-arranging sessions are separate activities requiring advance arrangements.",
+        "overview": [
+          "Te’Amo’s Hotel One café serves coffee, tea, cakes and all-day breakfast upstairs on Juana Osmeña Street. Cake-painting and flower-arranging sessions are separate activities requiring advance arrangements.",
+          "Confirm the current menu and service before travelling. Lakbay has not verified a map pin, meal prices or accessibility for this listing; any itinerary allowance is an estimate."
+        ],
+        "highlights": [
+          {
+            "text": "coffee",
+            "sourceUrls": [
+              "https://www.teamocafecebu.com/"
+            ]
+          },
+          {
+            "text": "cake",
+            "sourceUrls": [
+              "https://www.teamocafecebu.com/"
+            ]
+          },
+          {
+            "text": "all-day breakfast",
+            "sourceUrls": [
+              "https://www.teamocafecebu.com/"
+            ]
+          }
+        ],
+        "tips": [],
+        "sources": [
+          {
+            "name": "Te’Amo Café — Hotel One — venue website",
+            "url": "https://www.teamocafecebu.com/",
+            "checkedOn": "2026-10-22",
+            "supports": "Exact venue, municipality and the descriptive food or coffee offering stated above; no verification of prices, accessibility or unsupplied coordinates."
+          }
+        ]
+      },
+      "photoResearch": {
+        "sources": [
+          "https://www.teamocafecebu.com/",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Te%E2%80%99Amo+Caf%C3%A9+Cebu+City&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Te%E2%80%99Amo+Caf%C3%A9&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=Te%E2%80%99Amo+Caf%C3%A9+Cebu+City&license=4%2C5%2C9%2C10"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    }
+  ],
+  "decisions": [
+    {
+      "placeId": "el-nido-artcafe",
+      "name": "el-nido-artcafe",
+      "status": "duplicate",
+      "sources": [
+        "https://elnidoboutiqueandartcafe.com/artcafe-restuarant/"
+      ],
+      "reason": "Existing stable directory identity reused and included in the starting count; not imported or counted as a new place. This duplicate audit does not reverify current operation."
+    },
+    {
+      "placeId": "coron-trattoria-altrove",
+      "name": "coron-trattoria-altrove",
+      "status": "duplicate",
+      "sources": [
+        "https://www.trattoriaaltrove.com/"
+      ],
+      "reason": "Existing stable directory identity reused and included in the starting count; not imported or counted as a new place. This duplicate audit does not reverify current operation."
+    },
+    {
+      "placeId": "bohol-common-crew",
+      "name": "bohol-common-crew",
+      "status": "duplicate",
+      "sources": [
+        "https://www.commoncrewbohol.com/coffee-kombucha-brew-bar"
+      ],
+      "reason": "Existing stable directory identity reused and included in the starting count; not imported or counted as a new place. This duplicate audit does not reverify current operation."
+    },
+    {
+      "placeId": "iloilo-biscocho-haus",
+      "name": "iloilo-biscocho-haus",
+      "status": "duplicate",
+      "sources": [
+        "https://biscochohaus.com/"
+      ],
+      "reason": "Existing stable directory identity reused and included in the starting count; not imported or counted as a new place. This duplicate audit does not reverify current operation."
+    }
+  ]
+}

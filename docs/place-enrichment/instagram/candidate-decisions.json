@@ -1,0 +1,150 @@
+{
+  "checkedOn": "2026-10-22",
+  "scope": "Explicit negative and uncertain individual-post decisions; not an exhaustive candidate inventory.",
+  "records": [
+    {
+      "placeId": "boracay-puka-shell-beach",
+      "catalogIdExists": true,
+      "url": "https://www.instagram.com/p/Ckk-lcfpu4o/",
+      "checkedOn": "2026-10-22",
+      "outcome": "identity-uncertain",
+      "reason": "The caption describes a crystal kayak but does not establish Puka Beach; article placement alone is insufficient."
+    },
+    {
+      "placeId": "iloilo-ilomoca",
+      "catalogIdExists": true,
+      "url": "https://www.instagram.com/p/Cu8Fp1QST2M/",
+      "checkedOn": "2026-10-22",
+      "outcome": "incorrect-location-association",
+      "reason": "The post promotes the wider business-park township, not the museum named by the nearby article heading."
+    },
+    {
+      "placeId": "boracay-los-indios-bravos",
+      "catalogIdExists": true,
+      "url": "https://www.instagram.com/p/CcpzOy4vKzd/",
+      "checkedOn": "2026-10-22",
+      "outcome": "incorrect-location-association",
+      "reason": "The live official widget identifies Bar Lo Restaurant at Two Seasons, not Los Indios Bravos. Rejected despite its placement in a restaurant guide."
+    },
+    {
+      "placeId": "manila-national-museum-natural-history",
+      "catalogIdExists": true,
+      "url": "https://www.instagram.com/p/CQnSp38nQTN/",
+      "checkedOn": "2026-10-22",
+      "outcome": "incorrect-location-association",
+      "reason": "The initial photograph shows the Fine Arts building; the general museum advocacy caption does not establish a Natural History-specific resource."
+    },
+    {
+      "placeId": "baguio-good-shepherd",
+      "catalogIdExists": true,
+      "url": "https://www.instagram.com/p/DVknRZTjqKj/",
+      "checkedOn": "2026-10-22",
+      "outcome": "incorrect-branch-association",
+      "reason": "The article identifies a café by the cathedral steps, not the catalog’s Good Shepherd Convent location."
+    },
+    {
+      "placeId": "boracay-nonies-ondus",
+      "catalogIdExists": true,
+      "url": "https://www.instagram.com/p/CedhmTovVJZ/",
+      "checkedOn": "2026-10-22",
+      "outcome": "incorrect-location-association",
+      "reason": "This restaurant-guide reference concerns Conga’s, not Nonie’s. The broader source also discusses Nonie’s historical Station X setting, not the catalog’s Ondus branch."
+    },
+    {
+      "placeId": "sagada-gaia-cafe",
+      "catalogIdExists": true,
+      "url": "https://www.instagram.com/p/6jPepYrqJ7/",
+      "checkedOn": "2026-10-22",
+      "outcome": "identity-uncertain",
+      "reason": "The initial image is rice terraces and the caption identifies Sagada broadly. Neither confirms that it depicts the café itself."
+    },
+    {
+      "placeId": "davao-paramount-star-hotel",
+      "catalogIdExists": true,
+      "url": "https://www.instagram.com/reel/C4uzAWPRtBa/",
+      "checkedOn": "2026-10-22",
+      "outcome": "branch-uncertain",
+      "reason": "The roaster account promotes a coffee product sourced from Mount Apo; it does not identify the Star Hotel café branch."
+    },
+    {
+      "placeId": "davao-fourth-street-narra",
+      "catalogIdExists": true,
+      "url": "https://www.instagram.com/reel/C1JSIr3SW8V/",
+      "checkedOn": "2026-10-22",
+      "outcome": "branch-uncertain",
+      "reason": "The official-account reel shows coffee preparation, but neither the accessible caption nor widget identifies the Narra branch."
+    },
+    {
+      "placeId": "davao-purge-tulip",
+      "catalogIdExists": true,
+      "url": "https://www.instagram.com/p/C2YUUaAyuZ_/",
+      "checkedOn": "2026-10-22",
+      "outcome": "branch-uncertain",
+      "reason": "The public post names Purge and shows coffee, but the reviewed evidence does not independently establish the Tulip Drive branch. Kept unpublished."
+    },
+    {
+      "placeId": "baguio-baguio-museum",
+      "catalogIdExists": true,
+      "url": "https://www.instagram.com/p/B9ZYJd2D2yh/",
+      "checkedOn": "2026-10-22",
+      "outcome": "unavailable",
+      "reason": "The official widget reports that the post link may be broken or removed; public caption is unavailable. Do not infer a current account or publish a fake preview."
+    },
+    {
+      "placeId": "bohol-bohol-bee-farm",
+      "catalogIdExists": true,
+      "url": "https://www.instagram.com/p/BuQf2JLHmF8/",
+      "checkedOn": "2026-10-22",
+      "outcome": "unavailable",
+      "reason": "No public caption; the official widget reports the post may be removed."
+    },
+    {
+      "placeId": "bohol-pamilacan-island",
+      "catalogIdExists": true,
+      "url": "https://www.instagram.com/p/BSOewuiglji/",
+      "checkedOn": "2026-10-22",
+      "outcome": "unavailable",
+      "reason": "No public caption; the official widget reports the post may be removed."
+    },
+    {
+      "placeId": "iloilo-molo-mansion",
+      "catalogIdExists": true,
+      "url": "https://www.instagram.com/p/Cr8Yz2RvX0U/",
+      "checkedOn": "2026-10-22",
+      "outcome": "unavailable",
+      "reason": "No public caption; the official widget reports the post may be removed."
+    },
+    {
+      "placeId": "davao-japanese-tunnel",
+      "catalogIdExists": true,
+      "url": "https://www.instagram.com/p/BgawqOWhC9S/",
+      "checkedOn": "2026-10-22",
+      "outcome": "unavailable",
+      "reason": "No public caption; the official widget reports the post may be removed."
+    },
+    {
+      "placeId": "sagada-log-cabin",
+      "catalogIdExists": true,
+      "url": "https://www.instagram.com/p/BOb0_vQhak6/",
+      "checkedOn": "2026-10-22",
+      "outcome": "unavailable",
+      "reason": "No public caption; the official widget reports the post may be removed."
+    },
+    {
+      "placeId": "coron-siete-pecados",
+      "catalogIdExists": false,
+      "url": "https://www.instagram.com/p/Bs8K1RzD59S/",
+      "checkedOn": "2026-10-22",
+      "outcome": "identity-uncertain",
+      "reason": "The public caption identifies underwater fish and the Philippines, not Siete Pecados; guide placement does not resolve the site."
+    },
+    {
+      "placeId": "el-nido-maremegmeg-beach",
+      "catalogIdExists": true,
+      "url": "https://www.instagram.com/p/Bs367bDAt7n/",
+      "checkedOn": "2026-10-22",
+      "outcome": "identity-uncertain",
+      "reason": "The caption names Las Cabañas. A sufficiently precise mapping to the catalog’s Maremegmeg entry was not established in this pass; retain as a candidate instead of assuming a synonym."
+    }
+  ]
+}

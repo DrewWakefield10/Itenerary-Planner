@@ -1,4 +1,6 @@
 import expansion from "./directory-expansion.json";
+import foodAdditions from "./directory-food.json";
+import {foodForPlace,matchesFoodFilter} from "./food";
 import {placeContent} from "./place-content";
 import {mergeCommittedDirectory} from "./directory-import";
 import luzon from "./directory-luzon.json";
@@ -18,10 +20,13 @@ export const originalDirectoryCandidates = [
   ...visayas,
   ...luzon,
 ] as DirectoryCandidate[];
-export const directoryCandidates=mergeCommittedDirectory(originalDirectoryCandidates, expansion as DirectoryCandidate[]);
+export const directoryCandidates=mergeCommittedDirectory(originalDirectoryCandidates, [...expansion,...foodAdditions] as DirectoryCandidate[]);
 export const directoryListings = directoryCandidates.filter(
   (p) => p.status === "accepted",
 );
+// Correct the live presentation without rewriting immutable research snapshots.
+// The reviewed farm identity does not establish a named dining venue.
+export const categoryForPlace=(p:DirectoryCandidate)=>p.id==="bohol-green-thumb-farm"?"Nature":p.category;
 export const directoryTargets: Record<string, number> = {
   Palawan: 45,
   Cebu: 35,
@@ -92,17 +97,28 @@ export function filterDirectory({
   category = "all",
   interest = "all",
   search = "",
+  foodType = "all",
 }: {
   group?: string;
   category?: string;
   interest?: string;
   search?: string;
+  foodType?: string;
 } = {}) {
   const query = searchText(search);
+  const cafeQuery=/^(cafe|cafes)$/.test(query);
+  const coffeeQuery=/^(coffee|coffee shop|coffee shops)$/.test(query);
+  const diningQuery=/^(dining|restaurant|restaurants)$/.test(query);
+  const foodQuery=query==="food";
   return directoryListings.filter(
     (p) =>
+      matchesFoodFilter(p.id,foodType) &&
+      (!cafeQuery||matchesFoodFilter(p.id,"cafe")) &&
+      (!coffeeQuery||foodForPlace(p.id)?.suitability.includes("coffee")) &&
+      (!diningQuery||matchesFoodFilter(p.id,"meal")) &&
+      (!foodQuery||!!foodForPlace(p.id)) &&
       (group === "all" || p.destination_group === group) &&
-      (category === "all" || p.category === category) &&
+      (category === "all" || categoryForPlace(p) === category) &&
       (interest === "all" || p.interests.includes(interest)) &&
       searchText(
         [
@@ -116,9 +132,11 @@ export function filterDirectory({
           p.province,
           p.barangay,
           p.address,
+          ...(foodForPlace(p.id)?.specialties||[]),
+          ...(foodForPlace(p.id)?.suitability||[]),
         ]
           .filter(Boolean)
           .join(" "),
-      ).includes(query),
+      ).includes(cafeQuery||coffeeQuery||foodQuery||diningQuery?"":query),
   );
 }

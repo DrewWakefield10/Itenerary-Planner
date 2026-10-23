@@ -7,6 +7,7 @@ import {unverifiedSource} from "../sources";
 import {directoryListings,geographyOf} from "./directory";
 import {stopFromDirectory} from "./directory-stop";
 import {typesForStop} from "./place-types";
+import {foodForPlace} from "./food";
 
 const additions=([...luzon,...islands,...visayas] as ResearchedSpot[]).map(researchedStop);
 
@@ -21,8 +22,10 @@ export function catalogForBase(baseSlug:string,existing:Stop[]) {
   }
   for(const s of stops) {
     s.placeTypes=typesForStop(s.id);
+    if(foodForPlace(s.id)?.scheduling==="manual")s.scheduling="manual";
     // Correct broad legacy labels without rewriting source records or snapshots.
     if(s.placeTypes.includes("beach"))s.category="Beaches";
+    else if(s.id==="bohol-green-thumb-farm")s.category="Nature";
     else if(s.placeTypes.some(t=>["cafe","restaurant","bakery","bar"].includes(t)))s.category="Food";
     else if(s.placeTypes.includes("market"))s.category="Markets";
     else if(s.placeTypes.includes("shopping"))s.category="Shopping";

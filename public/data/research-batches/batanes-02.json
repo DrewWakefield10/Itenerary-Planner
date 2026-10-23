@@ -518,6 +518,129 @@
       "decision_reason": "Officially listed physical place with its actual municipality; excursion logistics are kept separate from town stops.",
       "reviewed_on": "2026-10-21",
       "slug": "batanes-chamantad-tinyan"
+    },
+    {
+      "id": "batanes-cafe-du-tukon",
+      "name": "Café du Tukon",
+      "destination_group": "Batanes",
+      "region": "Cagayan Valley",
+      "province": "Batanes",
+      "city_municipality": "Basco",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "Café du Tukon — venue website",
+          "sourceUrl": "https://fundacionpacita.com/cafe.html",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Café du Tukon — venue website",
+          "sourceUrl": "https://fundacionpacita.com/cafe.html",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "category": "Food & drink",
+      "description": "Café du Tukon highlights Ivatan ingredients supplied by local farmers and fishing communities at Fundacion Pacita. Its seasonal cooking reflects island produce; confirm the available menu and dining arrangements directly.",
+      "interests": [
+        "Food Hunter",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "batanes",
+      "catalog_stop_id": "batanes-cafe-du-tukon",
+      "status": "accepted",
+      "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+      "reviewed_on": "2026-10-22",
+      "planning": {
+        "base_slug": "batanes",
+        "mode": "local",
+        "cluster": "batanes-cafe-du-tukon",
+        "minutes": 60,
+        "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+        "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+        "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+        "requiresBooking": false,
+        "scheduling": "manual",
+        "outdoor": false
+      },
+      "slug": "batanes-cafe-du-tukon"
+    },
+    {
+      "id": "batanes-bunkers-bistro",
+      "name": "Bunkers Bistro",
+      "destination_group": "Batanes",
+      "region": "Cagayan Valley",
+      "province": "Batanes",
+      "city_municipality": "Basco",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "DOT Region 2 — restaurant accreditation register",
+          "sourceUrl": "https://sites.google.com/view/dotregion2accreditedtourisment/secondary-tourism-enterprises/restaurant",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "DOT Region 2 — restaurant accreditation register",
+          "sourceUrl": "https://sites.google.com/view/dotregion2accreditedtourisment/secondary-tourism-enterprises/restaurant",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "category": "Food & drink",
+      "description": "Bunkers Bistro is a named Basco dining establishment in the DOT Region 2 restaurant register. Its accreditation is listed through January 2027; the exact menu and opening schedule remain unverified.",
+      "interests": [
+        "Food Hunter"
+      ],
+      "itinerary_base_slug": "batanes",
+      "catalog_stop_id": "batanes-bunkers-bistro",
+      "status": "accepted",
+      "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+      "reviewed_on": "2026-10-22",
+      "planning": {
+        "base_slug": "batanes",
+        "mode": "local",
+        "cluster": "batanes-bunkers-bistro",
+        "minutes": 90,
+        "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+        "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+        "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+        "requiresBooking": false,
+        "scheduling": "manual",
+        "outdoor": false
+      },
+      "slug": "batanes-bunkers-bistro"
     }
   ]
 }

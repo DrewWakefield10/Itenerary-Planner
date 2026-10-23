@@ -1,0 +1,439 @@
+{
+  "batchId": "instagram-013",
+  "checkedOn": "2026-10-22",
+  "mode": "unapproved-research",
+  "records": [
+    {
+      "placeId": "puerto-princesa-palawan-heritage-center",
+      "name": "Palawan Heritage Center",
+      "destination": "Palawan",
+      "municipality": "Puerto Princesa City",
+      "category": "Culture",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-013",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://www.puertoprincesatourism.com/_files/ugd/3668db_31558baedb484e898e1bd7efb719f797.pdf",
+          "finalUrl": "https://www.puertoprincesatourism.com/_files/ugd/3668db_31558baedb484e898e1bd7efb719f797.pdf",
+          "status": 200,
+          "title": "",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "puerto-princesa-palawan-museum",
+      "name": "Palawan Museum",
+      "destination": "Palawan",
+      "municipality": "Puerto Princesa City",
+      "category": "Culture",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-013",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://www.puertoprincesatourism.com/palawan-museum",
+          "finalUrl": "https://www.puertoprincesatourism.com/palawan-museum",
+          "status": 200,
+          "title": "Palawan Museum | Puerto Princesa City",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "puerto-princesa-wildlife-rescue-center",
+      "name": "Palawan Wildlife Rescue and Conservation Center",
+      "destination": "Palawan",
+      "municipality": "Puerto Princesa City",
+      "category": "Nature",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-013",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://citytourism.puertoprincesa.ph/destination-map/",
+          "finalUrl": "https://citytourism.puertoprincesa.ph/destination-map/",
+          "status": 200,
+          "title": "Destination Map &#8211; City Tourism of Puerto Princesa",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Palawan_Wildlife_Rescue_and_Conservation_Center",
+          "finalUrl": "https://en.wikipedia.org/wiki/Palawan_Wildlife_Rescue_and_Conservation_Center",
+          "status": 200,
+          "title": "Palawan Wildlife Rescue and Conservation Center - Wikipedia",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "puerto-princesa-underground-river",
+      "name": "Puerto Princesa Underground River",
+      "destination": "Palawan",
+      "municipality": "Puerto Princesa City",
+      "category": "Attractions",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-013",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://citytourism.puertoprincesa.ph/ppur/",
+          "finalUrl": "https://citytourism.puertoprincesa.ph/ppur/",
+          "status": 200,
+          "title": "PPUR &#8211; City Tourism of Puerto Princesa",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "coron-lualhati-park",
+      "name": "Lualhati Park",
+      "destination": "Palawan",
+      "municipality": "Coron",
+      "category": "Parks & markets",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-013",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://coron.gov.ph/wp-content/uploads/2024/10/Accomplishment-Report-CY-2022.pdf",
+          "finalUrl": "https://coron.gov.ph/wp-content/uploads/2024/10/Accomplishment-Report-CY-2022.pdf",
+          "status": 200,
+          "title": "",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "coron-mount-tapyas",
+      "name": "Mount Tapyas",
+      "destination": "Palawan",
+      "municipality": "Coron",
+      "category": "Nature",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-013",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://www.tpb.gov.ph/wp-content/uploads/2025/08/PBD_PR-No.-2025.07.049_taiwan-agent_ipd-1.pdf",
+          "finalUrl": "https://www.tpb.gov.ph/wp-content/uploads/2025/08/PBD_PR-No.-2025.07.049_taiwan-agent_ipd-1.pdf",
+          "status": 403,
+          "title": "",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "coron-maquinit-hot-springs",
+      "name": "Maquinit Hot Springs",
+      "destination": "Palawan",
+      "municipality": "Coron",
+      "category": "Nature",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-013",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://www.tourism.gov.ph/destination/mimaropa/coron/",
+          "finalUrl": "https://www.tourism.gov.ph/destination/mimaropa/coron/",
+          "status": 403,
+          "title": "",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "coron-kayangan-lake",
+      "name": "Kayangan Lake",
+      "destination": "Palawan",
+      "municipality": "Coron",
+      "category": "Nature",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-013",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://www.corontravel.com/coron",
+          "finalUrl": "https://www.corontravel.com/coron",
+          "status": 200,
+          "title": "CORON | I Capture Travel",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Kayangan_Lake",
+          "finalUrl": "https://en.wikipedia.org/wiki/Kayangan_Lake",
+          "status": 200,
+          "title": "Kayangan Lake - Wikipedia",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "coron-barracuda-lake",
+      "name": "Barracuda Lake",
+      "destination": "Palawan",
+      "municipality": "Coron",
+      "category": "Nature",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-013",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://www.corontravel.com/coron",
+          "finalUrl": "https://www.corontravel.com/coron",
+          "status": 200,
+          "title": "CORON | I Capture Travel",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "coron-twin-lagoon",
+      "name": "Twin Lagoon",
+      "destination": "Palawan",
+      "municipality": "Coron",
+      "category": "Nature",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-013",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://www.corontravel.com/coron",
+          "finalUrl": "https://www.corontravel.com/coron",
+          "status": 200,
+          "title": "CORON | I Capture Travel",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "palawan-san-vicente-long-beach",
+      "name": "Long Beach",
+      "destination": "Palawan",
+      "municipality": "San Vicente",
+      "category": "Nature",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-013",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://sanvicentepalawan.gov.ph/wp-content/uploads/2026/03/San-Vicente-Kasaysayang-Lokal_Final-Edited.pdf",
+          "finalUrl": "https://sanvicentepalawan.gov.ph/wp-content/uploads/2026/03/San-Vicente-Kasaysayang-Lokal_Final-Edited.pdf",
+          "status": 403,
+          "title": "",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "palawan-port-barton-beach",
+      "name": "Port Barton Beach",
+      "destination": "Palawan",
+      "municipality": "San Vicente",
+      "category": "Nature",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-013",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://sanvicentepalawan.gov.ph/wp-content/uploads/2026/03/San-Vicente-Kasaysayang-Lokal_Final-Edited.pdf",
+          "finalUrl": "https://sanvicentepalawan.gov.ph/wp-content/uploads/2026/03/San-Vicente-Kasaysayang-Lokal_Final-Edited.pdf",
+          "status": 403,
+          "title": "",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "palawan-fort-santa-isabel",
+      "name": "Fort Santa Isabel",
+      "destination": "Palawan",
+      "municipality": "Taytay",
+      "category": "Culture",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-013",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://philhistoricsites.nhcp.gov.ph/registry_database/kutang-santa-isabel/",
+          "finalUrl": "https://philhistoricsites.nhcp.gov.ph/registry_database/kutang-santa-isabel/",
+          "status": 200,
+          "title": "Kutang Santa Isabel | Registry",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Fort_Santa_Isabel",
+          "finalUrl": "https://en.wikipedia.org/wiki/Fort_Santa_Isabel",
+          "status": 200,
+          "title": "Fort Santa Isabel - Wikipedia",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "siargao-cloud-9",
+      "name": "Cloud 9",
+      "destination": "Siargao",
+      "municipality": "General Luna",
+      "category": "Attractions",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-013",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://generalluna.gov.ph/wp-content/uploads/2024/10/CDP_2025.pdf",
+          "finalUrl": "https://generalluna.gov.ph/wp-content/uploads/2024/10/CDP_2025.pdf",
+          "status": 403,
+          "title": "",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "siargao-naked-island",
+      "name": "Naked Island",
+      "destination": "Siargao",
+      "municipality": "General Luna",
+      "category": "Nature",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-013",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://www.tpb.gov.ph/wp-content/uploads/2024/07/ITINERARY-PHITEX2024.pdf",
+          "finalUrl": "https://www.tpb.gov.ph/wp-content/uploads/2024/07/ITINERARY-PHITEX2024.pdf",
+          "status": 403,
+          "title": "",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "siargao-daku-island",
+      "name": "Daku Island",
+      "destination": "Siargao",
+      "municipality": "General Luna",
+      "category": "Nature",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-013",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://www.tpb.gov.ph/wp-content/uploads/2024/07/ITINERARY-PHITEX2024.pdf",
+          "finalUrl": "https://www.tpb.gov.ph/wp-content/uploads/2024/07/ITINERARY-PHITEX2024.pdf",
+          "status": 403,
+          "title": "",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "siargao-guyam-island",
+      "name": "Guyam Island",
+      "destination": "Siargao",
+      "municipality": "General Luna",
+      "category": "Nature",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-013",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://www.tpb.gov.ph/wp-content/uploads/2024/07/ITINERARY-PHITEX2024.pdf",
+          "finalUrl": "https://www.tpb.gov.ph/wp-content/uploads/2024/07/ITINERARY-PHITEX2024.pdf",
+          "status": 403,
+          "title": "",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Guyam_Island",
+          "finalUrl": "https://en.wikipedia.org/wiki/Guyam_Island",
+          "status": 200,
+          "title": "Guyam Island - Wikipedia",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "siargao-magpupungko-rock-pools",
+      "name": "Magpupungko Rock Pools",
+      "destination": "Siargao",
+      "municipality": "Pilar",
+      "category": "Nature",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-013",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://www.pna.gov.ph/articles/1267976",
+          "finalUrl": "https://www.pna.gov.ph/articles/1267976",
+          "status": 404,
+          "title": "",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "siargao-sugba-lagoon",
+      "name": "Sugba Lagoon",
+      "destination": "Siargao",
+      "municipality": "Del Carmen",
+      "category": "Nature",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-013",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://tieza.gov.ph/development-of-mangrove-protection-and-information-center-and-sugba-lagoon-del-carmen-surigao-del-norte-4/",
+          "finalUrl": "https://tieza.gov.ph/development-of-mangrove-protection-and-information-center-and-sugba-lagoon-del-carmen-surigao-del-norte-4/",
+          "status": 200,
+          "title": "Tourism Infrastructure and Enterprise Zone Authority",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "siargao-corregidor-island",
+      "name": "Corregidor Island",
+      "destination": "Siargao",
+      "municipality": "Dapa",
+      "category": "Nature",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-013",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://denr.gov.ph/wp-content/uploads/2023/07/DENR_News_Alerts_09_July_2023_Sunday_opt.pdf",
+          "finalUrl": "https://denr.gov.ph/wp-content/uploads/2023/07/DENR_News_Alerts_09_July_2023_Sunday_opt.pdf",
+          "status": 403,
+          "title": "",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    }
+  ]
+}

@@ -257,6 +257,1373 @@
       "status": "accepted",
       "decision_reason": "Additional distinct physical place with reviewed identity and actual municipality sources; current access and availability are not guaranteed.",
       "reviewed_on": "2026-10-21"
+    },
+    {
+      "destination_group": "Palawan",
+      "region": "MIMAROPA",
+      "province": "Palawan",
+      "city_municipality": "El Nido",
+      "barangay": null,
+      "address": "Ground floor, S Hotel, Rizal Street",
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "Grounded — El Nido Town — venue website",
+          "sourceUrl": "https://grounded.ph/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Grounded — El Nido Town — venue website",
+          "sourceUrl": "https://grounded.ph/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "Grounded — El Nido Town — venue website",
+          "sourceUrl": "https://grounded.ph/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "id": "el-nido-grounded-town",
+      "name": "Grounded — El Nido Town",
+      "slug": "el-nido-grounded-town",
+      "planning": {
+        "base_slug": "el-nido",
+        "mode": "local",
+        "cluster": "el-nido-s-hotel",
+        "minutes": 60,
+        "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+        "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+        "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+        "requiresBooking": false,
+        "scheduling": "candidate",
+        "outdoor": false,
+        "openingHours": {
+          "weekdays": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "opens": "06:00",
+          "closes": "23:00",
+          "source": {
+            "sourceName": "Grounded — El Nido Town — venue website",
+            "sourceUrl": "https://grounded.ph/",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          }
+        }
+      },
+      "category": "Food & drink",
+      "description": "Grounded’s town café serves specialty coffee from the ground floor of S Hotel on Rizal Street. This listing is for the town café, rather than its separate Nacpan coffee truck.",
+      "interests": [
+        "Food Hunter",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "el-nido",
+      "catalog_stop_id": "el-nido-grounded-town",
+      "status": "accepted",
+      "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+      "reviewed_on": "2026-10-22"
+    },
+    {
+      "destination_group": "Palawan",
+      "region": "MIMAROPA",
+      "province": "Palawan",
+      "city_municipality": "El Nido",
+      "barangay": null,
+      "address": "Ground floor, S Hotel, Rizal Street",
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "Janu Coffee & Tea — venue website",
+          "sourceUrl": "https://janu.ph/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Janu Coffee & Tea — venue website",
+          "sourceUrl": "https://janu.ph/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "Janu Coffee & Tea — venue website",
+          "sourceUrl": "https://janu.ph/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "id": "el-nido-janu-coffee-tea",
+      "name": "Janu Coffee & Tea",
+      "slug": "el-nido-janu-coffee-tea",
+      "planning": {
+        "base_slug": "el-nido",
+        "mode": "local",
+        "cluster": "el-nido-s-hotel",
+        "minutes": 60,
+        "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+        "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+        "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+        "requiresBooking": false,
+        "scheduling": "candidate",
+        "outdoor": false
+      },
+      "category": "Food & drink",
+      "description": "Janu pairs specialty coffee with Japanese tea at a sixteen-seat bar in El Nido town. The emphasis is on watching drinks prepared, with reservations recommended for the small bar.",
+      "interests": [
+        "Food Hunter",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "el-nido",
+      "catalog_stop_id": "el-nido-janu-coffee-tea",
+      "status": "accepted",
+      "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+      "reviewed_on": "2026-10-22"
+    },
+    {
+      "destination_group": "Palawan",
+      "region": "MIMAROPA",
+      "province": "Palawan",
+      "city_municipality": "Puerto Princesa City",
+      "barangay": "Maningning",
+      "address": "Alivay Benito, Rizal Avenue",
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "Puerto Princesa Tourism — March 2026 accredited restaurants",
+          "sourceUrl": "https://www.puertoprincesatourism.com/restaurants",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Puerto Princesa Tourism — March 2026 accredited restaurants",
+          "sourceUrl": "https://www.puertoprincesatourism.com/restaurants",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "Puerto Princesa Tourism — March 2026 accredited restaurants",
+          "sourceUrl": "https://www.puertoprincesatourism.com/restaurants",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "id": "puerto-princesa-itoys-coffee-haus",
+      "name": "Itoy’s Coffee Haus",
+      "slug": "puerto-princesa-itoys-coffee-haus",
+      "planning": {
+        "base_slug": "puerto-princesa",
+        "mode": "local",
+        "cluster": "puerto-princesa-itoys-coffee-haus",
+        "minutes": 60,
+        "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+        "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+        "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+        "requiresBooking": false,
+        "scheduling": "candidate",
+        "outdoor": false
+      },
+      "category": "Food & drink",
+      "description": "Itoy’s Coffee Haus is a named coffee stop on Rizal Avenue in Puerto Princesa’s Maningning area. The city’s March 2026 accreditation list identifies this establishment and its location.",
+      "interests": [
+        "Food Hunter",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "puerto-princesa",
+      "catalog_stop_id": "puerto-princesa-itoys-coffee-haus",
+      "status": "accepted",
+      "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+      "reviewed_on": "2026-10-22"
+    },
+    {
+      "destination_group": "Palawan",
+      "region": "MIMAROPA",
+      "province": "Palawan",
+      "city_municipality": "Puerto Princesa City",
+      "barangay": "Tagumpay",
+      "address": "32 Burgos Street",
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "Puerto Princesa Tourism — March 2026 accredited restaurants",
+          "sourceUrl": "https://www.puertoprincesatourism.com/restaurants",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Puerto Princesa Tourism — March 2026 accredited restaurants",
+          "sourceUrl": "https://www.puertoprincesatourism.com/restaurants",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "Puerto Princesa Tourism — March 2026 accredited restaurants",
+          "sourceUrl": "https://www.puertoprincesatourism.com/restaurants",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "id": "puerto-princesa-koffee-kat",
+      "name": "Koffee Kat Cafe",
+      "slug": "puerto-princesa-koffee-kat",
+      "planning": {
+        "base_slug": "puerto-princesa",
+        "mode": "local",
+        "cluster": "puerto-princesa-koffee-kat",
+        "minutes": 60,
+        "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+        "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+        "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+        "requiresBooking": false,
+        "scheduling": "candidate",
+        "outdoor": false
+      },
+      "category": "Food & drink",
+      "description": "Koffee Kat is a café at 32 Burgos Street in Tagumpay, Puerto Princesa. The city tourism office includes this exact café in its March 2026 list of compliant restaurants.",
+      "interests": [
+        "Food Hunter",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "puerto-princesa",
+      "catalog_stop_id": "puerto-princesa-koffee-kat",
+      "status": "accepted",
+      "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+      "reviewed_on": "2026-10-22"
+    },
+    {
+      "destination_group": "Palawan",
+      "region": "MIMAROPA",
+      "province": "Palawan",
+      "city_municipality": "Puerto Princesa City",
+      "barangay": "Santa Lourdes",
+      "address": "Km 13, Viet Village, Hung Vuong",
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "Puerto Princesa Tourism — March 2026 accredited restaurants",
+          "sourceUrl": "https://www.puertoprincesatourism.com/restaurants",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Puerto Princesa Tourism — March 2026 accredited restaurants",
+          "sourceUrl": "https://www.puertoprincesatourism.com/restaurants",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "Puerto Princesa Tourism — March 2026 accredited restaurants",
+          "sourceUrl": "https://www.puertoprincesatourism.com/restaurants",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "id": "puerto-princesa-vietville-restaurant",
+      "name": "Vietville Restaurant",
+      "slug": "puerto-princesa-vietville-restaurant",
+      "planning": {
+        "base_slug": "puerto-princesa",
+        "mode": "local",
+        "cluster": "puerto-princesa-vietville-restaurant",
+        "minutes": 90,
+        "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+        "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+        "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+        "requiresBooking": false,
+        "scheduling": "manual",
+        "outdoor": false
+      },
+      "category": "Food & drink",
+      "description": "Vietville Restaurant is the named dining establishment at Viet Village in Santa Lourdes, Puerto Princesa. Its kilometre-13 location is separate from the central city’s restaurant streets; plan the journey deliberately.",
+      "interests": [
+        "Food Hunter"
+      ],
+      "itinerary_base_slug": "puerto-princesa",
+      "catalog_stop_id": "puerto-princesa-vietville-restaurant",
+      "status": "accepted",
+      "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+      "reviewed_on": "2026-10-22"
+    },
+    {
+      "destination_group": "Palawan",
+      "region": "MIMAROPA",
+      "province": "Palawan",
+      "city_municipality": "Puerto Princesa City",
+      "barangay": "Tiniguiban",
+      "address": "Corner San Manuel Road",
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "Puerto Princesa Tourism — March 2026 accredited restaurants",
+          "sourceUrl": "https://www.puertoprincesatourism.com/restaurants",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Puerto Princesa Tourism — March 2026 accredited restaurants",
+          "sourceUrl": "https://www.puertoprincesatourism.com/restaurants",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "Puerto Princesa Tourism — March 2026 accredited restaurants",
+          "sourceUrl": "https://www.puertoprincesatourism.com/restaurants",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "id": "puerto-princesa-ka-inato-main",
+      "name": "Ka Inato — Tiniguiban",
+      "slug": "puerto-princesa-ka-inato-main",
+      "planning": {
+        "base_slug": "puerto-princesa",
+        "mode": "local",
+        "cluster": "puerto-princesa-ka-inato-main",
+        "minutes": 90,
+        "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+        "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+        "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+        "requiresBooking": false,
+        "scheduling": "candidate",
+        "outdoor": false
+      },
+      "category": "Food & drink",
+      "description": "This Ka Inato listing is for the Tiniguiban establishment at the San Manuel Road corner. It is distinct from other city branches and appears in Puerto Princesa’s March 2026 compliant-restaurant list.",
+      "interests": [
+        "Food Hunter"
+      ],
+      "itinerary_base_slug": "puerto-princesa",
+      "catalog_stop_id": "puerto-princesa-ka-inato-main",
+      "status": "accepted",
+      "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+      "reviewed_on": "2026-10-22"
+    },
+    {
+      "destination_group": "Palawan",
+      "region": "MIMAROPA",
+      "province": "Palawan",
+      "city_municipality": "El Nido",
+      "barangay": null,
+      "address": "Sitio Uno, Lio Estate",
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "Lost Islands Center for Kape — Lio HQ — venue website",
+          "sourceUrl": "https://lick.ph/pages/locations",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Lost Islands Center for Kape — Lio HQ — venue website",
+          "sourceUrl": "https://lick.ph/pages/locations",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "Lost Islands Center for Kape — Lio HQ — venue website",
+          "sourceUrl": "https://lick.ph/pages/locations",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "id": "el-nido-lick-roastery",
+      "name": "Lost Islands Center for Kape — Lio HQ",
+      "slug": "el-nido-lick-roastery",
+      "planning": {
+        "base_slug": "el-nido",
+        "mode": "local",
+        "cluster": "el-nido-lick-roastery",
+        "minutes": 60,
+        "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+        "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+        "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+        "requiresBooking": false,
+        "scheduling": "manual",
+        "outdoor": false
+      },
+      "category": "Food & drink",
+      "description": "LICK’s headquarters is a specialty-coffee roastery in Sitio Uno, Lio Estate. It showcases Philippine coffees, with a published Tuesday–Saturday visiting window rather than all-day daily café hours.",
+      "interests": [
+        "Food Hunter",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "el-nido",
+      "catalog_stop_id": "el-nido-lick-roastery",
+      "status": "accepted",
+      "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+      "reviewed_on": "2026-10-22"
+    },
+    {
+      "destination_group": "Palawan",
+      "region": "MIMAROPA",
+      "province": "Palawan",
+      "city_municipality": "El Nido",
+      "barangay": null,
+      "address": "Unit K1, Lio Beach",
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "La Moro Hill Bakery — Lio — venue website",
+          "sourceUrl": "https://lick.ph/pages/locations",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "La Moro Hill Bakery — Lio — venue website",
+          "sourceUrl": "https://lick.ph/pages/locations",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "La Moro Hill Bakery — Lio — venue website",
+          "sourceUrl": "https://lick.ph/pages/locations",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "id": "el-nido-la-moro-hill",
+      "name": "La Moro Hill Bakery — Lio",
+      "slug": "el-nido-la-moro-hill",
+      "planning": {
+        "base_slug": "el-nido",
+        "mode": "local",
+        "cluster": "lio",
+        "minutes": 60,
+        "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+        "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+        "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+        "requiresBooking": false,
+        "scheduling": "candidate",
+        "outdoor": false,
+        "openingHours": {
+          "weekdays": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "opens": "07:00",
+          "closes": "16:00",
+          "source": {
+            "sourceName": "La Moro Hill Bakery — Lio — venue website",
+            "sourceUrl": "https://lick.ph/pages/locations",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          }
+        }
+      },
+      "category": "Food & drink",
+      "description": "La Moro Hill is a bakery at Unit K1, Lio Beach, listed by LICK as a retail coffee-bar partner. It provides a named bakery-and-coffee stop within the Lio area.",
+      "interests": [
+        "Food Hunter",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "el-nido",
+      "catalog_stop_id": "el-nido-la-moro-hill",
+      "status": "accepted",
+      "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+      "reviewed_on": "2026-10-22"
+    },
+    {
+      "destination_group": "Palawan",
+      "region": "MIMAROPA",
+      "province": "Palawan",
+      "city_municipality": "El Nido",
+      "barangay": null,
+      "address": "Ground floor, C Hotel, Rizal Street",
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "HUK & Co. — C Hotel — venue website",
+          "sourceUrl": "https://huk.ph/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "HUK & Co. — C Hotel — venue website",
+          "sourceUrl": "https://huk.ph/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "HUK & Co. — C Hotel — venue website",
+          "sourceUrl": "https://huk.ph/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "id": "el-nido-huk-co",
+      "name": "HUK & Co. — C Hotel",
+      "slug": "el-nido-huk-co",
+      "planning": {
+        "base_slug": "el-nido",
+        "mode": "local",
+        "cluster": "el-nido-huk-co",
+        "minutes": 60,
+        "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+        "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+        "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+        "requiresBooking": false,
+        "scheduling": "candidate",
+        "outdoor": false,
+        "openingHours": {
+          "weekdays": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "opens": "07:00",
+          "closes": "17:00",
+          "source": {
+            "sourceName": "HUK & Co. — C Hotel — venue website",
+            "sourceUrl": "https://huk.ph/",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          }
+        }
+      },
+      "category": "Food & drink",
+      "description": "HUK & Co. combines a bakery counter with coffee at C Hotel on Rizal Street. The venue describes fresh bread and pastries alongside bowls, smoothies and sandwiches.",
+      "interests": [
+        "Food Hunter",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "el-nido",
+      "catalog_stop_id": "el-nido-huk-co",
+      "status": "accepted",
+      "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+      "reviewed_on": "2026-10-22"
+    },
+    {
+      "destination_group": "Palawan",
+      "region": "MIMAROPA",
+      "province": "Palawan",
+      "city_municipality": "El Nido",
+      "barangay": null,
+      "address": "Ground floor, H Hotel, Real Street",
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "Ver De — H Hotel — venue website",
+          "sourceUrl": "https://hhotelelnido.com/dining",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Ver De — H Hotel — venue website",
+          "sourceUrl": "https://hhotelelnido.com/dining",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "Ver De — H Hotel — venue website",
+          "sourceUrl": "https://hhotelelnido.com/dining",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "id": "el-nido-ver-de",
+      "name": "Ver De — H Hotel",
+      "slug": "el-nido-ver-de",
+      "planning": {
+        "base_slug": "el-nido",
+        "mode": "local",
+        "cluster": "el-nido-h-hotel",
+        "minutes": 90,
+        "booking": "The hotel welcomes walk-in visitors for Ver De and offers table reservations. Confirm availability directly; no table has been booked.",
+        "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+        "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+        "requiresBooking": false,
+        "scheduling": "candidate",
+        "outdoor": false
+      },
+      "category": "Food & drink",
+      "description": "Ver De occupies the ground floor of H Hotel and serves breakfast through dinner. Its menu includes pancakes, chickpea omelets and a tofu-and-bean breakfast burrito; ask the venue about specific dietary needs.",
+      "interests": [
+        "Food Hunter"
+      ],
+      "itinerary_base_slug": "el-nido",
+      "catalog_stop_id": "el-nido-ver-de",
+      "status": "accepted",
+      "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+      "reviewed_on": "2026-10-22"
+    },
+    {
+      "destination_group": "Palawan",
+      "region": "MIMAROPA",
+      "province": "Palawan",
+      "city_municipality": "El Nido",
+      "barangay": "Buena Suerte",
+      "address": "6th floor, H Hotel, Real Street",
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "Piece of Sky — venue website",
+          "sourceUrl": "https://sites.google.com/view/pieceofskyelnido/home",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Piece of Sky — venue website",
+          "sourceUrl": "https://sites.google.com/view/pieceofskyelnido/home",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "Piece of Sky — venue website",
+          "sourceUrl": "https://sites.google.com/view/pieceofskyelnido/home",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "id": "el-nido-piece-of-sky",
+      "name": "Piece of Sky",
+      "slug": "el-nido-piece-of-sky",
+      "planning": {
+        "base_slug": "el-nido",
+        "mode": "local",
+        "cluster": "el-nido-h-hotel",
+        "minutes": 90,
+        "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+        "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+        "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+        "requiresBooking": false,
+        "scheduling": "candidate",
+        "outdoor": false
+      },
+      "category": "Food & drink",
+      "description": "Piece of Sky is a sixth-floor restaurant and cocktail bar at H Hotel, overlooking El Nido town and Bacuit Bay. Food and bar menus are offered separately on its public venue page.",
+      "interests": [
+        "Food Hunter"
+      ],
+      "itinerary_base_slug": "el-nido",
+      "catalog_stop_id": "el-nido-piece-of-sky",
+      "status": "accepted",
+      "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+      "reviewed_on": "2026-10-22"
+    },
+    {
+      "destination_group": "Palawan",
+      "region": "MIMAROPA",
+      "province": "Palawan",
+      "city_municipality": "El Nido",
+      "barangay": "Masagana",
+      "address": "999 Sitio Caalan",
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "Henri’s — Lihim Resorts — venue website",
+          "sourceUrl": "https://lihim.com/dining/henris/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Henri’s — Lihim Resorts — venue website",
+          "sourceUrl": "https://lihim.com/dining/henris/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "Henri’s — Lihim Resorts — venue website",
+          "sourceUrl": "https://lihim.com/dining/henris/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "id": "el-nido-henris",
+      "name": "Henri’s — Lihim Resorts",
+      "slug": "el-nido-henris",
+      "planning": {
+        "base_slug": "el-nido",
+        "mode": "local",
+        "cluster": "el-nido-henris",
+        "minutes": 90,
+        "booking": "Contact Lihim for a dining reservation and non-resident access arrangements; no reservation has been made.",
+        "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+        "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+        "requiresBooking": false,
+        "scheduling": "candidate",
+        "outdoor": false
+      },
+      "category": "Food & drink",
+      "description": "Henri’s is Lihim Resorts’ three-level dining venue in Caalan. Its published dining offering emphasizes local-farm ingredients and Palawan seafood, with a full menu available from the resort.",
+      "interests": [
+        "Food Hunter"
+      ],
+      "itinerary_base_slug": "el-nido",
+      "catalog_stop_id": "el-nido-henris",
+      "status": "accepted",
+      "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+      "reviewed_on": "2026-10-22"
+    },
+    {
+      "destination_group": "Palawan",
+      "region": "MIMAROPA",
+      "province": "Palawan",
+      "city_municipality": "El Nido",
+      "barangay": null,
+      "address": "Amakan, Amboy Street",
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "The Lanai at Amakan — venue website",
+          "sourceUrl": "https://www.amakan.ph/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "The Lanai at Amakan — venue website",
+          "sourceUrl": "https://www.amakan.ph/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "The Lanai at Amakan — venue website",
+          "sourceUrl": "https://www.amakan.ph/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "id": "el-nido-lanai-amakan",
+      "name": "The Lanai at Amakan",
+      "slug": "el-nido-lanai-amakan",
+      "planning": {
+        "base_slug": "el-nido",
+        "mode": "local",
+        "cluster": "el-nido-lanai-amakan",
+        "minutes": 90,
+        "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+        "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+        "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+        "requiresBooking": false,
+        "scheduling": "manual",
+        "outdoor": false
+      },
+      "category": "Food & drink",
+      "description": "The Lanai is Amakan’s Filipino-fusion restaurant on Amboy Street. The hotel offers breakfast buffet service as well as separate lunch and dinner windows, including breakfast access for walk-in diners.",
+      "interests": [
+        "Food Hunter"
+      ],
+      "itinerary_base_slug": "el-nido",
+      "catalog_stop_id": "el-nido-lanai-amakan",
+      "status": "accepted",
+      "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+      "reviewed_on": "2026-10-22"
+    },
+    {
+      "destination_group": "Palawan",
+      "region": "MIMAROPA",
+      "province": "Palawan",
+      "city_municipality": "Coron",
+      "barangay": null,
+      "address": "Two Seasons Coron Bayside Hotel",
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "BAYA Resto Lounge — venue website",
+          "sourceUrl": "https://twoseasonsresorts.com/corontown/dining/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "BAYA Resto Lounge — venue website",
+          "sourceUrl": "https://twoseasonsresorts.com/corontown/dining/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "BAYA Resto Lounge — venue website",
+          "sourceUrl": "https://twoseasonsresorts.com/corontown/dining/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "id": "coron-baya-resto-lounge",
+      "name": "BAYA Resto Lounge",
+      "slug": "coron-baya-resto-lounge",
+      "planning": {
+        "base_slug": "coron",
+        "mode": "local",
+        "cluster": "coron-baya-resto-lounge",
+        "minutes": 90,
+        "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+        "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+        "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+        "requiresBooking": false,
+        "scheduling": "candidate",
+        "outdoor": false
+      },
+      "category": "Food & drink",
+      "description": "BAYA is the restaurant at Two Seasons Coron Bayside Hotel. The published menu highlights four-cheese pizza and steak-topped fried rice, with continental and international cooking overlooking Coron Bay.",
+      "interests": [
+        "Food Hunter"
+      ],
+      "itinerary_base_slug": "coron",
+      "catalog_stop_id": "coron-baya-resto-lounge",
+      "status": "accepted",
+      "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+      "reviewed_on": "2026-10-22"
+    },
+    {
+      "destination_group": "Palawan",
+      "region": "MIMAROPA",
+      "province": "Palawan",
+      "city_municipality": "Coron",
+      "barangay": null,
+      "address": "The Funny Lion, Sitio Jolo, Poblacion 5",
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "Hunt Restaurant — The Funny Lion Coron — venue website",
+          "sourceUrl": "https://www.thefunnylion.com/the-funny-lion-coron-compendium",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Hunt Restaurant — The Funny Lion Coron — venue website",
+          "sourceUrl": "https://www.thefunnylion.com/the-funny-lion-coron-compendium",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "Hunt Restaurant — The Funny Lion Coron — venue website",
+          "sourceUrl": "https://www.thefunnylion.com/the-funny-lion-coron-compendium",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "id": "coron-hunt-funny-lion",
+      "name": "Hunt Restaurant — The Funny Lion Coron",
+      "slug": "coron-hunt-funny-lion",
+      "planning": {
+        "base_slug": "coron",
+        "mode": "local",
+        "cluster": "coron-hunt-funny-lion",
+        "minutes": 90,
+        "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+        "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+        "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+        "requiresBooking": false,
+        "scheduling": "candidate",
+        "outdoor": false
+      },
+      "category": "Food & drink",
+      "description": "Hunt is The Funny Lion Coron’s restaurant, serving continental dishes and Filipino favorites. The hotel also offers packed meals through its kitchen for guests arranging outings; confirm the terms directly.",
+      "interests": [
+        "Food Hunter"
+      ],
+      "itinerary_base_slug": "coron",
+      "catalog_stop_id": "coron-hunt-funny-lion",
+      "status": "accepted",
+      "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+      "reviewed_on": "2026-10-22"
+    },
+    {
+      "destination_group": "Palawan",
+      "region": "MIMAROPA",
+      "province": "Palawan",
+      "city_municipality": "El Nido",
+      "barangay": null,
+      "address": "Nacpan Beach",
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "Sunmai Beach Bar and Restaurant — venue website",
+          "sourceUrl": "https://hhospitality.group/dining-lio",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Sunmai Beach Bar and Restaurant — venue website",
+          "sourceUrl": "https://hhospitality.group/dining-lio",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "Sunmai Beach Bar and Restaurant — venue website",
+          "sourceUrl": "https://hhospitality.group/dining-lio",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "id": "el-nido-sunmai-nacpan",
+      "name": "Sunmai Beach Bar and Restaurant",
+      "slug": "el-nido-sunmai-nacpan",
+      "planning": {
+        "base_slug": "el-nido",
+        "mode": "local",
+        "cluster": "el-nido-sunmai-nacpan",
+        "minutes": 90,
+        "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+        "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+        "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+        "requiresBooking": false,
+        "scheduling": "manual",
+        "outdoor": false,
+        "openingHours": {
+          "weekdays": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "opens": "07:00",
+          "closes": "22:00",
+          "source": {
+            "sourceName": "Sunmai Beach Bar and Restaurant — venue website",
+            "sourceUrl": "https://hhospitality.group/dining-lio",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          }
+        }
+      },
+      "category": "Food & drink",
+      "description": "Sunmai is a named restaurant at Nacpan Beach serving pizza, Korean and Filipino dishes, seafood and cocktails. Its beach setting requires a deliberate journey beyond El Nido town.",
+      "interests": [
+        "Food Hunter"
+      ],
+      "itinerary_base_slug": "el-nido",
+      "catalog_stop_id": "el-nido-sunmai-nacpan",
+      "status": "accepted",
+      "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+      "reviewed_on": "2026-10-22"
+    },
+    {
+      "destination_group": "Palawan",
+      "region": "MIMAROPA",
+      "province": "Palawan",
+      "city_municipality": "El Nido",
+      "barangay": null,
+      "address": "Ground floor, Piece Lio, Lio Tourism Estate",
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "CALIMA Restaurant — Piece Lio — venue website",
+          "sourceUrl": "https://hhospitality.group/dining-lio",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "CALIMA Restaurant — Piece Lio — venue website",
+          "sourceUrl": "https://hhospitality.group/dining-lio",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "CALIMA Restaurant — Piece Lio — venue website",
+          "sourceUrl": "https://hhospitality.group/dining-lio",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "id": "el-nido-calima-piece-lio",
+      "name": "CALIMA Restaurant — Piece Lio",
+      "slug": "el-nido-calima-piece-lio",
+      "planning": {
+        "base_slug": "el-nido",
+        "mode": "local",
+        "cluster": "lio",
+        "minutes": 90,
+        "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+        "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+        "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+        "requiresBooking": false,
+        "scheduling": "manual",
+        "outdoor": false
+      },
+      "category": "Food & drink",
+      "description": "CALIMA serves Mediterranean-inspired food at Piece Lio, on the Lio Tourism Estate. The hotel group publishes a breakfast window and nightly dinner, with reservations recommended rather than continuous all-day service.",
+      "interests": [
+        "Food Hunter"
+      ],
+      "itinerary_base_slug": "el-nido",
+      "catalog_stop_id": "el-nido-calima-piece-lio",
+      "status": "accepted",
+      "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+      "reviewed_on": "2026-10-22"
+    },
+    {
+      "destination_group": "Palawan",
+      "region": "MIMAROPA",
+      "province": "Palawan",
+      "city_municipality": "El Nido",
+      "barangay": null,
+      "address": "Rooftop, S Resort El Nido",
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "Ocean View Chinese Restaurant — S Resort — venue website",
+          "sourceUrl": "https://hhospitality.group/dining-lio",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Ocean View Chinese Restaurant — S Resort — venue website",
+          "sourceUrl": "https://hhospitality.group/dining-lio",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "Ocean View Chinese Restaurant — S Resort — venue website",
+          "sourceUrl": "https://hhospitality.group/dining-lio",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "id": "el-nido-ocean-view-chinese",
+      "name": "Ocean View Chinese Restaurant — S Resort",
+      "slug": "el-nido-ocean-view-chinese",
+      "planning": {
+        "base_slug": "el-nido",
+        "mode": "local",
+        "cluster": "el-nido-ocean-view-chinese",
+        "minutes": 90,
+        "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+        "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+        "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+        "requiresBooking": false,
+        "scheduling": "candidate",
+        "outdoor": false
+      },
+      "category": "Food & drink",
+      "description": "Ocean View is the Chinese-seafood restaurant on the rooftop of S Resort El Nido. It is a separate dining venue from the coffee businesses on the ground floor of the building.",
+      "interests": [
+        "Food Hunter"
+      ],
+      "itinerary_base_slug": "el-nido",
+      "catalog_stop_id": "el-nido-ocean-view-chinese",
+      "status": "accepted",
+      "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+      "reviewed_on": "2026-10-22"
+    },
+    {
+      "destination_group": "Palawan",
+      "region": "MIMAROPA",
+      "province": "Palawan",
+      "city_municipality": "Puerto Princesa City",
+      "barangay": "San Manuel",
+      "address": "Ground floor, Robinsons Place Palawan",
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "Puerto Princesa Tourism — March 2026 accredited restaurants",
+          "sourceUrl": "https://www.puertoprincesatourism.com/restaurants",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Puerto Princesa Tourism — March 2026 accredited restaurants",
+          "sourceUrl": "https://www.puertoprincesatourism.com/restaurants",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "Puerto Princesa Tourism — March 2026 accredited restaurants",
+          "sourceUrl": "https://www.puertoprincesatourism.com/restaurants",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "id": "puerto-princesa-divines-robinsons",
+      "name": "Divine’s Sweets Bakery & Cafe — Robinsons",
+      "slug": "puerto-princesa-divines-robinsons",
+      "planning": {
+        "base_slug": "puerto-princesa",
+        "mode": "local",
+        "cluster": "puerto-princesa-divines-robinsons",
+        "minutes": 60,
+        "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+        "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+        "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+        "requiresBooking": false,
+        "scheduling": "candidate",
+        "outdoor": false
+      },
+      "category": "Food & drink",
+      "description": "This Divine’s Sweets listing is for the bakery and café on the ground floor of Robinsons Place Palawan. Puerto Princesa Tourism identifies the exact branch in its March 2026 compliant-establishment list.",
+      "interests": [
+        "Food Hunter",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "puerto-princesa",
+      "catalog_stop_id": "puerto-princesa-divines-robinsons",
+      "status": "accepted",
+      "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+      "reviewed_on": "2026-10-22"
+    },
+    {
+      "destination_group": "Palawan",
+      "region": "MIMAROPA",
+      "province": "Palawan",
+      "city_municipality": "Puerto Princesa City",
+      "barangay": "San Miguel",
+      "address": "Units 4/5, Mercado de San Miguel",
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "Puerto Princesa Tourism — March 2026 accredited restaurants",
+          "sourceUrl": "https://www.puertoprincesatourism.com/restaurants",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Puerto Princesa Tourism — March 2026 accredited restaurants",
+          "sourceUrl": "https://www.puertoprincesatourism.com/restaurants",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "Puerto Princesa Tourism — March 2026 accredited restaurants",
+          "sourceUrl": "https://www.puertoprincesatourism.com/restaurants",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "id": "puerto-princesa-jeju-island-cafe",
+      "name": "Jeju Island Cafe",
+      "slug": "puerto-princesa-jeju-island-cafe",
+      "planning": {
+        "base_slug": "puerto-princesa",
+        "mode": "local",
+        "cluster": "puerto-princesa-jeju-island-cafe",
+        "minutes": 60,
+        "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+        "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+        "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+        "requiresBooking": false,
+        "scheduling": "candidate",
+        "outdoor": false
+      },
+      "category": "Food & drink",
+      "description": "Jeju Island Cafe is the named café at units 4/5 of Mercado de San Miguel in Puerto Princesa. The March 2026 city tourism accreditation list distinguishes it from other city coffee venues.",
+      "interests": [
+        "Food Hunter",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "puerto-princesa",
+      "catalog_stop_id": "puerto-princesa-jeju-island-cafe",
+      "status": "accepted",
+      "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+      "reviewed_on": "2026-10-22"
+    },
+    {
+      "destination_group": "Palawan",
+      "region": "MIMAROPA",
+      "province": "Palawan",
+      "city_municipality": "Puerto Princesa City",
+      "barangay": "Maligaya",
+      "address": "Unit 3, AUA Commercial Building, Roxas Street",
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "Puerto Princesa Tourism — March 2026 accredited restaurants",
+          "sourceUrl": "https://www.puertoprincesatourism.com/restaurants",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Puerto Princesa Tourism — March 2026 accredited restaurants",
+          "sourceUrl": "https://www.puertoprincesatourism.com/restaurants",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "Puerto Princesa Tourism — March 2026 accredited restaurants",
+          "sourceUrl": "https://www.puertoprincesatourism.com/restaurants",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "id": "puerto-princesa-kofilab",
+      "name": "Kofilab Cafe",
+      "slug": "puerto-princesa-kofilab",
+      "planning": {
+        "base_slug": "puerto-princesa",
+        "mode": "local",
+        "cluster": "puerto-princesa-kofilab",
+        "minutes": 60,
+        "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+        "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+        "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+        "requiresBooking": false,
+        "scheduling": "candidate",
+        "outdoor": false
+      },
+      "category": "Food & drink",
+      "description": "Kofilab is a named café in the AUA commercial building on Roxas Street, Maligaya. The exact Puerto Princesa establishment appears in the city’s March 2026 compliant-restaurant list; its menu has not been verified.",
+      "interests": [
+        "Food Hunter",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "puerto-princesa",
+      "catalog_stop_id": "puerto-princesa-kofilab",
+      "status": "accepted",
+      "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+      "reviewed_on": "2026-10-22"
     }
   ]
 }

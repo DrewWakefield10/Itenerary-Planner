@@ -332,6 +332,414 @@
       "status": "accepted",
       "decision_reason": "Additional distinct physical place with reviewed identity and actual municipality sources; current access and availability are not guaranteed.",
       "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "siargao-spotted-pig-catangnan",
+      "name": "Spotted Pig Cafe — Catangnan",
+      "destination_group": "Siargao",
+      "region": "Caraga",
+      "province": "Surigao del Norte",
+      "city_municipality": "General Luna",
+      "barangay": "Catangnan",
+      "address": "Las Palmas Villas & Casitas, Tourism Road",
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "Spotted Pig Cafe — Catangnan — venue website",
+          "sourceUrl": "https://laspalmassiargao.com/spotted-pig-cafe/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Spotted Pig Cafe — Catangnan — venue website",
+          "sourceUrl": "https://laspalmassiargao.com/spotted-pig-cafe/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "Spotted Pig Cafe — Catangnan — venue website",
+          "sourceUrl": "https://laspalmassiargao.com/spotted-pig-cafe/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "category": "Food & drink",
+      "description": "Spotted Pig sits outside Las Palmas Villas & Casitas on Tourism Road. The host advertises specialty coffee, all-day breakfast, brunch and homemade pastries; this listing is specifically for the Siargao café.",
+      "interests": [
+        "Food Hunter",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "siargao",
+      "catalog_stop_id": "siargao-spotted-pig-catangnan",
+      "status": "accepted",
+      "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+      "reviewed_on": "2026-10-22",
+      "planning": {
+        "base_slug": "siargao",
+        "mode": "local",
+        "cluster": "siargao-spotted-pig-catangnan",
+        "minutes": 60,
+        "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+        "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+        "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+        "requiresBooking": false,
+        "scheduling": "candidate",
+        "outdoor": false,
+        "openingHours": {
+          "weekdays": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "opens": "07:00",
+          "closes": "18:00",
+          "source": {
+            "sourceName": "Spotted Pig Cafe — Catangnan — venue website",
+            "sourceUrl": "https://laspalmassiargao.com/spotted-pig-cafe/",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          }
+        }
+      },
+      "slug": "siargao-spotted-pig-catangnan"
+    },
+    {
+      "id": "siargao-weekend-cafe",
+      "name": "/Week·End/ Cafe",
+      "destination_group": "Siargao",
+      "region": "Caraga",
+      "province": "Surigao del Norte",
+      "city_municipality": "General Luna",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "/Week·End/ Cafe — venue website",
+          "sourceUrl": "https://www.weekendsiargao.com/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "TravelGO — Weekend Cafe General Luna merchant directory",
+          "sourceUrl": "https://travelgo.ph/browse-food/areas/general-luna",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "category": "Food & drink",
+      "description": "Week·End serves coffee and Filipino brunch plates in a nipa-roofed island café. The venue highlights ube-cheese latte, cloud-foam drinks and a breakfast plate with rice, danggit, longganisa and eggs.",
+      "interests": [
+        "Food Hunter",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "siargao",
+      "catalog_stop_id": "siargao-weekend-cafe",
+      "status": "accepted",
+      "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+      "reviewed_on": "2026-10-22",
+      "planning": {
+        "base_slug": "siargao",
+        "mode": "local",
+        "cluster": "siargao-weekend-cafe",
+        "minutes": 60,
+        "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+        "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+        "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+        "requiresBooking": false,
+        "scheduling": "manual",
+        "outdoor": false,
+        "openingHours": {
+          "weekdays": [
+            0,
+            1,
+            3,
+            4,
+            5,
+            6
+          ],
+          "opens": "08:00",
+          "closes": "18:00",
+          "source": {
+            "sourceName": "/Week·End/ Cafe — venue website",
+            "sourceUrl": "https://www.weekendsiargao.com/",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          }
+        }
+      },
+      "slug": "siargao-weekend-cafe"
+    },
+    {
+      "id": "siargao-sinag-snack-bar",
+      "name": "Sinag Snack Bar",
+      "destination_group": "Siargao",
+      "region": "Caraga",
+      "province": "Surigao del Norte",
+      "city_municipality": "General Luna",
+      "barangay": "Catangnan",
+      "address": "Sinag Hostel",
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "Sinag Snack Bar — venue website",
+          "sourceUrl": "https://sinagsiargao.com/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Sinag Snack Bar — venue website",
+          "sourceUrl": "https://sinagsiargao.com/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "Sinag Snack Bar — venue website",
+          "sourceUrl": "https://sinagsiargao.com/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "category": "Food & drink",
+      "description": "Sinag’s named snack bar is part of its Catangnan hostel and café. The public offering includes breakfast and lighter dishes, with coffee woven into the hostel’s shared-meal and surf-day setting.",
+      "interests": [
+        "Food Hunter",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "siargao",
+      "catalog_stop_id": "siargao-sinag-snack-bar",
+      "status": "accepted",
+      "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+      "reviewed_on": "2026-10-22",
+      "planning": {
+        "base_slug": "siargao",
+        "mode": "local",
+        "cluster": "siargao-sinag-snack-bar",
+        "minutes": 60,
+        "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+        "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+        "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+        "requiresBooking": false,
+        "scheduling": "candidate",
+        "outdoor": false
+      },
+      "slug": "siargao-sinag-snack-bar"
+    },
+    {
+      "id": "siargao-saint-thomas",
+      "name": "Saint Thomas Coffee",
+      "destination_group": "Siargao",
+      "region": "Caraga",
+      "province": "Surigao del Norte",
+      "city_municipality": "General Luna",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "Fin & Fin team — July 2026 General Luna food guide",
+          "sourceUrl": "https://finandfin.com/siargao-food-guide",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Fin & Fin team — July 2026 General Luna food guide",
+          "sourceUrl": "https://finandfin.com/siargao-food-guide",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "category": "Food & drink",
+      "description": "Saint Thomas is a coffee-first café in General Luna, described in local July 2026 reporting. It suits a drink break rather than a promised full breakfast; its café role is kept distinct from meal venues.",
+      "interests": [
+        "Food Hunter",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "siargao",
+      "catalog_stop_id": "siargao-saint-thomas",
+      "status": "accepted",
+      "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+      "reviewed_on": "2026-10-22",
+      "planning": {
+        "base_slug": "siargao",
+        "mode": "local",
+        "cluster": "siargao-saint-thomas",
+        "minutes": 60,
+        "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+        "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+        "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+        "requiresBooking": false,
+        "scheduling": "candidate",
+        "outdoor": false
+      },
+      "slug": "siargao-saint-thomas"
+    },
+    {
+      "id": "siargao-sunset-coffee",
+      "name": "Sunset Coffee Roasters",
+      "destination_group": "Siargao",
+      "region": "Caraga",
+      "province": "Surigao del Norte",
+      "city_municipality": "General Luna",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "Fin & Fin team — July 2026 General Luna food guide",
+          "sourceUrl": "https://finandfin.com/siargao-food-guide",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Fin & Fin team — July 2026 General Luna food guide",
+          "sourceUrl": "https://finandfin.com/siargao-food-guide",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "category": "Food & drink",
+      "description": "Sunset Coffee is a General Luna coffee stop near Catangnan Bridge, documented by local July 2026 reporting. Espresso and pastries are the focus; this venue is separate from the bridge attraction itself.",
+      "interests": [
+        "Food Hunter",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "siargao",
+      "catalog_stop_id": "siargao-sunset-coffee",
+      "status": "accepted",
+      "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+      "reviewed_on": "2026-10-22",
+      "planning": {
+        "base_slug": "siargao",
+        "mode": "local",
+        "cluster": "siargao-sunset-coffee",
+        "minutes": 60,
+        "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+        "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+        "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+        "requiresBooking": false,
+        "scheduling": "candidate",
+        "outdoor": false
+      },
+      "slug": "siargao-sunset-coffee"
+    },
+    {
+      "id": "siargao-fin-fin",
+      "name": "Fin & Fin Beach Shack",
+      "destination_group": "Siargao",
+      "region": "Caraga",
+      "province": "Surigao del Norte",
+      "city_municipality": "General Luna",
+      "barangay": null,
+      "address": "Tourism Road, across from Cloud 9",
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "Fin & Fin Beach Shack — venue website",
+          "sourceUrl": "https://finandfin.com/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Fin & Fin Beach Shack — venue website",
+          "sourceUrl": "https://finandfin.com/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "Fin & Fin Beach Shack — venue website",
+          "sourceUrl": "https://finandfin.com/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "category": "Food & drink",
+      "description": "Fin & Fin is a seafood-focused beach shack across from Cloud 9. Its public offering centers on a tuna smash burger, local seafood and cocktails, making it a dining venue rather than a beach attraction.",
+      "interests": [
+        "Food Hunter"
+      ],
+      "itinerary_base_slug": "siargao",
+      "catalog_stop_id": "siargao-fin-fin",
+      "status": "accepted",
+      "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+      "reviewed_on": "2026-10-22",
+      "planning": {
+        "base_slug": "siargao",
+        "mode": "local",
+        "cluster": "siargao-fin-fin",
+        "minutes": 90,
+        "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+        "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+        "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+        "requiresBooking": false,
+        "scheduling": "candidate",
+        "outdoor": false
+      },
+      "slug": "siargao-fin-fin"
     }
   ]
 }

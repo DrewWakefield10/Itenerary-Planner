@@ -1,0 +1,22 @@
+{
+  "batchId": "instagram-reviewed-004",
+  "checkedOn": "2026-10-22",
+  "places": 1,
+  "posts": 1,
+  "outcomes": [
+    {
+      "placeId": "davao-glasshouse-oboza",
+      "posts": [
+        {
+          "url": "https://www.instagram.com/p/BsdGWygAtz9/",
+          "presentation": "manual-embed",
+          "embedCheck": {
+            "status": "unconfirmed",
+            "checkedOn": null,
+            "note": "Official public widget rendered during research; rendering on its Lakbay detail page remains to be checked."
+          }
+        }
+      ]
+    }
+  ]
+}

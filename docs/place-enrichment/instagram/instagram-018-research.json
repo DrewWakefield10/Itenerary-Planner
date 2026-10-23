@@ -1,0 +1,494 @@
+{
+  "batchId": "instagram-018",
+  "checkedOn": "2026-10-22",
+  "mode": "unapproved-research",
+  "records": [
+    {
+      "placeId": "baguio-lourdes-grotto",
+      "name": "Lourdes Grotto and Chapel",
+      "destination": "Baguio",
+      "municipality": "Baguio City",
+      "category": "Culture",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-018",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://infoboard.baguio.gov.ph/tourists-spots",
+          "finalUrl": "https://infoboard.baguio.gov.ph/tourists-spots",
+          "status": 200,
+          "title": "",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        },
+        {
+          "url": "https://main.baguio.gov.ph/api/infoboard/tourist-spots/lourdes-grotto-and-chapel",
+          "finalUrl": "https://main.baguio.gov.ph/api/infoboard/tourist-spots/lourdes-grotto-and-chapel",
+          "status": 200,
+          "title": "",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "baguio-heritage-hill",
+      "name": "Heritage Hill and Nature Park Garden",
+      "destination": "Baguio",
+      "municipality": "Baguio City",
+      "category": "Culture",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-018",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://infoboard.baguio.gov.ph/tourists-spots",
+          "finalUrl": "https://infoboard.baguio.gov.ph/tourists-spots",
+          "status": 200,
+          "title": "",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Diplomat_Hotel",
+          "finalUrl": "https://en.wikipedia.org/wiki/Diplomat_Hotel",
+          "status": 200,
+          "title": "Diplomat Hotel - Wikipedia",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "baguio-museo-kordilyera",
+      "name": "Museo Kordilyera",
+      "destination": "Baguio",
+      "municipality": "Baguio City",
+      "category": "Culture",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-018",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://infoboard.baguio.gov.ph/tourists-spots",
+          "finalUrl": "https://infoboard.baguio.gov.ph/tourists-spots",
+          "status": 200,
+          "title": "",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        },
+        {
+          "url": "https://museokordilyera.upb.edu.ph/",
+          "status": null,
+          "error": "fetch failed",
+          "candidates": [],
+          "limitation": "Inaccessible publisher source; no private content or authentication workaround attempted."
+        },
+        {
+          "url": "https://main.baguio.gov.ph/api/infoboard/tourist-spots/museo-kordilyera",
+          "finalUrl": "https://main.baguio.gov.ph/api/infoboard/tourist-spots/museo-kordilyera",
+          "status": 200,
+          "title": "",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "baguio-mansion-house",
+      "name": "Baguio Mansion House Presidential Museum",
+      "destination": "Baguio",
+      "municipality": "Baguio City",
+      "category": "Culture",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-018",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://infoboard.baguio.gov.ph/tourists-spots",
+          "finalUrl": "https://infoboard.baguio.gov.ph/tourists-spots",
+          "status": 200,
+          "title": "",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Mansion_(Baguio)",
+          "finalUrl": "https://en.wikipedia.org/wiki/The_Mansion_(Baguio)",
+          "status": 200,
+          "title": "The Mansion (Baguio) - Wikipedia",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "baguio-burnham-park",
+      "name": "Burnham Park",
+      "destination": "Baguio",
+      "municipality": "Baguio City",
+      "category": "Parks & markets",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-018",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://infoboard.baguio.gov.ph/tourists-spots",
+          "finalUrl": "https://infoboard.baguio.gov.ph/tourists-spots",
+          "status": 200,
+          "title": "",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Burnham_Park_(Baguio)",
+          "finalUrl": "https://en.wikipedia.org/wiki/Burnham_Park_(Baguio)",
+          "status": 200,
+          "title": "Burnham Park (Baguio) - Wikipedia",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "baguio-botanical-garden",
+      "name": "Baguio Botanical Garden",
+      "destination": "Baguio",
+      "municipality": "Baguio City",
+      "category": "Nature",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-018",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://infoboard.baguio.gov.ph/tourists-spots",
+          "finalUrl": "https://infoboard.baguio.gov.ph/tourists-spots",
+          "status": 200,
+          "title": "",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Baguio_Botanical_Garden",
+          "finalUrl": "https://en.wikipedia.org/wiki/Baguio_Botanical_Garden",
+          "status": 200,
+          "title": "Baguio Botanical Garden - Wikipedia",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "baguio-wright-park",
+      "name": "Wright Park",
+      "destination": "Baguio",
+      "municipality": "Baguio City",
+      "category": "Nature",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-018",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://infoboard.baguio.gov.ph/tourists-spots",
+          "finalUrl": "https://infoboard.baguio.gov.ph/tourists-spots",
+          "status": 200,
+          "title": "",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        },
+        {
+          "url": "https://main.baguio.gov.ph/api/infoboard/tourist-spots/wright-park",
+          "finalUrl": "https://main.baguio.gov.ph/api/infoboard/tourist-spots/wright-park",
+          "status": 200,
+          "title": "",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "baguio-baguio-cathedral-area",
+      "name": "Baguio Cathedral",
+      "destination": "Baguio",
+      "municipality": "Baguio City",
+      "category": "Culture",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-018",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://infoboard.baguio.gov.ph/tourists-spots",
+          "finalUrl": "https://infoboard.baguio.gov.ph/tourists-spots",
+          "status": 200,
+          "title": "",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Baguio_Cathedral",
+          "finalUrl": "https://en.wikipedia.org/wiki/Baguio_Cathedral",
+          "status": 200,
+          "title": "Baguio Cathedral - Wikipedia",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "baguio-mirador-hill",
+      "name": "Mirador Hill",
+      "destination": "Baguio",
+      "municipality": "Baguio City",
+      "category": "Nature",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-018",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://infoboard.baguio.gov.ph/tourists-spots",
+          "finalUrl": "https://infoboard.baguio.gov.ph/tourists-spots",
+          "status": 200,
+          "title": "",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        },
+        {
+          "url": "https://main.baguio.gov.ph/api/infoboard/tourist-spots/mirador-hill",
+          "finalUrl": "https://main.baguio.gov.ph/api/infoboard/tourist-spots/mirador-hill",
+          "status": 200,
+          "title": "",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "sagada-sumaguing-cave",
+      "name": "Sumaguing Cave",
+      "destination": "Sagada",
+      "municipality": "Sagada",
+      "category": "Nature",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-018",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://umali-kayo.sagada.gov.ph/",
+          "finalUrl": "https://umali-kayo.sagada.gov.ph/",
+          "status": 200,
+          "title": "Sagada iPass ™",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "sagada-lumiang-cave",
+      "name": "Lumiang Cave",
+      "destination": "Sagada",
+      "municipality": "Sagada",
+      "category": "Culture",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-018",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://umali-kayo.sagada.gov.ph/",
+          "finalUrl": "https://umali-kayo.sagada.gov.ph/",
+          "status": 200,
+          "title": "Sagada iPass ™",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "sagada-bomod-ok-falls",
+      "name": "Bomod-ok Falls",
+      "destination": "Sagada",
+      "municipality": "Sagada",
+      "category": "Nature",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-018",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://umali-kayo.sagada.gov.ph/",
+          "finalUrl": "https://umali-kayo.sagada.gov.ph/",
+          "status": 200,
+          "title": "Sagada iPass ™",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "sagada-hanging-coffins",
+      "name": "Hanging Coffins",
+      "destination": "Sagada",
+      "municipality": "Sagada",
+      "category": "Culture",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-018",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://umali-kayo.sagada.gov.ph/",
+          "finalUrl": "https://umali-kayo.sagada.gov.ph/",
+          "status": 200,
+          "title": "Sagada iPass ™",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "sagada-bokong-falls",
+      "name": "Bokong Falls",
+      "destination": "Sagada",
+      "municipality": "Sagada",
+      "category": "Nature",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-018",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://umali-kayo.sagada.gov.ph/",
+          "finalUrl": "https://umali-kayo.sagada.gov.ph/",
+          "status": 200,
+          "title": "Sagada iPass ™",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "sagada-blue-soil",
+      "name": "Blue Soil Hills",
+      "destination": "Sagada",
+      "municipality": "Sagada",
+      "category": "Nature",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-018",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://umali-kayo.sagada.gov.ph/",
+          "finalUrl": "https://umali-kayo.sagada.gov.ph/",
+          "status": 200,
+          "title": "Sagada iPass ™",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "sagada-marlboro-hills",
+      "name": "Marlboro Hills",
+      "destination": "Sagada",
+      "municipality": "Sagada",
+      "category": "Nature",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-018",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://umali-kayo.sagada.gov.ph/",
+          "finalUrl": "https://umali-kayo.sagada.gov.ph/",
+          "status": 200,
+          "title": "Sagada iPass ™",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "sagada-church-of-saint-mary-area",
+      "name": "Church of Saint Mary the Virgin",
+      "destination": "Sagada",
+      "municipality": "Sagada",
+      "category": "Culture",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-018",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Church_of_Saint_Mary_the_Virgin_(Sagada)",
+          "finalUrl": "https://en.wikipedia.org/wiki/Church_of_Saint_Mary_the_Virgin_(Sagada)",
+          "status": 200,
+          "title": "Church of Saint Mary the Virgin (Sagada) - Wikipedia",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "batanes-valugan-boulder-beach",
+      "name": "Valugan Boulder Beach",
+      "destination": "Batanes",
+      "municipality": "Basco",
+      "category": "Nature",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-018",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://breathtakingbatanes.com/maps/",
+          "finalUrl": "https://breathtakingbatanes.com/maps/",
+          "status": 200,
+          "title": "Batanes Tourism Map",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "batanes-vayang-rolling-hills",
+      "name": "Basco Rolling Hills (Vayang)",
+      "destination": "Batanes",
+      "municipality": "Basco",
+      "category": "Nature",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-018",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://breathtakingbatanes.com/maps/",
+          "finalUrl": "https://breathtakingbatanes.com/maps/",
+          "status": 200,
+          "title": "Batanes Tourism Map",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "batanes-tukon-chapel",
+      "name": "Tukon Chapel",
+      "destination": "Batanes",
+      "municipality": "Basco",
+      "category": "Culture",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-018",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://breathtakingbatanes.com/maps/",
+          "finalUrl": "https://breathtakingbatanes.com/maps/",
+          "status": 200,
+          "title": "Batanes Tourism Map",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Tukon_Chapel",
+          "finalUrl": "https://en.wikipedia.org/wiki/Tukon_Chapel",
+          "status": 200,
+          "title": "Tukon Chapel - Wikipedia",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    }
+  ]
+}

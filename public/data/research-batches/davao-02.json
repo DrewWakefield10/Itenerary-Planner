@@ -383,6 +383,499 @@
       "status": "accepted",
       "decision_reason": "Additional distinct physical place with reviewed identity and actual municipality sources; current access and availability are not guaranteed.",
       "reviewed_on": "2026-10-21"
+    },
+    {
+      "destination_group": "Davao",
+      "region": "Davao Region",
+      "province": null,
+      "city_municipality": "Davao City",
+      "barangay": null,
+      "address": "GM Building, Fuente Villa Abrille Subdivision, Tulip Drive",
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "Davao City Tourism — Purge venue profile",
+          "sourceUrl": "https://tourism.davaocity.gov.ph/explore-the-city/restaurants/coffeeshops-2/purge-coffee-roaster/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Davao City Tourism — Purge venue profile",
+          "sourceUrl": "https://tourism.davaocity.gov.ph/explore-the-city/restaurants/coffeeshops-2/purge-coffee-roaster/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "Davao City Tourism — Purge venue profile",
+          "sourceUrl": "https://tourism.davaocity.gov.ph/explore-the-city/restaurants/coffeeshops-2/purge-coffee-roaster/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "id": "davao-purge-tulip",
+      "name": "Purge Coffee Roaster — Tulip Drive",
+      "slug": "davao-purge-tulip",
+      "planning": {
+        "base_slug": "davao",
+        "mode": "local",
+        "cluster": "davao-purge-tulip",
+        "minutes": 60,
+        "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+        "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+        "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+        "requiresBooking": false,
+        "scheduling": "candidate",
+        "outdoor": false
+      },
+      "category": "Food & drink",
+      "description": "Purge is a coffee-roasting venue on Tulip Drive, identified by the city tourism office. August 2026 local festival reporting includes it among Davao’s homegrown coffee stops.",
+      "interests": [
+        "Food Hunter",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "davao",
+      "catalog_stop_id": "davao-purge-tulip",
+      "status": "accepted",
+      "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+      "reviewed_on": "2026-10-22"
+    },
+    {
+      "destination_group": "Davao",
+      "region": "Davao Region",
+      "province": null,
+      "city_municipality": "Davao City",
+      "barangay": null,
+      "address": "Narra Street",
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "Fourth Street Cafe — dated 2026 business posts, public mirror",
+          "sourceUrl": "https://www.findglocal.com/PH/Davao-City/161228178024723/Fourth-Street-Cafe",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Fourth Street Cafe — dated 2026 business posts, public mirror",
+          "sourceUrl": "https://www.findglocal.com/PH/Davao-City/161228178024723/Fourth-Street-Cafe",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "Fourth Street Cafe — dated 2026 business posts, public mirror",
+          "sourceUrl": "https://www.findglocal.com/PH/Davao-City/161228178024723/Fourth-Street-Cafe",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "id": "davao-fourth-street-narra",
+      "name": "Fourth Street Cafe — Narra",
+      "slug": "davao-fourth-street-narra",
+      "planning": {
+        "base_slug": "davao",
+        "mode": "local",
+        "cluster": "davao-fourth-street-narra",
+        "minutes": 60,
+        "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+        "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+        "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+        "requiresBooking": false,
+        "scheduling": "candidate",
+        "outdoor": false
+      },
+      "category": "Food & drink",
+      "description": "Fourth Street is a Narra Street coffee venue whose June–August 2026 business posts document continuing service. Local festival reporting subsequently names it among the city’s homegrown coffee stops.",
+      "interests": [
+        "Food Hunter",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "davao",
+      "catalog_stop_id": "davao-fourth-street-narra",
+      "status": "accepted",
+      "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+      "reviewed_on": "2026-10-22"
+    },
+    {
+      "destination_group": "Davao",
+      "region": "Davao Region",
+      "province": null,
+      "city_municipality": "Davao City",
+      "barangay": null,
+      "address": "Oboza Heritage House",
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "SunStar — August 2026 Kadayawan venue reporting",
+          "sourceUrl": "https://www.sunstar.com.ph/amp/story/davao/kadayawan-2026-see-it-taste-it-live-it",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "SunStar — August 2026 Kadayawan venue reporting",
+          "sourceUrl": "https://www.sunstar.com.ph/amp/story/davao/kadayawan-2026-see-it-taste-it-live-it",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "SunStar — August 2026 Kadayawan venue reporting",
+          "sourceUrl": "https://www.sunstar.com.ph/amp/story/davao/kadayawan-2026-see-it-taste-it-live-it",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "id": "davao-glasshouse-oboza",
+      "name": "Glasshouse Coffee — Oboza Heritage House",
+      "slug": "davao-glasshouse-oboza",
+      "planning": {
+        "base_slug": "davao",
+        "mode": "local",
+        "cluster": "davao-glasshouse-oboza",
+        "minutes": 60,
+        "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+        "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+        "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+        "requiresBooking": false,
+        "scheduling": "candidate",
+        "outdoor": false
+      },
+      "category": "Food & drink",
+      "description": "Glasshouse’s Oboza Heritage House coffee venue appears in August 2026 Davao festival reporting. The heritage-house branch is distinguished from other Glasshouse locations; its exact entrance and service hours need confirmation.",
+      "interests": [
+        "Food Hunter",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "davao",
+      "catalog_stop_id": "davao-glasshouse-oboza",
+      "status": "accepted",
+      "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+      "reviewed_on": "2026-10-22"
+    },
+    {
+      "destination_group": "Davao",
+      "region": "Davao Region",
+      "province": null,
+      "city_municipality": "Davao City",
+      "barangay": "9-A",
+      "address": "Star Hotel, Mabini Street corner Voyager Street",
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "Paramount Coffee — Star Hotel — venue website",
+          "sourceUrl": "https://www.paramountcoffeeph.com/cafe",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Paramount Coffee — Star Hotel — venue website",
+          "sourceUrl": "https://www.paramountcoffeeph.com/cafe",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "Paramount Coffee — Star Hotel — venue website",
+          "sourceUrl": "https://www.paramountcoffeeph.com/cafe",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "id": "davao-paramount-star-hotel",
+      "name": "Paramount Coffee — Star Hotel",
+      "slug": "davao-paramount-star-hotel",
+      "planning": {
+        "base_slug": "davao",
+        "mode": "local",
+        "cluster": "davao-paramount-star-hotel",
+        "minutes": 60,
+        "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+        "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+        "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+        "requiresBooking": false,
+        "scheduling": "candidate",
+        "outdoor": false
+      },
+      "category": "Food & drink",
+      "description": "Paramount’s main café is at Star Hotel on Mabini Street. Its published branch list identifies this hotel venue separately from the brand’s Riverfront, Lanang and mall branches.",
+      "interests": [
+        "Food Hunter",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "davao",
+      "catalog_stop_id": "davao-paramount-star-hotel",
+      "status": "accepted",
+      "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+      "reviewed_on": "2026-10-22"
+    },
+    {
+      "destination_group": "Davao",
+      "region": "Davao Region",
+      "province": null,
+      "city_municipality": "Davao City",
+      "barangay": null,
+      "address": "86 V. Mapa Street, in front of Pavilion Building gate",
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "Kapeweñoz — public business profile",
+          "sourceUrl": "https://linktr.ee/kapewenozcoffee",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Kapeweñoz — public business profile",
+          "sourceUrl": "https://linktr.ee/kapewenozcoffee",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "Kapeweñoz — public business profile",
+          "sourceUrl": "https://linktr.ee/kapewenozcoffee",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "id": "davao-kapewenoz-v-mapa",
+      "name": "Kapeweñoz — V. Mapa",
+      "slug": "davao-kapewenoz-v-mapa",
+      "planning": {
+        "base_slug": "davao",
+        "mode": "local",
+        "cluster": "davao-kapewenoz-v-mapa",
+        "minutes": 60,
+        "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+        "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+        "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+        "requiresBooking": false,
+        "scheduling": "candidate",
+        "outdoor": false
+      },
+      "category": "Food & drink",
+      "description": "Kapeweñoz’s V. Mapa venue offers coffee through its public business profile and delivery links. The profile distinguishes this location from Dacudao; this listing covers only V. Mapa.",
+      "interests": [
+        "Food Hunter",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "davao",
+      "catalog_stop_id": "davao-kapewenoz-v-mapa",
+      "status": "accepted",
+      "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+      "reviewed_on": "2026-10-22"
+    },
+    {
+      "destination_group": "Davao",
+      "region": "Davao Region",
+      "province": null,
+      "city_municipality": "Davao City",
+      "barangay": null,
+      "address": "CT Drive, Tulip Drive",
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "Lamano Cocina & Bar — venue website",
+          "sourceUrl": "https://lamano.ph/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Lamano Cocina & Bar — venue website",
+          "sourceUrl": "https://lamano.ph/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "Lamano Cocina & Bar — venue website",
+          "sourceUrl": "https://lamano.ph/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "id": "davao-lamano-tulip",
+      "name": "Lamano Cocina & Bar",
+      "slug": "davao-lamano-tulip",
+      "planning": {
+        "base_slug": "davao",
+        "mode": "local",
+        "cluster": "davao-lamano-tulip",
+        "minutes": 90,
+        "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+        "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+        "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+        "requiresBooking": false,
+        "scheduling": "candidate",
+        "outdoor": false
+      },
+      "category": "Food & drink",
+      "description": "Lamano’s cooking draws on Filipino and Spanish dishes at CT Drive on Tulip Drive. Its current venue offering is independently documented by a May 2026 visit; it is a dining stop rather than a coffee-only bar.",
+      "interests": [
+        "Food Hunter"
+      ],
+      "itinerary_base_slug": "davao",
+      "catalog_stop_id": "davao-lamano-tulip",
+      "status": "accepted",
+      "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+      "reviewed_on": "2026-10-22"
+    },
+    {
+      "destination_group": "Davao",
+      "region": "Davao Region",
+      "province": null,
+      "city_municipality": "Davao City",
+      "barangay": null,
+      "address": "J.P. Laurel Avenue, Bajada",
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "Eats Me, Jax! — March 2026 Capri’s visit",
+          "sourceUrl": "https://eatsmejax.com/2026/03/26/davao-capris-restaurant-and-deli-davao-food-and-resto-review/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Eats Me, Jax! — March 2026 Capri’s visit",
+          "sourceUrl": "https://eatsmejax.com/2026/03/26/davao-capris-restaurant-and-deli-davao-food-and-resto-review/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "Eats Me, Jax! — March 2026 Capri’s visit",
+          "sourceUrl": "https://eatsmejax.com/2026/03/26/davao-capris-restaurant-and-deli-davao-food-and-resto-review/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "id": "davao-capris-bajada",
+      "name": "Capri’s Restaurant and Deli",
+      "slug": "davao-capris-bajada",
+      "planning": {
+        "base_slug": "davao",
+        "mode": "local",
+        "cluster": "davao-capris-bajada",
+        "minutes": 90,
+        "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+        "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+        "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+        "requiresBooking": false,
+        "scheduling": "candidate",
+        "outdoor": false
+      },
+      "category": "Food & drink",
+      "description": "Capri’s is a European- and Western-focused restaurant on J.P. Laurel Avenue in Bajada. A March 2026 visit documents baked brie, Caesar salad and beef Wellington; availability and current prices require confirmation.",
+      "interests": [
+        "Food Hunter"
+      ],
+      "itinerary_base_slug": "davao",
+      "catalog_stop_id": "davao-capris-bajada",
+      "status": "accepted",
+      "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+      "reviewed_on": "2026-10-22"
+    },
+    {
+      "destination_group": "Davao",
+      "region": "Davao Region",
+      "province": null,
+      "city_municipality": "Davao City",
+      "barangay": null,
+      "address": "Door 1-H, Values School Building, Ruby Street, Marfori Subdivision",
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "Lachi’s — August 2026 business posts, public mirror",
+          "sourceUrl": "https://www.findglocal.com/PH/Davao-City/71022339832/Lachi%27s-Sans-Rival-Atbp",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Lachi’s — August 2026 business posts, public mirror",
+          "sourceUrl": "https://www.findglocal.com/PH/Davao-City/71022339832/Lachi%27s-Sans-Rival-Atbp",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "Lachi’s — August 2026 business posts, public mirror",
+          "sourceUrl": "https://www.findglocal.com/PH/Davao-City/71022339832/Lachi%27s-Sans-Rival-Atbp",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "id": "davao-lachis-marfori",
+      "name": "Lachi’s Sans Rival Atbp. — Marfori",
+      "slug": "davao-lachis-marfori",
+      "planning": {
+        "base_slug": "davao",
+        "mode": "local",
+        "cluster": "davao-lachis-marfori",
+        "minutes": 90,
+        "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+        "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+        "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+        "requiresBooking": false,
+        "scheduling": "candidate",
+        "outdoor": false
+      },
+      "category": "Food & drink",
+      "description": "Lachi’s Marfori shop is a named dessert destination on Ruby Street. August 2026 business posts document cookies and cake; this listing is a dessert shop, without assuming a full sit-down meal is currently served.",
+      "interests": [
+        "Food Hunter"
+      ],
+      "itinerary_base_slug": "davao",
+      "catalog_stop_id": "davao-lachis-marfori",
+      "status": "accepted",
+      "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+      "reviewed_on": "2026-10-22"
     }
   ]
 }

@@ -1,0 +1,127 @@
+{
+  "batchId": "instagram-022",
+  "checkedOn": "2026-10-22",
+  "mode": "unapproved-research",
+  "records": [
+    {
+      "placeId": "batanes-ivana-san-jose-church",
+      "name": "San Jose Church - Ivana",
+      "destination": "Batanes",
+      "municipality": "Ivana",
+      "category": "Culture",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-022",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://www.region2fun.ph/official/batanes-2/",
+          "finalUrl": "https://www.region2fun.ph/official/batanes-2/",
+          "status": 200,
+          "title": "Batanes &#8211; Official Website of Department of Tourism Region 2",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "batanes-songsong-ruins",
+      "name": "Songsong Ruins",
+      "destination": "Batanes",
+      "municipality": "Uyugan",
+      "category": "Culture",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-022",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://breathtakingbatanes.com/maps/",
+          "finalUrl": "https://breathtakingbatanes.com/maps/",
+          "status": 200,
+          "title": "Batanes Tourism Map",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "batanes-alapad-rock",
+      "name": "Alapad Rock Formation",
+      "destination": "Batanes",
+      "municipality": "Uyugan",
+      "category": "Nature",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-022",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://breathtakingbatanes.com/maps/",
+          "finalUrl": "https://breathtakingbatanes.com/maps/",
+          "status": 200,
+          "title": "Batanes Tourism Map",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "batanes-chavayan-village",
+      "name": "Chavayan Heritage Village",
+      "destination": "Batanes",
+      "municipality": "Sabtang",
+      "category": "Culture",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-022",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://breathtakingbatanes.com/maps/",
+          "finalUrl": "https://breathtakingbatanes.com/maps/",
+          "status": 200,
+          "title": "Batanes Tourism Map",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "batanes-morong-beach",
+      "name": "Morong Beach",
+      "destination": "Batanes",
+      "municipality": "Sabtang",
+      "category": "Nature",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-022",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://breathtakingbatanes.com/maps/",
+          "finalUrl": "https://breathtakingbatanes.com/maps/",
+          "status": 200,
+          "title": "Batanes Tourism Map",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "batanes-chamantad-tinyan",
+      "name": "Chamantad-Tinyan Viewpoint",
+      "destination": "Batanes",
+      "municipality": "Sabtang",
+      "category": "Nature",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-022",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://breathtakingbatanes.com/tourist-attraction-6/",
+          "finalUrl": "https://breathtakingbatanes.com/tourist-attraction-6/",
+          "status": 200,
+          "title": "tourist attraction - breathtakingbatanes.com",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    }
+  ]
+}

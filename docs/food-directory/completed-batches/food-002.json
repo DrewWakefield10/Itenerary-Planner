@@ -1,0 +1,57 @@
+{
+  "id": "food-002",
+  "checkedOn": "2026-10-22",
+  "accepted": [
+    "el-nido-lick-roastery",
+    "el-nido-la-moro-hill",
+    "el-nido-huk-co",
+    "el-nido-ver-de",
+    "el-nido-piece-of-sky",
+    "el-nido-henris",
+    "el-nido-lanai-amakan",
+    "coron-baya-resto-lounge",
+    "coron-hunt-funny-lion",
+    "el-nido-sunmai-nacpan",
+    "el-nido-calima-piece-lio",
+    "el-nido-ocean-view-chinese",
+    "puerto-princesa-divines-robinsons",
+    "puerto-princesa-jeju-island-cafe",
+    "puerto-princesa-kofilab",
+    "cebu-good-cup-ramos",
+    "cebu-house-of-lechon-acacia",
+    "cebu-cafe-laguna-ayala",
+    "cebu-parilya-il-corso",
+    "cebu-lemon-grass-ayala",
+    "cebu-ullis-ayala",
+    "cebu-u-kitchen-lahug"
+  ],
+  "inserted": 0,
+  "promoted": 0,
+  "unchanged": 22,
+  "decisions": [
+    {
+      "name": "Lax Cafe Palawan",
+      "status": "unresolved",
+      "sources": [
+        "https://www.laxcafepalawan.com/"
+      ],
+      "reason": "Placeholder-like phone/contact details and joking hours; no sufficiently trustworthy exact branch or current operation evidence."
+    },
+    {
+      "name": "Maya — Crossroads",
+      "status": "unresolved",
+      "sources": [
+        "https://crossroadscebu.com/eat-drink/"
+      ],
+      "reason": "Host tenant page labels it closed; reconcile with current business/guide evidence before publication."
+    },
+    {
+      "name": "Drip and Draft",
+      "status": "unresolved",
+      "sources": [
+        "https://theguide.tab.travel/gdyss/drip-and-draft/"
+      ],
+      "reason": "Only old 2021 merchant update available; conflicting closure reports require current venue confirmation."
+    }
+  ]
+}

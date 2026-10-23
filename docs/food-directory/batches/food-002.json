@@ -1,0 +1,3112 @@
+{
+  "id": "food-002",
+  "checkedOn": "2026-10-22",
+  "entries": [
+    {
+      "approved": true,
+      "identityReviewed": true,
+      "operationReviewed": true,
+      "record": {
+        "id": "el-nido-lick-roastery",
+        "name": "Lost Islands Center for Kape — Lio HQ",
+        "destination_group": "Palawan",
+        "region": "MIMAROPA",
+        "province": "Palawan",
+        "city_municipality": "El Nido",
+        "barangay": null,
+        "address": "Sitio Uno, Lio Estate",
+        "latitude": null,
+        "longitude": null,
+        "sources": {
+          "identity": {
+            "sourceName": "Lost Islands Center for Kape — Lio HQ — venue website",
+            "sourceUrl": "https://lick.ph/pages/locations",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "municipality": {
+            "sourceName": "Lost Islands Center for Kape — Lio HQ — venue website",
+            "sourceUrl": "https://lick.ph/pages/locations",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "address": {
+            "sourceName": "Lost Islands Center for Kape — Lio HQ — venue website",
+            "sourceUrl": "https://lick.ph/pages/locations",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "coordinates": {
+            "sourceName": null,
+            "sourceUrl": null,
+            "dateChecked": null,
+            "status": "unverified"
+          }
+        },
+        "category": "Food & drink",
+        "description": "LICK’s headquarters is a specialty-coffee roastery in Sitio Uno, Lio Estate. It showcases Philippine coffees, with a published Tuesday–Saturday visiting window rather than all-day daily café hours.",
+        "interests": [
+          "Food Hunter",
+          "Slow Traveler"
+        ],
+        "itinerary_base_slug": "el-nido",
+        "catalog_stop_id": "el-nido-lick-roastery",
+        "status": "accepted",
+        "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+        "reviewed_on": "2026-10-22",
+        "planning": {
+          "base_slug": "el-nido",
+          "mode": "local",
+          "cluster": "el-nido-lick-roastery",
+          "minutes": 60,
+          "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+          "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+          "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+          "requiresBooking": false,
+          "scheduling": "manual",
+          "outdoor": false
+        },
+        "slug": "el-nido-lick-roastery"
+      },
+      "food": {
+        "placeId": "el-nido-lick-roastery",
+        "primary": "cafe",
+        "venueType": "cafe",
+        "suitability": [
+          "coffee"
+        ],
+        "specialties": [
+          "Philippine coffee",
+          "coffee roasting"
+        ],
+        "source": {
+          "sourceName": "Lost Islands Center for Kape — Lio HQ — venue website",
+          "sourceUrl": "https://lick.ph/pages/locations",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "officialUrl": "https://lick.ph/pages/locations",
+        "operation": {
+          "basis": "venue-offering",
+          "source": {
+            "sourceName": "Lost Islands Center for Kape — Lio HQ — venue website",
+            "sourceUrl": "https://lick.ph/pages/locations",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "limitation": "The public venue page offers this service when reviewed; no live table availability, closure guarantee or independent on-site check."
+        }
+      },
+      "content": {
+        "placeId": "el-nido-lick-roastery",
+        "summary": "LICK’s headquarters is a specialty-coffee roastery in Sitio Uno, Lio Estate. It showcases Philippine coffees, with a published Tuesday–Saturday visiting window rather than all-day daily café hours.",
+        "overview": [
+          "LICK’s headquarters is a specialty-coffee roastery in Sitio Uno, Lio Estate. It showcases Philippine coffees, with a published Tuesday–Saturday visiting window rather than all-day daily café hours.",
+          "Confirm the current menu and service before travelling. Lakbay has not verified a map pin, meal prices or accessibility for this listing; any itinerary allowance is an estimate."
+        ],
+        "highlights": [
+          {
+            "text": "Philippine coffee",
+            "sourceUrls": [
+              "https://lick.ph/pages/locations"
+            ]
+          },
+          {
+            "text": "coffee roasting",
+            "sourceUrls": [
+              "https://lick.ph/pages/locations"
+            ]
+          }
+        ],
+        "tips": [],
+        "sources": [
+          {
+            "name": "Lost Islands Center for Kape — Lio HQ — venue website",
+            "url": "https://lick.ph/pages/locations",
+            "checkedOn": "2026-10-22",
+            "supports": "Exact venue, municipality and the descriptive food or coffee offering stated above; no verification of prices, accessibility or unsupplied coordinates."
+          }
+        ]
+      },
+      "photoResearch": {
+        "sources": [
+          "https://lick.ph/pages/locations",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Lost+Islands+Center+for+Kape+El+Nido&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Lost+Islands+Center+for+Kape&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=Lost+Islands+Center+for+Kape+El+Nido&license=4%2C5%2C9%2C10"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "approved": true,
+      "identityReviewed": true,
+      "operationReviewed": true,
+      "record": {
+        "id": "el-nido-la-moro-hill",
+        "name": "La Moro Hill Bakery — Lio",
+        "destination_group": "Palawan",
+        "region": "MIMAROPA",
+        "province": "Palawan",
+        "city_municipality": "El Nido",
+        "barangay": null,
+        "address": "Unit K1, Lio Beach",
+        "latitude": null,
+        "longitude": null,
+        "sources": {
+          "identity": {
+            "sourceName": "La Moro Hill Bakery — Lio — venue website",
+            "sourceUrl": "https://lick.ph/pages/locations",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "municipality": {
+            "sourceName": "La Moro Hill Bakery — Lio — venue website",
+            "sourceUrl": "https://lick.ph/pages/locations",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "address": {
+            "sourceName": "La Moro Hill Bakery — Lio — venue website",
+            "sourceUrl": "https://lick.ph/pages/locations",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "coordinates": {
+            "sourceName": null,
+            "sourceUrl": null,
+            "dateChecked": null,
+            "status": "unverified"
+          }
+        },
+        "category": "Food & drink",
+        "description": "La Moro Hill is a bakery at Unit K1, Lio Beach, listed by LICK as a retail coffee-bar partner. It provides a named bakery-and-coffee stop within the Lio area.",
+        "interests": [
+          "Food Hunter",
+          "Slow Traveler"
+        ],
+        "itinerary_base_slug": "el-nido",
+        "catalog_stop_id": "el-nido-la-moro-hill",
+        "status": "accepted",
+        "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+        "reviewed_on": "2026-10-22",
+        "planning": {
+          "base_slug": "el-nido",
+          "mode": "local",
+          "cluster": "lio",
+          "minutes": 60,
+          "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+          "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+          "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+          "requiresBooking": false,
+          "scheduling": "candidate",
+          "outdoor": false,
+          "openingHours": {
+            "weekdays": [
+              0,
+              1,
+              2,
+              3,
+              4,
+              5,
+              6
+            ],
+            "opens": "07:00",
+            "closes": "16:00",
+            "source": {
+              "sourceName": "La Moro Hill Bakery — Lio — venue website",
+              "sourceUrl": "https://lick.ph/pages/locations",
+              "dateChecked": "2026-10-22",
+              "status": "verified"
+            }
+          }
+        },
+        "slug": "el-nido-la-moro-hill"
+      },
+      "food": {
+        "placeId": "el-nido-la-moro-hill",
+        "primary": "cafe",
+        "venueType": "bakery",
+        "suitability": [
+          "coffee",
+          "bakery"
+        ],
+        "specialties": [
+          "bakery",
+          "coffee"
+        ],
+        "source": {
+          "sourceName": "La Moro Hill Bakery — Lio — venue website",
+          "sourceUrl": "https://lick.ph/pages/locations",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "officialUrl": "https://lick.ph/pages/locations",
+        "operation": {
+          "basis": "venue-offering",
+          "source": {
+            "sourceName": "La Moro Hill Bakery — Lio — venue website",
+            "sourceUrl": "https://lick.ph/pages/locations",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "limitation": "The public venue page offers this service when reviewed; no live table availability, closure guarantee or independent on-site check."
+        }
+      },
+      "content": {
+        "placeId": "el-nido-la-moro-hill",
+        "summary": "La Moro Hill is a bakery at Unit K1, Lio Beach, listed by LICK as a retail coffee-bar partner. It provides a named bakery-and-coffee stop within the Lio area.",
+        "overview": [
+          "La Moro Hill is a bakery at Unit K1, Lio Beach, listed by LICK as a retail coffee-bar partner. It provides a named bakery-and-coffee stop within the Lio area.",
+          "Confirm the current menu and service before travelling. Lakbay has not verified a map pin, meal prices or accessibility for this listing; any itinerary allowance is an estimate."
+        ],
+        "highlights": [
+          {
+            "text": "bakery",
+            "sourceUrls": [
+              "https://lick.ph/pages/locations"
+            ]
+          },
+          {
+            "text": "coffee",
+            "sourceUrls": [
+              "https://lick.ph/pages/locations"
+            ]
+          }
+        ],
+        "tips": [],
+        "sources": [
+          {
+            "name": "La Moro Hill Bakery — Lio — venue website",
+            "url": "https://lick.ph/pages/locations",
+            "checkedOn": "2026-10-22",
+            "supports": "Exact venue, municipality and the descriptive food or coffee offering stated above; no verification of prices, accessibility or unsupplied coordinates."
+          }
+        ]
+      },
+      "photoResearch": {
+        "sources": [
+          "https://lick.ph/pages/locations",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=La+Moro+Hill+Bakery+El+Nido&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=La+Moro+Hill+Bakery&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=La+Moro+Hill+Bakery+El+Nido&license=4%2C5%2C9%2C10"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "approved": true,
+      "identityReviewed": true,
+      "operationReviewed": true,
+      "record": {
+        "id": "el-nido-huk-co",
+        "name": "HUK & Co. — C Hotel",
+        "destination_group": "Palawan",
+        "region": "MIMAROPA",
+        "province": "Palawan",
+        "city_municipality": "El Nido",
+        "barangay": null,
+        "address": "Ground floor, C Hotel, Rizal Street",
+        "latitude": null,
+        "longitude": null,
+        "sources": {
+          "identity": {
+            "sourceName": "HUK & Co. — C Hotel — venue website",
+            "sourceUrl": "https://huk.ph/",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "municipality": {
+            "sourceName": "HUK & Co. — C Hotel — venue website",
+            "sourceUrl": "https://huk.ph/",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "address": {
+            "sourceName": "HUK & Co. — C Hotel — venue website",
+            "sourceUrl": "https://huk.ph/",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "coordinates": {
+            "sourceName": null,
+            "sourceUrl": null,
+            "dateChecked": null,
+            "status": "unverified"
+          }
+        },
+        "category": "Food & drink",
+        "description": "HUK & Co. combines a bakery counter with coffee at C Hotel on Rizal Street. The venue describes fresh bread and pastries alongside bowls, smoothies and sandwiches.",
+        "interests": [
+          "Food Hunter",
+          "Slow Traveler"
+        ],
+        "itinerary_base_slug": "el-nido",
+        "catalog_stop_id": "el-nido-huk-co",
+        "status": "accepted",
+        "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+        "reviewed_on": "2026-10-22",
+        "planning": {
+          "base_slug": "el-nido",
+          "mode": "local",
+          "cluster": "el-nido-huk-co",
+          "minutes": 60,
+          "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+          "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+          "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+          "requiresBooking": false,
+          "scheduling": "candidate",
+          "outdoor": false,
+          "openingHours": {
+            "weekdays": [
+              0,
+              1,
+              2,
+              3,
+              4,
+              5,
+              6
+            ],
+            "opens": "07:00",
+            "closes": "17:00",
+            "source": {
+              "sourceName": "HUK & Co. — C Hotel — venue website",
+              "sourceUrl": "https://huk.ph/",
+              "dateChecked": "2026-10-22",
+              "status": "verified"
+            }
+          }
+        },
+        "slug": "el-nido-huk-co"
+      },
+      "food": {
+        "placeId": "el-nido-huk-co",
+        "primary": "cafe",
+        "venueType": "bakery",
+        "suitability": [
+          "coffee",
+          "bakery",
+          "meal",
+          "breakfast"
+        ],
+        "specialties": [
+          "bread",
+          "pastries",
+          "sandwiches"
+        ],
+        "source": {
+          "sourceName": "HUK & Co. — C Hotel — venue website",
+          "sourceUrl": "https://huk.ph/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "officialUrl": "https://huk.ph/",
+        "operation": {
+          "basis": "venue-offering",
+          "source": {
+            "sourceName": "HUK & Co. — C Hotel — venue website",
+            "sourceUrl": "https://huk.ph/",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "limitation": "The public venue page offers this service when reviewed; no live table availability, closure guarantee or independent on-site check."
+        }
+      },
+      "content": {
+        "placeId": "el-nido-huk-co",
+        "summary": "HUK & Co. combines a bakery counter with coffee at C Hotel on Rizal Street. The venue describes fresh bread and pastries alongside bowls, smoothies and sandwiches.",
+        "overview": [
+          "HUK & Co. combines a bakery counter with coffee at C Hotel on Rizal Street. The venue describes fresh bread and pastries alongside bowls, smoothies and sandwiches.",
+          "Confirm the current menu and service before travelling. Lakbay has not verified a map pin, meal prices or accessibility for this listing; any itinerary allowance is an estimate."
+        ],
+        "highlights": [
+          {
+            "text": "bread",
+            "sourceUrls": [
+              "https://huk.ph/"
+            ]
+          },
+          {
+            "text": "pastries",
+            "sourceUrls": [
+              "https://huk.ph/"
+            ]
+          },
+          {
+            "text": "sandwiches",
+            "sourceUrls": [
+              "https://huk.ph/"
+            ]
+          }
+        ],
+        "tips": [],
+        "sources": [
+          {
+            "name": "HUK & Co. — C Hotel — venue website",
+            "url": "https://huk.ph/",
+            "checkedOn": "2026-10-22",
+            "supports": "Exact venue, municipality and the descriptive food or coffee offering stated above; no verification of prices, accessibility or unsupplied coordinates."
+          }
+        ]
+      },
+      "photoResearch": {
+        "sources": [
+          "https://huk.ph/",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=HUK+%26+Co.+El+Nido&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=HUK+%26+Co.&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=HUK+%26+Co.+El+Nido&license=4%2C5%2C9%2C10"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "approved": true,
+      "identityReviewed": true,
+      "operationReviewed": true,
+      "record": {
+        "id": "el-nido-ver-de",
+        "name": "Ver De — H Hotel",
+        "destination_group": "Palawan",
+        "region": "MIMAROPA",
+        "province": "Palawan",
+        "city_municipality": "El Nido",
+        "barangay": null,
+        "address": "Ground floor, H Hotel, Real Street",
+        "latitude": null,
+        "longitude": null,
+        "sources": {
+          "identity": {
+            "sourceName": "Ver De — H Hotel — venue website",
+            "sourceUrl": "https://hhotelelnido.com/dining",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "municipality": {
+            "sourceName": "Ver De — H Hotel — venue website",
+            "sourceUrl": "https://hhotelelnido.com/dining",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "address": {
+            "sourceName": "Ver De — H Hotel — venue website",
+            "sourceUrl": "https://hhotelelnido.com/dining",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "coordinates": {
+            "sourceName": null,
+            "sourceUrl": null,
+            "dateChecked": null,
+            "status": "unverified"
+          }
+        },
+        "category": "Food & drink",
+        "description": "Ver De occupies the ground floor of H Hotel and serves breakfast through dinner. Its menu includes pancakes, chickpea omelets and a tofu-and-bean breakfast burrito; ask the venue about specific dietary needs.",
+        "interests": [
+          "Food Hunter"
+        ],
+        "itinerary_base_slug": "el-nido",
+        "catalog_stop_id": "el-nido-ver-de",
+        "status": "accepted",
+        "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+        "reviewed_on": "2026-10-22",
+        "planning": {
+          "base_slug": "el-nido",
+          "mode": "local",
+          "cluster": "el-nido-h-hotel",
+          "minutes": 90,
+          "booking": "The hotel welcomes walk-in visitors for Ver De and offers table reservations. Confirm availability directly; no table has been booked.",
+          "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+          "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+          "requiresBooking": false,
+          "scheduling": "candidate",
+          "outdoor": false
+        },
+        "slug": "el-nido-ver-de"
+      },
+      "food": {
+        "placeId": "el-nido-ver-de",
+        "primary": "other-food",
+        "venueType": "restaurant",
+        "suitability": [
+          "meal",
+          "breakfast"
+        ],
+        "specialties": [
+          "pancakes",
+          "breakfast burrito"
+        ],
+        "source": {
+          "sourceName": "Ver De — H Hotel — venue website",
+          "sourceUrl": "https://hhotelelnido.com/dining",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "officialUrl": "https://hhotelelnido.com/dining",
+        "operation": {
+          "basis": "venue-offering",
+          "source": {
+            "sourceName": "Ver De — H Hotel — venue website",
+            "sourceUrl": "https://hhotelelnido.com/dining",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "limitation": "The public venue page offers this service when reviewed; no live table availability, closure guarantee or independent on-site check."
+        }
+      },
+      "content": {
+        "placeId": "el-nido-ver-de",
+        "summary": "Ver De occupies the ground floor of H Hotel and serves breakfast through dinner. Its menu includes pancakes, chickpea omelets and a tofu-and-bean breakfast burrito; ask the venue about specific dietary needs.",
+        "overview": [
+          "Ver De occupies the ground floor of H Hotel and serves breakfast through dinner. Its menu includes pancakes, chickpea omelets and a tofu-and-bean breakfast burrito; ask the venue about specific dietary needs.",
+          "Confirm the current menu and service before travelling. Lakbay has not verified a map pin, meal prices or accessibility for this listing; any itinerary allowance is an estimate."
+        ],
+        "highlights": [
+          {
+            "text": "pancakes",
+            "sourceUrls": [
+              "https://hhotelelnido.com/dining"
+            ]
+          },
+          {
+            "text": "breakfast burrito",
+            "sourceUrls": [
+              "https://hhotelelnido.com/dining"
+            ]
+          }
+        ],
+        "tips": [],
+        "sources": [
+          {
+            "name": "Ver De — H Hotel — venue website",
+            "url": "https://hhotelelnido.com/dining",
+            "checkedOn": "2026-10-22",
+            "supports": "Exact venue, municipality and the descriptive food or coffee offering stated above; no verification of prices, accessibility or unsupplied coordinates."
+          }
+        ]
+      },
+      "photoResearch": {
+        "sources": [
+          "https://hhotelelnido.com/dining",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Ver+De+El+Nido&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Ver+De&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=Ver+De+El+Nido&license=4%2C5%2C9%2C10"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "approved": true,
+      "identityReviewed": true,
+      "operationReviewed": true,
+      "record": {
+        "id": "el-nido-piece-of-sky",
+        "name": "Piece of Sky",
+        "destination_group": "Palawan",
+        "region": "MIMAROPA",
+        "province": "Palawan",
+        "city_municipality": "El Nido",
+        "barangay": "Buena Suerte",
+        "address": "6th floor, H Hotel, Real Street",
+        "latitude": null,
+        "longitude": null,
+        "sources": {
+          "identity": {
+            "sourceName": "Piece of Sky — venue website",
+            "sourceUrl": "https://sites.google.com/view/pieceofskyelnido/home",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "municipality": {
+            "sourceName": "Piece of Sky — venue website",
+            "sourceUrl": "https://sites.google.com/view/pieceofskyelnido/home",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "address": {
+            "sourceName": "Piece of Sky — venue website",
+            "sourceUrl": "https://sites.google.com/view/pieceofskyelnido/home",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "coordinates": {
+            "sourceName": null,
+            "sourceUrl": null,
+            "dateChecked": null,
+            "status": "unverified"
+          }
+        },
+        "category": "Food & drink",
+        "description": "Piece of Sky is a sixth-floor restaurant and cocktail bar at H Hotel, overlooking El Nido town and Bacuit Bay. Food and bar menus are offered separately on its public venue page.",
+        "interests": [
+          "Food Hunter"
+        ],
+        "itinerary_base_slug": "el-nido",
+        "catalog_stop_id": "el-nido-piece-of-sky",
+        "status": "accepted",
+        "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+        "reviewed_on": "2026-10-22",
+        "planning": {
+          "base_slug": "el-nido",
+          "mode": "local",
+          "cluster": "el-nido-h-hotel",
+          "minutes": 90,
+          "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+          "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+          "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+          "requiresBooking": false,
+          "scheduling": "candidate",
+          "outdoor": false
+        },
+        "slug": "el-nido-piece-of-sky"
+      },
+      "food": {
+        "placeId": "el-nido-piece-of-sky",
+        "primary": "other-food",
+        "venueType": "restaurant",
+        "suitability": [
+          "meal"
+        ],
+        "specialties": [
+          "cocktails",
+          "rooftop dining"
+        ],
+        "source": {
+          "sourceName": "Piece of Sky — venue website",
+          "sourceUrl": "https://sites.google.com/view/pieceofskyelnido/home",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "officialUrl": "https://sites.google.com/view/pieceofskyelnido/home",
+        "operation": {
+          "basis": "venue-offering",
+          "source": {
+            "sourceName": "Piece of Sky — venue website",
+            "sourceUrl": "https://sites.google.com/view/pieceofskyelnido/home",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "limitation": "The public venue page offers this service when reviewed; no live table availability, closure guarantee or independent on-site check."
+        }
+      },
+      "content": {
+        "placeId": "el-nido-piece-of-sky",
+        "summary": "Piece of Sky is a sixth-floor restaurant and cocktail bar at H Hotel, overlooking El Nido town and Bacuit Bay. Food and bar menus are offered separately on its public venue page.",
+        "overview": [
+          "Piece of Sky is a sixth-floor restaurant and cocktail bar at H Hotel, overlooking El Nido town and Bacuit Bay. Food and bar menus are offered separately on its public venue page.",
+          "The venue and hotel group publish different closing times. Hours remain unknown for scheduling until reconciled; confirm the current service window."
+        ],
+        "highlights": [
+          {
+            "text": "cocktails",
+            "sourceUrls": [
+              "https://sites.google.com/view/pieceofskyelnido/home"
+            ]
+          },
+          {
+            "text": "rooftop dining",
+            "sourceUrls": [
+              "https://sites.google.com/view/pieceofskyelnido/home"
+            ]
+          }
+        ],
+        "tips": [],
+        "sources": [
+          {
+            "name": "Piece of Sky — venue website",
+            "url": "https://sites.google.com/view/pieceofskyelnido/home",
+            "checkedOn": "2026-10-22",
+            "supports": "Exact venue, municipality and the descriptive food or coffee offering stated above; no verification of prices, accessibility or unsupplied coordinates."
+          }
+        ]
+      },
+      "photoResearch": {
+        "sources": [
+          "https://sites.google.com/view/pieceofskyelnido/home",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Piece+of+Sky+El+Nido&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Piece+of+Sky&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=Piece+of+Sky+El+Nido&license=4%2C5%2C9%2C10"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "approved": true,
+      "identityReviewed": true,
+      "operationReviewed": true,
+      "record": {
+        "id": "el-nido-henris",
+        "name": "Henri’s — Lihim Resorts",
+        "destination_group": "Palawan",
+        "region": "MIMAROPA",
+        "province": "Palawan",
+        "city_municipality": "El Nido",
+        "barangay": "Masagana",
+        "address": "999 Sitio Caalan",
+        "latitude": null,
+        "longitude": null,
+        "sources": {
+          "identity": {
+            "sourceName": "Henri’s — Lihim Resorts — venue website",
+            "sourceUrl": "https://lihim.com/dining/henris/",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "municipality": {
+            "sourceName": "Henri’s — Lihim Resorts — venue website",
+            "sourceUrl": "https://lihim.com/dining/henris/",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "address": {
+            "sourceName": "Henri’s — Lihim Resorts — venue website",
+            "sourceUrl": "https://lihim.com/dining/henris/",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "coordinates": {
+            "sourceName": null,
+            "sourceUrl": null,
+            "dateChecked": null,
+            "status": "unverified"
+          }
+        },
+        "category": "Food & drink",
+        "description": "Henri’s is Lihim Resorts’ three-level dining venue in Caalan. Its published dining offering emphasizes local-farm ingredients and Palawan seafood, with a full menu available from the resort.",
+        "interests": [
+          "Food Hunter"
+        ],
+        "itinerary_base_slug": "el-nido",
+        "catalog_stop_id": "el-nido-henris",
+        "status": "accepted",
+        "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+        "reviewed_on": "2026-10-22",
+        "planning": {
+          "base_slug": "el-nido",
+          "mode": "local",
+          "cluster": "el-nido-henris",
+          "minutes": 90,
+          "booking": "Contact Lihim for a dining reservation and non-resident access arrangements; no reservation has been made.",
+          "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+          "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+          "requiresBooking": false,
+          "scheduling": "candidate",
+          "outdoor": false
+        },
+        "slug": "el-nido-henris"
+      },
+      "food": {
+        "placeId": "el-nido-henris",
+        "primary": "other-food",
+        "venueType": "restaurant",
+        "suitability": [
+          "meal"
+        ],
+        "specialties": [
+          "seafood"
+        ],
+        "source": {
+          "sourceName": "Henri’s — Lihim Resorts — venue website",
+          "sourceUrl": "https://lihim.com/dining/henris/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "officialUrl": "https://lihim.com/dining/henris/",
+        "operation": {
+          "basis": "venue-offering",
+          "source": {
+            "sourceName": "Henri’s — Lihim Resorts — venue website",
+            "sourceUrl": "https://lihim.com/dining/henris/",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "limitation": "The public venue page offers this service when reviewed; no live table availability, closure guarantee or independent on-site check."
+        }
+      },
+      "content": {
+        "placeId": "el-nido-henris",
+        "summary": "Henri’s is Lihim Resorts’ three-level dining venue in Caalan. Its published dining offering emphasizes local-farm ingredients and Palawan seafood, with a full menu available from the resort.",
+        "overview": [
+          "Henri’s is Lihim Resorts’ three-level dining venue in Caalan. Its published dining offering emphasizes local-farm ingredients and Palawan seafood, with a full menu available from the resort.",
+          "Confirm the current menu and service before travelling. Lakbay has not verified a map pin, meal prices or accessibility for this listing; any itinerary allowance is an estimate."
+        ],
+        "highlights": [
+          {
+            "text": "seafood",
+            "sourceUrls": [
+              "https://lihim.com/dining/henris/"
+            ]
+          }
+        ],
+        "tips": [],
+        "sources": [
+          {
+            "name": "Henri’s — Lihim Resorts — venue website",
+            "url": "https://lihim.com/dining/henris/",
+            "checkedOn": "2026-10-22",
+            "supports": "Exact venue, municipality and the descriptive food or coffee offering stated above; no verification of prices, accessibility or unsupplied coordinates."
+          }
+        ]
+      },
+      "photoResearch": {
+        "sources": [
+          "https://lihim.com/dining/henris/",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Henri%E2%80%99s+El+Nido&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Henri%E2%80%99s&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=Henri%E2%80%99s+El+Nido&license=4%2C5%2C9%2C10"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "approved": true,
+      "identityReviewed": true,
+      "operationReviewed": true,
+      "record": {
+        "id": "el-nido-lanai-amakan",
+        "name": "The Lanai at Amakan",
+        "destination_group": "Palawan",
+        "region": "MIMAROPA",
+        "province": "Palawan",
+        "city_municipality": "El Nido",
+        "barangay": null,
+        "address": "Amakan, Amboy Street",
+        "latitude": null,
+        "longitude": null,
+        "sources": {
+          "identity": {
+            "sourceName": "The Lanai at Amakan — venue website",
+            "sourceUrl": "https://www.amakan.ph/",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "municipality": {
+            "sourceName": "The Lanai at Amakan — venue website",
+            "sourceUrl": "https://www.amakan.ph/",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "address": {
+            "sourceName": "The Lanai at Amakan — venue website",
+            "sourceUrl": "https://www.amakan.ph/",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "coordinates": {
+            "sourceName": null,
+            "sourceUrl": null,
+            "dateChecked": null,
+            "status": "unverified"
+          }
+        },
+        "category": "Food & drink",
+        "description": "The Lanai is Amakan’s Filipino-fusion restaurant on Amboy Street. The hotel offers breakfast buffet service as well as separate lunch and dinner windows, including breakfast access for walk-in diners.",
+        "interests": [
+          "Food Hunter"
+        ],
+        "itinerary_base_slug": "el-nido",
+        "catalog_stop_id": "el-nido-lanai-amakan",
+        "status": "accepted",
+        "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+        "reviewed_on": "2026-10-22",
+        "planning": {
+          "base_slug": "el-nido",
+          "mode": "local",
+          "cluster": "el-nido-lanai-amakan",
+          "minutes": 90,
+          "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+          "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+          "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+          "requiresBooking": false,
+          "scheduling": "manual",
+          "outdoor": false
+        },
+        "slug": "el-nido-lanai-amakan"
+      },
+      "food": {
+        "placeId": "el-nido-lanai-amakan",
+        "primary": "other-food",
+        "venueType": "restaurant",
+        "suitability": [
+          "meal",
+          "breakfast"
+        ],
+        "specialties": [
+          "Filipino fusion",
+          "breakfast buffet"
+        ],
+        "source": {
+          "sourceName": "The Lanai at Amakan — venue website",
+          "sourceUrl": "https://www.amakan.ph/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "officialUrl": "https://www.amakan.ph/",
+        "operation": {
+          "basis": "venue-offering",
+          "source": {
+            "sourceName": "The Lanai at Amakan — venue website",
+            "sourceUrl": "https://www.amakan.ph/",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "limitation": "The public venue page offers this service when reviewed; no live table availability, closure guarantee or independent on-site check."
+        }
+      },
+      "content": {
+        "placeId": "el-nido-lanai-amakan",
+        "summary": "The Lanai is Amakan’s Filipino-fusion restaurant on Amboy Street. The hotel offers breakfast buffet service as well as separate lunch and dinner windows, including breakfast access for walk-in diners.",
+        "overview": [
+          "The Lanai is Amakan’s Filipino-fusion restaurant on Amboy Street. The hotel offers breakfast buffet service as well as separate lunch and dinner windows, including breakfast access for walk-in diners.",
+          "Breakfast, lunch and dinner have separate service windows. A single continuous opening interval would be misleading, so arrange this stop manually after confirming service."
+        ],
+        "highlights": [
+          {
+            "text": "Filipino fusion",
+            "sourceUrls": [
+              "https://www.amakan.ph/"
+            ]
+          },
+          {
+            "text": "breakfast buffet",
+            "sourceUrls": [
+              "https://www.amakan.ph/"
+            ]
+          }
+        ],
+        "tips": [],
+        "sources": [
+          {
+            "name": "The Lanai at Amakan — venue website",
+            "url": "https://www.amakan.ph/",
+            "checkedOn": "2026-10-22",
+            "supports": "Exact venue, municipality and the descriptive food or coffee offering stated above; no verification of prices, accessibility or unsupplied coordinates."
+          }
+        ]
+      },
+      "photoResearch": {
+        "sources": [
+          "https://www.amakan.ph/",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=The+Lanai+at+Amakan+El+Nido&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=The+Lanai+at+Amakan&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=The+Lanai+at+Amakan+El+Nido&license=4%2C5%2C9%2C10"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "approved": true,
+      "identityReviewed": true,
+      "operationReviewed": true,
+      "record": {
+        "id": "coron-baya-resto-lounge",
+        "name": "BAYA Resto Lounge",
+        "destination_group": "Palawan",
+        "region": "MIMAROPA",
+        "province": "Palawan",
+        "city_municipality": "Coron",
+        "barangay": null,
+        "address": "Two Seasons Coron Bayside Hotel",
+        "latitude": null,
+        "longitude": null,
+        "sources": {
+          "identity": {
+            "sourceName": "BAYA Resto Lounge — venue website",
+            "sourceUrl": "https://twoseasonsresorts.com/corontown/dining/",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "municipality": {
+            "sourceName": "BAYA Resto Lounge — venue website",
+            "sourceUrl": "https://twoseasonsresorts.com/corontown/dining/",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "address": {
+            "sourceName": "BAYA Resto Lounge — venue website",
+            "sourceUrl": "https://twoseasonsresorts.com/corontown/dining/",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "coordinates": {
+            "sourceName": null,
+            "sourceUrl": null,
+            "dateChecked": null,
+            "status": "unverified"
+          }
+        },
+        "category": "Food & drink",
+        "description": "BAYA is the restaurant at Two Seasons Coron Bayside Hotel. The published menu highlights four-cheese pizza and steak-topped fried rice, with continental and international cooking overlooking Coron Bay.",
+        "interests": [
+          "Food Hunter"
+        ],
+        "itinerary_base_slug": "coron",
+        "catalog_stop_id": "coron-baya-resto-lounge",
+        "status": "accepted",
+        "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+        "reviewed_on": "2026-10-22",
+        "planning": {
+          "base_slug": "coron",
+          "mode": "local",
+          "cluster": "coron-baya-resto-lounge",
+          "minutes": 90,
+          "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+          "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+          "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+          "requiresBooking": false,
+          "scheduling": "candidate",
+          "outdoor": false
+        },
+        "slug": "coron-baya-resto-lounge"
+      },
+      "food": {
+        "placeId": "coron-baya-resto-lounge",
+        "primary": "other-food",
+        "venueType": "restaurant",
+        "suitability": [
+          "meal"
+        ],
+        "specialties": [
+          "four-cheese pizza",
+          "steak-topped fried rice"
+        ],
+        "source": {
+          "sourceName": "BAYA Resto Lounge — venue website",
+          "sourceUrl": "https://twoseasonsresorts.com/corontown/dining/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "officialUrl": "https://twoseasonsresorts.com/corontown/dining/",
+        "operation": {
+          "basis": "venue-offering",
+          "source": {
+            "sourceName": "BAYA Resto Lounge — venue website",
+            "sourceUrl": "https://twoseasonsresorts.com/corontown/dining/",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "limitation": "The public venue page offers this service when reviewed; no live table availability, closure guarantee or independent on-site check."
+        }
+      },
+      "content": {
+        "placeId": "coron-baya-resto-lounge",
+        "summary": "BAYA is the restaurant at Two Seasons Coron Bayside Hotel. The published menu highlights four-cheese pizza and steak-topped fried rice, with continental and international cooking overlooking Coron Bay.",
+        "overview": [
+          "BAYA is the restaurant at Two Seasons Coron Bayside Hotel. The published menu highlights four-cheese pizza and steak-topped fried rice, with continental and international cooking overlooking Coron Bay.",
+          "Confirm the current menu and service before travelling. Lakbay has not verified a map pin, meal prices or accessibility for this listing; any itinerary allowance is an estimate."
+        ],
+        "highlights": [
+          {
+            "text": "four-cheese pizza",
+            "sourceUrls": [
+              "https://twoseasonsresorts.com/corontown/dining/"
+            ]
+          },
+          {
+            "text": "steak-topped fried rice",
+            "sourceUrls": [
+              "https://twoseasonsresorts.com/corontown/dining/"
+            ]
+          }
+        ],
+        "tips": [],
+        "sources": [
+          {
+            "name": "BAYA Resto Lounge — venue website",
+            "url": "https://twoseasonsresorts.com/corontown/dining/",
+            "checkedOn": "2026-10-22",
+            "supports": "Exact venue, municipality and the descriptive food or coffee offering stated above; no verification of prices, accessibility or unsupplied coordinates."
+          }
+        ]
+      },
+      "photoResearch": {
+        "sources": [
+          "https://twoseasonsresorts.com/corontown/dining/",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=BAYA+Resto+Lounge+Coron&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=BAYA+Resto+Lounge&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=BAYA+Resto+Lounge+Coron&license=4%2C5%2C9%2C10"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "approved": true,
+      "identityReviewed": true,
+      "operationReviewed": true,
+      "record": {
+        "id": "coron-hunt-funny-lion",
+        "name": "Hunt Restaurant — The Funny Lion Coron",
+        "destination_group": "Palawan",
+        "region": "MIMAROPA",
+        "province": "Palawan",
+        "city_municipality": "Coron",
+        "barangay": null,
+        "address": "The Funny Lion, Sitio Jolo, Poblacion 5",
+        "latitude": null,
+        "longitude": null,
+        "sources": {
+          "identity": {
+            "sourceName": "Hunt Restaurant — The Funny Lion Coron — venue website",
+            "sourceUrl": "https://www.thefunnylion.com/the-funny-lion-coron-compendium",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "municipality": {
+            "sourceName": "Hunt Restaurant — The Funny Lion Coron — venue website",
+            "sourceUrl": "https://www.thefunnylion.com/the-funny-lion-coron-compendium",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "address": {
+            "sourceName": "Hunt Restaurant — The Funny Lion Coron — venue website",
+            "sourceUrl": "https://www.thefunnylion.com/the-funny-lion-coron-compendium",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "coordinates": {
+            "sourceName": null,
+            "sourceUrl": null,
+            "dateChecked": null,
+            "status": "unverified"
+          }
+        },
+        "category": "Food & drink",
+        "description": "Hunt is The Funny Lion Coron’s restaurant, serving continental dishes and Filipino favorites. The hotel also offers packed meals through its kitchen for guests arranging outings; confirm the terms directly.",
+        "interests": [
+          "Food Hunter"
+        ],
+        "itinerary_base_slug": "coron",
+        "catalog_stop_id": "coron-hunt-funny-lion",
+        "status": "accepted",
+        "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+        "reviewed_on": "2026-10-22",
+        "planning": {
+          "base_slug": "coron",
+          "mode": "local",
+          "cluster": "coron-hunt-funny-lion",
+          "minutes": 90,
+          "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+          "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+          "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+          "requiresBooking": false,
+          "scheduling": "candidate",
+          "outdoor": false
+        },
+        "slug": "coron-hunt-funny-lion"
+      },
+      "food": {
+        "placeId": "coron-hunt-funny-lion",
+        "primary": "other-food",
+        "venueType": "restaurant",
+        "suitability": [
+          "meal"
+        ],
+        "specialties": [
+          "Filipino",
+          "continental"
+        ],
+        "source": {
+          "sourceName": "Hunt Restaurant — The Funny Lion Coron — venue website",
+          "sourceUrl": "https://www.thefunnylion.com/the-funny-lion-coron-compendium",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "officialUrl": "https://www.thefunnylion.com/the-funny-lion-coron-compendium",
+        "operation": {
+          "basis": "venue-offering",
+          "source": {
+            "sourceName": "Hunt Restaurant — The Funny Lion Coron — venue website",
+            "sourceUrl": "https://www.thefunnylion.com/the-funny-lion-coron-compendium",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "limitation": "The public venue page offers this service when reviewed; no live table availability, closure guarantee or independent on-site check."
+        }
+      },
+      "content": {
+        "placeId": "coron-hunt-funny-lion",
+        "summary": "Hunt is The Funny Lion Coron’s restaurant, serving continental dishes and Filipino favorites. The hotel also offers packed meals through its kitchen for guests arranging outings; confirm the terms directly.",
+        "overview": [
+          "Hunt is The Funny Lion Coron’s restaurant, serving continental dishes and Filipino favorites. The hotel also offers packed meals through its kitchen for guests arranging outings; confirm the terms directly.",
+          "Confirm the current menu and service before travelling. Lakbay has not verified a map pin, meal prices or accessibility for this listing; any itinerary allowance is an estimate."
+        ],
+        "highlights": [
+          {
+            "text": "Filipino",
+            "sourceUrls": [
+              "https://www.thefunnylion.com/the-funny-lion-coron-compendium"
+            ]
+          },
+          {
+            "text": "continental",
+            "sourceUrls": [
+              "https://www.thefunnylion.com/the-funny-lion-coron-compendium"
+            ]
+          }
+        ],
+        "tips": [],
+        "sources": [
+          {
+            "name": "Hunt Restaurant — The Funny Lion Coron — venue website",
+            "url": "https://www.thefunnylion.com/the-funny-lion-coron-compendium",
+            "checkedOn": "2026-10-22",
+            "supports": "Exact venue, municipality and the descriptive food or coffee offering stated above; no verification of prices, accessibility or unsupplied coordinates."
+          }
+        ]
+      },
+      "photoResearch": {
+        "sources": [
+          "https://www.thefunnylion.com/the-funny-lion-coron-compendium",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Hunt+Restaurant+Coron&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Hunt+Restaurant&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=Hunt+Restaurant+Coron&license=4%2C5%2C9%2C10"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "approved": true,
+      "identityReviewed": true,
+      "operationReviewed": true,
+      "record": {
+        "id": "el-nido-sunmai-nacpan",
+        "name": "Sunmai Beach Bar and Restaurant",
+        "destination_group": "Palawan",
+        "region": "MIMAROPA",
+        "province": "Palawan",
+        "city_municipality": "El Nido",
+        "barangay": null,
+        "address": "Nacpan Beach",
+        "latitude": null,
+        "longitude": null,
+        "sources": {
+          "identity": {
+            "sourceName": "Sunmai Beach Bar and Restaurant — venue website",
+            "sourceUrl": "https://hhospitality.group/dining-lio",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "municipality": {
+            "sourceName": "Sunmai Beach Bar and Restaurant — venue website",
+            "sourceUrl": "https://hhospitality.group/dining-lio",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "address": {
+            "sourceName": "Sunmai Beach Bar and Restaurant — venue website",
+            "sourceUrl": "https://hhospitality.group/dining-lio",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "coordinates": {
+            "sourceName": null,
+            "sourceUrl": null,
+            "dateChecked": null,
+            "status": "unverified"
+          }
+        },
+        "category": "Food & drink",
+        "description": "Sunmai is a named restaurant at Nacpan Beach serving pizza, Korean and Filipino dishes, seafood and cocktails. Its beach setting requires a deliberate journey beyond El Nido town.",
+        "interests": [
+          "Food Hunter"
+        ],
+        "itinerary_base_slug": "el-nido",
+        "catalog_stop_id": "el-nido-sunmai-nacpan",
+        "status": "accepted",
+        "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+        "reviewed_on": "2026-10-22",
+        "planning": {
+          "base_slug": "el-nido",
+          "mode": "local",
+          "cluster": "el-nido-sunmai-nacpan",
+          "minutes": 90,
+          "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+          "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+          "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+          "requiresBooking": false,
+          "scheduling": "manual",
+          "outdoor": false,
+          "openingHours": {
+            "weekdays": [
+              0,
+              1,
+              2,
+              3,
+              4,
+              5,
+              6
+            ],
+            "opens": "07:00",
+            "closes": "22:00",
+            "source": {
+              "sourceName": "Sunmai Beach Bar and Restaurant — venue website",
+              "sourceUrl": "https://hhospitality.group/dining-lio",
+              "dateChecked": "2026-10-22",
+              "status": "verified"
+            }
+          }
+        },
+        "slug": "el-nido-sunmai-nacpan"
+      },
+      "food": {
+        "placeId": "el-nido-sunmai-nacpan",
+        "primary": "other-food",
+        "venueType": "restaurant",
+        "suitability": [
+          "meal"
+        ],
+        "specialties": [
+          "pizza",
+          "Korean",
+          "Filipino",
+          "seafood"
+        ],
+        "source": {
+          "sourceName": "Sunmai Beach Bar and Restaurant — venue website",
+          "sourceUrl": "https://hhospitality.group/dining-lio",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "officialUrl": "https://hhospitality.group/dining-lio",
+        "operation": {
+          "basis": "venue-offering",
+          "source": {
+            "sourceName": "Sunmai Beach Bar and Restaurant — venue website",
+            "sourceUrl": "https://hhospitality.group/dining-lio",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "limitation": "The public venue page offers this service when reviewed; no live table availability, closure guarantee or independent on-site check."
+        }
+      },
+      "content": {
+        "placeId": "el-nido-sunmai-nacpan",
+        "summary": "Sunmai is a named restaurant at Nacpan Beach serving pizza, Korean and Filipino dishes, seafood and cocktails. Its beach setting requires a deliberate journey beyond El Nido town.",
+        "overview": [
+          "Sunmai is a named restaurant at Nacpan Beach serving pizza, Korean and Filipino dishes, seafood and cocktails. Its beach setting requires a deliberate journey beyond El Nido town.",
+          "Confirm the current menu and service before travelling. Lakbay has not verified a map pin, meal prices or accessibility for this listing; any itinerary allowance is an estimate."
+        ],
+        "highlights": [
+          {
+            "text": "pizza",
+            "sourceUrls": [
+              "https://hhospitality.group/dining-lio"
+            ]
+          },
+          {
+            "text": "Korean",
+            "sourceUrls": [
+              "https://hhospitality.group/dining-lio"
+            ]
+          },
+          {
+            "text": "Filipino",
+            "sourceUrls": [
+              "https://hhospitality.group/dining-lio"
+            ]
+          }
+        ],
+        "tips": [],
+        "sources": [
+          {
+            "name": "Sunmai Beach Bar and Restaurant — venue website",
+            "url": "https://hhospitality.group/dining-lio",
+            "checkedOn": "2026-10-22",
+            "supports": "Exact venue, municipality and the descriptive food or coffee offering stated above; no verification of prices, accessibility or unsupplied coordinates."
+          }
+        ]
+      },
+      "photoResearch": {
+        "sources": [
+          "https://hhospitality.group/dining-lio",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Sunmai+Beach+Bar+and+Restaurant+El+Nido&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Sunmai+Beach+Bar+and+Restaurant&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=Sunmai+Beach+Bar+and+Restaurant+El+Nido&license=4%2C5%2C9%2C10"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "approved": true,
+      "identityReviewed": true,
+      "operationReviewed": true,
+      "record": {
+        "id": "el-nido-calima-piece-lio",
+        "name": "CALIMA Restaurant — Piece Lio",
+        "destination_group": "Palawan",
+        "region": "MIMAROPA",
+        "province": "Palawan",
+        "city_municipality": "El Nido",
+        "barangay": null,
+        "address": "Ground floor, Piece Lio, Lio Tourism Estate",
+        "latitude": null,
+        "longitude": null,
+        "sources": {
+          "identity": {
+            "sourceName": "CALIMA Restaurant — Piece Lio — venue website",
+            "sourceUrl": "https://hhospitality.group/dining-lio",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "municipality": {
+            "sourceName": "CALIMA Restaurant — Piece Lio — venue website",
+            "sourceUrl": "https://hhospitality.group/dining-lio",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "address": {
+            "sourceName": "CALIMA Restaurant — Piece Lio — venue website",
+            "sourceUrl": "https://hhospitality.group/dining-lio",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "coordinates": {
+            "sourceName": null,
+            "sourceUrl": null,
+            "dateChecked": null,
+            "status": "unverified"
+          }
+        },
+        "category": "Food & drink",
+        "description": "CALIMA serves Mediterranean-inspired food at Piece Lio, on the Lio Tourism Estate. The hotel group publishes a breakfast window and nightly dinner, with reservations recommended rather than continuous all-day service.",
+        "interests": [
+          "Food Hunter"
+        ],
+        "itinerary_base_slug": "el-nido",
+        "catalog_stop_id": "el-nido-calima-piece-lio",
+        "status": "accepted",
+        "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+        "reviewed_on": "2026-10-22",
+        "planning": {
+          "base_slug": "el-nido",
+          "mode": "local",
+          "cluster": "lio",
+          "minutes": 90,
+          "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+          "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+          "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+          "requiresBooking": false,
+          "scheduling": "manual",
+          "outdoor": false
+        },
+        "slug": "el-nido-calima-piece-lio"
+      },
+      "food": {
+        "placeId": "el-nido-calima-piece-lio",
+        "primary": "other-food",
+        "venueType": "restaurant",
+        "suitability": [
+          "meal"
+        ],
+        "specialties": [
+          "Mediterranean"
+        ],
+        "source": {
+          "sourceName": "CALIMA Restaurant — Piece Lio — venue website",
+          "sourceUrl": "https://hhospitality.group/dining-lio",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "officialUrl": "https://hhospitality.group/dining-lio",
+        "operation": {
+          "basis": "venue-offering",
+          "source": {
+            "sourceName": "CALIMA Restaurant — Piece Lio — venue website",
+            "sourceUrl": "https://hhospitality.group/dining-lio",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "limitation": "The public venue page offers this service when reviewed; no live table availability, closure guarantee or independent on-site check."
+        }
+      },
+      "content": {
+        "placeId": "el-nido-calima-piece-lio",
+        "summary": "CALIMA serves Mediterranean-inspired food at Piece Lio, on the Lio Tourism Estate. The hotel group publishes a breakfast window and nightly dinner, with reservations recommended rather than continuous all-day service.",
+        "overview": [
+          "CALIMA serves Mediterranean-inspired food at Piece Lio, on the Lio Tourism Estate. The hotel group publishes a breakfast window and nightly dinner, with reservations recommended rather than continuous all-day service.",
+          "Separate breakfast and dinner windows are not represented as continuous opening hours. Confirm visitor access and book dinner directly."
+        ],
+        "highlights": [
+          {
+            "text": "Mediterranean",
+            "sourceUrls": [
+              "https://hhospitality.group/dining-lio"
+            ]
+          }
+        ],
+        "tips": [],
+        "sources": [
+          {
+            "name": "CALIMA Restaurant — Piece Lio — venue website",
+            "url": "https://hhospitality.group/dining-lio",
+            "checkedOn": "2026-10-22",
+            "supports": "Exact venue, municipality and the descriptive food or coffee offering stated above; no verification of prices, accessibility or unsupplied coordinates."
+          }
+        ]
+      },
+      "photoResearch": {
+        "sources": [
+          "https://hhospitality.group/dining-lio",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=CALIMA+Restaurant+El+Nido&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=CALIMA+Restaurant&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=CALIMA+Restaurant+El+Nido&license=4%2C5%2C9%2C10"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "approved": true,
+      "identityReviewed": true,
+      "operationReviewed": true,
+      "record": {
+        "id": "el-nido-ocean-view-chinese",
+        "name": "Ocean View Chinese Restaurant — S Resort",
+        "destination_group": "Palawan",
+        "region": "MIMAROPA",
+        "province": "Palawan",
+        "city_municipality": "El Nido",
+        "barangay": null,
+        "address": "Rooftop, S Resort El Nido",
+        "latitude": null,
+        "longitude": null,
+        "sources": {
+          "identity": {
+            "sourceName": "Ocean View Chinese Restaurant — S Resort — venue website",
+            "sourceUrl": "https://hhospitality.group/dining-lio",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "municipality": {
+            "sourceName": "Ocean View Chinese Restaurant — S Resort — venue website",
+            "sourceUrl": "https://hhospitality.group/dining-lio",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "address": {
+            "sourceName": "Ocean View Chinese Restaurant — S Resort — venue website",
+            "sourceUrl": "https://hhospitality.group/dining-lio",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "coordinates": {
+            "sourceName": null,
+            "sourceUrl": null,
+            "dateChecked": null,
+            "status": "unverified"
+          }
+        },
+        "category": "Food & drink",
+        "description": "Ocean View is the Chinese-seafood restaurant on the rooftop of S Resort El Nido. It is a separate dining venue from the coffee businesses on the ground floor of the building.",
+        "interests": [
+          "Food Hunter"
+        ],
+        "itinerary_base_slug": "el-nido",
+        "catalog_stop_id": "el-nido-ocean-view-chinese",
+        "status": "accepted",
+        "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+        "reviewed_on": "2026-10-22",
+        "planning": {
+          "base_slug": "el-nido",
+          "mode": "local",
+          "cluster": "el-nido-ocean-view-chinese",
+          "minutes": 90,
+          "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+          "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+          "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+          "requiresBooking": false,
+          "scheduling": "candidate",
+          "outdoor": false
+        },
+        "slug": "el-nido-ocean-view-chinese"
+      },
+      "food": {
+        "placeId": "el-nido-ocean-view-chinese",
+        "primary": "other-food",
+        "venueType": "restaurant",
+        "suitability": [
+          "meal"
+        ],
+        "specialties": [
+          "Chinese",
+          "seafood"
+        ],
+        "source": {
+          "sourceName": "Ocean View Chinese Restaurant — S Resort — venue website",
+          "sourceUrl": "https://hhospitality.group/dining-lio",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "officialUrl": "https://hhospitality.group/dining-lio",
+        "operation": {
+          "basis": "venue-offering",
+          "source": {
+            "sourceName": "Ocean View Chinese Restaurant — S Resort — venue website",
+            "sourceUrl": "https://hhospitality.group/dining-lio",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "limitation": "The public venue page offers this service when reviewed; no live table availability, closure guarantee or independent on-site check."
+        }
+      },
+      "content": {
+        "placeId": "el-nido-ocean-view-chinese",
+        "summary": "Ocean View is the Chinese-seafood restaurant on the rooftop of S Resort El Nido. It is a separate dining venue from the coffee businesses on the ground floor of the building.",
+        "overview": [
+          "Ocean View is the Chinese-seafood restaurant on the rooftop of S Resort El Nido. It is a separate dining venue from the coffee businesses on the ground floor of the building.",
+          "Confirm the current menu and service before travelling. Lakbay has not verified a map pin, meal prices or accessibility for this listing; any itinerary allowance is an estimate."
+        ],
+        "highlights": [
+          {
+            "text": "Chinese",
+            "sourceUrls": [
+              "https://hhospitality.group/dining-lio"
+            ]
+          },
+          {
+            "text": "seafood",
+            "sourceUrls": [
+              "https://hhospitality.group/dining-lio"
+            ]
+          }
+        ],
+        "tips": [],
+        "sources": [
+          {
+            "name": "Ocean View Chinese Restaurant — S Resort — venue website",
+            "url": "https://hhospitality.group/dining-lio",
+            "checkedOn": "2026-10-22",
+            "supports": "Exact venue, municipality and the descriptive food or coffee offering stated above; no verification of prices, accessibility or unsupplied coordinates."
+          }
+        ]
+      },
+      "photoResearch": {
+        "sources": [
+          "https://hhospitality.group/dining-lio",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Ocean+View+Chinese+Restaurant+El+Nido&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Ocean+View+Chinese+Restaurant&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=Ocean+View+Chinese+Restaurant+El+Nido&license=4%2C5%2C9%2C10"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "approved": true,
+      "identityReviewed": true,
+      "operationReviewed": true,
+      "record": {
+        "id": "puerto-princesa-divines-robinsons",
+        "name": "Divine’s Sweets Bakery & Cafe — Robinsons",
+        "destination_group": "Palawan",
+        "region": "MIMAROPA",
+        "province": "Palawan",
+        "city_municipality": "Puerto Princesa City",
+        "barangay": "San Manuel",
+        "address": "Ground floor, Robinsons Place Palawan",
+        "latitude": null,
+        "longitude": null,
+        "sources": {
+          "identity": {
+            "sourceName": "Puerto Princesa Tourism — March 2026 accredited restaurants",
+            "sourceUrl": "https://www.puertoprincesatourism.com/restaurants",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "municipality": {
+            "sourceName": "Puerto Princesa Tourism — March 2026 accredited restaurants",
+            "sourceUrl": "https://www.puertoprincesatourism.com/restaurants",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "address": {
+            "sourceName": "Puerto Princesa Tourism — March 2026 accredited restaurants",
+            "sourceUrl": "https://www.puertoprincesatourism.com/restaurants",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "coordinates": {
+            "sourceName": null,
+            "sourceUrl": null,
+            "dateChecked": null,
+            "status": "unverified"
+          }
+        },
+        "category": "Food & drink",
+        "description": "This Divine’s Sweets listing is for the bakery and café on the ground floor of Robinsons Place Palawan. Puerto Princesa Tourism identifies the exact branch in its March 2026 compliant-establishment list.",
+        "interests": [
+          "Food Hunter",
+          "Slow Traveler"
+        ],
+        "itinerary_base_slug": "puerto-princesa",
+        "catalog_stop_id": "puerto-princesa-divines-robinsons",
+        "status": "accepted",
+        "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+        "reviewed_on": "2026-10-22",
+        "planning": {
+          "base_slug": "puerto-princesa",
+          "mode": "local",
+          "cluster": "puerto-princesa-divines-robinsons",
+          "minutes": 60,
+          "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+          "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+          "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+          "requiresBooking": false,
+          "scheduling": "candidate",
+          "outdoor": false
+        },
+        "slug": "puerto-princesa-divines-robinsons"
+      },
+      "food": {
+        "placeId": "puerto-princesa-divines-robinsons",
+        "primary": "cafe",
+        "venueType": "bakery",
+        "suitability": [
+          "bakery"
+        ],
+        "specialties": [],
+        "source": {
+          "sourceName": "Puerto Princesa Tourism — March 2026 accredited restaurants",
+          "sourceUrl": "https://www.puertoprincesatourism.com/restaurants",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "officialUrl": "https://www.puertoprincesatourism.com/restaurants",
+        "operation": {
+          "basis": "2026-accreditation",
+          "source": {
+            "sourceName": "Puerto Princesa Tourism — March 2026 accredited restaurants",
+            "sourceUrl": "https://www.puertoprincesatourism.com/restaurants",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "limitation": "Tourism office lists this exact establishment as compliant on 30 March 2026. This is not a live opening or availability check."
+        }
+      },
+      "content": {
+        "placeId": "puerto-princesa-divines-robinsons",
+        "summary": "This Divine’s Sweets listing is for the bakery and café on the ground floor of Robinsons Place Palawan. Puerto Princesa Tourism identifies the exact branch in its March 2026 compliant-establishment list.",
+        "overview": [
+          "This Divine’s Sweets listing is for the bakery and café on the ground floor of Robinsons Place Palawan. Puerto Princesa Tourism identifies the exact branch in its March 2026 compliant-establishment list.",
+          "The named bakery-café identity and exact mall branch are recorded by the tourism office. Coffee service and full-meal suitability have not been established; prices and hours remain unknown."
+        ],
+        "highlights": [],
+        "tips": [],
+        "sources": [
+          {
+            "name": "Puerto Princesa Tourism — March 2026 accredited restaurants",
+            "url": "https://www.puertoprincesatourism.com/restaurants",
+            "checkedOn": "2026-10-22",
+            "supports": "Exact venue, municipality and the descriptive food or coffee offering stated above; no verification of prices, accessibility or unsupplied coordinates."
+          }
+        ]
+      },
+      "photoResearch": {
+        "sources": [
+          "https://www.puertoprincesatourism.com/restaurants",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Divine%E2%80%99s+Sweets+Bakery+%26+Cafe+Puerto+Princesa+City&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Divine%E2%80%99s+Sweets+Bakery+%26+Cafe&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=Divine%E2%80%99s+Sweets+Bakery+%26+Cafe+Puerto+Princesa+City&license=4%2C5%2C9%2C10"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "approved": true,
+      "identityReviewed": true,
+      "operationReviewed": true,
+      "record": {
+        "id": "puerto-princesa-jeju-island-cafe",
+        "name": "Jeju Island Cafe",
+        "destination_group": "Palawan",
+        "region": "MIMAROPA",
+        "province": "Palawan",
+        "city_municipality": "Puerto Princesa City",
+        "barangay": "San Miguel",
+        "address": "Units 4/5, Mercado de San Miguel",
+        "latitude": null,
+        "longitude": null,
+        "sources": {
+          "identity": {
+            "sourceName": "Puerto Princesa Tourism — March 2026 accredited restaurants",
+            "sourceUrl": "https://www.puertoprincesatourism.com/restaurants",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "municipality": {
+            "sourceName": "Puerto Princesa Tourism — March 2026 accredited restaurants",
+            "sourceUrl": "https://www.puertoprincesatourism.com/restaurants",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "address": {
+            "sourceName": "Puerto Princesa Tourism — March 2026 accredited restaurants",
+            "sourceUrl": "https://www.puertoprincesatourism.com/restaurants",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "coordinates": {
+            "sourceName": null,
+            "sourceUrl": null,
+            "dateChecked": null,
+            "status": "unverified"
+          }
+        },
+        "category": "Food & drink",
+        "description": "Jeju Island Cafe is the named café at units 4/5 of Mercado de San Miguel in Puerto Princesa. The March 2026 city tourism accreditation list distinguishes it from other city coffee venues.",
+        "interests": [
+          "Food Hunter",
+          "Slow Traveler"
+        ],
+        "itinerary_base_slug": "puerto-princesa",
+        "catalog_stop_id": "puerto-princesa-jeju-island-cafe",
+        "status": "accepted",
+        "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+        "reviewed_on": "2026-10-22",
+        "planning": {
+          "base_slug": "puerto-princesa",
+          "mode": "local",
+          "cluster": "puerto-princesa-jeju-island-cafe",
+          "minutes": 60,
+          "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+          "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+          "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+          "requiresBooking": false,
+          "scheduling": "candidate",
+          "outdoor": false
+        },
+        "slug": "puerto-princesa-jeju-island-cafe"
+      },
+      "food": {
+        "placeId": "puerto-princesa-jeju-island-cafe",
+        "primary": "cafe",
+        "venueType": "cafe",
+        "suitability": [],
+        "specialties": [],
+        "source": {
+          "sourceName": "Puerto Princesa Tourism — March 2026 accredited restaurants",
+          "sourceUrl": "https://www.puertoprincesatourism.com/restaurants",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "officialUrl": "https://www.puertoprincesatourism.com/restaurants",
+        "operation": {
+          "basis": "2026-accreditation",
+          "source": {
+            "sourceName": "Puerto Princesa Tourism — March 2026 accredited restaurants",
+            "sourceUrl": "https://www.puertoprincesatourism.com/restaurants",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "limitation": "Tourism office lists this exact establishment as compliant on 30 March 2026. This is not a live opening or availability check."
+        }
+      },
+      "content": {
+        "placeId": "puerto-princesa-jeju-island-cafe",
+        "summary": "Jeju Island Cafe is the named café at units 4/5 of Mercado de San Miguel in Puerto Princesa. The March 2026 city tourism accreditation list distinguishes it from other city coffee venues.",
+        "overview": [
+          "Jeju Island Cafe is the named café at units 4/5 of Mercado de San Miguel in Puerto Princesa. The March 2026 city tourism accreditation list distinguishes it from other city coffee venues.",
+          "The city’s accreditation register establishes this named café and its address, but does not supply a menu. Coffee service, full-meal suitability, prices, hours, accessibility and map coordinates remain unverified."
+        ],
+        "highlights": [],
+        "tips": [],
+        "sources": [
+          {
+            "name": "Puerto Princesa Tourism — March 2026 accredited restaurants",
+            "url": "https://www.puertoprincesatourism.com/restaurants",
+            "checkedOn": "2026-10-22",
+            "supports": "Exact venue, municipality and the descriptive food or coffee offering stated above; no verification of prices, accessibility or unsupplied coordinates."
+          }
+        ]
+      },
+      "photoResearch": {
+        "sources": [
+          "https://www.puertoprincesatourism.com/restaurants",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Jeju+Island+Cafe+Puerto+Princesa+City&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Jeju+Island+Cafe&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=Jeju+Island+Cafe+Puerto+Princesa+City&license=4%2C5%2C9%2C10"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "approved": true,
+      "identityReviewed": true,
+      "operationReviewed": true,
+      "record": {
+        "id": "puerto-princesa-kofilab",
+        "name": "Kofilab Cafe",
+        "destination_group": "Palawan",
+        "region": "MIMAROPA",
+        "province": "Palawan",
+        "city_municipality": "Puerto Princesa City",
+        "barangay": "Maligaya",
+        "address": "Unit 3, AUA Commercial Building, Roxas Street",
+        "latitude": null,
+        "longitude": null,
+        "sources": {
+          "identity": {
+            "sourceName": "Puerto Princesa Tourism — March 2026 accredited restaurants",
+            "sourceUrl": "https://www.puertoprincesatourism.com/restaurants",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "municipality": {
+            "sourceName": "Puerto Princesa Tourism — March 2026 accredited restaurants",
+            "sourceUrl": "https://www.puertoprincesatourism.com/restaurants",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "address": {
+            "sourceName": "Puerto Princesa Tourism — March 2026 accredited restaurants",
+            "sourceUrl": "https://www.puertoprincesatourism.com/restaurants",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "coordinates": {
+            "sourceName": null,
+            "sourceUrl": null,
+            "dateChecked": null,
+            "status": "unverified"
+          }
+        },
+        "category": "Food & drink",
+        "description": "Kofilab is a named café in the AUA commercial building on Roxas Street, Maligaya. The exact Puerto Princesa establishment appears in the city’s March 2026 compliant-restaurant list; its menu has not been verified.",
+        "interests": [
+          "Food Hunter",
+          "Slow Traveler"
+        ],
+        "itinerary_base_slug": "puerto-princesa",
+        "catalog_stop_id": "puerto-princesa-kofilab",
+        "status": "accepted",
+        "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+        "reviewed_on": "2026-10-22",
+        "planning": {
+          "base_slug": "puerto-princesa",
+          "mode": "local",
+          "cluster": "puerto-princesa-kofilab",
+          "minutes": 60,
+          "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+          "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+          "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+          "requiresBooking": false,
+          "scheduling": "candidate",
+          "outdoor": false
+        },
+        "slug": "puerto-princesa-kofilab"
+      },
+      "food": {
+        "placeId": "puerto-princesa-kofilab",
+        "primary": "cafe",
+        "venueType": "cafe",
+        "suitability": [],
+        "specialties": [],
+        "source": {
+          "sourceName": "Puerto Princesa Tourism — March 2026 accredited restaurants",
+          "sourceUrl": "https://www.puertoprincesatourism.com/restaurants",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "officialUrl": "https://www.puertoprincesatourism.com/restaurants",
+        "operation": {
+          "basis": "2026-accreditation",
+          "source": {
+            "sourceName": "Puerto Princesa Tourism — March 2026 accredited restaurants",
+            "sourceUrl": "https://www.puertoprincesatourism.com/restaurants",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "limitation": "Tourism office lists this exact establishment as compliant on 30 March 2026. This is not a live opening or availability check."
+        }
+      },
+      "content": {
+        "placeId": "puerto-princesa-kofilab",
+        "summary": "Kofilab is a named café in the AUA commercial building on Roxas Street, Maligaya. The exact Puerto Princesa establishment appears in the city’s March 2026 compliant-restaurant list; its menu has not been verified.",
+        "overview": [
+          "Kofilab is a named café in the AUA commercial building on Roxas Street, Maligaya. The exact Puerto Princesa establishment appears in the city’s March 2026 compliant-restaurant list; its menu has not been verified.",
+          "The city’s accreditation register establishes this named café and its address, but does not supply a menu. Coffee service, full-meal suitability, prices, hours, accessibility and map coordinates remain unverified."
+        ],
+        "highlights": [],
+        "tips": [],
+        "sources": [
+          {
+            "name": "Puerto Princesa Tourism — March 2026 accredited restaurants",
+            "url": "https://www.puertoprincesatourism.com/restaurants",
+            "checkedOn": "2026-10-22",
+            "supports": "Exact venue, municipality and the descriptive food or coffee offering stated above; no verification of prices, accessibility or unsupplied coordinates."
+          }
+        ]
+      },
+      "photoResearch": {
+        "sources": [
+          "https://www.puertoprincesatourism.com/restaurants",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Kofilab+Cafe+Puerto+Princesa+City&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Kofilab+Cafe&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=Kofilab+Cafe+Puerto+Princesa+City&license=4%2C5%2C9%2C10"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "approved": true,
+      "identityReviewed": true,
+      "operationReviewed": true,
+      "record": {
+        "id": "cebu-good-cup-ramos",
+        "name": "Good Cup Café — F. Ramos",
+        "destination_group": "Cebu",
+        "region": "Central Visayas",
+        "province": "Cebu",
+        "city_municipality": "Cebu City",
+        "barangay": null,
+        "address": "F. Ramos Street",
+        "latitude": null,
+        "longitude": null,
+        "sources": {
+          "identity": {
+            "sourceName": "Good Cup Café — F. Ramos — venue website",
+            "sourceUrl": "https://goodcup.ph/pages/cafe",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "municipality": {
+            "sourceName": "Good Cup Café — F. Ramos — venue website",
+            "sourceUrl": "https://goodcup.ph/pages/cafe",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "address": {
+            "sourceName": "Good Cup Café — F. Ramos — venue website",
+            "sourceUrl": "https://goodcup.ph/pages/cafe",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "coordinates": {
+            "sourceName": null,
+            "sourceUrl": null,
+            "dateChecked": null,
+            "status": "unverified"
+          }
+        },
+        "category": "Food & drink",
+        "description": "Good Cup’s F. Ramos café serves coffee, matcha and pastries, with bottled Cold White also offered. This is the Cebu City café, distinct from an announced Makati opening.",
+        "interests": [
+          "Food Hunter",
+          "Slow Traveler"
+        ],
+        "itinerary_base_slug": "cebu",
+        "catalog_stop_id": "cebu-good-cup-ramos",
+        "status": "accepted",
+        "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+        "reviewed_on": "2026-10-22",
+        "planning": {
+          "base_slug": "cebu",
+          "mode": "local",
+          "cluster": "cebu-good-cup-ramos",
+          "minutes": 60,
+          "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+          "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+          "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+          "requiresBooking": false,
+          "scheduling": "candidate",
+          "outdoor": false,
+          "openingHours": {
+            "weekdays": [
+              0,
+              1,
+              2,
+              3,
+              4,
+              5,
+              6
+            ],
+            "opens": "08:00",
+            "closes": "18:00",
+            "source": {
+              "sourceName": "Good Cup Café — F. Ramos — venue website",
+              "sourceUrl": "https://goodcup.ph/pages/cafe",
+              "dateChecked": "2026-10-22",
+              "status": "verified"
+            }
+          }
+        },
+        "slug": "cebu-good-cup-ramos"
+      },
+      "food": {
+        "placeId": "cebu-good-cup-ramos",
+        "primary": "cafe",
+        "venueType": "cafe",
+        "suitability": [
+          "coffee",
+          "bakery"
+        ],
+        "specialties": [
+          "coffee",
+          "matcha",
+          "pastries"
+        ],
+        "source": {
+          "sourceName": "Good Cup Café — F. Ramos — venue website",
+          "sourceUrl": "https://goodcup.ph/pages/cafe",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "officialUrl": "https://goodcup.ph/pages/cafe",
+        "operation": {
+          "basis": "venue-offering",
+          "source": {
+            "sourceName": "Good Cup Café — F. Ramos — venue website",
+            "sourceUrl": "https://goodcup.ph/pages/cafe",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "limitation": "The public venue page offers this service when reviewed; no live table availability, closure guarantee or independent on-site check."
+        }
+      },
+      "content": {
+        "placeId": "cebu-good-cup-ramos",
+        "summary": "Good Cup’s F. Ramos café serves coffee, matcha and pastries, with bottled Cold White also offered. This is the Cebu City café, distinct from an announced Makati opening.",
+        "overview": [
+          "Good Cup’s F. Ramos café serves coffee, matcha and pastries, with bottled Cold White also offered. This is the Cebu City café, distinct from an announced Makati opening.",
+          "Confirm the current menu and service before travelling. Lakbay has not verified a map pin, meal prices or accessibility for this listing; any itinerary allowance is an estimate."
+        ],
+        "highlights": [
+          {
+            "text": "coffee",
+            "sourceUrls": [
+              "https://goodcup.ph/pages/cafe"
+            ]
+          },
+          {
+            "text": "matcha",
+            "sourceUrls": [
+              "https://goodcup.ph/pages/cafe"
+            ]
+          },
+          {
+            "text": "pastries",
+            "sourceUrls": [
+              "https://goodcup.ph/pages/cafe"
+            ]
+          }
+        ],
+        "tips": [],
+        "sources": [
+          {
+            "name": "Good Cup Café — F. Ramos — venue website",
+            "url": "https://goodcup.ph/pages/cafe",
+            "checkedOn": "2026-10-22",
+            "supports": "Exact venue, municipality and the descriptive food or coffee offering stated above; no verification of prices, accessibility or unsupplied coordinates."
+          }
+        ]
+      },
+      "photoResearch": {
+        "sources": [
+          "https://goodcup.ph/pages/cafe",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Good+Cup+Caf%C3%A9+Cebu+City&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Good+Cup+Caf%C3%A9&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=Good+Cup+Caf%C3%A9+Cebu+City&license=4%2C5%2C9%2C10",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=%22Good+Cup%22+%22Cebu%22&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "approved": true,
+      "identityReviewed": true,
+      "operationReviewed": true,
+      "record": {
+        "id": "cebu-house-of-lechon-acacia",
+        "name": "House of Lechon — Acacia",
+        "destination_group": "Cebu",
+        "region": "Central Visayas",
+        "province": "Cebu",
+        "city_municipality": "Cebu City",
+        "barangay": null,
+        "address": "Acacia and Tojong Street",
+        "latitude": null,
+        "longitude": null,
+        "sources": {
+          "identity": {
+            "sourceName": "MICHELIN Guide — House of Lechon",
+            "sourceUrl": "https://guide.michelin.com/us/en/central-visayas/cebu-city_2340421/restaurant/house-of-lechon",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "municipality": {
+            "sourceName": "MICHELIN Guide — House of Lechon",
+            "sourceUrl": "https://guide.michelin.com/us/en/central-visayas/cebu-city_2340421/restaurant/house-of-lechon",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "address": {
+            "sourceName": "MICHELIN Guide — House of Lechon",
+            "sourceUrl": "https://guide.michelin.com/us/en/central-visayas/cebu-city_2340421/restaurant/house-of-lechon",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "coordinates": {
+            "sourceName": null,
+            "sourceUrl": null,
+            "dateChecked": null,
+            "status": "unverified"
+          }
+        },
+        "category": "Food & drink",
+        "description": "House of Lechon serves Cebu roast pork in different portion sizes alongside Filipino dishes. This listing identifies the Acacia and Tojong Street restaurant, with indoor and outdoor dining described by the current guide.",
+        "interests": [
+          "Food Hunter"
+        ],
+        "itinerary_base_slug": "cebu",
+        "catalog_stop_id": "cebu-house-of-lechon-acacia",
+        "status": "accepted",
+        "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+        "reviewed_on": "2026-10-22",
+        "planning": {
+          "base_slug": "cebu",
+          "mode": "local",
+          "cluster": "cebu-house-of-lechon-acacia",
+          "minutes": 90,
+          "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+          "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+          "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+          "requiresBooking": false,
+          "scheduling": "candidate",
+          "outdoor": false,
+          "openingHours": {
+            "weekdays": [
+              0,
+              1,
+              2,
+              3,
+              4,
+              5,
+              6
+            ],
+            "opens": "10:00",
+            "closes": "21:00",
+            "source": {
+              "sourceName": "MICHELIN Guide — House of Lechon",
+              "sourceUrl": "https://guide.michelin.com/us/en/central-visayas/cebu-city_2340421/restaurant/house-of-lechon",
+              "dateChecked": "2026-10-22",
+              "status": "verified"
+            }
+          }
+        },
+        "slug": "cebu-house-of-lechon-acacia"
+      },
+      "food": {
+        "placeId": "cebu-house-of-lechon-acacia",
+        "primary": "other-food",
+        "venueType": "restaurant",
+        "suitability": [
+          "meal"
+        ],
+        "specialties": [
+          "Filipino",
+          "lechon"
+        ],
+        "source": {
+          "sourceName": "MICHELIN Guide — House of Lechon",
+          "sourceUrl": "https://guide.michelin.com/us/en/central-visayas/cebu-city_2340421/restaurant/house-of-lechon",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "officialUrl": null,
+        "operation": {
+          "basis": "current-guide",
+          "source": {
+            "sourceName": "MICHELIN Guide — House of Lechon",
+            "sourceUrl": "https://guide.michelin.com/us/en/central-visayas/cebu-city_2340421/restaurant/house-of-lechon",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "limitation": "The current restaurant guide lists this exact venue. This is evidence of a current listing, not a live opening, menu or reservation guarantee."
+        }
+      },
+      "content": {
+        "placeId": "cebu-house-of-lechon-acacia",
+        "summary": "House of Lechon serves Cebu roast pork in different portion sizes alongside Filipino dishes. This listing identifies the Acacia and Tojong Street restaurant, with indoor and outdoor dining described by the current guide.",
+        "overview": [
+          "House of Lechon serves Cebu roast pork in different portion sizes alongside Filipino dishes. This listing identifies the Acacia and Tojong Street restaurant, with indoor and outdoor dining described by the current guide.",
+          "Confirm the current menu and service before travelling. Lakbay has not verified a map pin, meal prices or accessibility for this listing; any itinerary allowance is an estimate."
+        ],
+        "highlights": [
+          {
+            "text": "Filipino",
+            "sourceUrls": [
+              "https://guide.michelin.com/us/en/central-visayas/cebu-city_2340421/restaurant/house-of-lechon"
+            ]
+          },
+          {
+            "text": "lechon",
+            "sourceUrls": [
+              "https://guide.michelin.com/us/en/central-visayas/cebu-city_2340421/restaurant/house-of-lechon"
+            ]
+          }
+        ],
+        "tips": [],
+        "sources": [
+          {
+            "name": "MICHELIN Guide — House of Lechon",
+            "url": "https://guide.michelin.com/us/en/central-visayas/cebu-city_2340421/restaurant/house-of-lechon",
+            "checkedOn": "2026-10-22",
+            "supports": "Exact venue, municipality and the descriptive food or coffee offering stated above; no verification of prices, accessibility or unsupplied coordinates."
+          }
+        ]
+      },
+      "photoResearch": {
+        "sources": [
+          "https://guide.michelin.com/us/en/central-visayas/cebu-city_2340421/restaurant/house-of-lechon",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=House+of+Lechon+Cebu+City&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=House+of+Lechon&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=House+of+Lechon+Cebu+City&license=4%2C5%2C9%2C10"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "approved": true,
+      "identityReviewed": true,
+      "operationReviewed": true,
+      "record": {
+        "id": "cebu-cafe-laguna-ayala",
+        "name": "Café Laguna — Ayala Center Cebu",
+        "destination_group": "Cebu",
+        "region": "Central Visayas",
+        "province": "Cebu",
+        "city_municipality": "Cebu City",
+        "barangay": null,
+        "address": "Level 1, South Entrance, Ayala Center Cebu",
+        "latitude": null,
+        "longitude": null,
+        "sources": {
+          "identity": {
+            "sourceName": "Café Laguna — Ayala Center Cebu — venue website",
+            "sourceUrl": "https://lagunagroup.ph/cafe-laguna/",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "municipality": {
+            "sourceName": "Café Laguna — Ayala Center Cebu — venue website",
+            "sourceUrl": "https://lagunagroup.ph/cafe-laguna/",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "address": {
+            "sourceName": "Café Laguna — Ayala Center Cebu — venue website",
+            "sourceUrl": "https://lagunagroup.ph/cafe-laguna/",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "coordinates": {
+            "sourceName": null,
+            "sourceUrl": null,
+            "dateChecked": null,
+            "status": "unverified"
+          }
+        },
+        "category": "Food & drink",
+        "description": "Café Laguna’s Ayala Center Cebu restaurant is listed at the first-level South Entrance near The Alcoves. It is counted as a dining venue; its brand name alone does not qualify it as a coffee stop.",
+        "interests": [
+          "Food Hunter"
+        ],
+        "itinerary_base_slug": "cebu",
+        "catalog_stop_id": "cebu-cafe-laguna-ayala",
+        "status": "accepted",
+        "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+        "reviewed_on": "2026-10-22",
+        "planning": {
+          "base_slug": "cebu",
+          "mode": "local",
+          "cluster": "cebu-ayala",
+          "minutes": 90,
+          "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+          "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+          "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+          "requiresBooking": false,
+          "scheduling": "candidate",
+          "outdoor": false
+        },
+        "slug": "cebu-cafe-laguna-ayala"
+      },
+      "food": {
+        "placeId": "cebu-cafe-laguna-ayala",
+        "primary": "other-food",
+        "venueType": "restaurant",
+        "suitability": [
+          "meal"
+        ],
+        "specialties": [],
+        "source": {
+          "sourceName": "Café Laguna — Ayala Center Cebu — venue website",
+          "sourceUrl": "https://lagunagroup.ph/cafe-laguna/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "officialUrl": "https://lagunagroup.ph/cafe-laguna/",
+        "operation": {
+          "basis": "venue-offering",
+          "source": {
+            "sourceName": "Café Laguna — Ayala Center Cebu — venue website",
+            "sourceUrl": "https://lagunagroup.ph/cafe-laguna/",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "limitation": "The public venue page offers this service when reviewed; no live table availability, closure guarantee or independent on-site check."
+        }
+      },
+      "content": {
+        "placeId": "cebu-cafe-laguna-ayala",
+        "summary": "Café Laguna’s Ayala Center Cebu restaurant is listed at the first-level South Entrance near The Alcoves. It is counted as a dining venue; its brand name alone does not qualify it as a coffee stop.",
+        "overview": [
+          "Café Laguna’s Ayala Center Cebu restaurant is listed at the first-level South Entrance near The Alcoves. It is counted as a dining venue; its brand name alone does not qualify it as a coffee stop.",
+          "Confirm the current menu and service before travelling. Lakbay has not verified a map pin, meal prices or accessibility for this listing; any itinerary allowance is an estimate."
+        ],
+        "highlights": [],
+        "tips": [],
+        "sources": [
+          {
+            "name": "Café Laguna — Ayala Center Cebu — venue website",
+            "url": "https://lagunagroup.ph/cafe-laguna/",
+            "checkedOn": "2026-10-22",
+            "supports": "Exact venue, municipality and the descriptive food or coffee offering stated above; no verification of prices, accessibility or unsupplied coordinates."
+          }
+        ]
+      },
+      "photoResearch": {
+        "sources": [
+          "https://lagunagroup.ph/cafe-laguna/",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Caf%C3%A9+Laguna+Cebu+City&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Caf%C3%A9+Laguna&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=Caf%C3%A9+Laguna+Cebu+City&license=4%2C5%2C9%2C10",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=%22Cafe+Laguna%22+%22Ayala%22&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640"
+        ],
+        "outcome": "Individual license, identity and visual review approved; published separately through the optimized image pipeline.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "approved": true,
+      "identityReviewed": true,
+      "operationReviewed": true,
+      "record": {
+        "id": "cebu-parilya-il-corso",
+        "name": "Parilya — Il Corso",
+        "destination_group": "Cebu",
+        "region": "Central Visayas",
+        "province": "Cebu",
+        "city_municipality": "Cebu City",
+        "barangay": null,
+        "address": "Il Corso, City de Mare, Cebu SRP",
+        "latitude": null,
+        "longitude": null,
+        "sources": {
+          "identity": {
+            "sourceName": "Parilya — Il Corso — venue website",
+            "sourceUrl": "https://lagunagroup.ph/parilya/",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "municipality": {
+            "sourceName": "Parilya — Il Corso — venue website",
+            "sourceUrl": "https://lagunagroup.ph/parilya/",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "address": {
+            "sourceName": "Parilya — Il Corso — venue website",
+            "sourceUrl": "https://lagunagroup.ph/parilya/",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "coordinates": {
+            "sourceName": null,
+            "sourceUrl": null,
+            "dateChecked": null,
+            "status": "unverified"
+          }
+        },
+        "category": "Food & drink",
+        "description": "Parilya is the Laguna Group restaurant at Il Corso, City de Mare on Cebu’s South Road Properties. The operator publishes a dining menu and a daily service window for this waterfront branch.",
+        "interests": [
+          "Food Hunter"
+        ],
+        "itinerary_base_slug": "cebu",
+        "catalog_stop_id": "cebu-parilya-il-corso",
+        "status": "accepted",
+        "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+        "reviewed_on": "2026-10-22",
+        "planning": {
+          "base_slug": "cebu",
+          "mode": "local",
+          "cluster": "cebu-parilya-il-corso",
+          "minutes": 90,
+          "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+          "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+          "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+          "requiresBooking": false,
+          "scheduling": "candidate",
+          "outdoor": false,
+          "openingHours": {
+            "weekdays": [
+              0,
+              1,
+              2,
+              3,
+              4,
+              5,
+              6
+            ],
+            "opens": "11:00",
+            "closes": "21:00",
+            "source": {
+              "sourceName": "Parilya — Il Corso — venue website",
+              "sourceUrl": "https://lagunagroup.ph/parilya/",
+              "dateChecked": "2026-10-22",
+              "status": "verified"
+            }
+          }
+        },
+        "slug": "cebu-parilya-il-corso"
+      },
+      "food": {
+        "placeId": "cebu-parilya-il-corso",
+        "primary": "other-food",
+        "venueType": "restaurant",
+        "suitability": [
+          "meal"
+        ],
+        "specialties": [],
+        "source": {
+          "sourceName": "Parilya — Il Corso — venue website",
+          "sourceUrl": "https://lagunagroup.ph/parilya/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "officialUrl": "https://lagunagroup.ph/parilya/",
+        "operation": {
+          "basis": "venue-offering",
+          "source": {
+            "sourceName": "Parilya — Il Corso — venue website",
+            "sourceUrl": "https://lagunagroup.ph/parilya/",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "limitation": "The public venue page offers this service when reviewed; no live table availability, closure guarantee or independent on-site check."
+        }
+      },
+      "content": {
+        "placeId": "cebu-parilya-il-corso",
+        "summary": "Parilya is the Laguna Group restaurant at Il Corso, City de Mare on Cebu’s South Road Properties. The operator publishes a dining menu and a daily service window for this waterfront branch.",
+        "overview": [
+          "Parilya is the Laguna Group restaurant at Il Corso, City de Mare on Cebu’s South Road Properties. The operator publishes a dining menu and a daily service window for this waterfront branch.",
+          "Confirm the current menu and service before travelling. Lakbay has not verified a map pin, meal prices or accessibility for this listing; any itinerary allowance is an estimate."
+        ],
+        "highlights": [],
+        "tips": [],
+        "sources": [
+          {
+            "name": "Parilya — Il Corso — venue website",
+            "url": "https://lagunagroup.ph/parilya/",
+            "checkedOn": "2026-10-22",
+            "supports": "Exact venue, municipality and the descriptive food or coffee offering stated above; no verification of prices, accessibility or unsupplied coordinates."
+          }
+        ]
+      },
+      "photoResearch": {
+        "sources": [
+          "https://lagunagroup.ph/parilya/",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Parilya+Cebu+City&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Parilya&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=Parilya+Cebu+City&license=4%2C5%2C9%2C10"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "approved": true,
+      "identityReviewed": true,
+      "operationReviewed": true,
+      "record": {
+        "id": "cebu-lemon-grass-ayala",
+        "name": "Lemon Grass — Ayala Center Cebu",
+        "destination_group": "Cebu",
+        "region": "Central Visayas",
+        "province": "Cebu",
+        "city_municipality": "Cebu City",
+        "barangay": null,
+        "address": "Level 1, The Terraces, Ayala Center Cebu",
+        "latitude": null,
+        "longitude": null,
+        "sources": {
+          "identity": {
+            "sourceName": "Lemon Grass — Ayala Center Cebu — venue website",
+            "sourceUrl": "https://lagunagroup.ph/lemon-grass/",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "municipality": {
+            "sourceName": "Lemon Grass — Ayala Center Cebu — venue website",
+            "sourceUrl": "https://lagunagroup.ph/lemon-grass/",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "address": {
+            "sourceName": "Lemon Grass — Ayala Center Cebu — venue website",
+            "sourceUrl": "https://lagunagroup.ph/lemon-grass/",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "coordinates": {
+            "sourceName": null,
+            "sourceUrl": null,
+            "dateChecked": null,
+            "status": "unverified"
+          }
+        },
+        "category": "Food & drink",
+        "description": "Lemon Grass serves Thai and Vietnamese dishes at The Terraces in Ayala Center Cebu. Its published specialties include pad thai, beef pho and pandan-wrapped chicken, making it a dining stop rather than a café.",
+        "interests": [
+          "Food Hunter"
+        ],
+        "itinerary_base_slug": "cebu",
+        "catalog_stop_id": "cebu-lemon-grass-ayala",
+        "status": "accepted",
+        "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+        "reviewed_on": "2026-10-22",
+        "planning": {
+          "base_slug": "cebu",
+          "mode": "local",
+          "cluster": "cebu-ayala",
+          "minutes": 90,
+          "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+          "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+          "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+          "requiresBooking": false,
+          "scheduling": "candidate",
+          "outdoor": false
+        },
+        "slug": "cebu-lemon-grass-ayala"
+      },
+      "food": {
+        "placeId": "cebu-lemon-grass-ayala",
+        "primary": "other-food",
+        "venueType": "restaurant",
+        "suitability": [
+          "meal"
+        ],
+        "specialties": [
+          "Thai",
+          "Vietnamese",
+          "pad thai",
+          "pho"
+        ],
+        "source": {
+          "sourceName": "Lemon Grass — Ayala Center Cebu — venue website",
+          "sourceUrl": "https://lagunagroup.ph/lemon-grass/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "officialUrl": "https://lagunagroup.ph/lemon-grass/",
+        "operation": {
+          "basis": "venue-offering",
+          "source": {
+            "sourceName": "Lemon Grass — Ayala Center Cebu — venue website",
+            "sourceUrl": "https://lagunagroup.ph/lemon-grass/",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "limitation": "The public venue page offers this service when reviewed; no live table availability, closure guarantee or independent on-site check."
+        }
+      },
+      "content": {
+        "placeId": "cebu-lemon-grass-ayala",
+        "summary": "Lemon Grass serves Thai and Vietnamese dishes at The Terraces in Ayala Center Cebu. Its published specialties include pad thai, beef pho and pandan-wrapped chicken, making it a dining stop rather than a café.",
+        "overview": [
+          "Lemon Grass serves Thai and Vietnamese dishes at The Terraces in Ayala Center Cebu. Its published specialties include pad thai, beef pho and pandan-wrapped chicken, making it a dining stop rather than a café.",
+          "Confirm the current menu and service before travelling. Lakbay has not verified a map pin, meal prices or accessibility for this listing; any itinerary allowance is an estimate."
+        ],
+        "highlights": [
+          {
+            "text": "Thai",
+            "sourceUrls": [
+              "https://lagunagroup.ph/lemon-grass/"
+            ]
+          },
+          {
+            "text": "Vietnamese",
+            "sourceUrls": [
+              "https://lagunagroup.ph/lemon-grass/"
+            ]
+          },
+          {
+            "text": "pad thai",
+            "sourceUrls": [
+              "https://lagunagroup.ph/lemon-grass/"
+            ]
+          }
+        ],
+        "tips": [],
+        "sources": [
+          {
+            "name": "Lemon Grass — Ayala Center Cebu — venue website",
+            "url": "https://lagunagroup.ph/lemon-grass/",
+            "checkedOn": "2026-10-22",
+            "supports": "Exact venue, municipality and the descriptive food or coffee offering stated above; no verification of prices, accessibility or unsupplied coordinates."
+          }
+        ]
+      },
+      "photoResearch": {
+        "sources": [
+          "https://lagunagroup.ph/lemon-grass/",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Lemon+Grass+Cebu+City&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Lemon+Grass&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=Lemon+Grass+Cebu+City&license=4%2C5%2C9%2C10"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "approved": true,
+      "identityReviewed": true,
+      "operationReviewed": true,
+      "record": {
+        "id": "cebu-ullis-ayala",
+        "name": "Ulli’s Streets of Asia — Ayala",
+        "destination_group": "Cebu",
+        "region": "Central Visayas",
+        "province": "Cebu",
+        "city_municipality": "Cebu City",
+        "barangay": null,
+        "address": "Level 1, The Alcoves, Ayala Center Cebu",
+        "latitude": null,
+        "longitude": null,
+        "sources": {
+          "identity": {
+            "sourceName": "Ulli’s Streets of Asia — Ayala — venue website",
+            "sourceUrl": "https://lagunagroup.ph/ullis-streets-of-asia/",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "municipality": {
+            "sourceName": "Ulli’s Streets of Asia — Ayala — venue website",
+            "sourceUrl": "https://lagunagroup.ph/ullis-streets-of-asia/",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "address": {
+            "sourceName": "Ulli’s Streets of Asia — Ayala — venue website",
+            "sourceUrl": "https://lagunagroup.ph/ullis-streets-of-asia/",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "coordinates": {
+            "sourceName": null,
+            "sourceUrl": null,
+            "dateChecked": null,
+            "status": "unverified"
+          }
+        },
+        "category": "Food & drink",
+        "description": "Ulli’s brings Asian hawker-style dishes to a sit-down restaurant at Ayala Center Cebu. The operator highlights bibimbap, laksa and chilled taho; this named restaurant is not an entire food market.",
+        "interests": [
+          "Food Hunter"
+        ],
+        "itinerary_base_slug": "cebu",
+        "catalog_stop_id": "cebu-ullis-ayala",
+        "status": "accepted",
+        "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+        "reviewed_on": "2026-10-22",
+        "planning": {
+          "base_slug": "cebu",
+          "mode": "local",
+          "cluster": "cebu-ayala",
+          "minutes": 90,
+          "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+          "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+          "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+          "requiresBooking": false,
+          "scheduling": "candidate",
+          "outdoor": false,
+          "openingHours": {
+            "weekdays": [
+              0,
+              1,
+              2,
+              3,
+              4,
+              5,
+              6
+            ],
+            "opens": "10:00",
+            "closes": "21:00",
+            "source": {
+              "sourceName": "Ulli’s Streets of Asia — Ayala — venue website",
+              "sourceUrl": "https://lagunagroup.ph/ullis-streets-of-asia/",
+              "dateChecked": "2026-10-22",
+              "status": "verified"
+            }
+          }
+        },
+        "slug": "cebu-ullis-ayala"
+      },
+      "food": {
+        "placeId": "cebu-ullis-ayala",
+        "primary": "other-food",
+        "venueType": "restaurant",
+        "suitability": [
+          "meal"
+        ],
+        "specialties": [
+          "bibimbap",
+          "laksa",
+          "taho"
+        ],
+        "source": {
+          "sourceName": "Ulli’s Streets of Asia — Ayala — venue website",
+          "sourceUrl": "https://lagunagroup.ph/ullis-streets-of-asia/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "officialUrl": "https://lagunagroup.ph/ullis-streets-of-asia/",
+        "operation": {
+          "basis": "venue-offering",
+          "source": {
+            "sourceName": "Ulli’s Streets of Asia — Ayala — venue website",
+            "sourceUrl": "https://lagunagroup.ph/ullis-streets-of-asia/",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "limitation": "The public venue page offers this service when reviewed; no live table availability, closure guarantee or independent on-site check."
+        }
+      },
+      "content": {
+        "placeId": "cebu-ullis-ayala",
+        "summary": "Ulli’s brings Asian hawker-style dishes to a sit-down restaurant at Ayala Center Cebu. The operator highlights bibimbap, laksa and chilled taho; this named restaurant is not an entire food market.",
+        "overview": [
+          "Ulli’s brings Asian hawker-style dishes to a sit-down restaurant at Ayala Center Cebu. The operator highlights bibimbap, laksa and chilled taho; this named restaurant is not an entire food market.",
+          "Confirm the current menu and service before travelling. Lakbay has not verified a map pin, meal prices or accessibility for this listing; any itinerary allowance is an estimate."
+        ],
+        "highlights": [
+          {
+            "text": "bibimbap",
+            "sourceUrls": [
+              "https://lagunagroup.ph/ullis-streets-of-asia/"
+            ]
+          },
+          {
+            "text": "laksa",
+            "sourceUrls": [
+              "https://lagunagroup.ph/ullis-streets-of-asia/"
+            ]
+          },
+          {
+            "text": "taho",
+            "sourceUrls": [
+              "https://lagunagroup.ph/ullis-streets-of-asia/"
+            ]
+          }
+        ],
+        "tips": [],
+        "sources": [
+          {
+            "name": "Ulli’s Streets of Asia — Ayala — venue website",
+            "url": "https://lagunagroup.ph/ullis-streets-of-asia/",
+            "checkedOn": "2026-10-22",
+            "supports": "Exact venue, municipality and the descriptive food or coffee offering stated above; no verification of prices, accessibility or unsupplied coordinates."
+          }
+        ]
+      },
+      "photoResearch": {
+        "sources": [
+          "https://lagunagroup.ph/ullis-streets-of-asia/",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Ulli%E2%80%99s+Streets+of+Asia+Cebu+City&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Ulli%E2%80%99s+Streets+of+Asia&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=Ulli%E2%80%99s+Streets+of+Asia+Cebu+City&license=4%2C5%2C9%2C10"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "approved": true,
+      "identityReviewed": true,
+      "operationReviewed": true,
+      "record": {
+        "id": "cebu-u-kitchen-lahug",
+        "name": "U Kitchen — Lahug",
+        "destination_group": "Cebu",
+        "region": "Central Visayas",
+        "province": "Cebu",
+        "city_municipality": "Cebu City",
+        "barangay": null,
+        "address": "Laguna Culinary Center, Torralba corner Veterans Drive, Lahug",
+        "latitude": null,
+        "longitude": null,
+        "sources": {
+          "identity": {
+            "sourceName": "U Kitchen — Lahug — venue website",
+            "sourceUrl": "https://lagunagroup.ph/u-kitchen/",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "municipality": {
+            "sourceName": "U Kitchen — Lahug — venue website",
+            "sourceUrl": "https://lagunagroup.ph/u-kitchen/",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "address": {
+            "sourceName": "U Kitchen — Lahug — venue website",
+            "sourceUrl": "https://lagunagroup.ph/u-kitchen/",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "coordinates": {
+            "sourceName": null,
+            "sourceUrl": null,
+            "dateChecked": null,
+            "status": "unverified"
+          }
+        },
+        "category": "Food & drink",
+        "description": "U Kitchen is a private-function dining venue at the Laguna Culinary Center in Lahug. Its kitchen uses a wood-fired oven; the operator describes group events rather than an ordinary drop-in restaurant.",
+        "interests": [
+          "Food Hunter"
+        ],
+        "itinerary_base_slug": "cebu",
+        "catalog_stop_id": "cebu-u-kitchen-lahug",
+        "status": "accepted",
+        "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+        "reviewed_on": "2026-10-22",
+        "planning": {
+          "base_slug": "cebu",
+          "mode": "local",
+          "cluster": "cebu-u-kitchen-lahug",
+          "minutes": 90,
+          "booking": "Private-function venue; arrange group access, menu and booking directly. Excluded from automatic itinerary generation.",
+          "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+          "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+          "requiresBooking": true,
+          "scheduling": "manual",
+          "outdoor": false
+        },
+        "slug": "cebu-u-kitchen-lahug"
+      },
+      "food": {
+        "placeId": "cebu-u-kitchen-lahug",
+        "primary": "other-food",
+        "venueType": "restaurant",
+        "suitability": [
+          "meal"
+        ],
+        "specialties": [
+          "private dining",
+          "wood-fired cooking"
+        ],
+        "source": {
+          "sourceName": "U Kitchen — Lahug — venue website",
+          "sourceUrl": "https://lagunagroup.ph/u-kitchen/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "officialUrl": "https://lagunagroup.ph/u-kitchen/",
+        "operation": {
+          "basis": "venue-offering",
+          "source": {
+            "sourceName": "U Kitchen — Lahug — venue website",
+            "sourceUrl": "https://lagunagroup.ph/u-kitchen/",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "limitation": "The public venue page offers this service when reviewed; no live table availability, closure guarantee or independent on-site check."
+        }
+      },
+      "content": {
+        "placeId": "cebu-u-kitchen-lahug",
+        "summary": "U Kitchen is a private-function dining venue at the Laguna Culinary Center in Lahug. Its kitchen uses a wood-fired oven; the operator describes group events rather than an ordinary drop-in restaurant.",
+        "overview": [
+          "U Kitchen is a private-function dining venue at the Laguna Culinary Center in Lahug. Its kitchen uses a wood-fired oven; the operator describes group events rather than an ordinary drop-in restaurant.",
+          "Confirm the current menu and service before travelling. Lakbay has not verified a map pin, meal prices or accessibility for this listing; any itinerary allowance is an estimate."
+        ],
+        "highlights": [
+          {
+            "text": "private dining",
+            "sourceUrls": [
+              "https://lagunagroup.ph/u-kitchen/"
+            ]
+          },
+          {
+            "text": "wood-fired cooking",
+            "sourceUrls": [
+              "https://lagunagroup.ph/u-kitchen/"
+            ]
+          }
+        ],
+        "tips": [],
+        "sources": [
+          {
+            "name": "U Kitchen — Lahug — venue website",
+            "url": "https://lagunagroup.ph/u-kitchen/",
+            "checkedOn": "2026-10-22",
+            "supports": "Exact venue, municipality and the descriptive food or coffee offering stated above; no verification of prices, accessibility or unsupplied coordinates."
+          }
+        ]
+      },
+      "photoResearch": {
+        "sources": [
+          "https://lagunagroup.ph/u-kitchen/",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=U+Kitchen+Cebu+City&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=U+Kitchen&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=U+Kitchen+Cebu+City&license=4%2C5%2C9%2C10"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    }
+  ],
+  "decisions": [
+    {
+      "name": "Lax Cafe Palawan",
+      "status": "unresolved",
+      "sources": [
+        "https://www.laxcafepalawan.com/"
+      ],
+      "reason": "Placeholder-like phone/contact details and joking hours; no sufficiently trustworthy exact branch or current operation evidence."
+    },
+    {
+      "name": "Maya — Crossroads",
+      "status": "unresolved",
+      "sources": [
+        "https://crossroadscebu.com/eat-drink/"
+      ],
+      "reason": "Host tenant page labels it closed; reconcile with current business/guide evidence before publication."
+    },
+    {
+      "name": "Drip and Draft",
+      "status": "unresolved",
+      "sources": [
+        "https://theguide.tab.travel/gdyss/drip-and-draft/"
+      ],
+      "reason": "Only old 2021 merchant update available; conflicting closure reports require current venue confirmation."
+    }
+  ]
+}

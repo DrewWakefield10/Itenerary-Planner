@@ -568,6 +568,316 @@
       "decision_reason": "Verified distinct physical place; practical details require separate confirmation.",
       "reviewed_on": "2026-10-21",
       "slug": "baguio-craft-1945"
+    },
+    {
+      "id": "baguio-rebel-irisan",
+      "name": "Rebel Bakehouse — Irisan",
+      "destination_group": "Baguio",
+      "region": "Cordillera Administrative Region",
+      "province": null,
+      "city_municipality": "Baguio City",
+      "barangay": "Irisan",
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "Simpol — August 2026 Irisan flagship visit",
+          "sourceUrl": "https://www.simpol.ph/at-rebel-bakehouse-baguios-best-pastries-come-with-a-sense-of-place/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Simpol — August 2026 Irisan flagship visit",
+          "sourceUrl": "https://www.simpol.ph/at-rebel-bakehouse-baguios-best-pastries-come-with-a-sense-of-place/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "category": "Food & drink",
+      "description": "Rebel’s Irisan flagship combines an open bakery with a coffee bar. August 2026 reporting describes butter and almond croissants and pain au chocolat, distinguishing this venue from the brand’s cathedral and Bell House branches.",
+      "interests": [
+        "Food Hunter",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "baguio",
+      "catalog_stop_id": "baguio-rebel-irisan",
+      "status": "accepted",
+      "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+      "reviewed_on": "2026-10-22",
+      "planning": {
+        "base_slug": "baguio",
+        "mode": "local",
+        "cluster": "baguio-rebel-irisan",
+        "minutes": 60,
+        "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+        "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+        "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+        "requiresBooking": false,
+        "scheduling": "candidate",
+        "outdoor": false
+      },
+      "slug": "baguio-rebel-irisan"
+    },
+    {
+      "id": "baguio-hatch-easter",
+      "name": "Hatch Coffee — Easter Road",
+      "destination_group": "Baguio",
+      "region": "Cordillera Administrative Region",
+      "province": null,
+      "city_municipality": "Baguio City",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "Simpol — August 2026 Hatch café reporting",
+          "sourceUrl": "https://www.simpol.ph/the-baguio-cafe-where-coffee-and-memories-take-root/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Simpol — August 2026 Hatch café reporting",
+          "sourceUrl": "https://www.simpol.ph/the-baguio-cafe-where-coffee-and-memories-take-root/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "category": "Food & drink",
+      "description": "Hatch is a Baguio neighborhood café serving coffee and comfort food in a garden setting. August 2026 reporting documents its café offering; the Easter Road branch is distinguished from newer city locations.",
+      "interests": [
+        "Food Hunter",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "baguio",
+      "catalog_stop_id": "baguio-hatch-easter",
+      "status": "accepted",
+      "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+      "reviewed_on": "2026-10-22",
+      "planning": {
+        "base_slug": "baguio",
+        "mode": "local",
+        "cluster": "baguio-hatch-easter",
+        "minutes": 60,
+        "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+        "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+        "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+        "requiresBooking": false,
+        "scheduling": "manual",
+        "outdoor": false
+      },
+      "slug": "baguio-hatch-easter"
+    },
+    {
+      "id": "baguio-foam-legarda",
+      "name": "Foam Coffee — Legarda",
+      "destination_group": "Baguio",
+      "region": "Cordillera Administrative Region",
+      "province": null,
+      "city_municipality": "Baguio City",
+      "barangay": null,
+      "address": "15 Bukaneg Street",
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "Foam Coffee — Legarda — venue website",
+          "sourceUrl": "https://www.foamcoffeeph.com/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Foam Coffee — Legarda — venue website",
+          "sourceUrl": "https://www.foamcoffeeph.com/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "Foam Coffee — Legarda — venue website",
+          "sourceUrl": "https://www.foamcoffeeph.com/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "category": "Food & drink",
+      "description": "Foam’s Legarda-area branch is at 15 Bukaneg Street. The operator offers coffee, pastries and Asian-fusion meals; this listing counts one Baguio branch rather than every branch in its growing network.",
+      "interests": [
+        "Food Hunter",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "baguio",
+      "catalog_stop_id": "baguio-foam-legarda",
+      "status": "accepted",
+      "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+      "reviewed_on": "2026-10-22",
+      "planning": {
+        "base_slug": "baguio",
+        "mode": "local",
+        "cluster": "baguio-foam-legarda",
+        "minutes": 60,
+        "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+        "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+        "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+        "requiresBooking": false,
+        "scheduling": "candidate",
+        "outdoor": false
+      },
+      "slug": "baguio-foam-legarda"
+    },
+    {
+      "id": "baguio-hot-cat-yangco",
+      "name": "Hot Cat Specialty Coffee — Yangco",
+      "destination_group": "Baguio",
+      "region": "Cordillera Administrative Region",
+      "province": null,
+      "city_municipality": "Baguio City",
+      "barangay": null,
+      "address": "Yangco Road",
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "Philippine Information Agency — February 2026 Hot Cat staff and visitor interviews",
+          "sourceUrl": "https://pia.gov.ph/news/hot-cat-cafe-silungan-ng-mga-pusang-gala/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Philippine Information Agency — February 2026 Hot Cat staff and visitor interviews",
+          "sourceUrl": "https://pia.gov.ph/news/hot-cat-cafe-silungan-ng-mga-pusang-gala/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "Philippine Information Agency — February 2026 Hot Cat staff and visitor interviews",
+          "sourceUrl": "https://pia.gov.ph/news/hot-cat-cafe-silungan-ng-mga-pusang-gala/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "category": "Food & drink",
+      "description": "Hot Cat is a Yangco Road coffee venue whose barista and coffee roaster were interviewed by the Philippine Information Agency in February 2026. The café also cares for stray cats while they await adoption.",
+      "interests": [
+        "Food Hunter",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "baguio",
+      "catalog_stop_id": "baguio-hot-cat-yangco",
+      "status": "accepted",
+      "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+      "reviewed_on": "2026-10-22",
+      "planning": {
+        "base_slug": "baguio",
+        "mode": "local",
+        "cluster": "baguio-hot-cat-yangco",
+        "minutes": 60,
+        "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+        "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+        "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+        "requiresBooking": false,
+        "scheduling": "manual",
+        "outdoor": false
+      },
+      "slug": "baguio-hot-cat-yangco"
+    },
+    {
+      "id": "baguio-cafe-by-ruins",
+      "name": "Café by the Ruins — Shuntug",
+      "destination_group": "Baguio",
+      "region": "Cordillera Administrative Region",
+      "province": null,
+      "city_municipality": "Baguio City",
+      "barangay": null,
+      "address": "25 Shuntug Road",
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "Café by the Ruins business posts — September 2026 public mirror",
+          "sourceUrl": "https://www.findglocal.com/PH/Baguio-City/38813861009/Cafe-By-The-Ruins",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Café by the Ruins business posts — September 2026 public mirror",
+          "sourceUrl": "https://www.findglocal.com/PH/Baguio-City/38813861009/Cafe-By-The-Ruins",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "Café by the Ruins business posts — September 2026 public mirror",
+          "sourceUrl": "https://www.findglocal.com/PH/Baguio-City/38813861009/Cafe-By-The-Ruins",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "category": "Food & drink",
+      "description": "Café by the Ruins is the Shuntug Road café-restaurant known for regional ingredients and baked goods. September 2026 business posts offer ensaymada with Rizal chocolate and confirm the named city-hall-area venue.",
+      "interests": [
+        "Food Hunter",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "baguio",
+      "catalog_stop_id": "baguio-cafe-by-ruins",
+      "status": "accepted",
+      "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+      "reviewed_on": "2026-10-22",
+      "planning": {
+        "base_slug": "baguio",
+        "mode": "local",
+        "cluster": "baguio-cafe-by-ruins",
+        "minutes": 60,
+        "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+        "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+        "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+        "requiresBooking": false,
+        "scheduling": "candidate",
+        "outdoor": false
+      },
+      "slug": "baguio-cafe-by-ruins"
     }
   ]
 }

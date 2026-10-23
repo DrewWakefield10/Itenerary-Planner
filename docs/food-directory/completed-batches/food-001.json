@@ -1,0 +1,55 @@
+{
+  "id": "food-001",
+  "checkedOn": "2026-10-22",
+  "accepted": [
+    "el-nido-grounded-town",
+    "el-nido-janu-coffee-tea",
+    "puerto-princesa-itoys-coffee-haus",
+    "puerto-princesa-koffee-kat",
+    "puerto-princesa-vietville-restaurant",
+    "puerto-princesa-ka-inato-main",
+    "cebu-north-cafe-citymall",
+    "cebu-teamo-hotel-one"
+  ],
+  "inserted": 0,
+  "promoted": 0,
+  "unchanged": 8,
+  "decisions": [
+    {
+      "placeId": "el-nido-artcafe",
+      "name": "el-nido-artcafe",
+      "status": "duplicate",
+      "sources": [
+        "https://elnidoboutiqueandartcafe.com/artcafe-restuarant/"
+      ],
+      "reason": "Existing stable directory identity reused and included in the starting count; not imported or counted as a new place. This duplicate audit does not reverify current operation."
+    },
+    {
+      "placeId": "coron-trattoria-altrove",
+      "name": "coron-trattoria-altrove",
+      "status": "duplicate",
+      "sources": [
+        "https://www.trattoriaaltrove.com/"
+      ],
+      "reason": "Existing stable directory identity reused and included in the starting count; not imported or counted as a new place. This duplicate audit does not reverify current operation."
+    },
+    {
+      "placeId": "bohol-common-crew",
+      "name": "bohol-common-crew",
+      "status": "duplicate",
+      "sources": [
+        "https://www.commoncrewbohol.com/coffee-kombucha-brew-bar"
+      ],
+      "reason": "Existing stable directory identity reused and included in the starting count; not imported or counted as a new place. This duplicate audit does not reverify current operation."
+    },
+    {
+      "placeId": "iloilo-biscocho-haus",
+      "name": "iloilo-biscocho-haus",
+      "status": "duplicate",
+      "sources": [
+        "https://biscochohaus.com/"
+      ],
+      "reason": "Existing stable directory identity reused and included in the starting count; not imported or counted as a new place. This duplicate audit does not reverify current operation."
+    }
+  ]
+}

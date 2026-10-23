@@ -1594,7 +1594,7 @@ textarea {
 .discovery-signal strong { font-size: 17px; color: var(--teal); }
 .discovery-teaser { padding-top: 15px; }
 .discovery-teaser .discovery-photo img { height: 155px; }
-.discovery-detail-hero figure { margin: 0; }
+.discovery-detail-hero figure { margin: 0; min-width:0; }
 .discovery-detail-hero img { height: 330px; object-fit: cover; border: 8px solid var(--paper); box-shadow: 3px 5px 0 #e8e1d4; }
 .discovery-detail-hero figcaption { font-size: 10px; margin-top: 10px; }
 .discovery-detail-grid { display: grid; grid-template-columns: 1.3fr 1fr; gap: 30px; }
@@ -2720,6 +2720,25 @@ textarea {
 .place-overview h3 { margin-top:28px; }
 .place-overview li, .place-practical li { margin:10px 0; }
 .place-videos { margin-bottom:48px; }
+.place-instagram { margin-bottom:48px; }
+.place-instagram-grid { display:grid; grid-template-columns:1fr; gap:24px; }
+.place-instagram-resource { min-width:0; padding:12px; border:1px solid var(--line); background:var(--paper); overflow-wrap:anywhere; }
+.place-instagram-resource h3 { font-size:20px; margin:0 0 12px; }
+.place-instagram-resource p { font-size:13px; line-height:1.75; }
+.place-instagram-slot { min-width:0; margin:16px 0; }
+.place-instagram-slot.is-requested { min-height:480px; }
+.place-instagram-slot blockquote.instagram-media { margin:0; max-width:658px; width:100%; box-sizing:border-box; }
+.place-instagram-consent { margin:16px 0; }
+@media(min-width:850px) { .place-instagram-grid { grid-template-columns:repeat(2,minmax(0,1fr)); } }
+@media(max-width:760px) { .place-instagram-resource { padding:0; border:0; background:transparent; } }
+.place-instagram-cover { margin:0; min-width:0; width:100%; max-width:658px; }
+.place-instagram-cover h2 { font-size:24px; margin:0 0 10px; }
+.place-instagram-cover>p { font-size:13px; line-height:1.75; margin-bottom:12px; }
+.place-instagram-cover .place-instagram-grid { display:block; }
+.place-instagram-cover .place-instagram-resource { padding:0; border:0; background:transparent; }
+.place-instagram-cover .place-instagram-consent .button { padding:10px 14px; font-size:12px; }
+.discovery-detail-hero:has(.place-instagram-cover) { align-items:start; }
+@media(max-width:1050px) { .discovery-detail-hero:has(.place-instagram-cover) { grid-template-columns:1fr; } }
 .place-video-grid { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:32px; }
 .place-video-player { position:relative; aspect-ratio:16/9; background:var(--sand); border:1px solid var(--line); }
 .place-video-player iframe { display:block; width:100%; height:100%; border:0; }

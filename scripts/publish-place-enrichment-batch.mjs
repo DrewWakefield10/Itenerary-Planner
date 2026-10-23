@@ -4,6 +4,16 @@ import sharp from "sharp";
 import {downloadApprovedPhoto,videoCandidate,get} from "./research-place-content.mjs";
 const read=async p=>JSON.parse(await readFile(p,"utf8"));
 const decision=await read(process.argv[2]),catalog=await read("public/data/lakbay-locations.json");
+if(decision.mode==='instagram-only'){
+  const {spawnSync}=await import('node:child_process');
+  const result=spawnSync(process.execPath,['--import','tsx','scripts/publish-instagram-batch.ts',process.argv[2]],{stdio:'inherit'});
+  process.exit(result.status??1);
+}
+if(decision.mode==='photos-only'){
+  const {publishPhotoBatch}=await import('./publish-place-photo-batch.mjs');
+  await publishPhotoBatch(decision);
+  process.exit(0);
+}
 const content=await read("lib/catalog/place-content.json"),videos=await read("lib/catalog/place-videos.json"),progress=await read("public/data/place-enrichment-progress.json");
 const outcomes=[];
 for(const entry of decision.entries){

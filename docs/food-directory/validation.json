@@ -1,0 +1,50 @@
+{
+  "checkedOn": "2026-10-23",
+  "timeZone": "Asia/Taipei",
+  "sourceReviewDayUtc": "2026-10-22",
+  "catalog": {
+    "startingFoodListings": 58,
+    "newFoodListings": 94,
+    "finalFoodListings": 152,
+    "cafes": 56,
+    "otherFood": 96,
+    "overallPhysicalLocations": 426,
+    "destinationsCovered": 11,
+    "newPhotographs": 5,
+    "newPhotoGaps": 89,
+    "foodPlacesWithPhotos": 15,
+    "foodPlacesWithExistingVideos": 46,
+    "newVideos": 0,
+    "originalVideoAssociationsPreserved": 515
+  },
+  "checks": [
+    {"command": "npm test", "status": "passed", "tests": 90, "failed": 0, "coverage": "Categories/roles, base ownership, duplicate/canonical/package prevention, hours/clusters/pacing, budgets, AI rejection, imports, old snapshots, independent source status, photos, Google/session and private storage fixtures."},
+    {"command": "npm run build", "status": "passed", "framework": "Sites/Vinext", "warning": "Existing client chunk-size warning and framework route-classification limitations."},
+    {"command": "npm run build:vercel", "status": "passed", "framework": "Next.js", "warning": "Next ignores an unrelated pnpm-lock.yaml outside the repository."},
+    {"command": "npm run typecheck", "status": "passed", "note": "Run after native Next build restores expected generated route declarations."},
+    {"command": "npx tsx scripts/validate-catalog.ts", "status": "passed", "limitation": "Structural validation is not factual or live availability verification."},
+    {"command": "npm run validate:places", "status": "passed", "contents": 426, "documentedPhotoOverlaysDecoded": 212, "videoAssociations": 515, "coverage": "Local full/small images decode and reserved dimensions match."},
+    {"command": "npm run test:food:browser", "status": "passed", "origin": "http://localhost:5180", "widths": [1440, 390], "coverage": "Combined filters/counts, pagination, URL restore, empty/reset states, 5 approved card/detail photos, credit links, dimensions, overflow, no-photo/no-video fallbacks, unknown menu roles and dated price note."},
+    {"command": "npm run test:accounts:browser", "status": "passed", "limitation": "UI network fixtures, not live Google login or production storage.", "coverage": "Guest-to-Google save, exact snapshots, edits/dates/notes, retry/session recovery, reload, bookmarks, duplicate/delete confirmation, account isolation, mobile."},
+    {"command": "targeted ESLint on new food model, generator, AI, directory integration, publishing/export/research scripts and tests", "status": "passed"},
+    {"command": "npm run lint", "status": "failed", "limitation": "Existing account/discovery hook/entity findings and downloaded research files under ignored work/ are included. New food files pass targeted lint. No rule was disabled and no clean repository-wide lint result is claimed."},
+    {"command": "reviewed batch reimport", "status": "passed", "batchesReplayed": ["food-001", "food-002", "food-004", "food-005"], "insertedOnReplay": 0, "note": "Pure importer test covers all 94 additions. CLI replay retains approved photos."},
+    {"command": "git diff --check with cr-at-eol for Windows line endings", "status": "passed"}
+  ],
+  "preservation": {
+    "original332PlaceIds": "preserved",
+    "original332ContentIncludingPriorPhotos": "hash matches food-task baseline",
+    "originalPhotoAssetsAndDirectorySnapshots": "hash guards passed",
+    "savedTripsAndBookmarks": "stable IDs and serialized snapshots remain independent; account fixtures passed"
+  },
+  "remainingLimitations": [
+    "89 additions need supplied photographs or further license/identity research; searches and fallback states are recorded.",
+    "No new videos published; all existing video resources retained.",
+    "57 retained legacy operation checks are unverified/undated separately from their identity sources. New entries have operator, accreditation, guide or dated-report evidence, not opening guarantees.",
+    "Legacy Saffron naming conflict is flagged and excluded from automatic scheduling pending confirmed mapping.",
+    "All 94 new entrance pins are unknown. Missing hours, prices and access are not inferred. Netong's dated bowl prices remain separate from estimated itinerary allowances.",
+    "Two accredited cafes have no verified specific menu roles; coffee searches and AI coffee suitability do not infer service from names.",
+    "Repository-wide lint findings remain outside this focused expansion.",
+    "Live Google login, production saving, commit/push and Vercel deployment were not performed."
+  ]
+}

@@ -1,0 +1,485 @@
+{
+  "batchId": "instagram-020",
+  "checkedOn": "2026-10-22",
+  "mode": "unapproved-research",
+  "records": [
+    {
+      "placeId": "manila-museo-el-deposito",
+      "name": "Museo El Deposito",
+      "destination": "Manila",
+      "municipality": "San Juan City",
+      "category": "Culture",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-020",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://philhistoricsites.nhcp.gov.ph/registry_database/el-deposito/",
+          "finalUrl": "https://philhistoricsites.nhcp.gov.ph/registry_database/el-deposito/",
+          "status": 200,
+          "title": "El Deposito | Registry",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Museo_El_Deposito",
+          "finalUrl": "https://en.wikipedia.org/wiki/Museo_El_Deposito",
+          "status": 200,
+          "title": "Museo El Deposito - Wikipedia",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "manila-museo-ng-katipunan",
+      "name": "Museo ng Katipunan",
+      "destination": "Manila",
+      "municipality": "San Juan City",
+      "category": "Culture",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-020",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://philhistoricsites.nhcp.gov.ph/registry_database/pang-alaalang-dambana-ng-pinaglabanan/",
+          "finalUrl": "https://philhistoricsites.nhcp.gov.ph/registry_database/pang-alaalang-dambana-ng-pinaglabanan/",
+          "status": 200,
+          "title": "Pang-alaalang Dambana ng Pinaglabanan* | Registry",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Museo_ng_Katipunan",
+          "finalUrl": "https://en.wikipedia.org/wiki/Museo_ng_Katipunan",
+          "status": 200,
+          "title": "Museo ng Katipunan - Wikipedia",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "manila-quezon-memorial-shrine",
+      "name": "Quezon Memorial Shrine",
+      "destination": "Manila",
+      "municipality": "Quezon City",
+      "category": "Culture",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-020",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://quezoncity.gov.ph/place/quezon-memorial-shrine-museo-ni-manuel-quezon/",
+          "finalUrl": "https://quezoncity.gov.ph/place/quezon-memorial-shrine-museo-ni-manuel-quezon/",
+          "status": 200,
+          "title": "Quezon Memorial Shrine/ Museo Ni Manuel Quezon - Quezon City Government",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Quezon_Memorial_Shrine",
+          "finalUrl": "https://en.wikipedia.org/wiki/Quezon_Memorial_Shrine",
+          "status": 200,
+          "title": "Quezon Memorial Shrine - Wikipedia",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "manila-marikina-shoe-museum",
+      "name": "Marikina Shoe Museum",
+      "destination": "Manila",
+      "municipality": "Marikina City",
+      "category": "Culture",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-020",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://www.marikina.gov.ph/ordinance/ORDINANCE%20NO.%2065%20S.%202015.pdf",
+          "finalUrl": "https://www.marikina.gov.ph/ordinance/ORDINANCE%20NO.%2065%20S.%202015.pdf",
+          "status": 200,
+          "title": "",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Marikina_Shoe_Museum",
+          "finalUrl": "https://en.wikipedia.org/wiki/Marikina_Shoe_Museum",
+          "status": 200,
+          "title": "Marikina Shoe Museum - Wikipedia",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "manila-bamboo-organ",
+      "name": "Las Piñas Bamboo Organ",
+      "destination": "Manila",
+      "municipality": "Las Piñas City",
+      "category": "Culture",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-020",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://laspinascity.gov.ph/lifestyle/18/index",
+          "finalUrl": "https://laspinascity.gov.ph/lifestyle/18/index",
+          "status": 200,
+          "title": "The City of Las Piñas | Home",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Bamboo_Organ",
+          "finalUrl": "https://en.wikipedia.org/wiki/Bamboo_Organ",
+          "status": 200,
+          "title": "Bamboo Organ - Wikipedia",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "manila-mind-museum",
+      "name": "The Mind Museum",
+      "destination": "Manila",
+      "municipality": "Taguig City",
+      "category": "Attractions",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-020",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://www.themindmuseum.org/visit-us/plan-your-visit",
+          "finalUrl": "https://www.themindmuseum.org/visit-us/plan-your-visit",
+          "status": 200,
+          "title": "Plan Your Visit - The Mind Museum",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Mind_Museum",
+          "finalUrl": "https://en.wikipedia.org/wiki/The_Mind_Museum",
+          "status": 200,
+          "title": "The Mind Museum - Wikipedia",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "manila-art-in-island",
+      "name": "Art in Island",
+      "destination": "Manila",
+      "municipality": "Quezon City",
+      "category": "Attractions",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-020",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://qcpl.quezoncity.gov.ph/article/p0dpurpscoqaz4agdffagnq5",
+          "finalUrl": "https://qcpl.quezoncity.gov.ph/article/p0dpurpscoqaz4agdffagnq5",
+          "status": 200,
+          "title": "Art In Island",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Art_in_Island",
+          "finalUrl": "https://en.wikipedia.org/wiki/Art_in_Island",
+          "status": 200,
+          "title": "Art in Island - Wikipedia",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "manila-museo-intramuros",
+      "name": "Museo de Intramuros",
+      "destination": "Manila",
+      "municipality": "Manila",
+      "category": "Culture",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-020",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://intramuros.gov.ph/sites/",
+          "finalUrl": "https://intramuros.gov.ph/sites/",
+          "status": 200,
+          "title": "Intramuros Sites | Intramuros Administration",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Museo_de_Intramuros",
+          "finalUrl": "https://en.wikipedia.org/wiki/Museo_de_Intramuros",
+          "status": 200,
+          "title": "Museo de Intramuros - Wikipedia",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "manila-destileria-limtuaco",
+      "name": "Destileria Limtuaco Museum",
+      "destination": "Manila",
+      "municipality": "Manila",
+      "category": "Culture",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-020",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://intramuros.gov.ph/sites/",
+          "finalUrl": "https://intramuros.gov.ph/sites/",
+          "status": 200,
+          "title": "Intramuros Sites | Intramuros Administration",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "manila-bahay-tsinoy",
+      "name": "Bahay Tsinoy",
+      "destination": "Manila",
+      "municipality": "Manila",
+      "category": "Culture",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-020",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://intramuros.gov.ph/sites/",
+          "finalUrl": "https://intramuros.gov.ph/sites/",
+          "status": 200,
+          "title": "Intramuros Sites | Intramuros Administration",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Bahay_Tsinoy",
+          "finalUrl": "https://en.wikipedia.org/wiki/Bahay_Tsinoy",
+          "status": 200,
+          "title": "Bahay Tsinoy - Wikipedia",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "el-nido-kalye-artisano",
+      "name": "Kalye Artisano",
+      "destination": "Palawan",
+      "municipality": "El Nido",
+      "category": "Culture",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-020",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://kalyeartisano.com/pages/about-us",
+          "finalUrl": "https://kalyeartisano.com/pages/about-us",
+          "status": 200,
+          "title": "About Us &ndash; Kalye Artisano",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "cebu-lambug-beach",
+      "name": "Lambug Beach",
+      "destination": "Cebu",
+      "municipality": "Badian",
+      "category": "Nature",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-020",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://tourism.cebu.gov.ph/explore/badian/",
+          "finalUrl": "https://tourism.cebu.gov.ph/explore/badian/",
+          "status": 200,
+          "title": "Badian — Explore Cebu",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "cebu-osmena-peak",
+      "name": "Osmeña Peak",
+      "destination": "Cebu",
+      "municipality": "Dalaguete",
+      "category": "Nature",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-020",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://tourism.cebu.gov.ph/explore/dalaguete/",
+          "finalUrl": "https://tourism.cebu.gov.ph/explore/dalaguete/",
+          "status": 200,
+          "title": "Dalaguete — Explore Cebu",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "cebu-mantayupan-falls",
+      "name": "Mantayupan Falls",
+      "destination": "Cebu",
+      "municipality": "Barili",
+      "category": "Nature",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-020",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://tourism.cebu.gov.ph/explore/barili/",
+          "finalUrl": "https://tourism.cebu.gov.ph/explore/barili/",
+          "status": 200,
+          "title": "Barili — Explore Cebu",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "cebu-bojo-river",
+      "name": "Bojo River",
+      "destination": "Cebu",
+      "municipality": "Aloguinsan",
+      "category": "Nature",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-020",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://tourism.cebu.gov.ph/explore/aloguinsan/",
+          "finalUrl": "https://tourism.cebu.gov.ph/explore/aloguinsan/",
+          "status": 200,
+          "title": "Aloguinsan — Explore Cebu",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "cebu-argao-church",
+      "name": "St. Michael the Archangel Parish Church - Argao",
+      "destination": "Cebu",
+      "municipality": "Argao",
+      "category": "Culture",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-020",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://tourism.cebu.gov.ph/explore/argao/",
+          "finalUrl": "https://tourism.cebu.gov.ph/explore/argao/",
+          "status": 200,
+          "title": "Argao — Explore Cebu",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "bohol-philippine-tarsier-sanctuary",
+      "name": "Philippine Tarsier Sanctuary",
+      "destination": "Bohol",
+      "municipality": "Corella",
+      "category": "Nature",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-020",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://tourism.bohol.gov.ph/visitbohol-corella-3/",
+          "status": null,
+          "error": "The operation was aborted due to timeout",
+          "candidates": [],
+          "limitation": "Inaccessible publisher source; no private content or authentication workaround attempted."
+        }
+      ]
+    },
+    {
+      "placeId": "bohol-danao-adventure-park",
+      "name": "Danao Adventure Park",
+      "destination": "Bohol",
+      "municipality": "Danao",
+      "category": "Attractions",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-020",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://tourism.bohol.gov.ph/visitbohol-danao/",
+          "status": null,
+          "error": "The operation was aborted due to timeout",
+          "candidates": [],
+          "limitation": "Inaccessible publisher source; no private content or authentication workaround attempted."
+        }
+      ]
+    },
+    {
+      "placeId": "manila-baluarte-san-diego",
+      "name": "Baluarte de San Diego",
+      "destination": "Manila",
+      "municipality": "Manila",
+      "category": "Culture",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-020",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://intramuros.gov.ph/sites/",
+          "finalUrl": "https://intramuros.gov.ph/sites/",
+          "status": 200,
+          "title": "Intramuros Sites | Intramuros Administration",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Baluarte_de_San_Diego",
+          "finalUrl": "https://en.wikipedia.org/wiki/Baluarte_de_San_Diego",
+          "status": 200,
+          "title": "Baluarte de San Diego - Wikipedia",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "manila-ilustrado-restaurant",
+      "name": "Ilustrado Restaurant",
+      "destination": "Manila",
+      "municipality": "Manila",
+      "category": "Food & drink",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-020",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://ilustradorestaurant.ph/",
+          "finalUrl": "https://ilustradorestaurant.ph/",
+          "status": 200,
+          "title": "Ilustrado Restaurant",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    }
+  ]
+}

@@ -26,12 +26,20 @@ export async function downloadApprovedPhoto(placeId,alt){
   const rendition=await(await get(`https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo&iiprop=url&iiurlwidth=1200&titles=${encodeURIComponent(fileTitle)}`)).json();
   const remote=Object.values(rendition.query.pages)[0]?.imageinfo?.[0];
   const downloadUrl=new URL(remote?.thumburl||p.url);downloadUrl.search='';
-  const data=Buffer.from(await(await get(downloadUrl.href)).arrayBuffer()),src=`/images/places/${placeId}.jpg`,srcSmall=`/images/places/${placeId}-640.jpg`;
+  const data=Buffer.from(await(await get(downloadUrl.href)).arrayBuffer());
+  const creator=text(m.Artist?.value);
+  return optimizeApprovedPhoto(placeId,data,{sourcePage:p.descriptionurl,originalUrl:p.url,creator,license,licenseUrl:licenseUrl.replace(/^http:/,"https:"),attribution:`${text(m.Attribution?.value)||creator} / Wikimedia Commons / ${license}. Resized and JPEG compressed.`,alt});
+}
+export async function optimizeApprovedPhoto(placeId,data,metadata){
+  if(!/^[a-z0-9]+(?:-[a-z0-9]+)*$/.test(placeId))throw new Error('Invalid stable place ID');
+  if(!metadata.creator||!metadata.alt||!metadata.attribution||!metadata.license)throw new Error('Incomplete approved image rights');
+  for(const key of ['sourcePage','originalUrl','licenseUrl'])if(new URL(metadata[key]).protocol!=='https:')throw new Error('Image sources must use HTTPS');
+  const src=`/images/places/${placeId}.jpg`,srcSmall=`/images/places/${placeId}-640.jpg`;
   await mkdir("public/images/places",{recursive:true});
   const info=await sharp(data).rotate().resize({width:1200,withoutEnlargement:true}).jpeg({quality:82,mozjpeg:true}).toFile("public"+src);
   await sharp(data).rotate().resize({width:640,withoutEnlargement:true}).jpeg({quality:80,mozjpeg:true}).toFile("public"+srcSmall);
-  const creator=text(m.Artist?.value);
-  return {placeId,src,srcSmall,sourcePage:p.descriptionurl,originalUrl:p.url,creator,license,licenseUrl:licenseUrl.replace(/^http:/,"https:"),attribution:`${creator} / Wikimedia Commons / ${license}. Resized and JPEG compressed.`,alt,width:info.width,height:info.height,checkedOn:new Date().toISOString().slice(0,10)};
+  const {sourcePage,originalUrl,creator,license,licenseUrl,attribution,alt,objectPosition}=metadata;
+  return {placeId,src,srcSmall,sourcePage,originalUrl,creator,license,licenseUrl,attribution,alt,...(objectPosition?{objectPosition}:{}),width:info.width,height:info.height,checkedOn:new Date().toISOString().slice(0,10)};
 }
 export async function videoCandidate(placeId,videoId){
   const url=`https://www.youtube.com/watch?v=${videoId}`;

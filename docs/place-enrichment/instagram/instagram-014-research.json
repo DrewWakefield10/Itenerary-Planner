@@ -1,0 +1,463 @@
+{
+  "batchId": "instagram-014",
+  "checkedOn": "2026-10-22",
+  "mode": "unapproved-research",
+  "records": [
+    {
+      "placeId": "davao-people-s-park",
+      "name": "People’s Park",
+      "destination": "Davao",
+      "municipality": "Davao City",
+      "category": "Parks & markets",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-014",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://tourism.davaocity.gov.ph/explore-the-city/attractions/man-made-nature-parks/peoples-park/",
+          "finalUrl": "https://tourism.davaocity.gov.ph/explore-the-city/attractions/man-made-nature-parks/peoples-park/",
+          "status": 200,
+          "title": "Davao City Tourism Website",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "davao-san-pedro-cathedral-area",
+      "name": "San Pedro Cathedral",
+      "destination": "Davao",
+      "municipality": "Davao City",
+      "category": "Culture",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-014",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://davaocity.gov.ph/tourism/dabawenyos-tourism-students-urged-to-join-davao-walking-tour/",
+          "finalUrl": "https://davaocity.gov.ph/tourism/dabawenyos-tourism-students-urged-to-join-davao-walking-tour/",
+          "status": 200,
+          "title": "Dabawenyos, tourism students urged to join Davao Walking Tour - City Government of Davao",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Davao_Cathedral",
+          "finalUrl": "https://en.wikipedia.org/wiki/Davao_Cathedral",
+          "status": 200,
+          "title": "Davao Cathedral - Wikipedia",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "davao-national-museum",
+      "name": "National Museum of the Philippines – Davao",
+      "destination": "Davao",
+      "municipality": "Davao City",
+      "category": "Culture",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-014",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://www.nationalmuseum.gov.ph/nmp-davao/",
+          "finalUrl": "https://www.nationalmuseum.gov.ph/nmp-davao/",
+          "status": 200,
+          "title": "National Museum of the Philippines &#8211; Davao &#8211; National Museum",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "davao-roxas-night-market",
+      "name": "Roxas Night Market",
+      "destination": "Davao",
+      "municipality": "Davao City",
+      "category": "Food & drink",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-014",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://tourism.davaocity.gov.ph/explore-the-city/restaurants/night-market/roxas-night-market/",
+          "finalUrl": "https://tourism.davaocity.gov.ph/explore-the-city/restaurants/night-market/roxas-night-market/",
+          "status": 200,
+          "title": "Davao City Tourism Website",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "davao-kadayawan-cultural-village",
+      "name": "Kadayawan Cultural Village",
+      "destination": "Davao",
+      "municipality": "Davao City",
+      "category": "Culture",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-014",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://davaocity.gov.ph/tourism/kadayawan-village-remains-open-to-public-says-ctoo/",
+          "finalUrl": "https://davaocity.gov.ph/tourism/kadayawan-village-remains-open-to-public-says-ctoo/",
+          "status": 200,
+          "title": "Kadayawan Village remains open to public, says CTOO - City Government of Davao",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "davao-chinatown",
+      "name": "Davao Chinatown",
+      "destination": "Davao",
+      "municipality": "Davao City",
+      "category": "Culture",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-014",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://davaocity.gov.ph/tourism/bound-to-the-friendship-arch-davao-city-chinatown-walk-boosts-tourism-and-cultural-heritage/",
+          "finalUrl": "https://davaocity.gov.ph/tourism/bound-to-the-friendship-arch-davao-city-chinatown-walk-boosts-tourism-and-cultural-heritage/",
+          "status": 200,
+          "title": "Bound to the Friendship Arch: Davao City Chinatown walk boosts tourism and cultural heritage - City Government of Davao",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Davao_Chinatown",
+          "finalUrl": "https://en.wikipedia.org/wiki/Davao_Chinatown",
+          "status": 200,
+          "title": "Davao Chinatown - Wikipedia",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "davao-osmena-park",
+      "name": "Osmeña Park",
+      "destination": "Davao",
+      "municipality": "Davao City",
+      "category": "Parks & markets",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-014",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://cpdo.davaocity.gov.ph/wp-content/uploads/2023/07/Volume-3-Sectoral_Studies_compressed.pdf",
+          "finalUrl": "https://cpdo.davaocity.gov.ph/wp-content/uploads/2023/07/Volume-3-Sectoral_Studies_compressed.pdf",
+          "status": 404,
+          "title": "",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "davao-dona-vicenta-park",
+      "name": "Doña Vicenta Park",
+      "destination": "Davao",
+      "municipality": "Davao City",
+      "category": "Parks & markets",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-014",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://davaocity.gov.ph/environment/dona-vicenta-park-now-open/",
+          "finalUrl": "https://davaocity.gov.ph/environment/dona-vicenta-park-now-open/",
+          "status": 200,
+          "title": "Doña Vicenta Park now open - City Government of Davao",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "davao-eden-nature-park",
+      "name": "Eden Nature Park",
+      "destination": "Davao",
+      "municipality": "Davao City",
+      "category": "Nature",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-014",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://www.edennaturepark.com.ph/",
+          "finalUrl": "https://www.edennaturepark.com.ph/",
+          "status": 200,
+          "title": "Eden Nature Park and Resort &#8211; Davao Life Is Here",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "davao-philippine-eagle-center",
+      "name": "Philippine Eagle Center",
+      "destination": "Davao",
+      "municipality": "Davao City",
+      "category": "Nature",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-014",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://www.philippineeaglefoundation.org/copy-of-the-pec-1",
+          "finalUrl": "https://www.philippineeaglefoundation.org/copy-of-the-pec-1",
+          "status": 200,
+          "title": "PEC backup page | PEF",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "davao-malagos-garden-resort",
+      "name": "Malagos Garden Resort",
+      "destination": "Davao",
+      "municipality": "Davao City",
+      "category": "Nature",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-014",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://www.malagos.com/contact",
+          "finalUrl": "https://www.malagos.com/contact",
+          "status": 200,
+          "title": "Contact Us &mdash; Malagos Garden Resort | Davao Resort",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Malagos_Garden_Resort",
+          "finalUrl": "https://en.wikipedia.org/wiki/Malagos_Garden_Resort",
+          "status": 200,
+          "title": "Malagos Garden Resort - Wikipedia",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "puerto-princesa-ugong-rock",
+      "name": "Ugong Rock",
+      "destination": "Palawan",
+      "municipality": "Puerto Princesa City",
+      "category": "Nature",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-014",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://citytourism.puertoprincesa.ph/cbst-destinations/",
+          "finalUrl": "https://citytourism.puertoprincesa.ph/cbst-destinations/",
+          "status": 200,
+          "title": "CBST Destinations &#8211; City Tourism of Puerto Princesa",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "davao-crocodile-park",
+      "name": "Davao Crocodile Park",
+      "destination": "Davao",
+      "municipality": "Davao City",
+      "category": "Nature",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-014",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://tourism.davaocity.gov.ph/explore-the-city/attractions/resorts/davao-crocodile-park-inc/",
+          "finalUrl": "https://tourism.davaocity.gov.ph/explore-the-city/attractions/resorts/davao-crocodile-park-inc/",
+          "status": 200,
+          "title": "Davao City Tourism Website",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "cebu-fort-san-pedro",
+      "name": "Fort San Pedro",
+      "destination": "Cebu",
+      "municipality": "Cebu City",
+      "category": "Culture",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-014",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://www.cebu.gov.ph/about/",
+          "finalUrl": "https://www.cebu.gov.ph/about/",
+          "status": 200,
+          "title": "Cebu Province History & Heritage | About",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Fort_San_Pedro",
+          "finalUrl": "https://en.wikipedia.org/wiki/Fort_San_Pedro",
+          "status": 200,
+          "title": "Fort San Pedro - Wikipedia",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "cebu-magellan-s-cross-area",
+      "name": "Magellan’s Cross",
+      "destination": "Cebu",
+      "municipality": "Cebu City",
+      "category": "Culture",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-014",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://www.cebu.gov.ph/about/",
+          "finalUrl": "https://www.cebu.gov.ph/about/",
+          "status": 200,
+          "title": "Cebu Province History & Heritage | About",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "cebu-casa-gorordo",
+      "name": "Casa Gorordo Museum",
+      "destination": "Cebu",
+      "municipality": "Cebu City",
+      "category": "Culture",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-014",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://www.casagorordomuseum.org/",
+          "finalUrl": "https://www.casagorordomuseum.org/",
+          "status": 200,
+          "title": "Casa Gorordo Museum",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "cebu-basilica-santo-nino",
+      "name": "Basilica Minore del Santo Niño",
+      "destination": "Cebu",
+      "municipality": "Cebu City",
+      "category": "Culture",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-014",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://www.cebu.gov.ph/about/",
+          "finalUrl": "https://www.cebu.gov.ph/about/",
+          "status": 200,
+          "title": "Cebu Province History & Heritage | About",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Basilica_del_Santo_Ni%C3%B1o",
+          "finalUrl": "https://en.wikipedia.org/wiki/Basilica_del_Santo_Ni%C3%B1o",
+          "status": 200,
+          "title": "Basilica del Santo Niño - Wikipedia",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "cebu-national-museum",
+      "name": "National Museum of the Philippines — Cebu",
+      "destination": "Cebu",
+      "municipality": "Cebu City",
+      "category": "Culture",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-014",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://www.nationalmuseum.gov.ph/nmp-cebu-2/",
+          "finalUrl": "https://www.nationalmuseum.gov.ph/nmp-cebu-2/",
+          "status": 200,
+          "title": "National Museum of the Philippines &#8211; Cebu &#8211; National Museum",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "cebu-taoist-temple",
+      "name": "Cebu Taoist Temple",
+      "destination": "Cebu",
+      "municipality": "Cebu City",
+      "category": "Culture",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-014",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://philippines.travel/destinations/cebu-city/index",
+          "finalUrl": "https://philippines.travel/destinations/cebu-city/index",
+          "status": 200,
+          "title": "Cebu City &#8211; Love Philippines",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Cebu_Taoist_Temple",
+          "finalUrl": "https://en.wikipedia.org/wiki/Cebu_Taoist_Temple",
+          "status": 200,
+          "title": "Cebu Taoist Temple - Wikipedia",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "cebu-museo-sugbo",
+      "name": "Museo Sugbo",
+      "destination": "Cebu",
+      "municipality": "Cebu City",
+      "category": "Culture",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-014",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://www.cebu.gov.ph/about/",
+          "finalUrl": "https://www.cebu.gov.ph/about/",
+          "status": 200,
+          "title": "Cebu Province History & Heritage | About",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Museo_Sugbo",
+          "finalUrl": "https://en.wikipedia.org/wiki/Museo_Sugbo",
+          "status": 200,
+          "title": "Museo Sugbo - Wikipedia",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    }
+  ]
+}

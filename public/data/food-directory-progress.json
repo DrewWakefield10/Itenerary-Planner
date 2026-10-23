@@ -1,0 +1,588 @@
+{
+  "generatedOn": "2026-10-23",
+  "starting_count": 58,
+  "starting_category_count": 59,
+  "excluded": [
+    {
+      "placeId": "bohol-green-thumb-farm",
+      "reason": "Reviewed identity is a farm, not evidence of a named dining venue; retain attraction and stable ID."
+    }
+  ],
+  "target": 150,
+  "added": 94,
+  "final_count": 152,
+  "cafes": 56,
+  "other_food": 96,
+  "shortfall": 0,
+  "by_destination": [
+    {
+      "destination": "Palawan",
+      "target": 25,
+      "total": 25,
+      "cafes": 10,
+      "other_food": 15,
+      "photos": 1,
+      "videos": 4,
+      "descriptions": 25,
+      "added": 21
+    },
+    {
+      "destination": "Cebu",
+      "target": 20,
+      "total": 20,
+      "cafes": 6,
+      "other_food": 14,
+      "photos": 2,
+      "videos": 3,
+      "descriptions": 20,
+      "added": 16
+    },
+    {
+      "destination": "Manila",
+      "target": 20,
+      "total": 20,
+      "cafes": 7,
+      "other_food": 13,
+      "photos": 2,
+      "videos": 3,
+      "descriptions": 20,
+      "added": 17
+    },
+    {
+      "destination": "Siargao",
+      "target": 12,
+      "total": 12,
+      "cafes": 6,
+      "other_food": 6,
+      "photos": 0,
+      "videos": 5,
+      "descriptions": 12,
+      "added": 6
+    },
+    {
+      "destination": "Bohol",
+      "target": 12,
+      "total": 12,
+      "cafes": 5,
+      "other_food": 7,
+      "photos": 1,
+      "videos": 5,
+      "descriptions": 12,
+      "added": 6
+    },
+    {
+      "destination": "Boracay",
+      "target": 12,
+      "total": 14,
+      "cafes": 1,
+      "other_food": 13,
+      "photos": 0,
+      "videos": 12,
+      "descriptions": 14,
+      "added": 0
+    },
+    {
+      "destination": "Baguio",
+      "target": 12,
+      "total": 12,
+      "cafes": 5,
+      "other_food": 7,
+      "photos": 2,
+      "videos": 6,
+      "descriptions": 12,
+      "added": 5
+    },
+    {
+      "destination": "Iloilo",
+      "target": 12,
+      "total": 12,
+      "cafes": 5,
+      "other_food": 7,
+      "photos": 2,
+      "videos": 3,
+      "descriptions": 12,
+      "added": 7
+    },
+    {
+      "destination": "Davao",
+      "target": 12,
+      "total": 12,
+      "cafes": 5,
+      "other_food": 7,
+      "photos": 2,
+      "videos": 3,
+      "descriptions": 12,
+      "added": 8
+    },
+    {
+      "destination": "Batanes",
+      "target": 7,
+      "total": 7,
+      "cafes": 3,
+      "other_food": 4,
+      "photos": 0,
+      "videos": 2,
+      "descriptions": 7,
+      "added": 2
+    },
+    {
+      "destination": "Sagada",
+      "target": 6,
+      "total": 6,
+      "cafes": 3,
+      "other_food": 3,
+      "photos": 1,
+      "videos": 0,
+      "descriptions": 6,
+      "added": 6
+    }
+  ],
+  "batches": [
+    {
+      "id": "food-001",
+      "accepted": 8,
+      "decisions": [
+        {
+          "placeId": "el-nido-artcafe",
+          "name": "el-nido-artcafe",
+          "status": "duplicate",
+          "sources": [
+            "https://elnidoboutiqueandartcafe.com/artcafe-restuarant/"
+          ],
+          "reason": "Existing stable directory identity reused and included in the starting count; not imported or counted as a new place. This duplicate audit does not reverify current operation."
+        },
+        {
+          "placeId": "coron-trattoria-altrove",
+          "name": "coron-trattoria-altrove",
+          "status": "duplicate",
+          "sources": [
+            "https://www.trattoriaaltrove.com/"
+          ],
+          "reason": "Existing stable directory identity reused and included in the starting count; not imported or counted as a new place. This duplicate audit does not reverify current operation."
+        },
+        {
+          "placeId": "bohol-common-crew",
+          "name": "bohol-common-crew",
+          "status": "duplicate",
+          "sources": [
+            "https://www.commoncrewbohol.com/coffee-kombucha-brew-bar"
+          ],
+          "reason": "Existing stable directory identity reused and included in the starting count; not imported or counted as a new place. This duplicate audit does not reverify current operation."
+        },
+        {
+          "placeId": "iloilo-biscocho-haus",
+          "name": "iloilo-biscocho-haus",
+          "status": "duplicate",
+          "sources": [
+            "https://biscochohaus.com/"
+          ],
+          "reason": "Existing stable directory identity reused and included in the starting count; not imported or counted as a new place. This duplicate audit does not reverify current operation."
+        }
+      ],
+      "descriptions": 8,
+      "photos": 1,
+      "videos": 0
+    },
+    {
+      "id": "food-002",
+      "accepted": 22,
+      "decisions": [
+        {
+          "name": "Lax Cafe Palawan",
+          "status": "unresolved",
+          "sources": [
+            "https://www.laxcafepalawan.com/"
+          ],
+          "reason": "Placeholder-like phone/contact details and joking hours; no sufficiently trustworthy exact branch or current operation evidence."
+        },
+        {
+          "name": "Maya — Crossroads",
+          "status": "unresolved",
+          "sources": [
+            "https://crossroadscebu.com/eat-drink/"
+          ],
+          "reason": "Host tenant page labels it closed; reconcile with current business/guide evidence before publication."
+        },
+        {
+          "name": "Drip and Draft",
+          "status": "unresolved",
+          "sources": [
+            "https://theguide.tab.travel/gdyss/drip-and-draft/"
+          ],
+          "reason": "Only old 2021 merchant update available; conflicting closure reports require current venue confirmation."
+        }
+      ],
+      "descriptions": 22,
+      "photos": 1,
+      "videos": 0
+    },
+    {
+      "id": "food-003",
+      "accepted": 24,
+      "decisions": [
+        {
+          "name": "Deuces — Perea Street",
+          "status": "rejected",
+          "sources": [
+            "https://www.wheninmanila.com/this-coffee-shop-shuts-its-doors-in-makati-but-a-new-location-is-brewing/"
+          ],
+          "reason": "Exact Perea branch closed March 2026; do not silently substitute an announced or relocated branch."
+        },
+        {
+          "name": "Hineleban — Arnaiz",
+          "status": "unresolved",
+          "sources": [
+            "https://primer.com.ph/food/location/hineleban-cafe-in-makati-advocate-of-local-coffee/"
+          ],
+          "reason": "Old article documents relocation; current exact visitor venue not established."
+        },
+        {
+          "name": "The Curator",
+          "status": "unresolved",
+          "sources": [
+            "https://www.thecuratorcoffeeandcocktails.com/"
+          ],
+          "reason": "Official domain currently shows default nginx page; seek current exact venue evidence before adding."
+        },
+        {
+          "name": "SGD Bodega",
+          "status": "unresolved",
+          "sources": [
+            "https://coffeeheritageproject.com/",
+            "https://tol.com.ph/collections/sgd-coffee"
+          ],
+          "reason": "Primary site inaccessible; public menu host authority needs confirmation."
+        },
+        {
+          "name": "Primal Brew",
+          "status": "unresolved",
+          "sources": [
+            "https://primalbrewcoffee.com/pages/the-cafe",
+            "https://primalbrew.cococart.co/"
+          ],
+          "reason": "Exact current visitor address and contradictory closed cart status need reconciliation."
+        }
+      ],
+      "descriptions": 24,
+      "photos": 0,
+      "videos": 0
+    },
+    {
+      "id": "food-004",
+      "accepted": 25,
+      "decisions": [
+        {
+          "name": "Greenhouse beachfront café",
+          "status": "unresolved",
+          "sources": [
+            "https://www.greenhousesiargao.com/pages/rooms"
+          ],
+          "reason": "Operator announces beachfront closure/renovations and transition to a roadside café; current exact venue requires reconciliation."
+        },
+        {
+          "name": "Chido Cafe",
+          "status": "unresolved",
+          "sources": [
+            "https://linktr.ee/Chidocafe_bohol",
+            "https://wanderlog.com/list/geoCategory/291107/cafes"
+          ],
+          "reason": "Public business links and 2026 visits conflict with permanently-closed label; do not publish until reconciled."
+        },
+        {
+          "name": "Nomads Bohol Coffee Lounge",
+          "status": "rejected",
+          "sources": [
+            "https://nomadsbohol.com/"
+          ],
+          "reason": "Operator states planned December 2026 opening; not a currently operating café at review date."
+        },
+        {
+          "name": "Seollem Café / Shop / Bistro",
+          "status": "unresolved",
+          "sources": [
+            "https://www.spot.ph/things-to-do/weekend-guides/90920/new-baguio-tourist-spots-you-can-visit-a1131-20221023-lfrm2",
+            "https://www.cybo.com/PH-biz/seollem-cafe"
+          ],
+          "reason": "Old café/shop identities and current military-cutoff address conflict; exact branch and recent operation need review."
+        }
+      ],
+      "descriptions": 25,
+      "photos": 2,
+      "videos": 0
+    },
+    {
+      "id": "food-005",
+      "accepted": 15,
+      "decisions": [
+        {
+          "name": "Lamesa Davao",
+          "status": "unresolved",
+          "sources": [
+            "https://www.sunstar.com.ph/amp/story/davao/kadayawan-2026-see-it-taste-it-live-it"
+          ],
+          "reason": "Current city-level mention found, but branch identity and primary venue details need further confirmation; no quota-filling record added."
+        }
+      ],
+      "descriptions": 15,
+      "photos": 1,
+      "videos": 0
+    }
+  ],
+  "operation_review": {
+    "existing-source": 57,
+    "venue-offering": 43,
+    "2026-accreditation": 7,
+    "current-guide": 16,
+    "recent-report": 29
+  },
+  "limitations": [
+    "Current public offering and dated accreditation are evidence, not real-time opening guarantees.",
+    "Existing profiles retain their original source/check dates unless explicitly re-reviewed.",
+    "Unknown coordinates, hours, prices and accessibility remain unknown. Meal allowances and visit/transfer durations are estimates."
+  ],
+  "media": {
+    "new_photos": 5,
+    "new_photo_gaps": 89,
+    "new_videos": 0
+  },
+  "manual_review": [
+    {
+      "placeId": "bohol-saffron-restaurant",
+      "reason": "The operator now lists M. Marinera in its dining collection. The old Saffron identity is retained for existing links and trips, but excluded from new automatic scheduling pending a confirmed venue/name mapping."
+    },
+    {
+      "placeId": "boracay-cafe-del-sol",
+      "reason": "Existing venue identity and food classification retain their original source dates. Current operation was not separately rechecked in this expansion; confirm service directly before travelling."
+    },
+    {
+      "placeId": "puerto-princesa-vietville-restaurant",
+      "reason": "Tourism office lists this exact establishment as compliant on 30 March 2026. This is not a live opening or availability check."
+    },
+    {
+      "placeId": "el-nido-lick-roastery",
+      "reason": "The public venue page offers this service when reviewed; no live table availability, closure guarantee or independent on-site check."
+    },
+    {
+      "placeId": "el-nido-lanai-amakan",
+      "reason": "The public venue page offers this service when reviewed; no live table availability, closure guarantee or independent on-site check."
+    },
+    {
+      "placeId": "el-nido-sunmai-nacpan",
+      "reason": "The public venue page offers this service when reviewed; no live table availability, closure guarantee or independent on-site check."
+    },
+    {
+      "placeId": "el-nido-calima-piece-lio",
+      "reason": "The public venue page offers this service when reviewed; no live table availability, closure guarantee or independent on-site check."
+    },
+    {
+      "placeId": "cebu-u-kitchen-lahug",
+      "reason": "The public venue page offers this service when reviewed; no live table availability, closure guarantee or independent on-site check."
+    },
+    {
+      "placeId": "cebu-lantaw-compostela",
+      "reason": "The current restaurant guide lists this exact venue. This is evidence of a current listing, not a live opening, menu or reservation guarantee."
+    },
+    {
+      "placeId": "cebu-ricos-mandaue",
+      "reason": "The public venue page offers this service when reviewed; no live table availability, closure guarantee or independent on-site check."
+    },
+    {
+      "placeId": "manila-toyo-eatery",
+      "reason": "The public venue page offers this service when reviewed; no live table availability, closure guarantee or independent on-site check."
+    },
+    {
+      "placeId": "manila-gallery-by-chele",
+      "reason": "The public venue page offers this service when reviewed; no live table availability, closure guarantee or independent on-site check."
+    },
+    {
+      "placeId": "manila-your-local",
+      "reason": "The current restaurant guide lists this exact venue. This is evidence of a current listing, not a live opening, menu or reservation guarantee."
+    },
+    {
+      "placeId": "manila-metiz-karrivin",
+      "reason": "The current restaurant guide lists this exact venue. This is evidence of a current listing, not a live opening, menu or reservation guarantee."
+    },
+    {
+      "placeId": "manila-cirkulo",
+      "reason": "The current restaurant guide lists this exact venue. This is evidence of a current listing, not a live opening, menu or reservation guarantee."
+    },
+    {
+      "placeId": "siargao-weekend-cafe",
+      "reason": "The public venue page offers this service when reviewed; no live table availability, closure guarantee or independent on-site check."
+    },
+    {
+      "placeId": "baguio-hatch-easter",
+      "reason": "Dated visitor or local reporting supports this venue. Current opening, menu availability and access still need direct confirmation."
+    },
+    {
+      "placeId": "baguio-hot-cat-yangco",
+      "reason": "February 2026 staff and visitor interviews establish the named Yangco Road café. No current meal menu, entrance pin or opening hours were established; manual scheduling pending confirmation."
+    },
+    {
+      "placeId": "batanes-cafe-du-tukon",
+      "reason": "Venue offering and DOT accreditation register reviewed. Accreditation is not proof of present table availability, hours or visitor access."
+    },
+    {
+      "placeId": "batanes-bunkers-bistro",
+      "reason": "DOT lists Basco identity and accreditation validity through 29 January 2027. Accreditation does not establish current opening, menu, table availability or a precise entrance."
+    },
+    {
+      "placeId": "sagada-cafe-bodega-rock-inn",
+      "reason": "Dated visitor or local reporting supports this venue. Current opening, menu availability and access still need direct confirmation."
+    },
+    {
+      "placeId": "sagada-log-cabin",
+      "reason": "Dated local reporting supports this named venue and its offering. It does not establish today’s opening, menu availability or table availability; confirm directly before travelling."
+    },
+    {
+      "placeId": "sagada-cellar-door",
+      "reason": "Dated visitor or local reporting supports this venue. Current opening, menu availability and access still need direct confirmation."
+    }
+  ],
+  "decisions": [
+    {
+      "placeId": "el-nido-artcafe",
+      "name": "el-nido-artcafe",
+      "status": "duplicate",
+      "sources": [
+        "https://elnidoboutiqueandartcafe.com/artcafe-restuarant/"
+      ],
+      "reason": "Existing stable directory identity reused and included in the starting count; not imported or counted as a new place. This duplicate audit does not reverify current operation."
+    },
+    {
+      "placeId": "coron-trattoria-altrove",
+      "name": "coron-trattoria-altrove",
+      "status": "duplicate",
+      "sources": [
+        "https://www.trattoriaaltrove.com/"
+      ],
+      "reason": "Existing stable directory identity reused and included in the starting count; not imported or counted as a new place. This duplicate audit does not reverify current operation."
+    },
+    {
+      "placeId": "bohol-common-crew",
+      "name": "bohol-common-crew",
+      "status": "duplicate",
+      "sources": [
+        "https://www.commoncrewbohol.com/coffee-kombucha-brew-bar"
+      ],
+      "reason": "Existing stable directory identity reused and included in the starting count; not imported or counted as a new place. This duplicate audit does not reverify current operation."
+    },
+    {
+      "placeId": "iloilo-biscocho-haus",
+      "name": "iloilo-biscocho-haus",
+      "status": "duplicate",
+      "sources": [
+        "https://biscochohaus.com/"
+      ],
+      "reason": "Existing stable directory identity reused and included in the starting count; not imported or counted as a new place. This duplicate audit does not reverify current operation."
+    },
+    {
+      "name": "Lax Cafe Palawan",
+      "status": "unresolved",
+      "sources": [
+        "https://www.laxcafepalawan.com/"
+      ],
+      "reason": "Placeholder-like phone/contact details and joking hours; no sufficiently trustworthy exact branch or current operation evidence."
+    },
+    {
+      "name": "Maya — Crossroads",
+      "status": "unresolved",
+      "sources": [
+        "https://crossroadscebu.com/eat-drink/"
+      ],
+      "reason": "Host tenant page labels it closed; reconcile with current business/guide evidence before publication."
+    },
+    {
+      "name": "Drip and Draft",
+      "status": "unresolved",
+      "sources": [
+        "https://theguide.tab.travel/gdyss/drip-and-draft/"
+      ],
+      "reason": "Only old 2021 merchant update available; conflicting closure reports require current venue confirmation."
+    },
+    {
+      "name": "Deuces — Perea Street",
+      "status": "rejected",
+      "sources": [
+        "https://www.wheninmanila.com/this-coffee-shop-shuts-its-doors-in-makati-but-a-new-location-is-brewing/"
+      ],
+      "reason": "Exact Perea branch closed March 2026; do not silently substitute an announced or relocated branch."
+    },
+    {
+      "name": "Hineleban — Arnaiz",
+      "status": "unresolved",
+      "sources": [
+        "https://primer.com.ph/food/location/hineleban-cafe-in-makati-advocate-of-local-coffee/"
+      ],
+      "reason": "Old article documents relocation; current exact visitor venue not established."
+    },
+    {
+      "name": "The Curator",
+      "status": "unresolved",
+      "sources": [
+        "https://www.thecuratorcoffeeandcocktails.com/"
+      ],
+      "reason": "Official domain currently shows default nginx page; seek current exact venue evidence before adding."
+    },
+    {
+      "name": "SGD Bodega",
+      "status": "unresolved",
+      "sources": [
+        "https://coffeeheritageproject.com/",
+        "https://tol.com.ph/collections/sgd-coffee"
+      ],
+      "reason": "Primary site inaccessible; public menu host authority needs confirmation."
+    },
+    {
+      "name": "Primal Brew",
+      "status": "unresolved",
+      "sources": [
+        "https://primalbrewcoffee.com/pages/the-cafe",
+        "https://primalbrew.cococart.co/"
+      ],
+      "reason": "Exact current visitor address and contradictory closed cart status need reconciliation."
+    },
+    {
+      "name": "Greenhouse beachfront café",
+      "status": "unresolved",
+      "sources": [
+        "https://www.greenhousesiargao.com/pages/rooms"
+      ],
+      "reason": "Operator announces beachfront closure/renovations and transition to a roadside café; current exact venue requires reconciliation."
+    },
+    {
+      "name": "Chido Cafe",
+      "status": "unresolved",
+      "sources": [
+        "https://linktr.ee/Chidocafe_bohol",
+        "https://wanderlog.com/list/geoCategory/291107/cafes"
+      ],
+      "reason": "Public business links and 2026 visits conflict with permanently-closed label; do not publish until reconciled."
+    },
+    {
+      "name": "Nomads Bohol Coffee Lounge",
+      "status": "rejected",
+      "sources": [
+        "https://nomadsbohol.com/"
+      ],
+      "reason": "Operator states planned December 2026 opening; not a currently operating café at review date."
+    },
+    {
+      "name": "Seollem Café / Shop / Bistro",
+      "status": "unresolved",
+      "sources": [
+        "https://www.spot.ph/things-to-do/weekend-guides/90920/new-baguio-tourist-spots-you-can-visit-a1131-20221023-lfrm2",
+        "https://www.cybo.com/PH-biz/seollem-cafe"
+      ],
+      "reason": "Old café/shop identities and current military-cutoff address conflict; exact branch and recent operation need review."
+    },
+    {
+      "name": "Lamesa Davao",
+      "status": "unresolved",
+      "sources": [
+        "https://www.sunstar.com.ph/amp/story/davao/kadayawan-2026-see-it-taste-it-live-it"
+      ],
+      "reason": "Current city-level mention found, but branch identity and primary venue details need further confirmation; no quota-filling record added."
+    }
+  ]
+}

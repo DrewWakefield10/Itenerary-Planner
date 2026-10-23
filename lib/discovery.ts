@@ -1,7 +1,7 @@
 import { destination, selectableDestinations, destinationImage, type Stop } from "./destinations";
 import { discoverySeeds, type DiscoveryPlace } from "./discovery-data";
 export { type DiscoveryPlace } from "./discovery-data";
-import {directoryListings,geographyOf} from "./catalog/directory";
+import {directoryListings,geographyOf,categoryForPlace} from "./catalog/directory";
 import {placeContent} from "./catalog/place-content";
 const curated=new Map(discoverySeeds.map(p=>[p.id,p]));
 const basePlaces:DiscoveryPlace[]=selectableDestinations.map(base=>curated.get(`base-${base.slug}`)||{
@@ -22,7 +22,7 @@ export const discoveryPlaces:DiscoveryPlace[]=[...basePlaces,...directoryListing
   const original=curated.get(p.id)||curated.get(p.catalog_stop_id||"");
   const editorial=placeContent(p.id);
   return {
-    id:p.id,kind:"spot" as const,name:p.name,baseSlug:p.itinerary_base_slug,category:p.category,
+    id:p.id,kind:"spot" as const,name:p.name,baseSlug:p.itinerary_base_slug,category:categoryForPlace(p),
     stopId:p.catalog_stop_id||undefined,description:editorial?.summary||p.description,editorial,interests:p.interests,directory:p,
     reason:"Reviewed location identity and municipality. Check each practical detail separately.",
     platform:original?.platform||"Other" as const,source:editorial?{sourceName:editorial.sources[0].name,sourceUrl:editorial.sources[0].url,dateChecked:editorial.sources[0].checkedOn,status:p.sources.identity.status}:p.sources.identity,

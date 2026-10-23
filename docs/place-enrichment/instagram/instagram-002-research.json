@@ -1,0 +1,452 @@
+{
+  "batchId": "instagram-002",
+  "checkedOn": "2026-10-22",
+  "mode": "unapproved-research",
+  "records": [
+    {
+      "placeId": "batanes-harbour-cafe",
+      "name": "Harbour Cafe",
+      "destination": "Batanes",
+      "municipality": "Basco",
+      "category": "Food & drink",
+      "hasApprovedPhoto": false,
+      "batchId": "instagram-002",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://breathtakingbatanes.com/foodmap.pdf",
+          "finalUrl": "https://breathtakingbatanes.com/foodmap.pdf",
+          "status": 404,
+          "title": "",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "batanes-vunong-dinette",
+      "name": "Vunong Dinette",
+      "destination": "Batanes",
+      "municipality": "Basco",
+      "category": "Food & drink",
+      "hasApprovedPhoto": false,
+      "batchId": "instagram-002",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://breathtakingbatanes.com/foodmap.pdf",
+          "finalUrl": "https://breathtakingbatanes.com/foodmap.pdf",
+          "status": 404,
+          "title": "",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "batanes-rakuh-idi-spring",
+      "name": "Rakuh-a-Idi Spring",
+      "destination": "Batanes",
+      "municipality": "Mahatao",
+      "category": "Nature",
+      "hasApprovedPhoto": false,
+      "batchId": "instagram-002",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://breathtakingbatanes.com/maps/",
+          "finalUrl": "https://breathtakingbatanes.com/maps/",
+          "status": 200,
+          "title": "Batanes Tourism Map",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "batanes-national-museum",
+      "name": "National Museum of the Philippines - Batanes",
+      "destination": "Batanes",
+      "municipality": "Uyugan",
+      "category": "Culture",
+      "hasApprovedPhoto": false,
+      "batchId": "instagram-002",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://www.nationalmuseum.gov.ph/contact-us/",
+          "finalUrl": "https://www.nationalmuseum.gov.ph/contact-us/",
+          "status": 200,
+          "title": "Contact Us &#8211; National Museum",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        },
+        {
+          "url": "https://www.nationalmuseum.gov.ph/our-museums/regional-area-and-site-museums/batanes/",
+          "finalUrl": "https://www.nationalmuseum.gov.ph/our-museums/regional-area-and-site-museums/batanes/",
+          "status": 200,
+          "title": "Batanes &#8211; National Museum",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        },
+        {
+          "url": "https://www.nationalmuseum.gov.ph/wp-content/uploads/2025/09/Bidding-Documents-Batanes.pdf",
+          "finalUrl": "https://www.nationalmuseum.gov.ph/wp-content/uploads/2025/09/Bidding-Documents-Batanes.pdf",
+          "status": 404,
+          "title": "",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "el-nido-grounded-town",
+      "name": "Grounded — El Nido Town",
+      "destination": "Palawan",
+      "municipality": "El Nido",
+      "category": "Food & drink",
+      "hasApprovedPhoto": false,
+      "batchId": "instagram-002",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://grounded.ph/",
+          "finalUrl": "https://grounded.ph/",
+          "status": 200,
+          "title": "Grounded — Specialty Coffee Café in El Nido, Palawan",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "el-nido-janu-coffee-tea",
+      "name": "Janu Coffee & Tea",
+      "destination": "Palawan",
+      "municipality": "El Nido",
+      "category": "Food & drink",
+      "hasApprovedPhoto": false,
+      "batchId": "instagram-002",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://janu.ph/",
+          "finalUrl": "https://janu.ph/",
+          "status": 200,
+          "title": "Janu Coffee & Tea — Specialty Coffee & Japanese Tea in El Nido, Palawan",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "puerto-princesa-itoys-coffee-haus",
+      "name": "Itoy’s Coffee Haus",
+      "destination": "Palawan",
+      "municipality": "Puerto Princesa City",
+      "category": "Food & drink",
+      "hasApprovedPhoto": false,
+      "batchId": "instagram-002",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://www.puertoprincesatourism.com/restaurants",
+          "finalUrl": "https://www.puertoprincesatourism.com/restaurants",
+          "status": 200,
+          "title": "accredited_Restaurant | Puerto Princesa City",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        },
+        {
+          "url": "https://www.petitfute.co.uk/v40864-puerto-princesa/c1169-s-amuser-sortir/c182-bar-cafe/c219-coffee-shop-et-salon-de-the/1596505-itoy-s-coffee-haus.html",
+          "finalUrl": "https://www.petitfute.co.uk/v40864-puerto-princesa/c1169-s-amuser-sortir/c182-bar-cafe/c219-coffee-shop-et-salon-de-the/1596505-itoy-s-coffee-haus.html",
+          "status": 403,
+          "title": "",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "puerto-princesa-koffee-kat",
+      "name": "Koffee Kat Cafe",
+      "destination": "Palawan",
+      "municipality": "Puerto Princesa City",
+      "category": "Food & drink",
+      "hasApprovedPhoto": false,
+      "batchId": "instagram-002",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://www.puertoprincesatourism.com/restaurants",
+          "finalUrl": "https://www.puertoprincesatourism.com/restaurants",
+          "status": 200,
+          "title": "accredited_Restaurant | Puerto Princesa City",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        },
+        {
+          "url": "https://restaurantguru.com/Coffee-Cat-Palawan-Puerto-Princesa",
+          "finalUrl": "https://restaurantguru.com/Coffee-Cat-Palawan-Puerto-Princesa",
+          "status": 200,
+          "title": "Koffee Kat Coffee Shop, Puerto Princesa - Restaurant menu, prices and reviews",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "puerto-princesa-ka-inato-main",
+      "name": "Ka Inato — Tiniguiban",
+      "destination": "Palawan",
+      "municipality": "Puerto Princesa City",
+      "category": "Food & drink",
+      "hasApprovedPhoto": false,
+      "batchId": "instagram-002",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://www.puertoprincesatourism.com/restaurants",
+          "finalUrl": "https://www.puertoprincesatourism.com/restaurants",
+          "status": 200,
+          "title": "accredited_Restaurant | Puerto Princesa City",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "cebu-north-cafe-citymall",
+      "name": "North Café & Co — CityMall Bacalso",
+      "destination": "Cebu",
+      "municipality": "Cebu City",
+      "category": "Food & drink",
+      "hasApprovedPhoto": false,
+      "batchId": "instagram-002",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://www.northcafeandco.ph/",
+          "finalUrl": "https://www.northcafeandco.ph/",
+          "status": 200,
+          "title": "North Café & Co — Coffee. Culture. Community.",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "cebu-teamo-hotel-one",
+      "name": "Te’Amo Café — Hotel One",
+      "destination": "Cebu",
+      "municipality": "Cebu City",
+      "category": "Food & drink",
+      "hasApprovedPhoto": false,
+      "batchId": "instagram-002",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://www.teamocafecebu.com/",
+          "finalUrl": "https://www.teamocafecebu.com/",
+          "status": 200,
+          "title": "Te'Amo Café · Cebu City | Coffee, Pastry & All-Day Breakfast",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "el-nido-lick-roastery",
+      "name": "Lost Islands Center for Kape — Lio HQ",
+      "destination": "Palawan",
+      "municipality": "El Nido",
+      "category": "Food & drink",
+      "hasApprovedPhoto": false,
+      "batchId": "instagram-002",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://lick.ph/pages/locations",
+          "finalUrl": "https://lick.ph/pages/locations",
+          "status": 200,
+          "title": "Where to find us &ndash; Lost Islands Center for Kape",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "el-nido-la-moro-hill",
+      "name": "La Moro Hill Bakery — Lio",
+      "destination": "Palawan",
+      "municipality": "El Nido",
+      "category": "Food & drink",
+      "hasApprovedPhoto": false,
+      "batchId": "instagram-002",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://lick.ph/pages/locations",
+          "finalUrl": "https://lick.ph/pages/locations",
+          "status": 200,
+          "title": "Where to find us &ndash; Lost Islands Center for Kape",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "el-nido-huk-co",
+      "name": "HUK & Co. — C Hotel",
+      "destination": "Palawan",
+      "municipality": "El Nido",
+      "category": "Food & drink",
+      "hasApprovedPhoto": false,
+      "batchId": "instagram-002",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://huk.ph/",
+          "finalUrl": "https://huk.ph/",
+          "status": 200,
+          "title": "HUK & Co. Vegan Bakery — El Nido, Palawan",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "el-nido-ver-de",
+      "name": "Ver De — H Hotel",
+      "destination": "Palawan",
+      "municipality": "El Nido",
+      "category": "Food & drink",
+      "hasApprovedPhoto": false,
+      "batchId": "instagram-002",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://hhotelelnido.com/dining",
+          "finalUrl": "https://hhotelelnido.com/dining",
+          "status": 200,
+          "title": "Dining & Rooftop Bar in El Nido | Ver De & Piece of Sky — H Hotel",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "el-nido-piece-of-sky",
+      "name": "Piece of Sky",
+      "destination": "Palawan",
+      "municipality": "El Nido",
+      "category": "Food & drink",
+      "hasApprovedPhoto": false,
+      "batchId": "instagram-002",
+      "status": "candidates-awaiting-review",
+      "sources": [
+        {
+          "url": "https://sites.google.com/view/pieceofskyelnido/home",
+          "finalUrl": "https://sites.google.com/view/pieceofskyelnido/home",
+          "status": 200,
+          "title": "Piece of Sky",
+          "candidates": [
+            {
+              "url": "https://www.instagram.com/reel/DApjBSuR3Dm/",
+              "account": "pieceofskyelnido",
+              "context": "rder-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg)&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;margin-left: auto;&quot;&gt; &lt;div style=&quot; width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);&quot;&gt;&lt;/div&gt; &lt;div style=&quot; background-color: #F4F4F4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);&quot;&gt;&lt;/div&gt; &lt;div style=&quot; width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt; &lt;div style=&quot;display: flex; flex-direction: column; flex-grow: 1; justify-content: center; margin-bottom: 24px;&quot;&gt; &lt;div style=&quot; background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 224px;&quot;&gt;&lt;/div&gt; &lt;div style=&quot; background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 144px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/a&gt;&lt;p style=&quot; color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;&quot;&gt;&lt;a href=&quot;https://www.instagram.com/reel/DApjBSuR3Dm/?utm_source=ig_embed&amp;utm_campaign=loading&quot; style=&quot; color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;&quot; target=&quot;_blank&quot;&gt;A post shared by Piece of Sky (@pieceofskyelnido)&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;/blockquote&gt; &lt;script async src=&quot;//www.instagram.com/embed.js&quot;&gt;&lt;/script&gt;\" data-tile-id=\"548b78005677fcba_42\" data-enable-html-sites-gen-ai=\"false\" data-is-liquid-artifact=\"false\" data-enable-liquid-apps-vertical-scrolling=\"false\" data-in-editor=\"false\" jsaction=\"rcuQ6b:WYd;\"> <div id=\"h.548b78005677fcba_46\" class=\"h",
+              "manualMarkup": false
+            },
+            {
+              "url": "https://www.instagram.com/reel/DALBOrxxMcr/",
+              "account": "pieceofskyelnido",
+              "context": " style=&quot; width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);&quot;&gt;&lt;/div&gt; &lt;div style=&quot; background-color: #F4F4F4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);&quot;&gt;&lt;/div&gt; &lt;div style=&quot; width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt; &lt;div style=&quot;display: flex; flex-direction: column; flex-grow: 1; justify-content: center; margin-bottom: 24px;&quot;&gt; &lt;div style=&quot; background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 224px;&quot;&gt;&lt;/div&gt; &lt;div style=&quot; background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 144px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/a&gt;&lt;p style=&quot; color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;&quot;&gt;&lt;a href=&quot;https://www.instagram.com/reel/DALBOrxxMcr/?utm_source=ig_embed&amp;utm_campaign=loading&quot; style=&quot; color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;&quot; target=&quot;_blank&quot;&gt;A post shared by Piece of Sky (@pieceofskyelnido)&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;/blockquote&gt; &lt;script async src=&quot;//www.instagram.com/embed.js&quot;&gt;&lt;/script&gt;\" data-tile-id=\"548b78005677fcba_46\" data-enable-html-sites-gen-ai=\"false\" data-is-liquid-artifact=\"false\" data-enable-liquid-apps-vertical-scrolling=\"false\" data-in-editor=\"false\" jsaction=\"rcuQ6b:WYd;\"> <div class=\"IFuOkc\" style=\"background-position: center center; background-image: url(https://sites.google.com/sitesv-images-rt/AMxu72uM5Ldk5CMf2iIrfW3VB_wyAFxu5JvnNSvZ__9SUMH064jRy2AC7NGRYRbF1gHofDKU6Aoqdkly8l25Riid3R-NYNUxrAAMIp55TieJXoQnO34jCcoFGb5zzOHY2",
+              "manualMarkup": false
+            }
+          ],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "el-nido-henris",
+      "name": "Henri’s — Lihim Resorts",
+      "destination": "Palawan",
+      "municipality": "El Nido",
+      "category": "Food & drink",
+      "hasApprovedPhoto": false,
+      "batchId": "instagram-002",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://lihim.com/dining/henris/",
+          "finalUrl": "https://lihim.com/dining/henris/",
+          "status": 200,
+          "title": "Henri&#039;s - Lihim Resorts, El Nido",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "el-nido-lanai-amakan",
+      "name": "The Lanai at Amakan",
+      "destination": "Palawan",
+      "municipality": "El Nido",
+      "category": "Food & drink",
+      "hasApprovedPhoto": false,
+      "batchId": "instagram-002",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://www.amakan.ph/",
+          "finalUrl": "https://www.amakan.ph/",
+          "status": 200,
+          "title": "Amakan",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "coron-baya-resto-lounge",
+      "name": "BAYA Resto Lounge",
+      "destination": "Palawan",
+      "municipality": "Coron",
+      "category": "Food & drink",
+      "hasApprovedPhoto": false,
+      "batchId": "instagram-002",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://twoseasonsresorts.com/corontown/dining/",
+          "finalUrl": "https://twoseasonsresorts.com/corontown/dining/",
+          "status": 200,
+          "title": "Two Seasons Coron Bayside Hotel | Palawan Dining",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "coron-hunt-funny-lion",
+      "name": "Hunt Restaurant — The Funny Lion Coron",
+      "destination": "Palawan",
+      "municipality": "Coron",
+      "category": "Food & drink",
+      "hasApprovedPhoto": false,
+      "batchId": "instagram-002",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://www.thefunnylion.com/the-funny-lion-coron-compendium",
+          "finalUrl": "https://www.thefunnylion.com/the-funny-lion-coron-compendium",
+          "status": 200,
+          "title": "The Funny Lion is the no. 1 boutique hotel resort in Coron, El Nido, and Puerto Princesa, Palawan",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    }
+  ]
+}

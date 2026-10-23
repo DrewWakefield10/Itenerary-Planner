@@ -691,6 +691,375 @@
         }
       },
       "reviewed_on": "2026-10-21"
+    },
+    {
+      "id": "sagada-yoghurt-house",
+      "name": "Yoghurt House",
+      "destination_group": "Sagada",
+      "region": "Cordillera Administrative Region",
+      "province": "Mountain Province",
+      "city_municipality": "Sagada",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "No Juan Is An Island — June 2026 Sagada return visit",
+          "sourceUrl": "https://nojuanisanisland.com/2026/06/02/an-ode-to-nostalgia-why-simply-showing-up-in-sagada-was-a-big-win/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "No Juan Is An Island — June 2026 Sagada return visit",
+          "sourceUrl": "https://nojuanisanisland.com/2026/06/02/an-ode-to-nostalgia-why-simply-showing-up-in-sagada-was-a-big-win/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "category": "Food & drink",
+      "description": "Yoghurt House is a named Sagada dining stop associated with bowls of tart yogurt. A June 2026 return visit documents the venue; no historic price or menu is treated as current.",
+      "interests": [
+        "Food Hunter"
+      ],
+      "itinerary_base_slug": "sagada",
+      "catalog_stop_id": "sagada-yoghurt-house",
+      "status": "accepted",
+      "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+      "reviewed_on": "2026-10-22",
+      "planning": {
+        "base_slug": "sagada",
+        "mode": "local",
+        "cluster": "sagada-yoghurt-house",
+        "minutes": 90,
+        "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+        "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+        "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+        "requiresBooking": false,
+        "scheduling": "candidate",
+        "outdoor": false
+      },
+      "slug": "sagada-yoghurt-house"
+    },
+    {
+      "id": "sagada-cafe-bodega-rock-inn",
+      "name": "Café Bodega — Rock Inn",
+      "destination_group": "Sagada",
+      "region": "Cordillera Administrative Region",
+      "province": "Mountain Province",
+      "city_municipality": "Sagada",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "No Juan Is An Island — June 2026 Café Bodega visit",
+          "sourceUrl": "https://nojuanisanisland.com/2026/06/02/an-ode-to-nostalgia-why-simply-showing-up-in-sagada-was-a-big-win/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "No Juan Is An Island — June 2026 Café Bodega visit",
+          "sourceUrl": "https://nojuanisanisland.com/2026/06/02/an-ode-to-nostalgia-why-simply-showing-up-in-sagada-was-a-big-win/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "category": "Food & drink",
+      "description": "Café Bodega is Rock Inn’s in-house café and restaurant in Sagada. A June 2026 visitor reports all-day breakfast; confirm the exact route and café access separately from booking accommodation.",
+      "interests": [
+        "Food Hunter",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "sagada",
+      "catalog_stop_id": "sagada-cafe-bodega-rock-inn",
+      "status": "accepted",
+      "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+      "reviewed_on": "2026-10-22",
+      "planning": {
+        "base_slug": "sagada",
+        "mode": "local",
+        "cluster": "sagada-cafe-bodega-rock-inn",
+        "minutes": 60,
+        "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+        "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+        "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+        "requiresBooking": false,
+        "scheduling": "manual",
+        "outdoor": false
+      },
+      "slug": "sagada-cafe-bodega-rock-inn"
+    },
+    {
+      "id": "sagada-log-cabin",
+      "name": "Log Cabin Sagada",
+      "destination_group": "Sagada",
+      "region": "Cordillera Administrative Region",
+      "province": "Mountain Province",
+      "city_municipality": "Sagada",
+      "barangay": null,
+      "address": "Ato, Patay, along Sagada–Besao Road",
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "Log Cabin Sagada — TableAgent booking page",
+          "sourceUrl": "https://tableagent.com/manila/log-cabin-sagada/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Log Cabin Sagada — TableAgent booking page",
+          "sourceUrl": "https://tableagent.com/manila/log-cabin-sagada/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "Log Cabin Sagada — TableAgent booking page",
+          "sourceUrl": "https://tableagent.com/manila/log-cabin-sagada/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "category": "Food & drink",
+      "description": "Log Cabin serves European–Filipino cooking in an Ato residential-house setting. Its booking page identifies the Sagada venue and meal service; arrange Saturday buffet reservations separately from a normal restaurant visit.",
+      "interests": [
+        "Food Hunter"
+      ],
+      "itinerary_base_slug": "sagada",
+      "catalog_stop_id": "sagada-log-cabin",
+      "status": "accepted",
+      "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+      "reviewed_on": "2026-10-22",
+      "planning": {
+        "base_slug": "sagada",
+        "mode": "local",
+        "cluster": "sagada-log-cabin",
+        "minutes": 90,
+        "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+        "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+        "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+        "requiresBooking": false,
+        "scheduling": "manual",
+        "outdoor": false
+      },
+      "slug": "sagada-log-cabin"
+    },
+    {
+      "id": "sagada-cellar-door",
+      "name": "Sagada Cellar Door",
+      "destination_group": "Sagada",
+      "region": "Cordillera Administrative Region",
+      "province": "Mountain Province",
+      "city_municipality": "Sagada",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "No Juan Is An Island — June 2026 Cellar Door dinner",
+          "sourceUrl": "https://nojuanisanisland.com/2026/06/02/an-ode-to-nostalgia-why-simply-showing-up-in-sagada-was-a-big-win/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "No Juan Is An Island — June 2026 Cellar Door dinner",
+          "sourceUrl": "https://nojuanisanisland.com/2026/06/02/an-ode-to-nostalgia-why-simply-showing-up-in-sagada-was-a-big-win/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "category": "Food & drink",
+      "description": "Sagada Cellar Door offers a distinct dinner experience with Igorot cooking and rice wine. A June 2026 visit describes pinikpikan with tapuey; arrange the evening directly rather than assuming daily walk-in service.",
+      "interests": [
+        "Food Hunter"
+      ],
+      "itinerary_base_slug": "sagada",
+      "catalog_stop_id": "sagada-cellar-door",
+      "status": "accepted",
+      "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+      "reviewed_on": "2026-10-22",
+      "planning": {
+        "base_slug": "sagada",
+        "mode": "local",
+        "cluster": "sagada-cellar-door",
+        "minutes": 90,
+        "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+        "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+        "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+        "requiresBooking": true,
+        "scheduling": "manual",
+        "outdoor": false
+      },
+      "slug": "sagada-cellar-door"
+    },
+    {
+      "id": "sagada-gaia-cafe",
+      "name": "Gaia Cafe & Crafts",
+      "destination_group": "Sagada",
+      "region": "Cordillera Administrative Region",
+      "province": "Mountain Province",
+      "city_municipality": "Sagada",
+      "barangay": "Ambasing",
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "Tripadvisor — Gaia identity and dated March 2026 visit",
+          "sourceUrl": "https://www.tripadvisor.ca/Restaurant_Review-g304053-d3512205-Reviews-Gaia_Cafe_Crafts-Sagada_Mountain_Province_Cordillera_Region_Luzon.html",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Tripadvisor — Gaia identity and dated March 2026 visit",
+          "sourceUrl": "https://www.tripadvisor.ca/Restaurant_Review-g304053-d3512205-Reviews-Gaia_Cafe_Crafts-Sagada_Mountain_Province_Cordillera_Region_Luzon.html",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "category": "Food & drink",
+      "description": "Gaia is a café in Ambasing overlooking rice paddies. A March 2026 visitor documents lunch and outdoor seating; verify the current menu and avoid assuming dietary or accessibility suitability from older descriptions.",
+      "interests": [
+        "Food Hunter",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "sagada",
+      "catalog_stop_id": "sagada-gaia-cafe",
+      "status": "accepted",
+      "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+      "reviewed_on": "2026-10-22",
+      "planning": {
+        "base_slug": "sagada",
+        "mode": "local",
+        "cluster": "sagada-gaia-cafe",
+        "minutes": 60,
+        "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+        "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+        "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+        "requiresBooking": false,
+        "scheduling": "candidate",
+        "outdoor": false
+      },
+      "slug": "sagada-gaia-cafe"
+    },
+    {
+      "id": "sagada-banas-cafe",
+      "name": "Bana’s Coffee",
+      "destination_group": "Sagada",
+      "region": "Cordillera Administrative Region",
+      "province": "Mountain Province",
+      "city_municipality": "Sagada",
+      "barangay": null,
+      "address": null,
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "No Juan Is An Island — June 2026 Bana’s return visit",
+          "sourceUrl": "https://nojuanisanisland.com/2026/06/02/an-ode-to-nostalgia-why-simply-showing-up-in-sagada-was-a-big-win/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "No Juan Is An Island — June 2026 Bana’s return visit",
+          "sourceUrl": "https://nojuanisanisland.com/2026/06/02/an-ode-to-nostalgia-why-simply-showing-up-in-sagada-was-a-big-win/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "category": "Food & drink",
+      "description": "Bana’s is a long-running Sagada café revisited in June 2026. The report documents renovations and menu changes, a reminder to confirm the current selection rather than expecting drinks remembered from earlier trips.",
+      "interests": [
+        "Food Hunter",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "sagada",
+      "catalog_stop_id": "sagada-banas-cafe",
+      "status": "accepted",
+      "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+      "reviewed_on": "2026-10-22",
+      "planning": {
+        "base_slug": "sagada",
+        "mode": "local",
+        "cluster": "sagada-banas-cafe",
+        "minutes": 60,
+        "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+        "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+        "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+        "requiresBooking": false,
+        "scheduling": "candidate",
+        "outdoor": false
+      },
+      "slug": "sagada-banas-cafe"
     }
   ]
 }

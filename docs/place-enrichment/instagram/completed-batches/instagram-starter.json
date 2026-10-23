@@ -1,0 +1,78 @@
+{
+  "batchId": "instagram-starter",
+  "checkedOn": "2026-10-22",
+  "places": 5,
+  "posts": 5,
+  "outcomes": [
+    {
+      "placeId": "siargao-spotted-pig-catangnan",
+      "posts": [
+        {
+          "url": "https://www.instagram.com/p/CQr9d2jjvGv/",
+          "presentation": "manual-embed",
+          "embedCheck": {
+            "status": "unconfirmed",
+            "checkedOn": null,
+            "note": "Official manual embed supported; this individual post has not yet been confirmed rendering in a live browser."
+          }
+        }
+      ]
+    },
+    {
+      "placeId": "baguio-ili-likha",
+      "posts": [
+        {
+          "url": "https://www.instagram.com/p/DRoz8atiZVJ/",
+          "presentation": "manual-embed",
+          "embedCheck": {
+            "status": "unconfirmed",
+            "checkedOn": null,
+            "note": "Official manual embed supported; this individual post has not yet been confirmed rendering in a live browser."
+          }
+        }
+      ]
+    },
+    {
+      "placeId": "baguio-wright-park",
+      "posts": [
+        {
+          "url": "https://www.instagram.com/p/CYauQKwvVey/",
+          "presentation": "manual-embed",
+          "embedCheck": {
+            "status": "unconfirmed",
+            "checkedOn": null,
+            "note": "Official manual embed supported; this individual post has not yet been confirmed rendering in a live browser."
+          }
+        }
+      ]
+    },
+    {
+      "placeId": "boracay-bulabog-beach-walk",
+      "posts": [
+        {
+          "url": "https://www.instagram.com/reel/CxuIYClxRSn/",
+          "presentation": "manual-embed",
+          "embedCheck": {
+            "status": "unconfirmed",
+            "checkedOn": null,
+            "note": "Official manual embed supported; this individual post has not yet been confirmed rendering in a live browser."
+          }
+        }
+      ]
+    },
+    {
+      "placeId": "baguio-mines-view-park",
+      "posts": [
+        {
+          "url": "https://www.instagram.com/p/CXIZmS-F4et/",
+          "presentation": "manual-embed",
+          "embedCheck": {
+            "status": "unconfirmed",
+            "checkedOn": null,
+            "note": "Official manual embed supported; this individual post has not yet been confirmed rendering in a live browser."
+          }
+        }
+      ]
+    }
+  ]
+}

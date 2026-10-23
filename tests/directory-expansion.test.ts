@@ -3,7 +3,7 @@ import assert from "node:assert/strict";
 import {createHash} from "node:crypto";
 import baseline from "../lib/catalog/expansion-baseline.json";
 import approved from "../lib/catalog/directory-expansion.json";
-import {originalDirectoryCandidates,directoryListings,filterDirectory,directoryTargets} from "../lib/catalog/directory";
+import {originalDirectoryCandidates,directoryListings,filterDirectory,directoryTargets,categoryForPlace} from "../lib/catalog/directory";
 import {importDirectoryBatch,stableDirectoryJson,duplicateReason} from "../lib/catalog/directory-import";
 import type {DirectoryCandidate} from "../lib/catalog/directory-schema";
 import {directoryCandidateSchema} from "../lib/catalog/directory-schema";
@@ -18,13 +18,14 @@ const additions=approved as DirectoryCandidate[];
 const options={protectedIds:new Set(baseline.records.map(p=>p.id)),knownCatalogIds:new Set(selectableDestinations.flatMap(d=>d.stops.map(s=>s.id)))};
 test("original 200 records are unchanged; the saved 132 additions retain an explicit 18-place research shortfall",()=>{
   for(const p of baseline.records){const actual=directoryListings.find(r=>r.id===p.id);assert.ok(actual,p.id);assert.equal(createHash("sha256").update(stableDirectoryJson(actual)).digest("hex"),p.record_sha256,p.id);}
-  assert.equal(additions.length,132);assert.equal(directoryListings.length,332);
+  const historical=directoryListings.filter(p=>baseline.records.some(b=>b.id===p.id)||additions.some(a=>a.id===p.id));
+  assert.equal(additions.length,132);assert.equal(historical.length,332);
   assert.equal(new Set(additions.map(p=>p.id)).size,132);
-  assert.equal(Object.values(directoryTargets).reduce((a,b)=>a+b,0)-directoryListings.length,18);
+  assert.equal(Object.values(directoryTargets).reduce((a,b)=>a+b,0)-historical.length,18);
   for(const group of Object.keys(baseline.starting_by_destination)){
     const rows=additions.filter(p=>p.destination_group===group);
-    assert.equal(directoryListings.filter(p=>p.destination_group===group).length,baseline.starting_by_destination[group as keyof typeof baseline.starting_by_destination]+rows.length);
-    assert.ok(directoryListings.filter(p=>p.destination_group===group).length<=directoryTargets[group]);
+    assert.equal(historical.filter(p=>p.destination_group===group).length,baseline.starting_by_destination[group as keyof typeof baseline.starting_by_destination]+rows.length);
+    assert.ok(historical.filter(p=>p.destination_group===group).length<=directoryTargets[group]);
   }
   for(const p of additions){assert.equal(p.status,"accepted");assert.ok(!options.protectedIds.has(p.id));assert.ok(directoryCandidateSchema.safeParse(p).success,p.id);assert.equal(p.sources.identity.status,"verified");assert.equal(p.sources.municipality.status,"verified");if(p.latitude!==null)assert.equal(p.sources.coordinates.status,"verified");}
 });
@@ -60,7 +61,7 @@ test("invalid evidence or coordinates cannot enter the published batch; optional
 });
 test("every addition appears in filters and details; only mapped places enter the existing itinerary selector",()=>{
   for(const p of additions){
-    assert.ok(filterDirectory({group:p.destination_group,category:p.category,search:p.name}).some(r=>r.id===p.id),p.id);
+    assert.ok(filterDirectory({group:p.destination_group,category:categoryForPlace(p),search:p.name}).some(r=>r.id===p.id),p.id);
     const place=discoveryPlace(p.id)!;assert.ok(place,p.id);assert.equal(place.directory?.city_municipality,p.city_municipality);
     assert.ok(directoryDetails(place.directory!));
     if(p.planning?.base_slug){const stop=destination(p.planning.base_slug)!.stops.find(s=>s.id===p.catalog_stop_id);assert.ok(stop,p.id);assert.ok(discoveryStop(place));assert.deepEqual(stop.geography?.sources.municipality,p.sources.municipality);}

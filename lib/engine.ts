@@ -11,6 +11,7 @@ import {
 import { defaultFactSources, estimatedSource } from "./sources";
 import {activityKeys, conflictsWithUsed, markUsed, mentioned, visitStart, closeEnough, addableStop} from "./catalog/planning";
 import {matchesPlacePreferences,placeTypeLabels} from "./catalog/place-types";
+import {isFoodStop,isMealStop} from "./catalog/food";
 export const uid = () => crypto.randomUUID();
 export const minutes = (t: string) => {
   const [h, m] = t.split(":").map(Number);
@@ -71,7 +72,7 @@ export function blankActivity(
 }
 export function fromStop(s: Stop, r: TripRequest, start: string): Activity {
   return {
-    ...blankActivity(s.name, start, s.category),
+    ...blankActivity(s.name, start, isFoodStop(s)?"Food":s.category),
     description: s.description,
     geography:s.geography?structuredClone(s.geography):null,
     catalogStopId: s.id,
@@ -86,7 +87,7 @@ export function fromStop(s: Stop, r: TripRequest, start: string): Activity {
     lng: s.lng,
     duration: s.mode === "local" ? s.minutes : Math.max(480, s.minutes),
     cost: s.cost * (s.costBasis === "group" ? 1 : travelers(r)),
-    category: s.category === "Food" ? "Food" : "Attractions",
+    category: isFoodStop(s) ? "Food" : "Attractions",
     outdoor: s.outdoor,
     disruptionSensitivities: [...(s.disruptionSensitivities || [])],
     openingHours: s.openingHours ? structuredClone(s.openingHours) : null,
@@ -149,6 +150,10 @@ function shuffled<T>(items:T[],seed:string) {
   for(let i=result.length-1;i>0;i--){const j=Math.floor(random()*(i+1));[result[i],result[j]]=[result[j],result[i]];}
   return result;
 }
+export const visitLimit=(r:TripRequest,index:number)=>index===0||r.pace==="Chill"?1:r.pace==="Balanced"?2:3;
+export const foodFocusedRequest=(r:TripRequest)=>r.activityCategories.length
+  ?r.activityCategories.every(t=>["cafe","restaurant","bakery","bar","market"].includes(t))
+  :r.interests.length===1&&r.interests[0]==="Food Hunter";
 export function makeDay(
   r: TripRequest, slug: string, index: number, localIndex: number,
   variant = 0, used = new Set<string>(), selectedIds?:string[],
@@ -164,6 +169,10 @@ export function makeDay(
   const score = (s:Stop) => (mentioned(s,r.must)?100:0) + s.interests.filter(i=>r.interests.includes(i)).length*10 - (economy?s.cost/50:s.cost/1000);
   let pool=shuffled(candidateStops(r,slug,index,used),`${r.randomSeed||uid()}:${slug}:${index}:${variant}`);
   pool.sort((a,b)=>score(b)-score(a)||a.cost-b.cost);
+  const foodFocused=foodFocusedRequest(r);
+  // Ordinary sightseeing slots stay balanced as the restaurant catalog grows.
+  // Explicit food requests and named must-visits retain their existing priority.
+  if(!selectedIds&&!foodFocused)pool.sort((a,b)=>Number(isFoodStop(a)&&!mentioned(a,r.must))-Number(isFoodStop(b)&&!mentioned(b,r.must)));
   if(selectedIds)pool=selectedIds.flatMap(id=>pool.find(s=>s.id===id)||[]);
   // Explicit excursion opt-in reserves one whole day; never append other visits.
   const excursion = !selectedIds&&r.includeExcursions && localIndex%2===1 ? pool.find(s=>s.mode!=="local") : undefined;
@@ -174,8 +183,14 @@ export function makeDay(
   let cursor=start;
   let first:Stop|undefined;
   let previous:Stop|undefined;
-  const target=arrival||r.pace==="Chill"?1:r.pace==="Balanced"?2:3;
+  const target=visitLimit(r,index);
+  const explicitFood=r.activityCategories.some(t=>["cafe","restaurant","bakery","bar","market"].includes(t));
   for(const s of pool) {
+    if(!selectedIds&&!foodFocused&&isFoodStop(s)&&!mentioned(s,r.must)){
+      if(activities.some(a=>a.catalogStopId&&isFoodStop(d.stops.find(x=>x.id===a.catalogStopId)!)))continue;
+      // An ordinary visit is not an implicit request for another meal or coffee.
+      if(!explicitFood&&pool.some(x=>!isFoodStop(x)))continue;
+    }
     if(first&&(s.mode!=="local"||!closeEnough(first,s)||!closeEnough(previous!,s)))continue;
     if(conflictsWithUsed(s,used,d.stops))continue;
     const duration=s.mode!=="local"?Math.max(480,s.minutes):s.minutes;
@@ -191,16 +206,35 @@ export function makeDay(
     first ??= s;
     previous=s;
     cursor=begins+duration+Math.max(45,s.transferMinutes);
+    // Reserve a visit slot for a geographically compatible named meal, rather
+    // than appending a fourth stop beyond the pace/AI contract. Exact beach or
+    // other non-food filters never introduce off-category meals.
+    if(!selectedIds&&!foodFocused&&!departure&&target>1&&activities.filter(a=>a.catalogStopId).length===target-1
+      &&!activities.some(a=>a.catalogStopId&&isFoodStop(d.stops.find(x=>x.id===a.catalogStopId)!))
+      &&pool.some(x=>isMealStop(x)&&!conflictsWithUsed(x,used,d.stops)&&closeEnough(first!,x)&&closeEnough(previous!,x)
+        &&visitStart(x,date,Math.max(12*60+30,cursor),dayEnd,x.minutes)!==null))break;
     if(s.mode!=="local"||activities.filter(a=>a.catalogStopId).length>=target)break;
   }
   const visits=activities.filter(a=>a.catalogStopId);
   // A flexible meal placeholder uses the day's food budget, not a repeated venue
   // or another admission allowance. Its location and availability remain unknown.
-  if(!departure&&(!first||first.mode==="local")) {
+  if(!departure&&(!first||first.mode==="local")&&!visits.some(a=>isMealStop(d.stops.find(s=>s.id===a.catalogStopId)!))) {
+    // Named meals replace this placeholder, using the same geographic/hours
+    // checks and the same allowance accounting. Never append an off-type venue.
+    const mealAt=Math.max(arrival?18*60:12*60+30,cursor);
+    const venue=!selectedIds&&visits.length<target&&(foodFocused||!visits.some(a=>isFoodStop(d.stops.find(s=>s.id===a.catalogStopId)!)))?pool.find(s=>isMealStop(s)&&!conflictsWithUsed(s,used,d.stops)
+      &&(!first||closeEnough(first,s)&&closeEnough(previous!,s))
+      &&visitStart(s,date,mealAt,dayEnd,s.minutes)!==null):undefined;
+    if(venue){
+      const begins=visitStart(venue,date,mealAt,dayEnd,venue.minutes)!;
+      activities.push(fromStop(venue,r,clock(begins)));markUsed(venue,used,d.stops);
+      cursor=begins+venue.minutes+Math.max(45,venue.transferMinutes);
+    }else{
     const meal=blankActivity("Flexible meal break",clock(Math.max(arrival?18*60:12*60+30,cursor)),"Food");
     meal.description=`Meal ideas: ${d.food} Use the day's food allowance. Confirm a venue and dietary needs locally.`;
     meal.duration=60;meal.provenance="demo";
     activities.push(meal);cursor=minutes(meal.start)+meal.duration+45;
+    }
   }
   if(!departure)activities.push({...blankActivity(r.pace==="Chill"?"A long, unhurried rest":"Free time & a little breathing room",clock(Math.min(21*60,Math.max(16*60+30,cursor)))),
     duration:r.pace==="Chill"?120:60,provenance:"demo",

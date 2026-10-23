@@ -1,0 +1,436 @@
+{
+  "batchId": "instagram-008",
+  "checkedOn": "2026-10-22",
+  "mode": "unapproved-research",
+  "records": [
+    {
+      "placeId": "bohol-libaong-beach",
+      "name": "Libaong Beach",
+      "destination": "Bohol",
+      "municipality": "Panglao",
+      "category": "Nature",
+      "hasApprovedPhoto": false,
+      "batchId": "instagram-008",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://tourism.bohol.gov.ph/visitbohol-panglao/",
+          "status": null,
+          "error": "The operation was aborted due to timeout",
+          "candidates": [],
+          "limitation": "Inaccessible publisher source; no private content or authentication workaround attempted."
+        }
+      ]
+    },
+    {
+      "placeId": "bohol-common-crew",
+      "name": "Common Crew Coffee Roasters & Brewers",
+      "destination": "Bohol",
+      "municipality": "Panglao",
+      "category": "Food & drink",
+      "hasApprovedPhoto": false,
+      "batchId": "instagram-008",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://www.commoncrewbohol.com/coffee-kombucha-brew-bar",
+          "finalUrl": "https://www.commoncrewbohol.com/coffee-kombucha-brew-bar",
+          "status": 200,
+          "title": "commoncrewbohol.com - Coffee + Kombucha Brew Bar",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "bohol-shaka-panglao",
+      "name": "Shaka Cafes — Panglao",
+      "destination": "Bohol",
+      "municipality": "Panglao",
+      "category": "Food & drink",
+      "hasApprovedPhoto": false,
+      "batchId": "instagram-008",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://www.linkedin.com/company/shaka-cafes",
+          "finalUrl": "https://www.linkedin.com/company/shaka-cafes",
+          "status": 200,
+          "title": "SHAKA | LinkedIn",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "bohol-loboc-eco-adventure-park",
+      "name": "Loboc Eco-Tourism Adventure Park",
+      "destination": "Bohol",
+      "municipality": "Loboc",
+      "category": "Attractions",
+      "hasApprovedPhoto": false,
+      "batchId": "instagram-008",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://tourism.bohol.gov.ph/visitbohol-loboc/",
+          "status": null,
+          "error": "The operation was aborted due to timeout",
+          "candidates": [],
+          "limitation": "Inaccessible publisher source; no private content or authentication workaround attempted."
+        }
+      ]
+    },
+    {
+      "placeId": "boracay-tambisaan-beach",
+      "name": "Tambisaan Beach",
+      "destination": "Boracay",
+      "municipality": "Malay",
+      "category": "Nature",
+      "hasApprovedPhoto": false,
+      "batchId": "instagram-008",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://www.tpb.gov.ph/wp-content/uploads/2023/10/Boracay-Map.pdf",
+          "finalUrl": "https://www.tpb.gov.ph/wp-content/uploads/2023/10/Boracay-Map.pdf",
+          "status": 403,
+          "title": "",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "boracay-tulubhan-beach",
+      "name": "Tulubhan Beach",
+      "destination": "Boracay",
+      "municipality": "Malay",
+      "category": "Nature",
+      "hasApprovedPhoto": false,
+      "batchId": "instagram-008",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://www.tpb.gov.ph/wp-content/uploads/2023/10/Boracay-Map.pdf",
+          "finalUrl": "https://www.tpb.gov.ph/wp-content/uploads/2023/10/Boracay-Map.pdf",
+          "status": 403,
+          "title": "",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "boracay-newcoast-keyhole",
+      "name": "Boracay Newcoast Keyhole",
+      "destination": "Boracay",
+      "municipality": "Malay",
+      "category": "Attractions",
+      "hasApprovedPhoto": false,
+      "batchId": "instagram-008",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://boracaynewcoastph.com/coves/",
+          "status": null,
+          "error": "fetch failed",
+          "candidates": [],
+          "limitation": "Inaccessible publisher source; no private content or authentication workaround attempted."
+        }
+      ]
+    },
+    {
+      "placeId": "boracay-balabag-wetland-park",
+      "name": "Balabag Wetland Park",
+      "destination": "Boracay",
+      "municipality": "Malay",
+      "category": "Parks & markets",
+      "hasApprovedPhoto": false,
+      "batchId": "instagram-008",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://sustainability.aboitiz.com/wp-content/uploads/2023/11/2020-Annual-and-Sustainability-Report-1.pdf",
+          "finalUrl": "https://aboitiz.com/sustainability/wp-content/uploads/2023/11/2020-Annual-and-Sustainability-Report-1.pdf",
+          "status": 404,
+          "title": "",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "boracay-dtalipapa-market",
+      "name": "D’Talipapa market",
+      "destination": "Boracay",
+      "municipality": "Malay",
+      "category": "Food & drink",
+      "hasApprovedPhoto": false,
+      "batchId": "instagram-008",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://www.tourismphilippines.com.au/where/boracay",
+          "finalUrl": "https://www.tourismphilippines.com.au/where/boracay",
+          "status": 200,
+          "title": "Boracay | Philippine Department of Tourism Australia & New Zealand",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "boracay-giuseppe-station-three",
+      "name": "Giuseppe Pizzeria & Sicilian Roast — Boracay",
+      "destination": "Boracay",
+      "municipality": "Malay",
+      "category": "Food & drink",
+      "hasApprovedPhoto": false,
+      "batchId": "instagram-008",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://giuseppe.ph/boracay/index.html",
+          "finalUrl": "https://giuseppe.ph/boracay/index.html",
+          "status": 200,
+          "title": "Boracay &#8211; Giuseppe",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "boracay-little-taj",
+      "name": "Little Taj",
+      "destination": "Boracay",
+      "municipality": "Malay",
+      "category": "Food & drink",
+      "hasApprovedPhoto": false,
+      "batchId": "instagram-008",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://www.littletaj.com/visit",
+          "finalUrl": "https://www.littletaj.com/visit",
+          "status": 200,
+          "title": "Visit — Little Taj",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "boracay-station-x",
+      "name": "Station X",
+      "destination": "Boracay",
+      "municipality": "Malay",
+      "category": "Parks & markets",
+      "hasApprovedPhoto": false,
+      "batchId": "instagram-008",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://www.stationx.ph/tenants",
+          "finalUrl": "https://www.stationx.ph/tenants",
+          "status": 200,
+          "title": "Community | Station X",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "iloilo-baking-studio-theos",
+      "name": "Baking Studio by Theo’s — North Grove",
+      "destination": "Iloilo",
+      "municipality": "Iloilo City",
+      "category": "Food & drink",
+      "hasApprovedPhoto": false,
+      "batchId": "instagram-008",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://www.theosrestaurantandbakery.com/bakingstudiobytheos",
+          "finalUrl": "https://www.theosrestaurantandbakery.com/bakingstudiobytheos",
+          "status": 200,
+          "title": "Baking Studio by Theo's | THEO'S",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "cebu-omagieca-obo-ob-mangrove-garden",
+      "name": "Omagieca Obo-ob Mangrove Garden",
+      "destination": "Cebu",
+      "municipality": "Bantayan",
+      "category": "Nature",
+      "hasApprovedPhoto": false,
+      "batchId": "instagram-008",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://tourism.cebu.gov.ph/explore/bantayan/",
+          "finalUrl": "https://tourism.cebu.gov.ph/explore/bantayan/",
+          "status": 200,
+          "title": "Bantayan — Explore Cebu",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "baguio-easter-weaving-room",
+      "name": "Easter Weaving Room",
+      "destination": "Baguio",
+      "municipality": "Baguio City",
+      "category": "Culture",
+      "hasApprovedPhoto": false,
+      "batchId": "instagram-008",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://infoboard.baguio.gov.ph/tourists-spots",
+          "finalUrl": "https://infoboard.baguio.gov.ph/tourists-spots",
+          "status": 200,
+          "title": "",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        },
+        {
+          "url": "https://main.baguio.gov.ph/api/infoboard/tourist-spots/easter-weaving-room-inc",
+          "finalUrl": "https://main.baguio.gov.ph/api/infoboard/tourist-spots/easter-weaving-room-inc",
+          "status": 200,
+          "title": "",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "baguio-ili-likha",
+      "name": "Ili-Likha Artists' Wateringhole",
+      "destination": "Baguio",
+      "municipality": "Baguio City",
+      "category": "Culture",
+      "hasApprovedPhoto": false,
+      "batchId": "instagram-008",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://infoboard.baguio.gov.ph/tourists-spots",
+          "finalUrl": "https://infoboard.baguio.gov.ph/tourists-spots",
+          "status": 200,
+          "title": "",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        },
+        {
+          "url": "https://main.baguio.gov.ph/api/infoboard/tourist-spots/ili-likha-artists-wateringhole",
+          "finalUrl": "https://main.baguio.gov.ph/api/infoboard/tourist-spots/ili-likha-artists-wateringhole",
+          "status": 200,
+          "title": "",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "baguio-aguinaldo-museum",
+      "name": "Emilio F. Aguinaldo Museum",
+      "destination": "Baguio",
+      "municipality": "Baguio City",
+      "category": "Culture",
+      "hasApprovedPhoto": false,
+      "batchId": "instagram-008",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://infoboard.baguio.gov.ph/tourists-spots",
+          "finalUrl": "https://infoboard.baguio.gov.ph/tourists-spots",
+          "status": 200,
+          "title": "",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        },
+        {
+          "url": "https://main.baguio.gov.ph/api/infoboard/tourist-spots/emilio-f-aguinaldo-museum",
+          "finalUrl": "https://main.baguio.gov.ph/api/infoboard/tourist-spots/emilio-f-aguinaldo-museum",
+          "status": 200,
+          "title": "",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "baguio-maryknoll-sanctuary",
+      "name": "Maryknoll Ecological Sanctuary",
+      "destination": "Baguio",
+      "municipality": "Baguio City",
+      "category": "Nature",
+      "hasApprovedPhoto": false,
+      "batchId": "instagram-008",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://infoboard.baguio.gov.ph/tourists-spots",
+          "finalUrl": "https://infoboard.baguio.gov.ph/tourists-spots",
+          "status": 200,
+          "title": "",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        },
+        {
+          "url": "https://main.baguio.gov.ph/api/infoboard/tourist-spots/maryknoll-ecological-sanctuary",
+          "finalUrl": "https://main.baguio.gov.ph/api/infoboard/tourist-spots/maryknoll-ecological-sanctuary",
+          "status": 200,
+          "title": "",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "sagada-ampacao",
+      "name": "Mount Ampacao",
+      "destination": "Sagada",
+      "municipality": "Sagada",
+      "category": "Nature",
+      "hasApprovedPhoto": false,
+      "batchId": "instagram-008",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://umali-kayo.sagada.gov.ph/",
+          "finalUrl": "https://umali-kayo.sagada.gov.ph/",
+          "status": 200,
+          "title": "Sagada iPass ™",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "sagada-balangagan-cave",
+      "name": "Balangagan Cave",
+      "destination": "Sagada",
+      "municipality": "Sagada",
+      "category": "Nature",
+      "hasApprovedPhoto": false,
+      "batchId": "instagram-008",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://umali-kayo.sagada.gov.ph/",
+          "finalUrl": "https://umali-kayo.sagada.gov.ph/",
+          "status": 200,
+          "title": "Sagada iPass ™",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    }
+  ]
+}

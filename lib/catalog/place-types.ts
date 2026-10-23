@@ -1,5 +1,6 @@
 import {z} from "zod/v3";
 import type {Stop} from "./types";
+import {foodPlaceTypes} from "./food";
 
 export const placeTypes = ["beach","cafe","restaurant","bakery","bar","museum","heritage","church","park","garden","market","shopping","viewpoint","island","waterfall","cave","lake","river","trail","wildlife","activity"] as const;
 export const placeTypeSchema=z.enum(placeTypes);
@@ -33,9 +34,10 @@ const classified:Partial<Record<PlaceType,string>>={
   activity:"siargao-cloud-9 siargao-clubhouse-golf coron-skeleton-wreck coron-lusong-gunboat coron-east-tangat-wreck coron-lusong-coral-garden siargao-magpupungko-rock-pools coron-maquinit-hot-springs puerto-princesa-ugong-rock davao-eden-nature-park davao-gap-farm davao-dleonor-inland-resort batanes-rakuh-idi-spring",
   heritage:"el-nido-kalye-artisano puerto-princesa-plaza-cuartel siargao-santa-monica-pier siargao-catangnan-bridge siargao-lokal-hub-general-luna cebu-fort-san-pedro cebu-magellan-s-cross-area cebu-heritage-monument cebu-yap-sandiego-house cebu-colon-street cebu-temple-of-leah bohol-panglao-watchtower boracay-willys-rock baguio-tam-awan-village baguio-easter-weaving-room baguio-ili-likha baguio-heritage-hill batanes-casa-real batanes-dipnaysupuan-tunnel batanes-fundacion-pacita batanes-diura-village batanes-house-of-dakay batanes-san-jose-spanish-bridge batanes-songsong-ruins batanes-savidug-village batanes-chavayan-village iloilo-molo-mansion iloilo-casa-real iloilo-calle-real iloilo-jaro-plaza-heritage-area iloilo-camina-balay-nga-bato davao-kadayawan-cultural-village davao-chinatown davao-japanese-tunnel sagada-hanging-coffins sagada-lumiang-cave manila-fort-santiago-area manila-baluarte-san-diego",
 };
+classified.garden+=" bohol-green-thumb-farm";
 const byId=new Map<string,PlaceType[]>();
 for(const type of placeTypes)for(const id of classified[type]?.split(" ")||[])byId.set(id,[...(byId.get(id)||[]),type]);
-export function typesForStop(id:string):PlaceType[]{return [...(byId.get(id)||[])];}
+export function typesForStop(id:string):PlaceType[]{return [...new Set([...(byId.get(id)||[]),...foodPlaceTypes(id)])];}
 const preferenceTypes:Record<string,PlaceType[]>={
   "Beach Bum":["beach"],"Food Hunter":["cafe","restaurant","bakery","bar","market"],
   "Culture Seeker":["museum","heritage","church"],"City Wanderer":["museum","heritage","church","park","market","shopping"],

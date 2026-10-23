@@ -1,5 +1,13 @@
 # Discover content and media enrichment
 
+**Detail-cover behavior:** [Instagram cover preview](instagram/cover-preview.md) now reuses the original post widget when no approved cover photo exists. Nine existing places qualify. The preview is opt-in, keeps all official controls and the original link, and does not change photo-gap counts.
+
+**Latest Instagram pass:** [implementation and research handoff](instagram/README.md), [destination/category coverage](instagram/coverage.md). There are 37 reviewed posts for 36 of 426 locations; 9 places with missing covers now have an Instagram resource. All 37 official widgets rendered at their recorded checks, with initial images/posters visually reviewed. The catalog-source audit covers all 426 places; exact-post discovery remains open for 390 without an approved resource. Instagram does not close any of the 212 licensed-photo gaps. Historical research totals below remain separate.
+
+**Current catalog:** the later [food-directory expansion](../food-directory/README.md) adds 94 places, bringing the complete directory to 426 descriptions and 214 places with photos (212 documented photo overlays plus two retained legacy images). There are 212 current photo gaps. Food additions contributed five approved images; the original 515 video associations remain unchanged.
+
+**Historical photo follow-up:** the targeted photo-only pass reviewed its original 148 gaps and added 25 photos, reaching 209/332 with 123 gaps in that cohort. See [photo-only results, source limits and supplied-photo checklist](photo-only/README.md). Its checklist and the earlier counts below are preserved as history, separately from new food records.
+
 Completed catalog research pass: 22 October 2026 UTC (23 October in the Philippines). Active brief: attachment `2e4af148-0c8c-4064-8daf-25d5854fcc71/Pasted text.txt`. Lakbay is standalone. Catalog inclusion does not establish partnership or popularity.
 
 ## What is complete

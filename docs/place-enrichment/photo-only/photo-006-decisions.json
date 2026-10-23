@@ -1,0 +1,2928 @@
+{
+  "batchId": "photo-006",
+  "mode": "photos-only",
+  "checkedOn": "2026-10-22",
+  "entries": [
+    {
+      "placeId": "iloilo-baking-studio-theos",
+      "approved": false,
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "Baking Studio by Theos",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Baking+Studio+by+Theos&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Baking Studio by Iloilo",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Baking+Studio+by+Iloilo&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Baking Studio by Theos Iloilo",
+          "url": "https://www.flickr.com/search/?text=Baking+Studio+by+Theos+Iloilo&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Theos North Grove",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Theos+North+Grove&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Theos North Grove",
+          "url": "https://www.flickr.com/search/?text=Theos+North+Grove&license=4%2C5%2C9%2C10",
+          "count": 12
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=Theos+North+Grove&srlimit=4",
+          "categories": [
+            "Category:Landscape paintings by Vincent van Gogh in the Van Gogh Museum"
+          ]
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=Baking+Studio+by+Theos&limit=3",
+          "candidates": []
+        }
+      ],
+      "rejections": [
+        {
+          "sourcePage": "https://www.flickr.com/photos/wonker/14642148164/",
+          "title": "Theo Walcott",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/wonker/9650649209/",
+          "title": "Theo Walcott",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/wonker/2954445576/",
+          "title": "Theo Walcott",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/wonker/269596016/",
+          "title": "Henry And Theo Celebrating",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/wonker/7161319004/",
+          "title": "Theo Walcott",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/wonker/5728286637/",
+          "title": "Theo Walcott",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/wonker/8757475084/",
+          "title": "Theo Walcott",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/wonker/4451039503/",
+          "title": "Theo Walcott",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/wonker/3789387803/",
+          "title": "Theo Walcott",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/wonker/6786257864/",
+          "title": "Theo Walcott",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/wonker/8053024027/",
+          "title": "Theo Walcott",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/wonker/4915365139/",
+          "title": "Theo Walcott",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        }
+      ],
+      "notes": [
+        "No permission requested and no owner contacted. Official/public visibility alone does not grant reuse rights."
+      ],
+      "reason": "No photograph established both the exact place/branch and compatible individual-image reuse rights in the reviewed searches. A supplied photograph with documented rights is needed."
+    },
+    {
+      "placeId": "iloilo-biscocho-haus",
+      "approved": true,
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "Original Biscocho Haus",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Original+Biscocho+Haus&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Original Biscocho Haus Iloilo",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Original+Biscocho+Haus+Iloilo&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Original Biscocho Haus Iloilo",
+          "url": "https://www.flickr.com/search/?text=Original+Biscocho+Haus+Iloilo&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Biscocho Jaro",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Biscocho+Jaro&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 2
+        },
+        {
+          "provider": "Flickr",
+          "query": "Biscocho Jaro",
+          "url": "https://www.flickr.com/search/?text=Biscocho+Jaro&license=4%2C5%2C9%2C10",
+          "count": 1
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=Biscocho+Jaro&srlimit=4",
+          "categories": []
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=Original+Biscocho+Haus&limit=3",
+          "candidates": []
+        }
+      ],
+      "rejections": [
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:First_Biscocho_House_Jaro_Iloilo_-_8791632357.jpg",
+          "title": "File:First Biscocho House Jaro Iloilo - 8791632357.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/biagkensiak/8791632357/",
+          "title": "First Biscocho House Jaro Iloilo",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        }
+      ],
+      "notes": [],
+      "visuallyReviewed": true,
+      "licenseReviewed": true,
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Biscocho_House_Jaro.jpg"
+      ],
+      "identityReview": "Individual filename and description identify the Jaro store. Visually reviewed the Original Biscocho Haus name on the facade; no generic product or different branch substituted.",
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Biscocho_House_Jaro.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Biscocho_House_Jaro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "Herbertkikoy",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "Herbertkikoy / Wikimedia Commons / CC BY-SA 4.0. Resized and JPEG compressed.",
+        "alt": "Original Biscocho Haus shop facade in Jaro, Iloilo City"
+      },
+      "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Biscocho_House_Jaro.jpg/1280px-Biscocho_House_Jaro.jpg",
+      "individualSourceEvidence": {
+        "api": "https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=1280&titles=File%3ABiscocho_House_Jaro.jpg",
+        "parseUrl": "https://commons.wikimedia.org/w/api.php?action=parse&format=json&page=File%3ABiscocho_House_Jaro.jpg&prop=wikitext",
+        "description": "The iconic Biscocho House Jaro delighted visitors with its crunchy, sweet biscocho and other Ilonggo treats. A beloved bakery, it celebrated local flavors and became a staple of Jaro’s culinary heritage.",
+        "categories": "Jaro, Iloilo City|Self-published work|Images from Wiki Takes Iloilo",
+        "licenseDeclaration": "=={{int:filedesc}}==\n{{Information\n|description={{en|1=The iconic Biscocho House Jaro delighted visitors with its crunchy, sweet biscocho and other Ilonggo treats. A beloved bakery, it celebrated local flavors and became a staple of Jaro’s culinary heritage.}}\n|date=2026-01-23 07:24:49\n|source={{own}}\n|author=[[User:Herbertkikoy|Herbertkikoy]]\n|permission=\n|other versions=\n}}\n\n=={{int:license-header}}==\n{{self|cc-by-sa-4.0}}\n\n[[Category:Images from Wiki Takes Iloilo]]\n[[Category:Jaro, Iloilo City]]",
+        "requiredAttribution": ""
+      }
+    },
+    {
+      "placeId": "iloilo-bucari-pine-forest",
+      "approved": true,
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "Bucari Pine Forest",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Bucari+Pine+Forest&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 8
+        },
+        {
+          "provider": "Commons",
+          "query": "Bucari Pine Forest Iloilo",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Bucari+Pine+Forest+Iloilo&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 6
+        },
+        {
+          "provider": "Flickr",
+          "query": "Bucari Pine Forest Iloilo",
+          "url": "https://www.flickr.com/search/?text=Bucari+Pine+Forest+Iloilo&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Bucari pine",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Bucari+pine&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 6
+        },
+        {
+          "provider": "Flickr",
+          "query": "Bucari pine",
+          "url": "https://www.flickr.com/search/?text=Bucari+pine&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=Bucari+pine&srlimit=4",
+          "categories": []
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=Bucari+Pine+Forest&limit=3",
+          "candidates": []
+        }
+      ],
+      "rejections": [
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Foggy_mountain_Leon.jpg",
+          "title": "File:Foggy mountain Leon.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:The_way_to_imoy_falls.jpg",
+          "title": "File:The way to imoy falls.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Heavenly_Forest.jpg",
+          "title": "File:Heavenly Forest.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Bucari_Pine_Forest.jpg",
+          "title": "File:Bucari Pine Forest.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Terraces_in_Bucari,_The_Little_Baguio.jpg",
+          "title": "File:Terraces in Bucari, The Little Baguio.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Bucari_Little_Baguio_Terraces.jpg",
+          "title": "File:Bucari Little Baguio Terraces.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Pinus_ustulata_forest,_Bucari_Pine_Forest,_Leon,_Iloilo,_Panay,_Philippines.jpg",
+          "title": "File:Pinus ustulata forest, Bucari Pine Forest, Leon, Iloilo, Panay, Philippines.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Heavenly_Forest_(cropped).jpg",
+          "title": "File:Heavenly Forest (cropped).jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Pine_forest_in_Leon,_Iloilo.jpg",
+          "title": "File:Pine forest in Leon, Iloilo.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        }
+      ],
+      "notes": [],
+      "visuallyReviewed": true,
+      "licenseReviewed": true,
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Bucari_Pines_Forest.jpg"
+      ],
+      "identityReview": "Individual file specifically names Bucari Pines Forest. Visually reviewed the forested slopes; this has exact-site evidence unlike the previously rejected barangay-wide landscape.",
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Bucari_Pines_Forest.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Bucari_Pines_Forest.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "Gibough",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "Gibough / Wikimedia Commons / CC BY-SA 4.0. Resized and JPEG compressed.",
+        "alt": "Pine trees on the misty slopes of Bucari Pine Forest in Leon, Iloilo"
+      },
+      "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Bucari_Pines_Forest.jpg/1280px-Bucari_Pines_Forest.jpg",
+      "individualSourceEvidence": {
+        "api": "https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=1280&titles=File%3ABucari_Pines_Forest.jpg",
+        "parseUrl": "https://commons.wikimedia.org/w/api.php?action=parse&format=json&page=File%3ABucari_Pines_Forest.jpg&prop=wikitext",
+        "description": "Pinus ustulata (syn. Pinus merkusii subsp. ustulata) in Bucari Pine Forest. Bucari Pine Forest is located in the town of Leon and is popularly tagged as the “Little Baguio of Iloilo”.\nIndeed, with its hundreds of towering pine trees surrounding the area, Bucari Pine Forest is a perfect pause from our technology-saturated lives.",
+        "categories": "Trees in the Philippines|Mountains of the Philippines|Pinus ustulata|Self-published work|Files with coordinates missing SDC location of creation|Images from Wiki Loves Earth 2022|Images from Wiki Loves Earth 2022 in the Philippines|Uploaded via Campaign:wle-ph|Images from Wiki Loves Earth missing SDC location of creation|Bucari|Images from Wiki Loves Earth 2022 in the Philippines - landscape",
+        "latitude": "10.873513",
+        "longitude": "122.288771",
+        "licenseDeclaration": "=={{int:filedesc}}==\n{{Information\n|description={{en|1=''Pinus ustulata'' (syn. ''Pinus merkusii'' subsp. ''ustulata'') in Bucari Pine Forest. Bucari Pine Forest is located in the town of Leon and is popularly tagged as the “Little Baguio of Iloilo”.\n\nIndeed, with its hundreds of towering pine trees surrounding the area, Bucari Pine Forest is a perfect pause from our technology-saturated lives.}}\n|date=2022-06-29\n|source={{own}}\n|author=[[User:Gibough|Gibough]]\n|permission=\n|other versions=}}\n{{Location|10.873513|122.288771}}\n\n=={{int:license-header}}==\n{{self|cc-by-sa-4.0}}\n\n{{Wiki Loves Earth 2022|ph}}\n\n[[Category:Pinus ustulata]]\n[[Category:Mountains of the Philippines]]\n[[Category:Trees in the Philippines]]\n[[Category:Uploaded via Campaign:wle-ph]]\n[[Category:Images from Wiki Loves Earth 2022 in the Philippines - landscape]]\n[[Category:Bucari]]",
+        "requiredAttribution": ""
+      }
+    },
+    {
+      "placeId": "iloilo-breakthrough-villa",
+      "approved": false,
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "Breakthrough Restaurant",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Breakthrough+Restaurant&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 6
+        },
+        {
+          "provider": "Commons",
+          "query": "Breakthrough Iloilo",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Breakthrough+Iloilo&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Breakthrough Restaurant Iloilo",
+          "url": "https://www.flickr.com/search/?text=Breakthrough+Restaurant+Iloilo&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Breakthrough Arevalo",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Breakthrough+Arevalo&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Breakthrough Arevalo",
+          "url": "https://www.flickr.com/search/?text=Breakthrough+Arevalo&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=Breakthrough+Arevalo&srlimit=4",
+          "categories": []
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=Breakthrough+Restaurant&limit=3",
+          "candidates": []
+        }
+      ],
+      "rejections": [
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Brittany_Robertson,_HIFF_2010.jpg",
+          "title": "File:Brittany Robertson, HIFF 2010.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Anais_Demoustier.jpg",
+          "title": "File:Anais Demoustier.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Brittany_Robertson_cropped_2010.jpg",
+          "title": "File:Brittany Robertson cropped 2010.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:CyronMelville.jpg",
+          "title": "File:CyronMelville.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Pihla_Viitala_2010.jpg",
+          "title": "File:Pihla Viitala 2010.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Coast_watch_(1979)_(20650956452).jpg",
+          "title": "File:Coast watch (1979) (20650956452).jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        }
+      ],
+      "notes": [
+        "No permission requested and no owner contacted. Official/public visibility alone does not grant reuse rights."
+      ],
+      "reason": "No photograph established both the exact place/branch and compatible individual-image reuse rights in the reviewed searches. A supplied photograph with documented rights is needed."
+    },
+    {
+      "placeId": "iloilo-dapli-valeria",
+      "approved": false,
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "Dapli by Breakthrough",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Dapli+by+Breakthrough&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Dapli by Breakthrough Iloilo",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Dapli+by+Breakthrough+Iloilo&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Dapli by Breakthrough Iloilo",
+          "url": "https://www.flickr.com/search/?text=Dapli+by+Breakthrough+Iloilo&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Dapli Iloilo",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Dapli+Iloilo&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Dapli Iloilo",
+          "url": "https://www.flickr.com/search/?text=Dapli+Iloilo&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=Dapli+Iloilo&srlimit=4",
+          "categories": []
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=Dapli+by+Breakthrough&limit=3",
+          "candidates": []
+        }
+      ],
+      "rejections": [],
+      "notes": [
+        "No permission requested and no owner contacted. Official/public visibility alone does not grant reuse rights."
+      ],
+      "reason": "No photograph established both the exact place/branch and compatible individual-image reuse rights in the reviewed searches. A supplied photograph with documented rights is needed."
+    },
+    {
+      "placeId": "iloilo-ponsyon-plazuela",
+      "approved": false,
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "Ponsyon by Breakthrough",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Ponsyon+by+Breakthrough&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Ponsyon by Breakthrough Iloilo",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Ponsyon+by+Breakthrough+Iloilo&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Ponsyon by Breakthrough Iloilo",
+          "url": "https://www.flickr.com/search/?text=Ponsyon+by+Breakthrough+Iloilo&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Ponsyon",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Ponsyon&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Ponsyon",
+          "url": "https://www.flickr.com/search/?text=Ponsyon&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=Ponsyon&srlimit=4",
+          "categories": []
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=Ponsyon+by+Breakthrough&limit=3",
+          "candidates": []
+        }
+      ],
+      "rejections": [],
+      "notes": [
+        "No permission requested and no owner contacted. Official/public visibility alone does not grant reuse rights."
+      ],
+      "reason": "No photograph established both the exact place/branch and compatible individual-image reuse rights in the reviewed searches. A supplied photograph with documented rights is needed."
+    },
+    {
+      "placeId": "iloilo-taytay-tigre",
+      "approved": false,
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "Taytay Tigre",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Taytay+Tigre&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Taytay Tigre Iloilo",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Taytay+Tigre+Iloilo&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Taytay Tigre Iloilo",
+          "url": "https://www.flickr.com/search/?text=Taytay+Tigre+Iloilo&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Taytay Tigre",
+          "url": "https://www.flickr.com/search/?text=Taytay+Tigre&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=Taytay+Tigre&srlimit=4",
+          "categories": []
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=Taytay+Tigre&limit=3",
+          "candidates": []
+        }
+      ],
+      "rejections": [],
+      "notes": [
+        "No permission requested and no owner contacted. Official/public visibility alone does not grant reuse rights."
+      ],
+      "reason": "No photograph established both the exact place/branch and compatible individual-image reuse rights in the reviewed searches. A supplied photograph with documented rights is needed."
+    },
+    {
+      "placeId": "iloilo-garin-farm",
+      "approved": false,
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "Garin Farm",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Garin+Farm&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 2
+        },
+        {
+          "provider": "Commons",
+          "query": "Garin Farm Iloilo",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Garin+Farm+Iloilo&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 1
+        },
+        {
+          "provider": "Flickr",
+          "query": "Garin Farm Iloilo",
+          "url": "https://www.flickr.com/search/?text=Garin+Farm+Iloilo&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Garin Farm",
+          "url": "https://www.flickr.com/search/?text=Garin+Farm&license=4%2C5%2C9%2C10",
+          "count": 6
+        },
+        {
+          "provider": "Commons category members",
+          "category": "Category:GarinFarm Pilgrimage Resort",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=categorymembers&gcmtitle=Category%3AGarinFarm+Pilgrimage+Resort&gcmtype=file&gcmlimit=30&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=Garin+Farm&srlimit=4",
+          "categories": [
+            "Category:GarinFarm Pilgrimage Resort"
+          ]
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=Garin+Farm&limit=3",
+          "candidates": []
+        }
+      ],
+      "rejections": [
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:River_kaduna_farm_behind_sardauna_crescent_kaduna.jpg",
+          "title": "File:River kaduna farm behind sardauna crescent kaduna.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:San_Joaquin_town_center.jpg",
+          "title": "File:San Joaquin town center.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/pussreboots/32031065284/",
+          "title": "Garin Regional 20150204",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/pussreboots/32720977332/",
+          "title": "Garin Regional 20150204",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/pussreboots/32750866121/",
+          "title": "Garin Regional 20150204",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/pussreboots/32750239891/",
+          "title": "Garin Regional 20150204",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/jonnyhunter/3344345705/",
+          "title": "garin organizing chives",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/pussreboots/21638434985/",
+          "title": "Garin Regional 20140319",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        }
+      ],
+      "notes": [
+        "No permission requested and no owner contacted. Official/public visibility alone does not grant reuse rights."
+      ],
+      "reason": "No photograph established both the exact place/branch and compatible individual-image reuse rights in the reviewed searches. A supplied photograph with documented rights is needed."
+    },
+    {
+      "placeId": "manila-ayala-museum",
+      "approved": true,
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "Ayala Museum",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Ayala+Museum&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 8
+        },
+        {
+          "provider": "Commons",
+          "query": "Ayala Museum Philippines",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Ayala+Museum+Philippines&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 8
+        },
+        {
+          "provider": "Flickr",
+          "query": "Ayala Museum Philippines",
+          "url": "https://www.flickr.com/search/?text=Ayala+Museum+Philippines&license=4%2C5%2C9%2C10",
+          "count": 8
+        },
+        {
+          "provider": "Commons",
+          "query": "Ayala museum Makati",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Ayala+museum+Makati&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 8
+        },
+        {
+          "provider": "Flickr",
+          "query": "Ayala museum Makati",
+          "url": "https://www.flickr.com/search/?text=Ayala+museum+Makati&license=4%2C5%2C9%2C10",
+          "count": 6
+        },
+        {
+          "provider": "Commons category members",
+          "category": "Category:Ayala Museum",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=categorymembers&gcmtitle=Category%3AAyala+Museum&gcmtype=file&gcmlimit=30&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 28
+        },
+        {
+          "provider": "Wikidata linked image records",
+          "url": "https://www.wikidata.org/w/api.php?action=wbgetentities&format=json&ids=Q2110963&props=claims%7Clabels%7Cdescriptions%7Csitelinks&languages=en",
+          "entity": "Q2110963",
+          "files": []
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=Ayala+museum+Makati&srlimit=4",
+          "categories": [
+            "Category:Ayala Museum"
+          ]
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=Ayala+Museum&limit=3",
+          "candidates": [
+            {
+              "id": "Q2110963",
+              "label": "Ayala Museum",
+              "description": "art and history museum in, Ayala Museum Building",
+              "url": "http://www.wikidata.org/entity/Q2110963"
+            }
+          ]
+        }
+      ],
+      "rejections": [
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Ayala_Museum_Marker,_May_2024.jpg",
+          "title": "File:Ayala Museum Marker, May 2024.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Ayala_Museum_Shop,_May_2024.jpg",
+          "title": "File:Ayala Museum Shop, May 2024.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Ayala_Museum,_Makati,_Feb_2025_(4).jpg",
+          "title": "File:Ayala Museum, Makati, Feb 2025 (4).jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Ayala_Museum,_Makati,_Feb_2025_(5).jpg",
+          "title": "File:Ayala Museum, Makati, Feb 2025 (5).jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Ayala_Museum,_Makati,_Feb_2025_(6).jpg",
+          "title": "File:Ayala Museum, Makati, Feb 2025 (6).jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Ayala_Museum,_Makati,_Feb_2025_(7).jpg",
+          "title": "File:Ayala Museum, Makati, Feb 2025 (7).jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Ayala_Museum_Ladder,_Makati,_Feb_2025.jpg",
+          "title": "File:Ayala Museum Ladder, Makati, Feb 2025.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:View_of_the_%22Intertwined_Transpacific,_Transcultural_Philippines%22_exhibit_in_the_Ayala_Museum.jpg",
+          "title": "File:View of the \"Intertwined Transpacific, Transcultural Philippines\" exhibit in the Ayala Museum.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:COMPACFLT_Visits_Ayala_Museum_in_Manila,_Philippines_(9176122).jpg",
+          "title": "File:COMPACFLT Visits Ayala Museum in Manila, Philippines (9176122).jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:COMPACFLT_Visits_Ayala_Museum_in_Manila,_Philippines_(9176123).jpg",
+          "title": "File:COMPACFLT Visits Ayala Museum in Manila, Philippines (9176123).jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:COMPACFLT_Visits_Ayala_Museum_in_Manila,_Philippines_(9176124).jpg",
+          "title": "File:COMPACFLT Visits Ayala Museum in Manila, Philippines (9176124).jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:COMPACFLT_Visits_Ayala_Museum_in_Manila,_Philippines_(9176125).jpg",
+          "title": "File:COMPACFLT Visits Ayala Museum in Manila, Philippines (9176125).jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:COMPACFLT_Visits_Ayala_Museum_in_Manila,_Philippines_(9176126).jpg",
+          "title": "File:COMPACFLT Visits Ayala Museum in Manila, Philippines (9176126).jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:COMPACFLT_Visits_Ayala_Museum_in_Manila,_Philippines_(9176127).jpg",
+          "title": "File:COMPACFLT Visits Ayala Museum in Manila, Philippines (9176127).jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:COMPACFLT_Visits_Ayala_Museum_in_Manila,_Philippines_(9176128).jpg",
+          "title": "File:COMPACFLT Visits Ayala Museum in Manila, Philippines (9176128).jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/davidstanleytravel/47035100754/",
+          "title": "Ayala Museum",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/virtualsugar/4549511288/",
+          "title": "Ayala Museum Stitch",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/resollesta/4716366101/",
+          "title": "Ayala Museum, Makati City, Philippines",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/keithsundi/369709365/",
+          "title": "the-art-of-luz",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/9508280@N07/41036931941/",
+          "title": "20180116_Philippines_2521 crop Manila sRGB",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/9508280@N07/41036939351/",
+          "title": "20180116_Philippines_2501 Manila sRGB",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/9508280@N07/41036941581/",
+          "title": "20180116_Philippines_2486 crop Manila sRGB",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/9508280@N07/41036934211/",
+          "title": "20180116_Philippines_2506 crop Manila sRGB",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Ayala_Museum,_Makati,_Feb_2025_(1).jpg",
+          "title": "File:Ayala Museum, Makati, Feb 2025 (1).jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Ayala_Museum,_Makati,_Feb_2025_(2).jpg",
+          "title": "File:Ayala Museum, Makati, Feb 2025 (2).jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Ayala_Museum,_Makati,_Feb_2025_(9).jpg",
+          "title": "File:Ayala Museum, Makati, Feb 2025 (9).jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Ayala_Museum,_Makati,_Feb_2025_(10).jpg",
+          "title": "File:Ayala Museum, Makati, Feb 2025 (10).jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/resollesta/6771286019/",
+          "title": "Ayala Museum",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/maehabasolo/9344967888/",
+          "title": "Two man height Philippine Flag showcased in the Museum of Ayala Triangle in Makati City.  The organizer used bamboo's sprouts to complete the huge flag and painted it the way it should look like ✨☝ #philippineflag #govisitphilippines #bridgestravel #bambo",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Ayala_Museum_logo.jpg",
+          "title": "File:Ayala Museum logo.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Demolition_of_the_Old_Ayala_Museum_(73398511).jpg",
+          "title": "File:Demolition of the Old Ayala Museum (73398511).jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Filipinas_Heritage_Library_-_Ayala_Museum_logo.jpg",
+          "title": "File:Filipinas Heritage Library - Ayala Museum logo.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Filipinas_Heritage_Library_-_Ayala_Museum_logo_(2).jpg",
+          "title": "File:Filipinas Heritage Library - Ayala Museum logo (2).jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:The_DIary_of_Tetsuya_Noda_at_the_Ayala_Museum.jpg",
+          "title": "File:The DIary of Tetsuya Noda at the Ayala Museum.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Ayala_Museum,_Makati,_Feb_2025_(8).jpg",
+          "title": "File:Ayala Museum, Makati, Feb 2025 (8).jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Zobel_Exhibit,_Ayala_Museum,_Makati,_Feb_2025_(1).jpg",
+          "title": "File:Zobel Exhibit, Ayala Museum, Makati, Feb 2025 (1).jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Zobel_Exhibit,_Ayala_Museum,_Makati,_Feb_2025_(8).jpg",
+          "title": "File:Zobel Exhibit, Ayala Museum, Makati, Feb 2025 (8).jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Zobel_Exhibit,_Ayala_Museum,_Makati,_Feb_2025_(7).jpg",
+          "title": "File:Zobel Exhibit, Ayala Museum, Makati, Feb 2025 (7).jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Zobel_Exhibit,_Ayala_Museum,_Makati,_Feb_2025_(5).jpg",
+          "title": "File:Zobel Exhibit, Ayala Museum, Makati, Feb 2025 (5).jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Zobel_Exhibit,_Ayala_Museum,_Makati,_Feb_2025_(6).jpg",
+          "title": "File:Zobel Exhibit, Ayala Museum, Makati, Feb 2025 (6).jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Zobel_Exhibit,_Ayala_Museum,_Makati,_Feb_2025_(4).jpg",
+          "title": "File:Zobel Exhibit, Ayala Museum, Makati, Feb 2025 (4).jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Zobel_Exhibit,_Ayala_Museum,_Makati,_Feb_2025_(2).jpg",
+          "title": "File:Zobel Exhibit, Ayala Museum, Makati, Feb 2025 (2).jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Zobel_Exhibit,_Ayala_Museum,_Makati,_Feb_2025_(3).jpg",
+          "title": "File:Zobel Exhibit, Ayala Museum, Makati, Feb 2025 (3).jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Fotomoto_PH_Exhibit,_Ayala_Museum,_Feb_2025_(2).jpg",
+          "title": "File:Fotomoto PH Exhibit, Ayala Museum, Feb 2025 (2).jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Fotomoto_PH_Exhibit,_Ayala_Museum,_Feb_2025_(3).jpg",
+          "title": "File:Fotomoto PH Exhibit, Ayala Museum, Feb 2025 (3).jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Fotomoto_PH_Exhibit,_Ayala_Museum,_Feb_2025_(1).jpg",
+          "title": "File:Fotomoto PH Exhibit, Ayala Museum, Feb 2025 (1).jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Fotomoto_PH_Exhibit_Marker,_Ayala_Museum,_Feb_2025.jpg",
+          "title": "File:Fotomoto PH Exhibit Marker, Ayala Museum, Feb 2025.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        }
+      ],
+      "notes": [],
+      "visuallyReviewed": true,
+      "licenseReviewed": true,
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Ayala_Museum_lobby,_May_2024.jpg"
+      ],
+      "identityReview": "Individual file identifies the Ayala Museum lobby, May 2024. Visually reviewed the interior architecture; rejected a library door label and isolated artworks as less useful or different subjects.",
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Ayala_Museum_lobby,_May_2024.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/6/65/Ayala_Museum_lobby%2C_May_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "Ralff Nestor Nacor",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "Ralff Nestor Nacor / Wikimedia Commons / CC BY-SA 4.0. Resized and JPEG compressed.",
+        "alt": "Lobby of Ayala Museum in Makati City"
+      },
+      "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Ayala_Museum_lobby%2C_May_2024.jpg/1280px-Ayala_Museum_lobby%2C_May_2024.jpg",
+      "individualSourceEvidence": {
+        "api": "https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=1280&titles=File%3AAyala_Museum_lobby%2C_May_2024.jpg",
+        "parseUrl": "https://commons.wikimedia.org/w/api.php?action=parse&format=json&page=File%3AAyala_Museum_lobby%2C_May_2024.jpg&prop=wikitext",
+        "description": "Ayala Museum lobby, May 2024",
+        "categories": "Ayala Museum|Self-published work|Photographs by User:Ralffralff|Philippine Panorama Project/GLAM|Manila 23 Meet-up",
+        "licenseDeclaration": "=={{int:filedesc}}==\n{{Information\n|description={{en|1=Ayala Museum lobby, May 2024}}\n|date=2024-05-26 13:46:07\n|source={{sf}}\n|author=[[User:Ralffralff|Ralff Nestor Nacor]]\n|permission=\n|other versions=\n}}\n\n=={{int:license-header}}==\n{{self|cc-by-sa-4.0}}\n\n[[Category:Photographs by User:Ralffralff]]\n[[Category:Manila 23 Meet-up]]\n[[Category:Ayala Museum]]\n[[Category:Philippine Panorama Project/GLAM]]",
+        "requiredAttribution": ""
+      }
+    },
+    {
+      "placeId": "manila-destileria-limtuaco",
+      "approved": true,
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "Destileria Limtuaco Museum",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Destileria+Limtuaco+Museum&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 8
+        },
+        {
+          "provider": "Commons",
+          "query": "Destileria Limtuaco Museum Philippines",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Destileria+Limtuaco+Museum+Philippines&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 5
+        },
+        {
+          "provider": "Flickr",
+          "query": "Destileria Limtuaco Museum Philippines",
+          "url": "https://www.flickr.com/search/?text=Destileria+Limtuaco+Museum+Philippines&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Limtuaco museum",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Limtuaco+museum&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 8
+        },
+        {
+          "provider": "Flickr",
+          "query": "Limtuaco museum",
+          "url": "https://www.flickr.com/search/?text=Limtuaco+museum&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons category members",
+          "category": "Category:Destileria Limtuaco Museum",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=categorymembers&gcmtitle=Category%3ADestileria+Limtuaco+Museum&gcmtype=file&gcmlimit=30&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 30
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=Limtuaco+museum&srlimit=4",
+          "categories": [
+            "Category:Destileria Limtuaco Museum",
+            "Category:Photographs by E911a"
+          ]
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=Destileria+Limtuaco+Museum&limit=3",
+          "candidates": []
+        }
+      ],
+      "rejections": [
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Destileria_Limtuaco_Museum_(2023-07-02)_E911a.jpg",
+          "title": "File:Destileria Limtuaco Museum (2023-07-02) E911a.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Exhibits_in_Destileria_Limtuaco_Museum_(2023-07-02)_E911a_04.jpg",
+          "title": "File:Exhibits in Destileria Limtuaco Museum (2023-07-02) E911a 04.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Exhibits_in_Destileria_Limtuaco_Museum_(2023-07-02)_E911a_06.jpg",
+          "title": "File:Exhibits in Destileria Limtuaco Museum (2023-07-02) E911a 06.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Exhibits_in_Destileria_Limtuaco_Museum_(2023-07-02)_E911a_12.jpg",
+          "title": "File:Exhibits in Destileria Limtuaco Museum (2023-07-02) E911a 12.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Exhibits_in_Destileria_Limtuaco_Museum_(2023-07-02)_E911a_18.jpg",
+          "title": "File:Exhibits in Destileria Limtuaco Museum (2023-07-02) E911a 18.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Exhibits_in_Destileria_Limtuaco_Museum_(2023-07-02)_E911a_22.jpg",
+          "title": "File:Exhibits in Destileria Limtuaco Museum (2023-07-02) E911a 22.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Exhibits_in_Destileria_Limtuaco_Museum_(2023-07-02)_E911a_30.jpg",
+          "title": "File:Exhibits in Destileria Limtuaco Museum (2023-07-02) E911a 30.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Exhibits_in_Destileria_Limtuaco_Museum_(2023-07-02)_E911a_35.jpg",
+          "title": "File:Exhibits in Destileria Limtuaco Museum (2023-07-02) E911a 35.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Destileria_Limtuaco_Museum_Intramuros_(2023-07-02)_E911a_01.jpg",
+          "title": "File:Destileria Limtuaco Museum Intramuros (2023-07-02) E911a 01.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Destileria_Limtuaco_Museum_Intramuros_(2023-07-02)_E911a_32.jpg",
+          "title": "File:Destileria Limtuaco Museum Intramuros (2023-07-02) E911a 32.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Destileria_Limtuaco_Museum_Exhibits_Interior_(2023-07-02)_E911a_01.jpg",
+          "title": "File:Destileria Limtuaco Museum Exhibits Interior (2023-07-02) E911a 01.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Destileria_Limtuaco_Museum_Exhibits_Interior_(2023-07-02)_E911a_08.jpg",
+          "title": "File:Destileria Limtuaco Museum Exhibits Interior (2023-07-02) E911a 08.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Exhibits_in_Destileria_Limtuaco_Museum_(2023-07-02)_E911a_32.jpg",
+          "title": "File:Exhibits in Destileria Limtuaco Museum (2023-07-02) E911a 32.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Destileria_Limtuaco_Intramuros_Museum(2023-07-02)_E911a_02.jpg",
+          "title": "File:Destileria Limtuaco Intramuros Museum(2023-07-02) E911a 02.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Destileria_Limtuaco_Intramuros_Museum(2023-07-02)_E911a_01.jpg",
+          "title": "File:Destileria Limtuaco Intramuros Museum(2023-07-02) E911a 01.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Destileria_Limtuaco_Intramuros_Museum(2023-07-02)_E911a_03.jpg",
+          "title": "File:Destileria Limtuaco Intramuros Museum(2023-07-02) E911a 03.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Destileria_Limtuaco_Intramuros_Museum(2023-07-02)_E911a_04.jpg",
+          "title": "File:Destileria Limtuaco Intramuros Museum(2023-07-02) E911a 04.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Destileria_Limtuaco_Intramuros_Museum(2023-07-02)_E911a_05.jpg",
+          "title": "File:Destileria Limtuaco Intramuros Museum(2023-07-02) E911a 05.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Destileria_Limtuaco_Intramuros_Museum(2023-07-02)_E911a_06.jpg",
+          "title": "File:Destileria Limtuaco Intramuros Museum(2023-07-02) E911a 06.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Destileria_Limtuaco_Intramuros_Museum(2023-07-02)_E911a_07.jpg",
+          "title": "File:Destileria Limtuaco Intramuros Museum(2023-07-02) E911a 07.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Destileria_Limtuaco_Intramuros_Museum(2023-07-02)_E911a_08.jpg",
+          "title": "File:Destileria Limtuaco Intramuros Museum(2023-07-02) E911a 08.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Destileria_Limtuaco_Intramuros_Museum(2023-07-02)_E911a_09.jpg",
+          "title": "File:Destileria Limtuaco Intramuros Museum(2023-07-02) E911a 09.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Destileria_Limtuaco_Intramuros_Museum(2023-07-02)_E911a_11.jpg",
+          "title": "File:Destileria Limtuaco Intramuros Museum(2023-07-02) E911a 11.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Destileria_Limtuaco_Intramuros_Museum(2023-07-02)_E911a_10.jpg",
+          "title": "File:Destileria Limtuaco Intramuros Museum(2023-07-02) E911a 10.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Destileria_Limtuaco_Intramuros_Museum(2023-07-02)_E911a_12.jpg",
+          "title": "File:Destileria Limtuaco Intramuros Museum(2023-07-02) E911a 12.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Destileria_Limtuaco_Intramuros_Museum(2023-07-02)_E911a_13.jpg",
+          "title": "File:Destileria Limtuaco Intramuros Museum(2023-07-02) E911a 13.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Destileria_Limtuaco_Intramuros_Museum(2023-07-02)_E911a_14.jpg",
+          "title": "File:Destileria Limtuaco Intramuros Museum(2023-07-02) E911a 14.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Destileria_Limtuaco_Intramuros_Museum(2023-07-02)_E911a_15.jpg",
+          "title": "File:Destileria Limtuaco Intramuros Museum(2023-07-02) E911a 15.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Destileria_Limtuaco_Intramuros_Museum(2023-07-02)_E911a_16.jpg",
+          "title": "File:Destileria Limtuaco Intramuros Museum(2023-07-02) E911a 16.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Destileria_Limtuaco_Intramuros_Museum(2023-07-02)_E911a_17.jpg",
+          "title": "File:Destileria Limtuaco Intramuros Museum(2023-07-02) E911a 17.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Destileria_Limtuaco_Intramuros_Museum(2023-07-02)_E911a_18.jpg",
+          "title": "File:Destileria Limtuaco Intramuros Museum(2023-07-02) E911a 18.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Destileria_Limtuaco_Intramuros_Museum(2023-07-02)_E911a_19.jpg",
+          "title": "File:Destileria Limtuaco Intramuros Museum(2023-07-02) E911a 19.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Destileria_Limtuaco_Intramuros_Museum(2023-07-02)_E911a_20.jpg",
+          "title": "File:Destileria Limtuaco Intramuros Museum(2023-07-02) E911a 20.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Destileria_Limtuaco_Intramuros_Museum(2023-07-02)_E911a_21.jpg",
+          "title": "File:Destileria Limtuaco Intramuros Museum(2023-07-02) E911a 21.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Destileria_Limtuaco_Intramuros_Museum(2023-07-02)_E911a_23.jpg",
+          "title": "File:Destileria Limtuaco Intramuros Museum(2023-07-02) E911a 23.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Destileria_Limtuaco_Intramuros_Museum(2023-07-02)_E911a_22.jpg",
+          "title": "File:Destileria Limtuaco Intramuros Museum(2023-07-02) E911a 22.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Destileria_Limtuaco_Intramuros_Museum(2023-07-02)_E911a_24.jpg",
+          "title": "File:Destileria Limtuaco Intramuros Museum(2023-07-02) E911a 24.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Destileria_Limtuaco_Intramuros_Museum(2023-07-02)_E911a_26.jpg",
+          "title": "File:Destileria Limtuaco Intramuros Museum(2023-07-02) E911a 26.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Destileria_Limtuaco_Intramuros_Museum(2023-07-02)_E911a_25.jpg",
+          "title": "File:Destileria Limtuaco Intramuros Museum(2023-07-02) E911a 25.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Destileria_Limtuaco_Intramuros_Museum(2023-07-02)_E911a_27.jpg",
+          "title": "File:Destileria Limtuaco Intramuros Museum(2023-07-02) E911a 27.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Destileria_Limtuaco_Intramuros_Museum(2023-07-02)_E911a_28.jpg",
+          "title": "File:Destileria Limtuaco Intramuros Museum(2023-07-02) E911a 28.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Destileria_Limtuaco_Intramuros_Museum(2023-07-02)_E911a_29.jpg",
+          "title": "File:Destileria Limtuaco Intramuros Museum(2023-07-02) E911a 29.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Destileria_Limtuaco_Intramuros_Museum(2023-07-02)_E911a_30.jpg",
+          "title": "File:Destileria Limtuaco Intramuros Museum(2023-07-02) E911a 30.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        }
+      ],
+      "notes": [],
+      "visuallyReviewed": true,
+      "licenseReviewed": true,
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Destileria_Limtuaco_Museum_Intramuros_(2023-07-02)_E911a_06.jpg"
+      ],
+      "identityReview": "Individual file identifies Destileria Limtuaco Museum in Intramuros. Visually reviewed the distillery name and Museo entrance; chose this actual facade over a small exhibit-equipment close-up.",
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Destileria_Limtuaco_Museum_Intramuros_(2023-07-02)_E911a_06.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Destileria_Limtuaco_Museum_Intramuros_%282023-07-02%29_E911a_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "E911a",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "E911a / Wikimedia Commons / CC BY-SA 4.0. Resized and JPEG compressed.",
+        "alt": "Entrance facade of Destileria Limtuaco Museum in Intramuros, Manila"
+      },
+      "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Destileria_Limtuaco_Museum_Intramuros_%282023-07-02%29_E911a_06.jpg/1280px-Destileria_Limtuaco_Museum_Intramuros_%282023-07-02%29_E911a_06.jpg",
+      "individualSourceEvidence": {
+        "api": "https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=1280&titles=File%3ADestileria_Limtuaco_Museum_Intramuros_%282023-07-02%29_E911a_06.jpg",
+        "parseUrl": "https://commons.wikimedia.org/w/api.php?action=parse&format=json&page=File%3ADestileria_Limtuaco_Museum_Intramuros_%282023-07-02%29_E911a_06.jpg&prop=wikitext",
+        "description": "Destileria Limtuaco Museum in Intramuros",
+        "categories": "Destileria Limtuaco|Self-published work|Images from Wiki Loves Earth 2023|Images from Wiki Loves Earth 2023 in the Philippines|Uploaded via Campaign:wle-ph|Destileria Limtuaco Museum|Images from Wiki Loves Earth missing SDC depicts|Images from Wiki Loves Earth missing SDC location of creation|Photographs by E911a",
+        "licenseDeclaration": "=={{int:filedesc}}==\n{{Information\n|description={{en|1=Destileria Limtuaco Museum in Intramuros}}\n|date=2023-07-02 15:57:09\n|source={{own}}\n|author=[[User:E911a|E911a]]\n|permission=\n|other versions=\n}}\n=={{int:license-header}}==\n{{self|cc-by-sa-4.0}}\n[[Category:Photographs by E911a]]\n{{Wiki Loves Earth 2023|ph}}\n\n[[Category:Uploaded via Campaign:wle-ph]]\n\n\n[[Category:Destileria Limtuaco Museum]]\n[[Category:Destileria Limtuaco]]",
+        "requiredAttribution": ""
+      }
+    },
+    {
+      "placeId": "manila-eng-bee-tin-ongpin",
+      "approved": false,
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "Eng Bee Tin",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Eng+Bee+Tin&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 8
+        },
+        {
+          "provider": "Commons",
+          "query": "Eng Bee Tin Philippines",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Eng+Bee+Tin+Philippines&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 8
+        },
+        {
+          "provider": "Flickr",
+          "query": "Eng Bee Tin Philippines",
+          "url": "https://www.flickr.com/search/?text=Eng+Bee+Tin+Philippines&license=4%2C5%2C9%2C10",
+          "count": 4
+        },
+        {
+          "provider": "Commons",
+          "query": "Eng Bee Tin Ongpin",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Eng+Bee+Tin+Ongpin&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 8
+        },
+        {
+          "provider": "Flickr",
+          "query": "Eng Bee Tin Ongpin",
+          "url": "https://www.flickr.com/search/?text=Eng+Bee+Tin+Ongpin&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=Eng+Bee+Tin+Ongpin&srlimit=4",
+          "categories": []
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=Eng+Bee+Tin&limit=3",
+          "candidates": [
+            {
+              "id": "Q29096769",
+              "label": "Eng Bee Tin",
+              "description": "Chinese deli chain in the Philippines",
+              "url": "http://www.wikidata.org/entity/Q29096769"
+            }
+          ]
+        }
+      ],
+      "rejections": [
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:JfEng1238BeeTinDeliChinesefvf_03.JPG",
+          "title": "File:JfEng1238BeeTinDeliChinesefvf 03.JPG",
+          "reason": "Rejected an unspecified Eng Bee Tin storefront and photos of other branches/products. The individual source did not establish the 628 Ongpin flagship branch."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Eng_Bee_Tin_Manila_01.jpg",
+          "title": "File:Eng Bee Tin Manila 01.jpg",
+          "reason": "Rejected an unspecified Eng Bee Tin storefront and photos of other branches/products. The individual source did not establish the 628 Ongpin flagship branch."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Eng_Bee_Tin_Manila_07.jpg",
+          "title": "File:Eng Bee Tin Manila 07.jpg",
+          "reason": "Rejected an unspecified Eng Bee Tin storefront and photos of other branches/products. The individual source did not establish the 628 Ongpin flagship branch."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Eng_Bee_Tin_Manila_08.jpg",
+          "title": "File:Eng Bee Tin Manila 08.jpg",
+          "reason": "Rejected an unspecified Eng Bee Tin storefront and photos of other branches/products. The individual source did not establish the 628 Ongpin flagship branch."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Eng_Bee_Tin_Manila_09.jpg",
+          "title": "File:Eng Bee Tin Manila 09.jpg",
+          "reason": "Rejected an unspecified Eng Bee Tin storefront and photos of other branches/products. The individual source did not establish the 628 Ongpin flagship branch."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Eng_Bee_Tin_Manila_10.jpg",
+          "title": "File:Eng Bee Tin Manila 10.jpg",
+          "reason": "Rejected an unspecified Eng Bee Tin storefront and photos of other branches/products. The individual source did not establish the 628 Ongpin flagship branch."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Eng_Bee_Tin_Manila_11.jpg",
+          "title": "File:Eng Bee Tin Manila 11.jpg",
+          "reason": "Rejected an unspecified Eng Bee Tin storefront and photos of other branches/products. The individual source did not establish the 628 Ongpin flagship branch."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Eng_Bee_Tin_Manila_12.jpg",
+          "title": "File:Eng Bee Tin Manila 12.jpg",
+          "reason": "Rejected an unspecified Eng Bee Tin storefront and photos of other branches/products. The individual source did not establish the 628 Ongpin flagship branch."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:1792Eng_Bee_Tin_Chinese_Deli_29.jpg",
+          "title": "File:1792Eng Bee Tin Chinese Deli 29.jpg",
+          "reason": "Rejected an unspecified Eng Bee Tin storefront and photos of other branches/products. The individual source did not establish the 628 Ongpin flagship branch."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:1792Eng_Bee_Tin_Chinese_Deli_37.jpg",
+          "title": "File:1792Eng Bee Tin Chinese Deli 37.jpg",
+          "reason": "Rejected an unspecified Eng Bee Tin storefront and photos of other branches/products. The individual source did not establish the 628 Ongpin flagship branch."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Eng_Bee_Tin_at_SM_Mall_of_Asia_(2026-01-18).jpg",
+          "title": "File:Eng Bee Tin at SM Mall of Asia (2026-01-18).jpg",
+          "reason": "Rejected an unspecified Eng Bee Tin storefront and photos of other branches/products. The individual source did not establish the 628 Ongpin flagship branch."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/dodongflores/1429787777/",
+          "title": "Eng Bee Tin's Hopia",
+          "reason": "Rejected an unspecified Eng Bee Tin storefront and photos of other branches/products. The individual source did not establish the 628 Ongpin flagship branch."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/dodongflores/1430720660/",
+          "title": "Lomi",
+          "reason": "Rejected an unspecified Eng Bee Tin storefront and photos of other branches/products. The individual source did not establish the 628 Ongpin flagship branch."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/dodongflores/1430720464/",
+          "title": "Siomai",
+          "reason": "Rejected an unspecified Eng Bee Tin storefront and photos of other branches/products. The individual source did not establish the 628 Ongpin flagship branch."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/dodongflores/1430692486/",
+          "title": "Jovy in Binondo",
+          "reason": "Rejected an unspecified Eng Bee Tin storefront and photos of other branches/products. The individual source did not establish the 628 Ongpin flagship branch."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:1063Eng_Bee_Tin_Chinese_Deli_products_06.jpg",
+          "title": "File:1063Eng Bee Tin Chinese Deli products 06.jpg",
+          "reason": "Rejected an unspecified Eng Bee Tin storefront and photos of other branches/products. The individual source did not establish the 628 Ongpin flagship branch."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:1063Eng_Bee_Tin_Chinese_Deli_products_04.jpg",
+          "title": "File:1063Eng Bee Tin Chinese Deli products 04.jpg",
+          "reason": "Rejected an unspecified Eng Bee Tin storefront and photos of other branches/products. The individual source did not establish the 628 Ongpin flagship branch."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:1063Eng_Bee_Tin_Chinese_Deli_products_08.jpg",
+          "title": "File:1063Eng Bee Tin Chinese Deli products 08.jpg",
+          "reason": "Rejected an unspecified Eng Bee Tin storefront and photos of other branches/products. The individual source did not establish the 628 Ongpin flagship branch."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:1063Eng_Bee_Tin_Chinese_Deli_products_07.jpg",
+          "title": "File:1063Eng Bee Tin Chinese Deli products 07.jpg",
+          "reason": "Rejected an unspecified Eng Bee Tin storefront and photos of other branches/products. The individual source did not establish the 628 Ongpin flagship branch."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:1063Eng_Bee_Tin_Chinese_Deli_products_09.jpg",
+          "title": "File:1063Eng Bee Tin Chinese Deli products 09.jpg",
+          "reason": "Rejected an unspecified Eng Bee Tin storefront and photos of other branches/products. The individual source did not establish the 628 Ongpin flagship branch."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:1063Eng_Bee_Tin_Chinese_Deli_products_12.jpg",
+          "title": "File:1063Eng Bee Tin Chinese Deli products 12.jpg",
+          "reason": "Rejected an unspecified Eng Bee Tin storefront and photos of other branches/products. The individual source did not establish the 628 Ongpin flagship branch."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:1063Eng_Bee_Tin_Chinese_Deli_products_19.jpg",
+          "title": "File:1063Eng Bee Tin Chinese Deli products 19.jpg",
+          "reason": "Rejected an unspecified Eng Bee Tin storefront and photos of other branches/products. The individual source did not establish the 628 Ongpin flagship branch."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:1063Eng_Bee_Tin_Chinese_Deli_products_23.jpg",
+          "title": "File:1063Eng Bee Tin Chinese Deli products 23.jpg",
+          "reason": "Rejected an unspecified Eng Bee Tin storefront and photos of other branches/products. The individual source did not establish the 628 Ongpin flagship branch."
+        }
+      ],
+      "notes": [
+        "No permission requested and no owner contacted. Official/public visibility alone does not grant reuse rights."
+      ],
+      "reason": "Rejected an unspecified Eng Bee Tin storefront and photos of other branches/products. The individual source did not establish the 628 Ongpin flagship branch."
+    },
+    {
+      "placeId": "manila-ilustrado-restaurant",
+      "approved": true,
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "Ilustrado Restaurant",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Ilustrado+Restaurant&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 4
+        },
+        {
+          "provider": "Commons",
+          "query": "Ilustrado Philippines",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Ilustrado+Philippines&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 6
+        },
+        {
+          "provider": "Flickr",
+          "query": "Ilustrado Restaurant Philippines",
+          "url": "https://www.flickr.com/search/?text=Ilustrado+Restaurant+Philippines&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Ilustrado Manila",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Ilustrado+Manila&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 7
+        },
+        {
+          "provider": "Flickr",
+          "query": "Ilustrado Manila",
+          "url": "https://www.flickr.com/search/?text=Ilustrado+Manila&license=4%2C5%2C9%2C10",
+          "count": 1
+        },
+        {
+          "provider": "Commons category members",
+          "category": "Category:Ilustrado Restaurant (El Amanecer Compound, Intramuros, Manila)",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=categorymembers&gcmtitle=Category%3AIlustrado+Restaurant+%28El+Amanecer+Compound%2C+Intramuros%2C+Manila%29&gcmtype=file&gcmlimit=30&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 26
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=Ilustrado+Manila&srlimit=4",
+          "categories": [
+            "Category:Ilustrado Restaurant (El Amanecer Compound, Intramuros, Manila)",
+            "Category:Photographs by Judgefloro, 2019, 2",
+            "Category:Photographs by Judgefloro, 2019"
+          ]
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=Ilustrado+Restaurant&limit=3",
+          "candidates": []
+        }
+      ],
+      "rejections": [
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:02438jfManila_Intramuros_Streets_Buildings_Churches_Landmarksfvf_17.jpg",
+          "title": "File:02438jfManila Intramuros Streets Buildings Churches Landmarksfvf 17.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:02438jfManila_Intramuros_Streets_Buildings_Churches_Landmarksfvf_18.jpg",
+          "title": "File:02438jfManila Intramuros Streets Buildings Churches Landmarksfvf 18.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Mapa_Ilustrado_de_la_Republica_Mexicana_Publicado_Por_Margaret_M._Crane_Eugenio_Fischgrund.jpg",
+          "title": "File:Mapa Ilustrado de la Republica Mexicana Publicado Por Margaret M. Crane Eugenio Fischgrund.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Filipino_Ilustrados_Jose_Rizal_Marcelo_del_Pilar_Mariano_Ponce.jpg",
+          "title": "File:Filipino Ilustrados Jose Rizal Marcelo del Pilar Mariano Ponce.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Ilustrados_1890.jpg",
+          "title": "File:Ilustrados 1890.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:El_Diario_Ilustrado_logo.png",
+          "title": "File:El Diario Ilustrado logo.png",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:El_viajero_ilustrado,_1878_%22El_viagero_ilustrado_hispano_americano%22._(3811356634).jpg",
+          "title": "File:El viajero ilustrado, 1878 \"El viagero ilustrado hispano americano\". (3811356634).jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:El_viajero_ilustrado,_1878_%22El_viajero_ilustrado_1878...%22_(3810549271).jpg",
+          "title": "File:El viajero ilustrado, 1878 \"El viajero ilustrado 1878...\" (3810549271).jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Filipino_Ilustrados_in_front.jpg",
+          "title": "File:Filipino Ilustrados in front.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:FvfIntramuros2940_25.JPG",
+          "title": "File:FvfIntramuros2940 25.JPG",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:El_viajero_ilustrado,_1878_602129_(3811376426).jpg",
+          "title": "File:El viajero ilustrado, 1878 602129 (3811376426).jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:El_viajero_ilustrado,_1878_602216_(3810566051).jpg",
+          "title": "File:El viajero ilustrado, 1878 602216 (3810566051).jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Grand_Sala_of_Casa_Manila_Museum,_Intramuros.jpg",
+          "title": "File:Grand Sala of Casa Manila Museum, Intramuros.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/rayinmanila/17220068372/",
+          "title": "Kalesa at Heroes Square, Intramuros, Manila",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:01827jfLandmarks_Buildings_Intramuros_Manilafvf_33.jpg",
+          "title": "File:01827jfLandmarks Buildings Intramuros Manilafvf 33.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:01827jfLandmarks_Buildings_Intramuros_Manilafvf_34.jpg",
+          "title": "File:01827jfLandmarks Buildings Intramuros Manilafvf 34.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:01878jfLandmarks_Buildings,_Intramuros,_Manilafvf_04.jpg",
+          "title": "File:01878jfLandmarks Buildings, Intramuros, Manilafvf 04.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:01878jfLandmarks_Buildings,_Intramuros,_Manilafvf_05.jpg",
+          "title": "File:01878jfLandmarks Buildings, Intramuros, Manilafvf 05.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:01878jfLandmarks_Buildings,_Intramuros,_Manilafvf_06.jpg",
+          "title": "File:01878jfLandmarks Buildings, Intramuros, Manilafvf 06.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:01878jfLandmarks_Buildings,_Intramuros,_Manilafvf_07.jpg",
+          "title": "File:01878jfLandmarks Buildings, Intramuros, Manilafvf 07.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:01878jfLandmarks_Buildings,_Intramuros,_Manilafvf_09.jpg",
+          "title": "File:01878jfLandmarks Buildings, Intramuros, Manilafvf 09.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:01878jfLandmarks_Buildings,_Intramuros,_Manilafvf_08.jpg",
+          "title": "File:01878jfLandmarks Buildings, Intramuros, Manilafvf 08.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:01878jfLandmarks_Buildings,_Intramuros,_Manilafvf_11.jpg",
+          "title": "File:01878jfLandmarks Buildings, Intramuros, Manilafvf 11.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:01878jfLandmarks_Buildings,_Intramuros,_Manilafvf_10.jpg",
+          "title": "File:01878jfLandmarks Buildings, Intramuros, Manilafvf 10.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:01878jfLandmarks_Buildings,_Intramuros,_Manilafvf_12.jpg",
+          "title": "File:01878jfLandmarks Buildings, Intramuros, Manilafvf 12.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:01878jfLandmarks_Buildings,_Intramuros,_Manilafvf_13.jpg",
+          "title": "File:01878jfLandmarks Buildings, Intramuros, Manilafvf 13.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:01878jfLandmarks_Buildings,_Intramuros,_Manilafvf_14.jpg",
+          "title": "File:01878jfLandmarks Buildings, Intramuros, Manilafvf 14.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:01878jfLandmarks_Buildings,_Intramuros,_Manilafvf_15.jpg",
+          "title": "File:01878jfLandmarks Buildings, Intramuros, Manilafvf 15.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:01878jfLandmarks_Buildings,_Intramuros,_Manilafvf_16.jpg",
+          "title": "File:01878jfLandmarks Buildings, Intramuros, Manilafvf 16.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:01878jfLandmarks_Buildings,_Intramuros,_Manilafvf_17.jpg",
+          "title": "File:01878jfLandmarks Buildings, Intramuros, Manilafvf 17.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:01878jfLandmarks_Buildings,_Intramuros,_Manilafvf_18.jpg",
+          "title": "File:01878jfLandmarks Buildings, Intramuros, Manilafvf 18.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:01878jfLandmarks_Buildings,_Intramuros,_Manilafvf_19.jpg",
+          "title": "File:01878jfLandmarks Buildings, Intramuros, Manilafvf 19.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:01878jfLandmarks_Buildings,_Intramuros,_Manilafvf_20.jpg",
+          "title": "File:01878jfLandmarks Buildings, Intramuros, Manilafvf 20.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:01878jfLandmarks_Buildings,_Intramuros,_Manilafvf_21.jpg",
+          "title": "File:01878jfLandmarks Buildings, Intramuros, Manilafvf 21.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:01878jfLandmarks_Buildings,_Intramuros,_Manilafvf_22.jpg",
+          "title": "File:01878jfLandmarks Buildings, Intramuros, Manilafvf 22.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:01878jfLandmarks_Buildings,_Intramuros,_Manilafvf_23.jpg",
+          "title": "File:01878jfLandmarks Buildings, Intramuros, Manilafvf 23.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        }
+      ],
+      "notes": [],
+      "visuallyReviewed": true,
+      "licenseReviewed": true,
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:FvfIntramuros2940_26.JPG"
+      ],
+      "identityReview": "Individual file belongs to the exact Ilustrado Restaurant El Amanecer Compound category. Visually reviewed the Ilustrado restaurant sign, rather than assuming nearby Intramuros streets depict the venue.",
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:FvfIntramuros2940_26.JPG",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9f/FvfIntramuros2940_26.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "Judgefloro",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "attribution": "Judgefloro / Wikimedia Commons / CC BY-SA 3.0. Resized and JPEG compressed.",
+        "alt": "Ilustrado Restaurant entrance sign in Intramuros, Manila"
+      },
+      "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/FvfIntramuros2940_26.JPG/1280px-FvfIntramuros2940_26.JPG",
+      "individualSourceEvidence": {
+        "api": "https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=1280&titles=File%3AFvfIntramuros2940_26.JPG",
+        "parseUrl": "https://commons.wikimedia.org/w/api.php?action=parse&format=json&page=File%3AFvfIntramuros2940_26.JPG&prop=wikitext",
+        "description": "Intramuros (Genral Luna St.,  [George J. Willmann, S.J. memorial, monument, in Knights of Columbus building, Casa Maritima, Colegio de Santa Potenciana, Patio Victoria, Sofia Garden, Lourdes Church and Convent, Silahis, Emporium of Philippine Art, Craft and Culture, El Amanecer, Ilustrado Restaurant, Associated Marine Officers and Seamen's Union of the Philippines PTGW0-ITF and DOLE building).",
+        "categories": "Taken with Nikon Coolpix AW100|Self-published work|Photographs by Judgefloro|Ilustrado Restaurant (El Amanecer Compound, Intramuros, Manila)|El Almanecer Compound (Intramuros)|Restaurants in Intramuros, Manila",
+        "licenseDeclaration": "=={{int:filedesc}}==\n{{Information\n|description={{en|1=[[w:en:Intramuros|Intramuros]] (Genral Luna St.,  [George J. Willmann, S.J. memorial, monument, in Knights of Columbus building, Casa Maritima, Colegio de Santa Potenciana, Patio Victoria, Sofia Garden, Lourdes Church and Convent, Silahis, Emporium of Philippine Art, Craft and Culture, El Amanecer, Ilustrado Restaurant, Associated Marine Officers and Seamen's Union of the Philippines PTGW0-ITF and DOLE building).}}\n|date=2014-03-09 17:14:57\n|source={{own}}\n|author=[[User:Judgefloro|Judgefloro]]\n|permission=\n|other_versions=\n}}\n\n=={{int:license-header}}==\n{{self|cc-by-sa-3.0}}\n\n[[Category:Restaurants in Intramuros, Manila]]\n[[Category:El Almanecer Compound (Intramuros)]]\n[[Category:Ilustrado Restaurant (El Amanecer Compound, Intramuros, Manila)]]\n[[Category:Photographs by Judgefloro]]\n[[Category:Taken with Nikon Coolpix AW100]]",
+        "requiredAttribution": ""
+      }
+    },
+    {
+      "placeId": "manila-ateneo-art-gallery",
+      "approved": true,
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "Ateneo Art Gallery",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Ateneo+Art+Gallery&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 8
+        },
+        {
+          "provider": "Commons",
+          "query": "Ateneo Art Gallery Philippines",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Ateneo+Art+Gallery+Philippines&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 8
+        },
+        {
+          "provider": "Flickr",
+          "query": "Ateneo Art Gallery Philippines",
+          "url": "https://www.flickr.com/search/?text=Ateneo+Art+Gallery+Philippines&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Ateneo art gallery",
+          "url": "https://www.flickr.com/search/?text=Ateneo+art+gallery&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons category members",
+          "category": "Category:Ateneo Art Gallery",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=categorymembers&gcmtitle=Category%3AAteneo+Art+Gallery&gcmtype=file&gcmlimit=30&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 2
+        },
+        {
+          "provider": "Wikidata linked image records",
+          "url": "https://www.wikidata.org/w/api.php?action=wbgetentities&format=json&ids=Q2110553&props=claims%7Clabels%7Cdescriptions%7Csitelinks&languages=en",
+          "entity": "Q2110553",
+          "files": []
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=Ateneo+art+gallery&srlimit=4",
+          "categories": [
+            "Category:Ateneo Art Gallery",
+            "Category:Ateneo Art Awards 2017",
+            "Category:Games and Politics (Interactive Exhibit of Goethe-Institut, ZKM Center for Art and Media, Areté, Ateneo de Manila University)",
+            "Category:Arte Postal 2012 (Honys Torres)"
+          ]
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=Ateneo+Art+Gallery&limit=3",
+          "candidates": [
+            {
+              "id": "Q2110553",
+              "label": "Ateneo Art Gallery",
+              "description": "museum of modern art of the Ateneo de Manila University, Philippines",
+              "url": "http://www.wikidata.org/entity/Q2110553"
+            }
+          ]
+        }
+      ],
+      "rejections": [
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:805Ateneo_Art_Gallery_University_05.jpg",
+          "title": "File:805Ateneo Art Gallery University 05.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:811Ateneo_Art_Gallery_University_04.jpg",
+          "title": "File:811Ateneo Art Gallery University 04.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:811Ateneo_Art_Gallery_University_17.jpg",
+          "title": "File:811Ateneo Art Gallery University 17.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:860Ateneo_Art_Gallery_University_23.jpg",
+          "title": "File:860Ateneo Art Gallery University 23.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:958Ateneo_Art_Gallery_University_01.jpg",
+          "title": "File:958Ateneo Art Gallery University 01.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Fernando_Zobel_de_Ayala_at_the_Ateneo_Art_Gallery.jpg",
+          "title": "File:Fernando Zobel de Ayala at the Ateneo Art Gallery.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Ateneo_Intramuros_Manila_Art_Gallery.jpg",
+          "title": "File:Ateneo Intramuros Manila Art Gallery.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:860Ateneo_Art_Gallery_University_30.jpg",
+          "title": "File:860Ateneo Art Gallery University 30.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        }
+      ],
+      "notes": [],
+      "visuallyReviewed": true,
+      "licenseReviewed": true,
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Ateneo_Art_Gallery_Panorama.jpg"
+      ],
+      "identityReview": "Individual photo identifies Ateneo Art Gallery and the Areté category, taken in 2018 after the gallery moved there. Visually reviewed the gallery-room panorama; no old-campus or unrelated museum exterior substituted.",
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Ateneo_Art_Gallery_Panorama.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/0/00/Ateneo_Art_Gallery_Panorama.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "Ryomaandres",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "Ryomaandres / Wikimedia Commons / CC BY-SA 4.0. Resized and JPEG compressed.",
+        "alt": "Panoramic interior of Ateneo Art Gallery at Areté in Quezon City"
+      },
+      "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Ateneo_Art_Gallery_Panorama.jpg/1280px-Ateneo_Art_Gallery_Panorama.jpg",
+      "individualSourceEvidence": {
+        "api": "https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=1280&titles=File%3AAteneo_Art_Gallery_Panorama.jpg",
+        "parseUrl": "https://commons.wikimedia.org/w/api.php?action=parse&format=json&page=File%3AAteneo_Art_Gallery_Panorama.jpg&prop=wikitext",
+        "description": "Ateneo Art Gallery Panorama",
+        "categories": "Taken with iPad|Ateneo Art Gallery|Self-published work|Areté (Ateneo de Manila University)",
+        "licenseDeclaration": "=={{int:filedesc}}==\n{{Information\n|description={{en|1=Ateneo Art Gallery Panorama}}\n|date=2018-03-15 13:09:30\n|source={{own}}\n|author=[[User:Ryomaandres|Ryomaandres]]\n|permission=\n|other versions=\n}}\n\n=={{int:license-header}}==\n{{self|cc-by-sa-4.0}}\n\n[[Category:Ateneo Art Gallery]]\n[[Category:Areté (Ateneo de Manila University)]]\n[[Category:Taken with iPad]]",
+        "requiredAttribution": ""
+      }
+    },
+    {
+      "placeId": "manila-ocean-park",
+      "approved": true,
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "Manila Ocean Park",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Manila+Ocean+Park&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 8
+        },
+        {
+          "provider": "Commons",
+          "query": "Manila Ocean Philippines",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Manila+Ocean+Philippines&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 8
+        },
+        {
+          "provider": "Flickr",
+          "query": "Manila Ocean Park Philippines",
+          "url": "https://www.flickr.com/search/?text=Manila+Ocean+Park+Philippines&license=4%2C5%2C9%2C10",
+          "count": 12
+        },
+        {
+          "provider": "Flickr",
+          "query": "Manila ocean park",
+          "url": "https://www.flickr.com/search/?text=Manila+ocean+park&license=4%2C5%2C9%2C10",
+          "count": 12
+        },
+        {
+          "provider": "Wikidata linked image records",
+          "url": "https://www.wikidata.org/w/api.php?action=wbgetentities&format=json&ids=Q28980&props=claims%7Clabels%7Cdescriptions%7Csitelinks&languages=en",
+          "entity": "Q28980",
+          "files": [
+            "Oceania Manila Ocean Park.jpg"
+          ]
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=Manila+ocean+park&srlimit=4",
+          "categories": [
+            "Category:Manila Ocean Park",
+            "Category:Interior of the Manila Ocean Park",
+            "Category:Exterior of the Manila Ocean Park",
+            "Category:Hotel H20 (Manila Ocean Park)"
+          ]
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=Manila+Ocean+Park&limit=3",
+          "candidates": [
+            {
+              "id": "Q28980",
+              "label": "Manila Ocean Park",
+              "description": "oceanarium in Manila, Philippines",
+              "url": "http://www.wikidata.org/entity/Q28980"
+            }
+          ]
+        }
+      ],
+      "rejections": [
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Spider_crab_at_manila_ocean_park.jpg",
+          "title": "File:Spider crab at manila ocean park.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Oceania_Manila_Ocean_Park.jpg",
+          "title": "File:Oceania Manila Ocean Park.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Manila_Ocean_Park.jpg",
+          "title": "File:Manila Ocean Park.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:09613jfRizal_Park_Ermita_Manila_Ocean_Park_Manilafvf_08.jpg",
+          "title": "File:09613jfRizal Park Ermita Manila Ocean Park Manilafvf 08.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Jellyfish_Manila_Ocean_Park_(39004714845).jpg",
+          "title": "File:Jellyfish Manila Ocean Park (39004714845).jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Manila_Ocean_Park_jellyfish.jpg",
+          "title": "File:Manila Ocean Park jellyfish.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Manila,_Manila_Ocean_Park,_Philippines.jpg",
+          "title": "File:Manila, Manila Ocean Park, Philippines.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:09613jfRizal_Park_Ermita_Manila_Ocean_Park_Manilafvf_15.jpg",
+          "title": "File:09613jfRizal Park Ermita Manila Ocean Park Manilafvf 15.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:09628jfRizal_Park_Ermita_Manila_Ocean_Park_Manilafvf_03.jpg",
+          "title": "File:09628jfRizal Park Ermita Manila Ocean Park Manilafvf 03.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:09643jfRizal_Park_Ermita_Manila_Ocean_Park_Manilafvf_05.jpg",
+          "title": "File:09643jfRizal Park Ermita Manila Ocean Park Manilafvf 05.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:09643jfRizal_Park_Ermita_Manila_Ocean_Park_Manilafvf_10.jpg",
+          "title": "File:09643jfRizal Park Ermita Manila Ocean Park Manilafvf 10.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/kbriya2_3shi8h/7429966898/",
+          "title": "\" Ocean Park \" Manila, Philippines",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/kbriya2_3shi8h/7429853110/",
+          "title": "\" ocean park \" Manila, Philippines",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/busticketcollector_cityoperation/11395277216/",
+          "title": "EMBC 2200",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/evelynrssg/2709580082/",
+          "title": "BACK VIEW OF MANILA OCEAN PARK",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/kameraderie/10492525364/",
+          "title": "Manila Ocean Park",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/kameraderie/10492556624/",
+          "title": "Manila Ocean Park",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/kameraderie/10492576285/",
+          "title": "Manila Ocean Park",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/kameraderie/10492463894/",
+          "title": "Manila Ocean Park",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/kameraderie/10492496194/",
+          "title": "Manila Ocean Park",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/kameraderie/10492751023/",
+          "title": "Manila Ocean Park",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/kameraderie/10492564035/",
+          "title": "Manila Ocean Park",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/kameraderie/10492653143/",
+          "title": "Manila Ocean Park",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/eherrera/4817083157/",
+          "title": "Manila Ocean Park",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/pchin/2285012412/",
+          "title": "Manila Ocean Park",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/10168114@N04/6784693311/",
+          "title": "Stonefish",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/10168114@N04/6784705237/",
+          "title": "Eels",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/10168114@N04/6784677569/",
+          "title": "576",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/10168114@N04/6784682515/",
+          "title": "581",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/10168114@N04/6784666897/",
+          "title": "561",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/10168114@N04/6784716683/",
+          "title": "597",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/10168114@N04/6784672543/",
+          "title": "563",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        }
+      ],
+      "notes": [],
+      "visuallyReviewed": true,
+      "licenseReviewed": true,
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Manila,_Manila_Ocean_Park,_Oceanarium,_Hotel_H2O,_Philippines.jpg"
+      ],
+      "identityReview": "Individual source explicitly identifies Manila Ocean Park, oceanarium and Hotel H2O in the same waterfront complex. Visually reviewed the actual building and bay frontage.",
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Manila,_Manila_Ocean_Park,_Oceanarium,_Hotel_H2O,_Philippines.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Manila%2C_Manila_Ocean_Park%2C_Oceanarium%2C_Hotel_H2O%2C_Philippines.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "Vyacheslav Argenberg",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+        "attribution": "© Vyacheslav Argenberg / Wikimedia Commons / CC BY 4.0. Resized and JPEG compressed.",
+        "alt": "Waterfront side of Manila Ocean Park and its Hotel H2O complex in Manila"
+      },
+      "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Manila%2C_Manila_Ocean_Park%2C_Oceanarium%2C_Hotel_H2O%2C_Philippines.jpg/1280px-Manila%2C_Manila_Ocean_Park%2C_Oceanarium%2C_Hotel_H2O%2C_Philippines.jpg",
+      "individualSourceEvidence": {
+        "api": "https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=1280&titles=File%3AManila%2C_Manila_Ocean_Park%2C_Oceanarium%2C_Hotel_H2O%2C_Philippines.jpg",
+        "parseUrl": "https://commons.wikimedia.org/w/api.php?action=parse&format=json&page=File%3AManila%2C_Manila_Ocean_Park%2C_Oceanarium%2C_Hotel_H2O%2C_Philippines.jpg&prop=wikitext",
+        "description": "Manila Ocean Park as seen from the sea, Manila, Philippines.",
+        "categories": "Photos by Vyacheslav Argenberg|Manila Bay|Manila Ocean Park|Self-published work|Photos by Vyacheslav Argenberg in 2009|Photos by Vyacheslav Argenberg in the Philippines",
+        "licenseDeclaration": "=={{int:filedesc}}==\n{{Information\n|description={{en|1=Manila Ocean Park as seen from the sea, Manila, Philippines.}}\n{{ru|1=Манила, Филиппины.}}\n|date=2009-01-22 14:58:58\n|source={{own}}\n|author=[[User:Argenberg|Vyacheslav Argenberg]]\n|permission=\n|other versions=\n}}\n\n{{User:Argenberg/Notes}}\n\n=={{int:license-header}}==\n{{User:Argenberg/License}}\n\n[[Category:Photos by Vyacheslav Argenberg]]\n[[Category:Photos by Vyacheslav Argenberg in the Philippines]]\n[[Category:Photos by Vyacheslav Argenberg in 2009]]\n[[Category:Manila Bay]]\n[[Category:Manila Ocean Park]]",
+        "requiredAttribution": "© Vyacheslav Argenberg"
+      }
+    },
+    {
+      "placeId": "cebu-tingko-beach",
+      "approved": true,
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "Tingko Beach",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Tingko+Beach&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 8
+        },
+        {
+          "provider": "Commons",
+          "query": "Tingko Cebu",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Tingko+Cebu&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 1
+        },
+        {
+          "provider": "Flickr",
+          "query": "Tingko Beach Cebu",
+          "url": "https://www.flickr.com/search/?text=Tingko+Beach+Cebu&license=4%2C5%2C9%2C10",
+          "count": 2
+        },
+        {
+          "provider": "Commons",
+          "query": "Tingko",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Tingko&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 2
+        },
+        {
+          "provider": "Flickr",
+          "query": "Tingko",
+          "url": "https://www.flickr.com/search/?text=Tingko&license=4%2C5%2C9%2C10",
+          "count": 2
+        },
+        {
+          "provider": "Commons category members",
+          "category": "Category:Tingko Beach",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=categorymembers&gcmtitle=Category%3ATingko+Beach&gcmtype=file&gcmlimit=30&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 2
+        },
+        {
+          "provider": "Wikidata linked image records",
+          "url": "https://www.wikidata.org/w/api.php?action=wbgetentities&format=json&ids=Q7808151&props=claims%7Clabels%7Cdescriptions%7Csitelinks&languages=en",
+          "entity": "Q7808151",
+          "files": []
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=Tingko&srlimit=4",
+          "categories": [
+            "Category:Tingko Beach"
+          ]
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=Tingko+Beach&limit=3",
+          "candidates": [
+            {
+              "id": "Q7808151",
+              "label": "Tingko Beach",
+              "url": "http://www.wikidata.org/entity/Q7808151"
+            }
+          ]
+        }
+      ],
+      "rejections": [
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Ph_locator_cebu_alcoy.png",
+          "title": "File:Ph locator cebu alcoy.png",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Alcoy_Cebu.jpg",
+          "title": "File:Alcoy Cebu.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Tingko_Beach,_Philippines.jpg",
+          "title": "File:Tingko Beach, Philippines.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Alcoy_shore_sunrise_-_Flickr.jpg",
+          "title": "File:Alcoy shore sunrise - Flickr.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Alcoy_view_towards_the_sea_-_Flickr.jpg",
+          "title": "File:Alcoy view towards the sea - Flickr.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Flag_of_Alcoy,_Cebu.png",
+          "title": "File:Flag of Alcoy, Cebu.png",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Explore_Alcoy.jpg",
+          "title": "File:Explore Alcoy.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/125156133@N07/14139307359/",
+          "title": "Sunrise at Tingko Beach, Alcoy",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/am_i_radj/22373296509/",
+          "title": "Emee Bacalso-Miano",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        }
+      ],
+      "notes": [],
+      "visuallyReviewed": true,
+      "licenseReviewed": true,
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Cebu_South_Road,_Tingko_Beach_(Alcoy,_Cebu;_01-20-2023).jpg"
+      ],
+      "identityReview": "Individual source explicitly identifies Tingko Beach, Alcoy, alongside Cebu South Road. Visually reviewed the actual sandy shoreline beside the road; no generic Alcoy town view substituted.",
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Cebu_South_Road,_Tingko_Beach_(Alcoy,_Cebu;_01-20-2023).jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/7/72/Cebu_South_Road%2C_Tingko_Beach_%28Alcoy%2C_Cebu%3B_01-20-2023%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "Patrickroque01",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "Patrickroque01 / Wikimedia Commons / CC BY-SA 4.0. Resized and JPEG compressed.",
+        "alt": "Tingko Beach beside Cebu South Road in Alcoy, Cebu",
+        "objectPosition": "75% 72%"
+      },
+      "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Cebu_South_Road%2C_Tingko_Beach_%28Alcoy%2C_Cebu%3B_01-20-2023%29.jpg/1280px-Cebu_South_Road%2C_Tingko_Beach_%28Alcoy%2C_Cebu%3B_01-20-2023%29.jpg",
+      "individualSourceEvidence": {
+        "api": "https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=1280&titles=File%3ACebu_South_Road%2C_Tingko_Beach_%28Alcoy%2C_Cebu%3B_01-20-2023%29.jpg",
+        "parseUrl": "https://commons.wikimedia.org/w/api.php?action=parse&format=json&page=File%3ACebu_South_Road%2C_Tingko_Beach_%28Alcoy%2C_Cebu%3B_01-20-2023%29.jpg&prop=wikitext",
+        "description": "Cebu South Road, Tingko Beach, Alcoy, Cebu",
+        "categories": "GFDL|License migration not eligible|Cebu South Road|Self-published work|Photographs of roads by Patrick Roque|Tingko Beach",
+        "licenseDeclaration": "<!--This file was moved here using FileImporter from https://en.wikipedia.org/wiki/File:Cebu_South_Road,_Tingko_Beach_(Alcoy,_Cebu;_01-20-2023).jpg-->\n== {{int:filedesc}} ==\n{{Information\n |Description    = {{en|Cebu South Road, Tingko Beach, Alcoy, Cebu}}\n |Source         = Taken using my own camera Canon EOS M100\n |Date           = 2023-01-20\n |Author         = Patrickroque01\n |other_versions = \n}}\n== {{int:license-header}} ==\n{{self|cc-by-sa-4.0|GFDL|migration=not-eligible}}\n[[Category:Cebu South Road]]\n[[Category:Tingko Beach]]\n[[Category:Photographs of roads by Patrick Roque]]",
+        "requiredAttribution": ""
+      }
+    },
+    {
+      "placeId": "cebu-safari-adventure-park",
+      "approved": true,
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "Cebu Safari and Adventure Park",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Cebu+Safari+and+Adventure+Park&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 5
+        },
+        {
+          "provider": "Commons",
+          "query": "Cebu Safari Adventure Cebu",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Cebu+Safari+Adventure+Cebu&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 5
+        },
+        {
+          "provider": "Flickr",
+          "query": "Cebu Safari and Adventure Park Cebu",
+          "url": "https://www.flickr.com/search/?text=Cebu+Safari+and+Adventure+Park+Cebu&license=4%2C5%2C9%2C10",
+          "count": 6
+        },
+        {
+          "provider": "Commons",
+          "query": "Cebu Safari",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Cebu+Safari&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 8
+        },
+        {
+          "provider": "Flickr",
+          "query": "Cebu Safari",
+          "url": "https://www.flickr.com/search/?text=Cebu+Safari&license=4%2C5%2C9%2C10",
+          "count": 7
+        },
+        {
+          "provider": "Commons category members",
+          "category": "Category:Cebu Safari and Adventure Park",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=categorymembers&gcmtitle=Category%3ACebu+Safari+and+Adventure+Park&gcmtype=file&gcmlimit=30&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 4
+        },
+        {
+          "provider": "Wikidata linked image records",
+          "url": "https://www.wikidata.org/w/api.php?action=wbgetentities&format=json&ids=Q85751068&props=claims%7Clabels%7Cdescriptions%7Csitelinks&languages=en",
+          "entity": "Q85751068",
+          "files": []
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=Cebu+Safari&srlimit=4",
+          "categories": [
+            "Category:Cebu Safari and Adventure Park"
+          ]
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=Cebu+Safari+and+Adventure+Park&limit=3",
+          "candidates": [
+            {
+              "id": "Q85751068",
+              "label": "Cebu Safari and Adventure Park",
+              "description": "zoo in Cebu, Philippines",
+              "url": "http://www.wikidata.org/entity/Q85751068"
+            }
+          ]
+        }
+      ],
+      "rejections": [
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Crocodiles_fighting_for_life.jpg",
+          "title": "File:Crocodiles fighting for life.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Responsible_Birds.jpg",
+          "title": "File:Responsible Birds.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Monkeys_at_Cebu_Safari_and_Adventure_Park.jpg",
+          "title": "File:Monkeys at Cebu Safari and Adventure Park.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Camel_in_Cebu_Safari_and_Adventure_Park.jpg",
+          "title": "File:Camel in Cebu Safari and Adventure Park.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/psepheroth/30823996228/",
+          "title": "Red Brick Path",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/psepheroth/30871075238/",
+          "title": "Periscope Neck",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/psepheroth/44733807452/",
+          "title": "Humble Walk",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/psepheroth/43127715680/",
+          "title": "Reading The Morning Newspaper",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/psepheroth/29905688767/",
+          "title": "Mind Your Own Business",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/psepheroth/44655746371/",
+          "title": "Sakura Imagination",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Weeper_Capuchin.JPG",
+          "title": "File:Weeper Capuchin.JPG",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Weeper_Capuchin_01_(cropped).JPG",
+          "title": "File:Weeper Capuchin 01 (cropped).JPG",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Parrots_in_Cebu_Safari_a.k.a_Somebody%27s_Favorite.jpg",
+          "title": "File:Parrots in Cebu Safari a.k.a Somebody's Favorite.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/psepheroth/42865720640/",
+          "title": "Tiger Petrified",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        }
+      ],
+      "notes": [],
+      "visuallyReviewed": true,
+      "licenseReviewed": true,
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Sky_view_of_Cebu_Safari_and_Adventure_Park.jpg"
+      ],
+      "identityReview": "Individual file describes this exact garden portion of Cebu Safari and Adventure Park in Carmen. Visually reviewed the paths, planting displays and hillside park setting; no unrelated animal close-up substituted.",
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Sky_view_of_Cebu_Safari_and_Adventure_Park.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/1/18/Sky_view_of_Cebu_Safari_and_Adventure_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "TheNuggeteer",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "TheNuggeteer / Wikimedia Commons / CC BY-SA 4.0. Resized and JPEG compressed.",
+        "alt": "Terraced gardens and owl-shaped planting displays at Cebu Safari in Carmen"
+      },
+      "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Sky_view_of_Cebu_Safari_and_Adventure_Park.jpg/1280px-Sky_view_of_Cebu_Safari_and_Adventure_Park.jpg",
+      "individualSourceEvidence": {
+        "api": "https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=1280&titles=File%3ASky_view_of_Cebu_Safari_and_Adventure_Park.jpg",
+        "parseUrl": "https://commons.wikimedia.org/w/api.php?action=parse&format=json&page=File%3ASky_view_of_Cebu_Safari_and_Adventure_Park.jpg&prop=wikitext",
+        "description": "Sky view of a portion of the Cebu Safari and Adventure Park located in Carmen, Cebu, in the Philippines. The image has a distinct view of the park's owl sculptures located among flower plots in the mountains of northern Cebu.",
+        "categories": "Gardens in the Philippines|Cebu Safari and Adventure Park|Sculptures of animals|Terraced gardens|Self-published work",
+        "licenseDeclaration": "=={{int:filedesc}}==\n{{Information\n|description={{en|1=Sky view of a portion of the Cebu Safari and Adventure Park located in Carmen, Cebu, in the Philippines. The image has a distinct view of the park's owl sculptures located among flower plots in the mountains of northern Cebu.}}\n|date=2025-08-22\n|source={{own}}\n|author=[[User:TheNuggeteer|TheNuggeteer]]\n|permission=\n|other versions=\n}}\n\n=={{int:license-header}}==\n{{self|cc-by-sa-4.0}}\n\n[[Category:Cebu Safari and Adventure Park]]\n[[Category:Gardens in the Philippines]]\n[[Category:Terraced gardens]]\n[[Category:Sculptures of animals]]",
+        "requiredAttribution": ""
+      }
+    },
+    {
+      "placeId": "cebu-omagieca-obo-ob-mangrove-garden",
+      "approved": false,
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "Omagieca Obo-ob Mangrove Garden",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Omagieca+Obo-ob+Mangrove+Garden&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Omagieca Obo-ob Mangrove Cebu",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Omagieca+Obo-ob+Mangrove+Cebu&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Omagieca Obo-ob Mangrove Garden Cebu",
+          "url": "https://www.flickr.com/search/?text=Omagieca+Obo-ob+Mangrove+Garden+Cebu&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Obo Ob mangrove",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Obo+Ob+mangrove&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 2
+        },
+        {
+          "provider": "Flickr",
+          "query": "Obo Ob mangrove",
+          "url": "https://www.flickr.com/search/?text=Obo+Ob+mangrove&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=Obo+Ob+mangrove&srlimit=4",
+          "categories": []
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=Omagieca+Obo-ob+Mangrove+Garden&limit=3",
+          "candidates": []
+        }
+      ],
+      "rejections": [
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Mangrove_at_Obo-ob,_Bantayan.JPG",
+          "title": "File:Mangrove at Obo-ob, Bantayan.JPG",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Obo-ob_mangrove_garden.jpg",
+          "title": "File:Obo-ob mangrove garden.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        }
+      ],
+      "notes": [
+        "No permission requested and no owner contacted. Official/public visibility alone does not grant reuse rights."
+      ],
+      "reason": "No photograph established both the exact place/branch and compatible individual-image reuse rights in the reviewed searches. A supplied photograph with documented rights is needed."
+    },
+    {
+      "placeId": "cebu-pig-and-palm",
+      "approved": false,
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "The Pig & Palm",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=The+Pig+%26+Palm&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 8
+        },
+        {
+          "provider": "Commons",
+          "query": "Pig Palm Cebu",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Pig+Palm+Cebu&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "The Pig & Palm Cebu",
+          "url": "https://www.flickr.com/search/?text=The+Pig+%26+Palm+Cebu&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Pig Palm Cebu",
+          "url": "https://www.flickr.com/search/?text=Pig+Palm+Cebu&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=Pig+Palm+Cebu&srlimit=4",
+          "categories": [
+            "Category:Photographs created by Judgefloro, 2020"
+          ]
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=The+Pig+%26+Palm&limit=3",
+          "candidates": []
+        }
+      ],
+      "rejections": [
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Hyophorbe_lagenicaulis_BW.JPG",
+          "title": "File:Hyophorbe lagenicaulis BW.JPG",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Hyophorbe_lagenicaulis_14zz.jpg",
+          "title": "File:Hyophorbe lagenicaulis 14zz.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Hyophorbe_lagenicaulis_16zz.jpg",
+          "title": "File:Hyophorbe lagenicaulis 16zz.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Hyophorbe_lagenicaulis_24zz.jpg",
+          "title": "File:Hyophorbe lagenicaulis 24zz.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Hyophorbe_lagenicaulis_31zz.jpg",
+          "title": "File:Hyophorbe lagenicaulis 31zz.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Hyophorbe_lagenicaulis_Centrepoint_Church_240_Hamilton_Rd_Chermside_P1050032.jpg",
+          "title": "File:Hyophorbe lagenicaulis Centrepoint Church 240 Hamilton Rd Chermside P1050032.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Medium_Sized_Bottle_Palm_(Hyophorbe_lagenicaulis),_FNQ,_Australia.jpg",
+          "title": "File:Medium Sized Bottle Palm (Hyophorbe lagenicaulis), FNQ, Australia.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Hyophorbe_lagenicaulis_kz01.jpg",
+          "title": "File:Hyophorbe lagenicaulis kz01.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        }
+      ],
+      "notes": [
+        "No permission requested and no owner contacted. Official/public visibility alone does not grant reuse rights."
+      ],
+      "reason": "No photograph established both the exact place/branch and compatible individual-image reuse rights in the reviewed searches. A supplied photograph with documented rights is needed."
+    },
+    {
+      "placeId": "cebu-turning-wheels-brewery",
+      "approved": false,
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "Turning Wheels Brewery",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Turning+Wheels+Brewery&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 1
+        },
+        {
+          "provider": "Commons",
+          "query": "Turning Wheels Brewery Cebu",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Turning+Wheels+Brewery+Cebu&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Turning Wheels Brewery Cebu",
+          "url": "https://www.flickr.com/search/?text=Turning+Wheels+Brewery+Cebu&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Turning Wheels Cebu",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Turning+Wheels+Cebu&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Turning Wheels Cebu",
+          "url": "https://www.flickr.com/search/?text=Turning+Wheels+Cebu&license=4%2C5%2C9%2C10",
+          "count": 1
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=Turning+Wheels+Cebu&srlimit=4",
+          "categories": []
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=Turning+Wheels+Brewery&limit=3",
+          "candidates": []
+        }
+      ],
+      "rejections": [
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Wisbech_and_Upwell_tramway_-_approaching_Elm_High_Road_-_geograph.org.uk_-_1267631.jpg",
+          "title": "File:Wisbech and Upwell tramway - approaching Elm High Road - geograph.org.uk - 1267631.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/candlescents/3222104868/",
+          "title": "bicycle girl",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        }
+      ],
+      "notes": [
+        "No permission requested and no owner contacted. Official/public visibility alone does not grant reuse rights."
+      ],
+      "reason": "No photograph established both the exact place/branch and compatible individual-image reuse rights in the reviewed searches. A supplied photograph with documented rights is needed."
+    },
+    {
+      "placeId": "cebu-abaca-baking-crossroads",
+      "approved": false,
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "Abaca Baking Company",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Abaca+Baking+Company&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 2
+        },
+        {
+          "provider": "Commons",
+          "query": "Abaca Baking Company Cebu",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Abaca+Baking+Company+Cebu&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 2
+        },
+        {
+          "provider": "Flickr",
+          "query": "Abaca Baking Company Cebu",
+          "url": "https://www.flickr.com/search/?text=Abaca+Baking+Company+Cebu&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Abaca Crossroads",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Abaca+Crossroads&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Abaca Crossroads",
+          "url": "https://www.flickr.com/search/?text=Abaca+Crossroads&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=Abaca+Crossroads&srlimit=4",
+          "categories": []
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=Abaca+Baking+Company&limit=3",
+          "candidates": []
+        }
+      ],
+      "rejections": [
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Abaca_Baking_Company_(10-05-2022).jpg",
+          "title": "File:Abaca Baking Company (10-05-2022).jpg",
+          "reason": "The individual Abaca photograph explicitly identifies Ayala Center Cebu; another candidate is at SM City Cebu. Neither depicts the Crossroads branch."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Abaca_Baking_Company_at_SM_City_Cebu_(2024-06-17).jpg",
+          "title": "File:Abaca Baking Company at SM City Cebu (2024-06-17).jpg",
+          "reason": "The individual Abaca photograph explicitly identifies Ayala Center Cebu; another candidate is at SM City Cebu. Neither depicts the Crossroads branch."
+        }
+      ],
+      "notes": [
+        "No permission requested and no owner contacted. Official/public visibility alone does not grant reuse rights."
+      ],
+      "reason": "The individual Abaca photograph explicitly identifies Ayala Center Cebu; another candidate is at SM City Cebu. Neither depicts the Crossroads branch."
+    },
+    {
+      "placeId": "sagada-bokong-falls",
+      "approved": true,
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "Bokong Falls",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Bokong+Falls&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 1
+        },
+        {
+          "provider": "Commons",
+          "query": "Bokong Falls Sagada",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Bokong+Falls+Sagada&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 1
+        },
+        {
+          "provider": "Flickr",
+          "query": "Bokong Falls Sagada",
+          "url": "https://www.flickr.com/search/?text=Bokong+Falls+Sagada&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Bokong Sagada",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Bokong+Sagada&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 4
+        },
+        {
+          "provider": "Flickr",
+          "query": "Bokong Sagada",
+          "url": "https://www.flickr.com/search/?text=Bokong+Sagada&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons category members",
+          "category": "Category:Bokong Waterfalls",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=categorymembers&gcmtitle=Category%3ABokong+Waterfalls&gcmtype=file&gcmlimit=30&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 3
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=Bokong+Sagada&srlimit=4",
+          "categories": [
+            "Category:Bokong Waterfalls"
+          ]
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=Bokong+Falls&limit=3",
+          "candidates": [
+            {
+              "id": "Q107131721",
+              "label": "Lepaqoa Waterfall",
+              "description": "waterfall within the Bokong Nature Reserve",
+              "url": "http://www.wikidata.org/entity/Q107131721"
+            }
+          ]
+        }
+      ],
+      "rejections": [
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Bomod-ok_Falls_Sagada.jpg",
+          "title": "File:Bomod-ok Falls Sagada.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Bokong_Waterfall,_Sagada,_Cordilleras,_Philippines_(181762727).jpg",
+          "title": "File:Bokong Waterfall, Sagada, Cordilleras, Philippines (181762727).jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Sagada_banner.jpg",
+          "title": "File:Sagada banner.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        }
+      ],
+      "notes": [],
+      "visuallyReviewed": true,
+      "licenseReviewed": true,
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Bokong_Waterfall,_Sagada,_Cordilleras,_Philippines_(181762726).jpg"
+      ],
+      "identityReview": "Individual source names Bokong Waterfall, Sagada and provides local coordinates. Visually reviewed the smaller waterfall, excluding Bomod-ok and the Bokong reserve in Lesotho. Original Flickr CC BY 2.0 declaration and Commons license-review record checked.",
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Bokong_Waterfall,_Sagada,_Cordilleras,_Philippines_(181762726).jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Bokong_Waterfall%2C_Sagada%2C_Cordilleras%2C_Philippines_%28181762726%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "yeowatzup",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "attribution": "yeowatzup / Wikimedia Commons / CC BY 2.0. Resized and JPEG compressed.",
+        "alt": "Bokong waterfall and rock pool in Sagada, Mountain Province"
+      },
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Bokong_Waterfall%2C_Sagada%2C_Cordilleras%2C_Philippines_%28181762726%29.jpg",
+      "individualSourceEvidence": {
+        "api": "https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=1280&titles=File%3ABokong_Waterfall%2C_Sagada%2C_Cordilleras%2C_Philippines_%28181762726%29.jpg",
+        "parseUrl": "https://commons.wikimedia.org/w/api.php?action=parse&format=json&page=File%3ABokong_Waterfall%2C_Sagada%2C_Cordilleras%2C_Philippines_%28181762726%29.jpg&prop=wikitext",
+        "description": "Bokong Waterfall, Sagada, Cordilleras, Philippines",
+        "categories": "Cordillera Central (Luzon)|Flickr images reviewed by File Upload Bot (Magnus Manske)|Files with coordinates missing SDC location of creation|Photographs by Kok Leng Yeo|Bokong Waterfalls",
+        "latitude": "17.098792",
+        "longitude": "120.903167",
+        "licenseDeclaration": "== {{int:filedesc}} ==\n{{Information\n| Description = Bokong Waterfall, Sagada, Cordilleras, Philippines\n| Source      = [https://www.flickr.com/photos/yeowatzup/181762726/ Bokong Waterfall, Sagada, Cordilleras, Philippines]\n\n| Date        = 2005-10-01 00:00\n| Author      = [https://www.flickr.com/people/46274125@N00 yeowatzup]\n| Permission  = \n| other_versions=\n}}\n{{Location dec|17.098792|120.903167|source:Flickr}}\n\n== {{int:license-header}} ==\n{{cc-by-2.0}}\n{{flickrreview|File Upload Bot (Magnus Manske)|2013-02-08}}\n\n\n[[Category:Cordillera Central (Luzon)]]\n[[Category:Photographs by Kok Leng Yeo]]\n[[Category:Bokong Waterfalls]]",
+        "requiredAttribution": ""
+      }
+    },
+    {
+      "placeId": "sagada-ampacao",
+      "approved": false,
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "Mount Ampacao",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Mount+Ampacao&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 1
+        },
+        {
+          "provider": "Commons",
+          "query": "Mount Ampacao Sagada",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Mount+Ampacao+Sagada&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 1
+        },
+        {
+          "provider": "Flickr",
+          "query": "Mount Ampacao Sagada",
+          "url": "https://www.flickr.com/search/?text=Mount+Ampacao+Sagada&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Ampacao",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Ampacao&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 8
+        },
+        {
+          "provider": "Flickr",
+          "query": "Ampacao",
+          "url": "https://www.flickr.com/search/?text=Ampacao&license=4%2C5%2C9%2C10",
+          "count": 3
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=Ampacao&srlimit=4",
+          "categories": []
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=Mount+Ampacao&limit=3",
+          "candidates": []
+        }
+      ],
+      "rejections": [
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Alumani.jpg",
+          "title": "File:Alumani.jpg",
+          "reason": "Alumani image does not establish the specific Ampacao location; no substitute used."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:View_from_Ampacao_(3302520385).jpg",
+          "title": "File:View from Ampacao (3302520385).jpg",
+          "reason": "Alumani image does not establish the specific Ampacao location; no substitute used."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:View_from_Ampacao_(3302523411).jpg",
+          "title": "File:View from Ampacao (3302523411).jpg",
+          "reason": "Alumani image does not establish the specific Ampacao location; no substitute used."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Ampacao_pasture_(3302534093).jpg",
+          "title": "File:Ampacao pasture (3302534093).jpg",
+          "reason": "Alumani image does not establish the specific Ampacao location; no substitute used."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:The_curious_green_beetle_(3302537995).jpg",
+          "title": "File:The curious green beetle (3302537995).jpg",
+          "reason": "Alumani image does not establish the specific Ampacao location; no substitute used."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:White_rhododendron_(3303372802).jpg",
+          "title": "File:White rhododendron (3303372802).jpg",
+          "reason": "Alumani image does not establish the specific Ampacao location; no substitute used."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Pitcher_plant!_(3302553433).jpg",
+          "title": "File:Pitcher plant! (3302553433).jpg",
+          "reason": "Alumani image does not establish the specific Ampacao location; no substitute used."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Pitcher_plant!_(3302554913).jpg",
+          "title": "File:Pitcher plant! (3302554913).jpg",
+          "reason": "Alumani image does not establish the specific Ampacao location; no substitute used."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/caitriana/3302520385/",
+          "title": "View from Ampacao",
+          "reason": "Alumani image does not establish the specific Ampacao location; no substitute used."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/caitriana/3302537995/",
+          "title": "The curious green beetle",
+          "reason": "Alumani image does not establish the specific Ampacao location; no substitute used."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/caitriana/3302514437/",
+          "title": "View through the pines",
+          "reason": "Alumani image does not establish the specific Ampacao location; no substitute used."
+        }
+      ],
+      "notes": [
+        "No permission requested and no owner contacted. Official/public visibility alone does not grant reuse rights."
+      ],
+      "reason": "Alumani image does not establish the specific Ampacao location; no substitute used."
+    },
+    {
+      "placeId": "sagada-balangagan-cave",
+      "approved": false,
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "Balangagan Cave",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Balangagan+Cave&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Balangagan Cave Sagada",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Balangagan+Cave+Sagada&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Balangagan Cave Sagada",
+          "url": "https://www.flickr.com/search/?text=Balangagan+Cave+Sagada&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Balangagan",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Balangagan&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Balangagan",
+          "url": "https://www.flickr.com/search/?text=Balangagan&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=Balangagan&srlimit=4",
+          "categories": []
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=Balangagan+Cave&limit=3",
+          "candidates": []
+        }
+      ],
+      "rejections": [],
+      "notes": [
+        "No permission requested and no owner contacted. Official/public visibility alone does not grant reuse rights."
+      ],
+      "reason": "No photograph established both the exact place/branch and compatible individual-image reuse rights in the reviewed searches. A supplied photograph with documented rights is needed."
+    }
+  ]
+}

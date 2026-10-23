@@ -1,0 +1,34 @@
+{
+  "id": "food-005",
+  "checkedOn": "2026-10-22",
+  "accepted": [
+    "davao-purge-tulip",
+    "davao-fourth-street-narra",
+    "davao-glasshouse-oboza",
+    "davao-paramount-star-hotel",
+    "davao-kapewenoz-v-mapa",
+    "davao-lamano-tulip",
+    "davao-capris-bajada",
+    "davao-lachis-marfori",
+    "iloilo-neighbor-atria",
+    "iloilo-bluejay-sm-city",
+    "iloilo-monkey-grounds",
+    "iloilo-loco-smallville",
+    "iloilo-netongs-la-paz",
+    "iloilo-robertos-jm-basa",
+    "iloilo-carlos-dungon"
+  ],
+  "inserted": 0,
+  "promoted": 0,
+  "unchanged": 15,
+  "decisions": [
+    {
+      "name": "Lamesa Davao",
+      "status": "unresolved",
+      "sources": [
+        "https://www.sunstar.com.ph/amp/story/davao/kadayawan-2026-see-it-taste-it-live-it"
+      ],
+      "reason": "Current city-level mention found, but branch identity and primary venue details need further confirmation; no quota-filling record added."
+    }
+  ]
+}

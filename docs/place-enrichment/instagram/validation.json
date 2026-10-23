@@ -1,0 +1,56 @@
+{
+  "validatedOn": "2026-10-23",
+  "timezone": "UTC",
+  "implementation": "complete-local-not-deployed",
+  "researchScope": "Catalog-wide public publisher-reference audit completed; individual-post population remains partial and source-limited.",
+  "catalog": 426,
+  "preservation": {
+    "approvedCoverPhotos": 214,
+    "startingPhotoGaps": 212,
+    "finalPhotoGaps": 212,
+    "descriptions": 426,
+    "videoAssociations": 515,
+    "locationsWithVideos": 299,
+    "stableCatalogIdsAndMediaHashes": "passed",
+    "accountOrTripStorageChanges": false
+  },
+  "instagram": {
+    "resources": 37,
+    "locations": 36,
+    "destinations": 11,
+    "photoGapLocationsWithInstagram": 9,
+    "confirmedOfficialEmbeds": 37,
+    "linkOnlyResources": 0,
+    "remainingWithoutApprovedResource": 390,
+    "review": "Public captions/accounts or official widget location labels plus place-specific publisher references; initial photographs/reel posters visually inspected. Not full carousel or footage review."
+  },
+  "checks": {
+    "unitIntegrationTests": {"passed": 96, "failed": 0, "command": "npm test"},
+    "typecheck": {"passed": true, "command": "npm run typecheck", "note": "Run after the native Next build regenerates framework route types; Sites and Next generated-type artifacts should not be mixed."},
+    "sitesBuild": {"passed": true, "command": "npm run build", "warnings": "Existing large client-chunk and route-classification warnings remain."},
+    "vercelBuild": {"passed": true, "command": "npm run build:vercel"},
+    "placeImageValidation": {"passed": true, "command": "npm run validate:places", "documentedPhotosDecoded": 212},
+    "focusedLint": {"passed": true, "scope": "New Instagram component, schema, overlay, loader, research/progress/publisher scripts and tests"},
+    "fullRepositoryLint": {"passed": false, "command": "npm run lint", "note": "216 errors / 3643 warnings including ignored downloaded research/vendor files under work. Excluding work leaves 17 pre-existing errors / 15 warnings in account, discovery, map and planner components and existing tests/types. No rules disabled or unrelated fixes made."},
+    "diffWhitespace": {"passed": true, "command": "git -c core.whitespace=cr-at-eol -c core.safecrlf=false diff --check"}
+  },
+  "browser": {
+    "productionBuildOrigin": "http://localhost:5191",
+    "instagramFixtureSuite": {"passed": true, "widths": [320, 390, 820, 1440], "covers": ["No third-party requests before the explicit load action", "No Instagram widgets on Discover cards", "Single shared SDK for multiple posts", "Two desktop columns / one mobile column", "326 px minimum and 658 px maximum", "Narrow screen uses source links", "SDK failure and explicit retry", "Source links retained when embeds fail", "Resize and navigation cleanup without React DOM errors", "No-resource section hidden", "Existing YouTube content retained"], "limitation": "Network fixtures validate UI behavior, not real Instagram availability."},
+    "realOfficialEmbeds": {"passed": true, "resources": 37, "records": ["decisions/instagram-starter-confirmed.json", "instagram-002-confirmed-browser-check.json", "instagram-003-confirmed-browser-check.json", "instagram-004-confirmed-browser-check.json"]},
+    "finalNativeVisualChecks": [
+      {"placeId": "el-nido-piece-of-sky", "viewport": 1440, "instagramRequestsBeforeAction": 0, "officialFrames": 2, "overflow": false, "applicationErrors": []},
+      {"placeId": "siargao-spotted-pig-catangnan", "viewport": 390, "instagramRequestsBeforeAction": 0, "officialFrames": 1, "overflow": false, "applicationErrors": []}
+    ],
+    "placeContentRegression": {"passed": true, "command": "node tests/place-content-browser.mjs"},
+    "foodDirectoryRegression": {"passed": true, "command": "node tests/food-directory-browser.mjs"},
+    "accountsRegression": {"passed": true, "command": "node tests/accounts-browser.mjs", "scope": "UI network fixtures: Google entry/save, refresh/recovery, private account isolation, bookmarks and exact snapshots", "liveGoogleLoginVerified": false}
+  },
+  "remaining": [
+    "390 locations still lack an approved individual Instagram resource. The catalog-source audit is not exhaustive Instagram discovery.",
+    "71 of 384 catalog-source URLs were inaccessible; 85 locations had no accessible catalog source. Empty or inaccessible publisher pages never imply that a suitable Instagram post does not exist.",
+    "Uncertain branch/location associations and removed posts remain unpublished; see candidate-decisions.json and supplemental-research.json.",
+    "Instagram visibility, sign-in requirements, owner settings and availability can change after the recorded check.",
+    "No GitHub push, Vercel deployment or live production Google login was performed. Commit/push the intended combined changes and redeploy; no new environment variables, database migrations or paid services are needed."
+  ]
+}

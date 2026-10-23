@@ -1,6 +1,6 @@
 # Additional-place research progress
 
-Snapshot: 23 October 2026. Starting directory: 200 unique accepted places. Additional accepted identities: 132; final published count: 332. Remaining toward 150 additions: 18.
+Historical expansion snapshot: 23 October 2026. Starting directory: 200 unique accepted places. Additional accepted identities in that expansion: 132; subtotal: 332. Remaining toward its 150 additions: 18. Later food-directory work is tracked separately in docs/food-directory/README.md and public/data/food-directory-progress.json. Current complete directory: 426.
 
 | Destination | Starting | Added | Addition target | Final |
 | --- | ---: | ---: | ---: | ---: |
@@ -28,4 +28,4 @@ Original 200 IDs and source records are checked against the immutable expansion 
 
 Research batches and factual decisions: expansion-islands.md, expansion-visayas.md, expansion-luzon.md. The atomic import checks normalized names, aliases, verified addresses and coordinate proximity before writing the approved batch. Rerunning identical input leaves the approved records unchanged.
 
-Pending research from the interrupted expansion: Sagada 10, Iloilo 4 and Davao 4 additional verified places. The earlier research agents stopped at the usage limit before these batches were saved. The active task is now itinerary selection; no unreviewed candidates were added to fill the gap. Resume source research, import the reviewed batches, then regenerate exports and rerun catalog checks when that expansion is resumed.
+This is the historical 132-addition research ledger, with its original 18-place shortfall. Later food-directory additions are reported separately in docs/food-directory/README.md and public/data/food-directory-progress.json; they are not retroactively claimed as completed historical batches.

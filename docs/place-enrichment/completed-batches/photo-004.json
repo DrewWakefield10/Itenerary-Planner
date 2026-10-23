@@ -1,0 +1,2240 @@
+{
+  "batchId": "photo-004",
+  "mode": "photos-only",
+  "checkedOn": "2026-10-22",
+  "outcomes": [
+    {
+      "placeId": "davao-matina-linear-park",
+      "checkedOn": "2026-10-22",
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "Matina Linear Park",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Matina+Linear+Park&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Matina Linear Davao",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Matina+Linear+Davao&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Matina Linear Park Davao",
+          "url": "https://www.flickr.com/search/?text=Matina+Linear+Park+Davao&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Matina park",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Matina+park&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Matina park",
+          "url": "https://www.flickr.com/search/?text=Matina+park&license=4%2C5%2C9%2C10",
+          "count": 8
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=Matina+park&srlimit=4",
+          "categories": []
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=Matina+Linear+Park&limit=3",
+          "candidates": []
+        }
+      ],
+      "rejections": [
+        {
+          "sourcePage": "https://www.flickr.com/photos/125601701@N03/37515811132/",
+          "title": "Voici que la saison décline ...",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/biagkensiak/8592157440/",
+          "title": "Shrine of the Holy Infant Jesus of Prague Davao City",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/biagkensiak/8592157264/",
+          "title": "Shrine of the Holy Infant Jesus of Prague Davao City",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/biagkensiak/8591035391/",
+          "title": "Shrine of the Holy Infant Jesus of Prague Davao City",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/biagkensiak/8592156688/",
+          "title": "Shrine of the Holy Infant Jesus of Prague Davao City",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/biagkensiak/8591034805/",
+          "title": "Shrine of the Holy Infant Jesus of Prague Davao City",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/burgermac/3279346925/",
+          "title": "people park davao city main entrance",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/burgermac/3279351037/",
+          "title": "street front people park davao city",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        }
+      ],
+      "notes": [
+        "No permission requested and no owner contacted. Official/public visibility alone does not grant reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "No photograph established both the exact place/branch and compatible individual-image reuse rights in the reviewed searches. A supplied photograph with documented rights is needed."
+    },
+    {
+      "placeId": "davao-candelaria-park",
+      "checkedOn": "2026-10-22",
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "Candelaria Park",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Candelaria+Park&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 8
+        },
+        {
+          "provider": "Commons",
+          "query": "Candelaria Davao",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Candelaria+Davao&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Candelaria Park Davao",
+          "url": "https://www.flickr.com/search/?text=Candelaria+Park+Davao&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Candelaria Park",
+          "url": "https://www.flickr.com/search/?text=Candelaria+Park&license=4%2C5%2C9%2C10",
+          "count": 12
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=Candelaria+Park&srlimit=4",
+          "categories": [
+            "Category:Candelaria Caves",
+            "Category:Plaza de la Candelaria, Cádiz",
+            "Category:Parque de Bolívar, Medellín",
+            "Category:Cisneros Square"
+          ]
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=Candelaria+Park&limit=3",
+          "candidates": []
+        }
+      ],
+      "rejections": [
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Bas%C3%ADlica_de_Nuestra_Se%C3%B1ora_de_la_Candelaria,_Candelaria,_Tenerife,_Espa%C3%B1a,_2012-12-12,_DD_06.jpg",
+          "title": "File:Basílica de Nuestra Señora de la Candelaria, Candelaria, Tenerife, España, 2012-12-12, DD 06.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Bas%C3%ADlica_de_Nuestra_Se%C3%B1ora_de_la_Candelaria,_Candelaria,_Tenerife,_Espa%C3%B1a,_2012-12-12,_DD_09.jpg",
+          "title": "File:Basílica de Nuestra Señora de la Candelaria, Candelaria, Tenerife, España, 2012-12-12, DD 09.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Bas%C3%ADlica_de_Nuestra_Se%C3%B1ora_de_la_Candelaria,_Candelaria,_Tenerife,_Espa%C3%B1a,_2012-12-12,_DD_10.jpg",
+          "title": "File:Basílica de Nuestra Señora de la Candelaria, Candelaria, Tenerife, España, 2012-12-12, DD 10.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Bas%C3%ADlica_de_Nuestra_Se%C3%B1ora_de_la_Candelaria,_Candelaria,_Tenerife,_Espa%C3%B1a,_2012-12-12,_DD_11.jpg",
+          "title": "File:Basílica de Nuestra Señora de la Candelaria, Candelaria, Tenerife, España, 2012-12-12, DD 11.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:CuevasCandelaria1.JPG",
+          "title": "File:CuevasCandelaria1.JPG",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Candelaria_Rodr%C3%ADguez_in_Marti_Park,_Marianao.jpg",
+          "title": "File:Candelaria Rodríguez in Marti Park, Marianao.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Candelaria_Rodr%C3%ADguez_in_Marti_Park,_Marianao_(cropped).jpg",
+          "title": "File:Candelaria Rodríguez in Marti Park, Marianao (cropped).jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Devotional_Candle_Park,_Candelaria,_Quezon,_Feb_2024.jpg",
+          "title": "File:Devotional Candle Park, Candelaria, Quezon, Feb 2024.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/t_y_l/30997034248/",
+          "title": "P8310066",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/t_y_l/44866937491/",
+          "title": "P8310065",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/140297617@N07/42264298932/",
+          "title": "Plaza Venezuela, Sabana Grande, Los Caobos y La Candelaria. Vicente Quintero",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/strocchi/48099217946/",
+          "title": "Camagüey",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/33037982@N04/3395989916/",
+          "title": "Libertador General Bernardo O'Higgins",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/33037982@N04/3543705695/",
+          "title": "Church in Santa Rosa de Copan",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/alexyv/7138227441/",
+          "title": "Базилика де ла Канделария // Basílica de Candelaria",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/presidioofmonterey/31710161420/",
+          "title": "2016 Jefferson Award Nominee",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/beyonddc/54568212171/",
+          "title": "Freedom Park, Rosslyn, Arlington",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/beyonddc/54568436573/",
+          "title": "Dark Star Park, Rosslyn, Arlington",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/jlodder/13963099694/",
+          "title": "lichen, 2x life size",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/linkogecko/13251852753/",
+          "title": "Hora Azul",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        }
+      ],
+      "notes": [
+        "No permission requested and no owner contacted. Official/public visibility alone does not grant reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "No photograph established both the exact place/branch and compatible individual-image reuse rights in the reviewed searches. A supplied photograph with documented rights is needed."
+    },
+    {
+      "placeId": "davao-communal-pocket-park",
+      "checkedOn": "2026-10-22",
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "Communal Pocket Park",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Communal+Pocket+Park&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 5
+        },
+        {
+          "provider": "Commons",
+          "query": "Communal Pocket Davao",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Communal+Pocket+Davao&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Communal Pocket Park Davao",
+          "url": "https://www.flickr.com/search/?text=Communal+Pocket+Park+Davao&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Communal Davao",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Communal+Davao&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 1
+        },
+        {
+          "provider": "Flickr",
+          "query": "Communal Davao",
+          "url": "https://www.flickr.com/search/?text=Communal+Davao&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=Communal+Davao&srlimit=4",
+          "categories": []
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=Communal+Pocket+Park&limit=3",
+          "candidates": []
+        }
+      ],
+      "rejections": [
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Ausstellung,_Tolnai_Lajos_Stra%C3%9Fe_23,_2025_Csarnoknegyed.jpg",
+          "title": "File:Ausstellung, Tolnai Lajos Straße 23, 2025 Csarnoknegyed.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Garten,_Tolnai_Lajos_Stra%C3%9Fe_23,_2025_Csarnoknegyed.jpg",
+          "title": "File:Garten, Tolnai Lajos Straße 23, 2025 Csarnoknegyed.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Tolnai_Lajos_Stra%C3%9Fe_23,_Kompostierung,_2025_Csarnoknegyed.jpg",
+          "title": "File:Tolnai Lajos Straße 23, Kompostierung, 2025 Csarnoknegyed.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Tolnai_Lajos_Stra%C3%9Fe_23,_Nistkasten_,_2025_Csarnoknegyed.jpg",
+          "title": "File:Tolnai Lajos Straße 23, Nistkasten , 2025 Csarnoknegyed.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Tolnai_Lajos_Stra%C3%9Fe_23,_Quartett,_2025_Csarnoknegyed.jpg",
+          "title": "File:Tolnai Lajos Straße 23, Quartett, 2025 Csarnoknegyed.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Circular_Seating_Area_in_the_Park.jpg",
+          "title": "File:Circular Seating Area in the Park.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        }
+      ],
+      "notes": [
+        "No permission requested and no owner contacted. Official/public visibility alone does not grant reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "No photograph established both the exact place/branch and compatible individual-image reuse rights in the reviewed searches. A supplied photograph with documented rights is needed."
+    },
+    {
+      "placeId": "davao-jacks-ridge-shrine-hills",
+      "checkedOn": "2026-10-22",
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "Jacks Ridge",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Jacks+Ridge&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 5
+        },
+        {
+          "provider": "Commons",
+          "query": "Jacks Ridge Davao",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Jacks+Ridge+Davao&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 8
+        },
+        {
+          "provider": "Flickr",
+          "query": "Jacks Ridge Davao",
+          "url": "https://www.flickr.com/search/?text=Jacks+Ridge+Davao&license=4%2C5%2C9%2C10",
+          "count": 12
+        },
+        {
+          "provider": "Flickr",
+          "query": "Jacks Ridge",
+          "url": "https://www.flickr.com/search/?text=Jacks+Ridge&license=4%2C5%2C9%2C10",
+          "count": 12
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=Jacks+Ridge&srlimit=4",
+          "categories": [
+            "Category:Hacksaw Ridge",
+            "Category:Jacks Mountain",
+            "Category:The Romance of Rosy Ridge",
+            "Category:Jack Dongarra"
+          ]
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=Jacks+Ridge&limit=3",
+          "candidates": [
+            {
+              "id": "Q49690753",
+              "label": "Jacks Ridge",
+              "description": "ridge in McCone County, Montana, United States",
+              "url": "http://www.wikidata.org/entity/Q49690753"
+            },
+            {
+              "id": "Q22467058",
+              "label": "Jacks Ridges",
+              "description": "ridge in Newfoundland and Labrador, Canada",
+              "url": "http://www.wikidata.org/entity/Q22467058"
+            }
+          ]
+        }
+      ],
+      "rejections": [
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Richard_Jack-The_Taking_of_Vimy_Ridge_(CWM_19710261-0160).jpg",
+          "title": "File:Richard Jack-The Taking of Vimy Ridge (CWM 19710261-0160).jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Church_of_St_Margaret_Ridge_Herts_-_geograph.org.uk_-_31636.jpg",
+          "title": "File:Church of St Margaret Ridge Herts - geograph.org.uk - 31636.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Village_Hall_at_Ridge_-_geograph.org.uk_-_31640.jpg",
+          "title": "File:Village Hall at Ridge - geograph.org.uk - 31640.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:%27The_Jack_Mytton_Way%27_along_the_ridge_of_Wenlock_Edge_-_geograph.org.uk_-_689860.jpg",
+          "title": "File:'The Jack Mytton Way' along the ridge of Wenlock Edge - geograph.org.uk - 689860.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Soilder_Sgt._Jack_Bailey_1945_Oak_Ridge_(15476278231).jpg",
+          "title": "File:Soilder Sgt. Jack Bailey 1945 Oak Ridge (15476278231).jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Official_WikiNights_Event_in_Davao_City,_Conducted_at_Jack%E2%80%99s_Ridge_(003).jpg",
+          "title": "File:Official WikiNights Event in Davao City, Conducted at Jack’s Ridge (003).jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Official_WikiNights_Event_in_Davao_City,_Conducted_at_Jack%E2%80%99s_Ridge_(002).jpg",
+          "title": "File:Official WikiNights Event in Davao City, Conducted at Jack’s Ridge (002).jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Official_WikiNights_Event_in_Davao_City,_Conducted_at_Jack%E2%80%99s_Ridge_(001).jpg",
+          "title": "File:Official WikiNights Event in Davao City, Conducted at Jack’s Ridge (001).jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Official_WikiNights_Event_in_Davao_City,_Conducted_at_Jack%E2%80%99s_Ridge_(004).jpg",
+          "title": "File:Official WikiNights Event in Davao City, Conducted at Jack’s Ridge (004).jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Official_WikiNights_Event_in_Davao_City,_Conducted_at_Jack%E2%80%99s_Ridge_(005).jpg",
+          "title": "File:Official WikiNights Event in Davao City, Conducted at Jack’s Ridge (005).jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Official_WikiNights_Event_in_Davao_City,_Conducted_at_Jack%E2%80%99s_Ridge_(006).jpg",
+          "title": "File:Official WikiNights Event in Davao City, Conducted at Jack’s Ridge (006).jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Official_WikiNights_Event_in_Davao_City,_Conducted_at_Jack%E2%80%99s_Ridge_(008).jpg",
+          "title": "File:Official WikiNights Event in Davao City, Conducted at Jack’s Ridge (008).jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/shankaronline/9103716691/",
+          "title": "Lunch at Davao's Jack's Ridge",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/itsmorefunindavaocity/27070843616/",
+          "title": "Jack's Ridge - Stairs",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/itsmorefunindavaocity/27103976175/",
+          "title": "Jack's Ridge in Davao City",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/itsmorefunindavaocity/27103788285/",
+          "title": "Jack's Ridge in Davao City",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/shankaronline/9105951712/",
+          "title": "View from Jack's Ridge",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/itsmorefunindavaocity/27035962151/",
+          "title": "Jack's Ridge - Kids Playground",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/itsmorefunindavaocity/27104199705/",
+          "title": "Jack's Ridge - Kid Playing",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/shankaronline/9103710717/",
+          "title": "Signage on Jack's Ridge",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/shankaronline/9103697531/",
+          "title": "Posing on Jack's Ridge",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/itsmorefunindavaocity/26498845564/",
+          "title": "Jack's Ridge - Church",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/shankaronline/9103620777/",
+          "title": "Signage on Jack's Ridge",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/shankaronline/9103723007/",
+          "title": "Posing on Jack's Ridge",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/dsoltesz/3593834794/",
+          "title": "Lockett Meadow",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/itravelnz/27688921752/",
+          "title": "Jack's Blowhole Track",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/blmoregon/15878207855/",
+          "title": "London Peak Trail",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/flickbergers/4842329281/",
+          "title": "P1010087",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/dsoltesz/3593033483/",
+          "title": "Lockett Meadow",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/blmidaho/23127495646/",
+          "title": "Big Jacks Creek Wilderness",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/mypubliclands/15290912398/",
+          "title": "BLM Idaho and Volunteers Maintain Wilderness on NPLD 2014",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/bravenboer/22021621709/",
+          "title": "Jack Mountain",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/dsoltesz/3593844654/",
+          "title": "Lockett Meadow",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/peerlawther/5942568801/",
+          "title": "Striding Edge",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/dsoltesz/3593028723/",
+          "title": "Lockett Meadow",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/56775593@N05/8343707461/",
+          "title": "Jack",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        }
+      ],
+      "notes": [],
+      "status": "added",
+      "photo": {
+        "placeId": "davao-jacks-ridge-shrine-hills",
+        "src": "/images/places/davao-jacks-ridge-shrine-hills.jpg",
+        "srcSmall": "/images/places/davao-jacks-ridge-shrine-hills-640.jpg",
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Official_WikiNights_Event_in_Davao_City,_Conducted_at_Jack%E2%80%99s_Ridge_(007).jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Official_WikiNights_Event_in_Davao_City%2C_Conducted_at_Jack%E2%80%99s_Ridge_%28007%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "Bjeweld",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "Bjeweld / Wikimedia Commons / CC BY-SA 4.0. Resized and JPEG compressed.",
+        "alt": "Decorated stairway leading to viewpoints at Jack’s Ridge in Davao City",
+        "width": 1200,
+        "height": 800,
+        "checkedOn": "2026-10-22"
+      }
+    },
+    {
+      "placeId": "davao-apo-ni-lola-matina",
+      "checkedOn": "2026-10-22",
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "Apo ni Lola Pasalubong Center",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Apo+ni+Lola+Pasalubong+Center&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Apo ni Lola Davao",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Apo+ni+Lola+Davao&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Apo ni Lola Pasalubong Center Davao",
+          "url": "https://www.flickr.com/search/?text=Apo+ni+Lola+Pasalubong+Center+Davao&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Apo ni Lola",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Apo+ni+Lola&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Apo ni Lola",
+          "url": "https://www.flickr.com/search/?text=Apo+ni+Lola&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=Apo+ni+Lola&srlimit=4",
+          "categories": [
+            "Category:Photographs by Judgefloro, 2019"
+          ]
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=Apo+ni+Lola+Pasalubong+Center&limit=3",
+          "candidates": []
+        }
+      ],
+      "rejections": [],
+      "notes": [
+        "No permission requested and no owner contacted. Official/public visibility alone does not grant reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "No photograph established both the exact place/branch and compatible individual-image reuse rights in the reviewed searches. A supplied photograph with documented rights is needed."
+    },
+    {
+      "placeId": "davao-marina-tuna-sandawa",
+      "checkedOn": "2026-10-22",
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "Marina Tuna",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Marina+Tuna&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 8
+        },
+        {
+          "provider": "Commons",
+          "query": "Marina Tuna Davao",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Marina+Tuna+Davao&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Marina Tuna Davao",
+          "url": "https://www.flickr.com/search/?text=Marina+Tuna+Davao&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=Marina+Tuna+Davao&srlimit=4",
+          "categories": [
+            "Category:Photographs by Judgefloro, 2019"
+          ]
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=Marina+Tuna&limit=3",
+          "candidates": []
+        }
+      ],
+      "rejections": [
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Tuna_at_Ponta_Delgada_marina_(553732293).jpg",
+          "title": "File:Tuna at Ponta Delgada marina (553732293).jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Large_leaping_tuna_fish,_caught_off_Santa_Catalina_Island,_ca.1910_(CHS-1619).jpg",
+          "title": "File:Large leaping tuna fish, caught off Santa Catalina Island, ca.1910 (CHS-1619).jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Marina,_San_Diego,_CA,_USA_-_panoramio_(10).jpg",
+          "title": "File:Marina, San Diego, CA, USA - panoramio (10).jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Marina,_San_Diego,_CA,_USA_-_panoramio_(12).jpg",
+          "title": "File:Marina, San Diego, CA, USA - panoramio (12).jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Marina,_San_Diego,_CA,_USA_-_panoramio_(18).jpg",
+          "title": "File:Marina, San Diego, CA, USA - panoramio (18).jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Ballantyne%27s_Cove_Bluefin_Tuna_Interpretive_Centre.jpg",
+          "title": "File:Ballantyne's Cove Bluefin Tuna Interpretive Centre.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Marinated_tuna_(28587209191).jpg",
+          "title": "File:Marinated tuna (28587209191).jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Marinated_tuna_(28048421504).jpg",
+          "title": "File:Marinated tuna (28048421504).jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        }
+      ],
+      "notes": [
+        "No permission requested and no owner contacted. Official/public visibility alone does not grant reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "No photograph established both the exact place/branch and compatible individual-image reuse rights in the reviewed searches. A supplied photograph with documented rights is needed."
+    },
+    {
+      "placeId": "bohol-danao-beach-afternoon",
+      "checkedOn": "2026-10-22",
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "Danao Beach",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Danao+Beach&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 4
+        },
+        {
+          "provider": "Commons",
+          "query": "Danao Bohol",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Danao+Bohol&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 8
+        },
+        {
+          "provider": "Flickr",
+          "query": "Danao Beach Bohol",
+          "url": "https://www.flickr.com/search/?text=Danao+Beach+Bohol&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Danao beach Panglao",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Danao+beach+Panglao&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 3
+        },
+        {
+          "provider": "Flickr",
+          "query": "Danao beach Panglao",
+          "url": "https://www.flickr.com/search/?text=Danao+beach+Panglao&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Wikidata linked image records",
+          "url": "https://www.wikidata.org/w/api.php?action=wbgetentities&format=json&ids=Q110097706&props=claims%7Clabels%7Cdescriptions%7Csitelinks&languages=en",
+          "entity": "Q110097706",
+          "files": [
+            "Coconut trees on Panglao Bita-Ug beach - panoramio.jpg"
+          ]
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=Danao+beach+Panglao&srlimit=4",
+          "categories": []
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=Danao+Beach&limit=3",
+          "candidates": [
+            {
+              "id": "Q110097706",
+              "label": "Danao Beach",
+              "description": "Danao Beach is on Panglao Island in the Bohol province of the Philippines",
+              "url": "http://www.wikidata.org/entity/Q110097706"
+            }
+          ]
+        }
+      ],
+      "rejections": [
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Coconut_trees_on_Panglao_Bita-Ug_beach_-_panoramio.jpg",
+          "title": "File:Coconut trees on Panglao Bita-Ug beach - panoramio.jpg",
+          "reason": "Danao municipality and Bita-Ug beach photos do not establish Danao Beach in Panglao."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Danaos_Beach_Hotel_and_Apartments_-_panoramio.jpg",
+          "title": "File:Danaos Beach Hotel and Apartments - panoramio.jpg",
+          "reason": "Danao municipality and Bita-Ug beach photos do not establish Danao Beach in Panglao."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Danaos_Beach_Hotel_and_Apartments_-_panoramio_(1).jpg",
+          "title": "File:Danaos Beach Hotel and Apartments - panoramio (1).jpg",
+          "reason": "Danao municipality and Bita-Ug beach photos do not establish Danao Beach in Panglao."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:KOTA_SANTOS,_IMO_9293765,_Rio_de_Janeiro.jpg",
+          "title": "File:KOTA SANTOS, IMO 9293765, Rio de Janeiro.jpg",
+          "reason": "Danao municipality and Bita-Ug beach photos do not establish Danao Beach in Panglao."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Ph_locator_bohol_danao.png",
+          "title": "File:Ph locator bohol danao.png",
+          "reason": "Danao municipality and Bita-Ug beach photos do not establish Danao Beach in Panglao."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Map_of_Danao_Bohol.png",
+          "title": "File:Map of Danao Bohol.png",
+          "reason": "Danao municipality and Bita-Ug beach photos do not establish Danao Beach in Panglao."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Danao_Bohol_1.jpg",
+          "title": "File:Danao Bohol 1.jpg",
+          "reason": "Danao municipality and Bita-Ug beach photos do not establish Danao Beach in Panglao."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Danao_Bohol_2.jpg",
+          "title": "File:Danao Bohol 2.jpg",
+          "reason": "Danao municipality and Bita-Ug beach photos do not establish Danao Beach in Panglao."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Danao_Bohol_3.jpg",
+          "title": "File:Danao Bohol 3.jpg",
+          "reason": "Danao municipality and Bita-Ug beach photos do not establish Danao Beach in Panglao."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Danao_Adventure_Park.jpg",
+          "title": "File:Danao Adventure Park.jpg",
+          "reason": "Danao municipality and Bita-Ug beach photos do not establish Danao Beach in Panglao."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Sea_of_Clouds_Danao_Bohol.jpg",
+          "title": "File:Sea of Clouds Danao Bohol.jpg",
+          "reason": "Danao municipality and Bita-Ug beach photos do not establish Danao Beach in Panglao."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Flag_of_Danao,_Bohol.png",
+          "title": "File:Flag of Danao, Bohol.png",
+          "reason": "Danao municipality and Bita-Ug beach photos do not establish Danao Beach in Panglao."
+        }
+      ],
+      "notes": [
+        "No permission requested and no owner contacted. Official/public visibility alone does not grant reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "Danao municipality and Bita-Ug beach photos do not establish Danao Beach in Panglao."
+    },
+    {
+      "placeId": "bohol-libaong-beach",
+      "checkedOn": "2026-10-22",
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "Libaong Beach",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Libaong+Beach&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Libaong Bohol",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Libaong+Bohol&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 7
+        },
+        {
+          "provider": "Flickr",
+          "query": "Libaong Beach Bohol",
+          "url": "https://www.flickr.com/search/?text=Libaong+Beach+Bohol&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Libaong",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Libaong&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 7
+        },
+        {
+          "provider": "Flickr",
+          "query": "Libaong",
+          "url": "https://www.flickr.com/search/?text=Libaong&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=Libaong&srlimit=4",
+          "categories": [
+            "Category:Gassi Touïl (dépression)",
+            "Category:Copper Basin (Nevada)",
+            "Category:Kilbourne Hole",
+            "Category:The Basin (Franconia Notch)"
+          ]
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=Libaong+Beach&limit=3",
+          "candidates": []
+        }
+      ],
+      "rejections": [
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Discoplax_gracilipes_(MNHN-IU-2014-11218)_002.jpeg",
+          "title": "File:Discoplax gracilipes (MNHN-IU-2014-11218) 002.jpeg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Discoplax_gracilipes_(MNHN-IU-2014-11218)_001.jpeg",
+          "title": "File:Discoplax gracilipes (MNHN-IU-2014-11218) 001.jpeg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Tuberes_postremus_(MNHN-IM-2000-33141)_001.jpeg",
+          "title": "File:Tuberes postremus (MNHN-IM-2000-33141) 001.jpeg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Tuberes_postremus_(MNHN-IM-2000-33141)_002.jpeg",
+          "title": "File:Tuberes postremus (MNHN-IM-2000-33141) 002.jpeg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Tuberes_postremus_(MNHN-IM-2000-33142)_001.jpeg",
+          "title": "File:Tuberes postremus (MNHN-IM-2000-33142) 001.jpeg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Tuberes_postremus_(MNHN-IM-2000-33142)_002.jpeg",
+          "title": "File:Tuberes postremus (MNHN-IM-2000-33142) 002.jpeg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Discoplax_(10.12782-specdiv.28.177)_Figure_4.png",
+          "title": "File:Discoplax (10.12782-specdiv.28.177) Figure 4.png",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:ISR-2016-Makhtesh_Ramon-Ibex_01.jpg",
+          "title": "File:ISR-2016-Makhtesh Ramon-Ibex 01.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:ISR-2016-Makhtesh_Ramon-Geological_dike.jpg",
+          "title": "File:ISR-2016-Makhtesh Ramon-Geological dike.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:ISR-2013-Makhtesh_Ramon-Quarry_01.jpg",
+          "title": "File:ISR-2013-Makhtesh Ramon-Quarry 01.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:ISR-2013-Makhtesh_Ramon-Near_Makhtesh_Ramon_(looking_in).jpg",
+          "title": "File:ISR-2013-Makhtesh Ramon-Near Makhtesh Ramon (looking in).jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Makhtesh_Ramon_(40460).jpg",
+          "title": "File:Makhtesh Ramon (40460).jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Makhtesh_Ramon_(50785).jpg",
+          "title": "File:Makhtesh Ramon (50785).jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:%D7%92%D7%9C%D7%99%D7%A9%D7%AA_%D7%A2%D7%A0%D7%A0%D7%99%D7%9D_%D7%9C%D7%9E%D7%9B%D7%AA%D7%A9_%D7%A8%D7%9E%D7%95%D7%9F.jpg",
+          "title": "File:גלישת עננים למכתש רמון.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        }
+      ],
+      "notes": [
+        "No permission requested and no owner contacted. Official/public visibility alone does not grant reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "No photograph established both the exact place/branch and compatible individual-image reuse rights in the reviewed searches. A supplied photograph with documented rights is needed."
+    },
+    {
+      "placeId": "bohol-common-crew",
+      "checkedOn": "2026-10-22",
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "Common Crew Coffee Roasters & Brewers",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Common+Crew+Coffee+Roasters+%26+Brewers&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Common Crew Coffee Bohol",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Common+Crew+Coffee+Bohol&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Common Crew Coffee Roasters & Brewers Bohol",
+          "url": "https://www.flickr.com/search/?text=Common+Crew+Coffee+Roasters+%26+Brewers+Bohol&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Common Crew Panglao",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Common+Crew+Panglao&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Common Crew Panglao",
+          "url": "https://www.flickr.com/search/?text=Common+Crew+Panglao&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=Common+Crew+Panglao&srlimit=4",
+          "categories": []
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=Common+Crew+Coffee+Roasters+%26+Brewers&limit=3",
+          "candidates": []
+        }
+      ],
+      "rejections": [],
+      "notes": [
+        "No permission requested and no owner contacted. Official/public visibility alone does not grant reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "No photograph established both the exact place/branch and compatible individual-image reuse rights in the reviewed searches. A supplied photograph with documented rights is needed."
+    },
+    {
+      "placeId": "bohol-shaka-panglao",
+      "checkedOn": "2026-10-22",
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "Shaka Cafes",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Shaka+Cafes&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 1
+        },
+        {
+          "provider": "Commons",
+          "query": "Shaka Cafes Bohol",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Shaka+Cafes+Bohol&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Shaka Cafes Bohol",
+          "url": "https://www.flickr.com/search/?text=Shaka+Cafes+Bohol&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Shaka Panglao",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Shaka+Panglao&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Shaka Panglao",
+          "url": "https://www.flickr.com/search/?text=Shaka+Panglao&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=Shaka+Panglao&srlimit=4",
+          "categories": []
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=Shaka+Cafes&limit=3",
+          "candidates": []
+        }
+      ],
+      "rejections": [
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:SHAKA_by_Pok%C3%A9_Twins.jpg",
+          "title": "File:SHAKA by Poké Twins.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        }
+      ],
+      "notes": [
+        "No permission requested and no owner contacted. Official/public visibility alone does not grant reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "No photograph established both the exact place/branch and compatible individual-image reuse rights in the reviewed searches. A supplied photograph with documented rights is needed."
+    },
+    {
+      "placeId": "bohol-baclayon-parish-museum",
+      "checkedOn": "2026-10-22",
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "Museo Parroquial de Baclayon",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Museo+Parroquial+de+Baclayon&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Museo Parroquial de Bohol",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Museo+Parroquial+de+Bohol&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Museo Parroquial de Baclayon Bohol",
+          "url": "https://www.flickr.com/search/?text=Museo+Parroquial+de+Baclayon+Bohol&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Baclayon museum",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Baclayon+museum&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 8
+        },
+        {
+          "provider": "Flickr",
+          "query": "Baclayon museum",
+          "url": "https://www.flickr.com/search/?text=Baclayon+museum&license=4%2C5%2C9%2C10",
+          "count": 12
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=Baclayon+museum&srlimit=4",
+          "categories": []
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=Museo+Parroquial+de+Baclayon&limit=3",
+          "candidates": []
+        }
+      ],
+      "rejections": [
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Our_Lady_of_Immaculate_Conception.jpg",
+          "title": "File:Our Lady of Immaculate Conception.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Baclayon_Church_historical_marker_(copy).jpg",
+          "title": "File:Baclayon Church historical marker (copy).jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Baclayon_Church_Museum.jpg",
+          "title": "File:Baclayon Church Museum.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Artefacts_in_the_Baclayon_Church_museum_(9283353501).jpg",
+          "title": "File:Artefacts in the Baclayon Church museum (9283353501).jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Inside_the_Baclayon_church_museum_(9275180979).jpg",
+          "title": "File:Inside the Baclayon church museum (9275180979).jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Artefacts_in_the_Baclayon_church_museum_(9277962620).jpg",
+          "title": "File:Artefacts in the Baclayon church museum (9277962620).jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Triphoris_pagodus_(10.3897-zse.95.32803)_Figure_34.jpg",
+          "title": "File:Triphoris pagodus (10.3897-zse.95.32803) Figure 34.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/shankaronline/9275184747/",
+          "title": "Inside the Baclayon Church museum",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/shankaronline/9275180979/",
+          "title": "Inside the Baclayon church museum",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/shankaronline/9283353501/",
+          "title": "Artefacts in the Baclayon Church museum",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/shankaronline/9277962620/",
+          "title": "Artefacts in the Baclayon church museum",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/shankaronline/9277955458/",
+          "title": "Mass in progress inside Baclayon church",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/shankaronline/9277961006/",
+          "title": "Mass in progress inside Baclayon church",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/shankaronline/9277184686/",
+          "title": "Padre Pio, a saint at the church",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/shankaronline/9277404244/",
+          "title": "Mass in progress inside Baclayon church",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/shankaronline/9275182589/",
+          "title": "A model of the church inside the museum",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/shankaronline/9277964752/",
+          "title": "Mass in progress inside Baclayon church",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/shankaronline/9274456149/",
+          "title": "Mass in progress inside Baclayon church",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/shankaronline/9275173145/",
+          "title": "Notice at the entrance door to the church",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        }
+      ],
+      "notes": [],
+      "status": "added",
+      "photo": {
+        "placeId": "bohol-baclayon-parish-museum",
+        "src": "/images/places/bohol-baclayon-parish-museum.jpg",
+        "srcSmall": "/images/places/bohol-baclayon-parish-museum-640.jpg",
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Baclayon_Immaculate_Concepcion_Church_right_side,_museum_(Tagbilaran_East_Road,_Baclayon,_Bohol;_01-12-2023).jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Baclayon_Immaculate_Concepcion_Church_right_side%2C_museum_%28Tagbilaran_East_Road%2C_Baclayon%2C_Bohol%3B_01-12-2023%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "Patrickroque01",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "Patrickroque01 / Wikimedia Commons / CC BY-SA 4.0. Resized and JPEG compressed.",
+        "alt": "Convent and museum side of the Baclayon parish complex in Bohol",
+        "width": 1200,
+        "height": 900,
+        "checkedOn": "2026-10-22"
+      }
+    },
+    {
+      "placeId": "bohol-loboc-eco-adventure-park",
+      "checkedOn": "2026-10-22",
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "Loboc Eco-Tourism Adventure Park",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Loboc+Eco-Tourism+Adventure+Park&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Loboc Eco-Tourism Adventure Bohol",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Loboc+Eco-Tourism+Adventure+Bohol&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Loboc Eco-Tourism Adventure Park Bohol",
+          "url": "https://www.flickr.com/search/?text=Loboc+Eco-Tourism+Adventure+Park+Bohol&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Loboc zipline",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Loboc+zipline&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Loboc zipline",
+          "url": "https://www.flickr.com/search/?text=Loboc+zipline&license=4%2C5%2C9%2C10",
+          "count": 3
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=Loboc+zipline&srlimit=4",
+          "categories": []
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=Loboc+Eco-Tourism+Adventure+Park&limit=3",
+          "candidates": []
+        }
+      ],
+      "rejections": [
+        {
+          "sourcePage": "https://www.flickr.com/photos/shankaronline/9277263854/",
+          "title": "Zipline- a Filipino favourite",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/shankaronline/9277922904/",
+          "title": "Zip line- a Filipino favourite",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/jmparrone/5986683751/",
+          "title": "Riding a zipline in Loboc, Bohol",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        }
+      ],
+      "notes": [
+        "No permission requested and no owner contacted. Official/public visibility alone does not grant reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "No photograph established both the exact place/branch and compatible individual-image reuse rights in the reviewed searches. A supplied photograph with documented rights is needed."
+    },
+    {
+      "placeId": "bohol-green-thumb-farm",
+      "checkedOn": "2026-10-22",
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "Green Thumb Farm",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Green+Thumb+Farm&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Green Thumb Farm Bohol",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Green+Thumb+Farm+Bohol&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Green Thumb Farm Bohol",
+          "url": "https://www.flickr.com/search/?text=Green+Thumb+Farm+Bohol&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Green Thumb Corella",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Green+Thumb+Corella&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Green Thumb Corella",
+          "url": "https://www.flickr.com/search/?text=Green+Thumb+Corella&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=Green+Thumb+Corella&srlimit=4",
+          "categories": []
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=Green+Thumb+Farm&limit=3",
+          "candidates": []
+        }
+      ],
+      "rejections": [],
+      "notes": [
+        "No permission requested and no owner contacted. Official/public visibility alone does not grant reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "No photograph established both the exact place/branch and compatible individual-image reuse rights in the reviewed searches. A supplied photograph with documented rights is needed."
+    },
+    {
+      "placeId": "bohol-quinale-beach",
+      "checkedOn": "2026-10-22",
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "Quinale Beach",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Quinale+Beach&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Quinale Bohol",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Quinale+Bohol&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Quinale Beach Bohol",
+          "url": "https://www.flickr.com/search/?text=Quinale+Beach+Bohol&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Quinale",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Quinale&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 8
+        },
+        {
+          "provider": "Flickr",
+          "query": "Quinale",
+          "url": "https://www.flickr.com/search/?text=Quinale&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=Quinale&srlimit=4",
+          "categories": [
+            "Category:Barangay 4 - Quinale, Paete, Laguna",
+            "Category:Paete Municipal Road (Bagumbayan - Quinale)",
+            "Category:Paete (Quinale) boundary-welcome sign in (Longos) Kalayaan, Laguna",
+            "Category:Paete Landmark in Quinale (Dr. Antonio A. Baldemor) - Mariano Baldemor Madriñan Monument"
+          ]
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=Quinale+Beach&limit=3",
+          "candidates": []
+        }
+      ],
+      "rejections": [
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:757Quinale,_Paete,_Laguna_11.jpg",
+          "title": "File:757Quinale, Paete, Laguna 11.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:757Quinale,_Paete,_Laguna_13.jpg",
+          "title": "File:757Quinale, Paete, Laguna 13.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:865Quinale,_Paete,_Laguna_09.jpg",
+          "title": "File:865Quinale, Paete, Laguna 09.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:865Quinale,_Paete,_Laguna_11.jpg",
+          "title": "File:865Quinale, Paete, Laguna 11.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:865Quinale,_Paete,_Laguna_15.jpg",
+          "title": "File:865Quinale, Paete, Laguna 15.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:865Quinale,_Paete,_Laguna_29.jpg",
+          "title": "File:865Quinale, Paete, Laguna 29.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:865Quinale,_Paete,_Laguna_48.jpg",
+          "title": "File:865Quinale, Paete, Laguna 48.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:6304Paete_Municipal_Road_(Bagumbayan_-_Quinale).jpg",
+          "title": "File:6304Paete Municipal Road (Bagumbayan - Quinale).jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        }
+      ],
+      "notes": [
+        "No permission requested and no owner contacted. Official/public visibility alone does not grant reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "No photograph established both the exact place/branch and compatible individual-image reuse rights in the reviewed searches. A supplied photograph with documented rights is needed."
+    },
+    {
+      "placeId": "bohol-cabagnow-cave-pool",
+      "checkedOn": "2026-10-22",
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "Cabagnow Cave Pool",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Cabagnow+Cave+Pool&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Cabagnow Cave Pool Bohol",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Cabagnow+Cave+Pool+Bohol&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Cabagnow Cave Pool Bohol",
+          "url": "https://www.flickr.com/search/?text=Cabagnow+Cave+Pool+Bohol&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Cabagnow",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Cabagnow&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Cabagnow",
+          "url": "https://www.flickr.com/search/?text=Cabagnow&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=Cabagnow&srlimit=4",
+          "categories": []
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=Cabagnow+Cave+Pool&limit=3",
+          "candidates": []
+        }
+      ],
+      "rejections": [],
+      "notes": [
+        "No permission requested and no owner contacted. Official/public visibility alone does not grant reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "No photograph established both the exact place/branch and compatible individual-image reuse rights in the reviewed searches. A supplied photograph with documented rights is needed."
+    },
+    {
+      "placeId": "bohol-edith-grand-garden",
+      "checkedOn": "2026-10-22",
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "Edith Grand Garden Wellness Resort & Adventure Park",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Edith+Grand+Garden+Wellness+Resort+%26+Adventure+Park&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Edith Grand Garden Bohol",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Edith+Grand+Garden+Bohol&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Edith Grand Garden Wellness Resort & Adventure Park Bohol",
+          "url": "https://www.flickr.com/search/?text=Edith+Grand+Garden+Wellness+Resort+%26+Adventure+Park+Bohol&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Edith Baclayon",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Edith+Baclayon&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Edith Baclayon",
+          "url": "https://www.flickr.com/search/?text=Edith+Baclayon&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=Edith+Baclayon&srlimit=4",
+          "categories": []
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=Edith+Grand+Garden+Wellness+Resort+%26+Adventure+Park&limit=3",
+          "candidates": []
+        }
+      ],
+      "rejections": [],
+      "notes": [
+        "No permission requested and no owner contacted. Official/public visibility alone does not grant reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "No photograph established both the exact place/branch and compatible individual-image reuse rights in the reviewed searches. A supplied photograph with documented rights is needed."
+    },
+    {
+      "placeId": "bohol-saffron-restaurant",
+      "checkedOn": "2026-10-22",
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "Saffron Restaurant",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Saffron+Restaurant&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 8
+        },
+        {
+          "provider": "Commons",
+          "query": "Saffron Bohol",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Saffron+Bohol&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Saffron Restaurant Bohol",
+          "url": "https://www.flickr.com/search/?text=Saffron+Restaurant+Bohol&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Saffron Amorita",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Saffron+Amorita&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Saffron Amorita",
+          "url": "https://www.flickr.com/search/?text=Saffron+Amorita&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=Saffron+Amorita&srlimit=4",
+          "categories": []
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=Saffron+Restaurant&limit=3",
+          "candidates": []
+        }
+      ],
+      "rejections": [
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Saffron_Restaurant_-_Leeds_Road_-_geograph.org.uk_-_397304.jpg",
+          "title": "File:Saffron Restaurant - Leeds Road - geograph.org.uk - 397304.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:The_Saffron_Bengali_Restaurant_-_geograph.org.uk_-_731585.jpg",
+          "title": "File:The Saffron Bengali Restaurant - geograph.org.uk - 731585.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Saffron_Restaurant_-_Bradford_Road_-_geograph.org.uk_-_1820539.jpg",
+          "title": "File:Saffron Restaurant - Bradford Road - geograph.org.uk - 1820539.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Saffron_restaurant_-_The_Green_-_geograph.org.uk_-_1941271.jpg",
+          "title": "File:Saffron restaurant - The Green - geograph.org.uk - 1941271.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Saffron_Delight_Restaurant_-_Roundhay_Road_-_geograph.org.uk_-_2025654.jpg",
+          "title": "File:Saffron Delight Restaurant - Roundhay Road - geograph.org.uk - 2025654.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:The_Bangkok_Thai_Restaurant,_Saffron_Walden_-_geograph.org.uk_-_5582753.jpg",
+          "title": "File:The Bangkok Thai Restaurant, Saffron Walden - geograph.org.uk - 5582753.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:St_Davids,_Saffron_restaurant_-_geograph.org.uk_-_7058602.jpg",
+          "title": "File:St Davids, Saffron restaurant - geograph.org.uk - 7058602.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Saffron_Restaurant._Waitress_Needed_-_%D9%86%D8%AD%D8%AA%D8%A7%D8%AC_%D9%84%D9%85%D9%88%D8%B8%D9%81%D8%A9_%D9%81%D9%8A_%D8%A7%D9%84%D8%B5%D8%A7%D9%84%D8%A9_(%D9%86%D8%A7%D8%AF%D9%84%D8%A9).jpg",
+          "title": "File:Saffron Restaurant. Waitress Needed - نحتاج لموظفة في الصالة (نادلة).jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        }
+      ],
+      "notes": [
+        "No permission requested and no owner contacted. Official/public visibility alone does not grant reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "No photograph established both the exact place/branch and compatible individual-image reuse rights in the reviewed searches. A supplied photograph with documented rights is needed."
+    },
+    {
+      "placeId": "bohol-latavola-restaurant",
+      "checkedOn": "2026-10-22",
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "Latavola Italian Restaurant",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Latavola+Italian+Restaurant&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Latavola Italian Bohol",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Latavola+Italian+Bohol&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Latavola Italian Restaurant Bohol",
+          "url": "https://www.flickr.com/search/?text=Latavola+Italian+Restaurant+Bohol&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Latavola Panglao",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Latavola+Panglao&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Latavola Panglao",
+          "url": "https://www.flickr.com/search/?text=Latavola+Panglao&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=Latavola+Panglao&srlimit=4",
+          "categories": []
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=Latavola+Italian+Restaurant&limit=3",
+          "candidates": []
+        }
+      ],
+      "rejections": [],
+      "notes": [
+        "No permission requested and no owner contacted. Official/public visibility alone does not grant reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "No photograph established both the exact place/branch and compatible individual-image reuse rights in the reviewed searches. A supplied photograph with documented rights is needed."
+    },
+    {
+      "placeId": "bohol-prawn-farm-bolod",
+      "checkedOn": "2026-10-22",
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "The Prawn Farm Grill and Seafoods",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=The+Prawn+Farm+Grill+and+Seafoods&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Prawn Farm Grill Bohol",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Prawn+Farm+Grill+Bohol&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "The Prawn Farm Grill and Seafoods Bohol",
+          "url": "https://www.flickr.com/search/?text=The+Prawn+Farm+Grill+and+Seafoods+Bohol&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Prawn Farm Bolod",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Prawn+Farm+Bolod&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Prawn Farm Bolod",
+          "url": "https://www.flickr.com/search/?text=Prawn+Farm+Bolod&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=Prawn+Farm+Bolod&srlimit=4",
+          "categories": []
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=The+Prawn+Farm+Grill+and+Seafoods&limit=3",
+          "candidates": []
+        }
+      ],
+      "rejections": [],
+      "notes": [
+        "No permission requested and no owner contacted. Official/public visibility alone does not grant reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "No photograph established both the exact place/branch and compatible individual-image reuse rights in the reviewed searches. A supplied photograph with documented rights is needed."
+    },
+    {
+      "placeId": "batanes-dipnaysupuan-tunnel",
+      "checkedOn": "2026-10-22",
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "Dipnaysupuan Japanese Tunnel",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Dipnaysupuan+Japanese+Tunnel&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 1
+        },
+        {
+          "provider": "Commons",
+          "query": "Dipnaysupuan Japanese Tunnel Batanes",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Dipnaysupuan+Japanese+Tunnel+Batanes&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 1
+        },
+        {
+          "provider": "Flickr",
+          "query": "Dipnaysupuan Japanese Tunnel Batanes",
+          "url": "https://www.flickr.com/search/?text=Dipnaysupuan+Japanese+Tunnel+Batanes&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Dipnaysupuan",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Dipnaysupuan&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 1
+        },
+        {
+          "provider": "Flickr",
+          "query": "Dipnaysupuan",
+          "url": "https://www.flickr.com/search/?text=Dipnaysupuan&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=Dipnaysupuan&srlimit=4",
+          "categories": []
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=Dipnaysupuan+Japanese+Tunnel&limit=3",
+          "candidates": []
+        }
+      ],
+      "rejections": [],
+      "notes": [],
+      "status": "added",
+      "photo": {
+        "placeId": "batanes-dipnaysupuan-tunnel",
+        "src": "/images/places/batanes-dipnaysupuan-tunnel.jpg",
+        "srcSmall": "/images/places/batanes-dipnaysupuan-tunnel-640.jpg",
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Dipnaysupuan_Japanese_Tunnel.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/8/89/Dipnaysupuan_Japanese_Tunnel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "Jeremy.alinea",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "Jeremy.alinea / Wikimedia Commons / CC BY-SA 4.0. Resized and JPEG compressed.",
+        "alt": "Stone-lined entrance to Dipnaysupuan Japanese Tunnel on Batan Island, Batanes",
+        "width": 1200,
+        "height": 675,
+        "checkedOn": "2026-10-22"
+      }
+    },
+    {
+      "placeId": "batanes-basco-plaza",
+      "checkedOn": "2026-10-22",
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "Basco Plaza",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Basco+Plaza&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 8
+        },
+        {
+          "provider": "Commons",
+          "query": "Basco Plaza Batanes",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Basco+Plaza+Batanes&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Basco Plaza Batanes",
+          "url": "https://www.flickr.com/search/?text=Basco+Plaza+Batanes&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Basco plaza",
+          "url": "https://www.flickr.com/search/?text=Basco+plaza&license=4%2C5%2C9%2C10",
+          "count": 12
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=Basco+plaza&srlimit=4",
+          "categories": [
+            "Category:Euskal Museoa",
+            "Category:Archaeological Museum (Bilbao)",
+            "Category:Almacen de Polvora (San Juan)",
+            "Category:Amoroto"
+          ]
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=Basco+Plaza&limit=3",
+          "candidates": []
+        }
+      ],
+      "rejections": [
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:02312jfAlmacen_de_Polvora_San_Juan_City_School_Plaza_Mayorfvf_03.jpg",
+          "title": "File:02312jfAlmacen de Polvora San Juan City School Plaza Mayorfvf 03.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:02312jfAlmacen_de_Polvora_San_Juan_City_School_Plaza_Mayorfvf_05.jpg",
+          "title": "File:02312jfAlmacen de Polvora San Juan City School Plaza Mayorfvf 05.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:02332jfPuregold_Agora_Public_Market_Plaza_Mayor_San_Juan_Cityfvf_05.jpg",
+          "title": "File:02332jfPuregold Agora Public Market Plaza Mayor San Juan Cityfvf 05.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:02332jfPuregold_Agora_Public_Market_Plaza_Mayor_San_Juan_Cityfvf_06.jpg",
+          "title": "File:02332jfPuregold Agora Public Market Plaza Mayor San Juan Cityfvf 06.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:02357jfPuregold_Agora_Public_Market_Plaza_Mayor_San_Juan_Cityfvf_10.jpg",
+          "title": "File:02357jfPuregold Agora Public Market Plaza Mayor San Juan Cityfvf 10.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:02357jfPuregold_Agora_Public_Market_Plaza_Mayor_San_Juan_Cityfvf_12.jpg",
+          "title": "File:02357jfPuregold Agora Public Market Plaza Mayor San Juan Cityfvf 12.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:02357jfPuregold_Agora_Public_Market_Plaza_Mayor_San_Juan_Cityfvf_24.jpg",
+          "title": "File:02357jfPuregold Agora Public Market Plaza Mayor San Juan Cityfvf 24.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:02357jfPuregold_Agora_Public_Market_Plaza_Mayor_San_Juan_Cityfvf_23.jpg",
+          "title": "File:02357jfPuregold Agora Public Market Plaza Mayor San Juan Cityfvf 23.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/129231073@N06/29478895841/",
+          "title": "Donostia - De Euskadi Plaza",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/129231073@N06/29449935472/",
+          "title": "Donostia - San Telmo Museoa",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/129231073@N06/29239757365/",
+          "title": "Bilbao",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/129231073@N06/29559342195/",
+          "title": "Donostia - La Equitativa",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/129231073@N06/29239758835/",
+          "title": "Bilbao",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/metamorfastudio/25745490486/",
+          "title": "Surfers at Laga Beach, Basque Country",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/129231073@N06/29559349305/",
+          "title": "Donostia - La Equitativa",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/129231073@N06/29478897931/",
+          "title": "Donostia - La Equitativa",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/129231073@N06/28933946124/",
+          "title": "Donostia - De Euskadi Plaza",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/129231073@N06/29559373775/",
+          "title": "Donostia - Pescaderia de la Bretxa",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/129231073@N06/29239760995/",
+          "title": "Bilbao - Azkuna Zentroa",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/129231073@N06/29558922075/",
+          "title": "Donostia",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        }
+      ],
+      "notes": [
+        "No permission requested and no owner contacted. Official/public visibility alone does not grant reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "No photograph established both the exact place/branch and compatible individual-image reuse rights in the reviewed searches. A supplied photograph with documented rights is needed."
+    },
+    {
+      "placeId": "batanes-casa-napoli-town",
+      "checkedOn": "2026-10-22",
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "Casa Napoli Pizza and Pasta",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Casa+Napoli+Pizza+and+Pasta&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Casa Napoli Pizza Batanes",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Casa+Napoli+Pizza+Batanes&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Casa Napoli Pizza and Pasta Batanes",
+          "url": "https://www.flickr.com/search/?text=Casa+Napoli+Pizza+and+Pasta+Batanes&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Casa Napoli Basco",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Casa+Napoli+Basco&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Casa Napoli Basco",
+          "url": "https://www.flickr.com/search/?text=Casa+Napoli+Basco&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=Casa+Napoli+Basco&srlimit=4",
+          "categories": []
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=Casa+Napoli+Pizza+and+Pasta&limit=3",
+          "candidates": []
+        }
+      ],
+      "rejections": [],
+      "notes": [
+        "No permission requested and no owner contacted. Official/public visibility alone does not grant reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "No photograph established both the exact place/branch and compatible individual-image reuse rights in the reviewed searches. A supplied photograph with documented rights is needed."
+    },
+    {
+      "placeId": "batanes-beehan",
+      "checkedOn": "2026-10-22",
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "Beehan Food Enterprise",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Beehan+Food+Enterprise&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Beehan Food Enterprise Batanes",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Beehan+Food+Enterprise+Batanes&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Beehan Food Enterprise Batanes",
+          "url": "https://www.flickr.com/search/?text=Beehan+Food+Enterprise+Batanes&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Beehan Batanes",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Beehan+Batanes&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Beehan Batanes",
+          "url": "https://www.flickr.com/search/?text=Beehan+Batanes&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=Beehan+Batanes&srlimit=4",
+          "categories": []
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=Beehan+Food+Enterprise&limit=3",
+          "candidates": []
+        }
+      ],
+      "rejections": [],
+      "notes": [
+        "No permission requested and no owner contacted. Official/public visibility alone does not grant reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "No photograph established both the exact place/branch and compatible individual-image reuse rights in the reviewed searches. A supplied photograph with documented rights is needed."
+    },
+    {
+      "placeId": "batanes-harbour-cafe",
+      "checkedOn": "2026-10-22",
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "Harbour Cafe",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Harbour+Cafe&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 8
+        },
+        {
+          "provider": "Commons",
+          "query": "Harbour Cafe Batanes",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Harbour+Cafe+Batanes&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Harbour Cafe Batanes",
+          "url": "https://www.flickr.com/search/?text=Harbour+Cafe+Batanes&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=Harbour+Cafe+Batanes&srlimit=4",
+          "categories": []
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=Harbour+Cafe&limit=3",
+          "candidates": [
+            {
+              "id": "Q26408823",
+              "label": "Harbour Cafe",
+              "description": "building in St. Endellion, Cornwall, England, UK",
+              "url": "http://www.wikidata.org/entity/Q26408823"
+            }
+          ]
+        }
+      ],
+      "rejections": [
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Boat_Harbour_Beach_SLSC_cafe_20190722-001.jpg",
+          "title": "File:Boat Harbour Beach SLSC cafe 20190722-001.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Folkestone,_Inner_Harbour_with_Gigi%27s_Cafe_-_geograph.org.uk_-_2212324.jpg",
+          "title": "File:Folkestone, Inner Harbour with Gigi's Cafe - geograph.org.uk - 2212324.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Furniture_outside_a_cafe_at_Folkestone_Harbour_-_geograph.org.uk_-_3393930.jpg",
+          "title": "File:Furniture outside a cafe at Folkestone Harbour - geograph.org.uk - 3393930.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:The_Harbour_Cafe,_Bridlington_-_geograph.org.uk_-_4789631.jpg",
+          "title": "File:The Harbour Cafe, Bridlington - geograph.org.uk - 4789631.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Whitstable_harbour,_The_Harbour_Garden_Cafe_-_geograph.org.uk_-_5231323.jpg",
+          "title": "File:Whitstable harbour, The Harbour Garden Cafe - geograph.org.uk - 5231323.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Bridlington_harbour_cafe_-_geograph.org.uk_-_5552060.jpg",
+          "title": "File:Bridlington harbour cafe - geograph.org.uk - 5552060.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Ballintoy_Harbour_Cafe_-_geograph.org.uk_-_7092398.jpg",
+          "title": "File:Ballintoy Harbour Cafe - geograph.org.uk - 7092398.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:The_Harbour_Cafe,_Bridlington_-_geograph.org.uk_-_1798580.jpg",
+          "title": "File:The Harbour Cafe, Bridlington - geograph.org.uk - 1798580.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        }
+      ],
+      "notes": [
+        "No permission requested and no owner contacted. Official/public visibility alone does not grant reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "No photograph established both the exact place/branch and compatible individual-image reuse rights in the reviewed searches. A supplied photograph with documented rights is needed."
+    },
+    {
+      "placeId": "batanes-vunong-dinette",
+      "checkedOn": "2026-10-22",
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "Vunong Dinette",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Vunong+Dinette&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Vunong Dinette Batanes",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Vunong+Dinette+Batanes&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Vunong Dinette Batanes",
+          "url": "https://www.flickr.com/search/?text=Vunong+Dinette+Batanes&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Vunong",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Vunong&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Vunong",
+          "url": "https://www.flickr.com/search/?text=Vunong&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=Vunong&srlimit=4",
+          "categories": []
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=Vunong+Dinette&limit=3",
+          "candidates": []
+        }
+      ],
+      "rejections": [],
+      "notes": [
+        "No permission requested and no owner contacted. Official/public visibility alone does not grant reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "No photograph established both the exact place/branch and compatible individual-image reuse rights in the reviewed searches. A supplied photograph with documented rights is needed."
+    }
+  ],
+  "validation": {
+    "schemaAndImages": "passed",
+    "publishedImagesVisuallyReviewed": true,
+    "preservationHashes": "passed",
+    "cardsAndDetailsDesktopMobile": "passed"
+  }
+}

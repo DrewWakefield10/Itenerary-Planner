@@ -1,0 +1,151 @@
+{
+  "startedOn": "2026-10-22",
+  "startingGaps": 148,
+  "startingCoverage": 184,
+  "reviewed": 148,
+  "photographsAdded": 25,
+  "finalCoverage": 209,
+  "remainingGaps": 123,
+  "status": "reviewed-with-content-gaps",
+  "batches": [
+    {
+      "id": "photo-001",
+      "size": 25,
+      "reviewed": 25,
+      "added": 2
+    },
+    {
+      "id": "photo-002",
+      "size": 25,
+      "reviewed": 25,
+      "added": 1
+    },
+    {
+      "id": "photo-003",
+      "size": 25,
+      "reviewed": 25,
+      "added": 3
+    },
+    {
+      "id": "photo-004",
+      "size": 25,
+      "reviewed": 25,
+      "added": 3
+    },
+    {
+      "id": "photo-005",
+      "size": 25,
+      "reviewed": 25,
+      "added": 6
+    },
+    {
+      "id": "photo-006",
+      "size": 23,
+      "reviewed": 23,
+      "added": 10
+    }
+  ],
+  "coverage": [
+    {
+      "destination": "Palawan",
+      "total": 45,
+      "startingPhotos": 26,
+      "added": 4,
+      "finalPhotos": 30,
+      "remaining": 15
+    },
+    {
+      "destination": "Siargao",
+      "total": 30,
+      "startingPhotos": 5,
+      "added": 2,
+      "finalPhotos": 7,
+      "remaining": 23
+    },
+    {
+      "destination": "Davao",
+      "total": 31,
+      "startingPhotos": 13,
+      "added": 2,
+      "finalPhotos": 15,
+      "remaining": 16
+    },
+    {
+      "destination": "Cebu",
+      "total": 35,
+      "startingPhotos": 29,
+      "added": 2,
+      "finalPhotos": 31,
+      "remaining": 4
+    },
+    {
+      "destination": "Bohol",
+      "total": 30,
+      "startingPhotos": 17,
+      "added": 1,
+      "finalPhotos": 18,
+      "remaining": 12
+    },
+    {
+      "destination": "Boracay",
+      "total": 28,
+      "startingPhotos": 7,
+      "added": 1,
+      "finalPhotos": 8,
+      "remaining": 20
+    },
+    {
+      "destination": "Iloilo",
+      "total": 31,
+      "startingPhotos": 23,
+      "added": 2,
+      "finalPhotos": 25,
+      "remaining": 6
+    },
+    {
+      "destination": "Baguio",
+      "total": 30,
+      "startingPhotos": 13,
+      "added": 2,
+      "finalPhotos": 15,
+      "remaining": 15
+    },
+    {
+      "destination": "Sagada",
+      "total": 10,
+      "startingPhotos": 7,
+      "added": 1,
+      "finalPhotos": 8,
+      "remaining": 2
+    },
+    {
+      "destination": "Batanes",
+      "total": 30,
+      "startingPhotos": 18,
+      "added": 3,
+      "finalPhotos": 21,
+      "remaining": 9
+    },
+    {
+      "destination": "Manila",
+      "total": 32,
+      "startingPhotos": 26,
+      "added": 5,
+      "finalPhotos": 31,
+      "remaining": 1
+    }
+  ],
+  "checklist": "docs/place-enrichment/photo-only/checklist.json",
+  "suppliedPhotoList": "docs/place-enrichment/photo-only/needs-supplied-photos.json",
+  "permissionGuide": "docs/place-enrichment/photo-only/supplied-photo-guide.md",
+  "validation": {
+    "checkedOn": "2026-10-22",
+    "focusedBatches": "All six batches passed place-content schemas, unique IDs and image decoding/reserved-dimension checks after publication.",
+    "sourceReview": "All 25 published photos visually inspected; each individual Commons file-page declaration, creator and license reviewed. Source/rights evidence and rejection reasons retained in the decisions. No unreviewed Flickr image published.",
+    "preservation": "82/82 unit/integration tests passed, including hashes of all non-photo editorial content, video file, original directory modules, and every previously referenced local photo asset; prior photo metadata is unchanged.",
+    "browser": "All 25 new photos passed card and detail-page image-loading checks at 1440 and 390 pixels on native Next.js. Local src, alt text, reserved dimensions, source credits and no horizontal overflow checked. Existing media/browser suite also passed, including fallback behavior.",
+    "builds": "Sites/Vinext build, native Next.js/Vercel build and TypeScript passed. The builds share .next generation; finish with the native build before typecheck.",
+    "lint": "All changed/new publishing/research/progress scripts and photo tests pass targeted ESLint with no warnings or errors."
+  },
+  "nextBatch": null
+}

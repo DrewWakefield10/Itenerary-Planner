@@ -1,0 +1,4280 @@
+[
+  {
+    "placeId": "davao-roxas-night-market",
+    "primary": "other-food",
+    "venueType": "food-market",
+    "suitability": [
+      "meal"
+    ],
+    "specialties": [],
+    "source": {
+      "sourceName": "Davao City Tourism — Roxas Night Market",
+      "sourceUrl": "https://tourism.davaocity.gov.ph/explore-the-city/restaurants/night-market/roxas-night-market/",
+      "dateChecked": "2026-10-19",
+      "status": "verified"
+    },
+    "officialUrl": null,
+    "operation": {
+      "basis": "existing-source",
+      "source": {
+        "sourceName": "Davao City Tourism — Roxas Night Market",
+        "sourceUrl": "https://tourism.davaocity.gov.ph/explore-the-city/restaurants/night-market/roxas-night-market/",
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "limitation": "Existing venue identity and food classification retain their original source dates. Current operation was not separately rechecked in this expansion; confirm service directly before travelling."
+    }
+  },
+  {
+    "placeId": "puerto-princesa-bakers-hill",
+    "primary": "other-food",
+    "venueType": "food-shop",
+    "suitability": [
+      "bakery"
+    ],
+    "specialties": [],
+    "source": {
+      "sourceName": "Puerto Princesa City Tourism — Baker’s Hill",
+      "sourceUrl": "https://citytourism.puertoprincesa.ph/bakers-hill/",
+      "dateChecked": "2026-10-21",
+      "status": "verified"
+    },
+    "officialUrl": null,
+    "operation": {
+      "basis": "existing-source",
+      "source": {
+        "sourceName": "Puerto Princesa City Tourism — Baker’s Hill",
+        "sourceUrl": "https://citytourism.puertoprincesa.ph/bakers-hill/",
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "limitation": "Existing venue identity and food classification retain their original source dates. Current operation was not separately rechecked in this expansion; confirm service directly before travelling."
+    }
+  },
+  {
+    "placeId": "cebu-sugbo-mercado",
+    "primary": "other-food",
+    "venueType": "food-market",
+    "suitability": [
+      "meal"
+    ],
+    "specialties": [],
+    "source": {
+      "sourceName": "Department of Tourism — Cebu City",
+      "sourceUrl": "https://philippines.travel/destinations/cebu-city/index",
+      "dateChecked": "2026-10-21",
+      "status": "verified"
+    },
+    "officialUrl": null,
+    "operation": {
+      "basis": "existing-source",
+      "source": {
+        "sourceName": "Department of Tourism — Cebu City",
+        "sourceUrl": "https://philippines.travel/destinations/cebu-city/index",
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "limitation": "Existing venue identity and food classification retain their original source dates. Current operation was not separately rechecked in this expansion; confirm service directly before travelling."
+    }
+  },
+  {
+    "placeId": "bohol-bohol-bee-farm",
+    "primary": "other-food",
+    "venueType": "restaurant",
+    "suitability": [
+      "meal"
+    ],
+    "specialties": [],
+    "source": {
+      "sourceName": "Bohol Provincial Tourism Office — Dauis",
+      "sourceUrl": "https://tourism.bohol.gov.ph/visitbohol-dauis/",
+      "dateChecked": "2026-10-21",
+      "status": "verified"
+    },
+    "officialUrl": null,
+    "operation": {
+      "basis": "existing-source",
+      "source": {
+        "sourceName": "Bohol Provincial Tourism Office — Dauis",
+        "sourceUrl": "https://tourism.bohol.gov.ph/visitbohol-dauis/",
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "limitation": "Existing venue identity and food classification retain their original source dates. Current operation was not separately rechecked in this expansion; confirm service directly before travelling."
+    }
+  },
+  {
+    "placeId": "bohol-common-crew",
+    "primary": "cafe",
+    "venueType": "cafe",
+    "suitability": [
+      "coffee"
+    ],
+    "specialties": [],
+    "source": {
+      "sourceName": "Common Crew Bohol — brew bar",
+      "sourceUrl": "https://www.commoncrewbohol.com/coffee-kombucha-brew-bar",
+      "dateChecked": "2026-10-21",
+      "status": "verified"
+    },
+    "officialUrl": null,
+    "operation": {
+      "basis": "existing-source",
+      "source": {
+        "sourceName": "Common Crew Bohol — brew bar",
+        "sourceUrl": "https://www.commoncrewbohol.com/coffee-kombucha-brew-bar",
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "limitation": "Existing venue identity and food classification retain their original source dates. Current operation was not separately rechecked in this expansion; confirm service directly before travelling."
+    }
+  },
+  {
+    "placeId": "bohol-shaka-panglao",
+    "primary": "cafe",
+    "venueType": "cafe",
+    "suitability": [
+      "coffee",
+      "meal"
+    ],
+    "specialties": [],
+    "source": {
+      "sourceName": "Shaka Cafes — operator company profile",
+      "sourceUrl": "https://www.linkedin.com/company/shaka-cafes",
+      "dateChecked": "2026-10-21",
+      "status": "verified"
+    },
+    "officialUrl": null,
+    "operation": {
+      "basis": "existing-source",
+      "source": {
+        "sourceName": "Shaka Cafes — operator company profile",
+        "sourceUrl": "https://www.linkedin.com/company/shaka-cafes",
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "limitation": "Existing venue identity and food classification retain their original source dates. Current operation was not separately rechecked in this expansion; confirm service directly before travelling."
+    }
+  },
+  {
+    "placeId": "boracay-dtalipapa-market",
+    "primary": "other-food",
+    "venueType": "food-market",
+    "suitability": [
+      "meal"
+    ],
+    "specialties": [],
+    "source": {
+      "sourceName": "Philippine Department of Tourism Australia and New Zealand — Boracay",
+      "sourceUrl": "https://www.tourismphilippines.com.au/where/boracay",
+      "dateChecked": "2026-10-21",
+      "status": "verified"
+    },
+    "officialUrl": null,
+    "operation": {
+      "basis": "existing-source",
+      "source": {
+        "sourceName": "Philippine Department of Tourism Australia and New Zealand — Boracay",
+        "sourceUrl": "https://www.tourismphilippines.com.au/where/boracay",
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "limitation": "Existing venue identity and food classification retain their original source dates. Current operation was not separately rechecked in this expansion; confirm service directly before travelling."
+    }
+  },
+  {
+    "placeId": "boracay-nonies-ondus",
+    "primary": "other-food",
+    "venueType": "restaurant",
+    "suitability": [
+      "meal"
+    ],
+    "specialties": [],
+    "source": {
+      "sourceName": "Nonie’s — official Boracay restaurant",
+      "sourceUrl": "https://www.nonies.com.ph/",
+      "dateChecked": "2026-10-21",
+      "status": "verified"
+    },
+    "officialUrl": null,
+    "operation": {
+      "basis": "existing-source",
+      "source": {
+        "sourceName": "Nonie’s — official Boracay restaurant",
+        "sourceUrl": "https://www.nonies.com.ph/",
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "limitation": "Existing venue identity and food classification retain their original source dates. Current operation was not separately rechecked in this expansion; confirm service directly before travelling."
+    }
+  },
+  {
+    "placeId": "boracay-giuseppe-station-three",
+    "primary": "other-food",
+    "venueType": "restaurant",
+    "suitability": [
+      "meal"
+    ],
+    "specialties": [],
+    "source": {
+      "sourceName": "Giuseppe — official Boracay branch",
+      "sourceUrl": "https://giuseppe.ph/boracay/index.html",
+      "dateChecked": "2026-10-21",
+      "status": "verified"
+    },
+    "officialUrl": null,
+    "operation": {
+      "basis": "existing-source",
+      "source": {
+        "sourceName": "Giuseppe — official Boracay branch",
+        "sourceUrl": "https://giuseppe.ph/boracay/index.html",
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "limitation": "Existing venue identity and food classification retain their original source dates. Current operation was not separately rechecked in this expansion; confirm service directly before travelling."
+    }
+  },
+  {
+    "placeId": "boracay-little-taj",
+    "primary": "other-food",
+    "venueType": "restaurant",
+    "suitability": [
+      "meal"
+    ],
+    "specialties": [],
+    "source": {
+      "sourceName": "Little Taj — official visitor location",
+      "sourceUrl": "https://www.littletaj.com/visit",
+      "dateChecked": "2026-10-21",
+      "status": "verified"
+    },
+    "officialUrl": null,
+    "operation": {
+      "basis": "existing-source",
+      "source": {
+        "sourceName": "Little Taj — official visitor location",
+        "sourceUrl": "https://www.littletaj.com/visit",
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "limitation": "Existing venue identity and food classification retain their original source dates. Current operation was not separately rechecked in this expansion; confirm service directly before travelling."
+    }
+  },
+  {
+    "placeId": "iloilo-baking-studio-theos",
+    "primary": "cafe",
+    "venueType": "cafe",
+    "suitability": [
+      "coffee",
+      "meal"
+    ],
+    "specialties": [],
+    "source": {
+      "sourceName": "Theo’s — Baking Studio North Grove visitor information",
+      "sourceUrl": "https://www.theosrestaurantandbakery.com/bakingstudiobytheos",
+      "dateChecked": "2026-10-21",
+      "status": "verified"
+    },
+    "officialUrl": null,
+    "operation": {
+      "basis": "existing-source",
+      "source": {
+        "sourceName": "Theo’s — Baking Studio North Grove visitor information",
+        "sourceUrl": "https://www.theosrestaurantandbakery.com/bakingstudiobytheos",
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "limitation": "Existing venue identity and food classification retain their original source dates. Current operation was not separately rechecked in this expansion; confirm service directly before travelling."
+    }
+  },
+  {
+    "placeId": "iloilo-biscocho-haus",
+    "primary": "other-food",
+    "venueType": "food-shop",
+    "suitability": [
+      "bakery"
+    ],
+    "specialties": [],
+    "source": {
+      "sourceName": "Original Biscocho Haus — official Jaro store reference",
+      "sourceUrl": "https://biscochohaus.com/",
+      "dateChecked": "2026-10-21",
+      "status": "verified"
+    },
+    "officialUrl": null,
+    "operation": {
+      "basis": "existing-source",
+      "source": {
+        "sourceName": "Original Biscocho Haus — official Jaro store reference",
+        "sourceUrl": "https://biscochohaus.com/",
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "limitation": "Existing venue identity and food classification retain their original source dates. Current operation was not separately rechecked in this expansion; confirm service directly before travelling."
+    }
+  },
+  {
+    "placeId": "el-nido-artcafe",
+    "primary": "other-food",
+    "venueType": "restaurant",
+    "suitability": [
+      "meal"
+    ],
+    "specialties": [],
+    "source": {
+      "sourceName": "El Nido Boutique & Artcafe — restaurant",
+      "sourceUrl": "https://elnidoboutiqueandartcafe.com/artcafe-restuarant/",
+      "dateChecked": "2026-10-21",
+      "status": "verified"
+    },
+    "officialUrl": null,
+    "operation": {
+      "basis": "existing-source",
+      "source": {
+        "sourceName": "El Nido Boutique & Artcafe — restaurant",
+        "sourceUrl": "https://elnidoboutiqueandartcafe.com/artcafe-restuarant/",
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "limitation": "Existing venue identity and food classification retain their original source dates. Current operation was not separately rechecked in this expansion; confirm service directly before travelling."
+    }
+  },
+  {
+    "placeId": "el-nido-trattoria-altrove",
+    "primary": "other-food",
+    "venueType": "restaurant",
+    "suitability": [
+      "meal"
+    ],
+    "specialties": [],
+    "source": {
+      "sourceName": "Trattoria Altrove — official branch directory",
+      "sourceUrl": "https://www.trattoriaaltrove.com/",
+      "dateChecked": "2026-10-21",
+      "status": "verified"
+    },
+    "officialUrl": null,
+    "operation": {
+      "basis": "existing-source",
+      "source": {
+        "sourceName": "Trattoria Altrove — official branch directory",
+        "sourceUrl": "https://www.trattoriaaltrove.com/",
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "limitation": "Existing venue identity and food classification retain their original source dates. Current operation was not separately rechecked in this expansion; confirm service directly before travelling."
+    }
+  },
+  {
+    "placeId": "coron-trattoria-altrove",
+    "primary": "other-food",
+    "venueType": "restaurant",
+    "suitability": [
+      "meal"
+    ],
+    "specialties": [],
+    "source": {
+      "sourceName": "Trattoria Altrove — official branch directory",
+      "sourceUrl": "https://www.trattoriaaltrove.com/",
+      "dateChecked": "2026-10-21",
+      "status": "verified"
+    },
+    "officialUrl": null,
+    "operation": {
+      "basis": "existing-source",
+      "source": {
+        "sourceName": "Trattoria Altrove — official branch directory",
+        "sourceUrl": "https://www.trattoriaaltrove.com/",
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "limitation": "Existing venue identity and food classification retain their original source dates. Current operation was not separately rechecked in this expansion; confirm service directly before travelling."
+    }
+  },
+  {
+    "placeId": "cebu-pig-and-palm",
+    "primary": "other-food",
+    "venueType": "restaurant",
+    "suitability": [
+      "meal"
+    ],
+    "specialties": [],
+    "source": {
+      "sourceName": "The Pig & Palm - official restaurant",
+      "sourceUrl": "https://thepigandpalm.ph/",
+      "dateChecked": "2026-10-21",
+      "status": "verified"
+    },
+    "officialUrl": null,
+    "operation": {
+      "basis": "existing-source",
+      "source": {
+        "sourceName": "The Pig & Palm - official restaurant",
+        "sourceUrl": "https://thepigandpalm.ph/",
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "limitation": "Existing venue identity and food classification retain their original source dates. Current operation was not separately rechecked in this expansion; confirm service directly before travelling."
+    }
+  },
+  {
+    "placeId": "cebu-turning-wheels-brewery",
+    "primary": "other-food",
+    "venueType": "brewpub",
+    "suitability": [
+      "meal"
+    ],
+    "specialties": [],
+    "source": {
+      "sourceName": "Turning Wheels Brewery - official site",
+      "sourceUrl": "https://turningwheelsbeer.com/",
+      "dateChecked": "2026-10-21",
+      "status": "verified"
+    },
+    "officialUrl": null,
+    "operation": {
+      "basis": "existing-source",
+      "source": {
+        "sourceName": "Turning Wheels Brewery - official site",
+        "sourceUrl": "https://turningwheelsbeer.com/",
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "limitation": "Existing venue identity and food classification retain their original source dates. Current operation was not separately rechecked in this expansion; confirm service directly before travelling."
+    }
+  },
+  {
+    "placeId": "cebu-abaca-baking-crossroads",
+    "primary": "cafe",
+    "venueType": "cafe",
+    "suitability": [
+      "coffee"
+    ],
+    "specialties": [],
+    "source": {
+      "sourceName": "Crossroads Cebu - tenant directory",
+      "sourceUrl": "https://crossroadscebu.com/eat-drink/",
+      "dateChecked": "2026-10-21",
+      "status": "verified"
+    },
+    "officialUrl": null,
+    "operation": {
+      "basis": "existing-source",
+      "source": {
+        "sourceName": "Crossroads Cebu - tenant directory",
+        "sourceUrl": "https://crossroadscebu.com/eat-drink/",
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "limitation": "Existing venue identity and food classification retain their original source dates. Current operation was not separately rechecked in this expansion; confirm service directly before travelling."
+    }
+  },
+  {
+    "placeId": "bohol-saffron-restaurant",
+    "primary": "other-food",
+    "venueType": "restaurant",
+    "suitability": [
+      "meal"
+    ],
+    "specialties": [],
+    "source": {
+      "sourceName": "Amorita Resort - Saffron menu",
+      "sourceUrl": "https://www.amoritaresort.com/saffron-menu",
+      "dateChecked": "2026-10-21",
+      "status": "verified"
+    },
+    "officialUrl": null,
+    "operation": {
+      "basis": "venue-offering",
+      "source": {
+        "sourceName": "Amorita Resort — current dining venues",
+        "sourceUrl": "https://www.amoritaresort.com/dine/",
+        "dateChecked": "2026-10-22",
+        "status": "verified"
+      },
+      "limitation": "The operator now lists M. Marinera in its dining collection. The old Saffron identity is retained for existing links and trips, but excluded from new automatic scheduling pending a confirmed venue/name mapping."
+    },
+    "scheduling": "manual"
+  },
+  {
+    "placeId": "bohol-latavola-restaurant",
+    "primary": "other-food",
+    "venueType": "restaurant",
+    "suitability": [
+      "meal"
+    ],
+    "specialties": [],
+    "source": {
+      "sourceName": "Panglao Tourism - Latavola",
+      "sourceUrl": "https://www.panglaotourism.com/directory/latavola-italian-restaurant/",
+      "dateChecked": "2026-10-21",
+      "status": "verified"
+    },
+    "officialUrl": null,
+    "operation": {
+      "basis": "existing-source",
+      "source": {
+        "sourceName": "Panglao Tourism - Latavola",
+        "sourceUrl": "https://www.panglaotourism.com/directory/latavola-italian-restaurant/",
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "limitation": "Existing venue identity and food classification retain their original source dates. Current operation was not separately rechecked in this expansion; confirm service directly before travelling."
+    }
+  },
+  {
+    "placeId": "bohol-prawn-farm-bolod",
+    "primary": "other-food",
+    "venueType": "restaurant",
+    "suitability": [
+      "meal"
+    ],
+    "specialties": [],
+    "source": {
+      "sourceName": "Panglao Tourism - The Prawn Farm",
+      "sourceUrl": "https://www.panglaotourism.com/directory/the-prawn-farm-grill-and-seafoods/",
+      "dateChecked": "2026-10-21",
+      "status": "verified"
+    },
+    "officialUrl": null,
+    "operation": {
+      "basis": "existing-source",
+      "source": {
+        "sourceName": "Panglao Tourism - The Prawn Farm",
+        "sourceUrl": "https://www.panglaotourism.com/directory/the-prawn-farm-grill-and-seafoods/",
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "limitation": "Existing venue identity and food classification retain their original source dates. Current operation was not separately rechecked in this expansion; confirm service directly before travelling."
+    }
+  },
+  {
+    "placeId": "manila-eng-bee-tin-ongpin",
+    "primary": "other-food",
+    "venueType": "food-shop",
+    "suitability": [
+      "bakery"
+    ],
+    "specialties": [],
+    "source": {
+      "sourceName": "Eng Bee Tin - official flagship visitor information",
+      "sourceUrl": "https://www.engbeetin.com/",
+      "dateChecked": "2026-10-21",
+      "status": "verified"
+    },
+    "officialUrl": null,
+    "operation": {
+      "basis": "existing-source",
+      "source": {
+        "sourceName": "Eng Bee Tin - official flagship visitor information",
+        "sourceUrl": "https://www.engbeetin.com/",
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "limitation": "Existing venue identity and food classification retain their original source dates. Current operation was not separately rechecked in this expansion; confirm service directly before travelling."
+    }
+  },
+  {
+    "placeId": "manila-ilustrado-restaurant",
+    "primary": "other-food",
+    "venueType": "restaurant",
+    "suitability": [
+      "meal"
+    ],
+    "specialties": [],
+    "source": {
+      "sourceName": "Ilustrado Restaurant - official site",
+      "sourceUrl": "https://ilustradorestaurant.ph/",
+      "dateChecked": "2026-10-21",
+      "status": "verified"
+    },
+    "officialUrl": null,
+    "operation": {
+      "basis": "existing-source",
+      "source": {
+        "sourceName": "Ilustrado Restaurant - official site",
+        "sourceUrl": "https://ilustradorestaurant.ph/",
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "limitation": "Existing venue identity and food classification retain their original source dates. Current operation was not separately rechecked in this expansion; confirm service directly before travelling."
+    }
+  },
+  {
+    "placeId": "manila-barbaras-heritage",
+    "primary": "other-food",
+    "venueType": "restaurant",
+    "suitability": [
+      "meal"
+    ],
+    "specialties": [],
+    "source": {
+      "sourceName": "Barbara's Heritage Restaurant - venue contact page",
+      "sourceUrl": "https://www.barbaras.ph/contact-us",
+      "dateChecked": "2026-10-21",
+      "status": "verified"
+    },
+    "officialUrl": null,
+    "operation": {
+      "basis": "existing-source",
+      "source": {
+        "sourceName": "Barbara's Heritage Restaurant - venue contact page",
+        "sourceUrl": "https://www.barbaras.ph/contact-us",
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "limitation": "Existing venue identity and food classification retain their original source dates. Current operation was not separately rechecked in this expansion; confirm service directly before travelling."
+    }
+  },
+  {
+    "placeId": "baguio-good-shepherd",
+    "primary": "other-food",
+    "venueType": "food-shop",
+    "suitability": [
+      "bakery"
+    ],
+    "specialties": [],
+    "source": {
+      "sourceName": "Baguio City Government - tourist directory",
+      "sourceUrl": "https://infoboard.baguio.gov.ph/tourists-spots",
+      "dateChecked": "2026-10-21",
+      "status": "verified"
+    },
+    "officialUrl": null,
+    "operation": {
+      "basis": "existing-source",
+      "source": {
+        "sourceName": "Baguio City Government - tourist directory",
+        "sourceUrl": "https://infoboard.baguio.gov.ph/tourists-spots",
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "limitation": "Existing venue identity and food classification retain their original source dates. Current operation was not separately rechecked in this expansion; confirm service directly before travelling."
+    }
+  },
+  {
+    "placeId": "baguio-original-good-taste",
+    "primary": "other-food",
+    "venueType": "restaurant",
+    "suitability": [
+      "meal"
+    ],
+    "specialties": [],
+    "source": {
+      "sourceName": "The Original Good Taste Restaurant - official location",
+      "sourceUrl": "https://goodtaste.ph/",
+      "dateChecked": "2026-10-21",
+      "status": "verified"
+    },
+    "officialUrl": null,
+    "operation": {
+      "basis": "existing-source",
+      "source": {
+        "sourceName": "The Original Good Taste Restaurant - official location",
+        "sourceUrl": "https://goodtaste.ph/",
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "limitation": "Existing venue identity and food classification retain their original source dates. Current operation was not separately rechecked in this expansion; confirm service directly before travelling."
+    }
+  },
+  {
+    "placeId": "baguio-choco-late-batirol",
+    "primary": "other-food",
+    "venueType": "restaurant",
+    "suitability": [
+      "meal"
+    ],
+    "specialties": [],
+    "source": {
+      "sourceName": "Choco-late de Batirol - official contact",
+      "sourceUrl": "https://www.chocolatedebatirol.com/blank-3",
+      "dateChecked": "2026-10-21",
+      "status": "verified"
+    },
+    "officialUrl": null,
+    "operation": {
+      "basis": "existing-source",
+      "source": {
+        "sourceName": "Choco-late de Batirol - official contact",
+        "sourceUrl": "https://www.chocolatedebatirol.com/blank-3",
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "limitation": "Existing venue identity and food classification retain their original source dates. Current operation was not separately rechecked in this expansion; confirm service directly before travelling."
+    }
+  },
+  {
+    "placeId": "baguio-hill-station",
+    "primary": "other-food",
+    "venueType": "restaurant",
+    "suitability": [
+      "meal"
+    ],
+    "specialties": [],
+    "source": {
+      "sourceName": "Casa Vallejo - official hotel dining information",
+      "sourceUrl": "https://www.casavallejo.online/",
+      "dateChecked": "2026-10-21",
+      "status": "verified"
+    },
+    "officialUrl": null,
+    "operation": {
+      "basis": "existing-source",
+      "source": {
+        "sourceName": "Casa Vallejo - official hotel dining information",
+        "sourceUrl": "https://www.casavallejo.online/",
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "limitation": "Existing venue identity and food classification retain their original source dates. Current operation was not separately rechecked in this expansion; confirm service directly before travelling."
+    }
+  },
+  {
+    "placeId": "baguio-amare-outlook",
+    "primary": "other-food",
+    "venueType": "restaurant",
+    "suitability": [
+      "meal"
+    ],
+    "specialties": [],
+    "source": {
+      "sourceName": "Amare La Cucina - official branch information",
+      "sourceUrl": "https://amarelacucina.com/contact-amare-la-cucina/",
+      "dateChecked": "2026-10-21",
+      "status": "verified"
+    },
+    "officialUrl": null,
+    "operation": {
+      "basis": "existing-source",
+      "source": {
+        "sourceName": "Amare La Cucina - official branch information",
+        "sourceUrl": "https://amarelacucina.com/contact-amare-la-cucina/",
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "limitation": "Existing venue identity and food classification retain their original source dates. Current operation was not separately rechecked in this expansion; confirm service directly before travelling."
+    }
+  },
+  {
+    "placeId": "baguio-craft-brewery",
+    "primary": "other-food",
+    "venueType": "brewpub",
+    "suitability": [
+      "meal"
+    ],
+    "specialties": [],
+    "source": {
+      "sourceName": "Baguio Craft Brewery - official visitor information",
+      "sourceUrl": "https://www.baguiocraftbrewery.net/",
+      "dateChecked": "2026-10-21",
+      "status": "verified"
+    },
+    "officialUrl": null,
+    "operation": {
+      "basis": "existing-source",
+      "source": {
+        "sourceName": "Baguio Craft Brewery - official visitor information",
+        "sourceUrl": "https://www.baguiocraftbrewery.net/",
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "limitation": "Existing venue identity and food classification retain their original source dates. Current operation was not separately rechecked in this expansion; confirm service directly before travelling."
+    }
+  },
+  {
+    "placeId": "baguio-craft-1945",
+    "primary": "other-food",
+    "venueType": "restaurant",
+    "suitability": [
+      "meal"
+    ],
+    "specialties": [],
+    "source": {
+      "sourceName": "Craft 1945 - official visitor information",
+      "sourceUrl": "https://craft1945.com/",
+      "dateChecked": "2026-10-21",
+      "status": "verified"
+    },
+    "officialUrl": null,
+    "operation": {
+      "basis": "existing-source",
+      "source": {
+        "sourceName": "Craft 1945 - official visitor information",
+        "sourceUrl": "https://craft1945.com/",
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "limitation": "Existing venue identity and food classification retain their original source dates. Current operation was not separately rechecked in this expansion; confirm service directly before travelling."
+    }
+  },
+  {
+    "placeId": "siargao-kermit-restaurant",
+    "primary": "other-food",
+    "venueType": "restaurant",
+    "suitability": [
+      "meal"
+    ],
+    "specialties": [],
+    "source": {
+      "sourceName": "Kermit Siargao — official restaurant and address",
+      "sourceUrl": "https://www.kermitsiargao.com/restaurant",
+      "dateChecked": "2026-10-21",
+      "status": "verified"
+    },
+    "officialUrl": null,
+    "operation": {
+      "basis": "existing-source",
+      "source": {
+        "sourceName": "Kermit Siargao — official restaurant and address",
+        "sourceUrl": "https://www.kermitsiargao.com/restaurant",
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "limitation": "Existing venue identity and food classification retain their original source dates. Current operation was not separately rechecked in this expansion; confirm service directly before travelling."
+    }
+  },
+  {
+    "placeId": "siargao-trattoria-altrove",
+    "primary": "other-food",
+    "venueType": "restaurant",
+    "suitability": [
+      "meal"
+    ],
+    "specialties": [],
+    "source": {
+      "sourceName": "Trattoria Altrove — official branch directory",
+      "sourceUrl": "https://www.trattoriaaltrove.com/",
+      "dateChecked": "2026-10-21",
+      "status": "verified"
+    },
+    "officialUrl": null,
+    "operation": {
+      "basis": "existing-source",
+      "source": {
+        "sourceName": "Trattoria Altrove — official branch directory",
+        "sourceUrl": "https://www.trattoriaaltrove.com/",
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "limitation": "Existing venue identity and food classification retain their original source dates. Current operation was not separately rechecked in this expansion; confirm service directly before travelling."
+    }
+  },
+  {
+    "placeId": "siargao-warung",
+    "primary": "other-food",
+    "venueType": "restaurant",
+    "suitability": [
+      "meal"
+    ],
+    "specialties": [],
+    "source": {
+      "sourceName": "Siargao Island Villas — Warung restaurant",
+      "sourceUrl": "https://siargaoislandvillas.com/warung/",
+      "dateChecked": "2026-10-21",
+      "status": "verified"
+    },
+    "officialUrl": null,
+    "operation": {
+      "basis": "existing-source",
+      "source": {
+        "sourceName": "Siargao Island Villas — Warung restaurant",
+        "sourceUrl": "https://siargaoislandvillas.com/warung/",
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "limitation": "Existing venue identity and food classification retain their original source dates. Current operation was not separately rechecked in this expansion; confirm service directly before travelling."
+    }
+  },
+  {
+    "placeId": "siargao-brunch-spot",
+    "primary": "cafe",
+    "venueType": "cafe",
+    "suitability": [
+      "coffee",
+      "meal"
+    ],
+    "specialties": [],
+    "source": {
+      "sourceName": "Brunch Spot Siargao — official venue website",
+      "sourceUrl": "https://bs-siargao.com/",
+      "dateChecked": "2026-10-21",
+      "status": "verified"
+    },
+    "officialUrl": null,
+    "operation": {
+      "basis": "existing-source",
+      "source": {
+        "sourceName": "Brunch Spot Siargao — official venue website",
+        "sourceUrl": "https://bs-siargao.com/",
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "limitation": "Existing venue identity and food classification retain their original source dates. Current operation was not separately rechecked in this expansion; confirm service directly before travelling."
+    }
+  },
+  {
+    "placeId": "siargao-bravo-restaurant",
+    "primary": "other-food",
+    "venueType": "restaurant",
+    "suitability": [
+      "meal"
+    ],
+    "specialties": [],
+    "source": {
+      "sourceName": "Bravo Beach Resort Siargao — official restaurant and location",
+      "sourceUrl": "https://www.bravosiargao.com/",
+      "dateChecked": "2026-10-21",
+      "status": "verified"
+    },
+    "officialUrl": null,
+    "operation": {
+      "basis": "existing-source",
+      "source": {
+        "sourceName": "Bravo Beach Resort Siargao — official restaurant and location",
+        "sourceUrl": "https://www.bravosiargao.com/",
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "limitation": "Existing venue identity and food classification retain their original source dates. Current operation was not separately rechecked in this expansion; confirm service directly before travelling."
+    }
+  },
+  {
+    "placeId": "siargao-naga-restaurant",
+    "primary": "other-food",
+    "venueType": "restaurant",
+    "suitability": [
+      "meal"
+    ],
+    "specialties": [],
+    "source": {
+      "sourceName": "NĀGA Siargao — official restaurant website",
+      "sourceUrl": "https://www.nagaconcepts.co/naga-siargao",
+      "dateChecked": "2026-10-21",
+      "status": "verified"
+    },
+    "officialUrl": null,
+    "operation": {
+      "basis": "existing-source",
+      "source": {
+        "sourceName": "NĀGA Siargao — official restaurant website",
+        "sourceUrl": "https://www.nagaconcepts.co/naga-siargao",
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "limitation": "Existing venue identity and food classification retain their original source dates. Current operation was not separately rechecked in this expansion; confirm service directly before travelling."
+    }
+  },
+  {
+    "placeId": "davao-jacks-ridge-shrine-hills",
+    "primary": "other-food",
+    "venueType": "restaurant",
+    "suitability": [
+      "meal"
+    ],
+    "specialties": [],
+    "source": {
+      "sourceName": "Davao City Tourism — Jack’s Ridge, Shrine Hills branch",
+      "sourceUrl": "https://tourism.davaocity.gov.ph/explore-the-city/restaurants/restaurants/jacks-ridge-resort-and-restaurant-corp/",
+      "dateChecked": "2026-10-21",
+      "status": "verified"
+    },
+    "officialUrl": null,
+    "operation": {
+      "basis": "existing-source",
+      "source": {
+        "sourceName": "Davao City Tourism — Jack’s Ridge, Shrine Hills branch",
+        "sourceUrl": "https://tourism.davaocity.gov.ph/explore-the-city/restaurants/restaurants/jacks-ridge-resort-and-restaurant-corp/",
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "limitation": "Existing venue identity and food classification retain their original source dates. Current operation was not separately rechecked in this expansion; confirm service directly before travelling."
+    }
+  },
+  {
+    "placeId": "davao-apo-ni-lola-matina",
+    "primary": "other-food",
+    "venueType": "food-shop",
+    "suitability": [
+      "dessert"
+    ],
+    "specialties": [],
+    "source": {
+      "sourceName": "DOST — Apo ni Lola food-processing business, October 2026",
+      "sourceUrl": "https://dost.gov.ph/knowledge-resources/news/4560-from-micro-to-medium-dost-steps-up-assistance-to-apo-ni-lola-thrive-in-food-processing-business.html",
+      "dateChecked": "2026-10-21",
+      "status": "verified"
+    },
+    "officialUrl": null,
+    "operation": {
+      "basis": "existing-source",
+      "source": {
+        "sourceName": "DOST — Apo ni Lola food-processing business, October 2026",
+        "sourceUrl": "https://dost.gov.ph/knowledge-resources/news/4560-from-micro-to-medium-dost-steps-up-assistance-to-apo-ni-lola-thrive-in-food-processing-business.html",
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "limitation": "Existing venue identity and food classification retain their original source dates. Current operation was not separately rechecked in this expansion; confirm service directly before travelling."
+    }
+  },
+  {
+    "placeId": "davao-marina-tuna-sandawa",
+    "primary": "other-food",
+    "venueType": "restaurant",
+    "suitability": [
+      "meal"
+    ],
+    "specialties": [],
+    "source": {
+      "sourceName": "Davao City Tourism — Marina Tuna, Sandawa Plaza",
+      "sourceUrl": "https://tourism.davaocity.gov.ph/explore-the-city/restaurants/restaurants/marina-tuna-2/",
+      "dateChecked": "2026-10-21",
+      "status": "verified"
+    },
+    "officialUrl": null,
+    "operation": {
+      "basis": "existing-source",
+      "source": {
+        "sourceName": "Davao City Tourism — Marina Tuna, Sandawa Plaza",
+        "sourceUrl": "https://tourism.davaocity.gov.ph/explore-the-city/restaurants/restaurants/marina-tuna-2/",
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "limitation": "Existing venue identity and food classification retain their original source dates. Current operation was not separately rechecked in this expansion; confirm service directly before travelling."
+    }
+  },
+  {
+    "placeId": "boracay-muchos",
+    "primary": "other-food",
+    "venueType": "restaurant",
+    "suitability": [
+      "meal"
+    ],
+    "specialties": [],
+    "source": {
+      "sourceName": "Muchos - official restaurant",
+      "sourceUrl": "https://muchosboracay.com/",
+      "dateChecked": "2026-10-21",
+      "status": "verified"
+    },
+    "officialUrl": null,
+    "operation": {
+      "basis": "existing-source",
+      "source": {
+        "sourceName": "Muchos - official restaurant",
+        "sourceUrl": "https://muchosboracay.com/",
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "limitation": "Existing venue identity and food classification retain their original source dates. Current operation was not separately rechecked in this expansion; confirm service directly before travelling."
+    }
+  },
+  {
+    "placeId": "boracay-jammers-beach-shack",
+    "primary": "other-food",
+    "venueType": "restaurant",
+    "suitability": [
+      "meal"
+    ],
+    "specialties": [],
+    "source": {
+      "sourceName": "Jammers Beach Shack - official restaurant",
+      "sourceUrl": "https://jammersbeachshack.com/",
+      "dateChecked": "2026-10-21",
+      "status": "verified"
+    },
+    "officialUrl": null,
+    "operation": {
+      "basis": "existing-source",
+      "source": {
+        "sourceName": "Jammers Beach Shack - official restaurant",
+        "sourceUrl": "https://jammersbeachshack.com/",
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "limitation": "Existing venue identity and food classification retain their original source dates. Current operation was not separately rechecked in this expansion; confirm service directly before travelling."
+    }
+  },
+  {
+    "placeId": "boracay-aria-cucina",
+    "primary": "other-food",
+    "venueType": "restaurant",
+    "suitability": [
+      "meal"
+    ],
+    "specialties": [],
+    "source": {
+      "sourceName": "Boracay Entertainment Resources Inc. - official business directory",
+      "sourceUrl": "https://www.careers.aria.com.ph/",
+      "dateChecked": "2026-10-21",
+      "status": "verified"
+    },
+    "officialUrl": null,
+    "operation": {
+      "basis": "existing-source",
+      "source": {
+        "sourceName": "Boracay Entertainment Resources Inc. - official business directory",
+        "sourceUrl": "https://www.careers.aria.com.ph/",
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "limitation": "Existing venue identity and food classification retain their original source dates. Current operation was not separately rechecked in this expansion; confirm service directly before travelling."
+    }
+  },
+  {
+    "placeId": "boracay-hama",
+    "primary": "other-food",
+    "venueType": "restaurant",
+    "suitability": [
+      "meal"
+    ],
+    "specialties": [],
+    "source": {
+      "sourceName": "Hama - official restaurant",
+      "sourceUrl": "https://www.hama.com.ph/",
+      "dateChecked": "2026-10-21",
+      "status": "verified"
+    },
+    "officialUrl": null,
+    "operation": {
+      "basis": "existing-source",
+      "source": {
+        "sourceName": "Hama - official restaurant",
+        "sourceUrl": "https://www.hama.com.ph/",
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "limitation": "Existing venue identity and food classification retain their original source dates. Current operation was not separately rechecked in this expansion; confirm service directly before travelling."
+    }
+  },
+  {
+    "placeId": "boracay-cafe-del-sol",
+    "primary": "cafe",
+    "venueType": "cafe",
+    "suitability": [
+      "coffee"
+    ],
+    "specialties": [],
+    "source": {
+      "sourceName": "Boracay Entertainment Resources Inc. - official business directory",
+      "sourceUrl": "https://www.careers.aria.com.ph/",
+      "dateChecked": "2026-10-21",
+      "status": "verified"
+    },
+    "officialUrl": null,
+    "operation": {
+      "basis": "existing-source",
+      "source": {
+        "sourceName": "Boracay Entertainment Resources Inc. - official business directory",
+        "sourceUrl": "https://www.careers.aria.com.ph/",
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "limitation": "Existing venue identity and food classification retain their original source dates. Current operation was not separately rechecked in this expansion; confirm service directly before travelling."
+    }
+  },
+  {
+    "placeId": "boracay-beach-truck",
+    "primary": "other-food",
+    "venueType": "restaurant",
+    "suitability": [
+      "meal"
+    ],
+    "specialties": [],
+    "source": {
+      "sourceName": "Boracay Entertainment Resources Inc. - official business directory",
+      "sourceUrl": "https://www.careers.aria.com.ph/",
+      "dateChecked": "2026-10-21",
+      "status": "verified"
+    },
+    "officialUrl": null,
+    "operation": {
+      "basis": "existing-source",
+      "source": {
+        "sourceName": "Boracay Entertainment Resources Inc. - official business directory",
+        "sourceUrl": "https://www.careers.aria.com.ph/",
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "limitation": "Existing venue identity and food classification retain their original source dates. Current operation was not separately rechecked in this expansion; confirm service directly before travelling."
+    }
+  },
+  {
+    "placeId": "boracay-dinibeach-bar",
+    "primary": "other-food",
+    "venueType": "restaurant",
+    "suitability": [
+      "meal"
+    ],
+    "specialties": [],
+    "source": {
+      "sourceName": "Diniview Villa Resort - official restaurant information",
+      "sourceUrl": "https://diniviewboracay.com/",
+      "dateChecked": "2026-10-21",
+      "status": "verified"
+    },
+    "officialUrl": null,
+    "operation": {
+      "basis": "existing-source",
+      "source": {
+        "sourceName": "Diniview Villa Resort - official restaurant information",
+        "sourceUrl": "https://diniviewboracay.com/",
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "limitation": "Existing venue identity and food classification retain their original source dates. Current operation was not separately rechecked in this expansion; confirm service directly before travelling."
+    }
+  },
+  {
+    "placeId": "boracay-sirena",
+    "primary": "other-food",
+    "venueType": "restaurant",
+    "suitability": [
+      "meal"
+    ],
+    "specialties": [],
+    "source": {
+      "sourceName": "Shangri-La Boracay - Sirena",
+      "sourceUrl": "https://www.shangri-la.com/restaurants-bars/boracay/boracayresort/sirena/",
+      "dateChecked": "2026-10-21",
+      "status": "verified"
+    },
+    "officialUrl": null,
+    "operation": {
+      "basis": "existing-source",
+      "source": {
+        "sourceName": "Shangri-La Boracay - Sirena",
+        "sourceUrl": "https://www.shangri-la.com/restaurants-bars/boracay/boracayresort/sirena/",
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "limitation": "Existing venue identity and food classification retain their original source dates. Current operation was not separately rechecked in this expansion; confirm service directly before travelling."
+    }
+  },
+  {
+    "placeId": "boracay-los-indios-bravos",
+    "primary": "other-food",
+    "venueType": "restaurant",
+    "suitability": [
+      "meal"
+    ],
+    "specialties": [],
+    "source": {
+      "sourceName": "Los Indios Bravos - official restaurant",
+      "sourceUrl": "https://www.losindiosbravos.com/",
+      "dateChecked": "2026-10-21",
+      "status": "verified"
+    },
+    "officialUrl": null,
+    "operation": {
+      "basis": "existing-source",
+      "source": {
+        "sourceName": "Los Indios Bravos - official restaurant",
+        "sourceUrl": "https://www.losindiosbravos.com/",
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "limitation": "Existing venue identity and food classification retain their original source dates. Current operation was not separately rechecked in this expansion; confirm service directly before travelling."
+    }
+  },
+  {
+    "placeId": "boracay-sands-bar-restaurant",
+    "primary": "other-food",
+    "venueType": "restaurant",
+    "suitability": [
+      "meal"
+    ],
+    "specialties": [],
+    "source": {
+      "sourceName": "Boracay Sands Hotel - official amenities",
+      "sourceUrl": "https://boracaysands.com/amenities/",
+      "dateChecked": "2026-10-21",
+      "status": "verified"
+    },
+    "officialUrl": null,
+    "operation": {
+      "basis": "existing-source",
+      "source": {
+        "sourceName": "Boracay Sands Hotel - official amenities",
+        "sourceUrl": "https://boracaysands.com/amenities/",
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "limitation": "Existing venue identity and food classification retain their original source dates. Current operation was not separately rechecked in this expansion; confirm service directly before travelling."
+    }
+  },
+  {
+    "placeId": "iloilo-breakthrough-villa",
+    "primary": "other-food",
+    "venueType": "restaurant",
+    "suitability": [
+      "meal"
+    ],
+    "specialties": [],
+    "source": {
+      "sourceName": "Breakthrough Restaurants - main restaurant",
+      "sourceUrl": "https://breakthroughrestaurants.com/breakthrough-2/",
+      "dateChecked": "2026-10-21",
+      "status": "verified"
+    },
+    "officialUrl": null,
+    "operation": {
+      "basis": "existing-source",
+      "source": {
+        "sourceName": "Breakthrough Restaurants - main restaurant",
+        "sourceUrl": "https://breakthroughrestaurants.com/breakthrough-2/",
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "limitation": "Existing venue identity and food classification retain their original source dates. Current operation was not separately rechecked in this expansion; confirm service directly before travelling."
+    }
+  },
+  {
+    "placeId": "iloilo-dapli-valeria",
+    "primary": "other-food",
+    "venueType": "restaurant",
+    "suitability": [
+      "meal"
+    ],
+    "specialties": [],
+    "source": {
+      "sourceName": "Breakthrough Restaurants - Dapli",
+      "sourceUrl": "https://breakthroughrestaurants.com/dapli-2/",
+      "dateChecked": "2026-10-21",
+      "status": "verified"
+    },
+    "officialUrl": null,
+    "operation": {
+      "basis": "existing-source",
+      "source": {
+        "sourceName": "Breakthrough Restaurants - Dapli",
+        "sourceUrl": "https://breakthroughrestaurants.com/dapli-2/",
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "limitation": "Existing venue identity and food classification retain their original source dates. Current operation was not separately rechecked in this expansion; confirm service directly before travelling."
+    }
+  },
+  {
+    "placeId": "iloilo-ponsyon-plazuela",
+    "primary": "other-food",
+    "venueType": "restaurant",
+    "suitability": [
+      "meal"
+    ],
+    "specialties": [],
+    "source": {
+      "sourceName": "Breakthrough Restaurants - Ponsyon",
+      "sourceUrl": "https://breakthroughrestaurants.com/ponsyon-2/",
+      "dateChecked": "2026-10-21",
+      "status": "verified"
+    },
+    "officialUrl": null,
+    "operation": {
+      "basis": "existing-source",
+      "source": {
+        "sourceName": "Breakthrough Restaurants - Ponsyon",
+        "sourceUrl": "https://breakthroughrestaurants.com/ponsyon-2/",
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "limitation": "Existing venue identity and food classification retain their original source dates. Current operation was not separately rechecked in this expansion; confirm service directly before travelling."
+    }
+  },
+  {
+    "placeId": "batanes-casa-napoli-town",
+    "primary": "other-food",
+    "venueType": "restaurant",
+    "suitability": [
+      "meal"
+    ],
+    "specialties": [],
+    "source": {
+      "sourceName": "Batanes Provincial Heritage and Tourism Office - Basco food map",
+      "sourceUrl": "https://breathtakingbatanes.com/foodmap.pdf",
+      "dateChecked": "2026-10-21",
+      "status": "verified"
+    },
+    "officialUrl": null,
+    "operation": {
+      "basis": "existing-source",
+      "source": {
+        "sourceName": "Batanes Provincial Heritage and Tourism Office - Basco food map",
+        "sourceUrl": "https://breathtakingbatanes.com/foodmap.pdf",
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "limitation": "Existing venue identity and food classification retain their original source dates. Current operation was not separately rechecked in this expansion; confirm service directly before travelling."
+    }
+  },
+  {
+    "placeId": "batanes-beehan",
+    "primary": "other-food",
+    "venueType": "restaurant",
+    "suitability": [
+      "meal"
+    ],
+    "specialties": [],
+    "source": {
+      "sourceName": "Batanes Provincial Heritage and Tourism Office - Basco food map",
+      "sourceUrl": "https://breathtakingbatanes.com/foodmap.pdf",
+      "dateChecked": "2026-10-21",
+      "status": "verified"
+    },
+    "officialUrl": null,
+    "operation": {
+      "basis": "existing-source",
+      "source": {
+        "sourceName": "Batanes Provincial Heritage and Tourism Office - Basco food map",
+        "sourceUrl": "https://breathtakingbatanes.com/foodmap.pdf",
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "limitation": "Existing venue identity and food classification retain their original source dates. Current operation was not separately rechecked in this expansion; confirm service directly before travelling."
+    }
+  },
+  {
+    "placeId": "batanes-harbour-cafe",
+    "primary": "cafe",
+    "venueType": "cafe",
+    "suitability": [
+      "coffee"
+    ],
+    "specialties": [],
+    "source": {
+      "sourceName": "Batanes Provincial Heritage and Tourism Office - Basco food map",
+      "sourceUrl": "https://breathtakingbatanes.com/foodmap.pdf",
+      "dateChecked": "2026-10-21",
+      "status": "verified"
+    },
+    "officialUrl": null,
+    "operation": {
+      "basis": "existing-source",
+      "source": {
+        "sourceName": "Batanes Provincial Heritage and Tourism Office - Basco food map",
+        "sourceUrl": "https://breathtakingbatanes.com/foodmap.pdf",
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "limitation": "Existing venue identity and food classification retain their original source dates. Current operation was not separately rechecked in this expansion; confirm service directly before travelling."
+    }
+  },
+  {
+    "placeId": "batanes-vunong-dinette",
+    "primary": "other-food",
+    "venueType": "restaurant",
+    "suitability": [
+      "meal"
+    ],
+    "specialties": [],
+    "source": {
+      "sourceName": "Batanes Provincial Heritage and Tourism Office - Basco food map",
+      "sourceUrl": "https://breathtakingbatanes.com/foodmap.pdf",
+      "dateChecked": "2026-10-21",
+      "status": "verified"
+    },
+    "officialUrl": null,
+    "operation": {
+      "basis": "existing-source",
+      "source": {
+        "sourceName": "Batanes Provincial Heritage and Tourism Office - Basco food map",
+        "sourceUrl": "https://breathtakingbatanes.com/foodmap.pdf",
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "limitation": "Existing venue identity and food classification retain their original source dates. Current operation was not separately rechecked in this expansion; confirm service directly before travelling."
+    }
+  },
+  {
+    "placeId": "batanes-honesty-coffee-shop",
+    "primary": "cafe",
+    "venueType": "cafe",
+    "suitability": [
+      "coffee"
+    ],
+    "specialties": [],
+    "source": {
+      "sourceName": "Department of Tourism Region 2 - Batanes municipality guide",
+      "sourceUrl": "https://www.region2fun.ph/official/batanes-2/",
+      "dateChecked": "2026-10-21",
+      "status": "verified"
+    },
+    "officialUrl": null,
+    "operation": {
+      "basis": "existing-source",
+      "source": {
+        "sourceName": "Department of Tourism Region 2 - Batanes municipality guide",
+        "sourceUrl": "https://www.region2fun.ph/official/batanes-2/",
+        "dateChecked": null,
+        "status": "unverified"
+      },
+      "limitation": "Existing venue identity and food classification retain their original source dates. Current operation was not separately rechecked in this expansion; confirm service directly before travelling."
+    }
+  },
+  {
+    "placeId": "el-nido-grounded-town",
+    "primary": "cafe",
+    "venueType": "cafe",
+    "suitability": [
+      "coffee"
+    ],
+    "specialties": [
+      "specialty coffee",
+      "espresso"
+    ],
+    "source": {
+      "sourceName": "Grounded — El Nido Town — venue website",
+      "sourceUrl": "https://grounded.ph/",
+      "dateChecked": "2026-10-22",
+      "status": "verified"
+    },
+    "officialUrl": "https://grounded.ph/",
+    "operation": {
+      "basis": "venue-offering",
+      "source": {
+        "sourceName": "Grounded — El Nido Town — venue website",
+        "sourceUrl": "https://grounded.ph/",
+        "dateChecked": "2026-10-22",
+        "status": "verified"
+      },
+      "limitation": "The public venue page offers this service when reviewed; no live table availability, closure guarantee or independent on-site check."
+    }
+  },
+  {
+    "placeId": "el-nido-janu-coffee-tea",
+    "primary": "cafe",
+    "venueType": "cafe",
+    "suitability": [
+      "coffee"
+    ],
+    "specialties": [
+      "specialty coffee",
+      "Japanese tea",
+      "matcha",
+      "hojicha"
+    ],
+    "source": {
+      "sourceName": "Janu Coffee & Tea — venue website",
+      "sourceUrl": "https://janu.ph/",
+      "dateChecked": "2026-10-22",
+      "status": "verified"
+    },
+    "officialUrl": "https://janu.ph/",
+    "operation": {
+      "basis": "venue-offering",
+      "source": {
+        "sourceName": "Janu Coffee & Tea — venue website",
+        "sourceUrl": "https://janu.ph/",
+        "dateChecked": "2026-10-22",
+        "status": "verified"
+      },
+      "limitation": "The public venue page offers this service when reviewed; no live table availability, closure guarantee or independent on-site check."
+    }
+  },
+  {
+    "placeId": "puerto-princesa-itoys-coffee-haus",
+    "primary": "cafe",
+    "venueType": "cafe",
+    "suitability": [
+      "coffee"
+    ],
+    "specialties": [],
+    "source": {
+      "sourceName": "Petit Futé — 2026 professional Itoy’s coffee venue review",
+      "sourceUrl": "https://www.petitfute.co.uk/v40864-puerto-princesa/c1169-s-amuser-sortir/c182-bar-cafe/c219-coffee-shop-et-salon-de-the/1596505-itoy-s-coffee-haus.html",
+      "dateChecked": "2026-10-22",
+      "status": "verified"
+    },
+    "officialUrl": "https://www.puertoprincesatourism.com/restaurants",
+    "operation": {
+      "basis": "2026-accreditation",
+      "source": {
+        "sourceName": "Puerto Princesa Tourism — March 2026 accredited restaurants",
+        "sourceUrl": "https://www.puertoprincesatourism.com/restaurants",
+        "dateChecked": "2026-10-22",
+        "status": "verified"
+      },
+      "limitation": "Tourism office lists this exact establishment as compliant on 30 March 2026. This is not a live opening or availability check."
+    }
+  },
+  {
+    "placeId": "puerto-princesa-koffee-kat",
+    "primary": "cafe",
+    "venueType": "cafe",
+    "suitability": [
+      "coffee"
+    ],
+    "specialties": [],
+    "source": {
+      "sourceName": "Restaurant Guru — Koffee Kat Burgos Street coffee reports",
+      "sourceUrl": "https://restaurantguru.com/Coffee-Cat-Palawan-Puerto-Princesa",
+      "dateChecked": "2026-10-22",
+      "status": "verified"
+    },
+    "officialUrl": "https://www.puertoprincesatourism.com/restaurants",
+    "operation": {
+      "basis": "2026-accreditation",
+      "source": {
+        "sourceName": "Puerto Princesa Tourism — March 2026 accredited restaurants",
+        "sourceUrl": "https://www.puertoprincesatourism.com/restaurants",
+        "dateChecked": "2026-10-22",
+        "status": "verified"
+      },
+      "limitation": "Tourism office lists this exact establishment as compliant on 30 March 2026. This is not a live opening or availability check."
+    }
+  },
+  {
+    "placeId": "puerto-princesa-vietville-restaurant",
+    "primary": "other-food",
+    "venueType": "restaurant",
+    "suitability": [
+      "meal"
+    ],
+    "specialties": [],
+    "source": {
+      "sourceName": "Puerto Princesa Tourism — March 2026 accredited restaurants",
+      "sourceUrl": "https://www.puertoprincesatourism.com/restaurants",
+      "dateChecked": "2026-10-22",
+      "status": "verified"
+    },
+    "officialUrl": "https://www.puertoprincesatourism.com/restaurants",
+    "operation": {
+      "basis": "2026-accreditation",
+      "source": {
+        "sourceName": "Puerto Princesa Tourism — March 2026 accredited restaurants",
+        "sourceUrl": "https://www.puertoprincesatourism.com/restaurants",
+        "dateChecked": "2026-10-22",
+        "status": "verified"
+      },
+      "limitation": "Tourism office lists this exact establishment as compliant on 30 March 2026. This is not a live opening or availability check."
+    }
+  },
+  {
+    "placeId": "puerto-princesa-ka-inato-main",
+    "primary": "other-food",
+    "venueType": "restaurant",
+    "suitability": [
+      "meal"
+    ],
+    "specialties": [],
+    "source": {
+      "sourceName": "Puerto Princesa Tourism — March 2026 accredited restaurants",
+      "sourceUrl": "https://www.puertoprincesatourism.com/restaurants",
+      "dateChecked": "2026-10-22",
+      "status": "verified"
+    },
+    "officialUrl": "https://www.puertoprincesatourism.com/restaurants",
+    "operation": {
+      "basis": "2026-accreditation",
+      "source": {
+        "sourceName": "Puerto Princesa Tourism — March 2026 accredited restaurants",
+        "sourceUrl": "https://www.puertoprincesatourism.com/restaurants",
+        "dateChecked": "2026-10-22",
+        "status": "verified"
+      },
+      "limitation": "Tourism office lists this exact establishment as compliant on 30 March 2026. This is not a live opening or availability check."
+    }
+  },
+  {
+    "placeId": "cebu-north-cafe-citymall",
+    "primary": "cafe",
+    "venueType": "cafe",
+    "suitability": [
+      "coffee"
+    ],
+    "specialties": [
+      "coffee"
+    ],
+    "source": {
+      "sourceName": "North Café & Co — CityMall Bacalso — venue website",
+      "sourceUrl": "https://www.northcafeandco.ph/",
+      "dateChecked": "2026-10-22",
+      "status": "verified"
+    },
+    "officialUrl": "https://www.northcafeandco.ph/",
+    "operation": {
+      "basis": "venue-offering",
+      "source": {
+        "sourceName": "North Café & Co — CityMall Bacalso — venue website",
+        "sourceUrl": "https://www.northcafeandco.ph/",
+        "dateChecked": "2026-10-22",
+        "status": "verified"
+      },
+      "limitation": "The public venue page offers this service when reviewed; no live table availability, closure guarantee or independent on-site check."
+    }
+  },
+  {
+    "placeId": "cebu-teamo-hotel-one",
+    "primary": "cafe",
+    "venueType": "cafe",
+    "suitability": [
+      "coffee",
+      "meal",
+      "breakfast",
+      "dessert"
+    ],
+    "specialties": [
+      "coffee",
+      "cake",
+      "all-day breakfast",
+      "pastries"
+    ],
+    "source": {
+      "sourceName": "Te’Amo Café — Hotel One — venue website",
+      "sourceUrl": "https://www.teamocafecebu.com/",
+      "dateChecked": "2026-10-22",
+      "status": "verified"
+    },
+    "officialUrl": "https://www.teamocafecebu.com/",
+    "operation": {
+      "basis": "venue-offering",
+      "source": {
+        "sourceName": "Te’Amo Café — Hotel One — venue website",
+        "sourceUrl": "https://www.teamocafecebu.com/",
+        "dateChecked": "2026-10-22",
+        "status": "verified"
+      },
+      "limitation": "The public venue page offers this service when reviewed; no live table availability, closure guarantee or independent on-site check."
+    }
+  },
+  {
+    "placeId": "el-nido-lick-roastery",
+    "primary": "cafe",
+    "venueType": "cafe",
+    "suitability": [
+      "coffee"
+    ],
+    "specialties": [
+      "Philippine coffee",
+      "coffee roasting"
+    ],
+    "source": {
+      "sourceName": "Lost Islands Center for Kape — Lio HQ — venue website",
+      "sourceUrl": "https://lick.ph/pages/locations",
+      "dateChecked": "2026-10-22",
+      "status": "verified"
+    },
+    "officialUrl": "https://lick.ph/pages/locations",
+    "operation": {
+      "basis": "venue-offering",
+      "source": {
+        "sourceName": "Lost Islands Center for Kape — Lio HQ — venue website",
+        "sourceUrl": "https://lick.ph/pages/locations",
+        "dateChecked": "2026-10-22",
+        "status": "verified"
+      },
+      "limitation": "The public venue page offers this service when reviewed; no live table availability, closure guarantee or independent on-site check."
+    }
+  },
+  {
+    "placeId": "el-nido-la-moro-hill",
+    "primary": "cafe",
+    "venueType": "bakery",
+    "suitability": [
+      "coffee",
+      "bakery"
+    ],
+    "specialties": [
+      "bakery",
+      "coffee"
+    ],
+    "source": {
+      "sourceName": "La Moro Hill Bakery — Lio — venue website",
+      "sourceUrl": "https://lick.ph/pages/locations",
+      "dateChecked": "2026-10-22",
+      "status": "verified"
+    },
+    "officialUrl": "https://lick.ph/pages/locations",
+    "operation": {
+      "basis": "venue-offering",
+      "source": {
+        "sourceName": "La Moro Hill Bakery — Lio — venue website",
+        "sourceUrl": "https://lick.ph/pages/locations",
+        "dateChecked": "2026-10-22",
+        "status": "verified"
+      },
+      "limitation": "The public venue page offers this service when reviewed; no live table availability, closure guarantee or independent on-site check."
+    }
+  },
+  {
+    "placeId": "el-nido-huk-co",
+    "primary": "cafe",
+    "venueType": "bakery",
+    "suitability": [
+      "coffee",
+      "bakery",
+      "meal",
+      "breakfast"
+    ],
+    "specialties": [
+      "bread",
+      "pastries",
+      "sandwiches"
+    ],
+    "source": {
+      "sourceName": "HUK & Co. — C Hotel — venue website",
+      "sourceUrl": "https://huk.ph/",
+      "dateChecked": "2026-10-22",
+      "status": "verified"
+    },
+    "officialUrl": "https://huk.ph/",
+    "operation": {
+      "basis": "venue-offering",
+      "source": {
+        "sourceName": "HUK & Co. — C Hotel — venue website",
+        "sourceUrl": "https://huk.ph/",
+        "dateChecked": "2026-10-22",
+        "status": "verified"
+      },
+      "limitation": "The public venue page offers this service when reviewed; no live table availability, closure guarantee or independent on-site check."
+    }
+  },
+  {
+    "placeId": "el-nido-ver-de",
+    "primary": "other-food",
+    "venueType": "restaurant",
+    "suitability": [
+      "meal",
+      "breakfast"
+    ],
+    "specialties": [
+      "pancakes",
+      "breakfast burrito"
+    ],
+    "source": {
+      "sourceName": "Ver De — H Hotel — venue website",
+      "sourceUrl": "https://hhotelelnido.com/dining",
+      "dateChecked": "2026-10-22",
+      "status": "verified"
+    },
+    "officialUrl": "https://hhotelelnido.com/dining",
+    "operation": {
+      "basis": "venue-offering",
+      "source": {
+        "sourceName": "Ver De — H Hotel — venue website",
+        "sourceUrl": "https://hhotelelnido.com/dining",
+        "dateChecked": "2026-10-22",
+        "status": "verified"
+      },
+      "limitation": "The public venue page offers this service when reviewed; no live table availability, closure guarantee or independent on-site check."
+    }
+  },
+  {
+    "placeId": "el-nido-piece-of-sky",
+    "primary": "other-food",
+    "venueType": "restaurant",
+    "suitability": [
+      "meal"
+    ],
+    "specialties": [
+      "cocktails",
+      "rooftop dining"
+    ],
+    "source": {
+      "sourceName": "Piece of Sky — venue website",
+      "sourceUrl": "https://sites.google.com/view/pieceofskyelnido/home",
+      "dateChecked": "2026-10-22",
+      "status": "verified"
+    },
+    "officialUrl": "https://sites.google.com/view/pieceofskyelnido/home",
+    "operation": {
+      "basis": "venue-offering",
+      "source": {
+        "sourceName": "Piece of Sky — venue website",
+        "sourceUrl": "https://sites.google.com/view/pieceofskyelnido/home",
+        "dateChecked": "2026-10-22",
+        "status": "verified"
+      },
+      "limitation": "The public venue page offers this service when reviewed; no live table availability, closure guarantee or independent on-site check."
+    }
+  },
+  {
+    "placeId": "el-nido-henris",
+    "primary": "other-food",
+    "venueType": "restaurant",
+    "suitability": [
+      "meal"
+    ],
+    "specialties": [
+      "seafood"
+    ],
+    "source": {
+      "sourceName": "Henri’s — Lihim Resorts — venue website",
+      "sourceUrl": "https://lihim.com/dining/henris/",
+      "dateChecked": "2026-10-22",
+      "status": "verified"
+    },
+    "officialUrl": "https://lihim.com/dining/henris/",
+    "operation": {
+      "basis": "venue-offering",
+      "source": {
+        "sourceName": "Henri’s — Lihim Resorts — venue website",
+        "sourceUrl": "https://lihim.com/dining/henris/",
+        "dateChecked": "2026-10-22",
+        "status": "verified"
+      },
+      "limitation": "The public venue page offers this service when reviewed; no live table availability, closure guarantee or independent on-site check."
+    }
+  },
+  {
+    "placeId": "el-nido-lanai-amakan",
+    "primary": "other-food",
+    "venueType": "restaurant",
+    "suitability": [
+      "meal",
+      "breakfast"
+    ],
+    "specialties": [
+      "Filipino fusion",
+      "breakfast buffet"
+    ],
+    "source": {
+      "sourceName": "The Lanai at Amakan — venue website",
+      "sourceUrl": "https://www.amakan.ph/",
+      "dateChecked": "2026-10-22",
+      "status": "verified"
+    },
+    "officialUrl": "https://www.amakan.ph/",
+    "operation": {
+      "basis": "venue-offering",
+      "source": {
+        "sourceName": "The Lanai at Amakan — venue website",
+        "sourceUrl": "https://www.amakan.ph/",
+        "dateChecked": "2026-10-22",
+        "status": "verified"
+      },
+      "limitation": "The public venue page offers this service when reviewed; no live table availability, closure guarantee or independent on-site check."
+    }
+  },
+  {
+    "placeId": "coron-baya-resto-lounge",
+    "primary": "other-food",
+    "venueType": "restaurant",
+    "suitability": [
+      "meal"
+    ],
+    "specialties": [
+      "four-cheese pizza",
+      "steak-topped fried rice"
+    ],
+    "source": {
+      "sourceName": "BAYA Resto Lounge — venue website",
+      "sourceUrl": "https://twoseasonsresorts.com/corontown/dining/",
+      "dateChecked": "2026-10-22",
+      "status": "verified"
+    },
+    "officialUrl": "https://twoseasonsresorts.com/corontown/dining/",
+    "operation": {
+      "basis": "venue-offering",
+      "source": {
+        "sourceName": "BAYA Resto Lounge — venue website",
+        "sourceUrl": "https://twoseasonsresorts.com/corontown/dining/",
+        "dateChecked": "2026-10-22",
+        "status": "verified"
+      },
+      "limitation": "The public venue page offers this service when reviewed; no live table availability, closure guarantee or independent on-site check."
+    }
+  },
+  {
+    "placeId": "coron-hunt-funny-lion",
+    "primary": "other-food",
+    "venueType": "restaurant",
+    "suitability": [
+      "meal"
+    ],
+    "specialties": [
+      "Filipino",
+      "continental"
+    ],
+    "source": {
+      "sourceName": "Hunt Restaurant — The Funny Lion Coron — venue website",
+      "sourceUrl": "https://www.thefunnylion.com/the-funny-lion-coron-compendium",
+      "dateChecked": "2026-10-22",
+      "status": "verified"
+    },
+    "officialUrl": "https://www.thefunnylion.com/the-funny-lion-coron-compendium",
+    "operation": {
+      "basis": "venue-offering",
+      "source": {
+        "sourceName": "Hunt Restaurant — The Funny Lion Coron — venue website",
+        "sourceUrl": "https://www.thefunnylion.com/the-funny-lion-coron-compendium",
+        "dateChecked": "2026-10-22",
+        "status": "verified"
+      },
+      "limitation": "The public venue page offers this service when reviewed; no live table availability, closure guarantee or independent on-site check."
+    }
+  },
+  {
+    "placeId": "el-nido-sunmai-nacpan",
+    "primary": "other-food",
+    "venueType": "restaurant",
+    "suitability": [
+      "meal"
+    ],
+    "specialties": [
+      "pizza",
+      "Korean",
+      "Filipino",
+      "seafood"
+    ],
+    "source": {
+      "sourceName": "Sunmai Beach Bar and Restaurant — venue website",
+      "sourceUrl": "https://hhospitality.group/dining-lio",
+      "dateChecked": "2026-10-22",
+      "status": "verified"
+    },
+    "officialUrl": "https://hhospitality.group/dining-lio",
+    "operation": {
+      "basis": "venue-offering",
+      "source": {
+        "sourceName": "Sunmai Beach Bar and Restaurant — venue website",
+        "sourceUrl": "https://hhospitality.group/dining-lio",
+        "dateChecked": "2026-10-22",
+        "status": "verified"
+      },
+      "limitation": "The public venue page offers this service when reviewed; no live table availability, closure guarantee or independent on-site check."
+    }
+  },
+  {
+    "placeId": "el-nido-calima-piece-lio",
+    "primary": "other-food",
+    "venueType": "restaurant",
+    "suitability": [
+      "meal"
+    ],
+    "specialties": [
+      "Mediterranean"
+    ],
+    "source": {
+      "sourceName": "CALIMA Restaurant — Piece Lio — venue website",
+      "sourceUrl": "https://hhospitality.group/dining-lio",
+      "dateChecked": "2026-10-22",
+      "status": "verified"
+    },
+    "officialUrl": "https://hhospitality.group/dining-lio",
+    "operation": {
+      "basis": "venue-offering",
+      "source": {
+        "sourceName": "CALIMA Restaurant — Piece Lio — venue website",
+        "sourceUrl": "https://hhospitality.group/dining-lio",
+        "dateChecked": "2026-10-22",
+        "status": "verified"
+      },
+      "limitation": "The public venue page offers this service when reviewed; no live table availability, closure guarantee or independent on-site check."
+    }
+  },
+  {
+    "placeId": "el-nido-ocean-view-chinese",
+    "primary": "other-food",
+    "venueType": "restaurant",
+    "suitability": [
+      "meal"
+    ],
+    "specialties": [
+      "Chinese",
+      "seafood"
+    ],
+    "source": {
+      "sourceName": "Ocean View Chinese Restaurant — S Resort — venue website",
+      "sourceUrl": "https://hhospitality.group/dining-lio",
+      "dateChecked": "2026-10-22",
+      "status": "verified"
+    },
+    "officialUrl": "https://hhospitality.group/dining-lio",
+    "operation": {
+      "basis": "venue-offering",
+      "source": {
+        "sourceName": "Ocean View Chinese Restaurant — S Resort — venue website",
+        "sourceUrl": "https://hhospitality.group/dining-lio",
+        "dateChecked": "2026-10-22",
+        "status": "verified"
+      },
+      "limitation": "The public venue page offers this service when reviewed; no live table availability, closure guarantee or independent on-site check."
+    }
+  },
+  {
+    "placeId": "puerto-princesa-divines-robinsons",
+    "primary": "cafe",
+    "venueType": "bakery",
+    "suitability": [
+      "bakery"
+    ],
+    "specialties": [],
+    "source": {
+      "sourceName": "Puerto Princesa Tourism — March 2026 accredited restaurants",
+      "sourceUrl": "https://www.puertoprincesatourism.com/restaurants",
+      "dateChecked": "2026-10-22",
+      "status": "verified"
+    },
+    "officialUrl": "https://www.puertoprincesatourism.com/restaurants",
+    "operation": {
+      "basis": "2026-accreditation",
+      "source": {
+        "sourceName": "Puerto Princesa Tourism — March 2026 accredited restaurants",
+        "sourceUrl": "https://www.puertoprincesatourism.com/restaurants",
+        "dateChecked": "2026-10-22",
+        "status": "verified"
+      },
+      "limitation": "Tourism office lists this exact establishment as compliant on 30 March 2026. This is not a live opening or availability check."
+    }
+  },
+  {
+    "placeId": "puerto-princesa-jeju-island-cafe",
+    "primary": "cafe",
+    "venueType": "cafe",
+    "suitability": [],
+    "specialties": [],
+    "source": {
+      "sourceName": "Puerto Princesa Tourism — March 2026 accredited restaurants",
+      "sourceUrl": "https://www.puertoprincesatourism.com/restaurants",
+      "dateChecked": "2026-10-22",
+      "status": "verified"
+    },
+    "officialUrl": "https://www.puertoprincesatourism.com/restaurants",
+    "operation": {
+      "basis": "2026-accreditation",
+      "source": {
+        "sourceName": "Puerto Princesa Tourism — March 2026 accredited restaurants",
+        "sourceUrl": "https://www.puertoprincesatourism.com/restaurants",
+        "dateChecked": "2026-10-22",
+        "status": "verified"
+      },
+      "limitation": "Tourism office lists this exact establishment as compliant on 30 March 2026. This is not a live opening or availability check."
+    }
+  },
+  {
+    "placeId": "puerto-princesa-kofilab",
+    "primary": "cafe",
+    "venueType": "cafe",
+    "suitability": [],
+    "specialties": [],
+    "source": {
+      "sourceName": "Puerto Princesa Tourism — March 2026 accredited restaurants",
+      "sourceUrl": "https://www.puertoprincesatourism.com/restaurants",
+      "dateChecked": "2026-10-22",
+      "status": "verified"
+    },
+    "officialUrl": "https://www.puertoprincesatourism.com/restaurants",
+    "operation": {
+      "basis": "2026-accreditation",
+      "source": {
+        "sourceName": "Puerto Princesa Tourism — March 2026 accredited restaurants",
+        "sourceUrl": "https://www.puertoprincesatourism.com/restaurants",
+        "dateChecked": "2026-10-22",
+        "status": "verified"
+      },
+      "limitation": "Tourism office lists this exact establishment as compliant on 30 March 2026. This is not a live opening or availability check."
+    }
+  },
+  {
+    "placeId": "cebu-good-cup-ramos",
+    "primary": "cafe",
+    "venueType": "cafe",
+    "suitability": [
+      "coffee",
+      "bakery"
+    ],
+    "specialties": [
+      "coffee",
+      "matcha",
+      "pastries"
+    ],
+    "source": {
+      "sourceName": "Good Cup Café — F. Ramos — venue website",
+      "sourceUrl": "https://goodcup.ph/pages/cafe",
+      "dateChecked": "2026-10-22",
+      "status": "verified"
+    },
+    "officialUrl": "https://goodcup.ph/pages/cafe",
+    "operation": {
+      "basis": "venue-offering",
+      "source": {
+        "sourceName": "Good Cup Café — F. Ramos — venue website",
+        "sourceUrl": "https://goodcup.ph/pages/cafe",
+        "dateChecked": "2026-10-22",
+        "status": "verified"
+      },
+      "limitation": "The public venue page offers this service when reviewed; no live table availability, closure guarantee or independent on-site check."
+    }
+  },
+  {
+    "placeId": "cebu-house-of-lechon-acacia",
+    "primary": "other-food",
+    "venueType": "restaurant",
+    "suitability": [
+      "meal"
+    ],
+    "specialties": [
+      "Filipino",
+      "lechon"
+    ],
+    "source": {
+      "sourceName": "MICHELIN Guide — House of Lechon",
+      "sourceUrl": "https://guide.michelin.com/us/en/central-visayas/cebu-city_2340421/restaurant/house-of-lechon",
+      "dateChecked": "2026-10-22",
+      "status": "verified"
+    },
+    "officialUrl": null,
+    "operation": {
+      "basis": "current-guide",
+      "source": {
+        "sourceName": "MICHELIN Guide — House of Lechon",
+        "sourceUrl": "https://guide.michelin.com/us/en/central-visayas/cebu-city_2340421/restaurant/house-of-lechon",
+        "dateChecked": "2026-10-22",
+        "status": "verified"
+      },
+      "limitation": "The current restaurant guide lists this exact venue. This is evidence of a current listing, not a live opening, menu or reservation guarantee."
+    }
+  },
+  {
+    "placeId": "cebu-cafe-laguna-ayala",
+    "primary": "other-food",
+    "venueType": "restaurant",
+    "suitability": [
+      "meal"
+    ],
+    "specialties": [],
+    "source": {
+      "sourceName": "Café Laguna — Ayala Center Cebu — venue website",
+      "sourceUrl": "https://lagunagroup.ph/cafe-laguna/",
+      "dateChecked": "2026-10-22",
+      "status": "verified"
+    },
+    "officialUrl": "https://lagunagroup.ph/cafe-laguna/",
+    "operation": {
+      "basis": "venue-offering",
+      "source": {
+        "sourceName": "Café Laguna — Ayala Center Cebu — venue website",
+        "sourceUrl": "https://lagunagroup.ph/cafe-laguna/",
+        "dateChecked": "2026-10-22",
+        "status": "verified"
+      },
+      "limitation": "The public venue page offers this service when reviewed; no live table availability, closure guarantee or independent on-site check."
+    }
+  },
+  {
+    "placeId": "cebu-parilya-il-corso",
+    "primary": "other-food",
+    "venueType": "restaurant",
+    "suitability": [
+      "meal"
+    ],
+    "specialties": [],
+    "source": {
+      "sourceName": "Parilya — Il Corso — venue website",
+      "sourceUrl": "https://lagunagroup.ph/parilya/",
+      "dateChecked": "2026-10-22",
+      "status": "verified"
+    },
+    "officialUrl": "https://lagunagroup.ph/parilya/",
+    "operation": {
+      "basis": "venue-offering",
+      "source": {
+        "sourceName": "Parilya — Il Corso — venue website",
+        "sourceUrl": "https://lagunagroup.ph/parilya/",
+        "dateChecked": "2026-10-22",
+        "status": "verified"
+      },
+      "limitation": "The public venue page offers this service when reviewed; no live table availability, closure guarantee or independent on-site check."
+    }
+  },
+  {
+    "placeId": "cebu-lemon-grass-ayala",
+    "primary": "other-food",
+    "venueType": "restaurant",
+    "suitability": [
+      "meal"
+    ],
+    "specialties": [
+      "Thai",
+      "Vietnamese",
+      "pad thai",
+      "pho"
+    ],
+    "source": {
+      "sourceName": "Lemon Grass — Ayala Center Cebu — venue website",
+      "sourceUrl": "https://lagunagroup.ph/lemon-grass/",
+      "dateChecked": "2026-10-22",
+      "status": "verified"
+    },
+    "officialUrl": "https://lagunagroup.ph/lemon-grass/",
+    "operation": {
+      "basis": "venue-offering",
+      "source": {
+        "sourceName": "Lemon Grass — Ayala Center Cebu — venue website",
+        "sourceUrl": "https://lagunagroup.ph/lemon-grass/",
+        "dateChecked": "2026-10-22",
+        "status": "verified"
+      },
+      "limitation": "The public venue page offers this service when reviewed; no live table availability, closure guarantee or independent on-site check."
+    }
+  },
+  {
+    "placeId": "cebu-ullis-ayala",
+    "primary": "other-food",
+    "venueType": "restaurant",
+    "suitability": [
+      "meal"
+    ],
+    "specialties": [
+      "bibimbap",
+      "laksa",
+      "taho"
+    ],
+    "source": {
+      "sourceName": "Ulli’s Streets of Asia — Ayala — venue website",
+      "sourceUrl": "https://lagunagroup.ph/ullis-streets-of-asia/",
+      "dateChecked": "2026-10-22",
+      "status": "verified"
+    },
+    "officialUrl": "https://lagunagroup.ph/ullis-streets-of-asia/",
+    "operation": {
+      "basis": "venue-offering",
+      "source": {
+        "sourceName": "Ulli’s Streets of Asia — Ayala — venue website",
+        "sourceUrl": "https://lagunagroup.ph/ullis-streets-of-asia/",
+        "dateChecked": "2026-10-22",
+        "status": "verified"
+      },
+      "limitation": "The public venue page offers this service when reviewed; no live table availability, closure guarantee or independent on-site check."
+    }
+  },
+  {
+    "placeId": "cebu-u-kitchen-lahug",
+    "primary": "other-food",
+    "venueType": "restaurant",
+    "suitability": [
+      "meal"
+    ],
+    "specialties": [
+      "private dining",
+      "wood-fired cooking"
+    ],
+    "source": {
+      "sourceName": "U Kitchen — Lahug — venue website",
+      "sourceUrl": "https://lagunagroup.ph/u-kitchen/",
+      "dateChecked": "2026-10-22",
+      "status": "verified"
+    },
+    "officialUrl": "https://lagunagroup.ph/u-kitchen/",
+    "operation": {
+      "basis": "venue-offering",
+      "source": {
+        "sourceName": "U Kitchen — Lahug — venue website",
+        "sourceUrl": "https://lagunagroup.ph/u-kitchen/",
+        "dateChecked": "2026-10-22",
+        "status": "verified"
+      },
+      "limitation": "The public venue page offers this service when reviewed; no live table availability, closure guarantee or independent on-site check."
+    }
+  },
+  {
+    "placeId": "cebu-pares-pares-escario",
+    "primary": "other-food",
+    "venueType": "restaurant",
+    "suitability": [
+      "meal"
+    ],
+    "specialties": [
+      "beef pares",
+      "noodle soup"
+    ],
+    "source": {
+      "sourceName": "MICHELIN Guide — current venue review",
+      "sourceUrl": "https://guide.michelin.com/us/en/central-visayas/cebu-city_2340421/restaurant/pares-pares-n-escario-street",
+      "dateChecked": "2026-10-22",
+      "status": "verified"
+    },
+    "officialUrl": null,
+    "operation": {
+      "basis": "current-guide",
+      "source": {
+        "sourceName": "MICHELIN Guide — current venue review",
+        "sourceUrl": "https://guide.michelin.com/us/en/central-visayas/cebu-city_2340421/restaurant/pares-pares-n-escario-street",
+        "dateChecked": "2026-10-22",
+        "status": "verified"
+      },
+      "limitation": "The current restaurant guide lists this exact venue. This is evidence of a current listing, not a live opening, menu or reservation guarantee."
+    }
+  },
+  {
+    "placeId": "cebu-abli",
+    "primary": "other-food",
+    "venueType": "restaurant",
+    "suitability": [
+      "meal"
+    ],
+    "specialties": [
+      "Cebuano",
+      "Morta dessert",
+      "sandwiches"
+    ],
+    "source": {
+      "sourceName": "MICHELIN Guide — current venue review",
+      "sourceUrl": "https://guide.michelin.com/us/en/central-visayas/cebu-city_2340421/restaurant/abli",
+      "dateChecked": "2026-10-22",
+      "status": "verified"
+    },
+    "officialUrl": null,
+    "operation": {
+      "basis": "current-guide",
+      "source": {
+        "sourceName": "MICHELIN Guide — current venue review",
+        "sourceUrl": "https://guide.michelin.com/us/en/central-visayas/cebu-city_2340421/restaurant/abli",
+        "dateChecked": "2026-10-22",
+        "status": "verified"
+      },
+      "limitation": "The current restaurant guide lists this exact venue. This is evidence of a current listing, not a live opening, menu or reservation guarantee."
+    }
+  },
+  {
+    "placeId": "cebu-abaseria",
+    "primary": "cafe",
+    "venueType": "cafe",
+    "suitability": [
+      "coffee",
+      "meal",
+      "dessert"
+    ],
+    "specialties": [
+      "Filipino",
+      "humba",
+      "sinigang pasayan"
+    ],
+    "source": {
+      "sourceName": "MICHELIN Guide — current venue review",
+      "sourceUrl": "https://guide.michelin.com/us/en/central-visayas/cebu-city_2340421/restaurant/abaseria-deli-cafe",
+      "dateChecked": "2026-10-22",
+      "status": "verified"
+    },
+    "officialUrl": null,
+    "operation": {
+      "basis": "current-guide",
+      "source": {
+        "sourceName": "MICHELIN Guide — current venue review",
+        "sourceUrl": "https://guide.michelin.com/us/en/central-visayas/cebu-city_2340421/restaurant/abaseria-deli-cafe",
+        "dateChecked": "2026-10-22",
+        "status": "verified"
+      },
+      "limitation": "The current restaurant guide lists this exact venue. This is evidence of a current listing, not a live opening, menu or reservation guarantee."
+    }
+  },
+  {
+    "placeId": "cebu-ato-ah",
+    "primary": "other-food",
+    "venueType": "restaurant",
+    "suitability": [
+      "meal"
+    ],
+    "specialties": [
+      "Cebuano",
+      "chicken barbecue",
+      "pancit bisaya"
+    ],
+    "source": {
+      "sourceName": "MICHELIN Guide — current venue review",
+      "sourceUrl": "https://guide.michelin.com/us/en/central-visayas/cebu-city_2340421/restaurant/ato-ah",
+      "dateChecked": "2026-10-22",
+      "status": "verified"
+    },
+    "officialUrl": null,
+    "operation": {
+      "basis": "current-guide",
+      "source": {
+        "sourceName": "MICHELIN Guide — current venue review",
+        "sourceUrl": "https://guide.michelin.com/us/en/central-visayas/cebu-city_2340421/restaurant/ato-ah",
+        "dateChecked": "2026-10-22",
+        "status": "verified"
+      },
+      "limitation": "The current restaurant guide lists this exact venue. This is evidence of a current listing, not a live opening, menu or reservation guarantee."
+    }
+  },
+  {
+    "placeId": "cebu-lantaw-compostela",
+    "primary": "other-food",
+    "venueType": "restaurant",
+    "suitability": [
+      "meal"
+    ],
+    "specialties": [
+      "Filipino",
+      "chicken Bacolod"
+    ],
+    "source": {
+      "sourceName": "MICHELIN Guide — current venue review",
+      "sourceUrl": "https://guide.michelin.com/gb/en/central-visayas/cebu-city_2340421/restaurant/lantaw-compostela",
+      "dateChecked": "2026-10-22",
+      "status": "verified"
+    },
+    "officialUrl": null,
+    "operation": {
+      "basis": "current-guide",
+      "source": {
+        "sourceName": "MICHELIN Guide — current venue review",
+        "sourceUrl": "https://guide.michelin.com/gb/en/central-visayas/cebu-city_2340421/restaurant/lantaw-compostela",
+        "dateChecked": "2026-10-22",
+        "status": "verified"
+      },
+      "limitation": "The current restaurant guide lists this exact venue. This is evidence of a current listing, not a live opening, menu or reservation guarantee."
+    }
+  },
+  {
+    "placeId": "cebu-ricos-mandaue",
+    "primary": "other-food",
+    "venueType": "restaurant",
+    "suitability": [
+      "meal"
+    ],
+    "specialties": [
+      "Cebu lechon",
+      "roast pork"
+    ],
+    "source": {
+      "sourceName": "Rico’s Lechon — Mandaue — venue website",
+      "sourceUrl": "https://ricoslechon.com/",
+      "dateChecked": "2026-10-22",
+      "status": "verified"
+    },
+    "officialUrl": "https://ricoslechon.com/",
+    "operation": {
+      "basis": "venue-offering",
+      "source": {
+        "sourceName": "Rico’s Lechon — Mandaue — venue website",
+        "sourceUrl": "https://ricoslechon.com/",
+        "dateChecked": "2026-10-22",
+        "status": "verified"
+      },
+      "limitation": "The public venue page offers this service when reviewed; no live table availability, closure guarantee or independent on-site check."
+    }
+  },
+  {
+    "placeId": "cebu-punched-mabuhay",
+    "primary": "cafe",
+    "venueType": "cafe",
+    "suitability": [
+      "coffee"
+    ],
+    "specialties": [
+      "coffee"
+    ],
+    "source": {
+      "sourceName": "Punched Coffee — Mabuhay Tower — venue website",
+      "sourceUrl": "https://getpunched.com/locations",
+      "dateChecked": "2026-10-22",
+      "status": "verified"
+    },
+    "officialUrl": "https://getpunched.com/locations",
+    "operation": {
+      "basis": "venue-offering",
+      "source": {
+        "sourceName": "Punched Coffee — Mabuhay Tower — venue website",
+        "sourceUrl": "https://getpunched.com/locations",
+        "dateChecked": "2026-10-22",
+        "status": "verified"
+      },
+      "limitation": "The public venue page offers this service when reviewed; no live table availability, closure guarantee or independent on-site check."
+    }
+  },
+  {
+    "placeId": "manila-yardstick-esteban",
+    "primary": "cafe",
+    "venueType": "cafe",
+    "suitability": [
+      "coffee"
+    ],
+    "specialties": [
+      "specialty coffee",
+      "pour-over"
+    ],
+    "source": {
+      "sourceName": "Yardstick — Legazpi Village — venue website",
+      "sourceUrl": "https://store.yardstickcoffee.com/pages/cafe/",
+      "dateChecked": "2026-10-22",
+      "status": "verified"
+    },
+    "officialUrl": "https://store.yardstickcoffee.com/pages/cafe/",
+    "operation": {
+      "basis": "venue-offering",
+      "source": {
+        "sourceName": "Yardstick — Legazpi Village — venue website",
+        "sourceUrl": "https://store.yardstickcoffee.com/pages/cafe/",
+        "dateChecked": "2026-10-22",
+        "status": "verified"
+      },
+      "limitation": "The public venue page offers this service when reviewed; no live table availability, closure guarantee or independent on-site check."
+    }
+  },
+  {
+    "placeId": "manila-commune-poblacion",
+    "primary": "cafe",
+    "venueType": "cafe",
+    "suitability": [
+      "coffee",
+      "meal",
+      "breakfast"
+    ],
+    "specialties": [
+      "Philippine coffee",
+      "Filipino comfort food"
+    ],
+    "source": {
+      "sourceName": "Commune Café + Bar — venue website",
+      "sourceUrl": "https://commune.ph/",
+      "dateChecked": "2026-10-22",
+      "status": "verified"
+    },
+    "officialUrl": "https://commune.ph/",
+    "operation": {
+      "basis": "venue-offering",
+      "source": {
+        "sourceName": "Commune Café + Bar — venue website",
+        "sourceUrl": "https://commune.ph/",
+        "dateChecked": "2026-10-22",
+        "status": "verified"
+      },
+      "limitation": "The public venue page offers this service when reviewed; no live table availability, closure guarantee or independent on-site check."
+    }
+  },
+  {
+    "placeId": "manila-exchange-alley-molito",
+    "primary": "cafe",
+    "venueType": "cafe",
+    "suitability": [
+      "coffee",
+      "meal",
+      "breakfast"
+    ],
+    "specialties": [
+      "specialty coffee",
+      "brunch"
+    ],
+    "source": {
+      "sourceName": "Molito Lifestyle Center — Exchange Alley tenant page",
+      "sourceUrl": "https://molito.com.ph/food_beverages/exchange-alley-coffee-house/",
+      "dateChecked": "2026-10-22",
+      "status": "verified"
+    },
+    "officialUrl": "https://molito.com.ph/food_beverages/exchange-alley-coffee-house/",
+    "operation": {
+      "basis": "venue-offering",
+      "source": {
+        "sourceName": "Molito Lifestyle Center — Exchange Alley tenant page",
+        "sourceUrl": "https://molito.com.ph/food_beverages/exchange-alley-coffee-house/",
+        "dateChecked": "2026-10-22",
+        "status": "verified"
+      },
+      "limitation": "The public venue page offers this service when reviewed; no live table availability, closure guarantee or independent on-site check."
+    }
+  },
+  {
+    "placeId": "manila-group-boiler-molito",
+    "primary": "cafe",
+    "venueType": "cafe",
+    "suitability": [
+      "coffee",
+      "meal",
+      "dessert"
+    ],
+    "specialties": [
+      "coffee",
+      "tea",
+      "desserts"
+    ],
+    "source": {
+      "sourceName": "Molito Lifestyle Center — Group & Boiler tenant page",
+      "sourceUrl": "https://molito.com.ph/food_beverages/group-boiler/",
+      "dateChecked": "2026-10-22",
+      "status": "verified"
+    },
+    "officialUrl": "https://molito.com.ph/food_beverages/group-boiler/",
+    "operation": {
+      "basis": "venue-offering",
+      "source": {
+        "sourceName": "Molito Lifestyle Center — Group & Boiler tenant page",
+        "sourceUrl": "https://molito.com.ph/food_beverages/group-boiler/",
+        "dateChecked": "2026-10-22",
+        "status": "verified"
+      },
+      "limitation": "The public venue page offers this service when reviewed; no live table availability, closure guarantee or independent on-site check."
+    }
+  },
+  {
+    "placeId": "manila-type-a-nbs",
+    "primary": "cafe",
+    "venueType": "cafe",
+    "suitability": [
+      "coffee"
+    ],
+    "specialties": [
+      "cold brew"
+    ],
+    "source": {
+      "sourceName": "Top Gear Philippines — June 2026 Type A café visit",
+      "sourceUrl": "https://www.topgear.com.ph/features/feature-articles/type-a-coffee-run-2026-a962-20260603",
+      "dateChecked": "2026-10-22",
+      "status": "verified"
+    },
+    "officialUrl": null,
+    "operation": {
+      "basis": "venue-offering",
+      "source": {
+        "sourceName": "Top Gear Philippines — June 2026 Type A café visit",
+        "sourceUrl": "https://www.topgear.com.ph/features/feature-articles/type-a-coffee-run-2026-a962-20260603",
+        "dateChecked": "2026-10-22",
+        "status": "verified"
+      },
+      "limitation": "June 2026 on-site reporting supports this exact café; the brand website also dispatches orders through NBS Park. Confirm present service before travelling."
+    }
+  },
+  {
+    "placeId": "manila-the-den-escolta",
+    "primary": "cafe",
+    "venueType": "cafe",
+    "suitability": [
+      "coffee"
+    ],
+    "specialties": [
+      "coffee",
+      "contemporary culture"
+    ],
+    "source": {
+      "sourceName": "The Den — Escolta — venue website",
+      "sourceUrl": "https://thedenmanila.com/",
+      "dateChecked": "2026-10-22",
+      "status": "verified"
+    },
+    "officialUrl": "https://thedenmanila.com/",
+    "operation": {
+      "basis": "venue-offering",
+      "source": {
+        "sourceName": "The Den — Escolta — venue website",
+        "sourceUrl": "https://thedenmanila.com/",
+        "dateChecked": "2026-10-22",
+        "status": "verified"
+      },
+      "limitation": "The public venue page offers this service when reviewed; no live table availability, closure guarantee or independent on-site check."
+    }
+  },
+  {
+    "placeId": "manila-saigon-coffee-arca",
+    "primary": "cafe",
+    "venueType": "cafe",
+    "suitability": [
+      "coffee"
+    ],
+    "specialties": [
+      "Vietnamese coffee"
+    ],
+    "source": {
+      "sourceName": "Saigon Coffee — Arca South — venue website",
+      "sourceUrl": "https://saigoncoffee.ph/",
+      "dateChecked": "2026-10-22",
+      "status": "verified"
+    },
+    "officialUrl": "https://saigoncoffee.ph/",
+    "operation": {
+      "basis": "venue-offering",
+      "source": {
+        "sourceName": "Saigon Coffee — Arca South — venue website",
+        "sourceUrl": "https://saigoncoffee.ph/",
+        "dateChecked": "2026-10-22",
+        "status": "verified"
+      },
+      "limitation": "The public venue page offers this service when reviewed; no live table availability, closure guarantee or independent on-site check."
+    }
+  },
+  {
+    "placeId": "manila-toyo-eatery",
+    "primary": "other-food",
+    "venueType": "restaurant",
+    "suitability": [
+      "meal"
+    ],
+    "specialties": [
+      "Filipino",
+      "tasting menu"
+    ],
+    "source": {
+      "sourceName": "Toyo Eatery — official TableCheck reservation page",
+      "sourceUrl": "https://www.tablecheck.com/tl/toyoeatery/reserve/landing",
+      "dateChecked": "2026-10-22",
+      "status": "verified"
+    },
+    "officialUrl": "https://www.tablecheck.com/tl/toyoeatery/reserve/landing",
+    "operation": {
+      "basis": "venue-offering",
+      "source": {
+        "sourceName": "Toyo Eatery — official TableCheck reservation page",
+        "sourceUrl": "https://www.tablecheck.com/tl/toyoeatery/reserve/landing",
+        "dateChecked": "2026-10-22",
+        "status": "verified"
+      },
+      "limitation": "The public venue page offers this service when reviewed; no live table availability, closure guarantee or independent on-site check."
+    }
+  },
+  {
+    "placeId": "manila-gallery-by-chele",
+    "primary": "other-food",
+    "venueType": "restaurant",
+    "suitability": [
+      "meal"
+    ],
+    "specialties": [
+      "tasting menu",
+      "Philippine ingredients"
+    ],
+    "source": {
+      "sourceName": "Gallery by Chele — venue website",
+      "sourceUrl": "https://gallerybychele.com/about-us/",
+      "dateChecked": "2026-10-22",
+      "status": "verified"
+    },
+    "officialUrl": "https://gallerybychele.com/about-us/",
+    "operation": {
+      "basis": "venue-offering",
+      "source": {
+        "sourceName": "Gallery by Chele — venue website",
+        "sourceUrl": "https://gallerybychele.com/about-us/",
+        "dateChecked": "2026-10-22",
+        "status": "verified"
+      },
+      "limitation": "The public venue page offers this service when reviewed; no live table availability, closure guarantee or independent on-site check."
+    }
+  },
+  {
+    "placeId": "manila-your-local",
+    "primary": "other-food",
+    "venueType": "restaurant",
+    "suitability": [
+      "meal"
+    ],
+    "specialties": [
+      "Asian contemporary",
+      "sharing plates"
+    ],
+    "source": {
+      "sourceName": "MICHELIN Guide — current venue review",
+      "sourceUrl": "https://guide.michelin.com/en/metro-manila/makati-city_2329358/restaurant/your-local",
+      "dateChecked": "2026-10-22",
+      "status": "verified"
+    },
+    "officialUrl": null,
+    "operation": {
+      "basis": "current-guide",
+      "source": {
+        "sourceName": "MICHELIN Guide — current venue review",
+        "sourceUrl": "https://guide.michelin.com/en/metro-manila/makati-city_2329358/restaurant/your-local",
+        "dateChecked": "2026-10-22",
+        "status": "verified"
+      },
+      "limitation": "The current restaurant guide lists this exact venue. This is evidence of a current listing, not a live opening, menu or reservation guarantee."
+    }
+  },
+  {
+    "placeId": "manila-sarsa-rada",
+    "primary": "other-food",
+    "venueType": "restaurant",
+    "suitability": [
+      "meal"
+    ],
+    "specialties": [
+      "Filipino",
+      "kinilaw",
+      "lechon manok"
+    ],
+    "source": {
+      "sourceName": "MICHELIN Guide — current venue review",
+      "sourceUrl": "https://guide.michelin.com/ph/en/metro-manila/makati-city_2329358/restaurant/sarsa",
+      "dateChecked": "2026-10-22",
+      "status": "verified"
+    },
+    "officialUrl": null,
+    "operation": {
+      "basis": "current-guide",
+      "source": {
+        "sourceName": "MICHELIN Guide — current venue review",
+        "sourceUrl": "https://guide.michelin.com/ph/en/metro-manila/makati-city_2329358/restaurant/sarsa",
+        "dateChecked": "2026-10-22",
+        "status": "verified"
+      },
+      "limitation": "The current restaurant guide lists this exact venue. This is evidence of a current listing, not a live opening, menu or reservation guarantee."
+    }
+  },
+  {
+    "placeId": "manila-metiz-karrivin",
+    "primary": "other-food",
+    "venueType": "restaurant",
+    "suitability": [
+      "meal"
+    ],
+    "specialties": [
+      "Filipino",
+      "fermentation"
+    ],
+    "source": {
+      "sourceName": "MICHELIN Guide — current venue review",
+      "sourceUrl": "https://guide.michelin.com/ph/en/metro-manila/makati-city_2329358/restaurant/metiz",
+      "dateChecked": "2026-10-22",
+      "status": "verified"
+    },
+    "officialUrl": null,
+    "operation": {
+      "basis": "current-guide",
+      "source": {
+        "sourceName": "MICHELIN Guide — current venue review",
+        "sourceUrl": "https://guide.michelin.com/ph/en/metro-manila/makati-city_2329358/restaurant/metiz",
+        "dateChecked": "2026-10-22",
+        "status": "verified"
+      },
+      "limitation": "The current restaurant guide lists this exact venue. This is evidence of a current listing, not a live opening, menu or reservation guarantee."
+    }
+  },
+  {
+    "placeId": "manila-cirkulo",
+    "primary": "other-food",
+    "venueType": "restaurant",
+    "suitability": [
+      "meal"
+    ],
+    "specialties": [
+      "Spanish",
+      "tapas",
+      "paella"
+    ],
+    "source": {
+      "sourceName": "MICHELIN Guide — current venue review",
+      "sourceUrl": "https://guide.michelin.com/gb/en/metro-manila/makati-city_2329358/restaurant/cirkulo",
+      "dateChecked": "2026-10-22",
+      "status": "verified"
+    },
+    "officialUrl": null,
+    "operation": {
+      "basis": "current-guide",
+      "source": {
+        "sourceName": "MICHELIN Guide — current venue review",
+        "sourceUrl": "https://guide.michelin.com/gb/en/metro-manila/makati-city_2329358/restaurant/cirkulo",
+        "dateChecked": "2026-10-22",
+        "status": "verified"
+      },
+      "limitation": "The current restaurant guide lists this exact venue. This is evidence of a current listing, not a live opening, menu or reservation guarantee."
+    }
+  },
+  {
+    "placeId": "manila-la-pita-poblacion",
+    "primary": "other-food",
+    "venueType": "restaurant",
+    "suitability": [
+      "meal"
+    ],
+    "specialties": [
+      "Middle Eastern",
+      "pita",
+      "muhammara"
+    ],
+    "source": {
+      "sourceName": "MICHELIN Guide — current venue review",
+      "sourceUrl": "https://guide.michelin.com/sa/en/metro-manila/makati-city_2329358/restaurant/la-pita-poblacion",
+      "dateChecked": "2026-10-22",
+      "status": "verified"
+    },
+    "officialUrl": null,
+    "operation": {
+      "basis": "current-guide",
+      "source": {
+        "sourceName": "MICHELIN Guide — current venue review",
+        "sourceUrl": "https://guide.michelin.com/sa/en/metro-manila/makati-city_2329358/restaurant/la-pita-poblacion",
+        "dateChecked": "2026-10-22",
+        "status": "verified"
+      },
+      "limitation": "The current restaurant guide lists this exact venue. This is evidence of a current listing, not a live opening, menu or reservation guarantee."
+    }
+  },
+  {
+    "placeId": "manila-morning-sun-project-four",
+    "primary": "other-food",
+    "venueType": "restaurant",
+    "suitability": [
+      "meal"
+    ],
+    "specialties": [
+      "Ilocano",
+      "turo-turo",
+      "pinakbet",
+      "laing"
+    ],
+    "source": {
+      "sourceName": "MICHELIN Guide — current venue review",
+      "sourceUrl": "https://guide.michelin.com/gb/en/metro-manila/quenzon-city_2323700/restaurant/morning-sun-eatery",
+      "dateChecked": "2026-10-22",
+      "status": "verified"
+    },
+    "officialUrl": null,
+    "operation": {
+      "basis": "current-guide",
+      "source": {
+        "sourceName": "MICHELIN Guide — current venue review",
+        "sourceUrl": "https://guide.michelin.com/gb/en/metro-manila/quenzon-city_2323700/restaurant/morning-sun-eatery",
+        "dateChecked": "2026-10-22",
+        "status": "verified"
+      },
+      "limitation": "The current restaurant guide lists this exact venue. This is evidence of a current listing, not a live opening, menu or reservation guarantee."
+    }
+  },
+  {
+    "placeId": "manila-el-poco-malate",
+    "primary": "other-food",
+    "venueType": "restaurant",
+    "suitability": [
+      "meal"
+    ],
+    "specialties": [
+      "Mexican",
+      "tacos",
+      "horchata"
+    ],
+    "source": {
+      "sourceName": "MICHELIN Guide — current venue review",
+      "sourceUrl": "https://guide.michelin.com/ph/en/metro-manila/manila_2329836/restaurant/el-poco-cantina-malate",
+      "dateChecked": "2026-10-22",
+      "status": "verified"
+    },
+    "officialUrl": null,
+    "operation": {
+      "basis": "current-guide",
+      "source": {
+        "sourceName": "MICHELIN Guide — current venue review",
+        "sourceUrl": "https://guide.michelin.com/ph/en/metro-manila/manila_2329836/restaurant/el-poco-cantina-malate",
+        "dateChecked": "2026-10-22",
+        "status": "verified"
+      },
+      "limitation": "The current restaurant guide lists this exact venue. This is evidence of a current listing, not a live opening, menu or reservation guarantee."
+    }
+  },
+  {
+    "placeId": "manila-rodics-maginhawa",
+    "primary": "other-food",
+    "venueType": "restaurant",
+    "suitability": [
+      "meal",
+      "breakfast"
+    ],
+    "specialties": [
+      "tapsilog",
+      "shredded tapa"
+    ],
+    "source": {
+      "sourceName": "MICHELIN Guide — 2 Days in Manila, January 2026",
+      "sourceUrl": "https://guide.michelin.com/ph/en/article/travel/2-days-in-manila",
+      "dateChecked": "2026-10-22",
+      "status": "verified"
+    },
+    "officialUrl": null,
+    "operation": {
+      "basis": "current-guide",
+      "source": {
+        "sourceName": "MICHELIN Guide — 2 Days in Manila, January 2026",
+        "sourceUrl": "https://guide.michelin.com/ph/en/article/travel/2-days-in-manila",
+        "dateChecked": "2026-10-22",
+        "status": "verified"
+      },
+      "limitation": "The current restaurant guide lists this exact venue. This is evidence of a current listing, not a live opening, menu or reservation guarantee."
+    }
+  },
+  {
+    "placeId": "siargao-spotted-pig-catangnan",
+    "primary": "cafe",
+    "venueType": "cafe",
+    "suitability": [
+      "coffee",
+      "meal",
+      "breakfast",
+      "bakery"
+    ],
+    "specialties": [
+      "specialty coffee",
+      "brunch",
+      "pastries"
+    ],
+    "source": {
+      "sourceName": "Spotted Pig Cafe — Catangnan — venue website",
+      "sourceUrl": "https://laspalmassiargao.com/spotted-pig-cafe/",
+      "dateChecked": "2026-10-22",
+      "status": "verified"
+    },
+    "officialUrl": "https://laspalmassiargao.com/spotted-pig-cafe/",
+    "operation": {
+      "basis": "venue-offering",
+      "source": {
+        "sourceName": "Spotted Pig Cafe — Catangnan — venue website",
+        "sourceUrl": "https://laspalmassiargao.com/spotted-pig-cafe/",
+        "dateChecked": "2026-10-22",
+        "status": "verified"
+      },
+      "limitation": "The public venue page offers this service when reviewed; no live table availability, closure guarantee or independent on-site check."
+    }
+  },
+  {
+    "placeId": "siargao-weekend-cafe",
+    "primary": "cafe",
+    "venueType": "cafe",
+    "suitability": [
+      "coffee",
+      "meal",
+      "breakfast"
+    ],
+    "specialties": [
+      "ube-cheese latte",
+      "Filipino brunch"
+    ],
+    "source": {
+      "sourceName": "/Week·End/ Cafe — venue website",
+      "sourceUrl": "https://www.weekendsiargao.com/",
+      "dateChecked": "2026-10-22",
+      "status": "verified"
+    },
+    "officialUrl": "https://www.weekendsiargao.com/",
+    "operation": {
+      "basis": "venue-offering",
+      "source": {
+        "sourceName": "/Week·End/ Cafe — venue website",
+        "sourceUrl": "https://www.weekendsiargao.com/",
+        "dateChecked": "2026-10-22",
+        "status": "verified"
+      },
+      "limitation": "The public venue page offers this service when reviewed; no live table availability, closure guarantee or independent on-site check."
+    }
+  },
+  {
+    "placeId": "siargao-sinag-snack-bar",
+    "primary": "cafe",
+    "venueType": "cafe",
+    "suitability": [
+      "coffee",
+      "meal",
+      "breakfast"
+    ],
+    "specialties": [
+      "breakfast",
+      "coffee"
+    ],
+    "source": {
+      "sourceName": "Sinag Snack Bar — venue website",
+      "sourceUrl": "https://sinagsiargao.com/",
+      "dateChecked": "2026-10-22",
+      "status": "verified"
+    },
+    "officialUrl": "https://sinagsiargao.com/",
+    "operation": {
+      "basis": "venue-offering",
+      "source": {
+        "sourceName": "Sinag Snack Bar — venue website",
+        "sourceUrl": "https://sinagsiargao.com/",
+        "dateChecked": "2026-10-22",
+        "status": "verified"
+      },
+      "limitation": "The public venue page offers this service when reviewed; no live table availability, closure guarantee or independent on-site check."
+    }
+  },
+  {
+    "placeId": "siargao-saint-thomas",
+    "primary": "cafe",
+    "venueType": "cafe",
+    "suitability": [
+      "coffee"
+    ],
+    "specialties": [
+      "coffee"
+    ],
+    "source": {
+      "sourceName": "Fin & Fin team — July 2026 General Luna food guide",
+      "sourceUrl": "https://finandfin.com/siargao-food-guide",
+      "dateChecked": "2026-10-22",
+      "status": "verified"
+    },
+    "officialUrl": null,
+    "operation": {
+      "basis": "recent-report",
+      "source": {
+        "sourceName": "Fin & Fin team — July 2026 General Luna food guide",
+        "sourceUrl": "https://finandfin.com/siargao-food-guide",
+        "dateChecked": "2026-10-22",
+        "status": "verified"
+      },
+      "limitation": "Dated visitor or local reporting supports this venue. Current opening, menu availability and access still need direct confirmation."
+    }
+  },
+  {
+    "placeId": "siargao-sunset-coffee",
+    "primary": "cafe",
+    "venueType": "cafe",
+    "suitability": [
+      "coffee",
+      "bakery"
+    ],
+    "specialties": [
+      "espresso",
+      "pastries"
+    ],
+    "source": {
+      "sourceName": "Fin & Fin team — July 2026 General Luna food guide",
+      "sourceUrl": "https://finandfin.com/siargao-food-guide",
+      "dateChecked": "2026-10-22",
+      "status": "verified"
+    },
+    "officialUrl": null,
+    "operation": {
+      "basis": "recent-report",
+      "source": {
+        "sourceName": "Fin & Fin team — July 2026 General Luna food guide",
+        "sourceUrl": "https://finandfin.com/siargao-food-guide",
+        "dateChecked": "2026-10-22",
+        "status": "verified"
+      },
+      "limitation": "Dated visitor or local reporting supports this venue. Current opening, menu availability and access still need direct confirmation."
+    }
+  },
+  {
+    "placeId": "siargao-fin-fin",
+    "primary": "other-food",
+    "venueType": "restaurant",
+    "suitability": [
+      "meal"
+    ],
+    "specialties": [
+      "seafood",
+      "tuna smash burger"
+    ],
+    "source": {
+      "sourceName": "Fin & Fin Beach Shack — venue website",
+      "sourceUrl": "https://finandfin.com/",
+      "dateChecked": "2026-10-22",
+      "status": "verified"
+    },
+    "officialUrl": "https://finandfin.com/",
+    "operation": {
+      "basis": "venue-offering",
+      "source": {
+        "sourceName": "Fin & Fin Beach Shack — venue website",
+        "sourceUrl": "https://finandfin.com/",
+        "dateChecked": "2026-10-22",
+        "status": "verified"
+      },
+      "limitation": "The public venue page offers this service when reviewed; no live table availability, closure guarantee or independent on-site check."
+    }
+  },
+  {
+    "placeId": "bohol-overgrown-panglao",
+    "primary": "cafe",
+    "venueType": "cafe",
+    "suitability": [
+      "coffee",
+      "meal",
+      "breakfast"
+    ],
+    "specialties": [
+      "latte",
+      "smoothie bowls",
+      "sandwiches"
+    ],
+    "source": {
+      "sourceName": "Proprietary — January 2026 Overgrown visit",
+      "sourceUrl": "https://proprietary.tistory.com/975",
+      "dateChecked": "2026-10-22",
+      "status": "verified"
+    },
+    "officialUrl": null,
+    "operation": {
+      "basis": "recent-report",
+      "source": {
+        "sourceName": "Trip.com — July 2026 dated visitor reports",
+        "sourceUrl": "https://us.trip.com/restaurant/philippines/panglao-municipality/detail/overgrown-caf-148835995/",
+        "dateChecked": "2026-10-22",
+        "status": "verified"
+      },
+      "limitation": "Dated visitor or local reporting supports this venue. Current opening, menu availability and access still need direct confirmation."
+    }
+  },
+  {
+    "placeId": "bohol-mosia-cafe",
+    "primary": "cafe",
+    "venueType": "cafe",
+    "suitability": [
+      "coffee",
+      "dessert"
+    ],
+    "specialties": [
+      "artisan desserts"
+    ],
+    "source": {
+      "sourceName": "Philippine Primer — Mosia venue profile",
+      "sourceUrl": "https://primer.com.ph/food/restaurant-type/bakery-and-sweets/mosia-cafe/",
+      "dateChecked": "2026-10-22",
+      "status": "verified"
+    },
+    "officialUrl": null,
+    "operation": {
+      "basis": "recent-report",
+      "source": {
+        "sourceName": "Restaurant Guru — recent dated Mosia visitor reports",
+        "sourceUrl": "https://restaurantguru.com/Mosia-Cupcakes-and-Cookie-Shop-Tagbilaran-City",
+        "dateChecked": "2026-10-22",
+        "status": "verified"
+      },
+      "limitation": "Identity and dessert offering retained from the venue profile; 2026 visitor reports provide separate operation evidence. No live opening check or exact current dessert menu."
+    }
+  },
+  {
+    "placeId": "bohol-slotide-danao",
+    "primary": "cafe",
+    "venueType": "cafe",
+    "suitability": [
+      "coffee",
+      "meal",
+      "breakfast",
+      "dessert"
+    ],
+    "specialties": [
+      "coffee",
+      "brunch",
+      "desserts"
+    ],
+    "source": {
+      "sourceName": "Slotide business posts — accessible public mirror, April 2026",
+      "sourceUrl": "https://www.findglocal.com/PH/Panglao/677674168759391/slotide-coffee-club",
+      "dateChecked": "2026-10-22",
+      "status": "verified"
+    },
+    "officialUrl": null,
+    "operation": {
+      "basis": "recent-report",
+      "source": {
+        "sourceName": "Slotide business posts — accessible public mirror, April 2026",
+        "sourceUrl": "https://www.findglocal.com/PH/Panglao/677674168759391/slotide-coffee-club",
+        "dateChecked": "2026-10-22",
+        "status": "verified"
+      },
+      "limitation": "Dated visitor or local reporting supports this venue. Current opening, menu availability and access still need direct confirmation."
+    }
+  },
+  {
+    "placeId": "bohol-smoque-bistro",
+    "primary": "other-food",
+    "venueType": "restaurant",
+    "suitability": [
+      "meal"
+    ],
+    "specialties": [
+      "smoked meats",
+      "spare ribs",
+      "cakes"
+    ],
+    "source": {
+      "sourceName": "Zoy to the World — June 2026 Smoque visit",
+      "sourceUrl": "https://www.zoytotheworld.com/blog/bohol-food-trip-smoque-bistro-cafe-and-bar",
+      "dateChecked": "2026-10-22",
+      "status": "verified"
+    },
+    "officialUrl": null,
+    "operation": {
+      "basis": "recent-report",
+      "source": {
+        "sourceName": "Zoy to the World — June 2026 Smoque visit",
+        "sourceUrl": "https://www.zoytotheworld.com/blog/bohol-food-trip-smoque-bistro-cafe-and-bar",
+        "dateChecked": "2026-10-22",
+        "status": "verified"
+      },
+      "limitation": "Dated visitor or local reporting supports this venue. Current opening, menu availability and access still need direct confirmation."
+    }
+  },
+  {
+    "placeId": "bohol-mist-danao",
+    "primary": "other-food",
+    "venueType": "restaurant",
+    "suitability": [
+      "meal"
+    ],
+    "specialties": [
+      "dining"
+    ],
+    "source": {
+      "sourceName": "MIST business posts — accessible public mirror, July 2026",
+      "sourceUrl": "https://www.findglocal.com/PH/Panglao/111216513963698/MIST",
+      "dateChecked": "2026-10-22",
+      "status": "verified"
+    },
+    "officialUrl": null,
+    "operation": {
+      "basis": "recent-report",
+      "source": {
+        "sourceName": "MIST business posts — accessible public mirror, July 2026",
+        "sourceUrl": "https://www.findglocal.com/PH/Panglao/111216513963698/MIST",
+        "dateChecked": "2026-10-22",
+        "status": "verified"
+      },
+      "limitation": "Dated visitor or local reporting supports this venue. Current opening, menu availability and access still need direct confirmation."
+    }
+  },
+  {
+    "placeId": "bohol-tomar-amorita",
+    "primary": "other-food",
+    "venueType": "restaurant",
+    "suitability": [
+      "meal"
+    ],
+    "specialties": [
+      "Spanish",
+      "tapas",
+      "seafood paella"
+    ],
+    "source": {
+      "sourceName": "Tomar Tapas x Bar — Amorita — venue website",
+      "sourceUrl": "https://www.amoritaresort.com/tomar-menu",
+      "dateChecked": "2026-10-22",
+      "status": "verified"
+    },
+    "officialUrl": "https://www.amoritaresort.com/tomar-menu",
+    "operation": {
+      "basis": "venue-offering",
+      "source": {
+        "sourceName": "Tomar Tapas x Bar — Amorita — venue website",
+        "sourceUrl": "https://www.amoritaresort.com/tomar-menu",
+        "dateChecked": "2026-10-22",
+        "status": "verified"
+      },
+      "limitation": "The public venue page offers this service when reviewed; no live table availability, closure guarantee or independent on-site check."
+    }
+  },
+  {
+    "placeId": "baguio-rebel-irisan",
+    "primary": "cafe",
+    "venueType": "bakery",
+    "suitability": [
+      "coffee",
+      "bakery"
+    ],
+    "specialties": [
+      "croissants",
+      "pain au chocolat"
+    ],
+    "source": {
+      "sourceName": "Simpol — August 2026 Irisan flagship visit",
+      "sourceUrl": "https://www.simpol.ph/at-rebel-bakehouse-baguios-best-pastries-come-with-a-sense-of-place/",
+      "dateChecked": "2026-10-22",
+      "status": "verified"
+    },
+    "officialUrl": null,
+    "operation": {
+      "basis": "recent-report",
+      "source": {
+        "sourceName": "Simpol — August 2026 Irisan flagship visit",
+        "sourceUrl": "https://www.simpol.ph/at-rebel-bakehouse-baguios-best-pastries-come-with-a-sense-of-place/",
+        "dateChecked": "2026-10-22",
+        "status": "verified"
+      },
+      "limitation": "Dated visitor or local reporting supports this venue. Current opening, menu availability and access still need direct confirmation."
+    }
+  },
+  {
+    "placeId": "baguio-hatch-easter",
+    "primary": "cafe",
+    "venueType": "cafe",
+    "suitability": [
+      "coffee",
+      "meal"
+    ],
+    "specialties": [
+      "coffee",
+      "comfort food"
+    ],
+    "source": {
+      "sourceName": "Simpol — August 2026 Hatch café reporting",
+      "sourceUrl": "https://www.simpol.ph/the-baguio-cafe-where-coffee-and-memories-take-root/",
+      "dateChecked": "2026-10-22",
+      "status": "verified"
+    },
+    "officialUrl": null,
+    "operation": {
+      "basis": "recent-report",
+      "source": {
+        "sourceName": "Simpol — August 2026 Hatch café reporting",
+        "sourceUrl": "https://www.simpol.ph/the-baguio-cafe-where-coffee-and-memories-take-root/",
+        "dateChecked": "2026-10-22",
+        "status": "verified"
+      },
+      "limitation": "Dated visitor or local reporting supports this venue. Current opening, menu availability and access still need direct confirmation."
+    }
+  },
+  {
+    "placeId": "baguio-foam-legarda",
+    "primary": "cafe",
+    "venueType": "cafe",
+    "suitability": [
+      "coffee",
+      "meal",
+      "bakery",
+      "breakfast"
+    ],
+    "specialties": [
+      "coffee",
+      "pastries",
+      "Asian fusion"
+    ],
+    "source": {
+      "sourceName": "Foam Coffee — Legarda — venue website",
+      "sourceUrl": "https://www.foamcoffeeph.com/",
+      "dateChecked": "2026-10-22",
+      "status": "verified"
+    },
+    "officialUrl": "https://www.foamcoffeeph.com/",
+    "operation": {
+      "basis": "venue-offering",
+      "source": {
+        "sourceName": "Foam Coffee — Legarda — venue website",
+        "sourceUrl": "https://www.foamcoffeeph.com/",
+        "dateChecked": "2026-10-22",
+        "status": "verified"
+      },
+      "limitation": "The public venue page offers this service when reviewed; no live table availability, closure guarantee or independent on-site check."
+    }
+  },
+  {
+    "placeId": "baguio-hot-cat-yangco",
+    "primary": "cafe",
+    "venueType": "cafe",
+    "suitability": [
+      "coffee"
+    ],
+    "specialties": [
+      "coffee"
+    ],
+    "source": {
+      "sourceName": "Philippine Information Agency — February 2026 Hot Cat staff and visitor interviews",
+      "sourceUrl": "https://pia.gov.ph/news/hot-cat-cafe-silungan-ng-mga-pusang-gala/",
+      "dateChecked": "2026-10-22",
+      "status": "verified"
+    },
+    "officialUrl": null,
+    "operation": {
+      "basis": "recent-report",
+      "source": {
+        "sourceName": "Philippine Information Agency — February 2026 Hot Cat staff and visitor interviews",
+        "sourceUrl": "https://pia.gov.ph/news/hot-cat-cafe-silungan-ng-mga-pusang-gala/",
+        "dateChecked": "2026-10-22",
+        "status": "verified"
+      },
+      "limitation": "February 2026 staff and visitor interviews establish the named Yangco Road café. No current meal menu, entrance pin or opening hours were established; manual scheduling pending confirmation."
+    }
+  },
+  {
+    "placeId": "baguio-cafe-by-ruins",
+    "primary": "cafe",
+    "venueType": "cafe",
+    "suitability": [
+      "coffee",
+      "meal",
+      "bakery",
+      "dessert"
+    ],
+    "specialties": [
+      "ensaymada",
+      "Rizal chocolate",
+      "regional ingredients"
+    ],
+    "source": {
+      "sourceName": "Café by the Ruins business posts — September 2026 public mirror",
+      "sourceUrl": "https://www.findglocal.com/PH/Baguio-City/38813861009/Cafe-By-The-Ruins",
+      "dateChecked": "2026-10-22",
+      "status": "verified"
+    },
+    "officialUrl": null,
+    "operation": {
+      "basis": "recent-report",
+      "source": {
+        "sourceName": "Café by the Ruins business posts — September 2026 public mirror",
+        "sourceUrl": "https://www.findglocal.com/PH/Baguio-City/38813861009/Cafe-By-The-Ruins",
+        "dateChecked": "2026-10-22",
+        "status": "verified"
+      },
+      "limitation": "Dated visitor or local reporting supports this venue. Current opening, menu availability and access still need direct confirmation."
+    }
+  },
+  {
+    "placeId": "batanes-cafe-du-tukon",
+    "primary": "cafe",
+    "venueType": "cafe",
+    "suitability": [
+      "meal"
+    ],
+    "specialties": [
+      "Ivatan",
+      "seasonal produce"
+    ],
+    "source": {
+      "sourceName": "Café du Tukon — venue website",
+      "sourceUrl": "https://fundacionpacita.com/cafe.html",
+      "dateChecked": "2026-10-22",
+      "status": "verified"
+    },
+    "officialUrl": "https://fundacionpacita.com/cafe.html",
+    "operation": {
+      "basis": "current-guide",
+      "source": {
+        "sourceName": "DOT Region 2 — accreditation register, validity through August 2027",
+        "sourceUrl": "https://sites.google.com/view/dotregion2accreditedtourisment/secondary-tourism-enterprises/restaurant",
+        "dateChecked": "2026-10-22",
+        "status": "verified"
+      },
+      "limitation": "Venue offering and DOT accreditation register reviewed. Accreditation is not proof of present table availability, hours or visitor access."
+    }
+  },
+  {
+    "placeId": "batanes-bunkers-bistro",
+    "primary": "other-food",
+    "venueType": "restaurant",
+    "suitability": [
+      "meal"
+    ],
+    "specialties": [],
+    "source": {
+      "sourceName": "DOT Region 2 — restaurant accreditation register",
+      "sourceUrl": "https://sites.google.com/view/dotregion2accreditedtourisment/secondary-tourism-enterprises/restaurant",
+      "dateChecked": "2026-10-22",
+      "status": "verified"
+    },
+    "officialUrl": null,
+    "operation": {
+      "basis": "current-guide",
+      "source": {
+        "sourceName": "DOT Region 2 — restaurant accreditation register",
+        "sourceUrl": "https://sites.google.com/view/dotregion2accreditedtourisment/secondary-tourism-enterprises/restaurant",
+        "dateChecked": "2026-10-22",
+        "status": "verified"
+      },
+      "limitation": "DOT lists Basco identity and accreditation validity through 29 January 2027. Accreditation does not establish current opening, menu, table availability or a precise entrance."
+    }
+  },
+  {
+    "placeId": "sagada-yoghurt-house",
+    "primary": "other-food",
+    "venueType": "restaurant",
+    "suitability": [
+      "meal",
+      "dessert"
+    ],
+    "specialties": [
+      "yogurt"
+    ],
+    "source": {
+      "sourceName": "No Juan Is An Island — June 2026 Sagada return visit",
+      "sourceUrl": "https://nojuanisanisland.com/2026/06/02/an-ode-to-nostalgia-why-simply-showing-up-in-sagada-was-a-big-win/",
+      "dateChecked": "2026-10-22",
+      "status": "verified"
+    },
+    "officialUrl": null,
+    "operation": {
+      "basis": "recent-report",
+      "source": {
+        "sourceName": "No Juan Is An Island — June 2026 Sagada return visit",
+        "sourceUrl": "https://nojuanisanisland.com/2026/06/02/an-ode-to-nostalgia-why-simply-showing-up-in-sagada-was-a-big-win/",
+        "dateChecked": "2026-10-22",
+        "status": "verified"
+      },
+      "limitation": "Dated visitor or local reporting supports this venue. Current opening, menu availability and access still need direct confirmation."
+    }
+  },
+  {
+    "placeId": "sagada-cafe-bodega-rock-inn",
+    "primary": "cafe",
+    "venueType": "cafe",
+    "suitability": [
+      "meal",
+      "breakfast"
+    ],
+    "specialties": [
+      "all-day breakfast"
+    ],
+    "source": {
+      "sourceName": "No Juan Is An Island — June 2026 Café Bodega visit",
+      "sourceUrl": "https://nojuanisanisland.com/2026/06/02/an-ode-to-nostalgia-why-simply-showing-up-in-sagada-was-a-big-win/",
+      "dateChecked": "2026-10-22",
+      "status": "verified"
+    },
+    "officialUrl": null,
+    "operation": {
+      "basis": "recent-report",
+      "source": {
+        "sourceName": "No Juan Is An Island — June 2026 Café Bodega visit",
+        "sourceUrl": "https://nojuanisanisland.com/2026/06/02/an-ode-to-nostalgia-why-simply-showing-up-in-sagada-was-a-big-win/",
+        "dateChecked": "2026-10-22",
+        "status": "verified"
+      },
+      "limitation": "Dated visitor or local reporting supports this venue. Current opening, menu availability and access still need direct confirmation."
+    }
+  },
+  {
+    "placeId": "sagada-log-cabin",
+    "primary": "other-food",
+    "venueType": "restaurant",
+    "suitability": [
+      "meal"
+    ],
+    "specialties": [
+      "European–Filipino",
+      "pasta"
+    ],
+    "source": {
+      "sourceName": "Log Cabin Sagada — TableAgent booking page",
+      "sourceUrl": "https://tableagent.com/manila/log-cabin-sagada/",
+      "dateChecked": "2026-10-22",
+      "status": "verified"
+    },
+    "officialUrl": "https://tableagent.com/manila/log-cabin-sagada/",
+    "operation": {
+      "basis": "recent-report",
+      "source": {
+        "sourceName": "Manila Bulletin — July 2026 Log Cabin reporting",
+        "sourceUrl": "https://mb.com.ph/2026/07/15/visiting-sagada-this-beloved-restaurant-buys-what-farmers-cant-sell-turning-it-into-specialty-products",
+        "dateChecked": "2026-10-22",
+        "status": "verified"
+      },
+      "limitation": "Dated local reporting supports this named venue and its offering. It does not establish today’s opening, menu availability or table availability; confirm directly before travelling."
+    }
+  },
+  {
+    "placeId": "sagada-cellar-door",
+    "primary": "other-food",
+    "venueType": "restaurant",
+    "suitability": [
+      "meal"
+    ],
+    "specialties": [
+      "Igorot cooking",
+      "pinikpikan",
+      "tapuey"
+    ],
+    "source": {
+      "sourceName": "No Juan Is An Island — June 2026 Cellar Door dinner",
+      "sourceUrl": "https://nojuanisanisland.com/2026/06/02/an-ode-to-nostalgia-why-simply-showing-up-in-sagada-was-a-big-win/",
+      "dateChecked": "2026-10-22",
+      "status": "verified"
+    },
+    "officialUrl": null,
+    "operation": {
+      "basis": "recent-report",
+      "source": {
+        "sourceName": "No Juan Is An Island — June 2026 Cellar Door dinner",
+        "sourceUrl": "https://nojuanisanisland.com/2026/06/02/an-ode-to-nostalgia-why-simply-showing-up-in-sagada-was-a-big-win/",
+        "dateChecked": "2026-10-22",
+        "status": "verified"
+      },
+      "limitation": "Dated visitor or local reporting supports this venue. Current opening, menu availability and access still need direct confirmation."
+    }
+  },
+  {
+    "placeId": "sagada-gaia-cafe",
+    "primary": "cafe",
+    "venueType": "cafe",
+    "suitability": [
+      "coffee",
+      "meal"
+    ],
+    "specialties": [
+      "cafe"
+    ],
+    "source": {
+      "sourceName": "Tripadvisor — Gaia identity and dated March 2026 visit",
+      "sourceUrl": "https://www.tripadvisor.ca/Restaurant_Review-g304053-d3512205-Reviews-Gaia_Cafe_Crafts-Sagada_Mountain_Province_Cordillera_Region_Luzon.html",
+      "dateChecked": "2026-10-22",
+      "status": "verified"
+    },
+    "officialUrl": null,
+    "operation": {
+      "basis": "recent-report",
+      "source": {
+        "sourceName": "No Juan Is An Island — June 2026 Gaia return visit",
+        "sourceUrl": "https://nojuanisanisland.com/2026/06/02/an-ode-to-nostalgia-why-simply-showing-up-in-sagada-was-a-big-win/",
+        "dateChecked": "2026-10-22",
+        "status": "verified"
+      },
+      "limitation": "Dated visitor or local reporting supports this venue. Current opening, menu availability and access still need direct confirmation."
+    }
+  },
+  {
+    "placeId": "sagada-banas-cafe",
+    "primary": "cafe",
+    "venueType": "cafe",
+    "suitability": [
+      "coffee"
+    ],
+    "specialties": [
+      "coffee"
+    ],
+    "source": {
+      "sourceName": "No Juan Is An Island — June 2026 Bana’s return visit",
+      "sourceUrl": "https://nojuanisanisland.com/2026/06/02/an-ode-to-nostalgia-why-simply-showing-up-in-sagada-was-a-big-win/",
+      "dateChecked": "2026-10-22",
+      "status": "verified"
+    },
+    "officialUrl": null,
+    "operation": {
+      "basis": "recent-report",
+      "source": {
+        "sourceName": "No Juan Is An Island — June 2026 Bana’s return visit",
+        "sourceUrl": "https://nojuanisanisland.com/2026/06/02/an-ode-to-nostalgia-why-simply-showing-up-in-sagada-was-a-big-win/",
+        "dateChecked": "2026-10-22",
+        "status": "verified"
+      },
+      "limitation": "Dated visitor or local reporting supports this venue. Current opening, menu availability and access still need direct confirmation."
+    }
+  },
+  {
+    "placeId": "davao-purge-tulip",
+    "primary": "cafe",
+    "venueType": "cafe",
+    "suitability": [
+      "coffee"
+    ],
+    "specialties": [
+      "coffee roasting"
+    ],
+    "source": {
+      "sourceName": "Davao City Tourism — Purge venue profile",
+      "sourceUrl": "https://tourism.davaocity.gov.ph/explore-the-city/restaurants/coffeeshops-2/purge-coffee-roaster/",
+      "dateChecked": "2026-10-22",
+      "status": "verified"
+    },
+    "officialUrl": "https://tourism.davaocity.gov.ph/explore-the-city/restaurants/coffeeshops-2/purge-coffee-roaster/",
+    "operation": {
+      "basis": "recent-report",
+      "source": {
+        "sourceName": "SunStar — August 2026 Kadayawan coffee reporting",
+        "sourceUrl": "https://www.sunstar.com.ph/amp/story/davao/kadayawan-2026-see-it-taste-it-live-it",
+        "dateChecked": "2026-10-22",
+        "status": "verified"
+      },
+      "limitation": "Dated local reporting supports this named venue and its offering. It does not establish today’s opening, menu availability or table availability; confirm directly before travelling."
+    }
+  },
+  {
+    "placeId": "davao-fourth-street-narra",
+    "primary": "cafe",
+    "venueType": "cafe",
+    "suitability": [
+      "coffee"
+    ],
+    "specialties": [
+      "coffee"
+    ],
+    "source": {
+      "sourceName": "Fourth Street Cafe — dated 2026 business posts, public mirror",
+      "sourceUrl": "https://www.findglocal.com/PH/Davao-City/161228178024723/Fourth-Street-Cafe",
+      "dateChecked": "2026-10-22",
+      "status": "verified"
+    },
+    "officialUrl": null,
+    "operation": {
+      "basis": "recent-report",
+      "source": {
+        "sourceName": "SunStar — August 2026 Kadayawan coffee reporting",
+        "sourceUrl": "https://www.sunstar.com.ph/amp/story/davao/kadayawan-2026-see-it-taste-it-live-it",
+        "dateChecked": "2026-10-22",
+        "status": "verified"
+      },
+      "limitation": "Dated local reporting or public business activity supports this venue; opening, menu availability and access still need direct confirmation."
+    }
+  },
+  {
+    "placeId": "davao-glasshouse-oboza",
+    "primary": "cafe",
+    "venueType": "cafe",
+    "suitability": [
+      "coffee"
+    ],
+    "specialties": [
+      "coffee"
+    ],
+    "source": {
+      "sourceName": "SunStar — August 2026 Kadayawan venue reporting",
+      "sourceUrl": "https://www.sunstar.com.ph/amp/story/davao/kadayawan-2026-see-it-taste-it-live-it",
+      "dateChecked": "2026-10-22",
+      "status": "verified"
+    },
+    "officialUrl": null,
+    "operation": {
+      "basis": "recent-report",
+      "source": {
+        "sourceName": "SunStar — August 2026 Kadayawan venue reporting",
+        "sourceUrl": "https://www.sunstar.com.ph/amp/story/davao/kadayawan-2026-see-it-taste-it-live-it",
+        "dateChecked": "2026-10-22",
+        "status": "verified"
+      },
+      "limitation": "Dated local reporting or public business activity supports this venue; opening, menu availability and access still need direct confirmation."
+    }
+  },
+  {
+    "placeId": "davao-paramount-star-hotel",
+    "primary": "cafe",
+    "venueType": "cafe",
+    "suitability": [
+      "coffee"
+    ],
+    "specialties": [
+      "coffee"
+    ],
+    "source": {
+      "sourceName": "Paramount Coffee — Star Hotel — venue website",
+      "sourceUrl": "https://www.paramountcoffeeph.com/cafe",
+      "dateChecked": "2026-10-22",
+      "status": "verified"
+    },
+    "officialUrl": "https://www.paramountcoffeeph.com/cafe",
+    "operation": {
+      "basis": "venue-offering",
+      "source": {
+        "sourceName": "Paramount Coffee — Star Hotel — venue website",
+        "sourceUrl": "https://www.paramountcoffeeph.com/cafe",
+        "dateChecked": "2026-10-22",
+        "status": "verified"
+      },
+      "limitation": "The public venue page offers this service when reviewed; no live table availability, closure guarantee or independent on-site check."
+    }
+  },
+  {
+    "placeId": "davao-kapewenoz-v-mapa",
+    "primary": "cafe",
+    "venueType": "cafe",
+    "suitability": [
+      "coffee"
+    ],
+    "specialties": [
+      "coffee"
+    ],
+    "source": {
+      "sourceName": "Kapeweñoz — public business profile",
+      "sourceUrl": "https://linktr.ee/kapewenozcoffee",
+      "dateChecked": "2026-10-22",
+      "status": "verified"
+    },
+    "officialUrl": "https://linktr.ee/kapewenozcoffee",
+    "operation": {
+      "basis": "venue-offering",
+      "source": {
+        "sourceName": "Kapeweñoz — public business profile",
+        "sourceUrl": "https://linktr.ee/kapewenozcoffee",
+        "dateChecked": "2026-10-22",
+        "status": "verified"
+      },
+      "limitation": "The public venue page offers this service when reviewed; no live table availability, closure guarantee or independent on-site check."
+    }
+  },
+  {
+    "placeId": "davao-lamano-tulip",
+    "primary": "other-food",
+    "venueType": "restaurant",
+    "suitability": [
+      "meal"
+    ],
+    "specialties": [
+      "Filipino",
+      "Spanish"
+    ],
+    "source": {
+      "sourceName": "Lamano Cocina & Bar — venue website",
+      "sourceUrl": "https://lamano.ph/",
+      "dateChecked": "2026-10-22",
+      "status": "verified"
+    },
+    "officialUrl": "https://lamano.ph/",
+    "operation": {
+      "basis": "recent-report",
+      "source": {
+        "sourceName": "Eats Me, Jax! — May 2026 Lamano visit",
+        "sourceUrl": "https://eatsmejax.com/2026/05/21/davao-lamano-food-and-resto-review/",
+        "dateChecked": "2026-10-22",
+        "status": "verified"
+      },
+      "limitation": "Dated local reporting supports this named venue and its offering. It does not establish today’s opening, menu availability or table availability; confirm directly before travelling."
+    }
+  },
+  {
+    "placeId": "davao-capris-bajada",
+    "primary": "other-food",
+    "venueType": "restaurant",
+    "suitability": [
+      "meal"
+    ],
+    "specialties": [
+      "European",
+      "baked brie",
+      "beef Wellington"
+    ],
+    "source": {
+      "sourceName": "Eats Me, Jax! — March 2026 Capri’s visit",
+      "sourceUrl": "https://eatsmejax.com/2026/03/26/davao-capris-restaurant-and-deli-davao-food-and-resto-review/",
+      "dateChecked": "2026-10-22",
+      "status": "verified"
+    },
+    "officialUrl": null,
+    "operation": {
+      "basis": "recent-report",
+      "source": {
+        "sourceName": "Eats Me, Jax! — March 2026 Capri’s visit",
+        "sourceUrl": "https://eatsmejax.com/2026/03/26/davao-capris-restaurant-and-deli-davao-food-and-resto-review/",
+        "dateChecked": "2026-10-22",
+        "status": "verified"
+      },
+      "limitation": "Dated local reporting or public business activity supports this venue; opening, menu availability and access still need direct confirmation."
+    }
+  },
+  {
+    "placeId": "davao-lachis-marfori",
+    "primary": "other-food",
+    "venueType": "dessert-shop",
+    "suitability": [
+      "dessert"
+    ],
+    "specialties": [
+      "sans rival",
+      "cakes",
+      "cookies"
+    ],
+    "source": {
+      "sourceName": "Lachi’s — August 2026 business posts, public mirror",
+      "sourceUrl": "https://www.findglocal.com/PH/Davao-City/71022339832/Lachi%27s-Sans-Rival-Atbp",
+      "dateChecked": "2026-10-22",
+      "status": "verified"
+    },
+    "officialUrl": null,
+    "operation": {
+      "basis": "recent-report",
+      "source": {
+        "sourceName": "Lachi’s — August 2026 business posts, public mirror",
+        "sourceUrl": "https://www.findglocal.com/PH/Davao-City/71022339832/Lachi%27s-Sans-Rival-Atbp",
+        "dateChecked": "2026-10-22",
+        "status": "verified"
+      },
+      "limitation": "Dated local reporting or public business activity supports this venue; opening, menu availability and access still need direct confirmation."
+    }
+  },
+  {
+    "placeId": "iloilo-neighbor-atria",
+    "primary": "cafe",
+    "venueType": "cafe",
+    "suitability": [
+      "coffee"
+    ],
+    "specialties": [
+      "coffee"
+    ],
+    "source": {
+      "sourceName": "Shops at Atria — August 2026 Neighbor event announcements",
+      "sourceUrl": "https://www.findglocal.com/PH/Iloilo-City/512507965554615/Shops-at-Atria%2C-Ayala-Malls",
+      "dateChecked": "2026-10-22",
+      "status": "verified"
+    },
+    "officialUrl": null,
+    "operation": {
+      "basis": "recent-report",
+      "source": {
+        "sourceName": "Shops at Atria — August 2026 Neighbor event announcements",
+        "sourceUrl": "https://www.findglocal.com/PH/Iloilo-City/512507965554615/Shops-at-Atria%2C-Ayala-Malls",
+        "dateChecked": "2026-10-22",
+        "status": "verified"
+      },
+      "limitation": "Dated local reporting or public business activity supports this venue; opening, menu availability and access still need direct confirmation."
+    }
+  },
+  {
+    "placeId": "iloilo-bluejay-sm-city",
+    "primary": "cafe",
+    "venueType": "cafe",
+    "suitability": [
+      "coffee",
+      "meal"
+    ],
+    "specialties": [
+      "vanilla latte",
+      "aglio e olio"
+    ],
+    "source": {
+      "sourceName": "Bluejay SM City — June 2026 business posts, public mirror",
+      "sourceUrl": "https://www.findglocal.com/PH/Iloilo-City/1549445962029867/Bluejay-Coffee-%26-Company-SM-City-Iloilo",
+      "dateChecked": "2026-10-22",
+      "status": "verified"
+    },
+    "officialUrl": null,
+    "operation": {
+      "basis": "recent-report",
+      "source": {
+        "sourceName": "Bluejay SM City — June 2026 business posts, public mirror",
+        "sourceUrl": "https://www.findglocal.com/PH/Iloilo-City/1549445962029867/Bluejay-Coffee-%26-Company-SM-City-Iloilo",
+        "dateChecked": "2026-10-22",
+        "status": "verified"
+      },
+      "limitation": "Dated local reporting or public business activity supports this venue; opening, menu availability and access still need direct confirmation."
+    }
+  },
+  {
+    "placeId": "iloilo-monkey-grounds",
+    "primary": "cafe",
+    "venueType": "cafe",
+    "suitability": [
+      "coffee",
+      "meal",
+      "breakfast"
+    ],
+    "specialties": [
+      "pour-over coffee",
+      "nitro cold brew",
+      "rice bowls"
+    ],
+    "source": {
+      "sourceName": "Monkey Grounds — branch-specific merchant menu and 2026 orders",
+      "sourceUrl": "https://www.foodpanda.ph/restaurant/r9rc/monkey-grounds-coffee-benigno-aquino-avenue",
+      "dateChecked": "2026-10-22",
+      "status": "verified"
+    },
+    "officialUrl": null,
+    "operation": {
+      "basis": "recent-report",
+      "source": {
+        "sourceName": "Monkey Grounds — branch-specific merchant menu and 2026 orders",
+        "sourceUrl": "https://www.foodpanda.ph/restaurant/r9rc/monkey-grounds-coffee-benigno-aquino-avenue",
+        "dateChecked": "2026-10-22",
+        "status": "verified"
+      },
+      "limitation": "Dated local reporting or public business activity supports this venue; opening, menu availability and access still need direct confirmation."
+    }
+  },
+  {
+    "placeId": "iloilo-loco-smallville",
+    "primary": "cafe",
+    "venueType": "cafe",
+    "suitability": [
+      "coffee",
+      "meal",
+      "breakfast"
+    ],
+    "specialties": [
+      "Iloilo coffee",
+      "cold brew",
+      "silog",
+      "chicken pastil"
+    ],
+    "source": {
+      "sourceName": "LoCo Local Coffee — Smallville — venue website",
+      "sourceUrl": "https://localcoffee.ph/pages/about-us",
+      "dateChecked": "2026-10-22",
+      "status": "verified"
+    },
+    "officialUrl": "https://localcoffee.ph/pages/about-us",
+    "operation": {
+      "basis": "venue-offering",
+      "source": {
+        "sourceName": "LoCo Local Coffee — Smallville — venue website",
+        "sourceUrl": "https://localcoffee.ph/pages/about-us",
+        "dateChecked": "2026-10-22",
+        "status": "verified"
+      },
+      "limitation": "The public venue page offers this service when reviewed; no live table availability, closure guarantee or independent on-site check."
+    }
+  },
+  {
+    "placeId": "iloilo-netongs-la-paz",
+    "primary": "other-food",
+    "venueType": "restaurant",
+    "suitability": [
+      "meal"
+    ],
+    "specialties": [
+      "La Paz batchoy",
+      "noodle soup"
+    ],
+    "source": {
+      "sourceName": "BusinessWorld — April 2026 owner interview",
+      "sourceUrl": "https://www.bworldonline.com/bw-launchpad/2026/04/15/742817/netongs-eyes-partnerships-to-cushion-rising-costs/",
+      "dateChecked": "2026-10-22",
+      "status": "verified"
+    },
+    "officialUrl": null,
+    "publishedPrices": {
+      "text": "BusinessWorld reported PHP115–155 per bowl on 15 April 2026. This is a dated menu observation, not a current quote; confirm prices directly. It does not replace the estimated itinerary allowance.",
+      "source": {
+        "sourceName": "BusinessWorld — April 2026 owner interview",
+        "sourceUrl": "https://www.bworldonline.com/bw-launchpad/2026/04/15/742817/netongs-eyes-partnerships-to-cushion-rising-costs/",
+        "dateChecked": "2026-10-22",
+        "status": "verified"
+      }
+    },
+    "operation": {
+      "basis": "recent-report",
+      "source": {
+        "sourceName": "BusinessWorld — April 2026 owner interview",
+        "sourceUrl": "https://www.bworldonline.com/bw-launchpad/2026/04/15/742817/netongs-eyes-partnerships-to-cushion-rising-costs/",
+        "dateChecked": "2026-10-22",
+        "status": "verified"
+      },
+      "limitation": "Dated local reporting or public business activity supports this venue; opening, menu availability and access still need direct confirmation."
+    }
+  },
+  {
+    "placeId": "iloilo-robertos-jm-basa",
+    "primary": "other-food",
+    "venueType": "food-shop",
+    "suitability": [
+      "bakery"
+    ],
+    "specialties": [
+      "siopao"
+    ],
+    "source": {
+      "sourceName": "Outrage Magazine — January 2026 Roberto’s visit",
+      "sourceUrl": "https://outragemag.com/it-supposedly-has-the-best-siopao-in-iloilo-city-so-we-tried-robertos/",
+      "dateChecked": "2026-10-22",
+      "status": "verified"
+    },
+    "officialUrl": null,
+    "operation": {
+      "basis": "recent-report",
+      "source": {
+        "sourceName": "Outrage Magazine — January 2026 Roberto’s visit",
+        "sourceUrl": "https://outragemag.com/it-supposedly-has-the-best-siopao-in-iloilo-city-so-we-tried-robertos/",
+        "dateChecked": "2026-10-22",
+        "status": "verified"
+      },
+      "limitation": "Dated local reporting or public business activity supports this venue; opening, menu availability and access still need direct confirmation."
+    }
+  },
+  {
+    "placeId": "iloilo-carlos-dungon",
+    "primary": "other-food",
+    "venueType": "bakery",
+    "suitability": [
+      "bakery",
+      "meal",
+      "dessert"
+    ],
+    "specialties": [
+      "baked goods",
+      "sandwiches",
+      "merienda"
+    ],
+    "source": {
+      "sourceName": "Carlo’s Bakery & Cafe — Dungon — venue website",
+      "sourceUrl": "https://carlos-bakeshop.com/",
+      "dateChecked": "2026-10-22",
+      "status": "verified"
+    },
+    "officialUrl": "https://carlos-bakeshop.com/",
+    "operation": {
+      "basis": "recent-report",
+      "source": {
+        "sourceName": "Iloilo Updates — August 2026 Dungon menu report",
+        "sourceUrl": "https://iloiloupdates.home.blog/2026/08/17/carlos-bakery-cafe-menu/",
+        "dateChecked": "2026-10-22",
+        "status": "verified"
+      },
+      "limitation": "Dated local reporting supports this named venue and its offering. It does not establish today’s opening, menu availability or table availability; confirm directly before travelling."
+    }
+  }
+]

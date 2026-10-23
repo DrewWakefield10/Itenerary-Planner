@@ -1,0 +1,22 @@
+{
+  "batchId": "instagram-004-confirmed",
+  "checkedOn": "2026-10-22",
+  "places": 1,
+  "posts": 1,
+  "outcomes": [
+    {
+      "placeId": "davao-glasshouse-oboza",
+      "posts": [
+        {
+          "url": "https://www.instagram.com/p/BsdGWygAtz9/",
+          "presentation": "manual-embed",
+          "embedCheck": {
+            "status": "confirmed",
+            "checkedOn": "2026-10-22",
+            "note": "Real official widget rendered with attribution and controls after the explicit Load Instagram posts action on the Lakbay detail page at desktop width. Initial photo or reel poster visually reviewed; not a full footage review."
+          }
+        }
+      ]
+    }
+  ]
+}

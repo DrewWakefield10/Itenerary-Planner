@@ -1,0 +1,484 @@
+{
+  "batchId": "instagram-015",
+  "checkedOn": "2026-10-22",
+  "mode": "unapproved-research",
+  "records": [
+    {
+      "placeId": "cebu-yap-sandiego-house",
+      "name": "Yap-Sandiego Ancestral House",
+      "destination": "Cebu",
+      "municipality": "Cebu City",
+      "category": "Culture",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-015",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://www.cebu.gov.ph/about/",
+          "finalUrl": "https://www.cebu.gov.ph/about/",
+          "status": 200,
+          "title": "Cebu Province History & Heritage | About",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "cebu-colon-street",
+      "name": "Colon Street",
+      "destination": "Cebu",
+      "municipality": "Cebu City",
+      "category": "Culture",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-015",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://www.cebu.gov.ph/about/",
+          "finalUrl": "https://www.cebu.gov.ph/about/",
+          "status": 200,
+          "title": "Cebu Province History & Heritage | About",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Colon_Street",
+          "finalUrl": "https://en.wikipedia.org/wiki/Colon_Street",
+          "status": 200,
+          "title": "Colon Street - Wikipedia",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "cebu-sugbo-mercado",
+      "name": "Sugbo Mercado — IT Park",
+      "destination": "Cebu",
+      "municipality": "Cebu City",
+      "category": "Food & drink",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-015",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://philippines.travel/destinations/cebu-city/index",
+          "finalUrl": "https://philippines.travel/destinations/cebu-city/index",
+          "status": 200,
+          "title": "Cebu City &#8211; Love Philippines",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "cebu-sirao-garden",
+      "name": "Sirao Garden",
+      "destination": "Cebu",
+      "municipality": "Cebu City",
+      "category": "Nature",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-015",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://philippines.travel/destinations/cebu-city/index",
+          "finalUrl": "https://philippines.travel/destinations/cebu-city/index",
+          "status": 200,
+          "title": "Cebu City &#8211; Love Philippines",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "cebu-temple-of-leah",
+      "name": "Temple of Leah",
+      "destination": "Cebu",
+      "municipality": "Cebu City",
+      "category": "Culture",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-015",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://philippines.travel/destinations/cebu-city/index",
+          "finalUrl": "https://philippines.travel/destinations/cebu-city/index",
+          "status": 200,
+          "title": "Cebu City &#8211; Love Philippines",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Temple_of_Leah",
+          "finalUrl": "https://en.wikipedia.org/wiki/Temple_of_Leah",
+          "status": 200,
+          "title": "Temple of Leah - Wikipedia",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "cebu-tops-lookout",
+      "name": "TOPS",
+      "destination": "Cebu",
+      "municipality": "Cebu City",
+      "category": "Nature",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-015",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://www.topscebu.ph/",
+          "finalUrl": "https://www.topscebu.ph/",
+          "status": 200,
+          "title": "Home",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "cebu-ocean-park",
+      "name": "Cebu Ocean Park",
+      "destination": "Cebu",
+      "municipality": "Cebu City",
+      "category": "Attractions",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-015",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://www.cebuoceanpark.com/",
+          "finalUrl": "https://www.cebuoceanpark.com/",
+          "status": 200,
+          "title": "Home - Cebu Ocean Park",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Cebu_Ocean_Park",
+          "finalUrl": "https://en.wikipedia.org/wiki/Cebu_Ocean_Park",
+          "status": 200,
+          "title": "Cebu Ocean Park - Wikipedia",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "cebu-kawasan-falls",
+      "name": "Kawasan Falls",
+      "destination": "Cebu",
+      "municipality": "Badian",
+      "category": "Nature",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-015",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://www.cebu.gov.ph/about/",
+          "finalUrl": "https://www.cebu.gov.ph/about/",
+          "status": 200,
+          "title": "Cebu Province History & Heritage | About",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Kawasan_Falls",
+          "finalUrl": "https://en.wikipedia.org/wiki/Kawasan_Falls",
+          "status": 200,
+          "title": "Kawasan Falls - Wikipedia",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "cebu-sumilon-island",
+      "name": "Sumilon Island",
+      "destination": "Cebu",
+      "municipality": "Oslob",
+      "category": "Nature",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-015",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://www.cebu.gov.ph/about/",
+          "finalUrl": "https://www.cebu.gov.ph/about/",
+          "status": 200,
+          "title": "Cebu Province History & Heritage | About",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Sumilon_Island",
+          "finalUrl": "https://en.wikipedia.org/wiki/Sumilon_Island",
+          "status": 200,
+          "title": "Sumilon Island - Wikipedia",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "cebu-tingko-beach",
+      "name": "Tingko Beach",
+      "destination": "Cebu",
+      "municipality": "Alcoy",
+      "category": "Nature",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-015",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://tourism.cebu.gov.ph/explore/alcoy/",
+          "finalUrl": "https://tourism.cebu.gov.ph/explore/alcoy/",
+          "status": 200,
+          "title": "Alcoy — Explore Cebu",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "cebu-safari-adventure-park",
+      "name": "Cebu Safari and Adventure Park",
+      "destination": "Cebu",
+      "municipality": "Carmen",
+      "category": "Attractions",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-015",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://tourism.cebu.gov.ph/explore/carmen/",
+          "finalUrl": "https://tourism.cebu.gov.ph/explore/carmen/",
+          "status": 200,
+          "title": "Carmen — Explore Cebu",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Cebu_Safari_and_Adventure_Park",
+          "finalUrl": "https://en.wikipedia.org/wiki/Cebu_Safari_and_Adventure_Park",
+          "status": 200,
+          "title": "Cebu Safari and Adventure Park - Wikipedia",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "cebu-boljoon-church",
+      "name": "Boljoon Church",
+      "destination": "Cebu",
+      "municipality": "Boljoon",
+      "category": "Culture",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-015",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://tourism.cebu.gov.ph/explore/boljoon/",
+          "finalUrl": "https://tourism.cebu.gov.ph/explore/boljoon/",
+          "status": 200,
+          "title": "Boljoon — Explore Cebu",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Boljoon_Church",
+          "finalUrl": "https://en.wikipedia.org/wiki/Boljoon_Church",
+          "status": 200,
+          "title": "Boljoon Church - Wikipedia",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "cebu-bantayan-peter-paul-church",
+      "name": "Saints Peter and Paul Parish Church — Bantayan",
+      "destination": "Cebu",
+      "municipality": "Bantayan",
+      "category": "Culture",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-015",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://tourism.cebu.gov.ph/explore/bantayan/",
+          "finalUrl": "https://tourism.cebu.gov.ph/explore/bantayan/",
+          "status": 200,
+          "title": "Bantayan — Explore Cebu",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "cebu-simala-shrine",
+      "name": "Simala Shrine",
+      "destination": "Cebu",
+      "municipality": "Sibonga",
+      "category": "Culture",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-015",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://tourism.cebu.gov.ph/explore/sibonga/",
+          "finalUrl": "https://tourism.cebu.gov.ph/explore/sibonga/",
+          "status": 200,
+          "title": "Sibonga — Explore Cebu",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Simala_Shrine",
+          "finalUrl": "https://en.wikipedia.org/wiki/Simala_Shrine",
+          "status": 200,
+          "title": "Simala Shrine - Wikipedia",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "cebu-buwakan-ni-alejandra",
+      "name": "Buwakan ni Alejandra",
+      "destination": "Cebu",
+      "municipality": "Balamban",
+      "category": "Nature",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-015",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://tourism.cebu.gov.ph/explore/balamban/",
+          "finalUrl": "https://tourism.cebu.gov.ph/explore/balamban/",
+          "status": 200,
+          "title": "Balamban — Explore Cebu",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "cebu-mactan-shrine",
+      "name": "Mactan Shrine",
+      "destination": "Cebu",
+      "municipality": "Lapu-Lapu City",
+      "category": "Culture",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-015",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://www.nqc.gov.ph/wp-content/uploads/2020/07/Lapulapu-National-Monument-Design-Competition-Guidelines-1.pdf",
+          "finalUrl": "https://www.nqc.gov.ph/wp-content/uploads/2020/07/Lapulapu-National-Monument-Design-Competition-Guidelines-1.pdf",
+          "status": 200,
+          "title": "",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Mactan_Shrine",
+          "finalUrl": "https://en.wikipedia.org/wiki/Mactan_Shrine",
+          "status": 200,
+          "title": "Mactan Shrine - Wikipedia",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "cebu-carcar-new-public-market",
+      "name": "Carcar City New Public Market",
+      "destination": "Cebu",
+      "municipality": "Carcar City",
+      "category": "Parks & markets",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-015",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://jcicebu.org/2026/05/26/kidtrepreneurship-5-0-empowers-young-entrepreneurs-in-carcar-city/",
+          "finalUrl": "https://jcicebu.org/2026/05/26/kidtrepreneurship-5-0-empowers-young-entrepreneurs-in-carcar-city/",
+          "status": 200,
+          "title": "Kidtrepreneurship 5.0 Empowers Young Entrepreneurs in Carcar City &#8211; JCI Cebu &#8211; Junior Chamber International Cebu Chapter",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "bohol-alona-beach-walk",
+      "name": "Alona Beach",
+      "destination": "Bohol",
+      "municipality": "Panglao",
+      "category": "Nature",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-015",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://tourism.bohol.gov.ph/visitbohol-panglao/",
+          "status": null,
+          "error": "The operation was aborted due to timeout",
+          "candidates": [],
+          "limitation": "Inaccessible publisher source; no private content or authentication workaround attempted."
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Alona_Beach",
+          "finalUrl": "https://en.wikipedia.org/wiki/Alona_Beach",
+          "status": 200,
+          "title": "Alona Beach - Wikipedia",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "bohol-saint-augustine-church",
+      "name": "Saint Augustine Parish Church",
+      "destination": "Bohol",
+      "municipality": "Panglao",
+      "category": "Culture",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-015",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://tourism.bohol.gov.ph/visitbohol-panglao/",
+          "status": null,
+          "error": "The operation was aborted due to timeout",
+          "candidates": [],
+          "limitation": "Inaccessible publisher source; no private content or authentication workaround attempted."
+        }
+      ]
+    },
+    {
+      "placeId": "bohol-panglao-watchtower",
+      "name": "Panglao Watchtower",
+      "destination": "Bohol",
+      "municipality": "Panglao",
+      "category": "Culture",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-015",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://tourism.bohol.gov.ph/visitbohol-panglao/",
+          "status": null,
+          "error": "The operation was aborted due to timeout",
+          "candidates": [],
+          "limitation": "Inaccessible publisher source; no private content or authentication workaround attempted."
+        }
+      ]
+    }
+  ]
+}

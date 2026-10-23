@@ -38,8 +38,11 @@ import {
 import { SourceIndicator, SourceReviewNote } from "./source-indicator";
 import {directoryDetails} from "@/lib/catalog/directory-details";
 import {unverifiedSource} from "@/lib/sources";
+import {foodForPlace,foodFilters} from "@/lib/catalog/food";
 import {BookmarkButton} from "./bookmarks";
 import {PlacePhoto,PlaceOverview,PlaceVideos,PlaceEditorialCredits} from "./place-media";
+const PlaceInstagram=lazy(()=>import('./place-instagram').then(module=>({default:module.PlaceInstagram})));
+const PlaceInstagramCover=lazy(()=>import('./place-instagram').then(module=>({default:module.PlaceInstagramCover})));
 const AddDialog = lazy(() => import("./discovery-add-dialog"));
 const TripMap = lazy(() => import("./trip-map"));
 const dayLabel = (date: string) =>
@@ -214,6 +217,7 @@ export default function Discover({ placeId }: { placeId?: string }) {
     [area, setArea] = useState("all"),
     [category, setCategory] = useState("all"),
     [interestFilter, setInterestFilter] = useState("all"),
+    [foodType, setFoodType] = useState("all"),
     [page, setPage] = useState(1),
     [showBases, setShowBases] = useState(false);
   const [filtersReady, setFiltersReady] = useState(false);
@@ -232,6 +236,7 @@ export default function Discover({ placeId }: { placeId?: string }) {
       );
       setCategory(params.get("category") || "all");
       setInterestFilter(params.get("interest") || "all");
+      setFoodType(params.get("food") || "all");
       setSearch(params.get("q") || "");
       setPage(Math.max(1, Number(params.get("page")) || 1));
       setFiltersReady(true);
@@ -246,6 +251,7 @@ export default function Discover({ placeId }: { placeId?: string }) {
     if (area !== "all") params.set("destination", area);
     if (category !== "all") params.set("category", category);
     if (interestFilter !== "all") params.set("interest", interestFilter);
+    if (foodType !== "all") params.set("food", foodType);
     if (search) params.set("q", search);
     if (page > 1) params.set("page", String(page));
     window.history.replaceState(
@@ -253,7 +259,7 @@ export default function Discover({ placeId }: { placeId?: string }) {
       "",
       `/discover${params.size ? `?${params}` : ""}`,
     );
-  }, [area, category, interestFilter, search, page, filtersReady, placeId]);
+  }, [area, category, interestFilter, foodType, search, page, filtersReady, placeId]);
   const [nearBase, setNearBase] = useState("baguio"),
     [adding, setAdding] = useState<string | null>(null);
   const [currentTime, setCurrentTime] = useState(() => new Date());
@@ -286,6 +292,7 @@ export default function Discover({ placeId }: { placeId?: string }) {
       group: area,
       category,
       interest: interestFilter,
+      foodType,
       search,
     }).map((p) => p.id),
   );
@@ -295,6 +302,7 @@ export default function Discover({ placeId }: { placeId?: string }) {
       : (area === "all" || groupForBase(p.baseSlug) === area) &&
         category === "all" &&
         interestFilter === "all" &&
+        foodType === "all" &&
         `${p.name} ${p.description} ${groupForBase(p.baseSlug) || ""}`
           .toLowerCase()
           .includes(search.toLowerCase());
@@ -469,6 +477,12 @@ export default function Discover({ placeId }: { placeId?: string }) {
               </select>
             </label>
             <label>
+              Food type
+              <select aria-label="Food type" value={foodType} onChange={e=>{setFoodType(e.target.value);setPage(1);}}>
+                {Object.entries(foodFilters).map(([value,label])=><option key={value} value={value}>{label}</option>)}
+              </select>
+            </label>
+            <label>
               Travel interest
               <select
                 aria-label="Travel interest"
@@ -488,7 +502,7 @@ export default function Discover({ placeId }: { placeId?: string }) {
           {(search ||
             area !== "all" ||
             category !== "all" ||
-            interestFilter !== "all") && (
+            interestFilter !== "all" || foodType !== "all") && (
             <button
               className="text-link plain-button"
               onClick={() => {
@@ -496,6 +510,7 @@ export default function Discover({ placeId }: { placeId?: string }) {
                 setArea("all");
                 setCategory("all");
                 setInterestFilter("all");
+                setFoodType("all");
                 setPage(1);
               }}
             >
@@ -872,12 +887,22 @@ function PlaceDetails({
           </p>
         </div>
         <figure>
-          <PlacePhoto key={place.image?.src||place.id} place={place} prominent/>
+          {place.image?<PlacePhoto key={place.image.src} place={place} prominent/>:<Suspense fallback={<PlacePhoto place={place} prominent/>}><PlaceInstagramCover key={place.id} place={place}/></Suspense>}
           {place.image&&<figcaption><a href="#place-sources">Photo source and reuse license</a></figcaption>}
         </figure>
       </div>
       <PlaceOverview place={place}/>
+      {foodForPlace(place.id)&&<section className="paper-note discovery-section" aria-label="Food and coffee">
+        <h2>Food & <em>coffee.</em></h2>
+        <p>{foodForPlace(place.id)!.primary==="cafe"?"Café":"Food spot"} · {foodForPlace(place.id)!.venueType.replaceAll("-"," ")}</p>
+        {!!foodForPlace(place.id)!.specialties.length&&<p>{foodForPlace(place.id)!.specialties.join(" · ")}</p>}
+        <p>{foodForPlace(place.id)!.suitability.length?`Suitable for: ${foodForPlace(place.id)!.suitability.join(", ")}.`:"Specific drinks and meal suitability have not been verified."} <SourceIndicator source={foodForPlace(place.id)!.source} label="Venue offering / classification"/></p>
+        <p>{foodForPlace(place.id)!.operation.limitation} <SourceIndicator source={foodForPlace(place.id)!.operation.source} label="Operation evidence"/></p>
+        {foodForPlace(place.id)!.publishedPrices&&<p>{foodForPlace(place.id)!.publishedPrices!.text} <SourceIndicator source={foodForPlace(place.id)!.publishedPrices!.source} label="Published prices"/></p>}
+        {foodForPlace(place.id)!.officialUrl&&<a className="text-link" href={foodForPlace(place.id)!.officialUrl!} target="_blank" rel="noreferrer">Venue / tourism page ↗</a>}
+      </section>}
       <PlaceVideos placeId={place.id}/>
+      <Suspense fallback={null}><PlaceInstagram key={place.id} placeId={place.id} excludeCover={!place.image}/></Suspense>
       <div className="place-practical">
         <section className="paper-note">
           <h2>

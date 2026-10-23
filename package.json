@@ -19,7 +19,18 @@
     "test": "tsx --test tests/*.test.ts",
     "test:browser": "node tests/foundation.mjs && node tests/planner.mjs && node tests/interactive.mjs && node tests/portability.mjs && node tests/sources-browser.mjs && node tests/rain-browser.mjs",
     "test:accounts": "tsx --test tests/accounts.test.ts tests/vercel-accounts.test.ts",
-    "test:accounts:browser": "node tests/accounts-browser.mjs"
+    "test:accounts:browser": "node tests/accounts-browser.mjs",
+    "export:directory": "tsx scripts/export-directory.ts",
+    "publish:food": "tsx scripts/publish-food-batch.ts",
+    "progress:food": "tsx scripts/food-progress.ts",
+    "research:food:photos": "node scripts/research-food-photos.mjs",
+    "publish:food:photos": "node scripts/publish-food-photos.mjs",
+    "test:food:browser": "node tests/food-directory-browser.mjs",
+    "validate:places": "tsx scripts/validate-place-content.ts",
+    "test:places:browser": "node tests/place-content-browser.mjs",
+    "publish:instagram": "tsx scripts/publish-instagram-batch.ts",
+    "progress:instagram": "tsx scripts/instagram-progress.ts",
+    "test:instagram:browser": "node tests/instagram-browser.mjs && node tests/instagram-cover-browser.mjs"
   },
   "dependencies": {
     "@base-ui/react": "^1.7.0",
@@ -68,6 +79,7 @@
     "json-rpc-2.0": "1.7.1",
     "raw-body": "3.0.2",
     "react-server-dom-webpack": "19.2.6",
+    "sharp": "^0.35.4",
     "tailwindcss": "4.2.1",
     "tsx": "^4.23.15",
     "tw-animate-css": "^1.4.0",

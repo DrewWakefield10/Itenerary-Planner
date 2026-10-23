@@ -1,0 +1,499 @@
+{
+  "batchId": "instagram-021",
+  "checkedOn": "2026-10-22",
+  "mode": "unapproved-research",
+  "records": [
+    {
+      "placeId": "manila-barbaras-heritage",
+      "name": "Barbara's Heritage Restaurant",
+      "destination": "Manila",
+      "municipality": "Manila",
+      "category": "Food & drink",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-021",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://www.barbaras.ph/contact-us",
+          "finalUrl": "https://www.barbaras.ph/contact-us",
+          "status": 200,
+          "title": "Contact | Barbara's Heritage Restaurant",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "manila-arroceros-forest-park",
+      "name": "Arroceros Forest Park",
+      "destination": "Manila",
+      "municipality": "Manila",
+      "category": "Nature",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-021",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://manila.gov.ph/category/parks-development/page/6/",
+          "finalUrl": "https://manila.gov.ph/category/parks-development/page/6/",
+          "status": 403,
+          "title": "",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Arroceros_Urban_Forest_Park",
+          "finalUrl": "https://en.wikipedia.org/wiki/Arroceros_Urban_Forest_Park",
+          "status": 200,
+          "title": "Arroceros Urban Forest Park - Wikipedia",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "manila-ninoy-aquino-parks",
+      "name": "Ninoy Aquino Parks and Wildlife Center",
+      "destination": "Manila",
+      "municipality": "Quezon City",
+      "category": "Nature",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-021",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://quezoncity.gov.ph/place/ninoy-aquino-parks-and-wildlife-center/",
+          "finalUrl": "https://quezoncity.gov.ph/place/ninoy-aquino-parks-and-wildlife-center/",
+          "status": 200,
+          "title": "Ninoy Aquino Parks and Wildlife Center - Quezon City Government",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Ninoy_Aquino_Parks_and_Wildlife_Center",
+          "finalUrl": "https://en.wikipedia.org/wiki/Ninoy_Aquino_Parks_and_Wildlife_Center",
+          "status": 200,
+          "title": "Ninoy Aquino Parks and Wildlife Center - Wikipedia",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "manila-ateneo-art-gallery",
+      "name": "Ateneo Art Gallery",
+      "destination": "Manila",
+      "municipality": "Quezon City",
+      "category": "Culture",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-021",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://ateneoartgallery.com/contact",
+          "finalUrl": "https://ateneoartgallery.com/contact",
+          "status": 200,
+          "title": "Kpktoto ♛ Bandar Bursa Togel Toto Kualitas Mancanegara APLA",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Ateneo_Art_Gallery",
+          "finalUrl": "https://en.wikipedia.org/wiki/Ateneo_Art_Gallery",
+          "status": 200,
+          "title": "Ateneo Art Gallery - Wikipedia",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "manila-museo-pambata",
+      "name": "Museo Pambata",
+      "destination": "Manila",
+      "municipality": "Manila",
+      "category": "Culture",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-021",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://www.museopambata.com.ph/",
+          "finalUrl": "https://www.museopambata.com.ph/",
+          "status": 200,
+          "title": "Home | Museo Pambata",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Museo_Pambata",
+          "finalUrl": "https://en.wikipedia.org/wiki/Museo_Pambata",
+          "status": 200,
+          "title": "Museo Pambata - Wikipedia",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "manila-ocean-park",
+      "name": "Manila Ocean Park",
+      "destination": "Manila",
+      "municipality": "Manila",
+      "category": "Attractions",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-021",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://manilaoceanpark.com/",
+          "finalUrl": "https://manilaoceanpark.com/",
+          "status": 200,
+          "title": "Home | Manila Ocean Park",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Manila_Ocean_Park",
+          "finalUrl": "https://en.wikipedia.org/wiki/Manila_Ocean_Park",
+          "status": 200,
+          "title": "Manila Ocean Park - Wikipedia",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "baguio-good-shepherd",
+      "name": "Good Shepherd Convent Shop",
+      "destination": "Baguio",
+      "municipality": "Baguio City",
+      "category": "Food & drink",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-021",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://infoboard.baguio.gov.ph/tourists-spots",
+          "finalUrl": "https://infoboard.baguio.gov.ph/tourists-spots",
+          "status": 200,
+          "title": "",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        },
+        {
+          "url": "https://main.baguio.gov.ph/api/infoboard/tourist-spots/good-sheperd",
+          "finalUrl": "https://main.baguio.gov.ph/api/infoboard/tourist-spots/good-sheperd",
+          "status": 200,
+          "title": "",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "baguio-malcolm-square",
+      "name": "Malcolm Square",
+      "destination": "Baguio",
+      "municipality": "Baguio City",
+      "category": "Parks & markets",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-021",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://infoboard.baguio.gov.ph/tourists-spots",
+          "finalUrl": "https://infoboard.baguio.gov.ph/tourists-spots",
+          "status": 200,
+          "title": "",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        },
+        {
+          "url": "https://main.baguio.gov.ph/api/infoboard/tourist-spots/malcolm-square",
+          "finalUrl": "https://main.baguio.gov.ph/api/infoboard/tourist-spots/malcolm-square",
+          "status": 200,
+          "title": "",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "baguio-mines-view-park",
+      "name": "Mines View Park",
+      "destination": "Baguio",
+      "municipality": "Baguio City",
+      "category": "Nature",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-021",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://rtf.tpb.gov.ph/cordillera/baguio/",
+          "finalUrl": "https://rtf.tpb.gov.ph/cordillera/baguio/",
+          "status": 403,
+          "title": "",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Mines_View_Park",
+          "finalUrl": "https://en.wikipedia.org/wiki/Mines_View_Park",
+          "status": 200,
+          "title": "Mines View Park - Wikipedia",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "davao-japanese-tunnel",
+      "name": "D’ Japanese Tunnel",
+      "destination": "Davao",
+      "municipality": "Davao City",
+      "category": "Culture",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-021",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://itsmorefuninthephilippines.co.uk/wp-content/uploads/PDOTL_DavaoCamiguin_Web.pdf",
+          "status": null,
+          "error": "fetch failed",
+          "candidates": [],
+          "limitation": "Inaccessible publisher source; no private content or authentication workaround attempted."
+        }
+      ]
+    },
+    {
+      "placeId": "davao-holy-infant-jesus-shrine",
+      "name": "Shrine of the Holy Infant Jesus of Prague",
+      "destination": "Davao",
+      "municipality": "Davao City",
+      "category": "Culture",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-021",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://www.davaocatholicherald.com/mass-schedules/sto-nino-shrine-mass-schedule/",
+          "finalUrl": "https://www.davaocatholicherald.com/mass-schedules/sto-nino-shrine-mass-schedule/",
+          "status": 200,
+          "title": "Sto. Niño Shrine Mass Schedule - Davao Catholic Herald",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "davao-jacks-ridge-shrine-hills",
+      "name": "Jack’s Ridge — Shrine Hills",
+      "destination": "Davao",
+      "municipality": "Davao City",
+      "category": "Food & drink",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-021",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://tourism.davaocity.gov.ph/explore-the-city/restaurants/restaurants/jacks-ridge-resort-and-restaurant-corp/",
+          "finalUrl": "https://tourism.davaocity.gov.ph/explore-the-city/restaurants/restaurants/jacks-ridge-resort-and-restaurant-corp/",
+          "status": 200,
+          "title": "Davao City Tourism Website",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "iloilo-ilomoca",
+      "name": "Iloilo Museum of Contemporary Art",
+      "destination": "Iloilo",
+      "municipality": "Iloilo City",
+      "category": "Culture",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-021",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://www.ilomoca.org/",
+          "finalUrl": "https://www.ilomoca.org/",
+          "status": 200,
+          "title": "Ilomoca | Iloilo Museum of Contemporary Art",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Iloilo_Museum_of_Contemporary_Art",
+          "finalUrl": "https://en.wikipedia.org/wiki/Iloilo_Museum_of_Contemporary_Art",
+          "status": 200,
+          "title": "Iloilo Museum of Contemporary Art - Wikipedia",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "iloilo-brandy-museum",
+      "name": "Brandy Museum",
+      "destination": "Iloilo",
+      "municipality": "Iloilo City",
+      "category": "Culture",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-021",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://www.megaworldcorp.com/lifestyle-malls/festive-walk-mall",
+          "finalUrl": "https://www.megaworldcorp.com/lifestyle-malls/festive-walk-mall",
+          "status": 200,
+          "title": "Megaworld Corporation",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Brandy_Museum_(Philippines)",
+          "finalUrl": "https://en.wikipedia.org/wiki/Brandy_Museum_(Philippines)",
+          "status": 200,
+          "title": "Brandy Museum (Philippines) - Wikipedia",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "iloilo-camina-balay-nga-bato",
+      "name": "Camiña Balay Nga Bato",
+      "destination": "Iloilo",
+      "municipality": "Iloilo City",
+      "category": "Culture",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-021",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://bcda.gov.ph/sites/default/files/2023-03/corporategvnance%202022%20Final%2029Mar2023-merged.pdf",
+          "finalUrl": "https://bcda.gov.ph/sites/default/files/2023-03/corporategvnance%202022%20Final%2029Mar2023-merged.pdf",
+          "status": 200,
+          "title": "",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Cami%C3%B1a_Balay_Nga_Bato",
+          "finalUrl": "https://en.wikipedia.org/wiki/Cami%C3%B1a_Balay_Nga_Bato",
+          "status": 200,
+          "title": "Camiña Balay Nga Bato - Wikipedia",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "iloilo-san-joaquin-cemetery",
+      "name": "San Joaquin Cemetery",
+      "destination": "Iloilo",
+      "municipality": "San Joaquin",
+      "category": "Culture",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-021",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://www.iloilo.gov.ph/1st-district",
+          "status": null,
+          "error": "The operation was aborted due to timeout",
+          "candidates": [],
+          "limitation": "Inaccessible publisher source; no private content or authentication workaround attempted."
+        }
+      ]
+    },
+    {
+      "placeId": "iloilo-taytay-boni",
+      "name": "Taytay Boni",
+      "destination": "Iloilo",
+      "municipality": "Miagao",
+      "category": "Culture",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-021",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://www.iloilo.gov.ph/1st-district",
+          "status": null,
+          "error": "The operation was aborted due to timeout",
+          "candidates": [],
+          "limitation": "Inaccessible publisher source; no private content or authentication workaround attempted."
+        },
+        {
+          "url": "https://www.miagao.gov.ph/about-miagao/miagao-history/puente-de-boni/",
+          "finalUrl": "https://www.miagao.gov.ph/about-miagao/miagao-history/puente-de-boni/",
+          "status": 200,
+          "title": "Puente de Boni - Municipality of Miagao",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "iloilo-santa-barbara-church",
+      "name": "Santa Barbara Parish Church and Convent",
+      "destination": "Iloilo",
+      "municipality": "Santa Barbara",
+      "category": "Culture",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-021",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://www.iloilo.gov.ph/en/culture-news/php-2-m-sta-barbara-convent",
+          "status": null,
+          "error": "The operation was aborted due to timeout",
+          "candidates": [],
+          "limitation": "Inaccessible publisher source; no private content or authentication workaround attempted."
+        }
+      ]
+    },
+    {
+      "placeId": "iloilo-janiuay-cemetery",
+      "name": "Janiuay Cemetery",
+      "destination": "Iloilo",
+      "municipality": "Janiuay",
+      "category": "Culture",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-021",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://weblinks.nationalmuseum.gov.ph/wp-content/uploads/2024/07/22094948/Bidding-Documents-Janiuay-Cemetery-and-Cabatuan-Cemetery.pdf",
+          "finalUrl": "https://weblinks.nationalmuseum.gov.ph/wp-content/uploads/2024/07/22094948/Bidding-Documents-Janiuay-Cemetery-and-Cabatuan-Cemetery.pdf",
+          "status": 200,
+          "title": "",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "batanes-tayid-lighthouse",
+      "name": "Tayid Lighthouse",
+      "destination": "Batanes",
+      "municipality": "Mahatao",
+      "category": "Culture",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-021",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://bookings.breathtakingbatanes.com/",
+          "finalUrl": "https://bookings.breathtakingbatanes.com/",
+          "status": 200,
+          "title": "Tourism Portal",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    }
+  ]
+}

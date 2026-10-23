@@ -1,0 +1,229 @@
+{
+  "destination": "Cebu",
+  "batch": 3,
+  "kind": "Export snapshot of reviewed candidate batch",
+  "entries": [
+    {
+      "id": "cebu-lantaw-compostela",
+      "name": "Lantaw — Compostela",
+      "destination_group": "Cebu",
+      "region": "Central Visayas",
+      "province": "Cebu",
+      "city_municipality": "Compostela",
+      "barangay": null,
+      "address": "Guiwanon, before Shell",
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "MICHELIN Guide — current venue review",
+          "sourceUrl": "https://guide.michelin.com/gb/en/central-visayas/cebu-city_2340421/restaurant/lantaw-compostela",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "MICHELIN Guide — current venue review",
+          "sourceUrl": "https://guide.michelin.com/gb/en/central-visayas/cebu-city_2340421/restaurant/lantaw-compostela",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "MICHELIN Guide — current venue review",
+          "sourceUrl": "https://guide.michelin.com/gb/en/central-visayas/cebu-city_2340421/restaurant/lantaw-compostela",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "category": "Food & drink",
+      "description": "Lantaw’s Compostela restaurant serves Filipino food in an open-air seaside setting. Chicken Bacolod is highlighted in the current review; this location is outside Cebu City and needs a separately planned journey.",
+      "interests": [
+        "Food Hunter"
+      ],
+      "itinerary_base_slug": null,
+      "catalog_stop_id": null,
+      "status": "accepted",
+      "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+      "reviewed_on": "2026-10-22",
+      "planning": {
+        "base_slug": null,
+        "mode": "local",
+        "cluster": "cebu-lantaw-compostela",
+        "minutes": 90,
+        "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+        "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+        "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+        "requiresBooking": false,
+        "scheduling": "manual",
+        "outdoor": false,
+        "openingHours": {
+          "weekdays": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "opens": "10:00",
+          "closes": "22:00",
+          "source": {
+            "sourceName": "MICHELIN Guide — current venue review",
+            "sourceUrl": "https://guide.michelin.com/gb/en/central-visayas/cebu-city_2340421/restaurant/lantaw-compostela",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          }
+        }
+      },
+      "slug": "cebu-lantaw-compostela"
+    },
+    {
+      "id": "cebu-ricos-mandaue",
+      "name": "Rico’s Lechon — Mandaue",
+      "destination_group": "Cebu",
+      "region": "Central Visayas",
+      "province": "Cebu",
+      "city_municipality": "Mandaue City",
+      "barangay": null,
+      "address": "Unit F1, Jamestown, Mantawi International Drive, SSEAZ",
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "Rico’s Lechon — Mandaue — venue website",
+          "sourceUrl": "https://ricoslechon.com/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Rico’s Lechon — Mandaue — venue website",
+          "sourceUrl": "https://ricoslechon.com/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "Rico’s Lechon — Mandaue — venue website",
+          "sourceUrl": "https://ricoslechon.com/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "category": "Food & drink",
+      "description": "Rico’s Mandaue dining branch serves Cebu lechon at Jamestown on Mantawi International Drive. The brand offers original and spicy roast pork; this record represents one branch, not each service counter at the site.",
+      "interests": [
+        "Food Hunter"
+      ],
+      "itinerary_base_slug": "cebu",
+      "catalog_stop_id": "cebu-ricos-mandaue",
+      "status": "accepted",
+      "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+      "reviewed_on": "2026-10-22",
+      "planning": {
+        "base_slug": "cebu",
+        "mode": "local",
+        "cluster": "cebu-ricos-mandaue",
+        "minutes": 90,
+        "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+        "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+        "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+        "requiresBooking": false,
+        "scheduling": "manual",
+        "outdoor": false
+      },
+      "slug": "cebu-ricos-mandaue"
+    },
+    {
+      "id": "cebu-punched-mabuhay",
+      "name": "Punched Coffee — Mabuhay Tower",
+      "destination_group": "Cebu",
+      "region": "Central Visayas",
+      "province": "Cebu",
+      "city_municipality": "Cebu City",
+      "barangay": null,
+      "address": "Mabuhay Tower, Cebu Business Park",
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "Punched Coffee — Mabuhay Tower — venue website",
+          "sourceUrl": "https://getpunched.com/locations",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Punched Coffee — Mabuhay Tower — venue website",
+          "sourceUrl": "https://getpunched.com/locations",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "Punched Coffee — Mabuhay Tower — venue website",
+          "sourceUrl": "https://getpunched.com/locations",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "category": "Food & drink",
+      "description": "Punched’s Mabuhay Tower café is in Cebu Business Park, with a published daily visiting window. It is one of the roaster’s named café destinations, distinct from its Johndorf Tower location.",
+      "interests": [
+        "Food Hunter",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "cebu",
+      "catalog_stop_id": "cebu-punched-mabuhay",
+      "status": "accepted",
+      "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+      "reviewed_on": "2026-10-22",
+      "planning": {
+        "base_slug": "cebu",
+        "mode": "local",
+        "cluster": "cebu-punched-mabuhay",
+        "minutes": 60,
+        "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+        "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+        "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+        "requiresBooking": false,
+        "scheduling": "candidate",
+        "outdoor": false,
+        "openingHours": {
+          "weekdays": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "opens": "07:00",
+          "closes": "20:00",
+          "source": {
+            "sourceName": "Punched Coffee — Mabuhay Tower — venue website",
+            "sourceUrl": "https://getpunched.com/locations",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          }
+        }
+      },
+      "slug": "cebu-punched-mabuhay"
+    }
+  ]
+}

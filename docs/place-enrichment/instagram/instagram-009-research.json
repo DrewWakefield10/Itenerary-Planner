@@ -1,0 +1,427 @@
+{
+  "batchId": "instagram-009",
+  "checkedOn": "2026-10-22",
+  "mode": "unapproved-research",
+  "records": [
+    {
+      "placeId": "batanes-basco-plaza",
+      "name": "Basco Plaza",
+      "destination": "Batanes",
+      "municipality": "Basco",
+      "category": "Parks & markets",
+      "hasApprovedPhoto": false,
+      "batchId": "instagram-009",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://en.wikivoyage.org/wiki/Basco",
+          "finalUrl": "https://en.wikivoyage.org/wiki/Basco",
+          "status": 200,
+          "title": "Basco – Travel guide at Wikivoyage",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "el-nido-artcafe",
+      "name": "El Nido Boutique & Artcafe",
+      "destination": "Palawan",
+      "municipality": "El Nido",
+      "category": "Food & drink",
+      "hasApprovedPhoto": false,
+      "batchId": "instagram-009",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://elnidoboutiqueandartcafe.com/artcafe-restuarant/",
+          "finalUrl": "https://elnidoboutiqueandartcafe.com/artcafe-restuarant/",
+          "status": 200,
+          "title": "ARTCAFE RESTAURANT - El Nido Boutique ArtCafe | Travel Center and Tours, Organic Farm to Table in Palawan, Philippines",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "el-nido-trattoria-altrove",
+      "name": "Trattoria Altrove — El Nido",
+      "destination": "Palawan",
+      "municipality": "El Nido",
+      "category": "Food & drink",
+      "hasApprovedPhoto": false,
+      "batchId": "instagram-009",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://www.trattoriaaltrove.com/",
+          "finalUrl": "https://www.trattoriaaltrove.com/",
+          "status": 200,
+          "title": "Trattoria Altrove | Born from Love. Fired with Passion.",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "coron-trattoria-altrove",
+      "name": "Trattoria Altrove — Coron",
+      "destination": "Palawan",
+      "municipality": "Coron",
+      "category": "Food & drink",
+      "hasApprovedPhoto": false,
+      "batchId": "instagram-009",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://www.trattoriaaltrove.com/",
+          "finalUrl": "https://www.trattoriaaltrove.com/",
+          "status": 200,
+          "title": "Trattoria Altrove | Born from Love. Fired with Passion.",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "cebu-pig-and-palm",
+      "name": "The Pig & Palm",
+      "destination": "Cebu",
+      "municipality": "Cebu City",
+      "category": "Food & drink",
+      "hasApprovedPhoto": false,
+      "batchId": "instagram-009",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://thepigandpalm.ph/",
+          "status": null,
+          "error": "fetch failed",
+          "candidates": [],
+          "limitation": "Inaccessible publisher source; no private content or authentication workaround attempted."
+        }
+      ]
+    },
+    {
+      "placeId": "cebu-abaca-baking-crossroads",
+      "name": "Abaca Baking Company - Crossroads",
+      "destination": "Cebu",
+      "municipality": "Cebu City",
+      "category": "Food & drink",
+      "hasApprovedPhoto": false,
+      "batchId": "instagram-009",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://crossroadscebu.com/eat-drink/",
+          "finalUrl": "https://crossroadscebu.com/eat-drink/",
+          "status": 200,
+          "title": "Eat drink &#8211; CROSSROADS",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "bohol-green-thumb-farm",
+      "name": "Green Thumb Farm",
+      "destination": "Bohol",
+      "municipality": "Corella",
+      "category": "Nature",
+      "hasApprovedPhoto": false,
+      "batchId": "instagram-009",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://tourism.bohol.gov.ph/visitbohol-corella-3/",
+          "status": null,
+          "error": "The operation was aborted due to timeout",
+          "candidates": [],
+          "limitation": "Inaccessible publisher source; no private content or authentication workaround attempted."
+        }
+      ]
+    },
+    {
+      "placeId": "bohol-quinale-beach",
+      "name": "Quinale Beach",
+      "destination": "Bohol",
+      "municipality": "Anda",
+      "category": "Nature",
+      "hasApprovedPhoto": false,
+      "batchId": "instagram-009",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://tourism.bohol.gov.ph/visitbohol-anda/",
+          "status": null,
+          "error": "The operation was aborted due to timeout",
+          "candidates": [],
+          "limitation": "Inaccessible publisher source; no private content or authentication workaround attempted."
+        }
+      ]
+    },
+    {
+      "placeId": "bohol-cabagnow-cave-pool",
+      "name": "Cabagnow Cave Pool",
+      "destination": "Bohol",
+      "municipality": "Anda",
+      "category": "Nature",
+      "hasApprovedPhoto": false,
+      "batchId": "instagram-009",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://tourism.bohol.gov.ph/visitbohol-anda/",
+          "status": null,
+          "error": "The operation was aborted due to timeout",
+          "candidates": [],
+          "limitation": "Inaccessible publisher source; no private content or authentication workaround attempted."
+        }
+      ]
+    },
+    {
+      "placeId": "bohol-edith-grand-garden",
+      "name": "Edith Grand Garden Wellness Resort & Adventure Park",
+      "destination": "Bohol",
+      "municipality": "Baclayon",
+      "category": "Attractions",
+      "hasApprovedPhoto": false,
+      "batchId": "instagram-009",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://baclayon.bohol.gov.ph/tourism/",
+          "finalUrl": "https://baclayon.bohol.gov.ph/tourism/",
+          "status": 200,
+          "title": "Tourism | Municipality Of Baclayon",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "bohol-saffron-restaurant",
+      "name": "Saffron Restaurant - Amorita Resort",
+      "destination": "Bohol",
+      "municipality": "Panglao",
+      "category": "Food & drink",
+      "hasApprovedPhoto": false,
+      "batchId": "instagram-009",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://www.amoritaresort.com/saffron-menu",
+          "finalUrl": "https://www.amoritaresort.com/saffron-menu",
+          "status": 200,
+          "title": "Saffron Menu | Discover Delicious Dining Today &mdash; Amorita Resort",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "bohol-prawn-farm-bolod",
+      "name": "The Prawn Farm Grill and Seafoods - Bolod",
+      "destination": "Bohol",
+      "municipality": "Panglao",
+      "category": "Food & drink",
+      "hasApprovedPhoto": false,
+      "batchId": "instagram-009",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://www.panglaotourism.com/directory/the-prawn-farm-grill-and-seafoods/",
+          "finalUrl": "https://www.panglaotourism.com/directory/the-prawn-farm-grill-and-seafoods/",
+          "status": 200,
+          "title": "The Prawn Farm Grill and Seafoods &#8211; Panglao Tourism",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "manila-eng-bee-tin-ongpin",
+      "name": "Eng Bee Tin - Ongpin Flagship",
+      "destination": "Manila",
+      "municipality": "Manila",
+      "category": "Food & drink",
+      "hasApprovedPhoto": false,
+      "batchId": "instagram-009",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://www.engbeetin.com/",
+          "finalUrl": "https://www.engbeetin.com/",
+          "status": 200,
+          "title": "Eng Bee Tin Chinese Deli &#8211; Home of the Best Hopia & Tikoy",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "baguio-pink-sisters",
+      "name": "Pink Sisters' Convent and Chapel",
+      "destination": "Baguio",
+      "municipality": "Baguio City",
+      "category": "Culture",
+      "hasApprovedPhoto": false,
+      "batchId": "instagram-009",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://infoboard.baguio.gov.ph/tourists-spots",
+          "finalUrl": "https://infoboard.baguio.gov.ph/tourists-spots",
+          "status": 200,
+          "title": "",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        },
+        {
+          "url": "https://main.baguio.gov.ph/api/infoboard/tourist-spots/pink-sisters-convent-and-chapel",
+          "finalUrl": "https://main.baguio.gov.ph/api/infoboard/tourist-spots/pink-sisters-convent-and-chapel",
+          "status": 200,
+          "title": "",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "baguio-bamboo-sanctuary",
+      "name": "St. Francis Xavier Bamboo Sanctuary",
+      "destination": "Baguio",
+      "municipality": "Baguio City",
+      "category": "Nature",
+      "hasApprovedPhoto": false,
+      "batchId": "instagram-009",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://infoboard.baguio.gov.ph/tourists-spots",
+          "finalUrl": "https://infoboard.baguio.gov.ph/tourists-spots",
+          "status": 200,
+          "title": "",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        },
+        {
+          "url": "https://main.baguio.gov.ph/api/infoboard/tourist-spots/bamboo-sanctuary",
+          "finalUrl": "https://main.baguio.gov.ph/api/infoboard/tourist-spots/bamboo-sanctuary",
+          "status": 200,
+          "title": "",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "baguio-nardas-handwoven",
+      "name": "Narda's Handwoven Arts and Crafts",
+      "destination": "Baguio",
+      "municipality": "Baguio City",
+      "category": "Culture",
+      "hasApprovedPhoto": false,
+      "batchId": "instagram-009",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://infoboard.baguio.gov.ph/tourists-spots",
+          "finalUrl": "https://infoboard.baguio.gov.ph/tourists-spots",
+          "status": 200,
+          "title": "",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        },
+        {
+          "url": "https://main.baguio.gov.ph/api/infoboard/tourist-spots/nardas-handwoven-arts-crafts",
+          "finalUrl": "https://main.baguio.gov.ph/api/infoboard/tourist-spots/nardas-handwoven-arts-crafts",
+          "status": 200,
+          "title": "",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "baguio-choco-late-batirol",
+      "name": "Choco-late de Batirol - Camp John Hay",
+      "destination": "Baguio",
+      "municipality": "Baguio City",
+      "category": "Food & drink",
+      "hasApprovedPhoto": false,
+      "batchId": "instagram-009",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://www.chocolatedebatirol.com/blank-3",
+          "finalUrl": "https://www.chocolatedebatirol.com/blank-3",
+          "status": 200,
+          "title": "Contact | Choco-lateDeBatirol",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "baguio-hill-station",
+      "name": "Hill Station Restaurant",
+      "destination": "Baguio",
+      "municipality": "Baguio City",
+      "category": "Food & drink",
+      "hasApprovedPhoto": false,
+      "batchId": "instagram-009",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://www.casavallejo.online/",
+          "finalUrl": "https://www.casavallejo.online/",
+          "status": 200,
+          "title": "Casa Vallejo",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "baguio-amare-outlook",
+      "name": "Amare La Cucina - Outlook Drive",
+      "destination": "Baguio",
+      "municipality": "Baguio City",
+      "category": "Food & drink",
+      "hasApprovedPhoto": false,
+      "batchId": "instagram-009",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://amarelacucina.com/contact-amare-la-cucina/",
+          "finalUrl": "https://amarelacucina.com/contact-amare-la-cucina/",
+          "status": 200,
+          "title": "Contact Amare La Cucina – Baguio’s #1 Italian Delight",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "baguio-craft-brewery",
+      "name": "Baguio Craft Brewery",
+      "destination": "Baguio",
+      "municipality": "Baguio City",
+      "category": "Food & drink",
+      "hasApprovedPhoto": false,
+      "batchId": "instagram-009",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://www.baguiocraftbrewery.net/",
+          "finalUrl": "https://www.baguiocraftbrewery.net/",
+          "status": 200,
+          "title": "Baguio Craft Brewery",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    }
+  ]
+}

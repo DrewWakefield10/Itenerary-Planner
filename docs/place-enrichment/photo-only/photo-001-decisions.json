@@ -1,0 +1,2187 @@
+{
+  "batchId": "photo-001",
+  "mode": "photos-only",
+  "checkedOn": "2026-10-22",
+  "entries": [
+    {
+      "placeId": "siargao-catangnan-bridge",
+      "approved": false,
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "Catangnan–Cabitoonan Bridge",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Catangnan%E2%80%93Cabitoonan+Bridge&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Catangnan–Cabitoonan Bridge Siargao",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Catangnan%E2%80%93Cabitoonan+Bridge+Siargao&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Catangnan–Cabitoonan Bridge Siargao",
+          "url": "https://www.flickr.com/search/?text=Catangnan%E2%80%93Cabitoonan+Bridge+Siargao&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Catangnan bridge",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Catangnan+bridge&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Catangnan bridge",
+          "url": "https://www.flickr.com/search/?text=Catangnan+bridge&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=Catangnan+bridge&srlimit=4",
+          "categories": []
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=Catangnan%E2%80%93Cabitoonan+Bridge&limit=3",
+          "candidates": []
+        }
+      ],
+      "rejections": [],
+      "notes": [
+        "No permission requested and no owner contacted. Official/public visibility alone does not grant reuse rights."
+      ],
+      "reason": "No photograph established both the exact place/branch and compatible individual-image reuse rights in the reviewed searches. A supplied photograph with documented rights is needed."
+    },
+    {
+      "placeId": "siargao-daku-island",
+      "approved": true,
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "Daku Island",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Daku+Island&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 8
+        },
+        {
+          "provider": "Commons",
+          "query": "Daku Island Siargao",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Daku+Island+Siargao&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 8
+        },
+        {
+          "provider": "Flickr",
+          "query": "Daku Island Siargao",
+          "url": "https://www.flickr.com/search/?text=Daku+Island+Siargao&license=4%2C5%2C9%2C10",
+          "count": 7
+        },
+        {
+          "provider": "Flickr",
+          "query": "Daku Island",
+          "url": "https://www.flickr.com/search/?text=Daku+Island&license=4%2C5%2C9%2C10",
+          "count": 11
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=Daku+Island&srlimit=4",
+          "categories": [
+            "Category:Daku Island, Surigao del Norte",
+            "Category:Beaches of Daku Island, Surigao del Norte",
+            "Category:Guyam Island"
+          ]
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=Daku+Island&limit=3",
+          "candidates": [
+            {
+              "id": "Q16555043",
+              "label": "Daco Island",
+              "description": "island in the Philippines",
+              "url": "http://www.wikidata.org/entity/Q16555043"
+            }
+          ]
+        }
+      ],
+      "rejections": [
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Siargao_13.jpg",
+          "title": "File:Siargao 13.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Siargao_12.jpg",
+          "title": "File:Siargao 12.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Siargao_20.jpg",
+          "title": "File:Siargao 20.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Siargao_22.jpg",
+          "title": "File:Siargao 22.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Jangan_Pisahkan_daku_dengan_lautku.jpg",
+          "title": "File:Jangan Pisahkan daku dengan lautku.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Daku_Barrios.jpg",
+          "title": "File:Daku Barrios.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Daku_Barrios_(cropped).jpg",
+          "title": "File:Daku Barrios (cropped).jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Siargao_11.jpg",
+          "title": "File:Siargao 11.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Siargao_14.jpg",
+          "title": "File:Siargao 14.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Siargao_16.jpg",
+          "title": "File:Siargao 16.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Siargao_19.jpg",
+          "title": "File:Siargao 19.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Siargao_21.jpg",
+          "title": "File:Siargao 21.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/24141546@N06/16882456849/",
+          "title": "Daku Island",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/28722516@N02/3233776372/",
+          "title": "Begonia sp on Daku Island Beach",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/24141546@N06/16880879478/",
+          "title": "IMG_2937",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/24141546@N06/16446224734/",
+          "title": "IMG_2941",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/lee_marq/20066371426/",
+          "title": "IMG_2043",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/24141546@N06/17068665165/",
+          "title": "IMG_2949",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/lee_marq/19470009354/",
+          "title": "IMG_2067",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/bdearth/7499482980/",
+          "title": "Kava ceremony on Kadavu",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/bdearth/7499483284/",
+          "title": "Church on Kadavu",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/bdearth/7499483892/",
+          "title": "Bright house on Kadavu",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/lee_marq/18739799980/",
+          "title": "Untitled",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        }
+      ],
+      "notes": [],
+      "visuallyReviewed": true,
+      "licenseReviewed": true,
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Siargao_17.jpg"
+      ],
+      "identityReview": "Individual file page places the photograph in Beaches of Daku Island, Surigao del Norte and supplies island coordinates. Visually reviewed the shoreline and boats; original upload is own work under CC BY-SA 4.0.",
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Siargao_17.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Siargao_17.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "ChaasPrime",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "ChaasPrime / Wikimedia Commons / CC BY-SA 4.0. Resized and JPEG compressed.",
+        "alt": "Boats beside the sandy shoreline of Daku Island, General Luna, Siargao"
+      },
+      "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Siargao_17.jpg/1280px-Siargao_17.jpg",
+      "individualSourceEvidence": {
+        "api": "https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=1280&titles=File%3ASiargao_17.jpg",
+        "parseUrl": "https://commons.wikimedia.org/w/api.php?action=parse&format=json&page=File%3ASiargao_17.jpg&prop=wikitext",
+        "description": "Siargao",
+        "categories": "Self-published work|Images from Wiki Loves Earth 2018|Files with coordinates missing SDC location of creation|Images from Wiki Loves Earth 2018 in the Philippines|Philippines photographs taken on 2018-05-22|Uploaded via Campaign:wle-ph|Images from Wiki Loves Earth missing SDC depicts|Images from Wiki Loves Earth missing SDC location of creation|Beaches of Daku Island, Surigao del Norte",
+        "latitude": "9.742778",
+        "longitude": "126.155853",
+        "licenseDeclaration": "=={{int:filedesc}}==\n{{Information\n|description={{en|1=Siargao}}\n|date=2018-05-22 12:45:42\n|source={{own}}\n|author=[[User:ChaasPrime|ChaasPrime]]\n|permission=\n|other versions=\n}}\n{{Location|9.742778|126.155853|heading:274.33519553072625}}\n\n=={{int:license-header}}==\n{{self|cc-by-sa-4.0}}\n\n{{Wiki Loves Earth 2018|ph}}\n\n[[Category:Uploaded via Campaign:wle-ph]]\n[[Category:Beaches of Daku Island, Surigao del Norte]]\n[[Category:Philippines photographs taken on 2018-05-22]]",
+        "requiredAttribution": ""
+      }
+    },
+    {
+      "placeId": "siargao-tayangban-cave-pool",
+      "approved": false,
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "Tayangban Cave Pool",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Tayangban+Cave+Pool&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Tayangban Cave Pool Siargao",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Tayangban+Cave+Pool+Siargao&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Tayangban Cave Pool Siargao",
+          "url": "https://www.flickr.com/search/?text=Tayangban+Cave+Pool+Siargao&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Tayangban",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Tayangban&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Tayangban",
+          "url": "https://www.flickr.com/search/?text=Tayangban&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=Tayangban&srlimit=4",
+          "categories": []
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=Tayangban+Cave+Pool&limit=3",
+          "candidates": []
+        }
+      ],
+      "rejections": [],
+      "notes": [
+        "No permission requested and no owner contacted. Official/public visibility alone does not grant reuse rights."
+      ],
+      "reason": "No photograph established both the exact place/branch and compatible individual-image reuse rights in the reviewed searches. A supplied photograph with documented rights is needed."
+    },
+    {
+      "placeId": "siargao-maasin-river",
+      "approved": false,
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "Maasin River",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Maasin+River&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 8
+        },
+        {
+          "provider": "Commons",
+          "query": "Maasin River Siargao",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Maasin+River+Siargao&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Maasin River Siargao",
+          "url": "https://www.flickr.com/search/?text=Maasin+River+Siargao&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Maasin Siargao",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Maasin+Siargao&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Maasin Siargao",
+          "url": "https://www.flickr.com/search/?text=Maasin+Siargao&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=Maasin+Siargao&srlimit=4",
+          "categories": []
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=Maasin+River&limit=3",
+          "candidates": [
+            {
+              "id": "Q35429134",
+              "label": "Maasin River",
+              "description": "stream in Palawan, Philippines",
+              "url": "http://www.wikidata.org/entity/Q35429134"
+            },
+            {
+              "id": "Q35429147",
+              "label": "Maasin River",
+              "description": "stream in Zamboanga City, Philippines",
+              "url": "http://www.wikidata.org/entity/Q35429147"
+            }
+          ]
+        }
+      ],
+      "rejections": [
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:9442Mamalingling,_Dagupan_Maasin,_Mangaldan_36.jpg",
+          "title": "File:9442Mamalingling, Dagupan Maasin, Mangaldan 36.jpg",
+          "reason": "Rejected Maasin rivers in Palawan/Zamboanga and Mangaldan photographs; none establishes the Pilar river."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:9442Mamalingling,_Dagupan_Maasin,_Mangaldan_42.jpg",
+          "title": "File:9442Mamalingling, Dagupan Maasin, Mangaldan 42.jpg",
+          "reason": "Rejected Maasin rivers in Palawan/Zamboanga and Mangaldan photographs; none establishes the Pilar river."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:9442Mamalingling,_Dagupan_Maasin,_Mangaldan_43.jpg",
+          "title": "File:9442Mamalingling, Dagupan Maasin, Mangaldan 43.jpg",
+          "reason": "Rejected Maasin rivers in Palawan/Zamboanga and Mangaldan photographs; none establishes the Pilar river."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:9442Mamalingling,_Dagupan_Maasin,_Mangaldan_46.jpg",
+          "title": "File:9442Mamalingling, Dagupan Maasin, Mangaldan 46.jpg",
+          "reason": "Rejected Maasin rivers in Palawan/Zamboanga and Mangaldan photographs; none establishes the Pilar river."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:9442Mamalingling,_Dagupan_Maasin,_Mangaldan_50.jpg",
+          "title": "File:9442Mamalingling, Dagupan Maasin, Mangaldan 50.jpg",
+          "reason": "Rejected Maasin rivers in Palawan/Zamboanga and Mangaldan photographs; none establishes the Pilar river."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:9442Mamalingling,_Dagupan_Maasin,_Mangaldan_51.jpg",
+          "title": "File:9442Mamalingling, Dagupan Maasin, Mangaldan 51.jpg",
+          "reason": "Rejected Maasin rivers in Palawan/Zamboanga and Mangaldan photographs; none establishes the Pilar river."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:9442Mamalingling,_Dagupan_Maasin,_Mangaldan_52.jpg",
+          "title": "File:9442Mamalingling, Dagupan Maasin, Mangaldan 52.jpg",
+          "reason": "Rejected Maasin rivers in Palawan/Zamboanga and Mangaldan photographs; none establishes the Pilar river."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:9442Mamalingling,_Dagupan_Maasin,_Mangaldan_53.jpg",
+          "title": "File:9442Mamalingling, Dagupan Maasin, Mangaldan 53.jpg",
+          "reason": "Rejected Maasin rivers in Palawan/Zamboanga and Mangaldan photographs; none establishes the Pilar river."
+        }
+      ],
+      "notes": [
+        "No permission requested and no owner contacted. Official/public visibility alone does not grant reuse rights."
+      ],
+      "reason": "Rejected Maasin rivers in Palawan/Zamboanga and Mangaldan photographs; none establishes the Pilar river."
+    },
+    {
+      "placeId": "siargao-pacifico-beach",
+      "approved": false,
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "Pacifico Beach",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Pacifico+Beach&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 8
+        },
+        {
+          "provider": "Commons",
+          "query": "Pacifico Siargao",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Pacifico+Siargao&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Pacifico Beach Siargao",
+          "url": "https://www.flickr.com/search/?text=Pacifico+Beach+Siargao&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Pacifico Siargao",
+          "url": "https://www.flickr.com/search/?text=Pacifico+Siargao&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=Pacifico+Siargao&srlimit=4",
+          "categories": []
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=Pacifico+Beach&limit=3",
+          "candidates": []
+        }
+      ],
+      "rejections": [
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Pacifico_Colombiano.jpg",
+          "title": "File:Pacifico Colombiano.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Playas_del_Coco,_Pacifico_Norte,_June_20.jpg",
+          "title": "File:Playas del Coco, Pacifico Norte, June 20.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Costa_Rica_Tivives_Pacifico_-_panoramio.jpg",
+          "title": "File:Costa Rica Tivives Pacifico - panoramio.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Costa_Rica_Tivives_Plage_Pacifico_-_panoramio.jpg",
+          "title": "File:Costa Rica Tivives Plage Pacifico - panoramio.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Cristo_del_Pacifico_en_el_Morro_Solar.jpg",
+          "title": "File:Cristo del Pacifico en el Morro Solar.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Malec%C3%B3n_junto_al_Oc%C3%A9ano_Pacifico,_Miraflores.jpg",
+          "title": "File:Malecón junto al Océano Pacifico, Miraflores.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Chimney_Rock_Trail_Point_Reyes_December_2016_panorama_2.jpg",
+          "title": "File:Chimney Rock Trail Point Reyes December 2016 panorama 2.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:La_Barra_Pacifico_colombiano.jpg",
+          "title": "File:La Barra Pacifico colombiano.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        }
+      ],
+      "notes": [
+        "No permission requested and no owner contacted. Official/public visibility alone does not grant reuse rights."
+      ],
+      "reason": "No photograph established both the exact place/branch and compatible individual-image reuse rights in the reviewed searches. A supplied photograph with documented rights is needed."
+    },
+    {
+      "placeId": "siargao-alegria-beach",
+      "approved": false,
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "Alegria Beach",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Alegria+Beach&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 8
+        },
+        {
+          "provider": "Commons",
+          "query": "Alegria Siargao",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Alegria+Siargao&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Alegria Beach Siargao",
+          "url": "https://www.flickr.com/search/?text=Alegria+Beach+Siargao&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Alegria Siargao",
+          "url": "https://www.flickr.com/search/?text=Alegria+Siargao&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=Alegria+Siargao&srlimit=4",
+          "categories": []
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=Alegria+Beach&limit=3",
+          "candidates": []
+        }
+      ],
+      "rejections": [
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Laguna_de_Alegr%C3%ADa,_El_Salvador_(12-2010)_-_panoramio.jpg",
+          "title": "File:Laguna de Alegría, El Salvador (12-2010) - panoramio.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:1907-07-10,_%C2%A1Alegr%C3%ADa!,_Playas_de_moda,_Sancha.jpg",
+          "title": "File:1907-07-10, ¡Alegría!, Playas de moda, Sancha.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:1907-07-10,_%C2%A1Alegr%C3%ADa!,_Playas_de_moda,_Sancha_(cropped).jpg",
+          "title": "File:1907-07-10, ¡Alegría!, Playas de moda, Sancha (cropped).jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:6979Damortis,_Rosario_Santo_Tomas_03.jpg",
+          "title": "File:6979Damortis, Rosario Santo Tomas 03.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:6979Damortis,_Rosario_Santo_Tomas_04.jpg",
+          "title": "File:6979Damortis, Rosario Santo Tomas 04.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:6979Damortis,_Rosario_Santo_Tomas_15.jpg",
+          "title": "File:6979Damortis, Rosario Santo Tomas 15.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:6979Damortis,_Rosario_Santo_Tomas_25.jpg",
+          "title": "File:6979Damortis, Rosario Santo Tomas 25.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Alegria_(4768974556).jpg",
+          "title": "File:Alegria (4768974556).jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        }
+      ],
+      "notes": [
+        "No permission requested and no owner contacted. Official/public visibility alone does not grant reuse rights."
+      ],
+      "reason": "No photograph established both the exact place/branch and compatible individual-image reuse rights in the reviewed searches. A supplied photograph with documented rights is needed."
+    },
+    {
+      "placeId": "siargao-taktak-falls",
+      "approved": false,
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "Taktak Falls",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Taktak+Falls&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 7
+        },
+        {
+          "provider": "Commons",
+          "query": "Taktak Falls Siargao",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Taktak+Falls+Siargao&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Taktak Falls Siargao",
+          "url": "https://www.flickr.com/search/?text=Taktak+Falls+Siargao&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Taktak",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Taktak&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 8
+        },
+        {
+          "provider": "Flickr",
+          "query": "Taktak",
+          "url": "https://www.flickr.com/search/?text=Taktak&license=4%2C5%2C9%2C10",
+          "count": 4
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=Taktak&srlimit=4",
+          "categories": [
+            "Category:Hinulugang Taktak",
+            "Category:Hordeum bulbosum",
+            "Category:Taktak Bridge",
+            "Category:Hinulugang Taktak Road"
+          ]
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=Taktak+Falls&limit=3",
+          "candidates": []
+        }
+      ],
+      "rejections": [
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:The_Beauty_of_Hinulugang_taktak_Falls.jpg",
+          "title": "File:The Beauty of Hinulugang taktak Falls.jpg",
+          "reason": "Rejected Hinulugang Taktak in Antipolo and unrelated bridge/botanical results; none establishes the Santa Monica waterfall."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Hinulugang_Taktak_National_Park_falls_with_railings_(Dela_Paz,_Antipolo,_Rizal;_02-06-2024).jpg",
+          "title": "File:Hinulugang Taktak National Park falls with railings (Dela Paz, Antipolo, Rizal; 02-06-2024).jpg",
+          "reason": "Rejected Hinulugang Taktak in Antipolo and unrelated bridge/botanical results; none establishes the Santa Monica waterfall."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Hinulugang_Taktak_National_Park_falls_front_(Dela_Paz,_Antipolo,_Rizal;_02-06-2024).jpg",
+          "title": "File:Hinulugang Taktak National Park falls front (Dela Paz, Antipolo, Rizal; 02-06-2024).jpg",
+          "reason": "Rejected Hinulugang Taktak in Antipolo and unrelated bridge/botanical results; none establishes the Santa Monica waterfall."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Hinulugang_Taktak_National_Park_falls_top_(Dela_Paz,_Antipolo,_Rizal;_02-06-2024).jpg",
+          "title": "File:Hinulugang Taktak National Park falls top (Dela Paz, Antipolo, Rizal; 02-06-2024).jpg",
+          "reason": "Rejected Hinulugang Taktak in Antipolo and unrelated bridge/botanical results; none establishes the Santa Monica waterfall."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Hinulugang_Taktak_National_Park_falls_(Dela_Paz,_Antipolo,_Rizal;_02-06-2024).jpg",
+          "title": "File:Hinulugang Taktak National Park falls (Dela Paz, Antipolo, Rizal; 02-06-2024).jpg",
+          "reason": "Rejected Hinulugang Taktak in Antipolo and unrelated bridge/botanical results; none establishes the Santa Monica waterfall."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Hinulugang_Taktak_Falls,_Antipolo,_Rizal_(2).jpg",
+          "title": "File:Hinulugang Taktak Falls, Antipolo, Rizal (2).jpg",
+          "reason": "Rejected Hinulugang Taktak in Antipolo and unrelated bridge/botanical results; none establishes the Santa Monica waterfall."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Hinulugang_Taktak_Falls,_Antipolo,_Rizal,_Jul_2024.jpg",
+          "title": "File:Hinulugang Taktak Falls, Antipolo, Rizal, Jul 2024.jpg",
+          "reason": "Rejected Hinulugang Taktak in Antipolo and unrelated bridge/botanical results; none establishes the Santa Monica waterfall."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Hordeum_bulbosum_-_Botanischer_Garten_M%C3%BCnchen-Nymphenburg_-_DSC07883.JPG",
+          "title": "File:Hordeum bulbosum - Botanischer Garten München-Nymphenburg - DSC07883.JPG",
+          "reason": "Rejected Hinulugang Taktak in Antipolo and unrelated bridge/botanical results; none establishes the Santa Monica waterfall."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Hordeum_bulbosum_-_Copenhagen_Botanical_Garden_-_DSC07680.JPG",
+          "title": "File:Hordeum bulbosum - Copenhagen Botanical Garden - DSC07680.JPG",
+          "reason": "Rejected Hinulugang Taktak in Antipolo and unrelated bridge/botanical results; none establishes the Santa Monica waterfall."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:9533Hinulugang_Taktak_Road_18.jpg",
+          "title": "File:9533Hinulugang Taktak Road 18.jpg",
+          "reason": "Rejected Hinulugang Taktak in Antipolo and unrelated bridge/botanical results; none establishes the Santa Monica waterfall."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:9533Hinulugang_Taktak_Road_33.jpg",
+          "title": "File:9533Hinulugang Taktak Road 33.jpg",
+          "reason": "Rejected Hinulugang Taktak in Antipolo and unrelated bridge/botanical results; none establishes the Santa Monica waterfall."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:9533Hinulugang_Taktak_Road_36.jpg",
+          "title": "File:9533Hinulugang Taktak Road 36.jpg",
+          "reason": "Rejected Hinulugang Taktak in Antipolo and unrelated bridge/botanical results; none establishes the Santa Monica waterfall."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:9533Hinulugang_Taktak_Road_44.jpg",
+          "title": "File:9533Hinulugang Taktak Road 44.jpg",
+          "reason": "Rejected Hinulugang Taktak in Antipolo and unrelated bridge/botanical results; none establishes the Santa Monica waterfall."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Hordeum_bulbosum,_Marjan,_Split_20250511_01.jpg",
+          "title": "File:Hordeum bulbosum, Marjan, Split 20250511 01.jpg",
+          "reason": "Rejected Hinulugang Taktak in Antipolo and unrelated bridge/botanical results; none establishes the Santa Monica waterfall."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Hordeum_bulbosum,_Marjan,_Split_20250511_20.jpg",
+          "title": "File:Hordeum bulbosum, Marjan, Split 20250511 20.jpg",
+          "reason": "Rejected Hinulugang Taktak in Antipolo and unrelated bridge/botanical results; none establishes the Santa Monica waterfall."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/dmclear/5418506107/",
+          "title": "Taktaks",
+          "reason": "Rejected Hinulugang Taktak in Antipolo and unrelated bridge/botanical results; none establishes the Santa Monica waterfall."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/bigfarmer/48356413181/",
+          "title": "Fooled me. Twice!",
+          "reason": "Rejected Hinulugang Taktak in Antipolo and unrelated bridge/botanical results; none establishes the Santa Monica waterfall."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/bigfarmer/48356411926/",
+          "title": "Fooled me. Twice!",
+          "reason": "Rejected Hinulugang Taktak in Antipolo and unrelated bridge/botanical results; none establishes the Santa Monica waterfall."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/photocapy/3616830185/",
+          "title": "Busy",
+          "reason": "Rejected Hinulugang Taktak in Antipolo and unrelated bridge/botanical results; none establishes the Santa Monica waterfall."
+        }
+      ],
+      "notes": [
+        "No permission requested and no owner contacted. Official/public visibility alone does not grant reuse rights."
+      ],
+      "reason": "Rejected Hinulugang Taktak in Antipolo and unrelated bridge/botanical results; none establishes the Santa Monica waterfall."
+    },
+    {
+      "placeId": "siargao-santa-monica-pier",
+      "approved": false,
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "Santa Monica Pier",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Santa+Monica+Pier&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 8
+        },
+        {
+          "provider": "Commons",
+          "query": "Santa Monica Pier Siargao",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Santa+Monica+Pier+Siargao&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Santa Monica Pier Siargao",
+          "url": "https://www.flickr.com/search/?text=Santa+Monica+Pier+Siargao&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Santa Monica Siargao",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Santa+Monica+Siargao&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Santa Monica Siargao",
+          "url": "https://www.flickr.com/search/?text=Santa+Monica+Siargao&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=Santa+Monica+Siargao&srlimit=4",
+          "categories": []
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=Santa+Monica+Pier&limit=3",
+          "candidates": [
+            {
+              "id": "Q595439",
+              "label": "Santa Monica Pier",
+              "description": "Pier in Santa Monica, California, USA",
+              "url": "http://www.wikidata.org/entity/Q595439"
+            },
+            {
+              "id": "Q7419807",
+              "label": "Heal the Bay Aquarium",
+              "description": "aquarium in Santa Monica, California, USA",
+              "url": "http://www.wikidata.org/entity/Q7419807"
+            },
+            {
+              "id": "Q2075798",
+              "label": "Santa Monica Pier",
+              "url": "http://www.wikidata.org/entity/Q2075798"
+            }
+          ]
+        }
+      ],
+      "rejections": [
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:USA_Santa_Monica_Beach_and_pier_CA.jpg",
+          "title": "File:USA Santa Monica Beach and pier CA.jpg",
+          "reason": "Rejected California Santa Monica Pier and aquarium records; no Siargao pier image with usable rights found."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Aerial_Photo_of_Santa_Monica_Pier.jpg",
+          "title": "File:Aerial Photo of Santa Monica Pier.jpg",
+          "reason": "Rejected California Santa Monica Pier and aquarium records; no Siargao pier image with usable rights found."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Los_Angeles_(California,_USA),_Santa_Monica_Beach_--_2012_--_5301.jpg",
+          "title": "File:Los Angeles (California, USA), Santa Monica Beach -- 2012 -- 5301.jpg",
+          "reason": "Rejected California Santa Monica Pier and aquarium records; no Siargao pier image with usable rights found."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Santa_Monica_Pier_Sunset.jpg",
+          "title": "File:Santa Monica Pier Sunset.jpg",
+          "reason": "Rejected California Santa Monica Pier and aquarium records; no Siargao pier image with usable rights found."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:The_Lobster_restaurant_on_the_Santa_Monica_Pier.jpg",
+          "title": "File:The Lobster restaurant on the Santa Monica Pier.jpg",
+          "reason": "Rejected California Santa Monica Pier and aquarium records; no Siargao pier image with usable rights found."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Front_of_The_Lobster_Restaurant_and_the_Santa_Monica_Pier.jpg",
+          "title": "File:Front of The Lobster Restaurant and the Santa Monica Pier.jpg",
+          "reason": "Rejected California Santa Monica Pier and aquarium records; no Siargao pier image with usable rights found."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Santa_Monica_Pier_sign,_CA.jpg",
+          "title": "File:Santa Monica Pier sign, CA.jpg",
+          "reason": "Rejected California Santa Monica Pier and aquarium records; no Siargao pier image with usable rights found."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Santa_Monica_Pier_(June_2026).jpg",
+          "title": "File:Santa Monica Pier (June 2026).jpg",
+          "reason": "Rejected California Santa Monica Pier and aquarium records; no Siargao pier image with usable rights found."
+        }
+      ],
+      "notes": [
+        "No permission requested and no owner contacted. Official/public visibility alone does not grant reuse rights."
+      ],
+      "reason": "Rejected California Santa Monica Pier and aquarium records; no Siargao pier image with usable rights found."
+    },
+    {
+      "placeId": "siargao-del-carmen-mangrove-viewdeck",
+      "approved": false,
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "Del Carmen Mangrove Viewdeck",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Del+Carmen+Mangrove+Viewdeck&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Del Carmen Mangrove Siargao",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Del+Carmen+Mangrove+Siargao&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 2
+        },
+        {
+          "provider": "Flickr",
+          "query": "Del Carmen Mangrove Viewdeck Siargao",
+          "url": "https://www.flickr.com/search/?text=Del+Carmen+Mangrove+Viewdeck+Siargao&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Del Carmen Siargao mangrove",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Del+Carmen+Siargao+mangrove&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 2
+        },
+        {
+          "provider": "Flickr",
+          "query": "Del Carmen Siargao mangrove",
+          "url": "https://www.flickr.com/search/?text=Del+Carmen+Siargao+mangrove&license=4%2C5%2C9%2C10",
+          "count": 9
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=Del+Carmen+Siargao+mangrove&srlimit=4",
+          "categories": []
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=Del+Carmen+Mangrove+Viewdeck&limit=3",
+          "candidates": []
+        }
+      ],
+      "rejections": [
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:The_Del_Carmen_Mangrove_Reserve,_a_recently_designated_Ramsar_Site_(Copernicus_2024-11-28).png",
+          "title": "File:The Del Carmen Mangrove Reserve, a recently designated Ramsar Site (Copernicus 2024-11-28).png",
+          "reason": "Satellite/aerial images cover the mangrove reserve, not the specific viewdeck. Reptile/boating stills do not establish the actual viewdeck."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:The_Del_Carmen_Mangrove_Reserve,_a_recently_designated_Ramsar_Site_(Copernicus_2024-11-28).webp",
+          "title": "File:The Del Carmen Mangrove Reserve, a recently designated Ramsar Site (Copernicus 2024-11-28).webp",
+          "reason": "Satellite/aerial images cover the mangrove reserve, not the specific viewdeck. Reptile/boating stills do not establish the actual viewdeck."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/inoldnews/54018120968/",
+          "title": "Drone shot of mangroves in the Siargao Island region",
+          "reason": "Satellite/aerial images cover the mangrove reserve, not the specific viewdeck. Reptile/boating stills do not establish the actual viewdeck."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/inoldnews/54018126238/",
+          "title": "Drone shot of mangroves in the Siargao Island region",
+          "reason": "Satellite/aerial images cover the mangrove reserve, not the specific viewdeck. Reptile/boating stills do not establish the actual viewdeck."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/inoldnews/54018139998/",
+          "title": "Drone shot of mangroves in the Siargao Island region",
+          "reason": "Satellite/aerial images cover the mangrove reserve, not the specific viewdeck. Reptile/boating stills do not establish the actual viewdeck."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/inoldnews/54017903621/",
+          "title": "Drone shot of mangroves in the Siargao Island region",
+          "reason": "Satellite/aerial images cover the mangrove reserve, not the specific viewdeck. Reptile/boating stills do not establish the actual viewdeck."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/inoldnews/54017924061/",
+          "title": "Wide shot of boating through dried up mangroves on a sunny day",
+          "reason": "Satellite/aerial images cover the mangrove reserve, not the specific viewdeck. Reptile/boating stills do not establish the actual viewdeck."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/inoldnews/54017008297/",
+          "title": "Drone shot of mangroves in the Siargao Island region",
+          "reason": "Satellite/aerial images cover the mangrove reserve, not the specific viewdeck. Reptile/boating stills do not establish the actual viewdeck."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/inoldnews/54017019312/",
+          "title": "Drone shot of mangroves in the Siargao Island region",
+          "reason": "Satellite/aerial images cover the mangrove reserve, not the specific viewdeck. Reptile/boating stills do not establish the actual viewdeck."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/inoldnews/54018145018/",
+          "title": "Drone shot of mangroves in the Siargao Island region",
+          "reason": "Satellite/aerial images cover the mangrove reserve, not the specific viewdeck. Reptile/boating stills do not establish the actual viewdeck."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/inoldnews/54018354785/",
+          "title": "A tracking shot of a reptile sliding on a mangrove branch",
+          "reason": "Satellite/aerial images cover the mangrove reserve, not the specific viewdeck. Reptile/boating stills do not establish the actual viewdeck."
+        }
+      ],
+      "notes": [
+        "No permission requested and no owner contacted. Official/public visibility alone does not grant reuse rights."
+      ],
+      "reason": "Satellite/aerial images cover the mangrove reserve, not the specific viewdeck. Reptile/boating stills do not establish the actual viewdeck."
+    },
+    {
+      "placeId": "siargao-poneas-lake",
+      "approved": false,
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "Poneas Lake",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Poneas+Lake&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Poneas Lake Siargao",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Poneas+Lake+Siargao&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Poneas Lake Siargao",
+          "url": "https://www.flickr.com/search/?text=Poneas+Lake+Siargao&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Poneas",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Poneas&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 6
+        },
+        {
+          "provider": "Flickr",
+          "query": "Poneas",
+          "url": "https://www.flickr.com/search/?text=Poneas&license=4%2C5%2C9%2C10",
+          "count": 4
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=Poneas&srlimit=4",
+          "categories": [
+            "Category:Konik",
+            "Category:Pony Express"
+          ]
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=Poneas+Lake&limit=3",
+          "candidates": []
+        }
+      ],
+      "rejections": [
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Pony_express.jpg",
+          "title": "File:Pony express.jpg",
+          "reason": "Island-list text and unrelated Indian temple photographs do not depict the San Benito lake."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Pony_Express_route_April_3,_1860_-_October_24,_1861.jpg",
+          "title": "File:Pony Express route April 3, 1860 - October 24, 1861.jpg",
+          "reason": "Island-list text and unrelated Indian temple photographs do not depict the San Benito lake."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Pony_Express,_Fort_Kearny,_Nebraska.png",
+          "title": "File:Pony Express, Fort Kearny, Nebraska.png",
+          "reason": "Island-list text and unrelated Indian temple photographs do not depict the San Benito lake."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Map_by_the_US_Army_Map_Service_-_Poneas_Island_-_mindanao_50k_-_txu-pclmaps-oclc-6348278-poneas-island.jpg",
+          "title": "File:Map by the US Army Map Service - Poneas Island - mindanao 50k - txu-pclmaps-oclc-6348278-poneas-island.jpg",
+          "reason": "Island-list text and unrelated Indian temple photographs do not depict the San Benito lake."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:1940_Pony_Express_80th_Anniversary_3-cent_postage_stamp.jpg",
+          "title": "File:1940 Pony Express 80th Anniversary 3-cent postage stamp.jpg",
+          "reason": "Island-list text and unrelated Indian temple photographs do not depict the San Benito lake."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Pony_express_rider.png",
+          "title": "File:Pony express rider.png",
+          "reason": "Island-list text and unrelated Indian temple photographs do not depict the San Benito lake."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/iamagenious/407645419/",
+          "title": "one of many, many, many islands on the Philippines:",
+          "reason": "Island-list text and unrelated Indian temple photographs do not depict the San Benito lake."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/jonhurd/2352672888/",
+          "title": "Manguesh Temple",
+          "reason": "Island-list text and unrelated Indian temple photographs do not depict the San Benito lake."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/jonhurd/2351843949/",
+          "title": "Manguesh TempleChariot",
+          "reason": "Island-list text and unrelated Indian temple photographs do not depict the San Benito lake."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/jonhurd/2352674682/",
+          "title": "Manguesh Temple Tower",
+          "reason": "Island-list text and unrelated Indian temple photographs do not depict the San Benito lake."
+        }
+      ],
+      "notes": [
+        "No permission requested and no owner contacted. Official/public visibility alone does not grant reuse rights."
+      ],
+      "reason": "Island-list text and unrelated Indian temple photographs do not depict the San Benito lake."
+    },
+    {
+      "placeId": "siargao-sohoton-cove",
+      "approved": false,
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "Sohoton Cove",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Sohoton+Cove&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 7
+        },
+        {
+          "provider": "Commons",
+          "query": "Sohoton Cove Siargao",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Sohoton+Cove+Siargao&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 1
+        },
+        {
+          "provider": "Flickr",
+          "query": "Sohoton Cove Siargao",
+          "url": "https://www.flickr.com/search/?text=Sohoton+Cove+Siargao&license=4%2C5%2C9%2C10",
+          "count": 1
+        },
+        {
+          "provider": "Commons",
+          "query": "Sohoton Bucas Grande",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Sohoton+Bucas+Grande&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 1
+        },
+        {
+          "provider": "Flickr",
+          "query": "Sohoton Bucas Grande",
+          "url": "https://www.flickr.com/search/?text=Sohoton+Bucas+Grande&license=4%2C5%2C9%2C10",
+          "count": 1
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=Sohoton+Bucas+Grande&srlimit=4",
+          "categories": []
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=Sohoton+Cove&limit=3",
+          "candidates": []
+        }
+      ],
+      "rejections": [
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Ph_locator_surigao_del_norte_socorro.png",
+          "title": "File:Ph locator surigao del norte socorro.png",
+          "reason": "Flickr source titles identify Sohoton and indicate CC BY 2.0, but the Flickr image CDN timed out in Node and PowerShell. The photograph could not be visually inspected; no Dapa-channel or neighboring-island substitute published."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Dapa_channel.jpg",
+          "title": "File:Dapa channel.jpg",
+          "reason": "Flickr source titles identify Sohoton and indicate CC BY 2.0, but the Flickr image CDN timed out in Node and PowerShell. The photograph could not be visually inspected; no Dapa-channel or neighboring-island substitute published."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Dapa_channel_2.jpg",
+          "title": "File:Dapa channel 2.jpg",
+          "reason": "Flickr source titles identify Sohoton and indicate CC BY 2.0, but the Flickr image CDN timed out in Node and PowerShell. The photograph could not be visually inspected; no Dapa-channel or neighboring-island substitute published."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Middle_Bucas_Grande_in_Dapa,_Siargao.jpg",
+          "title": "File:Middle Bucas Grande in Dapa, Siargao.jpg",
+          "reason": "Flickr source titles identify Sohoton and indicate CC BY 2.0, but the Flickr image CDN timed out in Node and PowerShell. The photograph could not be visually inspected; no Dapa-channel or neighboring-island substitute published."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Horsfieldia_ramosii_Merr_nmnhbotany_2099377_NMNH-00098925.jpg",
+          "title": "File:Horsfieldia ramosii Merr nmnhbotany 2099377 NMNH-00098925.jpg",
+          "reason": "Flickr source titles identify Sohoton and indicate CC BY 2.0, but the Flickr image CDN timed out in Node and PowerShell. The photograph could not be visually inspected; no Dapa-channel or neighboring-island substitute published."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Oxymitra_oligophlebia_Merr_nmnhbotany_2099380_NMNH-00098822.jpg",
+          "title": "File:Oxymitra oligophlebia Merr nmnhbotany 2099380 NMNH-00098822.jpg",
+          "reason": "Flickr source titles identify Sohoton and indicate CC BY 2.0, but the Flickr image CDN timed out in Node and PowerShell. The photograph could not be visually inspected; no Dapa-channel or neighboring-island substitute published."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Nepenthes_merrilliana_lower_pitchers.jpg",
+          "title": "File:Nepenthes merrilliana lower pitchers.jpg",
+          "reason": "Flickr source titles identify Sohoton and indicate CC BY 2.0, but the Flickr image CDN timed out in Node and PowerShell. The photograph could not be visually inspected; no Dapa-channel or neighboring-island substitute published."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/93788068@N02/51959825160/",
+          "title": "Sohoton Cove",
+          "reason": "Flickr source titles identify Sohoton and indicate CC BY 2.0, but the Flickr image CDN timed out in Node and PowerShell. The photograph could not be visually inspected; no Dapa-channel or neighboring-island substitute published."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/93788068@N02/51959243176/",
+          "title": "Sohoton Bucas Grande",
+          "reason": "Flickr source titles identify Sohoton and indicate CC BY 2.0, but the Flickr image CDN timed out in Node and PowerShell. The photograph could not be visually inspected; no Dapa-channel or neighboring-island substitute published."
+        }
+      ],
+      "notes": [
+        "No permission requested and no owner contacted. Official/public visibility alone does not grant reuse rights."
+      ],
+      "reason": "Flickr source titles identify Sohoton and indicate CC BY 2.0, but the Flickr image CDN timed out in Node and PowerShell. The photograph could not be visually inspected; no Dapa-channel or neighboring-island substitute published."
+    },
+    {
+      "placeId": "siargao-corregidor-island",
+      "approved": true,
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "Corregidor Island",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Corregidor+Island&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 8
+        },
+        {
+          "provider": "Commons",
+          "query": "Corregidor Island Siargao",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Corregidor+Island+Siargao&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 1
+        },
+        {
+          "provider": "Flickr",
+          "query": "Corregidor Island Siargao",
+          "url": "https://www.flickr.com/search/?text=Corregidor+Island+Siargao&license=4%2C5%2C9%2C10",
+          "count": 1
+        },
+        {
+          "provider": "Commons",
+          "query": "Casolian Siargao",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Casolian+Siargao&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 1
+        },
+        {
+          "provider": "Flickr",
+          "query": "Casolian Siargao",
+          "url": "https://www.flickr.com/search/?text=Casolian+Siargao&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=Casolian+Siargao&srlimit=4",
+          "categories": []
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=Corregidor+Island&limit=3",
+          "candidates": [
+            {
+              "id": "Q928075",
+              "label": "Corregidor",
+              "description": "island in the Philippines",
+              "url": "http://www.wikidata.org/entity/Q928075"
+            },
+            {
+              "id": "Q16544298",
+              "label": "Casulian Island",
+              "description": "island in the Philippines",
+              "url": "http://www.wikidata.org/entity/Q16544298"
+            },
+            {
+              "id": "Q5172821",
+              "label": "Corregidor Island lighthouse",
+              "description": "original lighthouse in Corregidor Island, Philippines",
+              "url": "http://www.wikidata.org/entity/Q5172821"
+            }
+          ]
+        }
+      ],
+      "rejections": [
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Corregidor_landsat2000.jpeg",
+          "title": "File:Corregidor landsat2000.jpeg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Corregidor_Lighthouse_in_1893.jpg",
+          "title": "File:Corregidor Lighthouse in 1893.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Corregidor_Island_LIghthouse.jpg",
+          "title": "File:Corregidor Island LIghthouse.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Corregidor_Island_in_1899.jpg",
+          "title": "File:Corregidor Island in 1899.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Corregidor_Island_Spanish_Lighthouse.jpg",
+          "title": "File:Corregidor Island Spanish Lighthouse.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Corregidor_island.jpg",
+          "title": "File:Corregidor island.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Corregidor_Island.jpg",
+          "title": "File:Corregidor Island.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Corregidor_Island_Map.jpg",
+          "title": "File:Corregidor Island Map.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/iamagenious/407645419/",
+          "title": "one of many, many, many islands on the Philippines:",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        }
+      ],
+      "notes": [],
+      "visuallyReviewed": true,
+      "licenseReviewed": true,
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Corregidor_or_Casolian_Island,_Siargao.jpg"
+      ],
+      "identityReview": "Individual photo description explicitly identifies Corregidor/Casolian Island in Siargao and the Dapa category. Visually reviewed the grassy island setting; excluded Manila Bay Corregidor. Own-work CC BY-SA 4.0 declaration checked.",
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Corregidor_or_Casolian_Island,_Siargao.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Corregidor_or_Casolian_Island%2C_Siargao.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "Michael Angelo Luna",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "Michael Angelo Luna / Wikimedia Commons / CC BY-SA 4.0. Resized and JPEG compressed.",
+        "alt": "Grassy hillside and coastal view on Corregidor or Casolian Island near Siargao"
+      },
+      "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Corregidor_or_Casolian_Island%2C_Siargao.jpg/1280px-Corregidor_or_Casolian_Island%2C_Siargao.jpg",
+      "individualSourceEvidence": {
+        "api": "https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=1280&titles=File%3ACorregidor_or_Casolian_Island%2C_Siargao.jpg",
+        "parseUrl": "https://commons.wikimedia.org/w/api.php?action=parse&format=json&page=File%3ACorregidor_or_Casolian_Island%2C_Siargao.jpg&prop=wikitext",
+        "description": "Casolian Island or Corregidor Island in Siargao is a popular island hopping sites for tourists in Siargao. A picturesque site that is similar to Batanes.",
+        "categories": "Dapa, Surigao del Norte|Self-published work|Images from Wiki Loves Earth 2023|Images from Wiki Loves Earth 2023 in the Philippines|Uploaded via Campaign:wle-ph|Images from Wiki Loves Earth missing SDC depicts|Images from Wiki Loves Earth missing SDC location of creation",
+        "licenseDeclaration": "=={{int:filedesc}}==\n{{Information\n|description={{en|1=Casolian Island or Corregidor Island in Siargao is a popular island hopping sites for tourists in Siargao. A picturesque site that is similar to Batanes.}}{{Wiki Loves Earth 2023 special nomination|no}}\n|date=2023-04-20\n|source={{own}}\n|author=[[User:Micluna|Michael Angelo Luna]]\n|permission=\n|other versions=\n}}\n\n=={{int:license-header}}==\n{{self|cc-by-sa-4.0}}\n\n{{Wiki Loves Earth 2023|ph}}\n\n[[Category:Dapa, Surigao del Norte]]\n[[Category:Uploaded via Campaign:wle-ph]]",
+        "requiredAttribution": ""
+      }
+    },
+    {
+      "placeId": "siargao-paghungawan-marsh",
+      "approved": false,
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "Paghungawan Marsh",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Paghungawan+Marsh&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Paghungawan Marsh Siargao",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Paghungawan+Marsh+Siargao&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Paghungawan Marsh Siargao",
+          "url": "https://www.flickr.com/search/?text=Paghungawan+Marsh+Siargao&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Paghungawan",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Paghungawan&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Paghungawan",
+          "url": "https://www.flickr.com/search/?text=Paghungawan&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=Paghungawan&srlimit=4",
+          "categories": []
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=Paghungawan+Marsh&limit=3",
+          "candidates": []
+        }
+      ],
+      "rejections": [],
+      "notes": [
+        "No permission requested and no owner contacted. Official/public visibility alone does not grant reuse rights."
+      ],
+      "reason": "No photograph established both the exact place/branch and compatible individual-image reuse rights in the reviewed searches. A supplied photograph with documented rights is needed."
+    },
+    {
+      "placeId": "siargao-somyot-cave",
+      "approved": false,
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "Somyot Cave",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Somyot+Cave&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Somyot Cave Siargao",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Somyot+Cave+Siargao&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Somyot Cave Siargao",
+          "url": "https://www.flickr.com/search/?text=Somyot+Cave+Siargao&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Somyot",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Somyot&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 7
+        },
+        {
+          "provider": "Flickr",
+          "query": "Somyot",
+          "url": "https://www.flickr.com/search/?text=Somyot&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=Somyot&srlimit=4",
+          "categories": [
+            "Category:Somyot (given name)"
+          ]
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=Somyot+Cave&limit=3",
+          "candidates": []
+        }
+      ],
+      "rejections": [
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Somyot_Chueathai_2011-01-22_001.jpg",
+          "title": "File:Somyot Chueathai 2011-01-22 001.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Somyot_Poompanmoung.jpg",
+          "title": "File:Somyot Poompanmoung.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Somyot_Poompanmoung_20191102.jpg",
+          "title": "File:Somyot Poompanmoung 20191102.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Somyot_Prueksakasemsuk.JPG",
+          "title": "File:Somyot Prueksakasemsuk.JPG",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Ekachai_Hongkangwan,_Arnon_Nampa,_and_Somyot_Prueksakasemsuk.png",
+          "title": "File:Ekachai Hongkangwan, Arnon Nampa, and Somyot Prueksakasemsuk.png",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Somyot_Poompanmoung_20191102_(cropped).jpg",
+          "title": "File:Somyot Poompanmoung 20191102 (cropped).jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Somyot_Poompanmoung.png",
+          "title": "File:Somyot Poompanmoung.png",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        }
+      ],
+      "notes": [
+        "No permission requested and no owner contacted. Official/public visibility alone does not grant reuse rights."
+      ],
+      "reason": "No photograph established both the exact place/branch and compatible individual-image reuse rights in the reviewed searches. A supplied photograph with documented rights is needed."
+    },
+    {
+      "placeId": "siargao-osmena-wetland",
+      "approved": false,
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "Osmeña Wetland",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Osme%C3%B1a+Wetland&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Osmeña Wetland Siargao",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Osme%C3%B1a+Wetland+Siargao&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Osmeña Wetland Siargao",
+          "url": "https://www.flickr.com/search/?text=Osme%C3%B1a+Wetland+Siargao&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Osmena Siargao",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Osmena+Siargao&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 1
+        },
+        {
+          "provider": "Flickr",
+          "query": "Osmena Siargao",
+          "url": "https://www.flickr.com/search/?text=Osmena+Siargao&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=Osmena+Siargao&srlimit=4",
+          "categories": []
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=Osme%C3%B1a+Wetland&limit=3",
+          "candidates": []
+        }
+      ],
+      "rejections": [
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Siargao_Island_Sports_Complex_2021.jpg",
+          "title": "File:Siargao Island Sports Complex 2021.jpg",
+          "reason": "The Siargao sports-complex photo is not the Osmeña wetland."
+        }
+      ],
+      "notes": [
+        "No permission requested and no owner contacted. Official/public visibility alone does not grant reuse rights."
+      ],
+      "reason": "The Siargao sports-complex photo is not the Osmeña wetland."
+    },
+    {
+      "placeId": "siargao-kermit-restaurant",
+      "approved": false,
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "Kermit Restaurant",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Kermit+Restaurant&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 4
+        },
+        {
+          "provider": "Commons",
+          "query": "Kermit Siargao",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Kermit+Siargao&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Kermit Restaurant Siargao",
+          "url": "https://www.flickr.com/search/?text=Kermit+Restaurant+Siargao&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Kermit Siargao",
+          "url": "https://www.flickr.com/search/?text=Kermit+Siargao&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=Kermit+Siargao&srlimit=4",
+          "categories": []
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=Kermit+Restaurant&limit=3",
+          "candidates": []
+        }
+      ],
+      "rejections": [
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Kermit%27s_Family_Restaurant.jpg",
+          "title": "File:Kermit's Family Restaurant.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Impassibles_Kermit(s)_(5153917328).jpg",
+          "title": "File:Impassibles Kermit(s) (5153917328).jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Louise_S._Rounds_(Union_Signal,_1918).png",
+          "title": "File:Louise S. Rounds (Union Signal, 1918).png",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Seattle_-_Kermit%27s_Restaurant_dining_room,_circa_1960_(54424674333).jpg",
+          "title": "File:Seattle - Kermit's Restaurant dining room, circa 1960 (54424674333).jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        }
+      ],
+      "notes": [
+        "No permission requested and no owner contacted. Official/public visibility alone does not grant reuse rights."
+      ],
+      "reason": "No photograph established both the exact place/branch and compatible individual-image reuse rights in the reviewed searches. A supplied photograph with documented rights is needed."
+    },
+    {
+      "placeId": "siargao-trattoria-altrove",
+      "approved": false,
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "Trattoria Altrove",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Trattoria+Altrove&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Trattoria Altrove Siargao",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Trattoria+Altrove+Siargao&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Trattoria Altrove Siargao",
+          "url": "https://www.flickr.com/search/?text=Trattoria+Altrove+Siargao&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Altrove Siargao",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Altrove+Siargao&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Altrove Siargao",
+          "url": "https://www.flickr.com/search/?text=Altrove+Siargao&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=Altrove+Siargao&srlimit=4",
+          "categories": []
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=Trattoria+Altrove&limit=3",
+          "candidates": []
+        }
+      ],
+      "rejections": [],
+      "notes": [
+        "No permission requested and no owner contacted. Official/public visibility alone does not grant reuse rights."
+      ],
+      "reason": "No photograph established both the exact place/branch and compatible individual-image reuse rights in the reviewed searches. A supplied photograph with documented rights is needed."
+    },
+    {
+      "placeId": "siargao-warung",
+      "approved": false,
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "Warung",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Warung&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 8
+        },
+        {
+          "provider": "Commons",
+          "query": "Warung Siargao",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Warung+Siargao&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Warung Siargao",
+          "url": "https://www.flickr.com/search/?text=Warung+Siargao&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=Warung+Siargao&srlimit=4",
+          "categories": []
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=Warung&limit=3",
+          "candidates": [
+            {
+              "id": "Q3670784",
+              "label": "Warungasem",
+              "description": "district in Batang Regency, Central Java Province, Indonesia",
+              "url": "http://www.wikidata.org/entity/Q3670784"
+            },
+            {
+              "id": "Q1154975",
+              "label": "Warung Kiara",
+              "description": "district in Sukabumi Regency, West Java Province, Indonesia",
+              "url": "http://www.wikidata.org/entity/Q1154975"
+            },
+            {
+              "id": "Q566290",
+              "label": "Warungkondang",
+              "description": "district in Cianjur Regency, West Java Province, Indonesia",
+              "url": "http://www.wikidata.org/entity/Q566290"
+            }
+          ]
+        }
+      ],
+      "rejections": [
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Warung_sederhana_di_tengah_sawah.jpg",
+          "title": "File:Warung sederhana di tengah sawah.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Warung_Makan_Di_Kebumen.jpg",
+          "title": "File:Warung Makan Di Kebumen.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Warung_Makan_Di_Ambal_Kebumen.jpg",
+          "title": "File:Warung Makan Di Ambal Kebumen.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Warung_Kharisma_Bahari_di_Yogyakarta.jpg",
+          "title": "File:Warung Kharisma Bahari di Yogyakarta.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Warung_Selat_Mbak_Lies_Depan.jpg",
+          "title": "File:Warung Selat Mbak Lies Depan.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Warung_Selat_Mbak_Lies.jpg",
+          "title": "File:Warung Selat Mbak Lies.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Malang_Food_Warungs.jpg",
+          "title": "File:Malang Food Warungs.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Ibu_warung_dan_serai.jpg",
+          "title": "File:Ibu warung dan serai.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        }
+      ],
+      "notes": [
+        "No permission requested and no owner contacted. Official/public visibility alone does not grant reuse rights."
+      ],
+      "reason": "No photograph established both the exact place/branch and compatible individual-image reuse rights in the reviewed searches. A supplied photograph with documented rights is needed."
+    },
+    {
+      "placeId": "siargao-brunch-spot",
+      "approved": false,
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "Brunch Spot Siargao",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Brunch+Spot+Siargao&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Brunch Spot Siargao Siargao",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Brunch+Spot+Siargao+Siargao&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Brunch Spot Siargao Siargao",
+          "url": "https://www.flickr.com/search/?text=Brunch+Spot+Siargao+Siargao&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Brunch Spot Siargao",
+          "url": "https://www.flickr.com/search/?text=Brunch+Spot+Siargao&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=Brunch+Spot+Siargao&srlimit=4",
+          "categories": []
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=Brunch+Spot+Siargao&limit=3",
+          "candidates": []
+        }
+      ],
+      "rejections": [],
+      "notes": [
+        "No permission requested and no owner contacted. Official/public visibility alone does not grant reuse rights."
+      ],
+      "reason": "No photograph established both the exact place/branch and compatible individual-image reuse rights in the reviewed searches. A supplied photograph with documented rights is needed."
+    },
+    {
+      "placeId": "siargao-bravo-restaurant",
+      "approved": false,
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "Bravo Restaurant",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Bravo+Restaurant&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 8
+        },
+        {
+          "provider": "Commons",
+          "query": "Bravo Siargao",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Bravo+Siargao&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Bravo Restaurant Siargao",
+          "url": "https://www.flickr.com/search/?text=Bravo+Restaurant+Siargao&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Bravo Siargao",
+          "url": "https://www.flickr.com/search/?text=Bravo+Siargao&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=Bravo+Siargao&srlimit=4",
+          "categories": []
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=Bravo+Restaurant&limit=3",
+          "candidates": [
+            {
+              "id": "Q111693586",
+              "label": "1218 Wharf Street",
+              "description": "commercial building in Victoria, British Columbia, Canada",
+              "url": "http://www.wikidata.org/entity/Q111693586"
+            }
+          ]
+        }
+      ],
+      "rejections": [
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Toro_Bravo_interior.jpg",
+          "title": "File:Toro Bravo interior.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Toro_Bravo_sign_and_exterior.jpg",
+          "title": "File:Toro Bravo sign and exterior.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:RestaurantBarValleBravo.JPG",
+          "title": "File:RestaurantBarValleBravo.JPG",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:BoatsRestaurantsValleBravo.JPG",
+          "title": "File:BoatsRestaurantsValleBravo.JPG",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:1218_Wharf_Street,_Victoria,_British_Columbia,_Canada_01.jpg",
+          "title": "File:1218 Wharf Street, Victoria, British Columbia, Canada 01.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:El_Toro_Bravo_Mexican_Food_(8733436897).jpg",
+          "title": "File:El Toro Bravo Mexican Food (8733436897).jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:El_Toro_Bravo_Restaurant_(3871114589).jpg",
+          "title": "File:El Toro Bravo Restaurant (3871114589).jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:El_Toro_Bravo_Restaurant_(44512296514).jpg",
+          "title": "File:El Toro Bravo Restaurant (44512296514).jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        }
+      ],
+      "notes": [
+        "No permission requested and no owner contacted. Official/public visibility alone does not grant reuse rights."
+      ],
+      "reason": "No photograph established both the exact place/branch and compatible individual-image reuse rights in the reviewed searches. A supplied photograph with documented rights is needed."
+    },
+    {
+      "placeId": "siargao-naga-restaurant",
+      "approved": false,
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "NĀGA Siargao",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=N%C4%80GA+Siargao&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "NĀGA Siargao Siargao",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=N%C4%80GA+Siargao+Siargao&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "NĀGA Siargao Siargao",
+          "url": "https://www.flickr.com/search/?text=N%C4%80GA+Siargao+Siargao&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Naga Siargao",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Naga+Siargao&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Naga Siargao",
+          "url": "https://www.flickr.com/search/?text=Naga+Siargao&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=Naga+Siargao&srlimit=4",
+          "categories": []
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=N%C4%80GA+Siargao&limit=3",
+          "candidates": []
+        }
+      ],
+      "rejections": [],
+      "notes": [
+        "No permission requested and no owner contacted. Official/public visibility alone does not grant reuse rights."
+      ],
+      "reason": "No photograph established both the exact place/branch and compatible individual-image reuse rights in the reviewed searches. A supplied photograph with documented rights is needed."
+    },
+    {
+      "placeId": "siargao-malinao-beach",
+      "approved": false,
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "Malinao Beach",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Malinao+Beach&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 8
+        },
+        {
+          "provider": "Commons",
+          "query": "Malinao Siargao",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Malinao+Siargao&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Malinao Beach Siargao",
+          "url": "https://www.flickr.com/search/?text=Malinao+Beach+Siargao&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Malinao Siargao",
+          "url": "https://www.flickr.com/search/?text=Malinao+Siargao&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=Malinao+Siargao&srlimit=4",
+          "categories": []
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=Malinao+Beach&limit=3",
+          "candidates": []
+        }
+      ],
+      "rejections": [
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Inbound5512511577687281100_01.jpg",
+          "title": "File:Inbound5512511577687281100 01.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Inbound5512511577687281100_02.jpg",
+          "title": "File:Inbound5512511577687281100 02.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Inbound5512511577687281100_03.jpg",
+          "title": "File:Inbound5512511577687281100 03.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:View_of_Mayon_Volcano_in_May_2021.jpg",
+          "title": "File:View of Mayon Volcano in May 2021.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Mount_Mayon_Volcano.jpg",
+          "title": "File:Mount Mayon Volcano.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Agoho_Beach.jpg",
+          "title": "File:Agoho Beach.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Agoho_Beach_in_Albay.jpg",
+          "title": "File:Agoho Beach in Albay.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Malinao_banner2.jpg",
+          "title": "File:Malinao banner2.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        }
+      ],
+      "notes": [
+        "No permission requested and no owner contacted. Official/public visibility alone does not grant reuse rights."
+      ],
+      "reason": "No photograph established both the exact place/branch and compatible individual-image reuse rights in the reviewed searches. A supplied photograph with documented rights is needed."
+    },
+    {
+      "placeId": "siargao-paseo-de-cabuntog",
+      "approved": false,
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "Paseo de Cabuntog",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Paseo+de+Cabuntog&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Paseo de Cabuntog Siargao",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Paseo+de+Cabuntog+Siargao&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Paseo de Cabuntog Siargao",
+          "url": "https://www.flickr.com/search/?text=Paseo+de+Cabuntog+Siargao&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Cabuntog",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Cabuntog&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 8
+        },
+        {
+          "provider": "Flickr",
+          "query": "Cabuntog",
+          "url": "https://www.flickr.com/search/?text=Cabuntog&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=Cabuntog&srlimit=4",
+          "categories": []
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=Paseo+de+Cabuntog&limit=3",
+          "candidates": []
+        }
+      ],
+      "rejections": [
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Ph_locator_surigao_del_norte_general_luna.png",
+          "title": "File:Ph locator surigao del norte general luna.png",
+          "reason": "Cloud 9 boardwalk, flags, meeting photos and an unrelated beach do not establish Paseo de Cabuntog."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Judges_Platform_Stage.jpg",
+          "title": "File:Judges Platform Stage.jpg",
+          "reason": "Cloud 9 boardwalk, flags, meeting photos and an unrelated beach do not establish Paseo de Cabuntog."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Boardwalk_-GL.jpg",
+          "title": "File:Boardwalk -GL.jpg",
+          "reason": "Cloud 9 boardwalk, flags, meeting photos and an unrelated beach do not establish Paseo de Cabuntog."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:From_the_beach_next_to_Patricks_on_the_beach_-_panoramio.jpg",
+          "title": "File:From the beach next to Patricks on the beach - panoramio.jpg",
+          "reason": "Cloud 9 boardwalk, flags, meeting photos and an unrelated beach do not establish Paseo de Cabuntog."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Cloud_9_Boardwalk,_Siargao.jpg",
+          "title": "File:Cloud 9 Boardwalk, Siargao.jpg",
+          "reason": "Cloud 9 boardwalk, flags, meeting photos and an unrelated beach do not establish Paseo de Cabuntog."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Cloud_9_Siargao_Island_Sunset.jpg",
+          "title": "File:Cloud 9 Siargao Island Sunset.jpg",
+          "reason": "Cloud 9 boardwalk, flags, meeting photos and an unrelated beach do not establish Paseo de Cabuntog."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Flag_of_General_Luna,_Surigao_del_Norte.png",
+          "title": "File:Flag of General Luna, Surigao del Norte.png",
+          "reason": "Cloud 9 boardwalk, flags, meeting photos and an unrelated beach do not establish Paseo de Cabuntog."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Israeli_Ambassador_to_Philippines_Dana_Kursh_Town_Hall_Meeting_with_General_Luna_LGU.jpg",
+          "title": "File:Israeli Ambassador to Philippines Dana Kursh Town Hall Meeting with General Luna LGU.jpg",
+          "reason": "Cloud 9 boardwalk, flags, meeting photos and an unrelated beach do not establish Paseo de Cabuntog."
+        }
+      ],
+      "notes": [
+        "No permission requested and no owner contacted. Official/public visibility alone does not grant reuse rights."
+      ],
+      "reason": "Cloud 9 boardwalk, flags, meeting photos and an unrelated beach do not establish Paseo de Cabuntog."
+    },
+    {
+      "placeId": "siargao-lokal-hub-general-luna",
+      "approved": false,
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "The Hub by Lokal Lab",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=The+Hub+by+Lokal+Lab&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 3
+        },
+        {
+          "provider": "Commons",
+          "query": "Hub by Lokal Siargao",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Hub+by+Lokal+Siargao&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "The Hub by Lokal Lab Siargao",
+          "url": "https://www.flickr.com/search/?text=The+Hub+by+Lokal+Lab+Siargao&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Lokal Lab Siargao",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Lokal+Lab+Siargao&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Lokal Lab Siargao",
+          "url": "https://www.flickr.com/search/?text=Lokal+Lab+Siargao&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=Lokal+Lab+Siargao&srlimit=4",
+          "categories": []
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=The+Hub+by+Lokal+Lab&limit=3",
+          "candidates": []
+        }
+      ],
+      "rejections": [
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Anker_PowerExpand_8-in-1_-_board-2671.jpg",
+          "title": "File:Anker PowerExpand 8-in-1 - board-2671.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Anker_PowerExpand_8-in-1_-_board_-_VIA_Labs_VL817-Q7-2672.jpg",
+          "title": "File:Anker PowerExpand 8-in-1 - board - VIA Labs VL817-Q7-2672.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Anker_PowerExpand_8-in-1_-_board_-_VIA_Labs_VL822-Q7-2674.jpg",
+          "title": "File:Anker PowerExpand 8-in-1 - board - VIA Labs VL822-Q7-2674.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        }
+      ],
+      "notes": [
+        "No permission requested and no owner contacted. Official/public visibility alone does not grant reuse rights."
+      ],
+      "reason": "No photograph established both the exact place/branch and compatible individual-image reuse rights in the reviewed searches. A supplied photograph with documented rights is needed."
+    },
+    {
+      "placeId": "siargao-clubhouse-golf",
+      "approved": false,
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "The Clubhouse Siargao",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=The+Clubhouse+Siargao&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Clubhouse Siargao Siargao",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Clubhouse+Siargao+Siargao&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "The Clubhouse Siargao Siargao",
+          "url": "https://www.flickr.com/search/?text=The+Clubhouse+Siargao+Siargao&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Clubhouse Siargao",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Clubhouse+Siargao&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Clubhouse Siargao",
+          "url": "https://www.flickr.com/search/?text=Clubhouse+Siargao&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=Clubhouse+Siargao&srlimit=4",
+          "categories": []
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=The+Clubhouse+Siargao&limit=3",
+          "candidates": []
+        }
+      ],
+      "rejections": [],
+      "notes": [
+        "No permission requested and no owner contacted. Official/public visibility alone does not grant reuse rights."
+      ],
+      "reason": "No photograph established both the exact place/branch and compatible individual-image reuse rights in the reviewed searches. A supplied photograph with documented rights is needed."
+    }
+  ]
+}

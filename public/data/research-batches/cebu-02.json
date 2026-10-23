@@ -722,6 +722,936 @@
       "decision_reason": "Primary source confirms this physical place and municipality; access, fees and practical arrangements require reconfirmation.",
       "reviewed_on": "2026-10-21",
       "slug": "cebu-abaca-baking-crossroads"
+    },
+    {
+      "destination_group": "Cebu",
+      "region": "Central Visayas",
+      "province": "Cebu",
+      "city_municipality": "Cebu City",
+      "barangay": null,
+      "address": "Ground floor, CityMall Bacalso Street",
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "North Café & Co — CityMall Bacalso — venue website",
+          "sourceUrl": "https://www.northcafeandco.ph/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "North Café & Co — CityMall Bacalso — venue website",
+          "sourceUrl": "https://www.northcafeandco.ph/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "North Café & Co — CityMall Bacalso — venue website",
+          "sourceUrl": "https://www.northcafeandco.ph/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "id": "cebu-north-cafe-citymall",
+      "name": "North Café & Co — CityMall Bacalso",
+      "slug": "cebu-north-cafe-citymall",
+      "planning": {
+        "base_slug": "cebu",
+        "mode": "local",
+        "cluster": "cebu-north-cafe-citymall",
+        "minutes": 60,
+        "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+        "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+        "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+        "requiresBooking": false,
+        "scheduling": "candidate",
+        "outdoor": false,
+        "openingHours": {
+          "weekdays": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "opens": "08:00",
+          "closes": "20:30",
+          "source": {
+            "sourceName": "North Café & Co — CityMall Bacalso — venue website",
+            "sourceUrl": "https://www.northcafeandco.ph/",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          }
+        }
+      },
+      "category": "Food & drink",
+      "description": "North Café & Co combines coffee with an open main hall and a rear payag space at CityMall Bacalso. Its public program also includes art nights, workshops and community events.",
+      "interests": [
+        "Food Hunter",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "cebu",
+      "catalog_stop_id": "cebu-north-cafe-citymall",
+      "status": "accepted",
+      "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+      "reviewed_on": "2026-10-22"
+    },
+    {
+      "destination_group": "Cebu",
+      "region": "Central Visayas",
+      "province": "Cebu",
+      "city_municipality": "Cebu City",
+      "barangay": null,
+      "address": "2nd floor, Hotel One, Juana Osmeña Street",
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "Te’Amo Café — Hotel One — venue website",
+          "sourceUrl": "https://www.teamocafecebu.com/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Te’Amo Café — Hotel One — venue website",
+          "sourceUrl": "https://www.teamocafecebu.com/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "Te’Amo Café — Hotel One — venue website",
+          "sourceUrl": "https://www.teamocafecebu.com/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "id": "cebu-teamo-hotel-one",
+      "name": "Te’Amo Café — Hotel One",
+      "slug": "cebu-teamo-hotel-one",
+      "planning": {
+        "base_slug": "cebu",
+        "mode": "local",
+        "cluster": "cebu-teamo-hotel-one",
+        "minutes": 60,
+        "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+        "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+        "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+        "requiresBooking": false,
+        "scheduling": "candidate",
+        "outdoor": false,
+        "openingHours": {
+          "weekdays": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "opens": "06:00",
+          "closes": "22:00",
+          "source": {
+            "sourceName": "Te’Amo Café — Hotel One — venue website",
+            "sourceUrl": "https://www.teamocafecebu.com/",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          }
+        }
+      },
+      "category": "Food & drink",
+      "description": "Te’Amo’s Hotel One café serves coffee, tea, cakes and all-day breakfast upstairs on Juana Osmeña Street. Cake-painting and flower-arranging sessions are separate activities requiring advance arrangements.",
+      "interests": [
+        "Food Hunter",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "cebu",
+      "catalog_stop_id": "cebu-teamo-hotel-one",
+      "status": "accepted",
+      "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+      "reviewed_on": "2026-10-22"
+    },
+    {
+      "destination_group": "Cebu",
+      "region": "Central Visayas",
+      "province": "Cebu",
+      "city_municipality": "Cebu City",
+      "barangay": null,
+      "address": "F. Ramos Street",
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "Good Cup Café — F. Ramos — venue website",
+          "sourceUrl": "https://goodcup.ph/pages/cafe",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Good Cup Café — F. Ramos — venue website",
+          "sourceUrl": "https://goodcup.ph/pages/cafe",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "Good Cup Café — F. Ramos — venue website",
+          "sourceUrl": "https://goodcup.ph/pages/cafe",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "id": "cebu-good-cup-ramos",
+      "name": "Good Cup Café — F. Ramos",
+      "slug": "cebu-good-cup-ramos",
+      "planning": {
+        "base_slug": "cebu",
+        "mode": "local",
+        "cluster": "cebu-good-cup-ramos",
+        "minutes": 60,
+        "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+        "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+        "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+        "requiresBooking": false,
+        "scheduling": "candidate",
+        "outdoor": false,
+        "openingHours": {
+          "weekdays": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "opens": "08:00",
+          "closes": "18:00",
+          "source": {
+            "sourceName": "Good Cup Café — F. Ramos — venue website",
+            "sourceUrl": "https://goodcup.ph/pages/cafe",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          }
+        }
+      },
+      "category": "Food & drink",
+      "description": "Good Cup’s F. Ramos café serves coffee, matcha and pastries, with bottled Cold White also offered. This is the Cebu City café, distinct from an announced Makati opening.",
+      "interests": [
+        "Food Hunter",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "cebu",
+      "catalog_stop_id": "cebu-good-cup-ramos",
+      "status": "accepted",
+      "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+      "reviewed_on": "2026-10-22"
+    },
+    {
+      "destination_group": "Cebu",
+      "region": "Central Visayas",
+      "province": "Cebu",
+      "city_municipality": "Cebu City",
+      "barangay": null,
+      "address": "Acacia and Tojong Street",
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "MICHELIN Guide — House of Lechon",
+          "sourceUrl": "https://guide.michelin.com/us/en/central-visayas/cebu-city_2340421/restaurant/house-of-lechon",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "MICHELIN Guide — House of Lechon",
+          "sourceUrl": "https://guide.michelin.com/us/en/central-visayas/cebu-city_2340421/restaurant/house-of-lechon",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "MICHELIN Guide — House of Lechon",
+          "sourceUrl": "https://guide.michelin.com/us/en/central-visayas/cebu-city_2340421/restaurant/house-of-lechon",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "id": "cebu-house-of-lechon-acacia",
+      "name": "House of Lechon — Acacia",
+      "slug": "cebu-house-of-lechon-acacia",
+      "planning": {
+        "base_slug": "cebu",
+        "mode": "local",
+        "cluster": "cebu-house-of-lechon-acacia",
+        "minutes": 90,
+        "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+        "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+        "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+        "requiresBooking": false,
+        "scheduling": "candidate",
+        "outdoor": false,
+        "openingHours": {
+          "weekdays": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "opens": "10:00",
+          "closes": "21:00",
+          "source": {
+            "sourceName": "MICHELIN Guide — House of Lechon",
+            "sourceUrl": "https://guide.michelin.com/us/en/central-visayas/cebu-city_2340421/restaurant/house-of-lechon",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          }
+        }
+      },
+      "category": "Food & drink",
+      "description": "House of Lechon serves Cebu roast pork in different portion sizes alongside Filipino dishes. This listing identifies the Acacia and Tojong Street restaurant, with indoor and outdoor dining described by the current guide.",
+      "interests": [
+        "Food Hunter"
+      ],
+      "itinerary_base_slug": "cebu",
+      "catalog_stop_id": "cebu-house-of-lechon-acacia",
+      "status": "accepted",
+      "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+      "reviewed_on": "2026-10-22"
+    },
+    {
+      "destination_group": "Cebu",
+      "region": "Central Visayas",
+      "province": "Cebu",
+      "city_municipality": "Cebu City",
+      "barangay": null,
+      "address": "Level 1, South Entrance, Ayala Center Cebu",
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "Café Laguna — Ayala Center Cebu — venue website",
+          "sourceUrl": "https://lagunagroup.ph/cafe-laguna/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Café Laguna — Ayala Center Cebu — venue website",
+          "sourceUrl": "https://lagunagroup.ph/cafe-laguna/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "Café Laguna — Ayala Center Cebu — venue website",
+          "sourceUrl": "https://lagunagroup.ph/cafe-laguna/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "id": "cebu-cafe-laguna-ayala",
+      "name": "Café Laguna — Ayala Center Cebu",
+      "slug": "cebu-cafe-laguna-ayala",
+      "planning": {
+        "base_slug": "cebu",
+        "mode": "local",
+        "cluster": "cebu-ayala",
+        "minutes": 90,
+        "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+        "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+        "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+        "requiresBooking": false,
+        "scheduling": "candidate",
+        "outdoor": false
+      },
+      "category": "Food & drink",
+      "description": "Café Laguna’s Ayala Center Cebu restaurant is listed at the first-level South Entrance near The Alcoves. It is counted as a dining venue; its brand name alone does not qualify it as a coffee stop.",
+      "interests": [
+        "Food Hunter"
+      ],
+      "itinerary_base_slug": "cebu",
+      "catalog_stop_id": "cebu-cafe-laguna-ayala",
+      "status": "accepted",
+      "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+      "reviewed_on": "2026-10-22"
+    },
+    {
+      "destination_group": "Cebu",
+      "region": "Central Visayas",
+      "province": "Cebu",
+      "city_municipality": "Cebu City",
+      "barangay": null,
+      "address": "Il Corso, City de Mare, Cebu SRP",
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "Parilya — Il Corso — venue website",
+          "sourceUrl": "https://lagunagroup.ph/parilya/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Parilya — Il Corso — venue website",
+          "sourceUrl": "https://lagunagroup.ph/parilya/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "Parilya — Il Corso — venue website",
+          "sourceUrl": "https://lagunagroup.ph/parilya/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "id": "cebu-parilya-il-corso",
+      "name": "Parilya — Il Corso",
+      "slug": "cebu-parilya-il-corso",
+      "planning": {
+        "base_slug": "cebu",
+        "mode": "local",
+        "cluster": "cebu-parilya-il-corso",
+        "minutes": 90,
+        "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+        "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+        "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+        "requiresBooking": false,
+        "scheduling": "candidate",
+        "outdoor": false,
+        "openingHours": {
+          "weekdays": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "opens": "11:00",
+          "closes": "21:00",
+          "source": {
+            "sourceName": "Parilya — Il Corso — venue website",
+            "sourceUrl": "https://lagunagroup.ph/parilya/",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          }
+        }
+      },
+      "category": "Food & drink",
+      "description": "Parilya is the Laguna Group restaurant at Il Corso, City de Mare on Cebu’s South Road Properties. The operator publishes a dining menu and a daily service window for this waterfront branch.",
+      "interests": [
+        "Food Hunter"
+      ],
+      "itinerary_base_slug": "cebu",
+      "catalog_stop_id": "cebu-parilya-il-corso",
+      "status": "accepted",
+      "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+      "reviewed_on": "2026-10-22"
+    },
+    {
+      "destination_group": "Cebu",
+      "region": "Central Visayas",
+      "province": "Cebu",
+      "city_municipality": "Cebu City",
+      "barangay": null,
+      "address": "Level 1, The Terraces, Ayala Center Cebu",
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "Lemon Grass — Ayala Center Cebu — venue website",
+          "sourceUrl": "https://lagunagroup.ph/lemon-grass/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Lemon Grass — Ayala Center Cebu — venue website",
+          "sourceUrl": "https://lagunagroup.ph/lemon-grass/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "Lemon Grass — Ayala Center Cebu — venue website",
+          "sourceUrl": "https://lagunagroup.ph/lemon-grass/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "id": "cebu-lemon-grass-ayala",
+      "name": "Lemon Grass — Ayala Center Cebu",
+      "slug": "cebu-lemon-grass-ayala",
+      "planning": {
+        "base_slug": "cebu",
+        "mode": "local",
+        "cluster": "cebu-ayala",
+        "minutes": 90,
+        "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+        "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+        "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+        "requiresBooking": false,
+        "scheduling": "candidate",
+        "outdoor": false
+      },
+      "category": "Food & drink",
+      "description": "Lemon Grass serves Thai and Vietnamese dishes at The Terraces in Ayala Center Cebu. Its published specialties include pad thai, beef pho and pandan-wrapped chicken, making it a dining stop rather than a café.",
+      "interests": [
+        "Food Hunter"
+      ],
+      "itinerary_base_slug": "cebu",
+      "catalog_stop_id": "cebu-lemon-grass-ayala",
+      "status": "accepted",
+      "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+      "reviewed_on": "2026-10-22"
+    },
+    {
+      "destination_group": "Cebu",
+      "region": "Central Visayas",
+      "province": "Cebu",
+      "city_municipality": "Cebu City",
+      "barangay": null,
+      "address": "Level 1, The Alcoves, Ayala Center Cebu",
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "Ulli’s Streets of Asia — Ayala — venue website",
+          "sourceUrl": "https://lagunagroup.ph/ullis-streets-of-asia/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "Ulli’s Streets of Asia — Ayala — venue website",
+          "sourceUrl": "https://lagunagroup.ph/ullis-streets-of-asia/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "Ulli’s Streets of Asia — Ayala — venue website",
+          "sourceUrl": "https://lagunagroup.ph/ullis-streets-of-asia/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "id": "cebu-ullis-ayala",
+      "name": "Ulli’s Streets of Asia — Ayala",
+      "slug": "cebu-ullis-ayala",
+      "planning": {
+        "base_slug": "cebu",
+        "mode": "local",
+        "cluster": "cebu-ayala",
+        "minutes": 90,
+        "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+        "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+        "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+        "requiresBooking": false,
+        "scheduling": "candidate",
+        "outdoor": false,
+        "openingHours": {
+          "weekdays": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "opens": "10:00",
+          "closes": "21:00",
+          "source": {
+            "sourceName": "Ulli’s Streets of Asia — Ayala — venue website",
+            "sourceUrl": "https://lagunagroup.ph/ullis-streets-of-asia/",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          }
+        }
+      },
+      "category": "Food & drink",
+      "description": "Ulli’s brings Asian hawker-style dishes to a sit-down restaurant at Ayala Center Cebu. The operator highlights bibimbap, laksa and chilled taho; this named restaurant is not an entire food market.",
+      "interests": [
+        "Food Hunter"
+      ],
+      "itinerary_base_slug": "cebu",
+      "catalog_stop_id": "cebu-ullis-ayala",
+      "status": "accepted",
+      "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+      "reviewed_on": "2026-10-22"
+    },
+    {
+      "destination_group": "Cebu",
+      "region": "Central Visayas",
+      "province": "Cebu",
+      "city_municipality": "Cebu City",
+      "barangay": null,
+      "address": "Laguna Culinary Center, Torralba corner Veterans Drive, Lahug",
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "U Kitchen — Lahug — venue website",
+          "sourceUrl": "https://lagunagroup.ph/u-kitchen/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "U Kitchen — Lahug — venue website",
+          "sourceUrl": "https://lagunagroup.ph/u-kitchen/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "U Kitchen — Lahug — venue website",
+          "sourceUrl": "https://lagunagroup.ph/u-kitchen/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "id": "cebu-u-kitchen-lahug",
+      "name": "U Kitchen — Lahug",
+      "slug": "cebu-u-kitchen-lahug",
+      "planning": {
+        "base_slug": "cebu",
+        "mode": "local",
+        "cluster": "cebu-u-kitchen-lahug",
+        "minutes": 90,
+        "booking": "Private-function venue; arrange group access, menu and booking directly. Excluded from automatic itinerary generation.",
+        "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+        "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+        "requiresBooking": true,
+        "scheduling": "manual",
+        "outdoor": false
+      },
+      "category": "Food & drink",
+      "description": "U Kitchen is a private-function dining venue at the Laguna Culinary Center in Lahug. Its kitchen uses a wood-fired oven; the operator describes group events rather than an ordinary drop-in restaurant.",
+      "interests": [
+        "Food Hunter"
+      ],
+      "itinerary_base_slug": "cebu",
+      "catalog_stop_id": "cebu-u-kitchen-lahug",
+      "status": "accepted",
+      "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+      "reviewed_on": "2026-10-22"
+    },
+    {
+      "id": "cebu-pares-pares-escario",
+      "name": "Pares Pares — N. Escario Street",
+      "destination_group": "Cebu",
+      "region": "Central Visayas",
+      "province": "Cebu",
+      "city_municipality": "Cebu City",
+      "barangay": null,
+      "address": "Unit E, Escario Building, N. Escario Street",
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "MICHELIN Guide — current venue review",
+          "sourceUrl": "https://guide.michelin.com/us/en/central-visayas/cebu-city_2340421/restaurant/pares-pares-n-escario-street",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "MICHELIN Guide — current venue review",
+          "sourceUrl": "https://guide.michelin.com/us/en/central-visayas/cebu-city_2340421/restaurant/pares-pares-n-escario-street",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "MICHELIN Guide — current venue review",
+          "sourceUrl": "https://guide.michelin.com/us/en/central-visayas/cebu-city_2340421/restaurant/pares-pares-n-escario-street",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "category": "Food & drink",
+      "description": "This Escario Street eatery focuses on beef pares: brisket with rice or in a noodle-soup version. It is a specific sit-down restaurant, separate from similarly named pares businesses.",
+      "interests": [
+        "Food Hunter"
+      ],
+      "itinerary_base_slug": "cebu",
+      "catalog_stop_id": "cebu-pares-pares-escario",
+      "status": "accepted",
+      "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+      "reviewed_on": "2026-10-22",
+      "planning": {
+        "base_slug": "cebu",
+        "mode": "local",
+        "cluster": "cebu-pares-pares-escario",
+        "minutes": 90,
+        "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+        "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+        "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+        "requiresBooking": false,
+        "scheduling": "candidate",
+        "outdoor": false
+      },
+      "slug": "cebu-pares-pares-escario"
+    },
+    {
+      "id": "cebu-abli",
+      "name": "Abli",
+      "destination_group": "Cebu",
+      "region": "Central Visayas",
+      "province": "Cebu",
+      "city_municipality": "Cebu City",
+      "barangay": null,
+      "address": "A. Climaco Street",
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "MICHELIN Guide — current venue review",
+          "sourceUrl": "https://guide.michelin.com/us/en/central-visayas/cebu-city_2340421/restaurant/abli",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "MICHELIN Guide — current venue review",
+          "sourceUrl": "https://guide.michelin.com/us/en/central-visayas/cebu-city_2340421/restaurant/abli",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "MICHELIN Guide — current venue review",
+          "sourceUrl": "https://guide.michelin.com/us/en/central-visayas/cebu-city_2340421/restaurant/abli",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "category": "Food & drink",
+      "description": "Abli is a small Capitol Site café-restaurant serving contemporary Cebuano dishes, snacks, sandwiches and noodles. Its torta-like Morta dessert comes in several flavors; dining is its primary role in this directory.",
+      "interests": [
+        "Food Hunter"
+      ],
+      "itinerary_base_slug": "cebu",
+      "catalog_stop_id": "cebu-abli",
+      "status": "accepted",
+      "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+      "reviewed_on": "2026-10-22",
+      "planning": {
+        "base_slug": "cebu",
+        "mode": "local",
+        "cluster": "cebu-abli",
+        "minutes": 90,
+        "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+        "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+        "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+        "requiresBooking": false,
+        "scheduling": "candidate",
+        "outdoor": false,
+        "openingHours": {
+          "weekdays": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "opens": "10:00",
+          "closes": "21:00",
+          "source": {
+            "sourceName": "MICHELIN Guide — current venue review",
+            "sourceUrl": "https://guide.michelin.com/us/en/central-visayas/cebu-city_2340421/restaurant/abli",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          }
+        }
+      },
+      "slug": "cebu-abli"
+    },
+    {
+      "id": "cebu-abaseria",
+      "name": "Abaseria Deli & Cafe",
+      "destination_group": "Cebu",
+      "region": "Central Visayas",
+      "province": "Cebu",
+      "city_municipality": "Cebu City",
+      "barangay": "Kasambagan",
+      "address": "32 President Quirino Street, Villa Aurora Subdivision",
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "MICHELIN Guide — current venue review",
+          "sourceUrl": "https://guide.michelin.com/us/en/central-visayas/cebu-city_2340421/restaurant/abaseria-deli-cafe",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "MICHELIN Guide — current venue review",
+          "sourceUrl": "https://guide.michelin.com/us/en/central-visayas/cebu-city_2340421/restaurant/abaseria-deli-cafe",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "MICHELIN Guide — current venue review",
+          "sourceUrl": "https://guide.michelin.com/us/en/central-visayas/cebu-city_2340421/restaurant/abaseria-deli-cafe",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "category": "Food & drink",
+      "description": "Abaseria combines a crafts-filled dining room with Filipino home-style cooking and coffee. The current guide highlights humba, sinigang pasayan and desserts, making this one café-and-dining venue rather than separate listings.",
+      "interests": [
+        "Food Hunter",
+        "Slow Traveler"
+      ],
+      "itinerary_base_slug": "cebu",
+      "catalog_stop_id": "cebu-abaseria",
+      "status": "accepted",
+      "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+      "reviewed_on": "2026-10-22",
+      "planning": {
+        "base_slug": "cebu",
+        "mode": "local",
+        "cluster": "cebu-abaseria",
+        "minutes": 60,
+        "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+        "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+        "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+        "requiresBooking": false,
+        "scheduling": "candidate",
+        "outdoor": false
+      },
+      "slug": "cebu-abaseria"
+    },
+    {
+      "id": "cebu-ato-ah",
+      "name": "ATO-AH",
+      "destination_group": "Cebu",
+      "region": "Central Visayas",
+      "province": "Cebu",
+      "city_municipality": "Cebu City",
+      "barangay": null,
+      "address": "38th Park Avenue, IT Park",
+      "latitude": null,
+      "longitude": null,
+      "sources": {
+        "identity": {
+          "sourceName": "MICHELIN Guide — current venue review",
+          "sourceUrl": "https://guide.michelin.com/us/en/central-visayas/cebu-city_2340421/restaurant/ato-ah",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "municipality": {
+          "sourceName": "MICHELIN Guide — current venue review",
+          "sourceUrl": "https://guide.michelin.com/us/en/central-visayas/cebu-city_2340421/restaurant/ato-ah",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "address": {
+          "sourceName": "MICHELIN Guide — current venue review",
+          "sourceUrl": "https://guide.michelin.com/us/en/central-visayas/cebu-city_2340421/restaurant/ato-ah",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "coordinates": {
+          "sourceName": null,
+          "sourceUrl": null,
+          "dateChecked": null,
+          "status": "unverified"
+        }
+      },
+      "category": "Food & drink",
+      "description": "ATO-AH serves contemporary Cebuano cooking at 38th Park Avenue in IT Park. The reviewed menu includes inasal-inspired chicken barbecue and pancit bisaya, combining two noodle types with shrimp and vegetables.",
+      "interests": [
+        "Food Hunter"
+      ],
+      "itinerary_base_slug": "cebu",
+      "catalog_stop_id": "cebu-ato-ah",
+      "status": "accepted",
+      "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+      "reviewed_on": "2026-10-22",
+      "planning": {
+        "base_slug": "cebu",
+        "mode": "local",
+        "cluster": "cebu-ato-ah",
+        "minutes": 90,
+        "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+        "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+        "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+        "requiresBooking": false,
+        "scheduling": "candidate",
+        "outdoor": false
+      },
+      "slug": "cebu-ato-ah"
     }
   ]
 }

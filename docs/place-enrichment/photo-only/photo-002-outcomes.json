@@ -1,0 +1,2168 @@
+{
+  "batchId": "photo-002",
+  "mode": "photos-only",
+  "checkedOn": "2026-10-22",
+  "outcomes": [
+    {
+      "placeId": "boracay-tambisaan-beach",
+      "checkedOn": "2026-10-22",
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "Tambisaan Beach",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Tambisaan+Beach&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Tambisaan Boracay",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Tambisaan+Boracay&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Tambisaan Beach Boracay",
+          "url": "https://www.flickr.com/search/?text=Tambisaan+Beach+Boracay&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Tambisaan",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Tambisaan&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Tambisaan",
+          "error": "HTTP 502: https://www.flickr.com/search/?text=Tambisaan&license=4%2C5%2C9%2C10"
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=Tambisaan&srlimit=4",
+          "categories": []
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=Tambisaan+Beach&limit=3",
+          "candidates": []
+        }
+      ],
+      "rejections": [],
+      "notes": [
+        "No permission requested and no owner contacted. Official/public visibility alone does not grant reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "No photograph established both the exact place/branch and compatible individual-image reuse rights in the reviewed searches. A supplied photograph with documented rights is needed."
+    },
+    {
+      "placeId": "boracay-tulubhan-beach",
+      "checkedOn": "2026-10-22",
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "Tulubhan Beach",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Tulubhan+Beach&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Tulubhan Boracay",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Tulubhan+Boracay&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Tulubhan Beach Boracay",
+          "url": "https://www.flickr.com/search/?text=Tulubhan+Beach+Boracay&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Tulubhan",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Tulubhan&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Tulubhan",
+          "url": "https://www.flickr.com/search/?text=Tulubhan&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=Tulubhan&srlimit=4",
+          "categories": []
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=Tulubhan+Beach&limit=3",
+          "candidates": []
+        }
+      ],
+      "rejections": [],
+      "notes": [
+        "No permission requested and no owner contacted. Official/public visibility alone does not grant reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "No photograph established both the exact place/branch and compatible individual-image reuse rights in the reviewed searches. A supplied photograph with documented rights is needed."
+    },
+    {
+      "placeId": "boracay-balinghai-beach",
+      "checkedOn": "2026-10-22",
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "Balinghai Beach",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Balinghai+Beach&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 1
+        },
+        {
+          "provider": "Commons",
+          "query": "Balinghai Boracay",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Balinghai+Boracay&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 1
+        },
+        {
+          "provider": "Flickr",
+          "query": "Balinghai Beach Boracay",
+          "url": "https://www.flickr.com/search/?text=Balinghai+Beach+Boracay&license=4%2C5%2C9%2C10",
+          "count": 1
+        },
+        {
+          "provider": "Commons",
+          "query": "Balinghai",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Balinghai&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 1
+        },
+        {
+          "provider": "Flickr",
+          "query": "Balinghai",
+          "url": "https://www.flickr.com/search/?text=Balinghai&license=4%2C5%2C9%2C10",
+          "count": 1
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=Balinghai&srlimit=4",
+          "categories": []
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=Balinghai+Beach&limit=3",
+          "candidates": []
+        }
+      ],
+      "rejections": [
+        {
+          "sourcePage": "https://www.flickr.com/photos/mojojo/33438083525/",
+          "title": "#vscocam #vsco #balinghai #sunrise #sea #Philippines #boracay",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        }
+      ],
+      "notes": [],
+      "status": "added",
+      "photo": {
+        "placeId": "boracay-balinghai-beach",
+        "src": "/images/places/boracay-balinghai-beach.jpg",
+        "srcSmall": "/images/places/boracay-balinghai-beach-640.jpg",
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Balinghai_Beach.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Balinghai_Beach.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "Wallpaperhd.io",
+        "license": "CC0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "attribution": "Wallpaperhd.io / Wikimedia Commons / CC0. Resized and JPEG compressed.",
+        "alt": "Balinghai Beach and its rocky shoreline on Boracay Island, Malay, Aklan",
+        "width": 1200,
+        "height": 800,
+        "checkedOn": "2026-10-22"
+      }
+    },
+    {
+      "placeId": "boracay-newcoast-keyhole",
+      "checkedOn": "2026-10-22",
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "Boracay Newcoast Keyhole",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Boracay+Newcoast+Keyhole&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Boracay Newcoast Keyhole Boracay",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Boracay+Newcoast+Keyhole+Boracay&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Boracay Newcoast Keyhole Boracay",
+          "url": "https://www.flickr.com/search/?text=Boracay+Newcoast+Keyhole+Boracay&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Boracay keyhole",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Boracay+keyhole&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 1
+        },
+        {
+          "provider": "Flickr",
+          "query": "Boracay keyhole",
+          "url": "https://www.flickr.com/search/?text=Boracay+keyhole&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=Boracay+keyhole&srlimit=4",
+          "categories": []
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=Boracay+Newcoast+Keyhole&limit=3",
+          "candidates": []
+        }
+      ],
+      "rejections": [
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Tourism-boracay.jpg",
+          "title": "File:Tourism-boracay.jpg",
+          "reason": "A beach sports photograph near the keyhole does not clearly depict the keyhole itself."
+        }
+      ],
+      "notes": [
+        "No permission requested and no owner contacted. Official/public visibility alone does not grant reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "A beach sports photograph near the keyhole does not clearly depict the keyhole itself."
+    },
+    {
+      "placeId": "boracay-balabag-wetland-park",
+      "checkedOn": "2026-10-22",
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "Balabag Wetland Park",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Balabag+Wetland+Park&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Balabag Wetland Boracay",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Balabag+Wetland+Boracay&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Balabag Wetland Park Boracay",
+          "url": "https://www.flickr.com/search/?text=Balabag+Wetland+Park+Boracay&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Boracay wetland",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Boracay+wetland&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 6
+        },
+        {
+          "provider": "Flickr",
+          "query": "Boracay wetland",
+          "url": "https://www.flickr.com/search/?text=Boracay+wetland&license=4%2C5%2C9%2C10",
+          "count": 7
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=Boracay+wetland&srlimit=4",
+          "categories": []
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=Balabag+Wetland+Park&limit=3",
+          "candidates": []
+        }
+      ],
+      "rejections": [
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Boracay_Wetland_No._6_(52263666297).jpg",
+          "title": "File:Boracay Wetland No. 6 (52263666297).jpg",
+          "reason": "Wetlands 6/7 and Lugutan Mangrove Park are different sites; none establishes the Balabag Wetland No. 4 park."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Boracay_Wetland_No._6_(52264632956).jpg",
+          "title": "File:Boracay Wetland No. 6 (52264632956).jpg",
+          "reason": "Wetlands 6/7 and Lugutan Mangrove Park are different sites; none establishes the Balabag Wetland No. 4 park."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Boracay_Wetland_No._6_(52264633111).jpg",
+          "title": "File:Boracay Wetland No. 6 (52264633111).jpg",
+          "reason": "Wetlands 6/7 and Lugutan Mangrove Park are different sites; none establishes the Balabag Wetland No. 4 park."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Boracay_Wetland_No._6_(52264648363).jpg",
+          "title": "File:Boracay Wetland No. 6 (52264648363).jpg",
+          "reason": "Wetlands 6/7 and Lugutan Mangrove Park are different sites; none establishes the Balabag Wetland No. 4 park."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Boracay_Wetland_No._7_(52263950452).jpg",
+          "title": "File:Boracay Wetland No. 7 (52263950452).jpg",
+          "reason": "Wetlands 6/7 and Lugutan Mangrove Park are different sites; none establishes the Balabag Wetland No. 4 park."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Near_Boracay_Wetlands_no._7_(52263837292).jpg",
+          "title": "File:Near Boracay Wetlands no. 7 (52263837292).jpg",
+          "reason": "Wetlands 6/7 and Lugutan Mangrove Park are different sites; none establishes the Balabag Wetland No. 4 park."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/dinesh_valke/52264853793/",
+          "title": "Boracay Wetland No. 7",
+          "reason": "Wetlands 6/7 and Lugutan Mangrove Park are different sites; none establishes the Balabag Wetland No. 4 park."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/dinesh_valke/52264633111/",
+          "title": "Boracay Wetland No. 6",
+          "reason": "Wetlands 6/7 and Lugutan Mangrove Park are different sites; none establishes the Balabag Wetland No. 4 park."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/dinesh_valke/52263666297/",
+          "title": "Boracay Wetland No. 6",
+          "reason": "Wetlands 6/7 and Lugutan Mangrove Park are different sites; none establishes the Balabag Wetland No. 4 park."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/dinesh_valke/52263950452/",
+          "title": "Boracay Wetland No. 7",
+          "reason": "Wetlands 6/7 and Lugutan Mangrove Park are different sites; none establishes the Balabag Wetland No. 4 park."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/dinesh_valke/52264648363/",
+          "title": "Boracay Wetland No. 6",
+          "reason": "Wetlands 6/7 and Lugutan Mangrove Park are different sites; none establishes the Balabag Wetland No. 4 park."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/dinesh_valke/52261864937/",
+          "title": "Wetland No. 6",
+          "reason": "Wetlands 6/7 and Lugutan Mangrove Park are different sites; none establishes the Balabag Wetland No. 4 park."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/dinesh_valke/52263837292/",
+          "title": "near Boracay Wetlands no. 7",
+          "reason": "Wetlands 6/7 and Lugutan Mangrove Park are different sites; none establishes the Balabag Wetland No. 4 park."
+        }
+      ],
+      "notes": [
+        "No permission requested and no owner contacted. Official/public visibility alone does not grant reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "Wetlands 6/7 and Lugutan Mangrove Park are different sites; none establishes the Balabag Wetland No. 4 park."
+    },
+    {
+      "placeId": "boracay-dtalipapa-market",
+      "checkedOn": "2026-10-22",
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "DTalipapa market",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=DTalipapa+market&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "DTalipapa market Boracay",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=DTalipapa+market+Boracay&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "DTalipapa market Boracay",
+          "url": "https://www.flickr.com/search/?text=DTalipapa+market+Boracay&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Talipapa Boracay",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Talipapa+Boracay&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 1
+        },
+        {
+          "provider": "Flickr",
+          "query": "Talipapa Boracay",
+          "url": "https://www.flickr.com/search/?text=Talipapa+Boracay&license=4%2C5%2C9%2C10",
+          "count": 5
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=Talipapa+Boracay&srlimit=4",
+          "categories": []
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=DTalipapa+market&limit=3",
+          "candidates": []
+        }
+      ],
+      "rejections": [
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Pananghalian_(Boracay_Island,_Aklan)_-_Flickr_-_~MVI~_(warped).jpg",
+          "title": "File:Pananghalian (Boracay Island, Aklan) - Flickr - ~MVI~ (warped).jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/capturinggeek/6998648138/",
+          "title": "Tienda.",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/capturinggeek/7255385338/",
+          "title": "Lapu-lapu.",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/413studios/6910371973/",
+          "title": "Talipapa",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/bigberto/3572235470/",
+          "title": "Talipapa (Boracay Island, Aklan)",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/bigberto/3580320078/",
+          "title": "Pananghalian (Boracay Island, Aklan)",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        }
+      ],
+      "notes": [
+        "No permission requested and no owner contacted. Official/public visibility alone does not grant reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "No photograph established both the exact place/branch and compatible individual-image reuse rights in the reviewed searches. A supplied photograph with documented rights is needed."
+    },
+    {
+      "placeId": "boracay-nonies-ondus",
+      "checkedOn": "2026-10-22",
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "Nonies",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Nonies&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 8
+        },
+        {
+          "provider": "Commons",
+          "query": "Nonies Boracay",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Nonies+Boracay&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Nonies Boracay",
+          "url": "https://www.flickr.com/search/?text=Nonies+Boracay&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=Nonies+Boracay&srlimit=4",
+          "categories": []
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=Nonies&limit=3",
+          "candidates": [
+            {
+              "id": "Q14946576",
+              "label": "Vernier scale",
+              "description": "auxiliary scale of a measurement device, that aids to increase measurement precision",
+              "url": "http://www.wikidata.org/entity/Q14946576"
+            },
+            {
+              "id": "Q65287615",
+              "label": "Nonius",
+              "description": "auxiliary scale for optical-mechanical measuring instruments",
+              "url": "http://www.wikidata.org/entity/Q65287615"
+            }
+          ]
+        }
+      ],
+      "rejections": [
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:NONY.jpg",
+          "title": "File:NONY.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Nony_at_2014_MLG_Anaheim.jpg",
+          "title": "File:Nony at 2014 MLG Anaheim.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Nony_Director.jpg",
+          "title": "File:Nony Director.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Nony_Arga%C3%B1araz.jpg",
+          "title": "File:Nony Argañaraz.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Nony_at_MLG_Anaheim_2011.jpg",
+          "title": "File:Nony at MLG Anaheim 2011.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Viking_Line_-_Nony_Borsan_spelar_piano_utanf%C3%B6r_vinbaren_p%C3%A5_Gabriella_20221201_16.jpg",
+          "title": "File:Viking Line - Nony Borsan spelar piano utanför vinbaren på Gabriella 20221201 16.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:2013_MLG_Spring_Championship_Day_1_-_30.jpg",
+          "title": "File:2013 MLG Spring Championship Day 1 - 30.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Morinda_citrifolia(nony_).jpg",
+          "title": "File:Morinda citrifolia(nony ).jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        }
+      ],
+      "notes": [
+        "No permission requested and no owner contacted. Official/public visibility alone does not grant reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "No photograph established both the exact place/branch and compatible individual-image reuse rights in the reviewed searches. A supplied photograph with documented rights is needed."
+    },
+    {
+      "placeId": "boracay-giuseppe-station-three",
+      "checkedOn": "2026-10-22",
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "Giuseppe Pizzeria & Sicilian Roast",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Giuseppe+Pizzeria+%26+Sicilian+Roast&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Giuseppe Pizzeria Sicilian Boracay",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Giuseppe+Pizzeria+Sicilian+Boracay&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Giuseppe Pizzeria & Sicilian Roast Boracay",
+          "url": "https://www.flickr.com/search/?text=Giuseppe+Pizzeria+%26+Sicilian+Roast+Boracay&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Giuseppe Boracay",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Giuseppe+Boracay&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Giuseppe Boracay",
+          "url": "https://www.flickr.com/search/?text=Giuseppe+Boracay&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=Giuseppe+Boracay&srlimit=4",
+          "categories": []
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=Giuseppe+Pizzeria+%26+Sicilian+Roast&limit=3",
+          "candidates": []
+        }
+      ],
+      "rejections": [],
+      "notes": [
+        "No permission requested and no owner contacted. Official/public visibility alone does not grant reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "No photograph established both the exact place/branch and compatible individual-image reuse rights in the reviewed searches. A supplied photograph with documented rights is needed."
+    },
+    {
+      "placeId": "boracay-little-taj",
+      "checkedOn": "2026-10-22",
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "Little Taj",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Little+Taj&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 7
+        },
+        {
+          "provider": "Commons",
+          "query": "Little Taj Boracay",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Little+Taj+Boracay&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Little Taj Boracay",
+          "url": "https://www.flickr.com/search/?text=Little+Taj+Boracay&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Little Taj",
+          "url": "https://www.flickr.com/search/?text=Little+Taj&license=4%2C5%2C9%2C10",
+          "count": 12
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=Little+Taj&srlimit=4",
+          "categories": []
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=Little+Taj&limit=3",
+          "candidates": []
+        }
+      ],
+      "rejections": [
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Flowers_in_marble,_Taj_Mahal,_Agra,_India_1.jpg",
+          "title": "File:Flowers in marble, Taj Mahal, Agra, India 1.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Taj_Mahal_and_grounds_Dalans_round_Taj_Quadrangle..JPG",
+          "title": "File:Taj Mahal and grounds Dalans round Taj Quadrangle..JPG",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Taj_Mahal_at_Sunrise_IMG_6028.jpg",
+          "title": "File:Taj Mahal at Sunrise IMG 6028.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Back_end_of_the_Taj_Mahal.jpg",
+          "title": "File:Back end of the Taj Mahal.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:View_of_Taj_Mahal_from_Mehtab_Bagh_gardens.jpg",
+          "title": "File:View of Taj Mahal from Mehtab Bagh gardens.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Beilstein_-_Kaisersbach_-_Oberes_H%C3%B6llw%C3%A4ldle_-_Birnbaum_mit_Blick_%C3%BCber_Schmidbachtal_(1).jpg",
+          "title": "File:Beilstein - Kaisersbach - Oberes Höllwäldle - Birnbaum mit Blick über Schmidbachtal (1).jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Taj_Mahal_with_its_Little_Swifts.jpg",
+          "title": "File:Taj Mahal with its Little Swifts.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/unlistedsightings/2929039348/",
+          "title": "Little Taj",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/keino13/2841387081/",
+          "title": "Little Chocopie's Taj Mahal",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/23510510@N03/5625173426/",
+          "title": "Little Planet, Baby Taj",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/schwanhals/39579180535/",
+          "title": "Tajo del estudiante",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/60557912@N05/15860893760/",
+          "title": "Cross",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/chrisandhilleary/206346353/",
+          "title": "Ha!",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/33037982@N04/4364952983/",
+          "title": "Taj Hotel",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/string_bass_dave/13205757364/",
+          "title": "Taj Mahal at Sunset",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/string_bass_dave/14520281414/",
+          "title": "The Taj Mahal",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/billstrain/3672615131/",
+          "title": "THE SISTERS DUALITY AWARD ...",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/string_bass_dave/14341722540/",
+          "title": "Well and Taj",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/azwegers/20498729900/",
+          "title": "El Tajin, Pyramid of the Niches",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        }
+      ],
+      "notes": [
+        "No permission requested and no owner contacted. Official/public visibility alone does not grant reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "No photograph established both the exact place/branch and compatible individual-image reuse rights in the reviewed searches. A supplied photograph with documented rights is needed."
+    },
+    {
+      "placeId": "boracay-station-x",
+      "checkedOn": "2026-10-22",
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "Station X",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Station+X&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 7
+        },
+        {
+          "provider": "Commons",
+          "query": "Station X Boracay",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Station+X+Boracay&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Station X Boracay",
+          "url": "https://www.flickr.com/search/?text=Station+X+Boracay&license=4%2C5%2C9%2C10",
+          "count": 1
+        },
+        {
+          "provider": "Flickr",
+          "query": "Station X",
+          "url": "https://www.flickr.com/search/?text=Station+X&license=4%2C5%2C9%2C10",
+          "count": 12
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=Station+X&srlimit=4",
+          "categories": [
+            "Category:Via Crucis in Alboraia Station X",
+            "Category:Station X, Via Crucis, Xirivella",
+            "Category:RTC X Roads metro station",
+            "Category:Uno-X petrol stations in Sweden"
+          ]
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=Station+X&limit=3",
+          "candidates": [
+            {
+              "id": "Q60487977",
+              "label": "Station X",
+              "description": "1998 edition",
+              "url": "http://www.wikidata.org/entity/Q60487977"
+            },
+            {
+              "id": "Q155921",
+              "label": "Bletchley Park",
+              "description": "WWII code-breaking site and British country house, and museum, United Kingdom",
+              "url": "http://www.wikidata.org/entity/Q155921"
+            },
+            {
+              "id": "Q133305528",
+              "label": "Station X",
+              "description": "1919 novel",
+              "url": "http://www.wikidata.org/entity/Q133305528"
+            }
+          ]
+        }
+      ],
+      "rejections": [
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Bletchley_Park_Mansion.jpg",
+          "title": "File:Bletchley Park Mansion.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Commemorative_medal_for_those_working_at_Bletchley_Park,_awarded_to_Joyce_Gladys_Dickson_(nee_Day).jpg",
+          "title": "File:Commemorative medal for those working at Bletchley Park, awarded to Joyce Gladys Dickson (nee Day).jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:SIXTA_team_at_Bletchley_Park_screenshot.png",
+          "title": "File:SIXTA team at Bletchley Park screenshot.png",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Bletchley_Park_Entrance_to_Hut_8.jpg",
+          "title": "File:Bletchley Park Entrance to Hut 8.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Bletchley_Park_Library_2022.jpg",
+          "title": "File:Bletchley Park Library 2022.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Bletchley_Park_Mansion_Plaque.jpg",
+          "title": "File:Bletchley Park Mansion Plaque.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Bletchley_Park_Mansion_Staircase.jpg",
+          "title": "File:Bletchley Park Mansion Staircase.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/togawanderings/6880540506/",
+          "title": "Excellent Restaurant in D'Mall in Boracay",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/pom-angers/52566902805/",
+          "title": "NEMA from Sears Tower, Chicago",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/pom-angers/53052444588/",
+          "title": "La Louve du Conquet",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/kristoffer-trolle/48791722093/",
+          "title": "Carlsberg Bro / Carlsbergbroen (Valby, Carlsberg Byen, København / Copenhagen)",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/sjgolding/51383431387/",
+          "title": "2226 window",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/gnr/52227654096/",
+          "title": "TERMINAL GRAND CENTRAL ABIERTO DE 5:30 AM A 2:00 AM NO FUMAR",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/wwwuppertal/52029251550/",
+          "title": "Berlin / Spree. Radialsystem, formerly a waste water pumping station, now converted into a music venue.",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/lovetrill/53533115903/",
+          "title": "Right here at Nederlanse Bergen!",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/kristoffer-trolle/50326176037/",
+          "title": "Helsingør Train Station, Denmark",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/sonvisen/52497802841/",
+          "title": "Misty morning | Minolta 16 Model-P",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/kristoffer-trolle/51730972028/",
+          "title": "Ørestad Metro Station, Copenhagen",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/wwwuppertal/52062161183/",
+          "title": "Berlin / Spree. Radialsystem, formerly a waste water pumping station, now converted into a music venue.",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/tmsam/42744113105/",
+          "title": "pagoda viewpoint , yercaud, Tamilnadu, India",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        }
+      ],
+      "notes": [
+        "No permission requested and no owner contacted. Official/public visibility alone does not grant reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "No photograph established both the exact place/branch and compatible individual-image reuse rights in the reviewed searches. A supplied photograph with documented rights is needed."
+    },
+    {
+      "placeId": "boracay-muchos",
+      "checkedOn": "2026-10-22",
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "Muchos",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Muchos&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 8
+        },
+        {
+          "provider": "Commons",
+          "query": "Muchos Boracay",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Muchos+Boracay&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Muchos Boracay",
+          "url": "https://www.flickr.com/search/?text=Muchos+Boracay&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Muchos",
+          "url": "https://www.flickr.com/search/?text=Muchos&license=4%2C5%2C9%2C10",
+          "count": 12
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=Muchos&srlimit=4",
+          "categories": [
+            "Category:Mucho Muchacho",
+            "Category:Mucho Gusto",
+            "Category:Cerro Mucho Malo",
+            "Category:Mucho Más Mayo"
+          ]
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=Muchos&limit=3",
+          "candidates": [
+            {
+              "id": "Q16979582",
+              "label": "muchosa",
+              "description": "type of bagpipe from Hainaut",
+              "url": "http://www.wikidata.org/entity/Q16979582"
+            },
+            {
+              "id": "Q114629378",
+              "label": "Muchos Libre",
+              "description": "Indonesian alternative rock bands",
+              "url": "http://www.wikidata.org/entity/Q114629378"
+            },
+            {
+              "id": "Q50822489",
+              "label": "Muchosol",
+              "description": "Property rental company",
+              "url": "http://www.wikidata.org/entity/Q50822489"
+            }
+          ]
+        }
+      ],
+      "rejections": [
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Muchos_mates.JPG",
+          "title": "File:Muchos mates.JPG",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Gold_rim_swallowtail_(Battus_polydamas_jamaicensis)_underside_worn_2.JPG",
+          "title": "File:Gold rim swallowtail (Battus polydamas jamaicensis) underside worn 2.JPG",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:%D0%9A%D0%BE%D1%81%D1%82%D0%B5%D0%BB_%D0%A1%D0%B2.%D0%A2%D1%80%D1%96%D0%B9%D1%86%D1%96._%D0%BF%D0%B0%D0%BD%D0%BE%D1%80%D0%B0%D0%BC%D0%B0.jpg",
+          "title": "File:Костел Св.Трійці. панорама.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Muchos_monos.jpg",
+          "title": "File:Muchos monos.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:MUCHOS_COLORES,_MUCHOS_SABORES.jpg",
+          "title": "File:MUCHOS COLORES, MUCHOS SABORES.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Muchos_baches_inundados.jpg",
+          "title": "File:Muchos baches inundados.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Muchos_Nachos_Tex-Mex_Restaurant_Chichester_-_geograph.org.uk_-_8035543.jpg",
+          "title": "File:Muchos Nachos Tex-Mex Restaurant Chichester - geograph.org.uk - 8035543.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Sign_for_Muchos_Nachos_Tex-Mex_Restaurant_Chichester_-_geograph.org.uk_-_8035544.jpg",
+          "title": "File:Sign for Muchos Nachos Tex-Mex Restaurant Chichester - geograph.org.uk - 8035544.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/bluecorvette/52361777871/",
+          "title": "mucho mushrooms",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/77851375@N03/13963949975/",
+          "title": "Mucho calor 001",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/martius/50368770481/",
+          "title": "manzano con muchos frutos",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/pepeserrano/50230000986/",
+          "title": "mucho love",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/jaroh/14998878843/",
+          "title": "Mucho",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/144009832@N02/30274239666/",
+          "title": "Mucho",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/simplybea/12526926135/",
+          "title": "Besame Mucho",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/elgarydaly/2527212613/",
+          "title": "DUELE MUCHO VERTE",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/fresafragolafraise/3875501909/",
+          "title": "feliz cumple a mi",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/cleopatraclyalin/52642235021/",
+          "title": "♡Sabes que me gustas mucho por eso dices que me quieres ya",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/martius/54074443458/",
+          "title": "Señoría, de lo que me dice que usted hace, solo entiendo la mitad de un cuarto",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/samiq/1142001030/",
+          "title": "Muchos",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        }
+      ],
+      "notes": [
+        "No permission requested and no owner contacted. Official/public visibility alone does not grant reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "No photograph established both the exact place/branch and compatible individual-image reuse rights in the reviewed searches. A supplied photograph with documented rights is needed."
+    },
+    {
+      "placeId": "boracay-jammers-beach-shack",
+      "checkedOn": "2026-10-22",
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "Jammers Beach Shack",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Jammers+Beach+Shack&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Jammers Shack Boracay",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Jammers+Shack+Boracay&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Jammers Beach Shack Boracay",
+          "url": "https://www.flickr.com/search/?text=Jammers+Beach+Shack+Boracay&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Jammers Boracay",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Jammers+Boracay&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Jammers Boracay",
+          "error": "HTTP 502: https://www.flickr.com/search/?text=Jammers+Boracay&license=4%2C5%2C9%2C10"
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=Jammers+Boracay&srlimit=4",
+          "categories": []
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=Jammers+Beach+Shack&limit=3",
+          "candidates": []
+        }
+      ],
+      "rejections": [],
+      "notes": [
+        "No permission requested and no owner contacted. Official/public visibility alone does not grant reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "No photograph established both the exact place/branch and compatible individual-image reuse rights in the reviewed searches. A supplied photograph with documented rights is needed."
+    },
+    {
+      "placeId": "boracay-aria-cucina",
+      "checkedOn": "2026-10-22",
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "Aria Cucina Italiana",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Aria+Cucina+Italiana&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Aria Cucina Italiana Boracay",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Aria+Cucina+Italiana+Boracay&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Aria Cucina Italiana Boracay",
+          "url": "https://www.flickr.com/search/?text=Aria+Cucina+Italiana+Boracay&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Aria Boracay",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Aria+Boracay&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Aria Boracay",
+          "url": "https://www.flickr.com/search/?text=Aria+Boracay&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=Aria+Boracay&srlimit=4",
+          "categories": []
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=Aria+Cucina+Italiana&limit=3",
+          "candidates": []
+        }
+      ],
+      "rejections": [],
+      "notes": [
+        "No permission requested and no owner contacted. Official/public visibility alone does not grant reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "No photograph established both the exact place/branch and compatible individual-image reuse rights in the reviewed searches. A supplied photograph with documented rights is needed."
+    },
+    {
+      "placeId": "boracay-hama",
+      "checkedOn": "2026-10-22",
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "Hama Japanese Restaurant",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Hama+Japanese+Restaurant&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 8
+        },
+        {
+          "provider": "Commons",
+          "query": "Hama Japanese Boracay",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Hama+Japanese+Boracay&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Hama Japanese Restaurant Boracay",
+          "url": "https://www.flickr.com/search/?text=Hama+Japanese+Restaurant+Boracay&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Hama Boracay",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Hama+Boracay&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Hama Boracay",
+          "url": "https://www.flickr.com/search/?text=Hama+Boracay&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=Hama+Boracay&srlimit=4",
+          "categories": []
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=Hama+Japanese+Restaurant&limit=3",
+          "candidates": []
+        }
+      ],
+      "rejections": [
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Hama-Sushi_Higasi-Murayama_Kumegawa.jpg",
+          "title": "File:Hama-Sushi Higasi-Murayama Kumegawa.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Hama_Sushi_Kadoma_KIshiwada.jpg",
+          "title": "File:Hama Sushi Kadoma KIshiwada.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:HAMA_SUSHI_Nara-Oshikuma_shop.jpg",
+          "title": "File:HAMA SUSHI Nara-Oshikuma shop.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:HAMA-SUSHI_Higashi%C5%8Dsaka-Nagad%C5%8D_shop.jpg",
+          "title": "File:HAMA-SUSHI Higashiōsaka-Nagadō shop.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:HAMA-SUSHI_Moriguchi-Taishibashi_shop.jpg",
+          "title": "File:HAMA-SUSHI Moriguchi-Taishibashi shop.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:HAMA_SUSHI_Higashiosaka_Rokumanji_shop.jpg",
+          "title": "File:HAMA SUSHI Higashiosaka Rokumanji shop.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:HAMA_SUSHI_Higashi%C5%8Dsaka_Rokumanji_shop.jpg",
+          "title": "File:HAMA SUSHI Higashiōsaka Rokumanji shop.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:HAMA_SUSHI_Ikoma_Kamimachi_shop.jpg",
+          "title": "File:HAMA SUSHI Ikoma Kamimachi shop.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        }
+      ],
+      "notes": [
+        "No permission requested and no owner contacted. Official/public visibility alone does not grant reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "No photograph established both the exact place/branch and compatible individual-image reuse rights in the reviewed searches. A supplied photograph with documented rights is needed."
+    },
+    {
+      "placeId": "boracay-cafe-del-sol",
+      "checkedOn": "2026-10-22",
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "Cafe del Sol",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Cafe+del+Sol&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 8
+        },
+        {
+          "provider": "Commons",
+          "query": "Cafe del Sol Boracay",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Cafe+del+Sol+Boracay&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Cafe del Sol Boracay",
+          "url": "https://www.flickr.com/search/?text=Cafe+del+Sol+Boracay&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Cafe del Sol",
+          "url": "https://www.flickr.com/search/?text=Cafe+del+Sol&license=4%2C5%2C9%2C10",
+          "count": 12
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=Cafe+del+Sol&srlimit=4",
+          "categories": [
+            "Category:Cafe del Sol",
+            "Category:Café Del Sol (Winchester, Virginia)",
+            "Category:Gastro & Soul",
+            "Category:Café del temps"
+          ]
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=Cafe+del+Sol&limit=3",
+          "candidates": [
+            {
+              "id": "Q116153972",
+              "label": "Café del Sol",
+              "description": "an LGBTQ+ owned café located in Las Vegas, Nevada",
+              "url": "http://www.wikidata.org/entity/Q116153972"
+            },
+            {
+              "id": "Q17310688",
+              "label": "Cafe Del Sol",
+              "description": "German restaurant chain",
+              "url": "http://www.wikidata.org/entity/Q17310688"
+            }
+          ]
+        }
+      ],
+      "rejections": [
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Cafe_del_Sol_in_Hildesheim_1.jpg",
+          "title": "File:Cafe del Sol in Hildesheim 1.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:8397a_Cafe_del_Sol_in_Hildesheim_2.jpg",
+          "title": "File:8397a Cafe del Sol in Hildesheim 2.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Cafe_del_Sol,_Hannover-Garbsen.jpg",
+          "title": "File:Cafe del Sol, Hannover-Garbsen.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Witten_Cafe_del_Sol_1.jpg",
+          "title": "File:Witten Cafe del Sol 1.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Witten_Cafe_del_Sol_2.jpg",
+          "title": "File:Witten Cafe del Sol 2.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Caf%C3%A9_Del_Sol_Winchester_sign.jpg",
+          "title": "File:Café Del Sol Winchester sign.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Caf%C3%A9_Del_Sol_Winchester_side_view.jpg",
+          "title": "File:Café Del Sol Winchester side view.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Caf%C3%A9_Del_Sol_Winchester.jpg",
+          "title": "File:Café Del Sol Winchester.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/amanderson/2414523067/",
+          "title": "Our beach hut cafe del sol Palolem",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/ewolivera/51064764336/",
+          "title": "Hotel Inglaterra, La Habana, Cuba",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/erwinrommel/40216692702/",
+          "title": "Café del Sol Magdeburg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/lugaresdomundo/2924440176/",
+          "title": "templo del sol",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/30533963@N02/42750688190/",
+          "title": "Alt Rottwerndorf Pirna",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/30533963@N02/44509953452/",
+          "title": "Hans Holbein Straße Pirna",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/franciscodelossantos/8579045791/",
+          "title": "No puedo tomar café",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/11264282@N02/4892009532/",
+          "title": "Café, Mate o Té",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/30533963@N02/44559333421/",
+          "title": "Schaftreppe Pirna",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/30533963@N02/29621357437/",
+          "title": "Albrecht Dürer Straße Pirna",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/30533963@N02/44559250501/",
+          "title": "Rudolf Breitscheid Straße Pirna",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/30533963@N02/43649684365/",
+          "title": "Schaftreppe Pirna",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        }
+      ],
+      "notes": [
+        "No permission requested and no owner contacted. Official/public visibility alone does not grant reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "No photograph established both the exact place/branch and compatible individual-image reuse rights in the reviewed searches. A supplied photograph with documented rights is needed."
+    },
+    {
+      "placeId": "boracay-beach-truck",
+      "checkedOn": "2026-10-22",
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "Boracay Beach Truck",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Boracay+Beach+Truck&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Boracay Truck Boracay",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Boracay+Truck+Boracay&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 1
+        },
+        {
+          "provider": "Flickr",
+          "query": "Boracay Beach Truck Boracay",
+          "url": "https://www.flickr.com/search/?text=Boracay+Beach+Truck+Boracay&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Boracay Beach Truck",
+          "url": "https://www.flickr.com/search/?text=Boracay+Beach+Truck&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=Boracay+Beach+Truck&srlimit=4",
+          "categories": []
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=Boracay+Beach+Truck&limit=3",
+          "candidates": []
+        }
+      ],
+      "rejections": [
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Foton_Tornado_Minibus.jpg",
+          "title": "File:Foton Tornado Minibus.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        }
+      ],
+      "notes": [
+        "No permission requested and no owner contacted. Official/public visibility alone does not grant reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "No photograph established both the exact place/branch and compatible individual-image reuse rights in the reviewed searches. A supplied photograph with documented rights is needed."
+    },
+    {
+      "placeId": "boracay-dinibeach-bar",
+      "checkedOn": "2026-10-22",
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "Dinibeach Bar & Restaurant",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Dinibeach+Bar+%26+Restaurant&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Dinibeach Bar Boracay",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Dinibeach+Bar+Boracay&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Dinibeach Bar & Restaurant Boracay",
+          "url": "https://www.flickr.com/search/?text=Dinibeach+Bar+%26+Restaurant+Boracay&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Dinibeach Bar & Restaurant",
+          "url": "https://www.flickr.com/search/?text=Dinibeach+Bar+%26+Restaurant&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=Dinibeach+Bar+%26+Restaurant&srlimit=4",
+          "categories": []
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=Dinibeach+Bar+%26+Restaurant&limit=3",
+          "candidates": []
+        }
+      ],
+      "rejections": [],
+      "notes": [
+        "No permission requested and no owner contacted. Official/public visibility alone does not grant reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "No photograph established both the exact place/branch and compatible individual-image reuse rights in the reviewed searches. A supplied photograph with documented rights is needed."
+    },
+    {
+      "placeId": "boracay-citymall",
+      "checkedOn": "2026-10-22",
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "CityMall Boracay",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=CityMall+Boracay&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "CityMall Boracay Boracay",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=CityMall+Boracay+Boracay&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "CityMall Boracay Boracay",
+          "url": "https://www.flickr.com/search/?text=CityMall+Boracay+Boracay&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "CityMall Boracay",
+          "url": "https://www.flickr.com/search/?text=CityMall+Boracay&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=CityMall+Boracay&srlimit=4",
+          "categories": []
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=CityMall+Boracay&limit=3",
+          "candidates": []
+        }
+      ],
+      "rejections": [],
+      "notes": [
+        "No permission requested and no owner contacted. Official/public visibility alone does not grant reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "No photograph established both the exact place/branch and compatible individual-image reuse rights in the reviewed searches. A supplied photograph with documented rights is needed."
+    },
+    {
+      "placeId": "boracay-sirena",
+      "checkedOn": "2026-10-22",
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "Sirena Restaurant & Clifftop Bar",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Sirena+Restaurant+%26+Clifftop+Bar&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Sirena Clifftop Bar Boracay",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Sirena+Clifftop+Bar+Boracay&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Sirena Restaurant & Clifftop Bar Boracay",
+          "url": "https://www.flickr.com/search/?text=Sirena+Restaurant+%26+Clifftop+Bar+Boracay&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Sirena Boracay",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Sirena+Boracay&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Sirena Boracay",
+          "url": "https://www.flickr.com/search/?text=Sirena+Boracay&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=Sirena+Boracay&srlimit=4",
+          "categories": []
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=Sirena+Restaurant+%26+Clifftop+Bar&limit=3",
+          "candidates": []
+        }
+      ],
+      "rejections": [],
+      "notes": [
+        "No permission requested and no owner contacted. Official/public visibility alone does not grant reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "No photograph established both the exact place/branch and compatible individual-image reuse rights in the reviewed searches. A supplied photograph with documented rights is needed."
+    },
+    {
+      "placeId": "boracay-los-indios-bravos",
+      "checkedOn": "2026-10-22",
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "Los Indios Bravos",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Los+Indios+Bravos&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 1
+        },
+        {
+          "provider": "Commons",
+          "query": "Los Indios Bravos Boracay",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Los+Indios+Bravos+Boracay&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Los Indios Bravos Boracay",
+          "url": "https://www.flickr.com/search/?text=Los+Indios+Bravos+Boracay&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Indios Bravos",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Indios+Bravos&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 8
+        },
+        {
+          "provider": "Flickr",
+          "query": "Indios Bravos",
+          "url": "https://www.flickr.com/search/?text=Indios+Bravos&license=4%2C5%2C9%2C10",
+          "count": 1
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=Indios+Bravos&srlimit=4",
+          "categories": [
+            "Category:Indios Bravos",
+            "Category:Members of Indios Bravos",
+            "Category:Mario Bravo",
+            "Category:Piotr Gutkowski"
+          ]
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=Los+Indios+Bravos&limit=3",
+          "candidates": []
+        }
+      ],
+      "rejections": [
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Los_Indios_Bravos_in_Juan_Luna%27s_studio,_65_boulevard_Arago_(la_Cit%C3%A9_Fleurie).jpg",
+          "title": "File:Los Indios Bravos in Juan Luna's studio, 65 boulevard Arago (la Cité Fleurie).jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Piotr_Banach_Indios_Bravos.jpg",
+          "title": "File:Piotr Banach Indios Bravos.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Piotr_Gutkowski_Indios_Bravos.jpg",
+          "title": "File:Piotr Gutkowski Indios Bravos.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Indios_Bravos.jpg",
+          "title": "File:Indios Bravos.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Indios_Bravos2.jpg",
+          "title": "File:Indios Bravos2.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Indios_bravos_mmf_katowice_02.jpg",
+          "title": "File:Indios bravos mmf katowice 02.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Indios_bravos_mmf_katowice_05.jpg",
+          "title": "File:Indios bravos mmf katowice 05.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Indios_bravos_mmf_katowice_08.jpg",
+          "title": "File:Indios bravos mmf katowice 08.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Indios_Bravos_-_fot._Ryszard_Kocaj.jpg",
+          "title": "File:Indios Bravos - fot. Ryszard Kocaj.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/rufino_uribe/329783173/",
+          "title": "indio",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        }
+      ],
+      "notes": [
+        "No permission requested and no owner contacted. Official/public visibility alone does not grant reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "No photograph established both the exact place/branch and compatible individual-image reuse rights in the reviewed searches. A supplied photograph with documented rights is needed."
+    },
+    {
+      "placeId": "boracay-sands-bar-restaurant",
+      "checkedOn": "2026-10-22",
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "Sands Bar & Restaurant",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Sands+Bar+%26+Restaurant&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 5
+        },
+        {
+          "provider": "Commons",
+          "query": "Sands Bar Boracay",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Sands+Bar+Boracay&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Sands Bar & Restaurant Boracay",
+          "url": "https://www.flickr.com/search/?text=Sands+Bar+%26+Restaurant+Boracay&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Sands Boracay",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Sands+Boracay&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 5
+        },
+        {
+          "provider": "Flickr",
+          "query": "Sands Boracay",
+          "url": "https://www.flickr.com/search/?text=Sands+Boracay&license=4%2C5%2C9%2C10",
+          "count": 12
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=Sands+Boracay&srlimit=4",
+          "categories": []
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=Sands+Bar+%26+Restaurant&limit=3",
+          "candidates": []
+        }
+      ],
+      "rejections": [
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Sands_Motel,_Mr._B%27s_Coffee_Shop_(NBY_433702).jpg",
+          "title": "File:Sands Motel, Mr. B's Coffee Shop (NBY 433702).jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Sands_Motel,_Mr._B%27s_Coffee_Shop_(NBY_433703).jpg",
+          "title": "File:Sands Motel, Mr. B's Coffee Shop (NBY 433703).jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:The_SouthBridge_Hotel_Restaurant_and_Whiskey_Bar.jpg",
+          "title": "File:The SouthBridge Hotel Restaurant and Whiskey Bar.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Vista_Mar_Bar_%5E_Restaurant_at_Saltburn_Sands_-_geograph.org.uk_-_6085451.jpg",
+          "title": "File:Vista Mar Bar ^ Restaurant at Saltburn Sands - geograph.org.uk - 6085451.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Yardbird_Southern_Table_%26_Bar.jpg",
+          "title": "File:Yardbird Southern Table & Bar.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Sands_and_Glass.JPG",
+          "title": "File:Sands and Glass.JPG",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Sunset_White_Sands_Beach_Boracay_Philippines.jpg",
+          "title": "File:Sunset White Sands Beach Boracay Philippines.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Sunset_portrait_White_Sands_Beach_Boracay_Philippines.jpg",
+          "title": "File:Sunset portrait White Sands Beach Boracay Philippines.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Sunset_landscape_White_Sands_Beach_Boracay_Philippines.jpg",
+          "title": "File:Sunset landscape White Sands Beach Boracay Philippines.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Palm_Trees_White_Sands_Beach_Boracay_Philippines.jpg",
+          "title": "File:Palm Trees White Sands Beach Boracay Philippines.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/rickmccharles/6485687651/",
+          "title": "Boracay, Philippines",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/101561334@N08/10599923414/",
+          "title": "Boracay",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/sagamiono/4257906335/",
+          "title": "FRIDAYS, BORACAY BEACH GROOVES",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/yenlife007/35016629670/",
+          "title": "菲律賓長灘島 Boracay",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/richardglenn/2271529143/",
+          "title": "A boat",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/101561334@N08/10600162793/",
+          "title": "Boracay",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/denisenicole/2636721759/",
+          "title": "IMG_4348.JPG",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/101561334@N08/10599762204/",
+          "title": "Boracay",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/respiritu/2170734717/",
+          "title": "Waiting For Dusk",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/richardglenn/2272317706/",
+          "title": "The same boat",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/denisenicole/2637584084/",
+          "title": "IMG_7844.JPG",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/richardglenn/2271531743/",
+          "title": "Shore leaf",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        }
+      ],
+      "notes": [
+        "No permission requested and no owner contacted. Official/public visibility alone does not grant reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "No photograph established both the exact place/branch and compatible individual-image reuse rights in the reviewed searches. A supplied photograph with documented rights is needed."
+    },
+    {
+      "placeId": "baguio-easter-weaving-room",
+      "checkedOn": "2026-10-22",
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "Easter Weaving Room",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Easter+Weaving+Room&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Easter Weaving Room Baguio",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Easter+Weaving+Room+Baguio&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Easter Weaving Room Baguio",
+          "url": "https://www.flickr.com/search/?text=Easter+Weaving+Room+Baguio&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Easter weaving Baguio",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Easter+weaving+Baguio&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Easter weaving Baguio",
+          "url": "https://www.flickr.com/search/?text=Easter+weaving+Baguio&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=Easter+weaving+Baguio&srlimit=4",
+          "categories": []
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=Easter+Weaving+Room&limit=3",
+          "candidates": []
+        }
+      ],
+      "rejections": [],
+      "notes": [
+        "No permission requested and no owner contacted. Official/public visibility alone does not grant reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "No photograph established both the exact place/branch and compatible individual-image reuse rights in the reviewed searches. A supplied photograph with documented rights is needed."
+    },
+    {
+      "placeId": "baguio-ili-likha",
+      "checkedOn": "2026-10-22",
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "Ili-Likha Artists Wateringhole",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Ili-Likha+Artists+Wateringhole&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Ili-Likha Artists Wateringhole Baguio",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Ili-Likha+Artists+Wateringhole+Baguio&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Ili-Likha Artists Wateringhole Baguio",
+          "url": "https://www.flickr.com/search/?text=Ili-Likha+Artists+Wateringhole+Baguio&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Ili Likha",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Ili+Likha&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 5
+        },
+        {
+          "provider": "Flickr",
+          "query": "Ili Likha",
+          "url": "https://www.flickr.com/search/?text=Ili+Likha&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=Ili+Likha&srlimit=4",
+          "categories": [
+            "Category:Writing systems"
+          ]
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=Ili-Likha+Artists+Wateringhole&limit=3",
+          "candidates": []
+        }
+      ],
+      "rejections": [
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Ibalnan_script_sample.png",
+          "title": "File:Ibalnan script sample.png",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:ScriptUlu.png",
+          "title": "File:ScriptUlu.png",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Schleierschrift_B.png",
+          "title": "File:Schleierschrift B.png",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Ndebe.jpg",
+          "title": "File:Ndebe.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Writing_systems_comparison.jpg",
+          "title": "File:Writing systems comparison.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        }
+      ],
+      "notes": [
+        "No permission requested and no owner contacted. Official/public visibility alone does not grant reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "No photograph established both the exact place/branch and compatible individual-image reuse rights in the reviewed searches. A supplied photograph with documented rights is needed."
+    },
+    {
+      "placeId": "baguio-aguinaldo-museum",
+      "checkedOn": "2026-10-22",
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "Emilio F. Aguinaldo Museum",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Emilio+F.+Aguinaldo+Museum&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Emilio F. Aguinaldo Baguio",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Emilio+F.+Aguinaldo+Baguio&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 5
+        },
+        {
+          "provider": "Flickr",
+          "query": "Emilio F. Aguinaldo Museum Baguio",
+          "url": "https://www.flickr.com/search/?text=Emilio+F.+Aguinaldo+Museum+Baguio&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Aguinaldo Museum Baguio",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Aguinaldo+Museum+Baguio&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Aguinaldo Museum Baguio",
+          "url": "https://www.flickr.com/search/?text=Aguinaldo+Museum+Baguio&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=Aguinaldo+Museum+Baguio&srlimit=4",
+          "categories": [
+            "Category:Photographs by Judgefloro, 2019",
+            "Category:Photographs by Judgefloro, 2019, 2"
+          ]
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=Emilio+F.+Aguinaldo+Museum&limit=3",
+          "candidates": []
+        }
+      ],
+      "rejections": [
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:GEFA-Hochhaus_001.jpg",
+          "title": "File:GEFA-Hochhaus 001.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:GEFA_color.jpg",
+          "title": "File:GEFA color.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Gefa-Flug_AS_105_GD_AN1695767.jpg",
+          "title": "File:Gefa-Flug AS 105 GD AN1695767.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:C-GEFA_B.1900C_Nthn_Tbird_Air_YVR_23JUL11_(5969019688).jpg",
+          "title": "File:C-GEFA B.1900C Nthn Tbird Air YVR 23JUL11 (5969019688).jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:C-GEFA_@_GVA,_2019-10-14.jpg",
+          "title": "File:C-GEFA @ GVA, 2019-10-14.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        }
+      ],
+      "notes": [
+        "No permission requested and no owner contacted. Official/public visibility alone does not grant reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "No photograph established both the exact place/branch and compatible individual-image reuse rights in the reviewed searches. A supplied photograph with documented rights is needed."
+    },
+    {
+      "placeId": "baguio-maryknoll-sanctuary",
+      "checkedOn": "2026-10-22",
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "Maryknoll Ecological Sanctuary",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Maryknoll+Ecological+Sanctuary&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Maryknoll Ecological Sanctuary Baguio",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Maryknoll+Ecological+Sanctuary+Baguio&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Maryknoll Ecological Sanctuary Baguio",
+          "url": "https://www.flickr.com/search/?text=Maryknoll+Ecological+Sanctuary+Baguio&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Maryknoll Baguio",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Maryknoll+Baguio&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Maryknoll Baguio",
+          "url": "https://www.flickr.com/search/?text=Maryknoll+Baguio&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=Maryknoll+Baguio&srlimit=4",
+          "categories": []
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=Maryknoll+Ecological+Sanctuary&limit=3",
+          "candidates": []
+        }
+      ],
+      "rejections": [],
+      "notes": [
+        "No permission requested and no owner contacted. Official/public visibility alone does not grant reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "No photograph established both the exact place/branch and compatible individual-image reuse rights in the reviewed searches. A supplied photograph with documented rights is needed."
+    }
+  ],
+  "validation": {
+    "schemaAndImages": "passed",
+    "publishedImagesVisuallyReviewed": true,
+    "preservationHashes": "passed",
+    "cardsAndDetailsDesktopMobile": "passed"
+  }
+}

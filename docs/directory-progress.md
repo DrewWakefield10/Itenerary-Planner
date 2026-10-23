@@ -4,19 +4,19 @@ Snapshot: 23 October 2026. Each candidate has an explicit accepted, rejected, or
 
 | Destination | Target | Researched | Accepted | Rejected | Unresolved | Shortfall |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: |
-| Palawan | 45 | 54 | 45 | 7 | 2 | 0 |
-| Cebu | 35 | 37 | 35 | 0 | 2 | 0 |
-| Manila | 32 | 32 | 32 | 0 | 0 | 0 |
-| Siargao | 30 | 30 | 30 | 0 | 0 | 0 |
-| Bohol | 30 | 31 | 30 | 0 | 1 | 0 |
+| Palawan | 45 | 75 | 66 | 7 | 2 | 0 |
+| Cebu | 35 | 53 | 51 | 0 | 2 | 0 |
+| Manila | 32 | 49 | 49 | 0 | 0 | 0 |
+| Siargao | 30 | 36 | 36 | 0 | 0 | 0 |
+| Bohol | 30 | 37 | 36 | 0 | 1 | 0 |
 | Boracay | 28 | 33 | 28 | 2 | 3 | 0 |
-| Baguio | 30 | 34 | 30 | 3 | 1 | 0 |
-| Iloilo | 35 | 33 | 31 | 1 | 1 | 4 |
-| Davao | 35 | 31 | 31 | 0 | 0 | 4 |
-| Batanes | 30 | 33 | 30 | 1 | 2 | 0 |
-| Sagada | 20 | 14 | 10 | 1 | 3 | 10 |
+| Baguio | 30 | 39 | 35 | 3 | 1 | 0 |
+| Iloilo | 35 | 40 | 38 | 1 | 1 | 0 |
+| Davao | 35 | 39 | 39 | 0 | 0 | 0 |
+| Batanes | 30 | 35 | 32 | 1 | 2 | 0 |
+| Sagada | 20 | 20 | 16 | 1 | 3 | 4 |
 
-Total: 362 candidates, 332 accepted locations.
+Total: 456 candidates, 426 accepted locations.
 
 The combined source export is `public/data/lakbay-candidates.json`; accepted records are in `lakbay-locations.json` and `.csv`. Destination-grouped export snapshots have at most 25 records per file in `public/data/research-batches`. Incremental research-save history and source notes are in directory-luzon.md, directory-visayas.md and directory-islands.md.
 

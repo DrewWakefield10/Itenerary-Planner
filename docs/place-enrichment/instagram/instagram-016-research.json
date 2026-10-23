@@ -1,0 +1,439 @@
+{
+  "batchId": "instagram-016",
+  "checkedOn": "2026-10-22",
+  "mode": "unapproved-research",
+  "records": [
+    {
+      "placeId": "bohol-nova-shell-museum",
+      "name": "Nova Shell Museum",
+      "destination": "Bohol",
+      "municipality": "Panglao",
+      "category": "Culture",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-016",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://tourism.bohol.gov.ph/visitbohol-panglao/",
+          "status": null,
+          "error": "The operation was aborted due to timeout",
+          "candidates": [],
+          "limitation": "Inaccessible publisher source; no private content or authentication workaround attempted."
+        }
+      ]
+    },
+    {
+      "placeId": "bohol-doljo-beach",
+      "name": "Doljo Beach",
+      "destination": "Bohol",
+      "municipality": "Panglao",
+      "category": "Nature",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-016",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://tourism.bohol.gov.ph/visitbohol-panglao/",
+          "status": null,
+          "error": "The operation was aborted due to timeout",
+          "candidates": [],
+          "limitation": "Inaccessible publisher source; no private content or authentication workaround attempted."
+        }
+      ]
+    },
+    {
+      "placeId": "bohol-dumaluan-beach",
+      "name": "Dumaluan Beach",
+      "destination": "Bohol",
+      "municipality": "Panglao",
+      "category": "Nature",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-016",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://tourism.bohol.gov.ph/visitbohol-panglao/",
+          "status": null,
+          "error": "The operation was aborted due to timeout",
+          "candidates": [],
+          "limitation": "Inaccessible publisher source; no private content or authentication workaround attempted."
+        }
+      ]
+    },
+    {
+      "placeId": "bohol-hinagdanan-cave",
+      "name": "Hinagdanan Cave",
+      "destination": "Bohol",
+      "municipality": "Dauis",
+      "category": "Nature",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-016",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://tourism.bohol.gov.ph/visitbohol-dauis/",
+          "status": null,
+          "error": "The operation was aborted due to timeout",
+          "candidates": [],
+          "limitation": "Inaccessible publisher source; no private content or authentication workaround attempted."
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Hinagdanan_Cave",
+          "finalUrl": "https://en.wikipedia.org/wiki/Hinagdanan_Cave",
+          "status": 200,
+          "title": "Hinagdanan Cave - Wikipedia",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "bohol-dauis-church",
+      "name": "Assumption of Our Lady Shrine-Parish",
+      "destination": "Bohol",
+      "municipality": "Dauis",
+      "category": "Culture",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-016",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://tourism.bohol.gov.ph/visitbohol-dauis/",
+          "status": null,
+          "error": "The operation was aborted due to timeout",
+          "candidates": [],
+          "limitation": "Inaccessible publisher source; no private content or authentication workaround attempted."
+        }
+      ]
+    },
+    {
+      "placeId": "bohol-bohol-bee-farm",
+      "name": "Bohol Bee Farm",
+      "destination": "Bohol",
+      "municipality": "Dauis",
+      "category": "Food & drink",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-016",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://tourism.bohol.gov.ph/visitbohol-dauis/",
+          "status": null,
+          "error": "The operation was aborted due to timeout",
+          "candidates": [],
+          "limitation": "Inaccessible publisher source; no private content or authentication workaround attempted."
+        }
+      ]
+    },
+    {
+      "placeId": "bohol-chocolate-hills",
+      "name": "Chocolate Hills viewpoint — Carmen",
+      "destination": "Bohol",
+      "municipality": "Carmen",
+      "category": "Nature",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-016",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://tourism.bohol.gov.ph/visitbohol-carmen/",
+          "status": null,
+          "error": "The operation was aborted due to timeout",
+          "candidates": [],
+          "limitation": "Inaccessible publisher source; no private content or authentication workaround attempted."
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Chocolate_Hills",
+          "finalUrl": "https://en.wikipedia.org/wiki/Chocolate_Hills",
+          "status": 200,
+          "title": "Chocolate Hills - Wikipedia",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "bohol-baclayon-church",
+      "name": "Baclayon Church",
+      "destination": "Bohol",
+      "municipality": "Baclayon",
+      "category": "Culture",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-016",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://baclayon.bohol.gov.ph/tourism/",
+          "finalUrl": "https://baclayon.bohol.gov.ph/tourism/",
+          "status": 200,
+          "title": "Tourism | Municipality Of Baclayon",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Baclayon_Church",
+          "finalUrl": "https://en.wikipedia.org/wiki/Baclayon_Church",
+          "status": 200,
+          "title": "Baclayon Church - Wikipedia",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "bohol-loboc-church",
+      "name": "Loboc Church",
+      "destination": "Bohol",
+      "municipality": "Loboc",
+      "category": "Culture",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-016",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://tourism.bohol.gov.ph/visitbohol-loboc/",
+          "status": null,
+          "error": "The operation was aborted due to timeout",
+          "candidates": [],
+          "limitation": "Inaccessible publisher source; no private content or authentication workaround attempted."
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Loboc_Church",
+          "finalUrl": "https://en.wikipedia.org/wiki/Loboc_Church",
+          "status": 200,
+          "title": "Loboc Church - Wikipedia",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "bohol-national-museum",
+      "name": "National Museum of the Philippines — Bohol",
+      "destination": "Bohol",
+      "municipality": "Tagbilaran City",
+      "category": "Culture",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-016",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://www.nationalmuseum.gov.ph/our-museums/regional-area-and-site-museums/bohol/",
+          "finalUrl": "https://www.nationalmuseum.gov.ph/our-museums/regional-area-and-site-museums/bohol/",
+          "status": 200,
+          "title": "Bohol &#8211; National Museum",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "bohol-pamilacan-island",
+      "name": "Pamilacan Island",
+      "destination": "Bohol",
+      "municipality": "Baclayon",
+      "category": "Nature",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-016",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://baclayon.bohol.gov.ph/tourism/",
+          "finalUrl": "https://baclayon.bohol.gov.ph/tourism/",
+          "status": 200,
+          "title": "Tourism | Municipality Of Baclayon",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Pamilacan",
+          "finalUrl": "https://en.wikipedia.org/wiki/Pamilacan",
+          "status": 200,
+          "title": "Pamilacan - Wikipedia",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "bohol-baclayon-parish-museum",
+      "name": "Museo Parroquial de Baclayon",
+      "destination": "Bohol",
+      "municipality": "Baclayon",
+      "category": "Culture",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-016",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://baclayon.bohol.gov.ph/museo-parroquial-de-baclayon/",
+          "finalUrl": "https://baclayon.bohol.gov.ph/museo-parroquial-de-baclayon/",
+          "status": 200,
+          "title": "MUSEO PARROQUIAL DE BACLAYON | Municipality Of Baclayon",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "bohol-casa-rocha",
+      "name": "Casa Rocha",
+      "destination": "Bohol",
+      "municipality": "Tagbilaran City",
+      "category": "Culture",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-016",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://www.nationalmuseum.gov.ph/2022/08/25/casa-rocha-balay-na-tisa-sa-bohol/",
+          "finalUrl": "https://www.nationalmuseum.gov.ph/2022/08/25/casa-rocha-balay-na-tisa-sa-bohol/",
+          "status": 200,
+          "title": "CASA ROCHA: “BALAY NA TISA SA BOHOL” &#8211; National Museum",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "boracay-white-beach-station-2",
+      "name": "White Beach — Station 2",
+      "destination": "Boracay",
+      "municipality": "Malay",
+      "category": "Nature",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-016",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://www.tourismphilippines.com.au/where/boracay",
+          "finalUrl": "https://www.tourismphilippines.com.au/where/boracay",
+          "status": 200,
+          "title": "Boracay | Philippine Department of Tourism Australia & New Zealand",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "boracay-d-mall-food-stroll",
+      "name": "D’Mall",
+      "destination": "Boracay",
+      "municipality": "Malay",
+      "category": "Parks & markets",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-016",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://www.tourismphilippines.com.au/where/boracay",
+          "finalUrl": "https://www.tourismphilippines.com.au/where/boracay",
+          "status": 200,
+          "title": "Boracay | Philippine Department of Tourism Australia & New Zealand",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "boracay-bulabog-beach-walk",
+      "name": "Bulabog Beach",
+      "destination": "Boracay",
+      "municipality": "Malay",
+      "category": "Nature",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-016",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://www.tpb.gov.ph/wp-content/uploads/2023/10/Boracay-Map.pdf",
+          "finalUrl": "https://www.tpb.gov.ph/wp-content/uploads/2023/10/Boracay-Map.pdf",
+          "status": 403,
+          "title": "",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "boracay-willys-rock",
+      "name": "Willy’s Rock",
+      "destination": "Boracay",
+      "municipality": "Malay",
+      "category": "Culture",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-016",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://www.tpb.gov.ph/wp-content/uploads/2023/10/Boracay-Map.pdf",
+          "finalUrl": "https://www.tpb.gov.ph/wp-content/uploads/2023/10/Boracay-Map.pdf",
+          "status": 403,
+          "title": "",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "boracay-diniwid-beach",
+      "name": "Diniwid Beach",
+      "destination": "Boracay",
+      "municipality": "Malay",
+      "category": "Nature",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-016",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://www.tpb.gov.ph/wp-content/uploads/2023/10/Boracay-Map.pdf",
+          "finalUrl": "https://www.tpb.gov.ph/wp-content/uploads/2023/10/Boracay-Map.pdf",
+          "status": 403,
+          "title": "",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "boracay-puka-shell-beach",
+      "name": "Puka Shell Beach",
+      "destination": "Boracay",
+      "municipality": "Malay",
+      "category": "Nature",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-016",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://www.tpb.gov.ph/wp-content/uploads/2023/10/Boracay-Map.pdf",
+          "finalUrl": "https://www.tpb.gov.ph/wp-content/uploads/2023/10/Boracay-Map.pdf",
+          "status": 403,
+          "title": "",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "boracay-ilig-iligan-beach",
+      "name": "Ilig-Iligan Beach",
+      "destination": "Boracay",
+      "municipality": "Malay",
+      "category": "Nature",
+      "hasApprovedPhoto": true,
+      "batchId": "instagram-016",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://www.tpb.gov.ph/wp-content/uploads/2023/10/Boracay-Map.pdf",
+          "finalUrl": "https://www.tpb.gov.ph/wp-content/uploads/2023/10/Boracay-Map.pdf",
+          "status": 403,
+          "title": "",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    }
+  ]
+}

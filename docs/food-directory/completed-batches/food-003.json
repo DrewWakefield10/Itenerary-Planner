@@ -1,0 +1,77 @@
+{
+  "id": "food-003",
+  "checkedOn": "2026-10-22",
+  "accepted": [
+    "cebu-pares-pares-escario",
+    "cebu-abli",
+    "cebu-abaseria",
+    "cebu-ato-ah",
+    "cebu-lantaw-compostela",
+    "cebu-ricos-mandaue",
+    "cebu-punched-mabuhay",
+    "manila-yardstick-esteban",
+    "manila-commune-poblacion",
+    "manila-exchange-alley-molito",
+    "manila-group-boiler-molito",
+    "manila-type-a-nbs",
+    "manila-the-den-escolta",
+    "manila-saigon-coffee-arca",
+    "manila-toyo-eatery",
+    "manila-gallery-by-chele",
+    "manila-your-local",
+    "manila-sarsa-rada",
+    "manila-metiz-karrivin",
+    "manila-cirkulo",
+    "manila-la-pita-poblacion",
+    "manila-morning-sun-project-four",
+    "manila-el-poco-malate",
+    "manila-rodics-maginhawa"
+  ],
+  "inserted": 24,
+  "promoted": 0,
+  "unchanged": 0,
+  "decisions": [
+    {
+      "name": "Deuces — Perea Street",
+      "status": "rejected",
+      "sources": [
+        "https://www.wheninmanila.com/this-coffee-shop-shuts-its-doors-in-makati-but-a-new-location-is-brewing/"
+      ],
+      "reason": "Exact Perea branch closed March 2026; do not silently substitute an announced or relocated branch."
+    },
+    {
+      "name": "Hineleban — Arnaiz",
+      "status": "unresolved",
+      "sources": [
+        "https://primer.com.ph/food/location/hineleban-cafe-in-makati-advocate-of-local-coffee/"
+      ],
+      "reason": "Old article documents relocation; current exact visitor venue not established."
+    },
+    {
+      "name": "The Curator",
+      "status": "unresolved",
+      "sources": [
+        "https://www.thecuratorcoffeeandcocktails.com/"
+      ],
+      "reason": "Official domain currently shows default nginx page; seek current exact venue evidence before adding."
+    },
+    {
+      "name": "SGD Bodega",
+      "status": "unresolved",
+      "sources": [
+        "https://coffeeheritageproject.com/",
+        "https://tol.com.ph/collections/sgd-coffee"
+      ],
+      "reason": "Primary site inaccessible; public menu host authority needs confirmation."
+    },
+    {
+      "name": "Primal Brew",
+      "status": "unresolved",
+      "sources": [
+        "https://primalbrewcoffee.com/pages/the-cafe",
+        "https://primalbrew.cococart.co/"
+      ],
+      "reason": "Exact current visitor address and contradictory closed cart status need reconciliation."
+    }
+  ]
+}

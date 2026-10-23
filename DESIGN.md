@@ -30,6 +30,10 @@ omitted:
 
 # Lakbay design context
 
+Instagram resources use the existing paper section and text links after place videos. Official widgets load only after an explicit action, in one mobile or up to two desktop columns. Respect Instagram's 326 px minimum; narrower slots keep source links instead of clipping controls. Licensed covers, cards and photo-gap counts remain independent. The widget owns a dedicated DOM container so resizing and navigation can remove it without React reconciliation errors.
+
+For detail pages without an approved cover photograph, reuse the same widget as a named cover-preview variant. Keep its Load Instagram preview control compact and its original-post link visible. The widget keeps its natural full height, branding and controls; it is never styled as a cropped photograph or placed under overlays. Stack the cover area on smaller laptop/tablet widths when needed to fit the official minimum. Omit the chosen post from the lower Instagram section; other posts retain their own load action. Cards keep their existing photograph/art behavior.
+
 ## Overview
 
 Preserve the established illustrated travel-journal identity: paper notes, local photographs, serif destination names, restrained handwritten accents. The product serves English-speaking travelers planning Philippine visits, often on a phone. Discover is a product directory; the homepage retains its editorial travel-journal register. This update adds geographic clarity, not a redesign.
@@ -63,6 +67,8 @@ Reuse `.button`, `.button.secondary`, and `.text-link`. Destination selectors ar
 | Surface | Canonical implementation |
 | --- | --- |
 | Directory cards, filters, details | `components/discover.tsx` and existing discovery CSS |
+| Original Instagram resources / detail-cover preview | `components/place-instagram.tsx`, shared opt-in loader; photographs remain preferred |
+| Food role filters and venue evidence | Same native selects and source indicators; preserve cream/teal notebook styling and card dimensions |
 | Source status and review explanation | `components/source-indicator.tsx` |
 | Add preview and explicit acceptance | `components/discovery-add-dialog.tsx`, `lib/discovery-planning.ts` |
 | Map | Lazy `components/trip-map.tsx`; no fabricated pins or routes |
@@ -70,7 +76,7 @@ Reuse `.button`, `.button.secondary`, and `.text-link`. Destination selectors ar
 
 ## Do's and Don'ts
 
-Keep browsing groups distinct from municipalities and overnight bases. Reuse licensed local assets with their existing credits; use the compass fallback when no matching place photo exists. Do not let an accepted identity imply verified prices, hours, accessibility, or travel safety. Preserve source metadata in snapshots and require explicit acceptance for itinerary additions.
+Keep browsing groups distinct from municipalities and overnight bases. Reuse licensed local assets with their existing credits; use the compass fallback when no matching place photo exists, except for the explicitly requested opt-in Instagram detail-cover variant when an eligible original post is available. Do not let an accepted identity imply verified prices, hours, accessibility, or travel safety. Preserve source metadata in snapshots and require explicit acceptance for itinerary additions.
 
 The planner keeps precise place-type controls in an optional native disclosure below travel interests. Reuse labeled native checkboxes in the existing responsive form grid. Explain that types take priority over broad interests and shortages retain open time. Keep free time distinct from catalog venues; no decorative or structural redesign accompanies selection changes.
 

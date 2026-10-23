@@ -1,0 +1,401 @@
+{
+  "batchId": "instagram-007",
+  "checkedOn": "2026-10-22",
+  "mode": "unapproved-research",
+  "records": [
+    {
+      "placeId": "siargao-tayangban-cave-pool",
+      "name": "Tayangban Cave Pool",
+      "destination": "Siargao",
+      "municipality": "Pilar",
+      "category": "Attractions",
+      "hasApprovedPhoto": false,
+      "batchId": "instagram-007",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://www.gojavalava.com/siargaotours",
+          "finalUrl": "https://www.gojavalava.com/siargaotours",
+          "status": 200,
+          "title": "Siargao Day Tours & Shore Excursions | Book now with Javalava Tours",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "siargao-maasin-river",
+      "name": "Maasin River",
+      "destination": "Siargao",
+      "municipality": "Pilar",
+      "category": "Nature",
+      "hasApprovedPhoto": false,
+      "batchId": "instagram-007",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://www.gojavalava.com/siargaotours",
+          "finalUrl": "https://www.gojavalava.com/siargaotours",
+          "status": 200,
+          "title": "Siargao Day Tours & Shore Excursions | Book now with Javalava Tours",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "siargao-pacifico-beach",
+      "name": "Pacifico Beach",
+      "destination": "Siargao",
+      "municipality": "San Isidro",
+      "category": "Nature",
+      "hasApprovedPhoto": false,
+      "batchId": "instagram-007",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://itsmorefuninthephilippines.co.uk/wp-content/uploads/PDOTL_Siargao_Web.pdf",
+          "status": null,
+          "error": "fetch failed",
+          "candidates": [],
+          "limitation": "Inaccessible publisher source; no private content or authentication workaround attempted."
+        }
+      ]
+    },
+    {
+      "placeId": "siargao-alegria-beach",
+      "name": "Alegria Beach",
+      "destination": "Siargao",
+      "municipality": "Santa Monica",
+      "category": "Nature",
+      "hasApprovedPhoto": false,
+      "batchId": "instagram-007",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://itsmorefuninthephilippines.co.uk/wp-content/uploads/PDOTL_Siargao_Web.pdf",
+          "status": null,
+          "error": "fetch failed",
+          "candidates": [],
+          "limitation": "Inaccessible publisher source; no private content or authentication workaround attempted."
+        }
+      ]
+    },
+    {
+      "placeId": "siargao-taktak-falls",
+      "name": "Taktak Falls",
+      "destination": "Siargao",
+      "municipality": "Santa Monica",
+      "category": "Nature",
+      "hasApprovedPhoto": false,
+      "batchId": "instagram-007",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://itsmorefuninthephilippines.co.uk/wp-content/uploads/PDOTL_Siargao_Web.pdf",
+          "status": null,
+          "error": "fetch failed",
+          "candidates": [],
+          "limitation": "Inaccessible publisher source; no private content or authentication workaround attempted."
+        }
+      ]
+    },
+    {
+      "placeId": "siargao-santa-monica-pier",
+      "name": "Santa Monica Pier",
+      "destination": "Siargao",
+      "municipality": "Santa Monica",
+      "category": "Culture",
+      "hasApprovedPhoto": false,
+      "batchId": "instagram-007",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://itsmorefuninthephilippines.co.uk/wp-content/uploads/PDOTL_Siargao_Web.pdf",
+          "status": null,
+          "error": "fetch failed",
+          "candidates": [],
+          "limitation": "Inaccessible publisher source; no private content or authentication workaround attempted."
+        }
+      ]
+    },
+    {
+      "placeId": "siargao-del-carmen-mangrove-viewdeck",
+      "name": "Del Carmen Mangrove Viewdeck",
+      "destination": "Siargao",
+      "municipality": "Del Carmen",
+      "category": "Nature",
+      "hasApprovedPhoto": false,
+      "batchId": "instagram-007",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://denr.gov.ph/wp-content/uploads/2023/07/DENR_News_Alerts_09_July_2023_Sunday_opt.pdf",
+          "finalUrl": "https://denr.gov.ph/wp-content/uploads/2023/07/DENR_News_Alerts_09_July_2023_Sunday_opt.pdf",
+          "status": 403,
+          "title": "",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "siargao-poneas-lake",
+      "name": "Poneas Lake",
+      "destination": "Siargao",
+      "municipality": "San Benito",
+      "category": "Nature",
+      "hasApprovedPhoto": false,
+      "batchId": "instagram-007",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://denr.gov.ph/wp-content/uploads/2023/07/DENR_News_Alerts_09_July_2023_Sunday_opt.pdf",
+          "finalUrl": "https://denr.gov.ph/wp-content/uploads/2023/07/DENR_News_Alerts_09_July_2023_Sunday_opt.pdf",
+          "status": 403,
+          "title": "",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "siargao-sohoton-cove",
+      "name": "Sohoton Cove",
+      "destination": "Siargao",
+      "municipality": "Socorro",
+      "category": "Nature",
+      "hasApprovedPhoto": false,
+      "batchId": "instagram-007",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://denr.gov.ph/wp-content/uploads/2023/07/DENR_News_Alerts_09_July_2023_Sunday_opt.pdf",
+          "finalUrl": "https://denr.gov.ph/wp-content/uploads/2023/07/DENR_News_Alerts_09_July_2023_Sunday_opt.pdf",
+          "status": 403,
+          "title": "",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "siargao-paghungawan-marsh",
+      "name": "Paghungawan Marsh",
+      "destination": "Siargao",
+      "municipality": "Pilar",
+      "category": "Nature",
+      "hasApprovedPhoto": false,
+      "batchId": "instagram-007",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://journals.carsu.edu.ph/JESEG/article/download/131/118/450",
+          "finalUrl": "https://journals.carsu.edu.ph/JESEG/article/download/131/118/450",
+          "status": 200,
+          "title": "",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "davao-museo-dabawenyo-area",
+      "name": "Museo Dabawenyo Event Center",
+      "destination": "Davao",
+      "municipality": "Davao City",
+      "category": "Culture",
+      "hasApprovedPhoto": false,
+      "batchId": "instagram-007",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://davaocity.gov.ph/local-government/museo-dabawenyo-event-center-opens-exhibit-a-history-of-davao-city-in-50-objects/",
+          "finalUrl": "https://davaocity.gov.ph/local-government/museo-dabawenyo-event-center-opens-exhibit-a-history-of-davao-city-in-50-objects/",
+          "status": 200,
+          "title": "Museo Dabawenyo Event Center opens exhibit: ‘A history of Davao City in 50 objects’ - City Government of Davao",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "davao-bone-collector-museum",
+      "name": "D’ Bone Collector Museum",
+      "destination": "Davao",
+      "municipality": "Davao City",
+      "category": "Culture",
+      "hasApprovedPhoto": false,
+      "batchId": "instagram-007",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://d.bone.museum/",
+          "status": null,
+          "error": "fetch failed",
+          "candidates": [],
+          "limitation": "Inaccessible publisher source; no private content or authentication workaround attempted."
+        }
+      ]
+    },
+    {
+      "placeId": "davao-imin-museum",
+      "name": "IMIN Philippine–Japan Historical Museum",
+      "destination": "Davao",
+      "municipality": "Davao City",
+      "category": "Culture",
+      "hasApprovedPhoto": false,
+      "batchId": "instagram-007",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://tourism.davaocity.gov.ph/explore-the-city/attractions/musuems/imin-philippine-japan-historical-museum/",
+          "finalUrl": "https://tourism.davaocity.gov.ph/explore-the-city/attractions/musuems/imin-philippine-japan-historical-museum/",
+          "status": 200,
+          "title": "Davao City Tourism Website",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "el-nido-nagkalit-kalit-falls",
+      "name": "Nagkalit-kalit Falls",
+      "destination": "Palawan",
+      "municipality": "El Nido",
+      "category": "Nature",
+      "hasApprovedPhoto": false,
+      "batchId": "instagram-007",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://pkp-new.pcsd.gov.ph/wp-content/uploads/2021/02/El-Nido-Planred.pdf",
+          "status": null,
+          "error": "fetch failed",
+          "candidates": [],
+          "limitation": "Inaccessible publisher source; no private content or authentication workaround attempted."
+        }
+      ]
+    },
+    {
+      "placeId": "puerto-princesa-iwahig-firefly-watching",
+      "name": "Iwahig River — community firefly site",
+      "destination": "Palawan",
+      "municipality": "Puerto Princesa City",
+      "category": "Nature",
+      "hasApprovedPhoto": false,
+      "batchId": "instagram-007",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://citytourism.puertoprincesa.ph/cbst-destinations/",
+          "finalUrl": "https://citytourism.puertoprincesa.ph/cbst-destinations/",
+          "status": 200,
+          "title": "CBST Destinations &#8211; City Tourism of Puerto Princesa",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "puerto-princesa-buenavista-viewdeck",
+      "name": "Buenavista Viewdeck",
+      "destination": "Palawan",
+      "municipality": "Puerto Princesa City",
+      "category": "Nature",
+      "hasApprovedPhoto": false,
+      "batchId": "instagram-007",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://citytourism.puertoprincesa.ph/cbst-destinations/",
+          "finalUrl": "https://citytourism.puertoprincesa.ph/cbst-destinations/",
+          "status": 200,
+          "title": "CBST Destinations &#8211; City Tourism of Puerto Princesa",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "puerto-princesa-bakers-hill",
+      "name": "Baker’s Hill",
+      "destination": "Palawan",
+      "municipality": "Puerto Princesa City",
+      "category": "Food & drink",
+      "hasApprovedPhoto": false,
+      "batchId": "instagram-007",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://citytourism.puertoprincesa.ph/bakers-hill/",
+          "finalUrl": "https://citytourism.puertoprincesa.ph/bakers-hill/",
+          "status": 200,
+          "title": "Baker's Hill &#8211; City Tourism of Puerto Princesa",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "puerto-princesa-balayong-peoples-park",
+      "name": "Balayong People’s Park",
+      "destination": "Palawan",
+      "municipality": "Puerto Princesa City",
+      "category": "Parks & markets",
+      "hasApprovedPhoto": false,
+      "batchId": "instagram-007",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://puertoprincesa.ph/balayong-park/",
+          "finalUrl": "https://puertoprincesa.ph/balayong-park/",
+          "status": 200,
+          "title": "Balayong Park &#8211; Puerto Princesa",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "siargao-somyot-cave",
+      "name": "Somyot Cave",
+      "destination": "Siargao",
+      "municipality": "Burgos",
+      "category": "Nature",
+      "hasApprovedPhoto": false,
+      "batchId": "instagram-007",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://rsis.ramsar.org/RISapp/files/57292175/documents/PH2553_mgt230606.pdf",
+          "finalUrl": "https://rsis.ramsar.org/RISapp/files/57292175/documents/PH2553_mgt230606.pdf",
+          "status": 200,
+          "title": "",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "bohol-danao-beach-afternoon",
+      "name": "Danao Beach",
+      "destination": "Bohol",
+      "municipality": "Panglao",
+      "category": "Nature",
+      "hasApprovedPhoto": false,
+      "batchId": "instagram-007",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://www.panglaotourism.com/beaches/danao-beach/",
+          "finalUrl": "https://www.panglaotourism.com/beaches/danao-beach/",
+          "status": 200,
+          "title": "Danao Beach &#8211; Panglao Tourism",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    }
+  ]
+}

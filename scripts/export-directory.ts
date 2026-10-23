@@ -8,12 +8,16 @@ import {
   directoryListings,
   directoryTargets,
   destinationGroups,
+  categoryForPlace,
 } from "../lib/catalog/directory";
 import { directoryCandidateSchema } from "../lib/catalog/directory-schema";
 import { selectableDestinations } from "../lib/destinations";
 import { discoveryPlace } from "../lib/discovery";
 import {placeContent,placeContents,videosForPlace} from "../lib/catalog/place-content";
 import { normalizePlaceName } from "../lib/catalog/identity";
+import {foodForPlace} from "../lib/catalog/food";
+import {instagramForPlace} from "../lib/catalog/instagram";
+import historicalExpansion from "../lib/catalog/directory-expansion.json";
 
 const ids = new Set<string>(),
   names = new Set<string>();
@@ -55,6 +59,8 @@ const accepted = directoryListings.map((p) => {
     .find((s) => s.id === p.catalog_stop_id) || directoryDetails(p);
   return {
     ...p,
+    display_category:categoryForPlace(p),
+    food:foodForPlace(p.id)||null,
     slug:p.slug||p.id,
     aliases:p.aliases||[],
     image: discoveryPlace(p.id)?.image || null,
@@ -64,6 +70,7 @@ const accepted = directoryListings.map((p) => {
     visiting_tips:placeContent(p.id)?.tips||[],
     content_sources:placeContent(p.id)?.sources||[],
     videos:videosForPlace(p.id),
+    instagram:instagramForPlace(p.id),
     practical: stop
       ? {
           estimated_visit_minutes: stop.minutes,
@@ -154,6 +161,7 @@ const columns = [
   "latitude",
   "longitude",
   "category",
+  "display_category",
   "description",
   "itinerary_base_slug",
   "catalog_stop_id",
@@ -167,6 +175,8 @@ const columns = [
   "visiting_tips",
   "content_sources",
   "videos",
+  "instagram",
+  "food",
 ] as const;
 const csvCell = (v: unknown) =>
   `"${(v === null || v === undefined ? "" : typeof v === "object" ? JSON.stringify(v) : String(v)).replaceAll('"', '""')}"`;
@@ -205,18 +215,20 @@ await writeFile(
   "utf8",
 );
 const additions=accepted.filter(p=>!baselineIds.has(p.id));
-const expansionProgress=destinationGroups.map(group=>({destination:group,starting:baseline.starting_by_destination[group],added:additions.filter(p=>p.destination_group===group).length,targetAdditions:directoryTargets[group]-baseline.starting_by_destination[group],final:accepted.filter(p=>p.destination_group===group).length}));
-const categoryCounts=Object.fromEntries([...new Set(additions.map(p=>p.category))].sort().map(category=>[category,additions.filter(p=>p.category===category).length]));
+const historicalIds=new Set(historicalExpansion.map(p=>p.id));
+const historicalAdditions=additions.filter(p=>historicalIds.has(p.id));
+const expansionProgress=destinationGroups.map(group=>({destination:group,starting:baseline.starting_by_destination[group],added:historicalAdditions.filter(p=>p.destination_group===group).length,targetAdditions:directoryTargets[group]-baseline.starting_by_destination[group],final:baseline.starting_by_destination[group]+historicalAdditions.filter(p=>p.destination_group===group).length}));
+const categoryCounts=Object.fromEntries([...new Set(historicalAdditions.map(p=>p.category))].sort().map(category=>[category,historicalAdditions.filter(p=>p.category===category).length]));
 await json("public/data/lakbay-additions.json",additions);
-await json("public/data/expansion-progress.json",{generated_on:generatedOn,starting_count:baseline.starting_count,target_additions:150,accepted_additions:additions.length,remaining:Math.max(0,150-additions.length),final_unique_count:accepted.length,by_destination:expansionProgress,by_category:categoryCounts});
+await json("public/data/expansion-progress.json",{generated_on:generatedOn,scope:"Historical additional-place expansion; subsequent food batches tracked separately in food-directory-progress.json",starting_count:baseline.starting_count,target_additions:150,accepted_additions:historicalAdditions.length,remaining:Math.max(0,150-historicalAdditions.length),final_unique_count:baseline.starting_count+historicalAdditions.length,by_destination:expansionProgress,by_category:categoryCounts});
 await writeFile("public/data/lakbay-additions.csv","\uFEFF"+[columns.join(","),...additions.map(p=>columns.map(k=>csvCell(p[k])).join(","))].join("\r\n")+"\r\n","utf8");
 await writeFile("docs/expansion-progress.md",[
-  "# Additional-place research progress","",`Snapshot: ${generatedLabel}. Starting directory: ${baseline.starting_count} unique accepted places. Additional accepted identities: ${additions.length}; final published count: ${accepted.length}. Remaining toward 150 additions: ${Math.max(0,150-additions.length)}.`,"",
+  "# Additional-place research progress","",`Historical expansion snapshot: ${generatedLabel}. Starting directory: ${baseline.starting_count} unique accepted places. Additional accepted identities in that expansion: ${historicalAdditions.length}; subtotal: ${baseline.starting_count+historicalAdditions.length}. Remaining toward its 150 additions: ${Math.max(0,150-historicalAdditions.length)}. Later food-directory work is tracked separately in docs/food-directory/README.md and public/data/food-directory-progress.json. Current complete directory: ${accepted.length}.`,"",
   "| Destination | Starting | Added | Addition target | Final |","| --- | ---: | ---: | ---: | ---: |",...expansionProgress.map(p=>`| ${p.destination} | ${p.starting} | ${p.added} | ${p.targetAdditions} | ${p.final} |`),"",
   "| Added category | Count |","| --- | ---: |",...Object.entries(categoryCounts).map(([category,count])=>`| ${category} | ${count} |`),"",
   "Original 200 IDs and source records are checked against the immutable expansion baseline. Previously researched editorial-surplus candidates are promoted under their existing IDs; they are counted once as newly published locations. Source review dates are retained unless the source was reviewed again. Per-fact verification does not imply current opening, admission, reservations or access.","",
   "Research batches and factual decisions: expansion-islands.md, expansion-visayas.md, expansion-luzon.md. The atomic import checks normalized names, aliases, verified addresses and coordinate proximity before writing the approved batch. Rerunning identical input leaves the approved records unchanged.","",
-  "Pending research from the interrupted expansion: Sagada 10, Iloilo 4 and Davao 4 additional verified places. The earlier research agents stopped at the usage limit before these batches were saved. The active task is now itinerary selection; no unreviewed candidates were added to fill the gap. Resume source research, import the reviewed batches, then regenerate exports and rerun catalog checks when that expansion is resumed.","",
+  "This is the historical 132-addition research ledger, with its original 18-place shortfall. Later food-directory additions are reported separately in docs/food-directory/README.md and public/data/food-directory-progress.json; they are not retroactively claimed as completed historical batches.","",
 ].join("\n"),"utf8");
 console.table(expansionProgress);
 console.table(progress);

@@ -2,20 +2,18 @@
   "checkedOn": "2026-10-22",
   "photoGaps": [
     {
-      "placeId": "el-nido-corong-corong-beach",
-      "name": "Corong Corong Beach",
-      "destination": "Palawan",
-      "notes": [
-        "Photo gap: HTTP 429: https://upload.wikimedia.org/wikipedia/commons/3/33/Corong_Corong_Beach%2C_El_Nido%2C_Palawan_Island%2C_Philippines.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
-      ]
-    },
-    {
       "placeId": "el-nido-secret-lagoon",
       "name": "Secret Lagoon",
       "destination": "Palawan",
       "notes": [
         "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results."
-      ]
+      ],
+      "photoResearch": {
+        "batchId": "photo-005",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-22",
+        "record": "docs/place-enrichment/photo-only/photo-005-decisions.json"
+      }
     },
     {
       "placeId": "el-nido-cudugnon-cave",
@@ -23,7 +21,13 @@
       "destination": "Palawan",
       "notes": [
         "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results."
-      ]
+      ],
+      "photoResearch": {
+        "batchId": "photo-005",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-22",
+        "record": "docs/place-enrichment/photo-only/photo-005-decisions.json"
+      }
     },
     {
       "placeId": "puerto-princesa-mendoza-park",
@@ -31,7 +35,13 @@
       "destination": "Palawan",
       "notes": [
         "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results."
-      ]
+      ],
+      "photoResearch": {
+        "batchId": "photo-005",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-22",
+        "record": "docs/place-enrichment/photo-only/photo-005-decisions.json"
+      }
     },
     {
       "placeId": "puerto-princesa-princess-eulalia-park",
@@ -39,15 +49,13 @@
       "destination": "Palawan",
       "notes": [
         "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results."
-      ]
-    },
-    {
-      "placeId": "puerto-princesa-palawan-museum",
-      "name": "Palawan Museum",
-      "destination": "Palawan",
-      "notes": [
-        "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results."
-      ]
+      ],
+      "photoResearch": {
+        "batchId": "photo-005",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-22",
+        "record": "docs/place-enrichment/photo-only/photo-005-decisions.json"
+      }
     },
     {
       "placeId": "puerto-princesa-world-war-ii-memorial-museum",
@@ -55,7 +63,13 @@
       "destination": "Palawan",
       "notes": [
         "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results."
-      ]
+      ],
+      "photoResearch": {
+        "batchId": "photo-005",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-22",
+        "record": "docs/place-enrichment/photo-only/photo-005-decisions.json"
+      }
     },
     {
       "placeId": "puerto-princesa-butterfly-ecological-garden",
@@ -64,17 +78,13 @@
       "notes": [
         "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results.",
         "Video ByxevF59RoY: Official source does not currently confirm a playable, embeddable video with an accessible description"
-      ]
-    },
-    {
-      "placeId": "puerto-princesa-mitra-ranch",
-      "name": "Mitra’s Ranch",
-      "destination": "Palawan",
-      "notes": [
-        "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results.",
-        "Video gap: One exact-ranch resource selected; broad city-tour videos not used without a verified segment.",
-        "Video FPtH2aIftKw: Official source does not currently confirm a playable, embeddable video with an accessible description"
-      ]
+      ],
+      "photoResearch": {
+        "batchId": "photo-005",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-22",
+        "record": "docs/place-enrichment/photo-only/photo-005-decisions.json"
+      }
     },
     {
       "placeId": "coron-saint-augustine-parish",
@@ -83,7 +93,13 @@
       "notes": [
         "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results.",
         "Video gap: One exact-parish resource selected; broader town tours not used without an established church segment."
-      ]
+      ],
+      "photoResearch": {
+        "batchId": "photo-005",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-22",
+        "record": "docs/place-enrichment/photo-only/photo-005-decisions.json"
+      }
     },
     {
       "placeId": "siargao-catangnan-bridge",
@@ -93,16 +109,13 @@
         "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results.",
         "Video VDjt8XtqbAg: Official source does not currently confirm a playable, embeddable video with an accessible description",
         "Video G6ZQh_LpVxU: Official source does not currently confirm a playable, embeddable video with an accessible description"
-      ]
-    },
-    {
-      "placeId": "siargao-daku-island",
-      "name": "Daku Island",
-      "destination": "Siargao",
-      "notes": [
-        "Generic Siargao photographs did not clearly identify Daku Island; no substitute image used.",
-        "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results."
-      ]
+      ],
+      "photoResearch": {
+        "batchId": "photo-001",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-22",
+        "record": "docs/place-enrichment/photo-only/photo-001-decisions.json"
+      }
     },
     {
       "placeId": "siargao-tayangban-cave-pool",
@@ -110,7 +123,13 @@
       "destination": "Siargao",
       "notes": [
         "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results."
-      ]
+      ],
+      "photoResearch": {
+        "batchId": "photo-001",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-22",
+        "record": "docs/place-enrichment/photo-only/photo-001-decisions.json"
+      }
     },
     {
       "placeId": "siargao-maasin-river",
@@ -118,7 +137,13 @@
       "destination": "Siargao",
       "notes": [
         "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results."
-      ]
+      ],
+      "photoResearch": {
+        "batchId": "photo-001",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-22",
+        "record": "docs/place-enrichment/photo-only/photo-001-decisions.json"
+      }
     },
     {
       "placeId": "siargao-pacifico-beach",
@@ -126,7 +151,13 @@
       "destination": "Siargao",
       "notes": [
         "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results."
-      ]
+      ],
+      "photoResearch": {
+        "batchId": "photo-001",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-22",
+        "record": "docs/place-enrichment/photo-only/photo-001-decisions.json"
+      }
     },
     {
       "placeId": "siargao-alegria-beach",
@@ -134,7 +165,13 @@
       "destination": "Siargao",
       "notes": [
         "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results."
-      ]
+      ],
+      "photoResearch": {
+        "batchId": "photo-001",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-22",
+        "record": "docs/place-enrichment/photo-only/photo-001-decisions.json"
+      }
     },
     {
       "placeId": "siargao-taktak-falls",
@@ -142,7 +179,13 @@
       "destination": "Siargao",
       "notes": [
         "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results."
-      ]
+      ],
+      "photoResearch": {
+        "batchId": "photo-001",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-22",
+        "record": "docs/place-enrichment/photo-only/photo-001-decisions.json"
+      }
     },
     {
       "placeId": "siargao-santa-monica-pier",
@@ -152,7 +195,13 @@
         "Rejected the California article, amusement-pier facts and photograph.",
         "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results.",
         "Video gap: One exact-Siargao pier resource selected; California videos and map photographs were excluded."
-      ]
+      ],
+      "photoResearch": {
+        "batchId": "photo-001",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-22",
+        "record": "docs/place-enrichment/photo-only/photo-001-decisions.json"
+      }
     },
     {
       "placeId": "siargao-del-carmen-mangrove-viewdeck",
@@ -161,7 +210,13 @@
       "notes": [
         "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results.",
         "Video gap: One established mangrove visitor resource selected; general town aerials were not substituted."
-      ]
+      ],
+      "photoResearch": {
+        "batchId": "photo-001",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-22",
+        "record": "docs/place-enrichment/photo-only/photo-001-decisions.json"
+      }
     },
     {
       "placeId": "siargao-poneas-lake",
@@ -169,7 +224,13 @@
       "destination": "Siargao",
       "notes": [
         "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results."
-      ]
+      ],
+      "photoResearch": {
+        "batchId": "photo-001",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-22",
+        "record": "docs/place-enrichment/photo-only/photo-001-decisions.json"
+      }
     },
     {
       "placeId": "siargao-sohoton-cove",
@@ -178,17 +239,13 @@
       "notes": [
         "Municipality-wide Bucas Grande article not used as cave-specific evidence; a Middle Bucas Grande/Dapa photograph was excluded.",
         "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results."
-      ]
-    },
-    {
-      "placeId": "siargao-corregidor-island",
-      "name": "Corregidor Island",
-      "destination": "Siargao",
-      "notes": [
-        "Rejected Manila Bay Corregidor article and 1941 map.",
-        "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results.",
-        "Video gap: One exact-Siargao resource selected; Manila Bay tours were excluded."
-      ]
+      ],
+      "photoResearch": {
+        "batchId": "photo-001",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-22",
+        "record": "docs/place-enrichment/photo-only/photo-001-decisions.json"
+      }
     },
     {
       "placeId": "siargao-paghungawan-marsh",
@@ -197,7 +254,13 @@
       "notes": [
         "No animal encounters, public trails or unrestricted entry inferred.",
         "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results."
-      ]
+      ],
+      "photoResearch": {
+        "batchId": "photo-001",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-22",
+        "record": "docs/place-enrichment/photo-only/photo-001-decisions.json"
+      }
     },
     {
       "placeId": "davao-museo-dabawenyo-area",
@@ -206,7 +269,13 @@
       "notes": [
         "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results.",
         "Video gap: Other museum videos did not clearly establish this Mabini Street venue."
-      ]
+      ],
+      "photoResearch": {
+        "batchId": "photo-003",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-22",
+        "record": "docs/place-enrichment/photo-only/photo-003-decisions.json"
+      }
     },
     {
       "placeId": "davao-bone-collector-museum",
@@ -214,7 +283,13 @@
       "destination": "Davao",
       "notes": [
         "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results."
-      ]
+      ],
+      "photoResearch": {
+        "batchId": "photo-003",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-22",
+        "record": "docs/place-enrichment/photo-only/photo-003-decisions.json"
+      }
     },
     {
       "placeId": "davao-rizal-park",
@@ -225,7 +300,13 @@
         "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results.",
         "Video c0yNwXkuaFA: HTTP 401: https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dc0yNwXkuaFA&format=json",
         "Video s_E7YoXLHuY: Official source does not currently confirm a playable, embeddable video with an accessible description"
-      ]
+      ],
+      "photoResearch": {
+        "batchId": "photo-003",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-22",
+        "record": "docs/place-enrichment/photo-only/photo-003-decisions.json"
+      }
     },
     {
       "placeId": "davao-imin-museum",
@@ -233,7 +314,13 @@
       "destination": "Davao",
       "notes": [
         "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results."
-      ]
+      ],
+      "photoResearch": {
+        "batchId": "photo-003",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-22",
+        "record": "docs/place-enrichment/photo-only/photo-003-decisions.json"
+      }
     },
     {
       "placeId": "el-nido-nagkalit-kalit-falls",
@@ -242,7 +329,13 @@
       "notes": [
         "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results.",
         "Video ZUO0WQhPDUw: Official source does not currently confirm a playable, embeddable video with an accessible description"
-      ]
+      ],
+      "photoResearch": {
+        "batchId": "photo-005",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-22",
+        "record": "docs/place-enrichment/photo-only/photo-005-decisions.json"
+      }
     },
     {
       "placeId": "puerto-princesa-iwahig-firefly-watching",
@@ -252,15 +345,13 @@
         "No guaranteed wildlife sightings or air-quality claims inferred.",
         "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results.",
         "Video NoO6EOhnpNg: Official source does not currently confirm a playable, embeddable video with an accessible description"
-      ]
-    },
-    {
-      "placeId": "puerto-princesa-ugong-rock",
-      "name": "Ugong Rock",
-      "destination": "Palawan",
-      "notes": [
-        "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results."
-      ]
+      ],
+      "photoResearch": {
+        "batchId": "photo-005",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-22",
+        "record": "docs/place-enrichment/photo-only/photo-005-decisions.json"
+      }
     },
     {
       "placeId": "puerto-princesa-buenavista-viewdeck",
@@ -268,7 +359,13 @@
       "destination": "Palawan",
       "notes": [
         "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results."
-      ]
+      ],
+      "photoResearch": {
+        "batchId": "photo-005",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-22",
+        "record": "docs/place-enrichment/photo-only/photo-005-decisions.json"
+      }
     },
     {
       "placeId": "puerto-princesa-bakers-hill",
@@ -276,7 +373,13 @@
       "destination": "Palawan",
       "notes": [
         "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results."
-      ]
+      ],
+      "photoResearch": {
+        "batchId": "photo-005",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-22",
+        "record": "docs/place-enrichment/photo-only/photo-005-decisions.json"
+      }
     },
     {
       "placeId": "puerto-princesa-balayong-peoples-park",
@@ -284,7 +387,13 @@
       "destination": "Palawan",
       "notes": [
         "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results."
-      ]
+      ],
+      "photoResearch": {
+        "batchId": "photo-005",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-22",
+        "record": "docs/place-enrichment/photo-only/photo-005-decisions.json"
+      }
     },
     {
       "placeId": "siargao-somyot-cave",
@@ -292,7 +401,13 @@
       "destination": "Siargao",
       "notes": [
         "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results."
-      ]
+      ],
+      "photoResearch": {
+        "batchId": "photo-001",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-22",
+        "record": "docs/place-enrichment/photo-only/photo-001-decisions.json"
+      }
     },
     {
       "placeId": "siargao-osmena-wetland",
@@ -301,25 +416,13 @@
       "notes": [
         "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results.",
         "Video gap: Reviewed results did not establish an exact wetland visit; abandoned-house and town-wide videos were excluded."
-      ]
-    },
-    {
-      "placeId": "cebu-tingko-beach",
-      "name": "Tingko Beach",
-      "destination": "Cebu",
-      "notes": [
-        "Rejected the municipality-wide article and Alcoy flag as attraction content.",
-        "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results."
-      ]
-    },
-    {
-      "placeId": "cebu-safari-adventure-park",
-      "name": "Cebu Safari and Adventure Park",
-      "destination": "Cebu",
-      "notes": [
-        "The crocodile photograph did not clearly establish a useful view of this park; excluded.",
-        "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results."
-      ]
+      ],
+      "photoResearch": {
+        "batchId": "photo-001",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-22",
+        "record": "docs/place-enrichment/photo-only/photo-001-decisions.json"
+      }
     },
     {
       "placeId": "bohol-danao-beach-afternoon",
@@ -328,7 +431,13 @@
       "notes": [
         "Rejected Danaos hotel photographs and a different Panglao beach image. No water-safety determination inferred.",
         "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results."
-      ]
+      ],
+      "photoResearch": {
+        "batchId": "photo-004",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-22",
+        "record": "docs/place-enrichment/photo-only/photo-004-decisions.json"
+      }
     },
     {
       "placeId": "bohol-libaong-beach",
@@ -336,7 +445,13 @@
       "destination": "Bohol",
       "notes": [
         "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results."
-      ]
+      ],
+      "photoResearch": {
+        "batchId": "photo-004",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-22",
+        "record": "docs/place-enrichment/photo-only/photo-004-decisions.json"
+      }
     },
     {
       "placeId": "bohol-common-crew",
@@ -344,7 +459,13 @@
       "destination": "Bohol",
       "notes": [
         "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results."
-      ]
+      ],
+      "photoResearch": {
+        "batchId": "photo-004",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-22",
+        "record": "docs/place-enrichment/photo-only/photo-004-decisions.json"
+      }
     },
     {
       "placeId": "bohol-shaka-panglao",
@@ -353,16 +474,13 @@
       "notes": [
         "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results.",
         "Video gap: One explicitly Panglao restaurant resource selected; unrelated beach-nightlife footage excluded."
-      ]
-    },
-    {
-      "placeId": "bohol-baclayon-parish-museum",
-      "name": "Museo Parroquial de Baclayon",
-      "destination": "Bohol",
-      "notes": [
-        "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results.",
-        "Video 9u8RLDdSDPs: Official source does not currently confirm a playable, embeddable video with an accessible description"
-      ]
+      ],
+      "photoResearch": {
+        "batchId": "photo-004",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-22",
+        "record": "docs/place-enrichment/photo-only/photo-004-decisions.json"
+      }
     },
     {
       "placeId": "bohol-loboc-eco-adventure-park",
@@ -370,7 +488,13 @@
       "destination": "Bohol",
       "notes": [
         "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results."
-      ]
+      ],
+      "photoResearch": {
+        "batchId": "photo-004",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-22",
+        "record": "docs/place-enrichment/photo-only/photo-004-decisions.json"
+      }
     },
     {
       "placeId": "boracay-tambisaan-beach",
@@ -378,7 +502,13 @@
       "destination": "Boracay",
       "notes": [
         "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results."
-      ]
+      ],
+      "photoResearch": {
+        "batchId": "photo-002",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-22",
+        "record": "docs/place-enrichment/photo-only/photo-002-decisions.json"
+      }
     },
     {
       "placeId": "boracay-tulubhan-beach",
@@ -387,15 +517,13 @@
       "notes": [
         "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results.",
         "Video gap: One exact-beach resource selected; broad all-island videos not used without a verified segment."
-      ]
-    },
-    {
-      "placeId": "boracay-balinghai-beach",
-      "name": "Balinghai Beach",
-      "destination": "Boracay",
-      "notes": [
-        "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results."
-      ]
+      ],
+      "photoResearch": {
+        "batchId": "photo-002",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-22",
+        "record": "docs/place-enrichment/photo-only/photo-002-decisions.json"
+      }
     },
     {
       "placeId": "boracay-newcoast-keyhole",
@@ -404,7 +532,13 @@
       "notes": [
         "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results.",
         "Video gap: One exact-feature resource selected; broad township tours not used without a verified segment."
-      ]
+      ],
+      "photoResearch": {
+        "batchId": "photo-002",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-22",
+        "record": "docs/place-enrichment/photo-only/photo-002-decisions.json"
+      }
     },
     {
       "placeId": "boracay-balabag-wetland-park",
@@ -413,7 +547,13 @@
       "notes": [
         "Original sustainability report URL returned HTTP 404; no new rehabilitation date or current facility claim added.",
         "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results."
-      ]
+      ],
+      "photoResearch": {
+        "batchId": "photo-002",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-22",
+        "record": "docs/place-enrichment/photo-only/photo-002-decisions.json"
+      }
     },
     {
       "placeId": "boracay-dtalipapa-market",
@@ -422,7 +562,13 @@
       "notes": [
         "A food photograph without a sufficiently clear market identity was not substituted.",
         "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results."
-      ]
+      ],
+      "photoResearch": {
+        "batchId": "photo-002",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-22",
+        "record": "docs/place-enrichment/photo-only/photo-002-decisions.json"
+      }
     },
     {
       "placeId": "boracay-nonies-ondus",
@@ -431,7 +577,13 @@
       "notes": [
         "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results.",
         "Video gap: Reviewed Ondus hotel room tours did not establish a useful Nonie’s restaurant segment; older restaurant-location videos not substituted."
-      ]
+      ],
+      "photoResearch": {
+        "batchId": "photo-002",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-22",
+        "record": "docs/place-enrichment/photo-only/photo-002-decisions.json"
+      }
     },
     {
       "placeId": "boracay-giuseppe-station-three",
@@ -439,7 +591,13 @@
       "destination": "Boracay",
       "notes": [
         "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results."
-      ]
+      ],
+      "photoResearch": {
+        "batchId": "photo-002",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-22",
+        "record": "docs/place-enrichment/photo-only/photo-002-decisions.json"
+      }
     },
     {
       "placeId": "boracay-little-taj",
@@ -447,7 +605,13 @@
       "destination": "Boracay",
       "notes": [
         "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results."
-      ]
+      ],
+      "photoResearch": {
+        "batchId": "photo-002",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-22",
+        "record": "docs/place-enrichment/photo-only/photo-002-decisions.json"
+      }
     },
     {
       "placeId": "boracay-station-x",
@@ -456,7 +620,13 @@
       "notes": [
         "Rejected the unrelated codebreaking/television disambiguation article.",
         "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results."
-      ]
+      ],
+      "photoResearch": {
+        "batchId": "photo-002",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-22",
+        "record": "docs/place-enrichment/photo-only/photo-002-decisions.json"
+      }
     },
     {
       "placeId": "iloilo-baking-studio-theos",
@@ -465,26 +635,13 @@
       "notes": [
         "Kept branch identity explicit. One exact-branch video selected; broader Theo’s videos were not used as substitutes.",
         "Photo gap: No exact-branch Commons photograph found in the reviewed name-and-municipality search; official website photos have no established reuse permission."
-      ]
-    },
-    {
-      "placeId": "iloilo-biscocho-haus",
-      "name": "Original Biscocho Haus — Jaro",
-      "destination": "Iloilo",
-      "notes": [
-        "Official website timed out; identity and municipality retain their prior catalog review date. Brief factual description retained without adding unsupported business history.",
-        "Photo gap: No reusable, exact-Jaro-branch image identified in the reviewed Commons search.",
-        "Video gap: Search results identify the brand or multiple stops, but this review did not establish an exact Jaro-branch match from the accessible source descriptions."
-      ]
-    },
-    {
-      "placeId": "iloilo-bucari-pine-forest",
-      "name": "Bucari Pine Forest",
-      "destination": "Iloilo",
-      "notes": [
-        "Original PNA page returned HTTP 404. Kept the forest identity from prior reviewed catalog data; did not convert a barangay-wide Wikipedia article into exact-site verification.",
-        "Photo gap: Rejected a general Bucari scenery image because it did not establish the exact pine-forest site."
-      ]
+      ],
+      "photoResearch": {
+        "batchId": "photo-006",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-22",
+        "record": "docs/place-enrichment/photo-only/photo-006-decisions.json"
+      }
     },
     {
       "placeId": "cebu-omagieca-obo-ob-mangrove-garden",
@@ -492,7 +649,13 @@
       "destination": "Cebu",
       "notes": [
         "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results."
-      ]
+      ],
+      "photoResearch": {
+        "batchId": "photo-006",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-22",
+        "record": "docs/place-enrichment/photo-only/photo-006-decisions.json"
+      }
     },
     {
       "placeId": "baguio-easter-weaving-room",
@@ -500,7 +663,13 @@
       "destination": "Baguio",
       "notes": [
         "Photo gap: No exact-place photograph with established reuse rights in the reviewed Commons results."
-      ]
+      ],
+      "photoResearch": {
+        "batchId": "photo-002",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-22",
+        "record": "docs/place-enrichment/photo-only/photo-002-decisions.json"
+      }
     },
     {
       "placeId": "baguio-ili-likha",
@@ -508,7 +677,13 @@
       "destination": "Baguio",
       "notes": [
         "Photo gap: No exact-place photograph with established reuse rights in the reviewed Commons results."
-      ]
+      ],
+      "photoResearch": {
+        "batchId": "photo-002",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-22",
+        "record": "docs/place-enrichment/photo-only/photo-002-decisions.json"
+      }
     },
     {
       "placeId": "baguio-aguinaldo-museum",
@@ -517,7 +692,13 @@
       "notes": [
         "Photo gap: No exact-place photograph with established reuse rights in the reviewed Commons results.",
         "Video gap: Only one exact-Baguio resource selected; similarly named Cavite venues were excluded."
-      ]
+      ],
+      "photoResearch": {
+        "batchId": "photo-002",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-22",
+        "record": "docs/place-enrichment/photo-only/photo-002-decisions.json"
+      }
     },
     {
       "placeId": "baguio-maryknoll-sanctuary",
@@ -526,26 +707,13 @@
       "notes": [
         "Photo gap: No exact-place photograph with established reuse rights in the reviewed Commons results.",
         "Video eH9SEoii7KU: Official source does not currently confirm a playable, embeddable video with an accessible description"
-      ]
-    },
-    {
-      "placeId": "baguio-mirador-hill",
-      "name": "Mirador Hill",
-      "destination": "Baguio",
-      "notes": [
-        "Rejected Wikipedia’s unrelated Antarctic hill article and location map.",
-        "Photo gap: No exact-place photograph with established reuse rights in the reviewed Commons results.",
-        "Video kyCFiIl4HPw: HTTP 401: https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DkyCFiIl4HPw&format=json"
-      ]
-    },
-    {
-      "placeId": "sagada-bokong-falls",
-      "name": "Bokong Falls",
-      "destination": "Sagada",
-      "notes": [
-        "Bomod-ok Falls photograph excluded as the wrong waterfall; cliff-jumping videos not used to establish permission.",
-        "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results."
-      ]
+      ],
+      "photoResearch": {
+        "batchId": "photo-002",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-22",
+        "record": "docs/place-enrichment/photo-only/photo-002-decisions.json"
+      }
     },
     {
       "placeId": "sagada-ampacao",
@@ -554,7 +722,13 @@
       "notes": [
         "An ambiguously named Alumani photograph was not accepted as the Ampacao viewpoint.",
         "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results."
-      ]
+      ],
+      "photoResearch": {
+        "batchId": "photo-006",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-22",
+        "record": "docs/place-enrichment/photo-only/photo-006-decisions.json"
+      }
     },
     {
       "placeId": "sagada-balangagan-cave",
@@ -563,16 +737,13 @@
       "notes": [
         "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results.",
         "Video gap: One exact-cave resource selected; general group-tour videos were not used as substitutes."
-      ]
-    },
-    {
-      "placeId": "batanes-dipnaysupuan-tunnel",
-      "name": "Dipnaysupuan Japanese Tunnel",
-      "destination": "Batanes",
-      "notes": [
-        "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results.",
-        "Video e3BdMMdRMUA: Official source does not currently confirm a playable, embeddable video with an accessible description"
-      ]
+      ],
+      "photoResearch": {
+        "batchId": "photo-006",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-22",
+        "record": "docs/place-enrichment/photo-only/photo-006-decisions.json"
+      }
     },
     {
       "placeId": "batanes-basco-plaza",
@@ -582,24 +753,13 @@
         "Rejected Plaza Mayor photographs from San Juan, Metro Manila.",
         "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results.",
         "Video gap: One exact-plaza resource selected; broad town walks not used as filler."
-      ]
-    },
-    {
-      "placeId": "manila-ayala-museum",
-      "name": "Ayala Museum",
-      "destination": "Manila",
-      "notes": [
-        "Rejected Yuchengco Museum photographs and a collection object photographed in Singapore; no exterior image substituted.",
-        "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results."
-      ]
-    },
-    {
-      "placeId": "manila-destileria-limtuaco",
-      "name": "Destileria Limtuaco Museum",
-      "destination": "Manila",
-      "notes": [
-        "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results."
-      ]
+      ],
+      "photoResearch": {
+        "batchId": "photo-004",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-22",
+        "record": "docs/place-enrichment/photo-only/photo-004-decisions.json"
+      }
     },
     {
       "placeId": "el-nido-artcafe",
@@ -607,7 +767,13 @@
       "destination": "Palawan",
       "notes": [
         "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results."
-      ]
+      ],
+      "photoResearch": {
+        "batchId": "photo-005",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-22",
+        "record": "docs/place-enrichment/photo-only/photo-005-decisions.json"
+      }
     },
     {
       "placeId": "el-nido-trattoria-altrove",
@@ -615,7 +781,13 @@
       "destination": "Palawan",
       "notes": [
         "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results."
-      ]
+      ],
+      "photoResearch": {
+        "batchId": "photo-005",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-22",
+        "record": "docs/place-enrichment/photo-only/photo-005-decisions.json"
+      }
     },
     {
       "placeId": "coron-trattoria-altrove",
@@ -623,7 +795,13 @@
       "destination": "Palawan",
       "notes": [
         "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results."
-      ]
+      ],
+      "photoResearch": {
+        "batchId": "photo-005",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-22",
+        "record": "docs/place-enrichment/photo-only/photo-005-decisions.json"
+      }
     },
     {
       "placeId": "cebu-pig-and-palm",
@@ -632,7 +810,13 @@
       "notes": [
         "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results.",
         "Video gap: Only one clearly established restaurant feature selected; broad multi-stop food vlogs not used as filler."
-      ]
+      ],
+      "photoResearch": {
+        "batchId": "photo-006",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-22",
+        "record": "docs/place-enrichment/photo-only/photo-006-decisions.json"
+      }
     },
     {
       "placeId": "cebu-turning-wheels-brewery",
@@ -642,7 +826,13 @@
         "Operator site returned HTTP 403; kept previously accepted facts without a fresh verification claim.",
         "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results.",
         "Video gap: The reviewed search did not establish a useful exact-brewery resource."
-      ]
+      ],
+      "photoResearch": {
+        "batchId": "photo-006",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-22",
+        "record": "docs/place-enrichment/photo-only/photo-006-decisions.json"
+      }
     },
     {
       "placeId": "cebu-abaca-baking-crossroads",
@@ -650,7 +840,13 @@
       "destination": "Cebu",
       "notes": [
         "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results."
-      ]
+      ],
+      "photoResearch": {
+        "batchId": "photo-006",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-22",
+        "record": "docs/place-enrichment/photo-only/photo-006-decisions.json"
+      }
     },
     {
       "placeId": "bohol-green-thumb-farm",
@@ -658,7 +854,13 @@
       "destination": "Bohol",
       "notes": [
         "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results."
-      ]
+      ],
+      "photoResearch": {
+        "batchId": "photo-004",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-22",
+        "record": "docs/place-enrichment/photo-only/photo-004-decisions.json"
+      }
     },
     {
       "placeId": "bohol-quinale-beach",
@@ -666,7 +868,13 @@
       "destination": "Bohol",
       "notes": [
         "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results."
-      ]
+      ],
+      "photoResearch": {
+        "batchId": "photo-004",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-22",
+        "record": "docs/place-enrichment/photo-only/photo-004-decisions.json"
+      }
     },
     {
       "placeId": "bohol-cabagnow-cave-pool",
@@ -674,7 +882,13 @@
       "destination": "Bohol",
       "notes": [
         "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results."
-      ]
+      ],
+      "photoResearch": {
+        "batchId": "photo-004",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-22",
+        "record": "docs/place-enrichment/photo-only/photo-004-decisions.json"
+      }
     },
     {
       "placeId": "bohol-edith-grand-garden",
@@ -684,7 +898,13 @@
         "A disability-travel video title was not treated as a verified accessibility claim.",
         "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results.",
         "Video QVYzWMMBInM: HTTP 401: https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DQVYzWMMBInM&format=json"
-      ]
+      ],
+      "photoResearch": {
+        "batchId": "photo-004",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-22",
+        "record": "docs/place-enrichment/photo-only/photo-004-decisions.json"
+      }
     },
     {
       "placeId": "bohol-saffron-restaurant",
@@ -693,7 +913,13 @@
       "notes": [
         "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results.",
         "Video D55jovOV_jE: Official source does not currently confirm a playable, embeddable video with an accessible description"
-      ]
+      ],
+      "photoResearch": {
+        "batchId": "photo-004",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-22",
+        "record": "docs/place-enrichment/photo-only/photo-004-decisions.json"
+      }
     },
     {
       "placeId": "bohol-latavola-restaurant",
@@ -702,7 +928,13 @@
       "notes": [
         "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results.",
         "Video gap: Reviewed results did not establish an exact Latavola visit; a Boracay pizza restaurant and broad Panglao food guides were rejected."
-      ]
+      ],
+      "photoResearch": {
+        "batchId": "photo-004",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-22",
+        "record": "docs/place-enrichment/photo-only/photo-004-decisions.json"
+      }
     },
     {
       "placeId": "bohol-prawn-farm-bolod",
@@ -711,7 +943,13 @@
       "notes": [
         "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results.",
         "Video gap: Other results concerned or did not exclude the Tagbilaran mall branch."
-      ]
+      ],
+      "photoResearch": {
+        "batchId": "photo-004",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-22",
+        "record": "docs/place-enrichment/photo-only/photo-004-decisions.json"
+      }
     },
     {
       "placeId": "manila-eng-bee-tin-ongpin",
@@ -720,33 +958,13 @@
       "notes": [
         "No video prices copied into current price fields.",
         "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results."
-      ]
-    },
-    {
-      "placeId": "manila-ilustrado-restaurant",
-      "name": "Ilustrado Restaurant",
-      "destination": "Manila",
-      "notes": [
-        "Ambiguously named street photographs were not accepted as restaurant photographs.",
-        "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results."
-      ]
-    },
-    {
-      "placeId": "manila-ateneo-art-gallery",
-      "name": "Ateneo Art Gallery",
-      "destination": "Manila",
-      "notes": [
-        "Photo gap: HTTP 429: https://upload.wikimedia.org/wikipedia/commons/f/fe/958Ateneo_Art_Gallery_University_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-        "Video gap: Only one clearly established gallery introduction selected; exhibition-specific videos may depict past installations."
-      ]
-    },
-    {
-      "placeId": "manila-ocean-park",
-      "name": "Manila Ocean Park",
-      "destination": "Manila",
-      "notes": [
-        "Photo gap: HTTP 429: https://upload.wikimedia.org/wikipedia/commons/a/a7/Manila%2C_Manila_Ocean_Park%2C_Oceanarium%2C_Hotel_H2O%2C_Philippines.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
-      ]
+      ],
+      "photoResearch": {
+        "batchId": "photo-006",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-22",
+        "record": "docs/place-enrichment/photo-only/photo-006-decisions.json"
+      }
     },
     {
       "placeId": "baguio-pink-sisters",
@@ -754,7 +972,13 @@
       "destination": "Baguio",
       "notes": [
         "Photo gap: No exact-place photograph with established reuse rights in the reviewed Commons results."
-      ]
+      ],
+      "photoResearch": {
+        "batchId": "photo-003",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-22",
+        "record": "docs/place-enrichment/photo-only/photo-003-decisions.json"
+      }
     },
     {
       "placeId": "baguio-slu-museum",
@@ -764,7 +988,13 @@
         "Official university search-index text reviewed; direct page access failed. No opening hours or fees inferred.",
         "Photo gap: No exact museum photograph with documented reuse rights found.",
         "Video gap: The reviewed YouTube search did not establish a useful exact-museum visitor resource."
-      ]
+      ],
+      "photoResearch": {
+        "batchId": "photo-003",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-22",
+        "record": "docs/place-enrichment/photo-only/photo-003-decisions.json"
+      }
     },
     {
       "placeId": "baguio-bamboo-sanctuary",
@@ -774,7 +1004,13 @@
         "Official feed coordinate appears inconsistent with its Pacdal address; no coordinate change made from that feed.",
         "Photo gap: No exact-place photograph with established reuse rights in the reviewed Commons results.",
         "Video PYLTeiHPUbU: Official source does not currently confirm a playable, embeddable video with an accessible description"
-      ]
+      ],
+      "photoResearch": {
+        "batchId": "photo-003",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-22",
+        "record": "docs/place-enrichment/photo-only/photo-003-decisions.json"
+      }
     },
     {
       "placeId": "baguio-pilak-silvercraft",
@@ -784,7 +1020,13 @@
         "Photo gap: No exact-place photograph with established reuse rights in the reviewed Commons results.",
         "Video wjiD-sXLz54: Official source does not currently confirm a playable, embeddable video with an accessible description",
         "Craft-family interview did not establish a visit to this particular shop; excluded after source review."
-      ]
+      ],
+      "photoResearch": {
+        "batchId": "photo-003",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-22",
+        "record": "docs/place-enrichment/photo-only/photo-003-decisions.json"
+      }
     },
     {
       "placeId": "baguio-nardas-handwoven",
@@ -793,17 +1035,13 @@
       "notes": [
         "Photo gap: No exact-place photograph with established reuse rights in the reviewed Commons results.",
         "Video gap: Other results focused on brand events rather than an established visit to this shop."
-      ]
-    },
-    {
-      "placeId": "baguio-good-shepherd",
-      "name": "Good Shepherd Convent Shop",
-      "destination": "Baguio",
-      "notes": [
-        "Commons grounds and statue photographs did not clearly identify the shop; photo gap retained.",
-        "Photo gap: No exact-place photograph with established reuse rights in the reviewed Commons results.",
-        "Video cUqLSHrUrvU: Official source does not currently confirm a playable, embeddable video with an accessible description"
-      ]
+      ],
+      "photoResearch": {
+        "batchId": "photo-003",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-22",
+        "record": "docs/place-enrichment/photo-only/photo-003-decisions.json"
+      }
     },
     {
       "placeId": "baguio-original-good-taste",
@@ -813,7 +1051,13 @@
         "Limited description retains accepted branch identity; no menu, price or service claim added.",
         "Photo gap: No documented reusable photograph clearly identifying the Lapu Lapu Street venue was found.",
         "Video gap: Search results did not clearly establish the Lapu Lapu branch; Otek Street resources were not substituted."
-      ]
+      ],
+      "photoResearch": {
+        "batchId": "photo-003",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-22",
+        "record": "docs/place-enrichment/photo-only/photo-003-decisions.json"
+      }
     },
     {
       "placeId": "baguio-choco-late-batirol",
@@ -821,7 +1065,13 @@
       "destination": "Baguio",
       "notes": [
         "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results."
-      ]
+      ],
+      "photoResearch": {
+        "batchId": "photo-003",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-22",
+        "record": "docs/place-enrichment/photo-only/photo-003-decisions.json"
+      }
     },
     {
       "placeId": "baguio-hill-station",
@@ -829,7 +1079,13 @@
       "destination": "Baguio",
       "notes": [
         "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results."
-      ]
+      ],
+      "photoResearch": {
+        "batchId": "photo-003",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-22",
+        "record": "docs/place-enrichment/photo-only/photo-003-decisions.json"
+      }
     },
     {
       "placeId": "baguio-amare-outlook",
@@ -837,7 +1093,13 @@
       "destination": "Baguio",
       "notes": [
         "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results."
-      ]
+      ],
+      "photoResearch": {
+        "batchId": "photo-003",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-22",
+        "record": "docs/place-enrichment/photo-only/photo-003-decisions.json"
+      }
     },
     {
       "placeId": "baguio-craft-brewery",
@@ -845,7 +1107,13 @@
       "destination": "Baguio",
       "notes": [
         "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results."
-      ]
+      ],
+      "photoResearch": {
+        "batchId": "photo-003",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-22",
+        "record": "docs/place-enrichment/photo-only/photo-003-decisions.json"
+      }
     },
     {
       "placeId": "baguio-craft-1945",
@@ -853,7 +1121,13 @@
       "destination": "Baguio",
       "notes": [
         "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results."
-      ]
+      ],
+      "photoResearch": {
+        "batchId": "photo-003",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-22",
+        "record": "docs/place-enrichment/photo-only/photo-003-decisions.json"
+      }
     },
     {
       "placeId": "siargao-kermit-restaurant",
@@ -862,7 +1136,13 @@
       "notes": [
         "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results.",
         "Video gap: One restaurant-specific resource selected; room tours not used as dining substitutes."
-      ]
+      ],
+      "photoResearch": {
+        "batchId": "photo-001",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-22",
+        "record": "docs/place-enrichment/photo-only/photo-001-decisions.json"
+      }
     },
     {
       "placeId": "siargao-trattoria-altrove",
@@ -871,7 +1151,13 @@
       "notes": [
         "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results.",
         "Video gap: One Siargao-specific resource selected; the Coron television feature was excluded."
-      ]
+      ],
+      "photoResearch": {
+        "batchId": "photo-001",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-22",
+        "record": "docs/place-enrichment/photo-only/photo-001-decisions.json"
+      }
     },
     {
       "placeId": "siargao-warung",
@@ -880,7 +1166,13 @@
       "notes": [
         "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results.",
         "Video gap: One exact-restaurant resource selected; general resort room tours were not substituted."
-      ]
+      ],
+      "photoResearch": {
+        "batchId": "photo-001",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-22",
+        "record": "docs/place-enrichment/photo-only/photo-001-decisions.json"
+      }
     },
     {
       "placeId": "siargao-brunch-spot",
@@ -889,7 +1181,13 @@
       "notes": [
         "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results.",
         "Video gap: One exact-café resource selected; broad General Luna walks were not used as substitutes."
-      ]
+      ],
+      "photoResearch": {
+        "batchId": "photo-001",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-22",
+        "record": "docs/place-enrichment/photo-only/photo-001-decisions.json"
+      }
     },
     {
       "placeId": "siargao-bravo-restaurant",
@@ -898,7 +1196,13 @@
       "notes": [
         "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results.",
         "Video gap: One restaurant-specific resource selected; broad nightlife and resort videos were not substituted."
-      ]
+      ],
+      "photoResearch": {
+        "batchId": "photo-001",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-22",
+        "record": "docs/place-enrichment/photo-only/photo-001-decisions.json"
+      }
     },
     {
       "placeId": "siargao-naga-restaurant",
@@ -907,7 +1211,13 @@
       "notes": [
         "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results.",
         "Video gap: Reviewed General Luna street routes did not establish an exact NĀGA segment."
-      ]
+      ],
+      "photoResearch": {
+        "batchId": "photo-001",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-22",
+        "record": "docs/place-enrichment/photo-only/photo-001-decisions.json"
+      }
     },
     {
       "placeId": "siargao-malinao-beach",
@@ -916,7 +1226,13 @@
       "notes": [
         "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results.",
         "Video gap: One exact-beach resource selected; skate-road footage was not substituted for the shore."
-      ]
+      ],
+      "photoResearch": {
+        "batchId": "photo-001",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-22",
+        "record": "docs/place-enrichment/photo-only/photo-001-decisions.json"
+      }
     },
     {
       "placeId": "siargao-paseo-de-cabuntog",
@@ -925,7 +1241,13 @@
       "notes": [
         "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results.",
         "Video gap: Broad General Luna boulevard and nightlife results did not establish an exact Paseo segment."
-      ]
+      ],
+      "photoResearch": {
+        "batchId": "photo-001",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-22",
+        "record": "docs/place-enrichment/photo-only/photo-001-decisions.json"
+      }
     },
     {
       "placeId": "siargao-lokal-hub-general-luna",
@@ -934,7 +1256,13 @@
       "notes": [
         "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results.",
         "Video gap: One exact-hub resource selected; an unrelated music video was excluded."
-      ]
+      ],
+      "photoResearch": {
+        "batchId": "photo-001",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-22",
+        "record": "docs/place-enrichment/photo-only/photo-001-decisions.json"
+      }
     },
     {
       "placeId": "siargao-clubhouse-golf",
@@ -943,7 +1271,13 @@
       "notes": [
         "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results.",
         "Video gap: Reviewed town-wide routes did not establish a useful exact-venue resource."
-      ]
+      ],
+      "photoResearch": {
+        "batchId": "photo-001",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-22",
+        "record": "docs/place-enrichment/photo-only/photo-001-decisions.json"
+      }
     },
     {
       "placeId": "davao-gap-farm",
@@ -952,7 +1286,13 @@
       "notes": [
         "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results.",
         "Video irVCz3G_wEI: Official source does not currently confirm a playable, embeddable video with an accessible description"
-      ]
+      ],
+      "photoResearch": {
+        "batchId": "photo-003",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-22",
+        "record": "docs/place-enrichment/photo-only/photo-003-decisions.json"
+      }
     },
     {
       "placeId": "davao-dleonor-inland-resort",
@@ -960,16 +1300,13 @@
       "destination": "Davao",
       "notes": [
         "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results."
-      ]
-    },
-    {
-      "placeId": "davao-japanese-tunnel",
-      "name": "D’ Japanese Tunnel",
-      "destination": "Davao",
-      "notes": [
-        "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results.",
-        "Video 98HsQz14wEg: Official source does not currently confirm a playable, embeddable video with an accessible description"
-      ]
+      ],
+      "photoResearch": {
+        "batchId": "photo-003",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-22",
+        "record": "docs/place-enrichment/photo-only/photo-003-decisions.json"
+      }
     },
     {
       "placeId": "davao-poblacion-market-central",
@@ -977,7 +1314,13 @@
       "destination": "Davao",
       "notes": [
         "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results."
-      ]
+      ],
+      "photoResearch": {
+        "batchId": "photo-003",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-22",
+        "record": "docs/place-enrichment/photo-only/photo-003-decisions.json"
+      }
     },
     {
       "placeId": "davao-bago-esplanade",
@@ -986,7 +1329,13 @@
       "notes": [
         "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results.",
         "Video PXvRiDsS77s: Official source does not currently confirm a playable, embeddable video with an accessible description"
-      ]
+      ],
+      "photoResearch": {
+        "batchId": "photo-003",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-22",
+        "record": "docs/place-enrichment/photo-only/photo-003-decisions.json"
+      }
     },
     {
       "placeId": "davao-gulf-view-esplanade",
@@ -995,7 +1344,13 @@
       "notes": [
         "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results.",
         "Video gap: Reviewed results concerned Gulf View subdivision or broad city routes, not an established esplanade visit."
-      ]
+      ],
+      "photoResearch": {
+        "batchId": "photo-003",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-22",
+        "record": "docs/place-enrichment/photo-only/photo-003-decisions.json"
+      }
     },
     {
       "placeId": "davao-marfori-botanical-garden",
@@ -1004,7 +1359,13 @@
       "notes": [
         "Unrelated New York botanical-garden photographs were excluded.",
         "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results."
-      ]
+      ],
+      "photoResearch": {
+        "batchId": "photo-003",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-22",
+        "record": "docs/place-enrichment/photo-only/photo-003-decisions.json"
+      }
     },
     {
       "placeId": "davao-toril-park",
@@ -1013,7 +1374,13 @@
       "notes": [
         "Eden Nature Park photographs were excluded as a different attraction.",
         "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results."
-      ]
+      ],
+      "photoResearch": {
+        "batchId": "photo-003",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-22",
+        "record": "docs/place-enrichment/photo-only/photo-003-decisions.json"
+      }
     },
     {
       "placeId": "davao-matina-linear-park",
@@ -1021,7 +1388,13 @@
       "destination": "Davao",
       "notes": [
         "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results."
-      ]
+      ],
+      "photoResearch": {
+        "batchId": "photo-004",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-22",
+        "record": "docs/place-enrichment/photo-only/photo-004-decisions.json"
+      }
     },
     {
       "placeId": "davao-candelaria-park",
@@ -1030,7 +1403,13 @@
       "notes": [
         "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results.",
         "Video gap: The candidate credited another creator without establishing an original upload; broader avenue walks were not substituted."
-      ]
+      ],
+      "photoResearch": {
+        "batchId": "photo-004",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-22",
+        "record": "docs/place-enrichment/photo-only/photo-004-decisions.json"
+      }
     },
     {
       "placeId": "davao-communal-pocket-park",
@@ -1039,15 +1418,13 @@
       "notes": [
         "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results.",
         "Video gap: Reviewed results concerned People’s Park or broad Davao routes; no exact Communal park resource established."
-      ]
-    },
-    {
-      "placeId": "davao-jacks-ridge-shrine-hills",
-      "name": "Jack’s Ridge — Shrine Hills",
-      "destination": "Davao",
-      "notes": [
-        "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results."
-      ]
+      ],
+      "photoResearch": {
+        "batchId": "photo-004",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-22",
+        "record": "docs/place-enrichment/photo-only/photo-004-decisions.json"
+      }
     },
     {
       "placeId": "davao-apo-ni-lola-matina",
@@ -1056,7 +1433,13 @@
       "notes": [
         "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results.",
         "Video gap: One exact-Matina resource selected; generic brand videos were not used as branch evidence."
-      ]
+      ],
+      "photoResearch": {
+        "batchId": "photo-004",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-22",
+        "record": "docs/place-enrichment/photo-only/photo-004-decisions.json"
+      }
     },
     {
       "placeId": "davao-marina-tuna-sandawa",
@@ -1065,7 +1448,13 @@
       "notes": [
         "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results.",
         "Video gap: Reviewed brand-level food features did not establish the Sandawa Plaza branch; no other branch substituted."
-      ]
+      ],
+      "photoResearch": {
+        "batchId": "photo-004",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-22",
+        "record": "docs/place-enrichment/photo-only/photo-004-decisions.json"
+      }
     },
     {
       "placeId": "boracay-muchos",
@@ -1074,7 +1463,13 @@
       "notes": [
         "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results.",
         "Video gap: One exact-restaurant resource selected; unrelated island videos were excluded."
-      ]
+      ],
+      "photoResearch": {
+        "batchId": "photo-002",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-22",
+        "record": "docs/place-enrichment/photo-only/photo-002-decisions.json"
+      }
     },
     {
       "placeId": "boracay-jammers-beach-shack",
@@ -1082,7 +1477,13 @@
       "destination": "Boracay",
       "notes": [
         "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results."
-      ]
+      ],
+      "photoResearch": {
+        "batchId": "photo-002",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-22",
+        "record": "docs/place-enrichment/photo-only/photo-002-decisions.json"
+      }
     },
     {
       "placeId": "boracay-aria-cucina",
@@ -1090,7 +1491,13 @@
       "destination": "Boracay",
       "notes": [
         "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results."
-      ]
+      ],
+      "photoResearch": {
+        "batchId": "photo-002",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-22",
+        "record": "docs/place-enrichment/photo-only/photo-002-decisions.json"
+      }
     },
     {
       "placeId": "boracay-hama",
@@ -1098,7 +1505,13 @@
       "destination": "Boracay",
       "notes": [
         "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results."
-      ]
+      ],
+      "photoResearch": {
+        "batchId": "photo-002",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-22",
+        "record": "docs/place-enrichment/photo-only/photo-002-decisions.json"
+      }
     },
     {
       "placeId": "boracay-cafe-del-sol",
@@ -1106,7 +1519,13 @@
       "destination": "Boracay",
       "notes": [
         "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results."
-      ]
+      ],
+      "photoResearch": {
+        "batchId": "photo-002",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-22",
+        "record": "docs/place-enrichment/photo-only/photo-002-decisions.json"
+      }
     },
     {
       "placeId": "boracay-beach-truck",
@@ -1115,7 +1534,13 @@
       "notes": [
         "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results.",
         "Video gap: One exact-venue resource selected; broad beach walks not used as restaurant substitutes."
-      ]
+      ],
+      "photoResearch": {
+        "batchId": "photo-002",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-22",
+        "record": "docs/place-enrichment/photo-only/photo-002-decisions.json"
+      }
     },
     {
       "placeId": "boracay-dinibeach-bar",
@@ -1123,7 +1548,13 @@
       "destination": "Boracay",
       "notes": [
         "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results."
-      ]
+      ],
+      "photoResearch": {
+        "batchId": "photo-002",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-22",
+        "record": "docs/place-enrichment/photo-only/photo-002-decisions.json"
+      }
     },
     {
       "placeId": "boracay-citymall",
@@ -1132,7 +1563,13 @@
       "notes": [
         "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results.",
         "Video yQ-eRd2WuiE: Official source does not currently confirm a playable, embeddable video with an accessible description"
-      ]
+      ],
+      "photoResearch": {
+        "batchId": "photo-002",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-22",
+        "record": "docs/place-enrichment/photo-only/photo-002-decisions.json"
+      }
     },
     {
       "placeId": "boracay-sirena",
@@ -1140,7 +1577,13 @@
       "destination": "Boracay",
       "notes": [
         "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results."
-      ]
+      ],
+      "photoResearch": {
+        "batchId": "photo-002",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-22",
+        "record": "docs/place-enrichment/photo-only/photo-002-decisions.json"
+      }
     },
     {
       "placeId": "boracay-los-indios-bravos",
@@ -1148,7 +1591,13 @@
       "destination": "Boracay",
       "notes": [
         "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results."
-      ]
+      ],
+      "photoResearch": {
+        "batchId": "photo-002",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-22",
+        "record": "docs/place-enrichment/photo-only/photo-002-decisions.json"
+      }
     },
     {
       "placeId": "boracay-sands-bar-restaurant",
@@ -1157,7 +1606,13 @@
       "notes": [
         "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results.",
         "Video gap: The candidate description identified Discovery Shores Sands Restaurant, not Boracay Sands Hotel; rejected as the wrong venue."
-      ]
+      ],
+      "photoResearch": {
+        "batchId": "photo-002",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-22",
+        "record": "docs/place-enrichment/photo-only/photo-002-decisions.json"
+      }
     },
     {
       "placeId": "iloilo-breakthrough-villa",
@@ -1166,7 +1621,13 @@
       "notes": [
         "Preserved the exact branch distinction; no menu prices or current service guarantees added.",
         "Photo gap: No exact-Villa-branch photograph with documented reuse rights was identified in the reviewed Commons search."
-      ]
+      ],
+      "photoResearch": {
+        "batchId": "photo-006",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-22",
+        "record": "docs/place-enrichment/photo-only/photo-006-decisions.json"
+      }
     },
     {
       "placeId": "iloilo-dapli-valeria",
@@ -1176,7 +1637,13 @@
         "Fresh official-source description; no unsupported branch video inserted.",
         "Photo gap: No exact-branch reusable photograph identified; official menu and venue photographs lack established reuse permission.",
         "Video gap: The twelve reviewed search results did not establish a Dapli Valeria Street visit; unrelated Breakthrough branches were rejected."
-      ]
+      ],
+      "photoResearch": {
+        "batchId": "photo-006",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-22",
+        "record": "docs/place-enrichment/photo-only/photo-006-decisions.json"
+      }
     },
     {
       "placeId": "iloilo-ponsyon-plazuela",
@@ -1185,7 +1652,13 @@
       "notes": [
         "Retained the existing reviewed Plazuela identity; rejected videos of the Villa branch.",
         "Photo gap: No exact-Plazuela-branch photograph with documented reuse rights identified in the reviewed Commons search."
-      ]
+      ],
+      "photoResearch": {
+        "batchId": "photo-006",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-22",
+        "record": "docs/place-enrichment/photo-only/photo-006-decisions.json"
+      }
     },
     {
       "placeId": "iloilo-taytay-tigre",
@@ -1195,7 +1668,13 @@
         "Brief description retained from previously reviewed catalog evidence; source access was unavailable.",
         "Photo gap: No exact-bridge reusable photo identified in the reviewed Commons search.",
         "Video gap: Wider Guimbal videos did not provide an established bridge segment or verified start timestamp."
-      ]
+      ],
+      "photoResearch": {
+        "batchId": "photo-006",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-22",
+        "record": "docs/place-enrichment/photo-only/photo-006-decisions.json"
+      }
     },
     {
       "placeId": "iloilo-garin-farm",
@@ -1203,7 +1682,13 @@
       "destination": "Iloilo",
       "notes": [
         "Photo gap: Commons results showed a general San Joaquin town view from the farm, not a clear photograph of the attraction."
-      ]
+      ],
+      "photoResearch": {
+        "batchId": "photo-006",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-22",
+        "record": "docs/place-enrichment/photo-only/photo-006-decisions.json"
+      }
     },
     {
       "placeId": "batanes-casa-napoli-town",
@@ -1213,7 +1698,13 @@
         "Original provincial food-map URL returned HTTP 404; no current menu or hours claim added.",
         "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results.",
         "Video gap: Reviewed town-wide restaurant guides did not establish this exact venue segment."
-      ]
+      ],
+      "photoResearch": {
+        "batchId": "photo-004",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-22",
+        "record": "docs/place-enrichment/photo-only/photo-004-decisions.json"
+      }
     },
     {
       "placeId": "batanes-beehan",
@@ -1223,7 +1714,13 @@
         "Original food-map URL returned HTTP 404.",
         "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results.",
         "Video gap: One exact-venue resource selected; multi-stop trip vlogs not used as filler."
-      ]
+      ],
+      "photoResearch": {
+        "batchId": "photo-004",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-22",
+        "record": "docs/place-enrichment/photo-only/photo-004-decisions.json"
+      }
     },
     {
       "placeId": "batanes-harbour-cafe",
@@ -1233,7 +1730,13 @@
         "Original food-map URL returned HTTP 404.",
         "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results.",
         "Video gap: Reviewed results did not establish Harbour Cafe; a different inn-and-café venue was excluded."
-      ]
+      ],
+      "photoResearch": {
+        "batchId": "photo-004",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-22",
+        "record": "docs/place-enrichment/photo-only/photo-004-decisions.json"
+      }
     },
     {
       "placeId": "batanes-vunong-dinette",
@@ -1243,7 +1746,13 @@
         "Original food-map URL returned HTTP 404; alternative venue not silently substituted.",
         "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results.",
         "Video gap: Results about Vunong at Jessica’s Place did not establish that they identify this exact catalog venue."
-      ]
+      ],
+      "photoResearch": {
+        "batchId": "photo-004",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-22",
+        "record": "docs/place-enrichment/photo-only/photo-004-decisions.json"
+      }
     },
     {
       "placeId": "batanes-honesty-coffee-shop",
@@ -1251,7 +1760,13 @@
       "destination": "Batanes",
       "notes": [
         "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results."
-      ]
+      ],
+      "photoResearch": {
+        "batchId": "photo-005",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-22",
+        "record": "docs/place-enrichment/photo-only/photo-005-decisions.json"
+      }
     },
     {
       "placeId": "batanes-rakuh-idi-spring",
@@ -1261,7 +1776,13 @@
         "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results.",
         "Video aOSoImQtlcw: Official source does not currently confirm a playable, embeddable video with an accessible description",
         "Video EU9rLsU6J9k: HTTP 401: https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DEU9rLsU6J9k&format=json"
-      ]
+      ],
+      "photoResearch": {
+        "batchId": "photo-005",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-22",
+        "record": "docs/place-enrichment/photo-only/photo-005-decisions.json"
+      }
     },
     {
       "placeId": "batanes-chawa-viewdeck",
@@ -1270,16 +1791,13 @@
       "notes": [
         "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results.",
         "Video BwXpYhDKSDk: Official source does not currently confirm a playable, embeddable video with an accessible description"
-      ]
-    },
-    {
-      "placeId": "batanes-san-jose-spanish-bridge",
-      "name": "San Jose Spanish Bridge",
-      "destination": "Batanes",
-      "notes": [
-        "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results.",
-        "Video gap: The reviewed search returned unrelated celebrity content and did not establish an exact bridge resource."
-      ]
+      ],
+      "photoResearch": {
+        "batchId": "photo-005",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-22",
+        "record": "docs/place-enrichment/photo-only/photo-005-decisions.json"
+      }
     },
     {
       "placeId": "batanes-national-museum",
@@ -1289,16 +1807,1447 @@
         "Rejected municipality-wide Uyugan article and Imnajbu village photograph. Official museum address retained; no unsourced barangay correction made.",
         "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results.",
         "Video gap: Candidate recordings did not establish a useful current museum visit; no broader Uyugan video substituted."
-      ]
+      ],
+      "photoResearch": {
+        "batchId": "photo-005",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-22",
+        "record": "docs/place-enrichment/photo-only/photo-005-decisions.json"
+      }
     },
     {
-      "placeId": "batanes-savidug-village",
-      "name": "Savidug Heritage Village",
+      "placeId": "el-nido-grounded-town",
+      "name": "Grounded — El Nido Town",
+      "destination": "Palawan",
+      "notes": [],
+      "photoResearch": {
+        "sources": [
+          "https://grounded.ph/",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Grounded+El+Nido&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Grounded&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=Grounded+El+Nido&license=4%2C5%2C9%2C10"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "placeId": "el-nido-janu-coffee-tea",
+      "name": "Janu Coffee & Tea",
+      "destination": "Palawan",
+      "notes": [],
+      "photoResearch": {
+        "sources": [
+          "https://janu.ph/",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Janu+Coffee+%26+Tea+El+Nido&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Janu+Coffee+%26+Tea&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=Janu+Coffee+%26+Tea+El+Nido&license=4%2C5%2C9%2C10"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "placeId": "puerto-princesa-itoys-coffee-haus",
+      "name": "Itoy’s Coffee Haus",
+      "destination": "Palawan",
+      "notes": [],
+      "photoResearch": {
+        "sources": [
+          "https://www.puertoprincesatourism.com/restaurants",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Itoy%E2%80%99s+Coffee+Haus+Puerto+Princesa+City&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Itoy%E2%80%99s+Coffee+Haus&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=Itoy%E2%80%99s+Coffee+Haus+Puerto+Princesa+City&license=4%2C5%2C9%2C10"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "placeId": "puerto-princesa-koffee-kat",
+      "name": "Koffee Kat Cafe",
+      "destination": "Palawan",
+      "notes": [],
+      "photoResearch": {
+        "sources": [
+          "https://www.puertoprincesatourism.com/restaurants",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Koffee+Kat+Cafe+Puerto+Princesa+City&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Koffee+Kat+Cafe&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=Koffee+Kat+Cafe+Puerto+Princesa+City&license=4%2C5%2C9%2C10"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "placeId": "puerto-princesa-ka-inato-main",
+      "name": "Ka Inato — Tiniguiban",
+      "destination": "Palawan",
+      "notes": [],
+      "photoResearch": {
+        "sources": [
+          "https://www.puertoprincesatourism.com/restaurants",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Ka+Inato+Puerto+Princesa+City&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Ka+Inato&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=Ka+Inato+Puerto+Princesa+City&license=4%2C5%2C9%2C10"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "placeId": "cebu-north-cafe-citymall",
+      "name": "North Café & Co — CityMall Bacalso",
+      "destination": "Cebu",
+      "notes": [],
+      "photoResearch": {
+        "sources": [
+          "https://www.northcafeandco.ph/",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=North+Caf%C3%A9+%26+Co+Cebu+City&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=North+Caf%C3%A9+%26+Co&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=North+Caf%C3%A9+%26+Co+Cebu+City&license=4%2C5%2C9%2C10"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "placeId": "cebu-teamo-hotel-one",
+      "name": "Te’Amo Café — Hotel One",
+      "destination": "Cebu",
+      "notes": [],
+      "photoResearch": {
+        "sources": [
+          "https://www.teamocafecebu.com/",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Te%E2%80%99Amo+Caf%C3%A9+Cebu+City&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Te%E2%80%99Amo+Caf%C3%A9&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=Te%E2%80%99Amo+Caf%C3%A9+Cebu+City&license=4%2C5%2C9%2C10"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "placeId": "el-nido-lick-roastery",
+      "name": "Lost Islands Center for Kape — Lio HQ",
+      "destination": "Palawan",
+      "notes": [],
+      "photoResearch": {
+        "sources": [
+          "https://lick.ph/pages/locations",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Lost+Islands+Center+for+Kape+El+Nido&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Lost+Islands+Center+for+Kape&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=Lost+Islands+Center+for+Kape+El+Nido&license=4%2C5%2C9%2C10"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "placeId": "el-nido-la-moro-hill",
+      "name": "La Moro Hill Bakery — Lio",
+      "destination": "Palawan",
+      "notes": [],
+      "photoResearch": {
+        "sources": [
+          "https://lick.ph/pages/locations",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=La+Moro+Hill+Bakery+El+Nido&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=La+Moro+Hill+Bakery&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=La+Moro+Hill+Bakery+El+Nido&license=4%2C5%2C9%2C10"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "placeId": "el-nido-huk-co",
+      "name": "HUK & Co. — C Hotel",
+      "destination": "Palawan",
+      "notes": [],
+      "photoResearch": {
+        "sources": [
+          "https://huk.ph/",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=HUK+%26+Co.+El+Nido&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=HUK+%26+Co.&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=HUK+%26+Co.+El+Nido&license=4%2C5%2C9%2C10"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "placeId": "el-nido-ver-de",
+      "name": "Ver De — H Hotel",
+      "destination": "Palawan",
+      "notes": [],
+      "photoResearch": {
+        "sources": [
+          "https://hhotelelnido.com/dining",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Ver+De+El+Nido&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Ver+De&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=Ver+De+El+Nido&license=4%2C5%2C9%2C10"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "placeId": "el-nido-piece-of-sky",
+      "name": "Piece of Sky",
+      "destination": "Palawan",
+      "notes": [],
+      "photoResearch": {
+        "sources": [
+          "https://sites.google.com/view/pieceofskyelnido/home",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Piece+of+Sky+El+Nido&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Piece+of+Sky&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=Piece+of+Sky+El+Nido&license=4%2C5%2C9%2C10"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "placeId": "el-nido-henris",
+      "name": "Henri’s — Lihim Resorts",
+      "destination": "Palawan",
+      "notes": [],
+      "photoResearch": {
+        "sources": [
+          "https://lihim.com/dining/henris/",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Henri%E2%80%99s+El+Nido&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Henri%E2%80%99s&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=Henri%E2%80%99s+El+Nido&license=4%2C5%2C9%2C10"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "placeId": "el-nido-lanai-amakan",
+      "name": "The Lanai at Amakan",
+      "destination": "Palawan",
+      "notes": [],
+      "photoResearch": {
+        "sources": [
+          "https://www.amakan.ph/",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=The+Lanai+at+Amakan+El+Nido&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=The+Lanai+at+Amakan&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=The+Lanai+at+Amakan+El+Nido&license=4%2C5%2C9%2C10"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "placeId": "coron-baya-resto-lounge",
+      "name": "BAYA Resto Lounge",
+      "destination": "Palawan",
+      "notes": [],
+      "photoResearch": {
+        "sources": [
+          "https://twoseasonsresorts.com/corontown/dining/",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=BAYA+Resto+Lounge+Coron&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=BAYA+Resto+Lounge&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=BAYA+Resto+Lounge+Coron&license=4%2C5%2C9%2C10"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "placeId": "coron-hunt-funny-lion",
+      "name": "Hunt Restaurant — The Funny Lion Coron",
+      "destination": "Palawan",
+      "notes": [],
+      "photoResearch": {
+        "sources": [
+          "https://www.thefunnylion.com/the-funny-lion-coron-compendium",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Hunt+Restaurant+Coron&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Hunt+Restaurant&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=Hunt+Restaurant+Coron&license=4%2C5%2C9%2C10"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "placeId": "el-nido-sunmai-nacpan",
+      "name": "Sunmai Beach Bar and Restaurant",
+      "destination": "Palawan",
+      "notes": [],
+      "photoResearch": {
+        "sources": [
+          "https://hhospitality.group/dining-lio",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Sunmai+Beach+Bar+and+Restaurant+El+Nido&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Sunmai+Beach+Bar+and+Restaurant&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=Sunmai+Beach+Bar+and+Restaurant+El+Nido&license=4%2C5%2C9%2C10"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "placeId": "el-nido-calima-piece-lio",
+      "name": "CALIMA Restaurant — Piece Lio",
+      "destination": "Palawan",
+      "notes": [],
+      "photoResearch": {
+        "sources": [
+          "https://hhospitality.group/dining-lio",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=CALIMA+Restaurant+El+Nido&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=CALIMA+Restaurant&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=CALIMA+Restaurant+El+Nido&license=4%2C5%2C9%2C10"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "placeId": "el-nido-ocean-view-chinese",
+      "name": "Ocean View Chinese Restaurant — S Resort",
+      "destination": "Palawan",
+      "notes": [],
+      "photoResearch": {
+        "sources": [
+          "https://hhospitality.group/dining-lio",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Ocean+View+Chinese+Restaurant+El+Nido&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Ocean+View+Chinese+Restaurant&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=Ocean+View+Chinese+Restaurant+El+Nido&license=4%2C5%2C9%2C10"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "placeId": "puerto-princesa-divines-robinsons",
+      "name": "Divine’s Sweets Bakery & Cafe — Robinsons",
+      "destination": "Palawan",
+      "notes": [],
+      "photoResearch": {
+        "sources": [
+          "https://www.puertoprincesatourism.com/restaurants",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Divine%E2%80%99s+Sweets+Bakery+%26+Cafe+Puerto+Princesa+City&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Divine%E2%80%99s+Sweets+Bakery+%26+Cafe&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=Divine%E2%80%99s+Sweets+Bakery+%26+Cafe+Puerto+Princesa+City&license=4%2C5%2C9%2C10"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "placeId": "puerto-princesa-jeju-island-cafe",
+      "name": "Jeju Island Cafe",
+      "destination": "Palawan",
+      "notes": [],
+      "photoResearch": {
+        "sources": [
+          "https://www.puertoprincesatourism.com/restaurants",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Jeju+Island+Cafe+Puerto+Princesa+City&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Jeju+Island+Cafe&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=Jeju+Island+Cafe+Puerto+Princesa+City&license=4%2C5%2C9%2C10"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "placeId": "puerto-princesa-kofilab",
+      "name": "Kofilab Cafe",
+      "destination": "Palawan",
+      "notes": [],
+      "photoResearch": {
+        "sources": [
+          "https://www.puertoprincesatourism.com/restaurants",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Kofilab+Cafe+Puerto+Princesa+City&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Kofilab+Cafe&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=Kofilab+Cafe+Puerto+Princesa+City&license=4%2C5%2C9%2C10"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "placeId": "cebu-good-cup-ramos",
+      "name": "Good Cup Café — F. Ramos",
+      "destination": "Cebu",
+      "notes": [],
+      "photoResearch": {
+        "sources": [
+          "https://goodcup.ph/pages/cafe",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Good+Cup+Caf%C3%A9+Cebu+City&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Good+Cup+Caf%C3%A9&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=Good+Cup+Caf%C3%A9+Cebu+City&license=4%2C5%2C9%2C10",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=%22Good+Cup%22+%22Cebu%22&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "placeId": "cebu-house-of-lechon-acacia",
+      "name": "House of Lechon — Acacia",
+      "destination": "Cebu",
+      "notes": [],
+      "photoResearch": {
+        "sources": [
+          "https://guide.michelin.com/us/en/central-visayas/cebu-city_2340421/restaurant/house-of-lechon",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=House+of+Lechon+Cebu+City&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=House+of+Lechon&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=House+of+Lechon+Cebu+City&license=4%2C5%2C9%2C10"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "placeId": "cebu-parilya-il-corso",
+      "name": "Parilya — Il Corso",
+      "destination": "Cebu",
+      "notes": [],
+      "photoResearch": {
+        "sources": [
+          "https://lagunagroup.ph/parilya/",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Parilya+Cebu+City&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Parilya&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=Parilya+Cebu+City&license=4%2C5%2C9%2C10"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "placeId": "cebu-lemon-grass-ayala",
+      "name": "Lemon Grass — Ayala Center Cebu",
+      "destination": "Cebu",
+      "notes": [],
+      "photoResearch": {
+        "sources": [
+          "https://lagunagroup.ph/lemon-grass/",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Lemon+Grass+Cebu+City&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Lemon+Grass&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=Lemon+Grass+Cebu+City&license=4%2C5%2C9%2C10"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "placeId": "cebu-ullis-ayala",
+      "name": "Ulli’s Streets of Asia — Ayala",
+      "destination": "Cebu",
+      "notes": [],
+      "photoResearch": {
+        "sources": [
+          "https://lagunagroup.ph/ullis-streets-of-asia/",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Ulli%E2%80%99s+Streets+of+Asia+Cebu+City&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Ulli%E2%80%99s+Streets+of+Asia&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=Ulli%E2%80%99s+Streets+of+Asia+Cebu+City&license=4%2C5%2C9%2C10"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "placeId": "cebu-u-kitchen-lahug",
+      "name": "U Kitchen — Lahug",
+      "destination": "Cebu",
+      "notes": [],
+      "photoResearch": {
+        "sources": [
+          "https://lagunagroup.ph/u-kitchen/",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=U+Kitchen+Cebu+City&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=U+Kitchen&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=U+Kitchen+Cebu+City&license=4%2C5%2C9%2C10"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "placeId": "cebu-pares-pares-escario",
+      "name": "Pares Pares — N. Escario Street",
+      "destination": "Cebu",
+      "notes": [],
+      "photoResearch": {
+        "sources": [
+          "https://guide.michelin.com/us/en/central-visayas/cebu-city_2340421/restaurant/pares-pares-n-escario-street",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Pares+Pares+Cebu+City&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Pares+Pares&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=Pares+Pares+Cebu+City&license=4%2C5%2C9%2C10",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=%22Pares+Pares%22+%22Cebu%22&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "placeId": "cebu-abli",
+      "name": "Abli",
+      "destination": "Cebu",
+      "notes": [],
+      "photoResearch": {
+        "sources": [
+          "https://guide.michelin.com/us/en/central-visayas/cebu-city_2340421/restaurant/abli",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Abli+Cebu+City&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Abli&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=Abli+Cebu+City&license=4%2C5%2C9%2C10"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "placeId": "cebu-abaseria",
+      "name": "Abaseria Deli & Cafe",
+      "destination": "Cebu",
+      "notes": [],
+      "photoResearch": {
+        "sources": [
+          "https://guide.michelin.com/us/en/central-visayas/cebu-city_2340421/restaurant/abaseria-deli-cafe",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Abaseria+Deli+%26+Cafe+Cebu+City&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Abaseria+Deli+%26+Cafe&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=Abaseria+Deli+%26+Cafe+Cebu+City&license=4%2C5%2C9%2C10"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "placeId": "cebu-ato-ah",
+      "name": "ATO-AH",
+      "destination": "Cebu",
+      "notes": [],
+      "photoResearch": {
+        "sources": [
+          "https://guide.michelin.com/us/en/central-visayas/cebu-city_2340421/restaurant/ato-ah",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=ATO-AH+Cebu+City&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=ATO-AH&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=ATO-AH+Cebu+City&license=4%2C5%2C9%2C10"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "placeId": "cebu-lantaw-compostela",
+      "name": "Lantaw — Compostela",
+      "destination": "Cebu",
+      "notes": [],
+      "photoResearch": {
+        "sources": [
+          "https://guide.michelin.com/gb/en/central-visayas/cebu-city_2340421/restaurant/lantaw-compostela",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Lantaw+Compostela&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Lantaw&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=Lantaw+Compostela&license=4%2C5%2C9%2C10"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "placeId": "cebu-ricos-mandaue",
+      "name": "Rico’s Lechon — Mandaue",
+      "destination": "Cebu",
+      "notes": [],
+      "photoResearch": {
+        "sources": [
+          "https://ricoslechon.com/",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Rico%E2%80%99s+Lechon+Mandaue+City&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Rico%E2%80%99s+Lechon&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=Rico%E2%80%99s+Lechon+Mandaue+City&license=4%2C5%2C9%2C10"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "placeId": "cebu-punched-mabuhay",
+      "name": "Punched Coffee — Mabuhay Tower",
+      "destination": "Cebu",
+      "notes": [],
+      "photoResearch": {
+        "sources": [
+          "https://getpunched.com/locations",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Punched+Coffee+Cebu+City&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Punched+Coffee&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=Punched+Coffee+Cebu+City&license=4%2C5%2C9%2C10"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "placeId": "manila-yardstick-esteban",
+      "name": "Yardstick — Legazpi Village",
+      "destination": "Manila",
+      "notes": [],
+      "photoResearch": {
+        "sources": [
+          "https://store.yardstickcoffee.com/pages/cafe/",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Yardstick+Makati&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Yardstick&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=Yardstick+Makati&license=4%2C5%2C9%2C10",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=%22Yardstick%22+%22Makati%22&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "placeId": "manila-commune-poblacion",
+      "name": "Commune Café + Bar",
+      "destination": "Manila",
+      "notes": [],
+      "photoResearch": {
+        "sources": [
+          "https://commune.ph/",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Commune+Caf%C3%A9+%2B+Bar+Makati&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Commune+Caf%C3%A9+%2B+Bar&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=Commune+Caf%C3%A9+%2B+Bar+Makati&license=4%2C5%2C9%2C10",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=%22Commune%22+%22Makati%22&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "placeId": "manila-exchange-alley-molito",
+      "name": "Exchange Alley Coffee House — Molito",
+      "destination": "Manila",
+      "notes": [],
+      "photoResearch": {
+        "sources": [
+          "https://molito.com.ph/food_beverages/exchange-alley-coffee-house/",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Exchange+Alley+Coffee+House+Muntinlupa&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Exchange+Alley+Coffee+House&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=Exchange+Alley+Coffee+House+Muntinlupa&license=4%2C5%2C9%2C10"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "placeId": "manila-group-boiler-molito",
+      "name": "Group & Boiler — Molito",
+      "destination": "Manila",
+      "notes": [],
+      "photoResearch": {
+        "sources": [
+          "https://molito.com.ph/food_beverages/group-boiler/",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Group+%26+Boiler+Muntinlupa&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Group+%26+Boiler&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=Group+%26+Boiler+Muntinlupa&license=4%2C5%2C9%2C10"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "placeId": "manila-type-a-nbs",
+      "name": "Type A Coffee — NBS Park",
+      "destination": "Manila",
+      "notes": [],
+      "photoResearch": {
+        "sources": [
+          "https://www.topgear.com.ph/features/feature-articles/type-a-coffee-run-2026-a962-20260603",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Type+A+Coffee+Mandaluyong&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Type+A+Coffee&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=Type+A+Coffee+Mandaluyong&license=4%2C5%2C9%2C10"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "placeId": "manila-the-den-escolta",
+      "name": "The Den — Escolta",
+      "destination": "Manila",
+      "notes": [],
+      "photoResearch": {
+        "sources": [
+          "https://thedenmanila.com/",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=The+Den+Manila&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=The+Den&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=The+Den+Manila&license=4%2C5%2C9%2C10",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=%22The+Den%22+%22Escolta%22&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "placeId": "manila-saigon-coffee-arca",
+      "name": "Saigon Coffee — Arca South",
+      "destination": "Manila",
+      "notes": [],
+      "photoResearch": {
+        "sources": [
+          "https://saigoncoffee.ph/",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Saigon+Coffee+Taguig&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Saigon+Coffee&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=Saigon+Coffee+Taguig&license=4%2C5%2C9%2C10"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "placeId": "manila-toyo-eatery",
+      "name": "Toyo Eatery",
+      "destination": "Manila",
+      "notes": [],
+      "photoResearch": {
+        "sources": [
+          "https://www.tablecheck.com/tl/toyoeatery/reserve/landing",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Toyo+Eatery+Makati&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Toyo+Eatery&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=Toyo+Eatery+Makati&license=4%2C5%2C9%2C10"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "placeId": "manila-gallery-by-chele",
+      "name": "Gallery by Chele",
+      "destination": "Manila",
+      "notes": [],
+      "photoResearch": {
+        "sources": [
+          "https://gallerybychele.com/about-us/",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Gallery+by+Chele+Taguig&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Gallery+by+Chele&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=Gallery+by+Chele+Taguig&license=4%2C5%2C9%2C10"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "placeId": "manila-your-local",
+      "name": "Your Local",
+      "destination": "Manila",
+      "notes": [],
+      "photoResearch": {
+        "sources": [
+          "https://guide.michelin.com/en/metro-manila/makati-city_2329358/restaurant/your-local",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Your+Local+Makati&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Your+Local&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=Your+Local+Makati&license=4%2C5%2C9%2C10"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "placeId": "manila-sarsa-rada",
+      "name": "Sarsa — Rada Street",
+      "destination": "Manila",
+      "notes": [],
+      "photoResearch": {
+        "sources": [
+          "https://guide.michelin.com/ph/en/metro-manila/makati-city_2329358/restaurant/sarsa",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Sarsa+Makati&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Sarsa&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=Sarsa+Makati&license=4%2C5%2C9%2C10"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "placeId": "manila-metiz-karrivin",
+      "name": "Metiz",
+      "destination": "Manila",
+      "notes": [],
+      "photoResearch": {
+        "sources": [
+          "https://guide.michelin.com/ph/en/metro-manila/makati-city_2329358/restaurant/metiz",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Metiz+Makati&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Metiz&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=Metiz+Makati&license=4%2C5%2C9%2C10"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "placeId": "manila-cirkulo",
+      "name": "Cirkulo",
+      "destination": "Manila",
+      "notes": [],
+      "photoResearch": {
+        "sources": [
+          "https://guide.michelin.com/gb/en/metro-manila/makati-city_2329358/restaurant/cirkulo",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Cirkulo+Makati&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Cirkulo&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=Cirkulo+Makati&license=4%2C5%2C9%2C10"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "placeId": "manila-la-pita-poblacion",
+      "name": "La Pita — Poblacion",
+      "destination": "Manila",
+      "notes": [],
+      "photoResearch": {
+        "sources": [
+          "https://guide.michelin.com/sa/en/metro-manila/makati-city_2329358/restaurant/la-pita-poblacion",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=La+Pita+Makati&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=La+Pita&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=La+Pita+Makati&license=4%2C5%2C9%2C10"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "placeId": "manila-morning-sun-project-four",
+      "name": "Morning Sun Eatery",
+      "destination": "Manila",
+      "notes": [],
+      "photoResearch": {
+        "sources": [
+          "https://guide.michelin.com/gb/en/metro-manila/quenzon-city_2323700/restaurant/morning-sun-eatery",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Morning+Sun+Eatery+Quezon+City&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Morning+Sun+Eatery&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=Morning+Sun+Eatery+Quezon+City&license=4%2C5%2C9%2C10"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "placeId": "manila-el-poco-malate",
+      "name": "El Poco Cantina — Malate",
+      "destination": "Manila",
+      "notes": [],
+      "photoResearch": {
+        "sources": [
+          "https://guide.michelin.com/ph/en/metro-manila/manila_2329836/restaurant/el-poco-cantina-malate",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=El+Poco+Cantina+Manila&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=El+Poco+Cantina&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=El+Poco+Cantina+Manila&license=4%2C5%2C9%2C10"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "placeId": "manila-rodics-maginhawa",
+      "name": "Rodic’s Diner — Maginhawa",
+      "destination": "Manila",
+      "notes": [],
+      "photoResearch": {
+        "sources": [
+          "https://guide.michelin.com/ph/en/article/travel/2-days-in-manila",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Rodic%E2%80%99s+Diner+Quezon+City&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Rodic%E2%80%99s+Diner&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=Rodic%E2%80%99s+Diner+Quezon+City&license=4%2C5%2C9%2C10"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "placeId": "siargao-spotted-pig-catangnan",
+      "name": "Spotted Pig Cafe — Catangnan",
+      "destination": "Siargao",
+      "notes": [],
+      "photoResearch": {
+        "sources": [
+          "https://laspalmassiargao.com/spotted-pig-cafe/",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Spotted+Pig+Cafe+General+Luna&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Spotted+Pig+Cafe&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=Spotted+Pig+Cafe+General+Luna&license=4%2C5%2C9%2C10"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "placeId": "siargao-weekend-cafe",
+      "name": "/Week·End/ Cafe",
+      "destination": "Siargao",
+      "notes": [],
+      "photoResearch": {
+        "sources": [
+          "https://www.weekendsiargao.com/",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=%2FWeek%C2%B7End%2F+Cafe+General+Luna&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=%2FWeek%C2%B7End%2F+Cafe&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=%2FWeek%C2%B7End%2F+Cafe+General+Luna&license=4%2C5%2C9%2C10"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "placeId": "siargao-sinag-snack-bar",
+      "name": "Sinag Snack Bar",
+      "destination": "Siargao",
+      "notes": [],
+      "photoResearch": {
+        "sources": [
+          "https://sinagsiargao.com/",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Sinag+Snack+Bar+General+Luna&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Sinag+Snack+Bar&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=Sinag+Snack+Bar+General+Luna&license=4%2C5%2C9%2C10"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "placeId": "siargao-saint-thomas",
+      "name": "Saint Thomas Coffee",
+      "destination": "Siargao",
+      "notes": [],
+      "photoResearch": {
+        "sources": [
+          "https://finandfin.com/siargao-food-guide",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Saint+Thomas+Coffee+General+Luna&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Saint+Thomas+Coffee&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=Saint+Thomas+Coffee+General+Luna&license=4%2C5%2C9%2C10"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "placeId": "siargao-sunset-coffee",
+      "name": "Sunset Coffee Roasters",
+      "destination": "Siargao",
+      "notes": [],
+      "photoResearch": {
+        "sources": [
+          "https://finandfin.com/siargao-food-guide",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Sunset+Coffee+Roasters+General+Luna&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Sunset+Coffee+Roasters&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=Sunset+Coffee+Roasters+General+Luna&license=4%2C5%2C9%2C10"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "placeId": "siargao-fin-fin",
+      "name": "Fin & Fin Beach Shack",
+      "destination": "Siargao",
+      "notes": [],
+      "photoResearch": {
+        "sources": [
+          "https://finandfin.com/",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Fin+%26+Fin+Beach+Shack+General+Luna&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Fin+%26+Fin+Beach+Shack&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=Fin+%26+Fin+Beach+Shack+General+Luna&license=4%2C5%2C9%2C10"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "placeId": "bohol-overgrown-panglao",
+      "name": "Overgrown Café & Bar — Panglao",
+      "destination": "Bohol",
+      "notes": [],
+      "photoResearch": {
+        "sources": [
+          "https://proprietary.tistory.com/975",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Overgrown+Caf%C3%A9+%26+Bar+Panglao&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Overgrown+Caf%C3%A9+%26+Bar&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=Overgrown+Caf%C3%A9+%26+Bar+Panglao&license=4%2C5%2C9%2C10"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "placeId": "bohol-mosia-cafe",
+      "name": "Mosia Cafe",
+      "destination": "Bohol",
+      "notes": [],
+      "photoResearch": {
+        "sources": [
+          "https://primer.com.ph/food/restaurant-type/bakery-and-sweets/mosia-cafe/",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Mosia+Cafe+Tagbilaran+City&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Mosia+Cafe&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=Mosia+Cafe+Tagbilaran+City&license=4%2C5%2C9%2C10"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "placeId": "bohol-slotide-danao",
+      "name": "Slotide Coffee Club",
+      "destination": "Bohol",
+      "notes": [],
+      "photoResearch": {
+        "sources": [
+          "https://www.findglocal.com/PH/Panglao/677674168759391/slotide-coffee-club",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Slotide+Coffee+Club+Panglao&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Slotide+Coffee+Club&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=Slotide+Coffee+Club+Panglao&license=4%2C5%2C9%2C10"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "placeId": "bohol-smoque-bistro",
+      "name": "Smoque Bistro + Cafe & Bar",
+      "destination": "Bohol",
+      "notes": [],
+      "photoResearch": {
+        "sources": [
+          "https://www.zoytotheworld.com/blog/bohol-food-trip-smoque-bistro-cafe-and-bar",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Smoque+Bistro+%2B+Cafe+%26+Bar+Tagbilaran+City&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Smoque+Bistro+%2B+Cafe+%26+Bar&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=Smoque+Bistro+%2B+Cafe+%26+Bar+Tagbilaran+City&license=4%2C5%2C9%2C10"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "placeId": "bohol-mist-danao",
+      "name": "MIST Cafe and Restaurant",
+      "destination": "Bohol",
+      "notes": [],
+      "photoResearch": {
+        "sources": [
+          "https://www.findglocal.com/PH/Panglao/111216513963698/MIST",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=MIST+Cafe+and+Restaurant+Panglao&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=MIST+Cafe+and+Restaurant&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=MIST+Cafe+and+Restaurant+Panglao&license=4%2C5%2C9%2C10"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "placeId": "bohol-tomar-amorita",
+      "name": "Tomar Tapas x Bar — Amorita",
+      "destination": "Bohol",
+      "notes": [],
+      "photoResearch": {
+        "sources": [
+          "https://www.amoritaresort.com/tomar-menu",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Tomar+Tapas+x+Bar+Panglao&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Tomar+Tapas+x+Bar&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=Tomar+Tapas+x+Bar+Panglao&license=4%2C5%2C9%2C10"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "placeId": "baguio-rebel-irisan",
+      "name": "Rebel Bakehouse — Irisan",
+      "destination": "Baguio",
+      "notes": [],
+      "photoResearch": {
+        "sources": [
+          "https://www.simpol.ph/at-rebel-bakehouse-baguios-best-pastries-come-with-a-sense-of-place/",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Rebel+Bakehouse+Baguio+City&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Rebel+Bakehouse&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=Rebel+Bakehouse+Baguio+City&license=4%2C5%2C9%2C10"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "placeId": "baguio-hatch-easter",
+      "name": "Hatch Coffee — Easter Road",
+      "destination": "Baguio",
+      "notes": [],
+      "photoResearch": {
+        "sources": [
+          "https://www.simpol.ph/the-baguio-cafe-where-coffee-and-memories-take-root/",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Hatch+Coffee+Baguio+City&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Hatch+Coffee&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=Hatch+Coffee+Baguio+City&license=4%2C5%2C9%2C10",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=%22Hatch+Coffee%22&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "placeId": "baguio-hot-cat-yangco",
+      "name": "Hot Cat Specialty Coffee — Yangco",
+      "destination": "Baguio",
+      "notes": [],
+      "photoResearch": {
+        "sources": [
+          "https://pia.gov.ph/news/hot-cat-cafe-silungan-ng-mga-pusang-gala/",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Hot+Cat+Specialty+Coffee+Baguio+City&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Hot+Cat+Specialty+Coffee&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=Hot+Cat+Specialty+Coffee+Baguio+City&license=4%2C5%2C9%2C10",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=%22Hot+Cat%22+%22Baguio%22&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "placeId": "baguio-cafe-by-ruins",
+      "name": "Café by the Ruins — Shuntug",
+      "destination": "Baguio",
+      "notes": [],
+      "photoResearch": {
+        "sources": [
+          "https://www.findglocal.com/PH/Baguio-City/38813861009/Cafe-By-The-Ruins",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Caf%C3%A9+by+the+Ruins+Baguio+City&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Caf%C3%A9+by+the+Ruins&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=Caf%C3%A9+by+the+Ruins+Baguio+City&license=4%2C5%2C9%2C10",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=%22Cafe+by+the+Ruins%22&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "placeId": "batanes-cafe-du-tukon",
+      "name": "Café du Tukon",
       "destination": "Batanes",
-      "notes": [
-        "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results.",
-        "Video gap: Broad Sabtang resources did not establish a specific Savidug segment in the initial review."
-      ]
+      "notes": [],
+      "photoResearch": {
+        "sources": [
+          "https://fundacionpacita.com/cafe.html",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Caf%C3%A9+du+Tukon+Basco&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Caf%C3%A9+du+Tukon&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=Caf%C3%A9+du+Tukon+Basco&license=4%2C5%2C9%2C10"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "placeId": "batanes-bunkers-bistro",
+      "name": "Bunkers Bistro",
+      "destination": "Batanes",
+      "notes": [],
+      "photoResearch": {
+        "sources": [
+          "https://sites.google.com/view/dotregion2accreditedtourisment/secondary-tourism-enterprises/restaurant",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Bunkers+Bistro+Basco&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Bunkers+Bistro&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=Bunkers+Bistro+Basco&license=4%2C5%2C9%2C10"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "placeId": "sagada-cafe-bodega-rock-inn",
+      "name": "Café Bodega — Rock Inn",
+      "destination": "Sagada",
+      "notes": [],
+      "photoResearch": {
+        "sources": [
+          "https://nojuanisanisland.com/2026/06/02/an-ode-to-nostalgia-why-simply-showing-up-in-sagada-was-a-big-win/",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Caf%C3%A9+Bodega+Sagada&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Caf%C3%A9+Bodega&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=Caf%C3%A9+Bodega+Sagada&license=4%2C5%2C9%2C10"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "placeId": "sagada-log-cabin",
+      "name": "Log Cabin Sagada",
+      "destination": "Sagada",
+      "notes": [],
+      "photoResearch": {
+        "sources": [
+          "https://tableagent.com/manila/log-cabin-sagada/",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Log+Cabin+Sagada+Sagada&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Log+Cabin+Sagada&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=Log+Cabin+Sagada+Sagada&license=4%2C5%2C9%2C10",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=%22Log+Cabin%22+%22Sagada%22&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "placeId": "sagada-cellar-door",
+      "name": "Sagada Cellar Door",
+      "destination": "Sagada",
+      "notes": [],
+      "photoResearch": {
+        "sources": [
+          "https://nojuanisanisland.com/2026/06/02/an-ode-to-nostalgia-why-simply-showing-up-in-sagada-was-a-big-win/",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Sagada+Cellar+Door+Sagada&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Sagada+Cellar+Door&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=Sagada+Cellar+Door+Sagada&license=4%2C5%2C9%2C10"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "placeId": "sagada-gaia-cafe",
+      "name": "Gaia Cafe & Crafts",
+      "destination": "Sagada",
+      "notes": [],
+      "photoResearch": {
+        "sources": [
+          "https://www.tripadvisor.ca/Restaurant_Review-g304053-d3512205-Reviews-Gaia_Cafe_Crafts-Sagada_Mountain_Province_Cordillera_Region_Luzon.html",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Gaia+Cafe+%26+Crafts+Sagada&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Gaia+Cafe+%26+Crafts&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=Gaia+Cafe+%26+Crafts+Sagada&license=4%2C5%2C9%2C10",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=%22Gaia%22+%22Sagada%22&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "placeId": "sagada-banas-cafe",
+      "name": "Bana’s Coffee",
+      "destination": "Sagada",
+      "notes": [],
+      "photoResearch": {
+        "sources": [
+          "https://nojuanisanisland.com/2026/06/02/an-ode-to-nostalgia-why-simply-showing-up-in-sagada-was-a-big-win/",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Bana%E2%80%99s+Coffee+Sagada&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Bana%E2%80%99s+Coffee&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=Bana%E2%80%99s+Coffee+Sagada&license=4%2C5%2C9%2C10"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "placeId": "davao-purge-tulip",
+      "name": "Purge Coffee Roaster — Tulip Drive",
+      "destination": "Davao",
+      "notes": [],
+      "photoResearch": {
+        "sources": [
+          "https://tourism.davaocity.gov.ph/explore-the-city/restaurants/coffeeshops-2/purge-coffee-roaster/",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Purge+Coffee+Roaster+Davao+City&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Purge+Coffee+Roaster&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=Purge+Coffee+Roaster+Davao+City&license=4%2C5%2C9%2C10"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "placeId": "davao-fourth-street-narra",
+      "name": "Fourth Street Cafe — Narra",
+      "destination": "Davao",
+      "notes": [],
+      "photoResearch": {
+        "sources": [
+          "https://www.findglocal.com/PH/Davao-City/161228178024723/Fourth-Street-Cafe",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Fourth+Street+Cafe+Davao+City&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Fourth+Street+Cafe&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=Fourth+Street+Cafe+Davao+City&license=4%2C5%2C9%2C10"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "placeId": "davao-glasshouse-oboza",
+      "name": "Glasshouse Coffee — Oboza Heritage House",
+      "destination": "Davao",
+      "notes": [],
+      "photoResearch": {
+        "sources": [
+          "https://www.sunstar.com.ph/amp/story/davao/kadayawan-2026-see-it-taste-it-live-it",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Glasshouse+Coffee+Davao+City&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Glasshouse+Coffee&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=Glasshouse+Coffee+Davao+City&license=4%2C5%2C9%2C10"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "placeId": "davao-paramount-star-hotel",
+      "name": "Paramount Coffee — Star Hotel",
+      "destination": "Davao",
+      "notes": [],
+      "photoResearch": {
+        "sources": [
+          "https://www.paramountcoffeeph.com/cafe",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Paramount+Coffee+Davao+City&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Paramount+Coffee&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=Paramount+Coffee+Davao+City&license=4%2C5%2C9%2C10"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "placeId": "davao-kapewenoz-v-mapa",
+      "name": "Kapeweñoz — V. Mapa",
+      "destination": "Davao",
+      "notes": [],
+      "photoResearch": {
+        "sources": [
+          "https://linktr.ee/kapewenozcoffee",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Kapewe%C3%B1oz+Davao+City&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Kapewe%C3%B1oz&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=Kapewe%C3%B1oz+Davao+City&license=4%2C5%2C9%2C10"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "placeId": "davao-lamano-tulip",
+      "name": "Lamano Cocina & Bar",
+      "destination": "Davao",
+      "notes": [],
+      "photoResearch": {
+        "sources": [
+          "https://lamano.ph/",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Lamano+Cocina+%26+Bar+Davao+City&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Lamano+Cocina+%26+Bar&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=Lamano+Cocina+%26+Bar+Davao+City&license=4%2C5%2C9%2C10"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "placeId": "davao-capris-bajada",
+      "name": "Capri’s Restaurant and Deli",
+      "destination": "Davao",
+      "notes": [],
+      "photoResearch": {
+        "sources": [
+          "https://eatsmejax.com/2026/03/26/davao-capris-restaurant-and-deli-davao-food-and-resto-review/",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Capri%E2%80%99s+Restaurant+and+Deli+Davao+City&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Capri%E2%80%99s+Restaurant+and+Deli&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=Capri%E2%80%99s+Restaurant+and+Deli+Davao+City&license=4%2C5%2C9%2C10"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "placeId": "davao-lachis-marfori",
+      "name": "Lachi’s Sans Rival Atbp. — Marfori",
+      "destination": "Davao",
+      "notes": [],
+      "photoResearch": {
+        "sources": [
+          "https://www.findglocal.com/PH/Davao-City/71022339832/Lachi%27s-Sans-Rival-Atbp",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Lachi%E2%80%99s+Sans+Rival+Atbp.+Davao+City&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Lachi%E2%80%99s+Sans+Rival+Atbp.&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=Lachi%E2%80%99s+Sans+Rival+Atbp.+Davao+City&license=4%2C5%2C9%2C10"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "placeId": "iloilo-neighbor-atria",
+      "name": "Neighbor Coffee — Shops at Atria",
+      "destination": "Iloilo",
+      "notes": [],
+      "photoResearch": {
+        "sources": [
+          "https://www.findglocal.com/PH/Iloilo-City/512507965554615/Shops-at-Atria%2C-Ayala-Malls",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Neighbor+Coffee+Iloilo+City&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Neighbor+Coffee&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=Neighbor+Coffee+Iloilo+City&license=4%2C5%2C9%2C10"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "placeId": "iloilo-bluejay-sm-city",
+      "name": "Bluejay Coffee & Company — SM City Iloilo",
+      "destination": "Iloilo",
+      "notes": [],
+      "photoResearch": {
+        "sources": [
+          "https://www.findglocal.com/PH/Iloilo-City/1549445962029867/Bluejay-Coffee-%26-Company-SM-City-Iloilo",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Bluejay+Coffee+%26+Company+Iloilo+City&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Bluejay+Coffee+%26+Company&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=Bluejay+Coffee+%26+Company+Iloilo+City&license=4%2C5%2C9%2C10"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "placeId": "iloilo-monkey-grounds",
+      "name": "Monkey Grounds Coffee — Benigno Aquino Avenue",
+      "destination": "Iloilo",
+      "notes": [],
+      "photoResearch": {
+        "sources": [
+          "https://www.foodpanda.ph/restaurant/r9rc/monkey-grounds-coffee-benigno-aquino-avenue",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Monkey+Grounds+Coffee+Iloilo+City&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Monkey+Grounds+Coffee&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=Monkey+Grounds+Coffee+Iloilo+City&license=4%2C5%2C9%2C10"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "placeId": "iloilo-loco-smallville",
+      "name": "LoCo Local Coffee — Smallville",
+      "destination": "Iloilo",
+      "notes": [],
+      "photoResearch": {
+        "sources": [
+          "https://localcoffee.ph/pages/about-us",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=LoCo+Local+Coffee+Iloilo+City&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=LoCo+Local+Coffee&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=LoCo+Local+Coffee+Iloilo+City&license=4%2C5%2C9%2C10"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "placeId": "iloilo-netongs-la-paz",
+      "name": "Netong’s Original Special La Paz Batchoy — La Paz Market",
+      "destination": "Iloilo",
+      "notes": [],
+      "photoResearch": {
+        "sources": [
+          "https://www.bworldonline.com/bw-launchpad/2026/04/15/742817/netongs-eyes-partnerships-to-cushion-rising-costs/",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Netong%E2%80%99s+Original+Special+La+Paz+Batchoy+Iloilo+City&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Netong%E2%80%99s+Original+Special+La+Paz+Batchoy&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=Netong%E2%80%99s+Original+Special+La+Paz+Batchoy+Iloilo+City&license=4%2C5%2C9%2C10"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "placeId": "iloilo-carlos-dungon",
+      "name": "Carlo’s Bakery & Cafe — Dungon",
+      "destination": "Iloilo",
+      "notes": [],
+      "photoResearch": {
+        "sources": [
+          "https://carlos-bakeshop.com/",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Carlo%E2%80%99s+Bakery+%26+Cafe+Iloilo+City&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Carlo%E2%80%99s+Bakery+%26+Cafe&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=Carlo%E2%80%99s+Bakery+%26+Cafe+Iloilo+City&license=4%2C5%2C9%2C10"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
     }
   ],
   "videoGaps": [
@@ -2124,5 +4073,11 @@
         }
       ]
     }
-  ]
+  ],
+  "photoUpdatedOn": "2026-10-22",
+  "foodExpansion": {
+    "records": 94,
+    "record": "docs/food-directory/README.md",
+    "photoDecisions": "docs/food-directory/media/decisions.json"
+  }
 }

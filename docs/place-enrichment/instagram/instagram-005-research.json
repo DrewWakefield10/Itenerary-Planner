@@ -1,0 +1,407 @@
+{
+  "batchId": "instagram-005",
+  "checkedOn": "2026-10-22",
+  "mode": "unapproved-research",
+  "records": [
+    {
+      "placeId": "siargao-sunset-coffee",
+      "name": "Sunset Coffee Roasters",
+      "destination": "Siargao",
+      "municipality": "General Luna",
+      "category": "Food & drink",
+      "hasApprovedPhoto": false,
+      "batchId": "instagram-005",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://finandfin.com/siargao-food-guide",
+          "finalUrl": "https://finandfin.com/siargao-food-guide",
+          "status": 200,
+          "title": "A Perfect Eating Day in General Luna | A Local's Guide to Siargao Restaurants",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "siargao-fin-fin",
+      "name": "Fin & Fin Beach Shack",
+      "destination": "Siargao",
+      "municipality": "General Luna",
+      "category": "Food & drink",
+      "hasApprovedPhoto": false,
+      "batchId": "instagram-005",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://finandfin.com/",
+          "finalUrl": "https://finandfin.com/",
+          "status": 200,
+          "title": "Fin & Fin Beach Shack | Seafood Near Cloud 9, Siargao",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "bohol-overgrown-panglao",
+      "name": "Overgrown Café & Bar — Panglao",
+      "destination": "Bohol",
+      "municipality": "Panglao",
+      "category": "Food & drink",
+      "hasApprovedPhoto": false,
+      "batchId": "instagram-005",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://proprietary.tistory.com/975",
+          "finalUrl": "https://proprietary.tistory.com/975",
+          "status": 200,
+          "title": "🍎 OVERGROWN Caf&eacute; & Bar | 보홀 오버그로운 카페 | 보홀 스무디볼 맛집 🍎",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "bohol-mosia-cafe",
+      "name": "Mosia Cafe",
+      "destination": "Bohol",
+      "municipality": "Tagbilaran City",
+      "category": "Food & drink",
+      "hasApprovedPhoto": false,
+      "batchId": "instagram-005",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://primer.com.ph/food/restaurant-type/bakery-and-sweets/mosia-cafe/",
+          "finalUrl": "https://primer.com.ph/food/restaurant-type/bakery-and-sweets/mosia-cafe/",
+          "status": 200,
+          "title": "Mosia Cafe in Bohol: Serving Fresh Artisanal Desserts Daily | Philippine Primer",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "bohol-slotide-danao",
+      "name": "Slotide Coffee Club",
+      "destination": "Bohol",
+      "municipality": "Panglao",
+      "category": "Food & drink",
+      "hasApprovedPhoto": false,
+      "batchId": "instagram-005",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://www.findglocal.com/PH/Panglao/677674168759391/slotide-coffee-club",
+          "finalUrl": "https://www.findglocal.com/PH/Panglao/677674168759391/slotide-coffee-club",
+          "status": 403,
+          "title": "",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "bohol-smoque-bistro",
+      "name": "Smoque Bistro + Cafe & Bar",
+      "destination": "Bohol",
+      "municipality": "Tagbilaran City",
+      "category": "Food & drink",
+      "hasApprovedPhoto": false,
+      "batchId": "instagram-005",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://www.zoytotheworld.com/blog/bohol-food-trip-smoque-bistro-cafe-and-bar",
+          "finalUrl": "https://www.zoytotheworld.com/blog/bohol-food-trip-smoque-bistro-cafe-and-bar",
+          "status": 200,
+          "title": "Smoque Bistro + Cafe & Bar: A Laid-Back Lounge and Sanctuary for Meat Enthusiasts in Tagbilaran City (Bohol) &mdash; Zoy To The World",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "bohol-mist-danao",
+      "name": "MIST Cafe and Restaurant",
+      "destination": "Bohol",
+      "municipality": "Panglao",
+      "category": "Food & drink",
+      "hasApprovedPhoto": false,
+      "batchId": "instagram-005",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://www.findglocal.com/PH/Panglao/111216513963698/MIST",
+          "finalUrl": "https://www.findglocal.com/PH/Panglao/111216513963698/MIST",
+          "status": 403,
+          "title": "",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "bohol-tomar-amorita",
+      "name": "Tomar Tapas x Bar — Amorita",
+      "destination": "Bohol",
+      "municipality": "Panglao",
+      "category": "Food & drink",
+      "hasApprovedPhoto": false,
+      "batchId": "instagram-005",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://www.amoritaresort.com/tomar-menu",
+          "finalUrl": "https://www.amoritaresort.com/tomar-menu",
+          "status": 200,
+          "title": "Tomar Menu | Discover Flavors Today &mdash; Book a Table Now &mdash; Amorita Resort",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "baguio-rebel-irisan",
+      "name": "Rebel Bakehouse — Irisan",
+      "destination": "Baguio",
+      "municipality": "Baguio City",
+      "category": "Food & drink",
+      "hasApprovedPhoto": false,
+      "batchId": "instagram-005",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://www.simpol.ph/at-rebel-bakehouse-baguios-best-pastries-come-with-a-sense-of-place/",
+          "finalUrl": "https://www.simpol.ph/at-rebel-bakehouse-baguios-best-pastries-come-with-a-sense-of-place/",
+          "status": 200,
+          "title": "At Rebel Bakehouse, Baguio’s Best Pastries Come With a Sense of Place - Simpol.ph",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "baguio-hatch-easter",
+      "name": "Hatch Coffee — Easter Road",
+      "destination": "Baguio",
+      "municipality": "Baguio City",
+      "category": "Food & drink",
+      "hasApprovedPhoto": false,
+      "batchId": "instagram-005",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://www.simpol.ph/the-baguio-cafe-where-coffee-and-memories-take-root/",
+          "finalUrl": "https://www.simpol.ph/the-baguio-cafe-where-coffee-and-memories-take-root/",
+          "status": 200,
+          "title": "The Baguio Café Where Coffee and Memories Take Root - Simpol.ph",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "baguio-hot-cat-yangco",
+      "name": "Hot Cat Specialty Coffee — Yangco",
+      "destination": "Baguio",
+      "municipality": "Baguio City",
+      "category": "Food & drink",
+      "hasApprovedPhoto": false,
+      "batchId": "instagram-005",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://pia.gov.ph/news/hot-cat-cafe-silungan-ng-mga-pusang-gala/",
+          "finalUrl": "https://pia.gov.ph/news/hot-cat-cafe-silungan-ng-mga-pusang-gala/",
+          "status": 403,
+          "title": "",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "baguio-cafe-by-ruins",
+      "name": "Café by the Ruins — Shuntug",
+      "destination": "Baguio",
+      "municipality": "Baguio City",
+      "category": "Food & drink",
+      "hasApprovedPhoto": false,
+      "batchId": "instagram-005",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://www.findglocal.com/PH/Baguio-City/38813861009/Cafe-By-The-Ruins",
+          "finalUrl": "https://www.findglocal.com/PH/Baguio-City/38813861009/Cafe-By-The-Ruins",
+          "status": 403,
+          "title": "",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "batanes-cafe-du-tukon",
+      "name": "Café du Tukon",
+      "destination": "Batanes",
+      "municipality": "Basco",
+      "category": "Food & drink",
+      "hasApprovedPhoto": false,
+      "batchId": "instagram-005",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://fundacionpacita.com/cafe.html",
+          "finalUrl": "https://fundacionpacita.com/cafe.html",
+          "status": 200,
+          "title": "Cafe du Tukon | Fundacion Pacita | Basco",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "batanes-bunkers-bistro",
+      "name": "Bunkers Bistro",
+      "destination": "Batanes",
+      "municipality": "Basco",
+      "category": "Food & drink",
+      "hasApprovedPhoto": false,
+      "batchId": "instagram-005",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://sites.google.com/view/dotregion2accreditedtourisment/secondary-tourism-enterprises/restaurant",
+          "finalUrl": "https://sites.google.com/view/dotregion2accreditedtourisment/secondary-tourism-enterprises/restaurant",
+          "status": 200,
+          "title": "Restaurant",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "sagada-cafe-bodega-rock-inn",
+      "name": "Café Bodega — Rock Inn",
+      "destination": "Sagada",
+      "municipality": "Sagada",
+      "category": "Food & drink",
+      "hasApprovedPhoto": false,
+      "batchId": "instagram-005",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://nojuanisanisland.com/2026/06/02/an-ode-to-nostalgia-why-simply-showing-up-in-sagada-was-a-big-win/",
+          "finalUrl": "https://nojuanisanisland.com/2026/06/02/an-ode-to-nostalgia-why-simply-showing-up-in-sagada-was-a-big-win/",
+          "status": 200,
+          "title": "An Ode to Nostalgia: Why Simply Showing Up in Sagada Was A Big Win &#8211; No Juan Is An Island",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "sagada-log-cabin",
+      "name": "Log Cabin Sagada",
+      "destination": "Sagada",
+      "municipality": "Sagada",
+      "category": "Food & drink",
+      "hasApprovedPhoto": false,
+      "batchId": "instagram-005",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://tableagent.com/manila/log-cabin-sagada/",
+          "finalUrl": "https://tableagent.com/manila/log-cabin-sagada/",
+          "status": 403,
+          "title": "",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "sagada-cellar-door",
+      "name": "Sagada Cellar Door",
+      "destination": "Sagada",
+      "municipality": "Sagada",
+      "category": "Food & drink",
+      "hasApprovedPhoto": false,
+      "batchId": "instagram-005",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://nojuanisanisland.com/2026/06/02/an-ode-to-nostalgia-why-simply-showing-up-in-sagada-was-a-big-win/",
+          "finalUrl": "https://nojuanisanisland.com/2026/06/02/an-ode-to-nostalgia-why-simply-showing-up-in-sagada-was-a-big-win/",
+          "status": 200,
+          "title": "An Ode to Nostalgia: Why Simply Showing Up in Sagada Was A Big Win &#8211; No Juan Is An Island",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "sagada-gaia-cafe",
+      "name": "Gaia Cafe & Crafts",
+      "destination": "Sagada",
+      "municipality": "Sagada",
+      "category": "Food & drink",
+      "hasApprovedPhoto": false,
+      "batchId": "instagram-005",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://www.tripadvisor.ca/Restaurant_Review-g304053-d3512205-Reviews-Gaia_Cafe_Crafts-Sagada_Mountain_Province_Cordillera_Region_Luzon.html",
+          "finalUrl": "https://www.tripadvisor.ca/Restaurant_Review-g304053-d3512205-Reviews-Gaia_Cafe_Crafts-Sagada_Mountain_Province_Cordillera_Region_Luzon.html",
+          "status": 403,
+          "title": "",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "sagada-banas-cafe",
+      "name": "Bana’s Coffee",
+      "destination": "Sagada",
+      "municipality": "Sagada",
+      "category": "Food & drink",
+      "hasApprovedPhoto": false,
+      "batchId": "instagram-005",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://nojuanisanisland.com/2026/06/02/an-ode-to-nostalgia-why-simply-showing-up-in-sagada-was-a-big-win/",
+          "finalUrl": "https://nojuanisanisland.com/2026/06/02/an-ode-to-nostalgia-why-simply-showing-up-in-sagada-was-a-big-win/",
+          "status": 200,
+          "title": "An Ode to Nostalgia: Why Simply Showing Up in Sagada Was A Big Win &#8211; No Juan Is An Island",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    },
+    {
+      "placeId": "davao-purge-tulip",
+      "name": "Purge Coffee Roaster — Tulip Drive",
+      "destination": "Davao",
+      "municipality": "Davao City",
+      "category": "Food & drink",
+      "hasApprovedPhoto": false,
+      "batchId": "instagram-005",
+      "status": "publisher-search-complete-post-search-pending",
+      "sources": [
+        {
+          "url": "https://tourism.davaocity.gov.ph/explore-the-city/restaurants/coffeeshops-2/purge-coffee-roaster/",
+          "finalUrl": "https://tourism.davaocity.gov.ph/explore-the-city/restaurants/coffeeshops-2/purge-coffee-roaster/",
+          "status": 200,
+          "title": "Davao City Tourism Website",
+          "candidates": [],
+          "limitation": "A publisher reference is a research candidate, not proof of identity, account ownership, public visibility, or embed permission."
+        }
+      ]
+    }
+  ]
+}

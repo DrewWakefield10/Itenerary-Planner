@@ -1,0 +1,2793 @@
+{
+  "batchId": "photo-003",
+  "mode": "photos-only",
+  "checkedOn": "2026-10-22",
+  "entries": [
+    {
+      "placeId": "baguio-mirador-hill",
+      "approved": true,
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "Mirador Hill",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Mirador+Hill&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 8
+        },
+        {
+          "provider": "Commons",
+          "query": "Mirador Hill Baguio",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Mirador+Hill+Baguio&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Mirador Hill Baguio",
+          "url": "https://www.flickr.com/search/?text=Mirador+Hill+Baguio&license=4%2C5%2C9%2C10",
+          "count": 3
+        },
+        {
+          "provider": "Commons",
+          "query": "Mirador Baguio",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Mirador+Baguio&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 7
+        },
+        {
+          "provider": "Flickr",
+          "query": "Mirador Baguio",
+          "url": "https://www.flickr.com/search/?text=Mirador+Baguio&license=4%2C5%2C9%2C10",
+          "count": 10
+        },
+        {
+          "provider": "Commons category members",
+          "category": "Category:Mirador Heritage and Eco-Spirituality Park",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=categorymembers&gcmtitle=Category%3AMirador+Heritage+and+Eco-Spirituality+Park&gcmtype=file&gcmlimit=30&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 4
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=Mirador+Baguio&srlimit=4",
+          "categories": [
+            "Category:Mirador Heritage and Eco-Spirituality Park"
+          ]
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=Mirador+Hill&limit=3",
+          "candidates": [
+            {
+              "id": "Q6872532",
+              "label": "Mirador Hill",
+              "description": "rocky hill in the South Shetland Islands, Antarctica",
+              "url": "http://www.wikidata.org/entity/Q6872532"
+            }
+          ]
+        }
+      ],
+      "rejections": [
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Alhambra_evening_panorama_Mirador_San_Nicolas_sRGB-1.jpg",
+          "title": "File:Alhambra evening panorama Mirador San Nicolas sRGB-1.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Coquimbo_y_Cruz_del_Tercer_Milenio_desde_el_Mirador_-_panoramio.jpg",
+          "title": "File:Coquimbo y Cruz del Tercer Milenio desde el Mirador - panoramio.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:View_from_Mirador_El_Time_-_La_Palma.jpg",
+          "title": "File:View from Mirador El Time - La Palma.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Mirador_Mazatlan.jpg",
+          "title": "File:Mirador Mazatlan.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:View_from_Mirador_de_les_Barques_03.jpg",
+          "title": "File:View from Mirador de les Barques 03.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Granada_-_View_from_Mirador_de_San_Nicol%C3%A1s_-_02.jpg",
+          "title": "File:Granada - View from Mirador de San Nicolás - 02.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Pajara_(Fuerteventura,_Spain),_Mirador_Astron%C3%B3mico_de_Sicasumbre,_Ausblick_--_2025_--_7140.jpg",
+          "title": "File:Pajara (Fuerteventura, Spain), Mirador Astronómico de Sicasumbre, Ausblick -- 2025 -- 7140.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Mirador_de_la_Fortaleza_2023-12-27.jpg",
+          "title": "File:Mirador de la Fortaleza 2023-12-27.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/90412460@N00/20146082795/",
+          "title": "Sunset In Baguio City - Mirador Jesuit Villa",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/90412460@N00/16004973740/",
+          "title": "Lourdes Grotto - Baguio City",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/90412460@N00/16190378991/",
+          "title": "Resurrection - Mirador Jesuit Villa",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Sunset_In_Baguio_City.jpg",
+          "title": "File:Sunset In Baguio City.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:The_Mirador_Heritage_Eco_park.jpg",
+          "title": "File:The Mirador Heritage Eco park.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Mirador_Jesuit_Villa_in_Baguio_City,_Philippines_(52920287467).jpg",
+          "title": "File:Mirador Jesuit Villa in Baguio City, Philippines (52920287467).jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Mirador_Heritage_and_Eco-spirituality_Park,_Baguio_City.jpg",
+          "title": "File:Mirador Heritage and Eco-spirituality Park, Baguio City.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:El_Mirador,_Baguio_city_Philippines_1900%27s.jpg",
+          "title": "File:El Mirador, Baguio city Philippines 1900's.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Mirador_Arashiyama_Bamboo_Grove_in_Baguio_City.jpg",
+          "title": "File:Mirador Arashiyama Bamboo Grove in Baguio City.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/90412460@N00/52920501992/",
+          "title": "Lourdes Groto | Mirador Jesuit Villa Baguio",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/90412460@N00/52921031934/",
+          "title": "Mirador Heritage and Eco-Spirituality Park",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/90412460@N00/52920287467/",
+          "title": "Mirador Jesuit Villa in Baguio City, Philippines",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/90412460@N00/52924799779/",
+          "title": "Holy Darkness, Blessed Night",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/90412460@N00/52916557416/",
+          "title": "Peace Memorial at Mirador Jesuit Villa",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/90412460@N00/52916944450/",
+          "title": "Cafe Iñigo at Mirador Jesuit Villa",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/90412460@N00/52921036649/",
+          "title": "St. Joseph Garden",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Peace_Memorial_at_Mirador_Jesuit_Villa_(52916557416).jpg",
+          "title": "File:Peace Memorial at Mirador Jesuit Villa (52916557416).jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Mirador_Heritage_and_Eco-Spirituality_Park_(52921031934).jpg",
+          "title": "File:Mirador Heritage and Eco-Spirituality Park (52921031934).jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Holy_Darkness,_Blessed_Night_(52924799779).jpg",
+          "title": "File:Holy Darkness, Blessed Night (52924799779).jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        }
+      ],
+      "notes": [],
+      "visuallyReviewed": true,
+      "licenseReviewed": true,
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Mirador_Heritage_and_Eco_Park_in_Baguio_City.jpg"
+      ],
+      "identityReview": "The individual file describes the Baguio park and is categorized under that exact park and torii in the Philippines. Visually reviewed the bell, torii and overlook; chose this view instead of the welcome-sign close-up.",
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Mirador_Heritage_and_Eco_Park_in_Baguio_City.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/8/85/Mirador_Heritage_and_Eco_Park_in_Baguio_City.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "Churihan",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "Churihan / Wikimedia Commons / CC BY-SA 4.0. Resized and JPEG compressed.",
+        "alt": "Torii gate and bell at Mirador Heritage and Eco Park in Baguio City"
+      },
+      "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Mirador_Heritage_and_Eco_Park_in_Baguio_City.jpg/1280px-Mirador_Heritage_and_Eco_Park_in_Baguio_City.jpg",
+      "individualSourceEvidence": {
+        "api": "https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=1280&titles=File%3AMirador_Heritage_and_Eco_Park_in_Baguio_City.jpg",
+        "parseUrl": "https://commons.wikimedia.org/w/api.php?action=parse&format=json&page=File%3AMirador_Heritage_and_Eco_Park_in_Baguio_City.jpg&prop=wikitext",
+        "description": "Mirador Heritage and Eco Park in Baguio City",
+        "categories": "Views of Baguio|Self-published work|Torii in the Philippines|Philippines photographs taken on 2025-10-13|Philippine Panorama Project/Baguio City|Mirador Heritage and Eco-Spirituality Park|Images from Wiki Loves Folklore 2026|Images from Wiki Loves Folklore 2026 in Manila — Landscapes, Skies and Seascapes",
+        "licenseDeclaration": "=={{int:filedesc}}==\n{{Information\n|description={{en|1=Mirador Heritage and Eco Park in Baguio City}}\n|date={{Taken on|2025-10-13 16:06:57|location=Philippines|source=EXIF}}\n|source={{sf}}\n|author=[[User:Churihan|Churihan]]\n|permission=\n|other versions=\n}}\n\n=={{int:license-header}}==\n{{Wiki Loves Folklore 2026}}\n{{self|cc-by-sa-4.0}}\n\n[[Category:Images from Wiki Loves Folklore 2026 in Manila — Landscapes, Skies and Seascapes]] \n[[Category:Mirador Heritage and Eco-Spirituality Park]]\n[[Category:Torii in the Philippines]]\n[[Category:Views of Baguio]]\n[[Category:Philippine Panorama Project/Baguio City]]",
+        "requiredAttribution": ""
+      }
+    },
+    {
+      "placeId": "baguio-pink-sisters",
+      "approved": false,
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "Pink Sisters Convent and Chapel",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Pink+Sisters+Convent+and+Chapel&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Pink Sisters Convent Baguio",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Pink+Sisters+Convent+Baguio&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Pink Sisters Convent and Chapel Baguio",
+          "url": "https://www.flickr.com/search/?text=Pink+Sisters+Convent+and+Chapel+Baguio&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Pink Sisters Baguio",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Pink+Sisters+Baguio&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Pink Sisters Baguio",
+          "url": "https://www.flickr.com/search/?text=Pink+Sisters+Baguio&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=Pink+Sisters+Baguio&srlimit=4",
+          "categories": []
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=Pink+Sisters+Convent+and+Chapel&limit=3",
+          "candidates": []
+        }
+      ],
+      "rejections": [],
+      "notes": [
+        "No permission requested and no owner contacted. Official/public visibility alone does not grant reuse rights."
+      ],
+      "reason": "No photograph established both the exact place/branch and compatible individual-image reuse rights in the reviewed searches. A supplied photograph with documented rights is needed."
+    },
+    {
+      "placeId": "baguio-slu-museum",
+      "approved": false,
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "SLU Museum of Igorot Cultures and Arts",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=SLU+Museum+of+Igorot+Cultures+and+Arts&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "SLU Museum of Baguio",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=SLU+Museum+of+Baguio&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "SLU Museum of Igorot Cultures and Arts Baguio",
+          "url": "https://www.flickr.com/search/?text=SLU+Museum+of+Igorot+Cultures+and+Arts+Baguio&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Saint Louis Museum Baguio",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Saint+Louis+Museum+Baguio&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Saint Louis Museum Baguio",
+          "url": "https://www.flickr.com/search/?text=Saint+Louis+Museum+Baguio&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=Saint+Louis+Museum+Baguio&srlimit=4",
+          "categories": [
+            "Category:Photographs by Judgefloro, 2019",
+            "Category:Photographs by Judgefloro, 2019, 2"
+          ]
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=SLU+Museum+of+Igorot+Cultures+and+Arts&limit=3",
+          "candidates": []
+        }
+      ],
+      "rejections": [],
+      "notes": [
+        "No permission requested and no owner contacted. Official/public visibility alone does not grant reuse rights."
+      ],
+      "reason": "No photograph established both the exact place/branch and compatible individual-image reuse rights in the reviewed searches. A supplied photograph with documented rights is needed."
+    },
+    {
+      "placeId": "baguio-bamboo-sanctuary",
+      "approved": false,
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "St. Francis Xavier Bamboo Sanctuary",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=St.+Francis+Xavier+Bamboo+Sanctuary&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "St. Francis Xavier Baguio",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=St.+Francis+Xavier+Baguio&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "St. Francis Xavier Bamboo Sanctuary Baguio",
+          "url": "https://www.flickr.com/search/?text=St.+Francis+Xavier+Bamboo+Sanctuary+Baguio&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Bamboo Baguio",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Bamboo+Baguio&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 8
+        },
+        {
+          "provider": "Flickr",
+          "query": "Bamboo Baguio",
+          "url": "https://www.flickr.com/search/?text=Bamboo+Baguio&license=4%2C5%2C9%2C10",
+          "count": 9
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=Bamboo+Baguio&srlimit=4",
+          "categories": [
+            "Category:Photographs by Judgefloro, 2019",
+            "Category:Photos by JFVelasquez Floro",
+            "Category:Photographs created by Judgefloro : January-December, 2021",
+            "Category:Photographs created by Judgefloro - October-December, 2020"
+          ]
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=St.+Francis+Xavier+Bamboo+Sanctuary&limit=3",
+          "candidates": []
+        }
+      ],
+      "rejections": [
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:1963Landscape_of_Alaska_bamboo_footbridge_Mangroves_13.jpg",
+          "title": "File:1963Landscape of Alaska bamboo footbridge Mangroves 13.jpg",
+          "reason": "Mirador bamboo grove is a different attraction from the St. Francis Xavier sanctuary; band photographs and La Union bridges are unrelated."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:1963Landscape_of_Alaska_bamboo_footbridge_Mangroves_23.jpg",
+          "title": "File:1963Landscape of Alaska bamboo footbridge Mangroves 23.jpg",
+          "reason": "Mirador bamboo grove is a different attraction from the St. Francis Xavier sanctuary; band photographs and La Union bridges are unrelated."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:1963Landscape_of_Alaska_bamboo_footbridge_Mangroves_31.jpg",
+          "title": "File:1963Landscape of Alaska bamboo footbridge Mangroves 31.jpg",
+          "reason": "Mirador bamboo grove is a different attraction from the St. Francis Xavier sanctuary; band photographs and La Union bridges are unrelated."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:1963Landscape_of_Alaska_bamboo_footbridge_Mangroves_32.jpg",
+          "title": "File:1963Landscape of Alaska bamboo footbridge Mangroves 32.jpg",
+          "reason": "Mirador bamboo grove is a different attraction from the St. Francis Xavier sanctuary; band photographs and La Union bridges are unrelated."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:1963Landscape_of_Alaska_bamboo_footbridge_Mangroves_34.jpg",
+          "title": "File:1963Landscape of Alaska bamboo footbridge Mangroves 34.jpg",
+          "reason": "Mirador bamboo grove is a different attraction from the St. Francis Xavier sanctuary; band photographs and La Union bridges are unrelated."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:1963Landscape_of_Alaska_bamboo_footbridge_Mangroves_38.jpg",
+          "title": "File:1963Landscape of Alaska bamboo footbridge Mangroves 38.jpg",
+          "reason": "Mirador bamboo grove is a different attraction from the St. Francis Xavier sanctuary; band photographs and La Union bridges are unrelated."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:1963Landscape_of_Alaska_bamboo_footbridge_Mangroves_39.jpg",
+          "title": "File:1963Landscape of Alaska bamboo footbridge Mangroves 39.jpg",
+          "reason": "Mirador bamboo grove is a different attraction from the St. Francis Xavier sanctuary; band photographs and La Union bridges are unrelated."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Mirador_Arashiyama_Bamboo_Grove_in_Baguio_City.jpg",
+          "title": "File:Mirador Arashiyama Bamboo Grove in Baguio City.jpg",
+          "reason": "Mirador bamboo grove is a different attraction from the St. Francis Xavier sanctuary; band photographs and La Union bridges are unrelated."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/janlendl/3693626314/",
+          "title": "Bamboo",
+          "reason": "Mirador bamboo grove is a different attraction from the St. Francis Xavier sanctuary; band photographs and La Union bridges are unrelated."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/janlendl/3693625996/",
+          "title": "Bamboo",
+          "reason": "Mirador bamboo grove is a different attraction from the St. Francis Xavier sanctuary; band photographs and La Union bridges are unrelated."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/janlendl/3692822579/",
+          "title": "Bamboo(Vocals)",
+          "reason": "Mirador bamboo grove is a different attraction from the St. Francis Xavier sanctuary; band photographs and La Union bridges are unrelated."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/janlendl/3692822751/",
+          "title": "And they played their song",
+          "reason": "Mirador bamboo grove is a different attraction from the St. Francis Xavier sanctuary; band photographs and La Union bridges are unrelated."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/janlendl/3693626210/",
+          "title": "Nathan Azarcon (Bass)",
+          "reason": "Mirador bamboo grove is a different attraction from the St. Francis Xavier sanctuary; band photographs and La Union bridges are unrelated."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/donabelandewen/6585629413/",
+          "title": "Bamboo shapes",
+          "reason": "Mirador bamboo grove is a different attraction from the St. Francis Xavier sanctuary; band photographs and La Union bridges are unrelated."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/janlendl/3688978535/",
+          "title": "Soundcheck",
+          "reason": "Mirador bamboo grove is a different attraction from the St. Francis Xavier sanctuary; band photographs and La Union bridges are unrelated."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/janlendl/3692822669/",
+          "title": "Nathan Azarcon (Bass)",
+          "reason": "Mirador bamboo grove is a different attraction from the St. Francis Xavier sanctuary; band photographs and La Union bridges are unrelated."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/janlendl/3693626256/",
+          "title": "Ira Cruz (Guitars)",
+          "reason": "Mirador bamboo grove is a different attraction from the St. Francis Xavier sanctuary; band photographs and La Union bridges are unrelated."
+        }
+      ],
+      "notes": [
+        "No permission requested and no owner contacted. Official/public visibility alone does not grant reuse rights."
+      ],
+      "reason": "Mirador bamboo grove is a different attraction from the St. Francis Xavier sanctuary; band photographs and La Union bridges are unrelated."
+    },
+    {
+      "placeId": "baguio-pilak-silvercraft",
+      "approved": false,
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "PILAK Silvercraft and Gift Shoppe",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=PILAK+Silvercraft+and+Gift+Shoppe&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "PILAK Silvercraft Gift Baguio",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=PILAK+Silvercraft+Gift+Baguio&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "PILAK Silvercraft and Gift Shoppe Baguio",
+          "url": "https://www.flickr.com/search/?text=PILAK+Silvercraft+and+Gift+Shoppe+Baguio&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "PILAK Silvercraft and Gift Shoppe",
+          "url": "https://www.flickr.com/search/?text=PILAK+Silvercraft+and+Gift+Shoppe&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=PILAK+Silvercraft+and+Gift+Shoppe&srlimit=4",
+          "categories": []
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=PILAK+Silvercraft+and+Gift+Shoppe&limit=3",
+          "candidates": []
+        }
+      ],
+      "rejections": [],
+      "notes": [
+        "No permission requested and no owner contacted. Official/public visibility alone does not grant reuse rights."
+      ],
+      "reason": "No photograph established both the exact place/branch and compatible individual-image reuse rights in the reviewed searches. A supplied photograph with documented rights is needed."
+    },
+    {
+      "placeId": "baguio-nardas-handwoven",
+      "approved": false,
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "Nardas Handwoven Arts and Crafts",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Nardas+Handwoven+Arts+and+Crafts&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Nardas Handwoven Arts Baguio",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Nardas+Handwoven+Arts+Baguio&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Nardas Handwoven Arts and Crafts Baguio",
+          "url": "https://www.flickr.com/search/?text=Nardas+Handwoven+Arts+and+Crafts+Baguio&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Narda Baguio",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Narda+Baguio&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Narda Baguio",
+          "url": "https://www.flickr.com/search/?text=Narda+Baguio&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=Narda+Baguio&srlimit=4",
+          "categories": []
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=Nardas+Handwoven+Arts+and+Crafts&limit=3",
+          "candidates": []
+        }
+      ],
+      "rejections": [],
+      "notes": [
+        "No permission requested and no owner contacted. Official/public visibility alone does not grant reuse rights."
+      ],
+      "reason": "No photograph established both the exact place/branch and compatible individual-image reuse rights in the reviewed searches. A supplied photograph with documented rights is needed."
+    },
+    {
+      "placeId": "baguio-good-shepherd",
+      "approved": true,
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "Good Shepherd Convent Shop",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Good+Shepherd+Convent+Shop&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 2
+        },
+        {
+          "provider": "Commons",
+          "query": "Good Shepherd Convent Baguio",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Good+Shepherd+Convent+Baguio&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Good Shepherd Convent Shop Baguio",
+          "url": "https://www.flickr.com/search/?text=Good+Shepherd+Convent+Shop+Baguio&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Good Shepherd Baguio",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Good+Shepherd+Baguio&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 8
+        },
+        {
+          "provider": "Flickr",
+          "query": "Good Shepherd Baguio",
+          "url": "https://www.flickr.com/search/?text=Good+Shepherd+Baguio&license=4%2C5%2C9%2C10",
+          "count": 12
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=Good+Shepherd+Baguio&srlimit=4",
+          "categories": [
+            "Category:Photographs by Judgefloro, 2019",
+            "Category:Photographs created by Judgefloro, 2020",
+            "Category:Photographs created by Judgefloro : January-December, 2021",
+            "Category:Photographs created by Judgefloro - October-December, 2020"
+          ]
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=Good+Shepherd+Convent+Shop&limit=3",
+          "candidates": []
+        }
+      ],
+      "rejections": [
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Busch_Sisters_Hat_Shop_in_Hot_Springs,_Arkansas,_1913.jpg",
+          "title": "File:Busch Sisters Hat Shop in Hot Springs, Arkansas, 1913.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Santu%C3%A1rio_de_F%C3%A1tima_(13708963163).jpg",
+          "title": "File:Santuário de Fátima (13708963163).jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Good_Shepherd_statue_Baguio_City.JPG",
+          "title": "File:Good Shepherd statue Baguio City.JPG",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:439Agoo_Beach_Road_Cases_Boulevard_31.jpg",
+          "title": "File:439Agoo Beach Road Cases Boulevard 31.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:439Agoo_Beach_Road_Cases_Boulevard_70.jpg",
+          "title": "File:439Agoo Beach Road Cases Boulevard 70.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:518Agoo_Beach_Road_17.jpg",
+          "title": "File:518Agoo Beach Road 17.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:518Agoo_Beach_Road_53.jpg",
+          "title": "File:518Agoo Beach Road 53.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:518Agoo_Beach_Road_54.jpg",
+          "title": "File:518Agoo Beach Road 54.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Good_Shepherd,_Shepherd%27s_Garden.jpg",
+          "title": "File:Good Shepherd, Shepherd's Garden.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/mrphotovideo/14224658548/",
+          "title": "Baguio City - Good Shepherd Tent",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/beanintropics/5130412499/",
+          "title": "Good Shepherd",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/beanintropics/5131014562/",
+          "title": "Good Shepherd",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/luchrupan/445899721/",
+          "title": "Good Shepherd",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/sakanami/5311405664/",
+          "title": "Dec20: Mountain view",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/jamkablam/15979349877/",
+          "title": "Random Baguio Sights",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/jamkablam/15978992769/",
+          "title": "Random Baguio Sights",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/jamkablam/15978999049/",
+          "title": "Random Baguio Sights",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/jamkablam/16139386806/",
+          "title": "Random Baguio Sights",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/jamkablam/15979426627/",
+          "title": "Random Baguio Sights",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/joshwept/5680523800/",
+          "title": "Fiery Blooms",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/jamkablam/15979322797/",
+          "title": "Random Baguio Sights",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        }
+      ],
+      "notes": [],
+      "visuallyReviewed": true,
+      "licenseReviewed": true,
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Good_Shepherd_Baguio_City.JPG"
+      ],
+      "identityReview": "Individual file identifies Good Shepherd Baguio. The Mountain Maid Training Center sign and shop frontage are visible; this is the actual convent-shop compound, not a generic religious statue.",
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Good_Shepherd_Baguio_City.JPG",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/5/52/Good_Shepherd_Baguio_City.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "Irvin Parco Sto. Tomas",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "Irvin Parco Sto. Tomas / Wikimedia Commons / CC BY-SA 4.0. Resized and JPEG compressed.",
+        "alt": "Mountain Maid Training Center and shop entrance at Good Shepherd in Baguio City"
+      },
+      "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Good_Shepherd_Baguio_City.JPG/1280px-Good_Shepherd_Baguio_City.JPG",
+      "individualSourceEvidence": {
+        "api": "https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=1280&titles=File%3AGood_Shepherd_Baguio_City.JPG",
+        "parseUrl": "https://commons.wikimedia.org/w/api.php?action=parse&format=json&page=File%3AGood_Shepherd_Baguio_City.JPG&prop=wikitext",
+        "description": "Good Shepherd Baguio City",
+        "categories": "Baguio|Self-published work|May 2015 Philippines photographs|WikiExpedition Norte",
+        "licenseDeclaration": "=={{int:filedesc}}==\n{{Information\n|description={{en|1=Good Shepherd Baguio City}}\n|date=2015-05-18 02:00:27\n|source={{own}}\n|author=[[User:Filipinayzd|Irvin Parco Sto. Tomas]]\n|permission=\n|other versions=\n}}\n\n=={{int:license-header}}==\n{{self|cc-by-sa-4.0}}\n\n[[Category:WikiExpedition Norte]]\n[[Category:Baguio]]\n[[Category:May 2015 Philippines photographs]]",
+        "requiredAttribution": ""
+      }
+    },
+    {
+      "placeId": "baguio-original-good-taste",
+      "approved": false,
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "The Original Good Taste Restaurant",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=The+Original+Good+Taste+Restaurant&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 7
+        },
+        {
+          "provider": "Commons",
+          "query": "Original Good Taste Baguio",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Original+Good+Taste+Baguio&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "The Original Good Taste Restaurant Baguio",
+          "url": "https://www.flickr.com/search/?text=The+Original+Good+Taste+Restaurant+Baguio&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Good Taste Baguio",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Good+Taste+Baguio&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Good Taste Baguio",
+          "url": "https://www.flickr.com/search/?text=Good+Taste+Baguio&license=4%2C5%2C9%2C10",
+          "count": 1
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=Good+Taste+Baguio&srlimit=4",
+          "categories": [
+            "Category:Photos by JFVelasquez Floro"
+          ]
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=The+Original+Good+Taste+Restaurant&limit=3",
+          "candidates": []
+        }
+      ],
+      "rejections": [
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:The_Attic_seafood_restaurant_-_geograph.org.uk_-_793292.jpg",
+          "title": "File:The Attic seafood restaurant - geograph.org.uk - 793292.jpg",
+          "reason": "Strawberry taho is not the particular restaurant; no neighboring business substituted."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Every_dish_tells_you_it_tastes_good%5E_in_Melbourne_-_Flickr_-_odako1.jpg",
+          "title": "File:Every dish tells you it tastes good^ in Melbourne - Flickr - odako1.jpg",
+          "reason": "Strawberry taho is not the particular restaurant; no neighboring business substituted."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Skooglund%27s_Cafeteria--%22The_Place_Where_Things_Taste_So_Good.%22_(NBY_9423).jpg",
+          "title": "File:Skooglund's Cafeteria--\"The Place Where Things Taste So Good.\" (NBY 9423).jpg",
+          "reason": "Strawberry taho is not the particular restaurant; no neighboring business substituted."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Good_Tastes_in_Brynmawr_-_geograph.org.uk_-_4812918.jpg",
+          "title": "File:Good Tastes in Brynmawr - geograph.org.uk - 4812918.jpg",
+          "reason": "Strawberry taho is not the particular restaurant; no neighboring business substituted."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Taste_Good_in_Weston-super-Mare_-_geograph.org.uk_-_5913784.jpg",
+          "title": "File:Taste Good in Weston-super-Mare - geograph.org.uk - 5913784.jpg",
+          "reason": "Strawberry taho is not the particular restaurant; no neighboring business substituted."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Bac%27n_Tastes_Good_(3205524838).jpg",
+          "title": "File:Bac'n Tastes Good (3205524838).jpg",
+          "reason": "Strawberry taho is not the particular restaurant; no neighboring business substituted."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Tastes_Good_Restaurant_and_EPR-3296_20251026.jpg",
+          "title": "File:Tastes Good Restaurant and EPR-3296 20251026.jpg",
+          "reason": "Strawberry taho is not the particular restaurant; no neighboring business substituted."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/maehabasolo/9298811933/",
+          "title": "Have you tasted the strawberry \"taho\"? It taste good while its hot☕.. LET'S GO to Baguio and have a taste of their strawberry made delicacy #itsmorefuninthephilippines #taho #soya #strawberry #govisitphilippines #maehabasolofoodreview #delicacies #baguio",
+          "reason": "Strawberry taho is not the particular restaurant; no neighboring business substituted."
+        }
+      ],
+      "notes": [
+        "No permission requested and no owner contacted. Official/public visibility alone does not grant reuse rights."
+      ],
+      "reason": "Strawberry taho is not the particular restaurant; no neighboring business substituted."
+    },
+    {
+      "placeId": "baguio-choco-late-batirol",
+      "approved": false,
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "Choco-late de Batirol",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Choco-late+de+Batirol&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Choco-late de Batirol Baguio",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Choco-late+de+Batirol+Baguio&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Choco-late de Batirol Baguio",
+          "url": "https://www.flickr.com/search/?text=Choco-late+de+Batirol+Baguio&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Batirol",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Batirol&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 7
+        },
+        {
+          "provider": "Flickr",
+          "query": "Batirol",
+          "url": "https://www.flickr.com/search/?text=Batirol&license=4%2C5%2C9%2C10",
+          "count": 6
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=Batirol&srlimit=4",
+          "categories": [
+            "Category:Molinillo (tool)"
+          ]
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=Choco-late+de+Batirol&limit=3",
+          "candidates": []
+        }
+      ],
+      "rejections": [
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Tallado_de_molinillo_de_chocolate.jpg",
+          "title": "File:Tallado de molinillo de chocolate.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Molinillo_de_chocolate_en_Oaxaca.jpg",
+          "title": "File:Molinillo de chocolate en Oaxaca.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Fabricaci%C3%B3n_del_molinillo_de_chocolate_3.jpg",
+          "title": "File:Fabricación del molinillo de chocolate 3.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Fabricaci%C3%B3n_del_molinillo_de_chocolate_2.jpg",
+          "title": "File:Fabricación del molinillo de chocolate 2.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Proceso_de_tallado_del_molinillo_de_chocolate.jpg",
+          "title": "File:Proceso de tallado del molinillo de chocolate.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Detalle_de_un_molinillo_de_madera.jpg",
+          "title": "File:Detalle de un molinillo de madera.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Detalle_del_proceso_de_elaboraci%C3%B3n_de_un_molinillo_de_madera_en_torno.jpg",
+          "title": "File:Detalle del proceso de elaboración de un molinillo de madera en torno.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/beanintropics/5130413267/",
+          "title": "Chocolate de Batirol",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/biagkensiak/3128250506/",
+          "title": "baguio chocolate de batirol 6",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/farmingeek/8646215336/",
+          "title": "Uncooked Cacao Beans",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/biagkensiak/3126133009/",
+          "title": "me at chocolate de batirol baguio",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/biagkensiak/3127424333/",
+          "title": "baguio chocolate de batirol 4",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/biagkensiak/3124943475/",
+          "title": "baguio chocolate e batirol 2",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        }
+      ],
+      "notes": [
+        "No permission requested and no owner contacted. Official/public visibility alone does not grant reuse rights."
+      ],
+      "reason": "No photograph established both the exact place/branch and compatible individual-image reuse rights in the reviewed searches. A supplied photograph with documented rights is needed."
+    },
+    {
+      "placeId": "baguio-hill-station",
+      "approved": false,
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "Hill Station Restaurant",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Hill+Station+Restaurant&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 8
+        },
+        {
+          "provider": "Commons",
+          "query": "Hill Station Baguio",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Hill+Station+Baguio&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 7
+        },
+        {
+          "provider": "Flickr",
+          "query": "Hill Station Restaurant Baguio",
+          "url": "https://www.flickr.com/search/?text=Hill+Station+Restaurant+Baguio&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Hill Station Baguio",
+          "url": "https://www.flickr.com/search/?text=Hill+Station+Baguio&license=4%2C5%2C9%2C10",
+          "count": 12
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=Hill+Station+Baguio&srlimit=4",
+          "categories": [
+            "Category:Votive candle station of Baguio Cathedral",
+            "Category:Photographs by Judgefloro, 2019",
+            "Category:Photographs by Judgefloro, 2019, 2",
+            "Category:Photographs created by Judgefloro, 2020"
+          ]
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=Hill+Station+Restaurant&limit=3",
+          "candidates": []
+        }
+      ],
+      "rejections": [
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Station_Hill,_Bury_St._Edmunds_-_geograph.org.uk_-_995347.jpg",
+          "title": "File:Station Hill, Bury St. Edmunds - geograph.org.uk - 995347.jpg",
+          "reason": "Mt. Cloud Bookshop and generic Baguio streetscapes do not depict the Hill Station restaurant."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Morgan_Hill_station_1427_04.JPG",
+          "title": "File:Morgan Hill station 1427 04.JPG",
+          "reason": "Mt. Cloud Bookshop and generic Baguio streetscapes do not depict the Hill Station restaurant."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Morgan_Hill_station_1428_05.JPG",
+          "title": "File:Morgan Hill station 1428 05.JPG",
+          "reason": "Mt. Cloud Bookshop and generic Baguio streetscapes do not depict the Hill Station restaurant."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Police_Station_Albuquerque_(15347603609).jpg",
+          "title": "File:Police Station Albuquerque (15347603609).jpg",
+          "reason": "Mt. Cloud Bookshop and generic Baguio streetscapes do not depict the Hill Station restaurant."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Gorakh_Restaurant_-_panoramio.jpg",
+          "title": "File:Gorakh Restaurant - panoramio.jpg",
+          "reason": "Mt. Cloud Bookshop and generic Baguio streetscapes do not depict the Hill Station restaurant."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Remnants_of_an_old_restaurant_behind_the_old_Ottawa_station_(20564961219).jpg",
+          "title": "File:Remnants of an old restaurant behind the old Ottawa station (20564961219).jpg",
+          "reason": "Mt. Cloud Bookshop and generic Baguio streetscapes do not depict the Hill Station restaurant."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Former_Esso_petrol_filling_station,_Buckland,_Dover_-_geograph.org.uk_-_2262310.jpg",
+          "title": "File:Former Esso petrol filling station, Buckland, Dover - geograph.org.uk - 2262310.jpg",
+          "reason": "Mt. Cloud Bookshop and generic Baguio streetscapes do not depict the Hill Station restaurant."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Ordering_window_for_McDonald%27s_inside_paid_area_of_Box_Hill_Railway_Station_in_Box_Hill,_Melbourne.jpg",
+          "title": "File:Ordering window for McDonald's inside paid area of Box Hill Railway Station in Box Hill, Melbourne.jpg",
+          "reason": "Mt. Cloud Bookshop and generic Baguio streetscapes do not depict the Hill Station restaurant."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Tuba,Baguio,Benguetjf9976_02.JPG",
+          "title": "File:Tuba,Baguio,Benguetjf9976 02.JPG",
+          "reason": "Mt. Cloud Bookshop and generic Baguio streetscapes do not depict the Hill Station restaurant."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Tuba,Baguio,Benguetjf9976_17.JPG",
+          "title": "File:Tuba,Baguio,Benguetjf9976 17.JPG",
+          "reason": "Mt. Cloud Bookshop and generic Baguio streetscapes do not depict the Hill Station restaurant."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Tuba,Baguio,Benguetjf9976_34.JPG",
+          "title": "File:Tuba,Baguio,Benguetjf9976 34.JPG",
+          "reason": "Mt. Cloud Bookshop and generic Baguio streetscapes do not depict the Hill Station restaurant."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Tuba,Baguio,Benguetjf9976_35.JPG",
+          "title": "File:Tuba,Baguio,Benguetjf9976 35.JPG",
+          "reason": "Mt. Cloud Bookshop and generic Baguio streetscapes do not depict the Hill Station restaurant."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:BaguioCityjf0151_29.JPG",
+          "title": "File:BaguioCityjf0151 29.JPG",
+          "reason": "Mt. Cloud Bookshop and generic Baguio streetscapes do not depict the Hill Station restaurant."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:BaguioCityjf0151_30.JPG",
+          "title": "File:BaguioCityjf0151 30.JPG",
+          "reason": "Mt. Cloud Bookshop and generic Baguio streetscapes do not depict the Hill Station restaurant."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:BaguioCathedraljf0230_29.JPG",
+          "title": "File:BaguioCathedraljf0230 29.JPG",
+          "reason": "Mt. Cloud Bookshop and generic Baguio streetscapes do not depict the Hill Station restaurant."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/jamkablam/15861890928/",
+          "title": "Mt. Cloud Bookshop",
+          "reason": "Mt. Cloud Bookshop and generic Baguio streetscapes do not depict the Hill Station restaurant."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/jamkablam/16023580686/",
+          "title": "Mt. Cloud Bookshop",
+          "reason": "Mt. Cloud Bookshop and generic Baguio streetscapes do not depict the Hill Station restaurant."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/jamkablam/15429695673/",
+          "title": "Mt. Cloud Bookshop",
+          "reason": "Mt. Cloud Bookshop and generic Baguio streetscapes do not depict the Hill Station restaurant."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/jamkablam/15863629297/",
+          "title": "Mt. Cloud Bookshop",
+          "reason": "Mt. Cloud Bookshop and generic Baguio streetscapes do not depict the Hill Station restaurant."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/jamkablam/16047414851/",
+          "title": "Mt. Cloud Bookshop",
+          "reason": "Mt. Cloud Bookshop and generic Baguio streetscapes do not depict the Hill Station restaurant."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/jamkablam/16047417111/",
+          "title": "Mt. Cloud Bookshop",
+          "reason": "Mt. Cloud Bookshop and generic Baguio streetscapes do not depict the Hill Station restaurant."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/jamkablam/15862081770/",
+          "title": "Mt. Cloud Bookshop",
+          "reason": "Mt. Cloud Bookshop and generic Baguio streetscapes do not depict the Hill Station restaurant."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/jamkablam/16023615576/",
+          "title": "Mt. Cloud Bookshop",
+          "reason": "Mt. Cloud Bookshop and generic Baguio streetscapes do not depict the Hill Station restaurant."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/jamkablam/16049343315/",
+          "title": "Mt. Cloud Bookshop",
+          "reason": "Mt. Cloud Bookshop and generic Baguio streetscapes do not depict the Hill Station restaurant."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/jamkablam/16048684392/",
+          "title": "Mt. Cloud Bookshop",
+          "reason": "Mt. Cloud Bookshop and generic Baguio streetscapes do not depict the Hill Station restaurant."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/jamkablam/16023626096/",
+          "title": "Mt. Cloud Bookshop",
+          "reason": "Mt. Cloud Bookshop and generic Baguio streetscapes do not depict the Hill Station restaurant."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/jamkablam/16047409291/",
+          "title": "Mt. Cloud Bookshop",
+          "reason": "Mt. Cloud Bookshop and generic Baguio streetscapes do not depict the Hill Station restaurant."
+        }
+      ],
+      "notes": [
+        "No permission requested and no owner contacted. Official/public visibility alone does not grant reuse rights."
+      ],
+      "reason": "Mt. Cloud Bookshop and generic Baguio streetscapes do not depict the Hill Station restaurant."
+    },
+    {
+      "placeId": "baguio-amare-outlook",
+      "approved": false,
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "Amare La Cucina",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Amare+La+Cucina&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Amare La Cucina Baguio",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Amare+La+Cucina+Baguio&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Amare La Cucina Baguio",
+          "url": "https://www.flickr.com/search/?text=Amare+La+Cucina+Baguio&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Amare Baguio",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Amare+Baguio&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Amare Baguio",
+          "url": "https://www.flickr.com/search/?text=Amare+Baguio&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=Amare+Baguio&srlimit=4",
+          "categories": []
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=Amare+La+Cucina&limit=3",
+          "candidates": []
+        }
+      ],
+      "rejections": [],
+      "notes": [
+        "No permission requested and no owner contacted. Official/public visibility alone does not grant reuse rights."
+      ],
+      "reason": "No photograph established both the exact place/branch and compatible individual-image reuse rights in the reviewed searches. A supplied photograph with documented rights is needed."
+    },
+    {
+      "placeId": "baguio-craft-brewery",
+      "approved": false,
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "Baguio Craft Brewery",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Baguio+Craft+Brewery&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Baguio Craft Brewery Baguio",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Baguio+Craft+Brewery+Baguio&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Baguio Craft Brewery Baguio",
+          "url": "https://www.flickr.com/search/?text=Baguio+Craft+Brewery+Baguio&license=4%2C5%2C9%2C10",
+          "count": 12
+        },
+        {
+          "provider": "Commons",
+          "query": "Baguio Craft",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Baguio+Craft&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 6
+        },
+        {
+          "provider": "Flickr",
+          "query": "Baguio Craft",
+          "url": "https://www.flickr.com/search/?text=Baguio+Craft&license=4%2C5%2C9%2C10",
+          "count": 12
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=Baguio+Craft&srlimit=4",
+          "categories": [
+            "Category:Photographs by Judgefloro, 2019"
+          ]
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=Baguio+Craft+Brewery&limit=3",
+          "candidates": []
+        }
+      ],
+      "rejections": [
+        {
+          "sourcePage": "https://www.flickr.com/photos/jamkablam/15979349877/",
+          "title": "Random Baguio Sights",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/jamkablam/16139265956/",
+          "title": "Random Baguio Sights",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/jamkablam/15978992769/",
+          "title": "Random Baguio Sights",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/jamkablam/15978999049/",
+          "title": "Random Baguio Sights",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/jamkablam/15979322797/",
+          "title": "Random Baguio Sights",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/jamkablam/16165045085/",
+          "title": "Random Baguio Sights",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/jamkablam/16163322521/",
+          "title": "Random Baguio Sights",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/jamkablam/16163172491/",
+          "title": "Random Baguio Sights",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/jamkablam/15542782284/",
+          "title": "Random Baguio Sights",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/jamkablam/16139417466/",
+          "title": "Random Baguio Sights",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/jamkablam/16165066755/",
+          "title": "Random Baguio Sights",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/jamkablam/15979214049/",
+          "title": "Random Baguio Sights",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Loakan_Airport.JPEG",
+          "title": "File:Loakan Airport.JPEG",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Mayor_Domogan_Feb_2018_cropped.jpg",
+          "title": "File:Mayor Domogan Feb 2018 cropped.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Mayor_Domogan_Feb_2018.jpg",
+          "title": "File:Mayor Domogan Feb 2018.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Creative_Baguio_logo_unveiling.jpg",
+          "title": "File:Creative Baguio logo unveiling.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:A_stretcher_team_carries_a_victim_of_the_Pines_Hotel_fire_onto_a_bus_for_transport_to_the_Regional_Medical_Center._Over_200_World_War_II_veterans_and_their_families_were_staying_at_-_DPLA_-_dfa18de5c9fc15d54f6935910e159519.jpeg",
+          "title": "File:A stretcher team carries a victim of the Pines Hotel fire onto a bus for transport to the Regional Medical Center. Over 200 World War II veterans and their families were staying at - DPLA - dfa18de5c9fc15d54f6935910e159519.jpeg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Sundot_kulangot.jpg",
+          "title": "File:Sundot kulangot.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/jamkablam/16139386806/",
+          "title": "Random Baguio Sights",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/jamkablam/16165101855/",
+          "title": "Random Baguio Sights",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        }
+      ],
+      "notes": [
+        "No permission requested and no owner contacted. Official/public visibility alone does not grant reuse rights."
+      ],
+      "reason": "No photograph established both the exact place/branch and compatible individual-image reuse rights in the reviewed searches. A supplied photograph with documented rights is needed."
+    },
+    {
+      "placeId": "baguio-craft-1945",
+      "approved": false,
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "Craft 1945",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Craft+1945&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 8
+        },
+        {
+          "provider": "Commons",
+          "query": "Craft 1945 Baguio",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Craft+1945+Baguio&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Craft 1945 Baguio",
+          "url": "https://www.flickr.com/search/?text=Craft+1945+Baguio&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Craft 1945",
+          "url": "https://www.flickr.com/search/?text=Craft+1945&license=4%2C5%2C9%2C10",
+          "count": 12
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=Craft+1945&srlimit=4",
+          "categories": [
+            "Category:Mark 8 Landing Craft Tank",
+            "Category:Kumano Maru (ship, 1945)",
+            "Category:Santos (ship, 1945)",
+            "Category:HTMS Nakha (LSSL 751)"
+          ]
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=Craft+1945&limit=3",
+          "candidates": []
+        }
+      ],
+      "rejections": [
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:USS-Audubon_Landing-craft-fantail-maneuvers_Feb-1945.png",
+          "title": "File:USS-Audubon Landing-craft-fantail-maneuvers Feb-1945.png",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Scattered_landing_craft_on_beach_of_Iwo_Jima_1945.jpg",
+          "title": "File:Scattered landing craft on beach of Iwo Jima 1945.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:17_SFTS_Souris,_Manitoba_Pilot_circa_1943-1945._Crest_Craft_back-stamp.jpg",
+          "title": "File:17 SFTS Souris, Manitoba Pilot circa 1943-1945. Crest Craft back-stamp.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Landing_craft_passing_USS_Biloxi_(CL-80)_in_1945.jpg",
+          "title": "File:Landing craft passing USS Biloxi (CL-80) in 1945.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Indian_landing_craft_enters_Rangoon_harbour_1945.jpg",
+          "title": "File:Indian landing craft enters Rangoon harbour 1945.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:80-G-259688_Brunei_invasion,_June_1945.jpg",
+          "title": "File:80-G-259688 Brunei invasion, June 1945.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:80-G-K-5859_Brunei_Bay_Invasion,_June_1945._USS_LCS-45_firing_on_the_beaches_as_landing_craft_head_in,_10_June_1945.jpg",
+          "title": "File:80-G-K-5859 Brunei Bay Invasion, June 1945. USS LCS-45 firing on the beaches as landing craft head in, 10 June 1945.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Landing_Craft_Infantry_(Small).jpg",
+          "title": "File:Landing Craft Infantry (Small).jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/usmcarchives/50195634812/",
+          "title": "Landing Craft, circa 1945",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/vintage_illustration/51127609990/",
+          "title": "Head of Buddha (1943) print in high resolution by Reijer Stolk. Original from the Rijksmuseum. Digitally enhanced by rawpixel.",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/vintage_illustration/51126551619/",
+          "title": "Anatomical study of a man&#39;s lateral and arm muscles in silhouette (1906&ndash;1945) print in high resolution by Reijer Stolk. Original from the Rijksmuseum. Digitally enhanced by rawpixel.",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/16118167@N04/50349317156/",
+          "title": "Waves of amphibious tractors (LVTs) and landing craft head for the landing beaches, shortly before H-Hour during the invasion of Iwo Jima, 19 February 1945",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/vintage_illustration/51127609970/",
+          "title": "Portrait of Coba Stolk-Schmidt sitting on a chair (1906&ndash;1945) print in high resolution by Reijer Stolk. Original from the Rijksmuseum. Digitally enhanced by rawpixel.",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/91591049@N00/14363603679/",
+          "title": "1945 Chris-Craft Runabout Boat Advertisement Popular Mechanics January 1945",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/16118167@N04/50046508836/",
+          "title": "Nabigwon (YTB-521) assists USS Ashtabula (AO-51) at Nabason Ammo Pier, Subic Bay, PI. April 1972.",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/queenslandstatearchives/50586355496/",
+          "title": "Pumicestone Passage, Bribie Island, 1974",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/archer10/9370031229/",
+          "title": "Croatia-00596 - Marshal Josip Broz Tito",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/vintage_illustration/51126710378/",
+          "title": "Decorative panel design (1906&ndash;1945) print in high resolution by Reijer Stolk. Original from the Rijksmuseum. Digitally enhanced by rawpixel.",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/usmcarchives/36324609200/",
+          "title": "Wrecked American Landing Craft, Iwo Jima, 1945",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/vintage_illustration/51126550934/",
+          "title": "Dutch Association for the Protection of Animals (1906&ndash;1945) print in high resolution by Reijer Stolk. Original from the Rijksmuseum. Digitally enhanced by rawpixel.",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        }
+      ],
+      "notes": [
+        "No permission requested and no owner contacted. Official/public visibility alone does not grant reuse rights."
+      ],
+      "reason": "No photograph established both the exact place/branch and compatible individual-image reuse rights in the reviewed searches. A supplied photograph with documented rights is needed."
+    },
+    {
+      "placeId": "davao-museo-dabawenyo-area",
+      "approved": false,
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "Museo Dabawenyo Event Center",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Museo+Dabawenyo+Event+Center&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Museo Dabawenyo Event Davao",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Museo+Dabawenyo+Event+Davao&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Museo Dabawenyo Event Center Davao",
+          "url": "https://www.flickr.com/search/?text=Museo+Dabawenyo+Event+Center+Davao&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Museo Dabawenyo",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Museo+Dabawenyo&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 8
+        },
+        {
+          "provider": "Flickr",
+          "query": "Museo Dabawenyo",
+          "url": "https://www.flickr.com/search/?text=Museo+Dabawenyo&license=4%2C5%2C9%2C10",
+          "count": 4
+        },
+        {
+          "provider": "Commons category members",
+          "category": "Category:Museo Dabawenyo",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=categorymembers&gcmtitle=Category%3AMuseo+Dabawenyo&gcmtype=file&gcmlimit=30&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 4
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=Museo+Dabawenyo&srlimit=4",
+          "categories": [
+            "Category:Museo Dabawenyo"
+          ]
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=Museo+Dabawenyo+Event+Center&limit=3",
+          "candidates": []
+        }
+      ],
+      "rejections": [
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Museo_Dabawenyo,_Exhibits,_August_2026-_05.jpg",
+          "title": "File:Museo Dabawenyo, Exhibits, August 2026- 05.jpg",
+          "reason": "Old Museo Dabawenyo photographs and 2026 exhibit labels require exact Event Center venue confirmation; no old-building photograph substituted."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Museo_Dabawenyo,_Exhibits,_August_2026-_08.jpg",
+          "title": "File:Museo Dabawenyo, Exhibits, August 2026- 08.jpg",
+          "reason": "Old Museo Dabawenyo photographs and 2026 exhibit labels require exact Event Center venue confirmation; no old-building photograph substituted."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Museo_Dabawenyo,_Exhibits,_August_2026-_07.jpg",
+          "title": "File:Museo Dabawenyo, Exhibits, August 2026- 07.jpg",
+          "reason": "Old Museo Dabawenyo photographs and 2026 exhibit labels require exact Event Center venue confirmation; no old-building photograph substituted."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Museo_Dabawenyo,_Exhibits,_August_2026-_11.jpg",
+          "title": "File:Museo Dabawenyo, Exhibits, August 2026- 11.jpg",
+          "reason": "Old Museo Dabawenyo photographs and 2026 exhibit labels require exact Event Center venue confirmation; no old-building photograph substituted."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Museo_Dabawenyo,_Exhibits,_August_2026-_12.jpg",
+          "title": "File:Museo Dabawenyo, Exhibits, August 2026- 12.jpg",
+          "reason": "Old Museo Dabawenyo photographs and 2026 exhibit labels require exact Event Center venue confirmation; no old-building photograph substituted."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Museo_Dabawenyo,_Exhibits,_August_2026-_13.jpg",
+          "title": "File:Museo Dabawenyo, Exhibits, August 2026- 13.jpg",
+          "reason": "Old Museo Dabawenyo photographs and 2026 exhibit labels require exact Event Center venue confirmation; no old-building photograph substituted."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Museo_Dabawenyo,_Exhibits,_August_2026-_25.jpg",
+          "title": "File:Museo Dabawenyo, Exhibits, August 2026- 25.jpg",
+          "reason": "Old Museo Dabawenyo photographs and 2026 exhibit labels require exact Event Center venue confirmation; no old-building photograph substituted."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Museo_Dabawenyo_Signage.jpg",
+          "title": "File:Museo Dabawenyo Signage.jpg",
+          "reason": "Old Museo Dabawenyo photographs and 2026 exhibit labels require exact Event Center venue confirmation; no old-building photograph substituted."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/shankaronline/9105909664/",
+          "title": "Museo Dabawenyo",
+          "reason": "Old Museo Dabawenyo photographs and 2026 exhibit labels require exact Event Center venue confirmation; no old-building photograph substituted."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/shankaronline/9103678899/",
+          "title": "Museo Dabawenyo",
+          "reason": "Old Museo Dabawenyo photographs and 2026 exhibit labels require exact Event Center venue confirmation; no old-building photograph substituted."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/shankaronline/9103677847/",
+          "title": "Painting made from spiky Durian skin",
+          "reason": "Old Museo Dabawenyo photographs and 2026 exhibit labels require exact Event Center venue confirmation; no old-building photograph substituted."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/kitoy/2742994369/",
+          "title": "A Tribute",
+          "reason": "Old Museo Dabawenyo photographs and 2026 exhibit labels require exact Event Center venue confirmation; no old-building photograph substituted."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Philippine_Eagle_wingspan_museum_photo_at_Davao_City_Museum.jpg",
+          "title": "File:Philippine Eagle wingspan museum photo at Davao City Museum.jpg",
+          "reason": "Old Museo Dabawenyo photographs and 2026 exhibit labels require exact Event Center venue confirmation; no old-building photograph substituted."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Gong_by_the_Tribes_of_Davao.jpg",
+          "title": "File:Gong by the Tribes of Davao.jpg",
+          "reason": "Old Museo Dabawenyo photographs and 2026 exhibit labels require exact Event Center venue confirmation; no old-building photograph substituted."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Philippine_Eagle_at_the_Davao_Ciity_Museum_(_Taxidermed).jpg",
+          "title": "File:Philippine Eagle at the Davao Ciity Museum ( Taxidermed).jpg",
+          "reason": "Old Museo Dabawenyo photographs and 2026 exhibit labels require exact Event Center venue confirmation; no old-building photograph substituted."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Assorted_Jars_displayed_at_the_Savao_Ciry_Museum.jpg",
+          "title": "File:Assorted Jars displayed at the Savao Ciry Museum.jpg",
+          "reason": "Old Museo Dabawenyo photographs and 2026 exhibit labels require exact Event Center venue confirmation; no old-building photograph substituted."
+        }
+      ],
+      "notes": [
+        "No permission requested and no owner contacted. Official/public visibility alone does not grant reuse rights."
+      ],
+      "reason": "Old Museo Dabawenyo photographs and 2026 exhibit labels require exact Event Center venue confirmation; no old-building photograph substituted."
+    },
+    {
+      "placeId": "davao-bone-collector-museum",
+      "approved": false,
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "D Bone Collector Museum",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=D+Bone+Collector+Museum&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "D Bone Collector Davao",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=D+Bone+Collector+Davao&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "D Bone Collector Museum Davao",
+          "url": "https://www.flickr.com/search/?text=D+Bone+Collector+Museum+Davao&license=4%2C5%2C9%2C10",
+          "count": 1
+        },
+        {
+          "provider": "Commons",
+          "query": "Bone Collector Davao",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Bone+Collector+Davao&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Bone Collector Davao",
+          "url": "https://www.flickr.com/search/?text=Bone+Collector+Davao&license=4%2C5%2C9%2C10",
+          "count": 1
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=Bone+Collector+Davao&srlimit=4",
+          "categories": []
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=D+Bone+Collector+Museum&limit=3",
+          "candidates": []
+        }
+      ],
+      "rejections": [
+        {
+          "sourcePage": "https://www.flickr.com/photos/90412460@N00/16135543292/",
+          "title": "D' Bone Collector Museum Inc., Davao City, Philippines",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        }
+      ],
+      "notes": [
+        "No permission requested and no owner contacted. Official/public visibility alone does not grant reuse rights."
+      ],
+      "reason": "No photograph established both the exact place/branch and compatible individual-image reuse rights in the reviewed searches. A supplied photograph with documented rights is needed."
+    },
+    {
+      "placeId": "davao-rizal-park",
+      "approved": false,
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "Rizal Park",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Rizal+Park&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 8
+        },
+        {
+          "provider": "Commons",
+          "query": "Rizal Davao",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Rizal+Davao&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 8
+        },
+        {
+          "provider": "Flickr",
+          "query": "Rizal Park Davao",
+          "url": "https://www.flickr.com/search/?text=Rizal+Park+Davao&license=4%2C5%2C9%2C10",
+          "count": 7
+        },
+        {
+          "provider": "Commons",
+          "query": "Rizal Park Davao",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Rizal+Park+Davao&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 8
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=Rizal+Park+Davao&srlimit=4",
+          "categories": [
+            "Category:Bukidnon",
+            "Category:Maps of Bukidnon",
+            "Category:Photographs by Judgefloro, 2019",
+            "Category:Photographs by E911a"
+          ]
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=Rizal+Park&limit=3",
+          "candidates": [
+            {
+              "id": "Q2306339",
+              "label": "Rizal Park",
+              "description": "historic urban park in Manila, Philippines",
+              "url": "http://www.wikidata.org/entity/Q2306339"
+            },
+            {
+              "id": "Q46993467",
+              "label": "Rizal Park",
+              "description": "public park in Daet, Camarines Norte, Philippines",
+              "url": "http://www.wikidata.org/entity/Q46993467"
+            },
+            {
+              "id": "Q21934985",
+              "label": "Rizal Park",
+              "description": "park in Rosemeadow, Campbelltown, New South Wales, Australia",
+              "url": "http://www.wikidata.org/entity/Q21934985"
+            }
+          ]
+        }
+      ],
+      "rejections": [
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Rizal_Monument_at_Rizal_Park.jpg",
+          "title": "File:Rizal Monument at Rizal Park.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:RizalParkManila20190521.jpg",
+          "title": "File:RizalParkManila20190521.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:RIZAL_PARK_IN_BAGUIO_CITY.jpg",
+          "title": "File:RIZAL PARK IN BAGUIO CITY.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Manila,_Rizal_Park_skyline,_Philippines.jpg",
+          "title": "File:Manila, Rizal Park skyline, Philippines.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Manila,_Rizal_Park,_Philippines.jpg",
+          "title": "File:Manila, Rizal Park, Philippines.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Manila,_Rizal_Park_2,_Philippines.jpg",
+          "title": "File:Manila, Rizal Park 2, Philippines.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Manila,_Rizal_Park_3,_Philippines.jpg",
+          "title": "File:Manila, Rizal Park 3, Philippines.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Rizal_Monument_(Manila,_2024).jpg",
+          "title": "File:Rizal Monument (Manila, 2024).jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Rizal_Park_in_Sta._Cruz.JPG",
+          "title": "File:Rizal Park in Sta. Cruz.JPG",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Davao_City_Hall_night_view_(San_Pedro,_Davao_City,_08-18-2023).jpg",
+          "title": "File:Davao City Hall night view (San Pedro, Davao City, 08-18-2023).jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Digos_Poblacion,_Rizal_Avenue-Roxas_(Digos,_Davao_Del_Sur;_08-17-2023).jpg",
+          "title": "File:Digos Poblacion, Rizal Avenue-Roxas (Digos, Davao Del Sur; 08-17-2023).jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Mati_Central,_Rizal_Street_(Mati,_Davao_Oriental;_04-20-2024).jpg",
+          "title": "File:Mati Central, Rizal Street (Mati, Davao Oriental; 04-20-2024).jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Davao_Poblacion_District,_CM_Recto-Rizal_Street_southbound_(Davao_City;_04-21-2024).jpg",
+          "title": "File:Davao Poblacion District, CM Recto-Rizal Street southbound (Davao City; 04-21-2024).jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Davao_Poblacion_District,_CM_Recto-Rizal_Street_(Davao_City;_04-21-2024).jpg",
+          "title": "File:Davao Poblacion District, CM Recto-Rizal Street (Davao City; 04-21-2024).jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Tagum_Magupo,_Rizal_Street-Pioneer_(Tagum,_Davao_Del_Norte;_08-18-2023).jpg",
+          "title": "File:Tagum Magupo, Rizal Street-Pioneer (Tagum, Davao Del Norte; 08-18-2023).jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Davao_Poblacion_District,_C._Bangoy-JP_Rizal_NB_drone_(Davao_City;_03-23-2026).jpg",
+          "title": "File:Davao Poblacion District, C. Bangoy-JP Rizal NB drone (Davao City; 03-23-2026).jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/shankaronline/9361864055/",
+          "title": "Rizal Park entrance",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/shankaronline/9103454951/",
+          "title": "Rizal Park stage on San Pedro shopping street",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/89715795@N02/8290283622/",
+          "title": "Aftermath of Typhoon Pablo (Bopha) - Cateel, Davao Oriental",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/90412460@N00/9056761075/",
+          "title": "Jose Rizal : National Hero with a Style",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/kitoy/2299344917/",
+          "title": "relax relax lang",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/londonlaunchpad/6072467225/",
+          "title": "Jose Rizal",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/89715795@N02/8289206313/",
+          "title": "Aftermath of Typhoon Pablo (Bopha) - Cateel, Davao Oriental",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Rodrigo_Duterte_Benigno_Aquino_III_03.jpg",
+          "title": "File:Rodrigo Duterte Benigno Aquino III 03.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Rodrigo_Duterte_Benigno_Aquino_III_01.jpg",
+          "title": "File:Rodrigo Duterte Benigno Aquino III 01.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Rodrigo_Duterte_Benigno_Aquino_III_02.jpg",
+          "title": "File:Rodrigo Duterte Benigno Aquino III 02.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Rodrigo_Duterte_2013.jpg",
+          "title": "File:Rodrigo Duterte 2013.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:67Philippine_Independence_Day,_Rizal_Park_26.jpg",
+          "title": "File:67Philippine Independence Day, Rizal Park 26.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:67Philippine_Independence_Day,_Rizal_Park_27.jpg",
+          "title": "File:67Philippine Independence Day, Rizal Park 27.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Cateel_Rizal_Park_after_Typhoon_Pablo_(Bopha)_-_Flickr.jpg",
+          "title": "File:Cateel Rizal Park after Typhoon Pablo (Bopha) - Flickr.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        }
+      ],
+      "notes": [
+        "No permission requested and no owner contacted. Official/public visibility alone does not grant reuse rights."
+      ],
+      "reason": "No photograph established both the exact place/branch and compatible individual-image reuse rights in the reviewed searches. A supplied photograph with documented rights is needed."
+    },
+    {
+      "placeId": "davao-imin-museum",
+      "approved": false,
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "IMIN Philippine–Japan Historical Museum",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=IMIN+Philippine%E2%80%93Japan+Historical+Museum&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "IMIN Philippine–Japan Historical Davao",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=IMIN+Philippine%E2%80%93Japan+Historical+Davao&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "IMIN Philippine–Japan Historical Museum Davao",
+          "url": "https://www.flickr.com/search/?text=IMIN+Philippine%E2%80%93Japan+Historical+Museum+Davao&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "IMIN Davao",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=IMIN+Davao&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "IMIN Davao",
+          "url": "https://www.flickr.com/search/?text=IMIN+Davao&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=IMIN+Davao&srlimit=4",
+          "categories": []
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=IMIN+Philippine%E2%80%93Japan+Historical+Museum&limit=3",
+          "candidates": []
+        }
+      ],
+      "rejections": [],
+      "notes": [
+        "No permission requested and no owner contacted. Official/public visibility alone does not grant reuse rights."
+      ],
+      "reason": "No photograph established both the exact place/branch and compatible individual-image reuse rights in the reviewed searches. A supplied photograph with documented rights is needed."
+    },
+    {
+      "placeId": "davao-gap-farm",
+      "approved": false,
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "GAP Farm Resort",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=GAP+Farm+Resort&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "GAP Farm Resort Davao",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=GAP+Farm+Resort+Davao&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "GAP Farm Resort Davao",
+          "url": "https://www.flickr.com/search/?text=GAP+Farm+Resort+Davao&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "GAP Farm",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=GAP+Farm&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 6
+        },
+        {
+          "provider": "Flickr",
+          "query": "GAP Farm",
+          "url": "https://www.flickr.com/search/?text=GAP+Farm&license=4%2C5%2C9%2C10",
+          "count": 12
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=GAP+Farm&srlimit=4",
+          "categories": [
+            "Category:Judith Gap Wind Farm",
+            "Category:Coopers Gap Wind Farm",
+            "Category:Gap View Farm (Charles Town, West Virginia)",
+            "Category:Farm to Market Road 1238"
+          ]
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=GAP+Farm+Resort&limit=3",
+          "candidates": []
+        }
+      ],
+      "rejections": [
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Gap_View_Farm.jpg",
+          "title": "File:Gap View Farm.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Jury%27s_Gap_Farm_-_geograph.org.uk_-_1873593.jpg",
+          "title": "File:Jury's Gap Farm - geograph.org.uk - 1873593.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Jury%27s_Gap_Farm_-_geograph.org.uk_-_2433829.jpg",
+          "title": "File:Jury's Gap Farm - geograph.org.uk - 2433829.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Old_farm,_Gap_of_Dunloe_-_geograph.org.uk_-_2501129.jpg",
+          "title": "File:Old farm, Gap of Dunloe - geograph.org.uk - 2501129.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Coopers_Gap_Wind_Farm.jpg",
+          "title": "File:Coopers Gap Wind Farm.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Jury%27s_Gap_Farm_-_geograph.org.uk_-_5031733.jpg",
+          "title": "File:Jury's Gap Farm - geograph.org.uk - 5031733.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/nicholas_t/426070236/",
+          "title": "Idle",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/footloosiety/6395998571/",
+          "title": "Judith Gap Wind Farm",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/photommo/21914868882/",
+          "title": "Inside The Silo",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/photommo/23304841871/",
+          "title": "Lennington Barn",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/129472387@N07/51367482970/",
+          "title": "A Dusting Of Snow On Wharite Peak...",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/157013498@N02/52496178345/",
+          "title": "Mustering the Rohirrim",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/kenlund/98468982/",
+          "title": "Cumberland River, U.S. Route 231, Tennessee",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/davidstanleytravel/49268114113/",
+          "title": "Kissane Sheep Farm",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/kenlund/98469372/",
+          "title": "Cumberland River, U.S. Route 231, Tennessee",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/kenlund/98469080/",
+          "title": "Cumberland River, U.S. Route 231, Tennessee",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/kenlund/98468875/",
+          "title": "Cumberland River, U.S. Route 231, Tennessee",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/157013498@N02/52498452333/",
+          "title": "Rohirrim 2",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        }
+      ],
+      "notes": [
+        "No permission requested and no owner contacted. Official/public visibility alone does not grant reuse rights."
+      ],
+      "reason": "No photograph established both the exact place/branch and compatible individual-image reuse rights in the reviewed searches. A supplied photograph with documented rights is needed."
+    },
+    {
+      "placeId": "davao-dleonor-inland-resort",
+      "approved": false,
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "DLeonor Inland Resort and Adventure Park",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=DLeonor+Inland+Resort+and+Adventure+Park&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "DLeonor Inland Resort Davao",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=DLeonor+Inland+Resort+Davao&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "DLeonor Inland Resort and Adventure Park Davao",
+          "url": "https://www.flickr.com/search/?text=DLeonor+Inland+Resort+and+Adventure+Park+Davao&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Leonor Davao",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Leonor+Davao&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 4
+        },
+        {
+          "provider": "Flickr",
+          "query": "Leonor Davao",
+          "url": "https://www.flickr.com/search/?text=Leonor+Davao&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=Leonor+Davao&srlimit=4",
+          "categories": []
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=DLeonor+Inland+Resort+and+Adventure+Park&limit=3",
+          "candidates": []
+        }
+      ],
+      "rejections": [
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Ph5-081716-cado5.jpg",
+          "title": "File:Ph5-081716-cado5.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Ph3-081716-cado3.jpg",
+          "title": "File:Ph3-081716-cado3.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Cabinet_Secretary_Leoncio_Evasco_Jr._welcomes_Vice-President_Maria_Leonor_Robredo.jpg",
+          "title": "File:Cabinet Secretary Leoncio Evasco Jr. welcomes Vice-President Maria Leonor Robredo.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Vice-President_and_Housing_and_Urban_Development_Coordinating_Council_Chairperson_Maria_Leonor_Robredo.jpg",
+          "title": "File:Vice-President and Housing and Urban Development Coordinating Council Chairperson Maria Leonor Robredo.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        }
+      ],
+      "notes": [
+        "No permission requested and no owner contacted. Official/public visibility alone does not grant reuse rights."
+      ],
+      "reason": "No photograph established both the exact place/branch and compatible individual-image reuse rights in the reviewed searches. A supplied photograph with documented rights is needed."
+    },
+    {
+      "placeId": "davao-japanese-tunnel",
+      "approved": true,
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "D Japanese Tunnel",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=D+Japanese+Tunnel&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 8
+        },
+        {
+          "provider": "Commons",
+          "query": "D Japanese Tunnel Davao",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=D+Japanese+Tunnel+Davao&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "D Japanese Tunnel Davao",
+          "url": "https://www.flickr.com/search/?text=D+Japanese+Tunnel+Davao&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Japanese tunnel Davao",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Japanese+tunnel+Davao&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 7
+        },
+        {
+          "provider": "Flickr",
+          "query": "Japanese tunnel Davao",
+          "url": "https://www.flickr.com/search/?text=Japanese+tunnel+Davao&license=4%2C5%2C9%2C10",
+          "count": 7
+        },
+        {
+          "provider": "Commons category members",
+          "category": "Category:Japanese Tunnel Davao",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=categorymembers&gcmtitle=Category%3AJapanese+Tunnel+Davao&gcmtype=file&gcmlimit=30&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 7
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=Japanese+tunnel+Davao&srlimit=4",
+          "categories": [
+            "Category:Japanese Tunnel Davao"
+          ]
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=D+Japanese+Tunnel&limit=3",
+          "candidates": []
+        }
+      ],
+      "rejections": [
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Variable_Density_Tunnel,_Being_Used_by_NASA_Staff_DVIDS718694.jpg",
+          "title": "File:Variable Density Tunnel, Being Used by NASA Staff DVIDS718694.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Anti-Japanese_War_Tunnel_Warfare_Diorama_(9885480805).jpg",
+          "title": "File:Anti-Japanese War Tunnel Warfare Diorama (9885480805).jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Anti-Japanese_War_Tunnel_Warfare_Diorama_(9885583943).jpg",
+          "title": "File:Anti-Japanese War Tunnel Warfare Diorama (9885583943).jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Anti-Japanese_War_Tunnel_Warfare_Diorama_(9885473855).jpg",
+          "title": "File:Anti-Japanese War Tunnel Warfare Diorama (9885473855).jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Bayan_Bunker,_WWII_Japanese_Command_Bunker_Near_Japanese_Airbase,_Mindanao,_Philippines_-_Opening_to_Tunnel_13l.jpg",
+          "title": "File:Bayan Bunker, WWII Japanese Command Bunker Near Japanese Airbase, Mindanao, Philippines - Opening to Tunnel 13l.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Daikonjima_Island_No._2_lava_tube_tunnel._Cave_entrance_appearance._D.jpg",
+          "title": "File:Daikonjima Island No. 2 lava tube tunnel. Cave entrance appearance. D.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Manazuru_tunnel,_East_entilation_tower.jpg",
+          "title": "File:Manazuru tunnel, East entilation tower.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Manazuru_tunnel,_West_entilation_tower.jpg",
+          "title": "File:Manazuru tunnel, West entilation tower.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Japanese_Tunnel_Davao_Armory.jpg",
+          "title": "File:Japanese Tunnel Davao Armory.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Japanese_Tunnel_Davao_Conference_Room.jpg",
+          "title": "File:Japanese Tunnel Davao Conference Room.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Japanese_Tunnel_Davao_Prayer_Room.jpg",
+          "title": "File:Japanese Tunnel Davao Prayer Room.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Japanese_Tunnel_Davao_End_of_Tunnel.jpg",
+          "title": "File:Japanese Tunnel Davao End of Tunnel.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Japanese_Tunnel_Davao_Prison.jpg",
+          "title": "File:Japanese Tunnel Davao Prison.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Japanese_Tunnel_Davao_Well_Area.jpg",
+          "title": "File:Japanese Tunnel Davao Well Area.jpg",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/burgermac/3032102094/",
+          "title": "japanese tunnel davao",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/burgermac/3031263189/",
+          "title": "japanese tunnel davao",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/burgermac/3032102506/",
+          "title": "japanese tunnel davao",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/burgermac/3032101506/",
+          "title": "japanese tunnel davao",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/90412460@N00/8813052783/",
+          "title": "Japanese Tunnel in Davao City",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/burgermac/2834435007/",
+          "title": "isla reta philippines davao",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/burgermac/2835270246/",
+          "title": "japanese tannel enter philippines davao",
+          "reason": "Not selected: the approved image provides a clearer exact-place view; no additional photograph needed for this pass."
+        }
+      ],
+      "notes": [],
+      "visuallyReviewed": true,
+      "licenseReviewed": true,
+      "identityEvidence": [
+        "https://commons.wikimedia.org/wiki/File:Japanese_Tunnel_Davao_Opening.jpg"
+      ],
+      "identityReview": "Individual file names the Davao tunnel, belongs to its exact category and has coordinates 7.065304, 125.569374. Visually reviewed the actual tunnel corridor and opening.",
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Japanese_Tunnel_Davao_Opening.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Japanese_Tunnel_Davao_Opening.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "RoyKabanlit",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "RoyKabanlit / Wikimedia Commons / CC BY-SA 4.0. Resized and JPEG compressed.",
+        "alt": "Lit passage near the opening of the Japanese Tunnel in Davao City"
+      },
+      "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Japanese_Tunnel_Davao_Opening.jpg/1280px-Japanese_Tunnel_Davao_Opening.jpg",
+      "individualSourceEvidence": {
+        "api": "https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=1280&titles=File%3AJapanese_Tunnel_Davao_Opening.jpg",
+        "parseUrl": "https://commons.wikimedia.org/w/api.php?action=parse&format=json&page=File%3AJapanese_Tunnel_Davao_Opening.jpg&prop=wikitext",
+        "description": "Near the opening of the Japanese Tunnel.",
+        "categories": "Self-published work|Files with coordinates missing SDC location of creation|Japanese Tunnel Davao",
+        "latitude": "7.065304",
+        "longitude": "125.569374",
+        "licenseDeclaration": "=={{int:filedesc}}==\n{{Information\n|description={{en|1=Near the opening of the Japanese Tunnel.}}\n|date=2018-08-12 10:52:34\n|source={{own}}\n|author=[[User:RoyKabanlit|RoyKabanlit]]\n|permission=\n|other versions=\n}}\n{{Location|7.065304|125.569374}}\n\n=={{int:license-header}}==\n{{self|cc-by-sa-4.0}}\n\n[[Category:Japanese Tunnel Davao]]",
+        "requiredAttribution": ""
+      }
+    },
+    {
+      "placeId": "davao-poblacion-market-central",
+      "approved": false,
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "Poblacion Market Central",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Poblacion+Market+Central&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 8
+        },
+        {
+          "provider": "Commons",
+          "query": "Poblacion Market Central Davao",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Poblacion+Market+Central+Davao&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Poblacion Market Central Davao",
+          "url": "https://www.flickr.com/search/?text=Poblacion+Market+Central+Davao&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Poblacion Market Davao",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Poblacion+Market+Davao&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 1
+        },
+        {
+          "provider": "Flickr",
+          "query": "Poblacion Market Davao",
+          "url": "https://www.flickr.com/search/?text=Poblacion+Market+Davao&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=Poblacion+Market+Davao&srlimit=4",
+          "categories": [
+            "Category:Roxas Avenue Night Market",
+            "Category:Photographs by Judgefloro, 2019",
+            "Category:Photographs created by Judgefloro - October-December, 2020"
+          ]
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=Poblacion+Market+Central&limit=3",
+          "candidates": []
+        }
+      ],
+      "rejections": [
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:9719Binalonan_Poblacion_Central_30.jpg",
+          "title": "File:9719Binalonan Poblacion Central 30.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:9719Binalonan_Poblacion_Central_37.jpg",
+          "title": "File:9719Binalonan Poblacion Central 37.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:9792Binalonan_Poblacion_Central_08.jpg",
+          "title": "File:9792Binalonan Poblacion Central 08.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:9792Binalonan_Poblacion_Central_12.jpg",
+          "title": "File:9792Binalonan Poblacion Central 12.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:9792Binalonan_Poblacion_Central_15.jpg",
+          "title": "File:9792Binalonan Poblacion Central 15.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:9792Binalonan_Poblacion_Central_20.jpg",
+          "title": "File:9792Binalonan Poblacion Central 20.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:9792Binalonan_Poblacion_Central_28.jpg",
+          "title": "File:9792Binalonan Poblacion Central 28.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:8122Mapandan_Poblacion_Central_17.jpg",
+          "title": "File:8122Mapandan Poblacion Central 17.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Panabo_City_Frux_Food_Products10.jpg",
+          "title": "File:Panabo City Frux Food Products10.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        }
+      ],
+      "notes": [
+        "No permission requested and no owner contacted. Official/public visibility alone does not grant reuse rights."
+      ],
+      "reason": "No photograph established both the exact place/branch and compatible individual-image reuse rights in the reviewed searches. A supplied photograph with documented rights is needed."
+    },
+    {
+      "placeId": "davao-bago-esplanade",
+      "approved": false,
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "Bago Esplanade",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Bago+Esplanade&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Bago Esplanade Davao",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Bago+Esplanade+Davao&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Bago Esplanade Davao",
+          "url": "https://www.flickr.com/search/?text=Bago+Esplanade+Davao&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Bago Esplanade",
+          "url": "https://www.flickr.com/search/?text=Bago+Esplanade&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=Bago+Esplanade&srlimit=4",
+          "categories": []
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=Bago+Esplanade&limit=3",
+          "candidates": []
+        }
+      ],
+      "rejections": [],
+      "notes": [
+        "No permission requested and no owner contacted. Official/public visibility alone does not grant reuse rights."
+      ],
+      "reason": "No photograph established both the exact place/branch and compatible individual-image reuse rights in the reviewed searches. A supplied photograph with documented rights is needed."
+    },
+    {
+      "placeId": "davao-gulf-view-esplanade",
+      "approved": false,
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "Gulf View Esplanade",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Gulf+View+Esplanade&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 2
+        },
+        {
+          "provider": "Commons",
+          "query": "Gulf View Esplanade Davao",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Gulf+View+Esplanade+Davao&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Gulf View Esplanade Davao",
+          "url": "https://www.flickr.com/search/?text=Gulf+View+Esplanade+Davao&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Gulf View Davao",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Gulf+View+Davao&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 6
+        },
+        {
+          "provider": "Flickr",
+          "query": "Gulf View Davao",
+          "url": "https://www.flickr.com/search/?text=Gulf+View+Davao&license=4%2C5%2C9%2C10",
+          "count": 1
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=Gulf+View+Davao&srlimit=4",
+          "categories": [
+            "Category:Blue Bird Deck View",
+            "Category:Photographs by Judgefloro, 2019"
+          ]
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=Gulf+View+Esplanade&limit=3",
+          "candidates": []
+        }
+      ],
+      "rejections": [
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:The_western_pilot_-_containing_charts_of_the_Ohio_River,_and_of_the_Mississippi,_from_the_mouth_of_the_Missouri_to_the_Gulf_of_Mexico;_accompanied_with_directions_for_navigating_the_same,_and_a_(14767148391).jpg",
+          "title": "File:The western pilot - containing charts of the Ohio River, and of the Mississippi, from the mouth of the Missouri to the Gulf of Mexico; accompanied with directions for navigating the same, and a (14767148391).jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:The_Persian_Gulf_and_South_Sea_Isles_(1904)_(14577688749).jpg",
+          "title": "File:The Persian Gulf and South Sea Isles (1904) (14577688749).jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Gulf_of_davao.jpg",
+          "title": "File:Gulf of davao.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Pterynotus_elongatus_01.JPG",
+          "title": "File:Pterynotus elongatus 01.JPG",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:A_view_to_die_for,_literally--_Gulf_of_Davao_(9105938170).jpg",
+          "title": "File:A view to die for, literally-- Gulf of Davao (9105938170).jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Blue_Bird_View_Deck_002.jpg",
+          "title": "File:Blue Bird View Deck 002.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Blue_Bird_View_Deck_001.jpg",
+          "title": "File:Blue Bird View Deck 001.jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Davao_Gulf_(14634526362).jpg",
+          "title": "File:Davao Gulf (14634526362).jpg",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/shankaronline/9105938170/",
+          "title": "A view to die for, literally-- Gulf of Davao",
+          "reason": "Unapproved search metadata: exact-place/branch identity or a useful documentary subject was not established. No image copied."
+        }
+      ],
+      "notes": [
+        "No permission requested and no owner contacted. Official/public visibility alone does not grant reuse rights."
+      ],
+      "reason": "No photograph established both the exact place/branch and compatible individual-image reuse rights in the reviewed searches. A supplied photograph with documented rights is needed."
+    },
+    {
+      "placeId": "davao-marfori-botanical-garden",
+      "approved": false,
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "Davao City Botanical Park",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Davao+City+Botanical+Park&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 1
+        },
+        {
+          "provider": "Commons",
+          "query": "Davao City Botanical Davao",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Davao+City+Botanical+Davao&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 1
+        },
+        {
+          "provider": "Flickr",
+          "query": "Davao City Botanical Park Davao",
+          "url": "https://www.flickr.com/search/?text=Davao+City+Botanical+Park+Davao&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons",
+          "query": "Marfori garden",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Marfori+garden&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Marfori garden",
+          "url": "https://www.flickr.com/search/?text=Marfori+garden&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=Marfori+garden&srlimit=4",
+          "categories": [
+            "Category:Photographs by Judgefloro, 2019",
+            "Category:Photographs by Judgefloro, 2019, 2"
+          ]
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=Davao+City+Botanical+Park&limit=3",
+          "candidates": []
+        }
+      ],
+      "rejections": [
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Guide_to_the_nature_treasures_of_New_York_city;_American_museum_of_natural_history,_New_York_aquarium,_New_York_zo%C3%B6logicl_park_and_Botanical_garden,_Brooklyn_museum,_Botanic_garden_and_Children%27s_(14800701333).jpg",
+          "title": "File:Guide to the nature treasures of New York city; American museum of natural history, New York aquarium, New York zoölogicl park and Botanical garden, Brooklyn museum, Botanic garden and Children's (14800701333).jpg",
+          "reason": "Rejected New York botanical-garden material; it does not show Marfori in Davao."
+        }
+      ],
+      "notes": [
+        "No permission requested and no owner contacted. Official/public visibility alone does not grant reuse rights."
+      ],
+      "reason": "Rejected New York botanical-garden material; it does not show Marfori in Davao."
+    },
+    {
+      "placeId": "davao-toril-park",
+      "approved": false,
+      "sourcesSearched": [
+        {
+          "provider": "Commons",
+          "query": "Toril Park",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Toril+Park&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 3
+        },
+        {
+          "provider": "Commons",
+          "query": "Toril Davao",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Toril+Davao&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 7
+        },
+        {
+          "provider": "Flickr",
+          "query": "Toril Park Davao",
+          "url": "https://www.flickr.com/search/?text=Toril+Park+Davao&license=4%2C5%2C9%2C10",
+          "count": 0
+        },
+        {
+          "provider": "Flickr",
+          "query": "Toril Park",
+          "url": "https://www.flickr.com/search/?text=Toril+Park&license=4%2C5%2C9%2C10",
+          "count": 1
+        },
+        {
+          "provider": "Commons categories",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&list=search&srnamespace=14&srsearch=Toril+Park&srlimit=4",
+          "categories": []
+        },
+        {
+          "provider": "Wikidata",
+          "url": "https://www.wikidata.org/w/api.php?action=wbsearchentities&format=json&language=en&search=Toril+Park&limit=3",
+          "candidates": []
+        }
+      ],
+      "rejections": [
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Parque_del_Toril.jpg",
+          "title": "File:Parque del Toril.jpg",
+          "reason": "Eden Nature Park, a power plant, chocolate products and Toril streets are different places from Toril Park."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Eden_Nature_Park_panorama.jpg",
+          "title": "File:Eden Nature Park panorama.jpg",
+          "reason": "Eden Nature Park, a power plant, chocolate products and Toril streets are different places from Toril Park."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Cabin_in_Eden.jpg",
+          "title": "File:Cabin in Eden.jpg",
+          "reason": "Eden Nature Park, a power plant, chocolate products and Toril streets are different places from Toril Park."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Toril_Hetland_Akerhaugen_02849.JPG",
+          "title": "File:Toril Hetland Akerhaugen 02849.JPG",
+          "reason": "Eden Nature Park, a power plant, chocolate products and Toril streets are different places from Toril Park."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Toril,_Teruel_04.jpg",
+          "title": "File:Toril, Teruel 04.jpg",
+          "reason": "Eden Nature Park, a power plant, chocolate products and Toril streets are different places from Toril Park."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Toril,_Teruel_08.jpg",
+          "title": "File:Toril, Teruel 08.jpg",
+          "reason": "Eden Nature Park, a power plant, chocolate products and Toril streets are different places from Toril Park."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Therma_South_Power_Plant_from_air_(Toril,_Davao_City;_11-24-2021).jpg",
+          "title": "File:Therma South Power Plant from air (Toril, Davao City; 11-24-2021).jpg",
+          "reason": "Eden Nature Park, a power plant, chocolate products and Toril streets are different places from Toril Park."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Milk_chocolate_Coco_Dolce_Davao_Toril_Binugao3.jpg",
+          "title": "File:Milk chocolate Coco Dolce Davao Toril Binugao3.jpg",
+          "reason": "Eden Nature Park, a power plant, chocolate products and Toril streets are different places from Toril Park."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Davao_City,_Toril.jpg",
+          "title": "File:Davao City, Toril.jpg",
+          "reason": "Eden Nature Park, a power plant, chocolate products and Toril streets are different places from Toril Park."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Retro_95.5_Davao_billboard.jpg",
+          "title": "File:Retro 95.5 Davao billboard.jpg",
+          "reason": "Eden Nature Park, a power plant, chocolate products and Toril streets are different places from Toril Park."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/fannsaw/10020201506/",
+          "title": "Winter Wonderland at Tokyo",
+          "reason": "Eden Nature Park, a power plant, chocolate products and Toril streets are different places from Toril Park."
+        }
+      ],
+      "notes": [
+        "No permission requested and no owner contacted. Official/public visibility alone does not grant reuse rights."
+      ],
+      "reason": "Eden Nature Park, a power plant, chocolate products and Toril streets are different places from Toril Park."
+    }
+  ]
+}

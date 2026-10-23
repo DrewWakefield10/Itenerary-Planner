@@ -1,0 +1,32 @@
+{
+  "checkedOn": "2026-10-22",
+  "scope": "Supplementary source discovery and reuse screening. No photograph was published from these pages.",
+  "sources": [
+    {
+      "url": "https://tourism.gov.ph/news_features/filipinofoodreadytotakeworldstage.aspx",
+      "review": "Official DOT publication footer contains both a general public-domain-unless-stated notice and an all-rights-reserved copyright notice. No individual target-place photograph and explicit rights-holder grant were established from this material. Government affiliation was not treated as permission."
+    },
+    {
+      "url": "https://www.southwesttours.com.ph/partners/mediakit/SouthwestActivities.pdf",
+      "review": "Tour-operator media-kit search surfaced photography links for Boracay activities, not an individually licensed exact-venue image for these gaps. The presence of a media-kit download was not treated as a grant for Lakbay publication and cropping. No kit image was copied."
+    },
+    {
+      "url": "https://www.slowfood.com/press-center/",
+      "review": "The public press-center archive directs image licensing enquiries to its media-library contact. No image permission was assumed and no enquiry was sent."
+    },
+    {
+      "url": "https://altavistadeboracay.com.ph/boracay-vegetarian-food-stops/",
+      "review": "A Nonie's restaurant article illustrates dishes with credited Pixabay/Pexels material. Those generic food photographs do not establish the exact Nonie's Ondus venue and were not reused as documentary images."
+    },
+    {
+      "url": "https://www.flickr.com/photos/iloilocity/4052676109",
+      "review": "An exact Tambisaan beach/jetty photograph was found, but its individual Flickr page states All rights reserved. Rejected; no permission request was sent."
+    }
+  ],
+  "networkLimitation": {
+    "host": "live.staticflickr.com",
+    "attempts": "Official photo HTML and individual license metadata were accessible. Image retrieval timed out using Node fetch, a standard Flickr farm alias, and PowerShell Invoke-WebRequest. An official download endpoint returned HTTP 404. Repeated attempts were stopped.",
+    "exampleSource": "https://www.flickr.com/photos/93788068@N02/51959825160/",
+    "handling": "Flickr candidates without a viewable file remain unapproved; no thumbnail, proxy, unrelated image or unverifiable substitute was published. Existing licensed Commons copies of Flickr photos were usable through Commons delivery where their individual image pages and subjects could be reviewed."
+  }
+}

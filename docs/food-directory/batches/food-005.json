@@ -1,0 +1,2068 @@
+{
+  "id": "food-005",
+  "checkedOn": "2026-10-22",
+  "entries": [
+    {
+      "approved": true,
+      "identityReviewed": true,
+      "operationReviewed": true,
+      "record": {
+        "id": "davao-purge-tulip",
+        "name": "Purge Coffee Roaster — Tulip Drive",
+        "destination_group": "Davao",
+        "region": "Davao Region",
+        "province": null,
+        "city_municipality": "Davao City",
+        "barangay": null,
+        "address": "GM Building, Fuente Villa Abrille Subdivision, Tulip Drive",
+        "latitude": null,
+        "longitude": null,
+        "sources": {
+          "identity": {
+            "sourceName": "Davao City Tourism — Purge venue profile",
+            "sourceUrl": "https://tourism.davaocity.gov.ph/explore-the-city/restaurants/coffeeshops-2/purge-coffee-roaster/",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "municipality": {
+            "sourceName": "Davao City Tourism — Purge venue profile",
+            "sourceUrl": "https://tourism.davaocity.gov.ph/explore-the-city/restaurants/coffeeshops-2/purge-coffee-roaster/",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "address": {
+            "sourceName": "Davao City Tourism — Purge venue profile",
+            "sourceUrl": "https://tourism.davaocity.gov.ph/explore-the-city/restaurants/coffeeshops-2/purge-coffee-roaster/",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "coordinates": {
+            "sourceName": null,
+            "sourceUrl": null,
+            "dateChecked": null,
+            "status": "unverified"
+          }
+        },
+        "category": "Food & drink",
+        "description": "Purge is a coffee-roasting venue on Tulip Drive, identified by the city tourism office. August 2026 local festival reporting includes it among Davao’s homegrown coffee stops.",
+        "interests": [
+          "Food Hunter",
+          "Slow Traveler"
+        ],
+        "itinerary_base_slug": "davao",
+        "catalog_stop_id": "davao-purge-tulip",
+        "status": "accepted",
+        "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+        "reviewed_on": "2026-10-22",
+        "planning": {
+          "base_slug": "davao",
+          "mode": "local",
+          "cluster": "davao-purge-tulip",
+          "minutes": 60,
+          "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+          "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+          "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+          "requiresBooking": false,
+          "scheduling": "candidate",
+          "outdoor": false
+        },
+        "slug": "davao-purge-tulip"
+      },
+      "food": {
+        "placeId": "davao-purge-tulip",
+        "primary": "cafe",
+        "venueType": "cafe",
+        "suitability": [
+          "coffee"
+        ],
+        "specialties": [
+          "coffee roasting"
+        ],
+        "source": {
+          "sourceName": "Davao City Tourism — Purge venue profile",
+          "sourceUrl": "https://tourism.davaocity.gov.ph/explore-the-city/restaurants/coffeeshops-2/purge-coffee-roaster/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "officialUrl": "https://tourism.davaocity.gov.ph/explore-the-city/restaurants/coffeeshops-2/purge-coffee-roaster/",
+        "operation": {
+          "basis": "recent-report",
+          "source": {
+            "sourceName": "SunStar — August 2026 Kadayawan coffee reporting",
+            "sourceUrl": "https://www.sunstar.com.ph/amp/story/davao/kadayawan-2026-see-it-taste-it-live-it",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "limitation": "Dated local reporting supports this named venue and its offering. It does not establish today’s opening, menu availability or table availability; confirm directly before travelling."
+        }
+      },
+      "content": {
+        "placeId": "davao-purge-tulip",
+        "summary": "Purge is a coffee-roasting venue on Tulip Drive, identified by the city tourism office. August 2026 local festival reporting includes it among Davao’s homegrown coffee stops.",
+        "overview": [
+          "Purge is a coffee-roasting venue on Tulip Drive, identified by the city tourism office. August 2026 local festival reporting includes it among Davao’s homegrown coffee stops.",
+          "The tourism directory uses the broad label Matina. An exact administrative barangay and entrance pin have not been established here. Confirm the route, service and current prices before travelling; the itinerary allowance is an estimate."
+        ],
+        "highlights": [
+          {
+            "text": "coffee roasting",
+            "sourceUrls": [
+              "https://tourism.davaocity.gov.ph/explore-the-city/restaurants/coffeeshops-2/purge-coffee-roaster/"
+            ]
+          }
+        ],
+        "tips": [],
+        "sources": [
+          {
+            "name": "Davao City Tourism — Purge venue profile",
+            "url": "https://tourism.davaocity.gov.ph/explore-the-city/restaurants/coffeeshops-2/purge-coffee-roaster/",
+            "checkedOn": "2026-10-22",
+            "supports": "Exact venue, municipality and the descriptive food or coffee offering stated above; no verification of prices, accessibility or unsupplied coordinates."
+          }
+        ]
+      },
+      "photoResearch": {
+        "sources": [
+          "https://tourism.davaocity.gov.ph/explore-the-city/restaurants/coffeeshops-2/purge-coffee-roaster/",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Purge+Coffee+Roaster+Davao+City&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Purge+Coffee+Roaster&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=Purge+Coffee+Roaster+Davao+City&license=4%2C5%2C9%2C10"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "approved": true,
+      "identityReviewed": true,
+      "operationReviewed": true,
+      "record": {
+        "id": "davao-fourth-street-narra",
+        "name": "Fourth Street Cafe — Narra",
+        "destination_group": "Davao",
+        "region": "Davao Region",
+        "province": null,
+        "city_municipality": "Davao City",
+        "barangay": null,
+        "address": "Narra Street",
+        "latitude": null,
+        "longitude": null,
+        "sources": {
+          "identity": {
+            "sourceName": "Fourth Street Cafe — dated 2026 business posts, public mirror",
+            "sourceUrl": "https://www.findglocal.com/PH/Davao-City/161228178024723/Fourth-Street-Cafe",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "municipality": {
+            "sourceName": "Fourth Street Cafe — dated 2026 business posts, public mirror",
+            "sourceUrl": "https://www.findglocal.com/PH/Davao-City/161228178024723/Fourth-Street-Cafe",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "address": {
+            "sourceName": "Fourth Street Cafe — dated 2026 business posts, public mirror",
+            "sourceUrl": "https://www.findglocal.com/PH/Davao-City/161228178024723/Fourth-Street-Cafe",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "coordinates": {
+            "sourceName": null,
+            "sourceUrl": null,
+            "dateChecked": null,
+            "status": "unverified"
+          }
+        },
+        "category": "Food & drink",
+        "description": "Fourth Street is a Narra Street coffee venue whose June–August 2026 business posts document continuing service. Local festival reporting subsequently names it among the city’s homegrown coffee stops.",
+        "interests": [
+          "Food Hunter",
+          "Slow Traveler"
+        ],
+        "itinerary_base_slug": "davao",
+        "catalog_stop_id": "davao-fourth-street-narra",
+        "status": "accepted",
+        "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+        "reviewed_on": "2026-10-22",
+        "planning": {
+          "base_slug": "davao",
+          "mode": "local",
+          "cluster": "davao-fourth-street-narra",
+          "minutes": 60,
+          "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+          "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+          "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+          "requiresBooking": false,
+          "scheduling": "candidate",
+          "outdoor": false
+        },
+        "slug": "davao-fourth-street-narra"
+      },
+      "food": {
+        "placeId": "davao-fourth-street-narra",
+        "primary": "cafe",
+        "venueType": "cafe",
+        "suitability": [
+          "coffee"
+        ],
+        "specialties": [
+          "coffee"
+        ],
+        "source": {
+          "sourceName": "Fourth Street Cafe — dated 2026 business posts, public mirror",
+          "sourceUrl": "https://www.findglocal.com/PH/Davao-City/161228178024723/Fourth-Street-Cafe",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "officialUrl": null,
+        "operation": {
+          "basis": "recent-report",
+          "source": {
+            "sourceName": "SunStar — August 2026 Kadayawan coffee reporting",
+            "sourceUrl": "https://www.sunstar.com.ph/amp/story/davao/kadayawan-2026-see-it-taste-it-live-it",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "limitation": "Dated local reporting or public business activity supports this venue; opening, menu availability and access still need direct confirmation."
+        }
+      },
+      "content": {
+        "placeId": "davao-fourth-street-narra",
+        "summary": "Fourth Street is a Narra Street coffee venue whose June–August 2026 business posts document continuing service. Local festival reporting subsequently names it among the city’s homegrown coffee stops.",
+        "overview": [
+          "Fourth Street is a Narra Street coffee venue whose June–August 2026 business posts document continuing service. Local festival reporting subsequently names it among the city’s homegrown coffee stops.",
+          "Confirm the current menu and service before travelling. Lakbay has not verified a map pin, meal prices or accessibility for this listing; any itinerary allowance is an estimate."
+        ],
+        "highlights": [
+          {
+            "text": "coffee",
+            "sourceUrls": [
+              "https://www.findglocal.com/PH/Davao-City/161228178024723/Fourth-Street-Cafe"
+            ]
+          }
+        ],
+        "tips": [],
+        "sources": [
+          {
+            "name": "Fourth Street Cafe — dated 2026 business posts, public mirror",
+            "url": "https://www.findglocal.com/PH/Davao-City/161228178024723/Fourth-Street-Cafe",
+            "checkedOn": "2026-10-22",
+            "supports": "Exact venue, municipality and the descriptive food or coffee offering stated above; no verification of prices, accessibility or unsupplied coordinates."
+          }
+        ]
+      },
+      "photoResearch": {
+        "sources": [
+          "https://www.findglocal.com/PH/Davao-City/161228178024723/Fourth-Street-Cafe",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Fourth+Street+Cafe+Davao+City&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Fourth+Street+Cafe&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=Fourth+Street+Cafe+Davao+City&license=4%2C5%2C9%2C10"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "approved": true,
+      "identityReviewed": true,
+      "operationReviewed": true,
+      "record": {
+        "id": "davao-glasshouse-oboza",
+        "name": "Glasshouse Coffee — Oboza Heritage House",
+        "destination_group": "Davao",
+        "region": "Davao Region",
+        "province": null,
+        "city_municipality": "Davao City",
+        "barangay": null,
+        "address": "Oboza Heritage House",
+        "latitude": null,
+        "longitude": null,
+        "sources": {
+          "identity": {
+            "sourceName": "SunStar — August 2026 Kadayawan venue reporting",
+            "sourceUrl": "https://www.sunstar.com.ph/amp/story/davao/kadayawan-2026-see-it-taste-it-live-it",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "municipality": {
+            "sourceName": "SunStar — August 2026 Kadayawan venue reporting",
+            "sourceUrl": "https://www.sunstar.com.ph/amp/story/davao/kadayawan-2026-see-it-taste-it-live-it",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "address": {
+            "sourceName": "SunStar — August 2026 Kadayawan venue reporting",
+            "sourceUrl": "https://www.sunstar.com.ph/amp/story/davao/kadayawan-2026-see-it-taste-it-live-it",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "coordinates": {
+            "sourceName": null,
+            "sourceUrl": null,
+            "dateChecked": null,
+            "status": "unverified"
+          }
+        },
+        "category": "Food & drink",
+        "description": "Glasshouse’s Oboza Heritage House coffee venue appears in August 2026 Davao festival reporting. The heritage-house branch is distinguished from other Glasshouse locations; its exact entrance and service hours need confirmation.",
+        "interests": [
+          "Food Hunter",
+          "Slow Traveler"
+        ],
+        "itinerary_base_slug": "davao",
+        "catalog_stop_id": "davao-glasshouse-oboza",
+        "status": "accepted",
+        "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+        "reviewed_on": "2026-10-22",
+        "planning": {
+          "base_slug": "davao",
+          "mode": "local",
+          "cluster": "davao-glasshouse-oboza",
+          "minutes": 60,
+          "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+          "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+          "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+          "requiresBooking": false,
+          "scheduling": "candidate",
+          "outdoor": false
+        },
+        "slug": "davao-glasshouse-oboza"
+      },
+      "food": {
+        "placeId": "davao-glasshouse-oboza",
+        "primary": "cafe",
+        "venueType": "cafe",
+        "suitability": [
+          "coffee"
+        ],
+        "specialties": [
+          "coffee"
+        ],
+        "source": {
+          "sourceName": "SunStar — August 2026 Kadayawan venue reporting",
+          "sourceUrl": "https://www.sunstar.com.ph/amp/story/davao/kadayawan-2026-see-it-taste-it-live-it",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "officialUrl": null,
+        "operation": {
+          "basis": "recent-report",
+          "source": {
+            "sourceName": "SunStar — August 2026 Kadayawan venue reporting",
+            "sourceUrl": "https://www.sunstar.com.ph/amp/story/davao/kadayawan-2026-see-it-taste-it-live-it",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "limitation": "Dated local reporting or public business activity supports this venue; opening, menu availability and access still need direct confirmation."
+        }
+      },
+      "content": {
+        "placeId": "davao-glasshouse-oboza",
+        "summary": "Glasshouse’s Oboza Heritage House coffee venue appears in August 2026 Davao festival reporting. The heritage-house branch is distinguished from other Glasshouse locations; its exact entrance and service hours need confirmation.",
+        "overview": [
+          "Glasshouse’s Oboza Heritage House coffee venue appears in August 2026 Davao festival reporting. The heritage-house branch is distinguished from other Glasshouse locations; its exact entrance and service hours need confirmation.",
+          "Confirm the current menu and service before travelling. Lakbay has not verified a map pin, meal prices or accessibility for this listing; any itinerary allowance is an estimate."
+        ],
+        "highlights": [
+          {
+            "text": "coffee",
+            "sourceUrls": [
+              "https://www.sunstar.com.ph/amp/story/davao/kadayawan-2026-see-it-taste-it-live-it"
+            ]
+          }
+        ],
+        "tips": [],
+        "sources": [
+          {
+            "name": "SunStar — August 2026 Kadayawan venue reporting",
+            "url": "https://www.sunstar.com.ph/amp/story/davao/kadayawan-2026-see-it-taste-it-live-it",
+            "checkedOn": "2026-10-22",
+            "supports": "Exact venue, municipality and the descriptive food or coffee offering stated above; no verification of prices, accessibility or unsupplied coordinates."
+          }
+        ]
+      },
+      "photoResearch": {
+        "sources": [
+          "https://www.sunstar.com.ph/amp/story/davao/kadayawan-2026-see-it-taste-it-live-it",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Glasshouse+Coffee+Davao+City&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Glasshouse+Coffee&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=Glasshouse+Coffee+Davao+City&license=4%2C5%2C9%2C10"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "approved": true,
+      "identityReviewed": true,
+      "operationReviewed": true,
+      "record": {
+        "id": "davao-paramount-star-hotel",
+        "name": "Paramount Coffee — Star Hotel",
+        "destination_group": "Davao",
+        "region": "Davao Region",
+        "province": null,
+        "city_municipality": "Davao City",
+        "barangay": "9-A",
+        "address": "Star Hotel, Mabini Street corner Voyager Street",
+        "latitude": null,
+        "longitude": null,
+        "sources": {
+          "identity": {
+            "sourceName": "Paramount Coffee — Star Hotel — venue website",
+            "sourceUrl": "https://www.paramountcoffeeph.com/cafe",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "municipality": {
+            "sourceName": "Paramount Coffee — Star Hotel — venue website",
+            "sourceUrl": "https://www.paramountcoffeeph.com/cafe",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "address": {
+            "sourceName": "Paramount Coffee — Star Hotel — venue website",
+            "sourceUrl": "https://www.paramountcoffeeph.com/cafe",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "coordinates": {
+            "sourceName": null,
+            "sourceUrl": null,
+            "dateChecked": null,
+            "status": "unverified"
+          }
+        },
+        "category": "Food & drink",
+        "description": "Paramount’s main café is at Star Hotel on Mabini Street. Its published branch list identifies this hotel venue separately from the brand’s Riverfront, Lanang and mall branches.",
+        "interests": [
+          "Food Hunter",
+          "Slow Traveler"
+        ],
+        "itinerary_base_slug": "davao",
+        "catalog_stop_id": "davao-paramount-star-hotel",
+        "status": "accepted",
+        "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+        "reviewed_on": "2026-10-22",
+        "planning": {
+          "base_slug": "davao",
+          "mode": "local",
+          "cluster": "davao-paramount-star-hotel",
+          "minutes": 60,
+          "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+          "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+          "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+          "requiresBooking": false,
+          "scheduling": "candidate",
+          "outdoor": false
+        },
+        "slug": "davao-paramount-star-hotel"
+      },
+      "food": {
+        "placeId": "davao-paramount-star-hotel",
+        "primary": "cafe",
+        "venueType": "cafe",
+        "suitability": [
+          "coffee"
+        ],
+        "specialties": [
+          "coffee"
+        ],
+        "source": {
+          "sourceName": "Paramount Coffee — Star Hotel — venue website",
+          "sourceUrl": "https://www.paramountcoffeeph.com/cafe",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "officialUrl": "https://www.paramountcoffeeph.com/cafe",
+        "operation": {
+          "basis": "venue-offering",
+          "source": {
+            "sourceName": "Paramount Coffee — Star Hotel — venue website",
+            "sourceUrl": "https://www.paramountcoffeeph.com/cafe",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "limitation": "The public venue page offers this service when reviewed; no live table availability, closure guarantee or independent on-site check."
+        }
+      },
+      "content": {
+        "placeId": "davao-paramount-star-hotel",
+        "summary": "Paramount’s main café is at Star Hotel on Mabini Street. Its published branch list identifies this hotel venue separately from the brand’s Riverfront, Lanang and mall branches.",
+        "overview": [
+          "Paramount’s main café is at Star Hotel on Mabini Street. Its published branch list identifies this hotel venue separately from the brand’s Riverfront, Lanang and mall branches.",
+          "Different sections of the operator’s page give conflicting closing times. No regular opening interval is inferred; confirm directly before travelling."
+        ],
+        "highlights": [
+          {
+            "text": "coffee",
+            "sourceUrls": [
+              "https://www.paramountcoffeeph.com/cafe"
+            ]
+          }
+        ],
+        "tips": [],
+        "sources": [
+          {
+            "name": "Paramount Coffee — Star Hotel — venue website",
+            "url": "https://www.paramountcoffeeph.com/cafe",
+            "checkedOn": "2026-10-22",
+            "supports": "Exact venue, municipality and the descriptive food or coffee offering stated above; no verification of prices, accessibility or unsupplied coordinates."
+          }
+        ]
+      },
+      "photoResearch": {
+        "sources": [
+          "https://www.paramountcoffeeph.com/cafe",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Paramount+Coffee+Davao+City&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Paramount+Coffee&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=Paramount+Coffee+Davao+City&license=4%2C5%2C9%2C10"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "approved": true,
+      "identityReviewed": true,
+      "operationReviewed": true,
+      "record": {
+        "id": "davao-kapewenoz-v-mapa",
+        "name": "Kapeweñoz — V. Mapa",
+        "destination_group": "Davao",
+        "region": "Davao Region",
+        "province": null,
+        "city_municipality": "Davao City",
+        "barangay": null,
+        "address": "86 V. Mapa Street, in front of Pavilion Building gate",
+        "latitude": null,
+        "longitude": null,
+        "sources": {
+          "identity": {
+            "sourceName": "Kapeweñoz — public business profile",
+            "sourceUrl": "https://linktr.ee/kapewenozcoffee",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "municipality": {
+            "sourceName": "Kapeweñoz — public business profile",
+            "sourceUrl": "https://linktr.ee/kapewenozcoffee",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "address": {
+            "sourceName": "Kapeweñoz — public business profile",
+            "sourceUrl": "https://linktr.ee/kapewenozcoffee",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "coordinates": {
+            "sourceName": null,
+            "sourceUrl": null,
+            "dateChecked": null,
+            "status": "unverified"
+          }
+        },
+        "category": "Food & drink",
+        "description": "Kapeweñoz’s V. Mapa venue offers coffee through its public business profile and delivery links. The profile distinguishes this location from Dacudao; this listing covers only V. Mapa.",
+        "interests": [
+          "Food Hunter",
+          "Slow Traveler"
+        ],
+        "itinerary_base_slug": "davao",
+        "catalog_stop_id": "davao-kapewenoz-v-mapa",
+        "status": "accepted",
+        "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+        "reviewed_on": "2026-10-22",
+        "planning": {
+          "base_slug": "davao",
+          "mode": "local",
+          "cluster": "davao-kapewenoz-v-mapa",
+          "minutes": 60,
+          "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+          "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+          "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+          "requiresBooking": false,
+          "scheduling": "candidate",
+          "outdoor": false
+        },
+        "slug": "davao-kapewenoz-v-mapa"
+      },
+      "food": {
+        "placeId": "davao-kapewenoz-v-mapa",
+        "primary": "cafe",
+        "venueType": "cafe",
+        "suitability": [
+          "coffee"
+        ],
+        "specialties": [
+          "coffee"
+        ],
+        "source": {
+          "sourceName": "Kapeweñoz — public business profile",
+          "sourceUrl": "https://linktr.ee/kapewenozcoffee",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "officialUrl": "https://linktr.ee/kapewenozcoffee",
+        "operation": {
+          "basis": "venue-offering",
+          "source": {
+            "sourceName": "Kapeweñoz — public business profile",
+            "sourceUrl": "https://linktr.ee/kapewenozcoffee",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "limitation": "The public venue page offers this service when reviewed; no live table availability, closure guarantee or independent on-site check."
+        }
+      },
+      "content": {
+        "placeId": "davao-kapewenoz-v-mapa",
+        "summary": "Kapeweñoz’s V. Mapa venue offers coffee through its public business profile and delivery links. The profile distinguishes this location from Dacudao; this listing covers only V. Mapa.",
+        "overview": [
+          "Kapeweñoz’s V. Mapa venue offers coffee through its public business profile and delivery links. The profile distinguishes this location from Dacudao; this listing covers only V. Mapa.",
+          "The profile advertises a service window crossing midnight. It is not encoded as a same-day interval; confirm venue hours rather than relying on delivery hours."
+        ],
+        "highlights": [
+          {
+            "text": "coffee",
+            "sourceUrls": [
+              "https://linktr.ee/kapewenozcoffee"
+            ]
+          }
+        ],
+        "tips": [],
+        "sources": [
+          {
+            "name": "Kapeweñoz — public business profile",
+            "url": "https://linktr.ee/kapewenozcoffee",
+            "checkedOn": "2026-10-22",
+            "supports": "Exact venue, municipality and the descriptive food or coffee offering stated above; no verification of prices, accessibility or unsupplied coordinates."
+          }
+        ]
+      },
+      "photoResearch": {
+        "sources": [
+          "https://linktr.ee/kapewenozcoffee",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Kapewe%C3%B1oz+Davao+City&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Kapewe%C3%B1oz&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=Kapewe%C3%B1oz+Davao+City&license=4%2C5%2C9%2C10"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "approved": true,
+      "identityReviewed": true,
+      "operationReviewed": true,
+      "record": {
+        "id": "davao-lamano-tulip",
+        "name": "Lamano Cocina & Bar",
+        "destination_group": "Davao",
+        "region": "Davao Region",
+        "province": null,
+        "city_municipality": "Davao City",
+        "barangay": null,
+        "address": "CT Drive, Tulip Drive",
+        "latitude": null,
+        "longitude": null,
+        "sources": {
+          "identity": {
+            "sourceName": "Lamano Cocina & Bar — venue website",
+            "sourceUrl": "https://lamano.ph/",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "municipality": {
+            "sourceName": "Lamano Cocina & Bar — venue website",
+            "sourceUrl": "https://lamano.ph/",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "address": {
+            "sourceName": "Lamano Cocina & Bar — venue website",
+            "sourceUrl": "https://lamano.ph/",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "coordinates": {
+            "sourceName": null,
+            "sourceUrl": null,
+            "dateChecked": null,
+            "status": "unverified"
+          }
+        },
+        "category": "Food & drink",
+        "description": "Lamano’s cooking draws on Filipino and Spanish dishes at CT Drive on Tulip Drive. Its current venue offering is independently documented by a May 2026 visit; it is a dining stop rather than a coffee-only bar.",
+        "interests": [
+          "Food Hunter"
+        ],
+        "itinerary_base_slug": "davao",
+        "catalog_stop_id": "davao-lamano-tulip",
+        "status": "accepted",
+        "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+        "reviewed_on": "2026-10-22",
+        "planning": {
+          "base_slug": "davao",
+          "mode": "local",
+          "cluster": "davao-lamano-tulip",
+          "minutes": 90,
+          "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+          "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+          "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+          "requiresBooking": false,
+          "scheduling": "candidate",
+          "outdoor": false
+        },
+        "slug": "davao-lamano-tulip"
+      },
+      "food": {
+        "placeId": "davao-lamano-tulip",
+        "primary": "other-food",
+        "venueType": "restaurant",
+        "suitability": [
+          "meal"
+        ],
+        "specialties": [
+          "Filipino",
+          "Spanish"
+        ],
+        "source": {
+          "sourceName": "Lamano Cocina & Bar — venue website",
+          "sourceUrl": "https://lamano.ph/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "officialUrl": "https://lamano.ph/",
+        "operation": {
+          "basis": "recent-report",
+          "source": {
+            "sourceName": "Eats Me, Jax! — May 2026 Lamano visit",
+            "sourceUrl": "https://eatsmejax.com/2026/05/21/davao-lamano-food-and-resto-review/",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "limitation": "Dated local reporting supports this named venue and its offering. It does not establish today’s opening, menu availability or table availability; confirm directly before travelling."
+        }
+      },
+      "content": {
+        "placeId": "davao-lamano-tulip",
+        "summary": "Lamano’s cooking draws on Filipino and Spanish dishes at CT Drive on Tulip Drive. Its current venue offering is independently documented by a May 2026 visit; it is a dining stop rather than a coffee-only bar.",
+        "overview": [
+          "Lamano’s cooking draws on Filipino and Spanish dishes at CT Drive on Tulip Drive. Its current venue offering is independently documented by a May 2026 visit; it is a dining stop rather than a coffee-only bar.",
+          "Confirm the current menu and service before travelling. Lakbay has not verified a map pin, meal prices or accessibility for this listing; any itinerary allowance is an estimate."
+        ],
+        "highlights": [
+          {
+            "text": "Filipino",
+            "sourceUrls": [
+              "https://lamano.ph/"
+            ]
+          },
+          {
+            "text": "Spanish",
+            "sourceUrls": [
+              "https://lamano.ph/"
+            ]
+          }
+        ],
+        "tips": [],
+        "sources": [
+          {
+            "name": "Lamano Cocina & Bar — venue website",
+            "url": "https://lamano.ph/",
+            "checkedOn": "2026-10-22",
+            "supports": "Exact venue, municipality and the descriptive food or coffee offering stated above; no verification of prices, accessibility or unsupplied coordinates."
+          }
+        ]
+      },
+      "photoResearch": {
+        "sources": [
+          "https://lamano.ph/",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Lamano+Cocina+%26+Bar+Davao+City&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Lamano+Cocina+%26+Bar&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=Lamano+Cocina+%26+Bar+Davao+City&license=4%2C5%2C9%2C10"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "approved": true,
+      "identityReviewed": true,
+      "operationReviewed": true,
+      "record": {
+        "id": "davao-capris-bajada",
+        "name": "Capri’s Restaurant and Deli",
+        "destination_group": "Davao",
+        "region": "Davao Region",
+        "province": null,
+        "city_municipality": "Davao City",
+        "barangay": null,
+        "address": "J.P. Laurel Avenue, Bajada",
+        "latitude": null,
+        "longitude": null,
+        "sources": {
+          "identity": {
+            "sourceName": "Eats Me, Jax! — March 2026 Capri’s visit",
+            "sourceUrl": "https://eatsmejax.com/2026/03/26/davao-capris-restaurant-and-deli-davao-food-and-resto-review/",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "municipality": {
+            "sourceName": "Eats Me, Jax! — March 2026 Capri’s visit",
+            "sourceUrl": "https://eatsmejax.com/2026/03/26/davao-capris-restaurant-and-deli-davao-food-and-resto-review/",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "address": {
+            "sourceName": "Eats Me, Jax! — March 2026 Capri’s visit",
+            "sourceUrl": "https://eatsmejax.com/2026/03/26/davao-capris-restaurant-and-deli-davao-food-and-resto-review/",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "coordinates": {
+            "sourceName": null,
+            "sourceUrl": null,
+            "dateChecked": null,
+            "status": "unverified"
+          }
+        },
+        "category": "Food & drink",
+        "description": "Capri’s is a European- and Western-focused restaurant on J.P. Laurel Avenue in Bajada. A March 2026 visit documents baked brie, Caesar salad and beef Wellington; availability and current prices require confirmation.",
+        "interests": [
+          "Food Hunter"
+        ],
+        "itinerary_base_slug": "davao",
+        "catalog_stop_id": "davao-capris-bajada",
+        "status": "accepted",
+        "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+        "reviewed_on": "2026-10-22",
+        "planning": {
+          "base_slug": "davao",
+          "mode": "local",
+          "cluster": "davao-capris-bajada",
+          "minutes": 90,
+          "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+          "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+          "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+          "requiresBooking": false,
+          "scheduling": "candidate",
+          "outdoor": false
+        },
+        "slug": "davao-capris-bajada"
+      },
+      "food": {
+        "placeId": "davao-capris-bajada",
+        "primary": "other-food",
+        "venueType": "restaurant",
+        "suitability": [
+          "meal"
+        ],
+        "specialties": [
+          "European",
+          "baked brie",
+          "beef Wellington"
+        ],
+        "source": {
+          "sourceName": "Eats Me, Jax! — March 2026 Capri’s visit",
+          "sourceUrl": "https://eatsmejax.com/2026/03/26/davao-capris-restaurant-and-deli-davao-food-and-resto-review/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "officialUrl": null,
+        "operation": {
+          "basis": "recent-report",
+          "source": {
+            "sourceName": "Eats Me, Jax! — March 2026 Capri’s visit",
+            "sourceUrl": "https://eatsmejax.com/2026/03/26/davao-capris-restaurant-and-deli-davao-food-and-resto-review/",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "limitation": "Dated local reporting or public business activity supports this venue; opening, menu availability and access still need direct confirmation."
+        }
+      },
+      "content": {
+        "placeId": "davao-capris-bajada",
+        "summary": "Capri’s is a European- and Western-focused restaurant on J.P. Laurel Avenue in Bajada. A March 2026 visit documents baked brie, Caesar salad and beef Wellington; availability and current prices require confirmation.",
+        "overview": [
+          "Capri’s is a European- and Western-focused restaurant on J.P. Laurel Avenue in Bajada. A March 2026 visit documents baked brie, Caesar salad and beef Wellington; availability and current prices require confirmation.",
+          "Confirm the current menu and service before travelling. Lakbay has not verified a map pin, meal prices or accessibility for this listing; any itinerary allowance is an estimate."
+        ],
+        "highlights": [
+          {
+            "text": "European",
+            "sourceUrls": [
+              "https://eatsmejax.com/2026/03/26/davao-capris-restaurant-and-deli-davao-food-and-resto-review/"
+            ]
+          },
+          {
+            "text": "baked brie",
+            "sourceUrls": [
+              "https://eatsmejax.com/2026/03/26/davao-capris-restaurant-and-deli-davao-food-and-resto-review/"
+            ]
+          },
+          {
+            "text": "beef Wellington",
+            "sourceUrls": [
+              "https://eatsmejax.com/2026/03/26/davao-capris-restaurant-and-deli-davao-food-and-resto-review/"
+            ]
+          }
+        ],
+        "tips": [],
+        "sources": [
+          {
+            "name": "Eats Me, Jax! — March 2026 Capri’s visit",
+            "url": "https://eatsmejax.com/2026/03/26/davao-capris-restaurant-and-deli-davao-food-and-resto-review/",
+            "checkedOn": "2026-10-22",
+            "supports": "Exact venue, municipality and the descriptive food or coffee offering stated above; no verification of prices, accessibility or unsupplied coordinates."
+          }
+        ]
+      },
+      "photoResearch": {
+        "sources": [
+          "https://eatsmejax.com/2026/03/26/davao-capris-restaurant-and-deli-davao-food-and-resto-review/",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Capri%E2%80%99s+Restaurant+and+Deli+Davao+City&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Capri%E2%80%99s+Restaurant+and+Deli&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=Capri%E2%80%99s+Restaurant+and+Deli+Davao+City&license=4%2C5%2C9%2C10"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "approved": true,
+      "identityReviewed": true,
+      "operationReviewed": true,
+      "record": {
+        "id": "davao-lachis-marfori",
+        "name": "Lachi’s Sans Rival Atbp. — Marfori",
+        "destination_group": "Davao",
+        "region": "Davao Region",
+        "province": null,
+        "city_municipality": "Davao City",
+        "barangay": null,
+        "address": "Door 1-H, Values School Building, Ruby Street, Marfori Subdivision",
+        "latitude": null,
+        "longitude": null,
+        "sources": {
+          "identity": {
+            "sourceName": "Lachi’s — August 2026 business posts, public mirror",
+            "sourceUrl": "https://www.findglocal.com/PH/Davao-City/71022339832/Lachi%27s-Sans-Rival-Atbp",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "municipality": {
+            "sourceName": "Lachi’s — August 2026 business posts, public mirror",
+            "sourceUrl": "https://www.findglocal.com/PH/Davao-City/71022339832/Lachi%27s-Sans-Rival-Atbp",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "address": {
+            "sourceName": "Lachi’s — August 2026 business posts, public mirror",
+            "sourceUrl": "https://www.findglocal.com/PH/Davao-City/71022339832/Lachi%27s-Sans-Rival-Atbp",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "coordinates": {
+            "sourceName": null,
+            "sourceUrl": null,
+            "dateChecked": null,
+            "status": "unverified"
+          }
+        },
+        "category": "Food & drink",
+        "description": "Lachi’s Marfori shop is a named dessert destination on Ruby Street. August 2026 business posts document cookies and cake; this listing is a dessert shop, without assuming a full sit-down meal is currently served.",
+        "interests": [
+          "Food Hunter"
+        ],
+        "itinerary_base_slug": "davao",
+        "catalog_stop_id": "davao-lachis-marfori",
+        "status": "accepted",
+        "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+        "reviewed_on": "2026-10-22",
+        "planning": {
+          "base_slug": "davao",
+          "mode": "local",
+          "cluster": "davao-lachis-marfori",
+          "minutes": 90,
+          "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+          "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+          "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+          "requiresBooking": false,
+          "scheduling": "candidate",
+          "outdoor": false
+        },
+        "slug": "davao-lachis-marfori"
+      },
+      "food": {
+        "placeId": "davao-lachis-marfori",
+        "primary": "other-food",
+        "venueType": "dessert-shop",
+        "suitability": [
+          "dessert"
+        ],
+        "specialties": [
+          "sans rival",
+          "cakes",
+          "cookies"
+        ],
+        "source": {
+          "sourceName": "Lachi’s — August 2026 business posts, public mirror",
+          "sourceUrl": "https://www.findglocal.com/PH/Davao-City/71022339832/Lachi%27s-Sans-Rival-Atbp",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "officialUrl": null,
+        "operation": {
+          "basis": "recent-report",
+          "source": {
+            "sourceName": "Lachi’s — August 2026 business posts, public mirror",
+            "sourceUrl": "https://www.findglocal.com/PH/Davao-City/71022339832/Lachi%27s-Sans-Rival-Atbp",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "limitation": "Dated local reporting or public business activity supports this venue; opening, menu availability and access still need direct confirmation."
+        }
+      },
+      "content": {
+        "placeId": "davao-lachis-marfori",
+        "summary": "Lachi’s Marfori shop is a named dessert destination on Ruby Street. August 2026 business posts document cookies and cake; this listing is a dessert shop, without assuming a full sit-down meal is currently served.",
+        "overview": [
+          "Lachi’s Marfori shop is a named dessert destination on Ruby Street. August 2026 business posts document cookies and cake; this listing is a dessert shop, without assuming a full sit-down meal is currently served.",
+          "Confirm the current menu and service before travelling. Lakbay has not verified a map pin, meal prices or accessibility for this listing; any itinerary allowance is an estimate."
+        ],
+        "highlights": [
+          {
+            "text": "sans rival",
+            "sourceUrls": [
+              "https://www.findglocal.com/PH/Davao-City/71022339832/Lachi%27s-Sans-Rival-Atbp"
+            ]
+          },
+          {
+            "text": "cakes",
+            "sourceUrls": [
+              "https://www.findglocal.com/PH/Davao-City/71022339832/Lachi%27s-Sans-Rival-Atbp"
+            ]
+          },
+          {
+            "text": "cookies",
+            "sourceUrls": [
+              "https://www.findglocal.com/PH/Davao-City/71022339832/Lachi%27s-Sans-Rival-Atbp"
+            ]
+          }
+        ],
+        "tips": [],
+        "sources": [
+          {
+            "name": "Lachi’s — August 2026 business posts, public mirror",
+            "url": "https://www.findglocal.com/PH/Davao-City/71022339832/Lachi%27s-Sans-Rival-Atbp",
+            "checkedOn": "2026-10-22",
+            "supports": "Exact venue, municipality and the descriptive food or coffee offering stated above; no verification of prices, accessibility or unsupplied coordinates."
+          }
+        ]
+      },
+      "photoResearch": {
+        "sources": [
+          "https://www.findglocal.com/PH/Davao-City/71022339832/Lachi%27s-Sans-Rival-Atbp",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Lachi%E2%80%99s+Sans+Rival+Atbp.+Davao+City&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Lachi%E2%80%99s+Sans+Rival+Atbp.&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=Lachi%E2%80%99s+Sans+Rival+Atbp.+Davao+City&license=4%2C5%2C9%2C10"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "approved": true,
+      "identityReviewed": true,
+      "operationReviewed": true,
+      "record": {
+        "id": "iloilo-neighbor-atria",
+        "name": "Neighbor Coffee — Shops at Atria",
+        "destination_group": "Iloilo",
+        "region": "Western Visayas",
+        "province": null,
+        "city_municipality": "Iloilo City",
+        "barangay": "San Rafael",
+        "address": "Shops at Atria, Donato Pison Avenue, Mandurriao",
+        "latitude": null,
+        "longitude": null,
+        "sources": {
+          "identity": {
+            "sourceName": "Shops at Atria — August 2026 Neighbor event announcements",
+            "sourceUrl": "https://www.findglocal.com/PH/Iloilo-City/512507965554615/Shops-at-Atria%2C-Ayala-Malls",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "municipality": {
+            "sourceName": "Shops at Atria — August 2026 Neighbor event announcements",
+            "sourceUrl": "https://www.findglocal.com/PH/Iloilo-City/512507965554615/Shops-at-Atria%2C-Ayala-Malls",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "address": {
+            "sourceName": "Shops at Atria — August 2026 Neighbor event announcements",
+            "sourceUrl": "https://www.findglocal.com/PH/Iloilo-City/512507965554615/Shops-at-Atria%2C-Ayala-Malls",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "coordinates": {
+            "sourceName": null,
+            "sourceUrl": null,
+            "dateChecked": null,
+            "status": "unverified"
+          }
+        },
+        "category": "Food & drink",
+        "description": "Neighbor’s Atria café is identified in its host mall’s August 2026 event announcements. This listing covers the coffee venue at Shops at Atria, rather than older Neighbor addresses elsewhere in Iloilo.",
+        "interests": [
+          "Food Hunter",
+          "Slow Traveler"
+        ],
+        "itinerary_base_slug": "iloilo",
+        "catalog_stop_id": "iloilo-neighbor-atria",
+        "status": "accepted",
+        "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+        "reviewed_on": "2026-10-22",
+        "planning": {
+          "base_slug": "iloilo",
+          "mode": "local",
+          "cluster": "iloilo-neighbor-atria",
+          "minutes": 60,
+          "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+          "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+          "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+          "requiresBooking": false,
+          "scheduling": "candidate",
+          "outdoor": false
+        },
+        "slug": "iloilo-neighbor-atria"
+      },
+      "food": {
+        "placeId": "iloilo-neighbor-atria",
+        "primary": "cafe",
+        "venueType": "cafe",
+        "suitability": [
+          "coffee"
+        ],
+        "specialties": [
+          "coffee"
+        ],
+        "source": {
+          "sourceName": "Shops at Atria — August 2026 Neighbor event announcements",
+          "sourceUrl": "https://www.findglocal.com/PH/Iloilo-City/512507965554615/Shops-at-Atria%2C-Ayala-Malls",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "officialUrl": null,
+        "operation": {
+          "basis": "recent-report",
+          "source": {
+            "sourceName": "Shops at Atria — August 2026 Neighbor event announcements",
+            "sourceUrl": "https://www.findglocal.com/PH/Iloilo-City/512507965554615/Shops-at-Atria%2C-Ayala-Malls",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "limitation": "Dated local reporting or public business activity supports this venue; opening, menu availability and access still need direct confirmation."
+        }
+      },
+      "content": {
+        "placeId": "iloilo-neighbor-atria",
+        "summary": "Neighbor’s Atria café is identified in its host mall’s August 2026 event announcements. This listing covers the coffee venue at Shops at Atria, rather than older Neighbor addresses elsewhere in Iloilo.",
+        "overview": [
+          "Neighbor’s Atria café is identified in its host mall’s August 2026 event announcements. This listing covers the coffee venue at Shops at Atria, rather than older Neighbor addresses elsewhere in Iloilo.",
+          "Confirm the current menu and service before travelling. Lakbay has not verified a map pin, meal prices or accessibility for this listing; any itinerary allowance is an estimate."
+        ],
+        "highlights": [
+          {
+            "text": "coffee",
+            "sourceUrls": [
+              "https://www.findglocal.com/PH/Iloilo-City/512507965554615/Shops-at-Atria%2C-Ayala-Malls"
+            ]
+          }
+        ],
+        "tips": [],
+        "sources": [
+          {
+            "name": "Shops at Atria — August 2026 Neighbor event announcements",
+            "url": "https://www.findglocal.com/PH/Iloilo-City/512507965554615/Shops-at-Atria%2C-Ayala-Malls",
+            "checkedOn": "2026-10-22",
+            "supports": "Exact venue, municipality and the descriptive food or coffee offering stated above; no verification of prices, accessibility or unsupplied coordinates."
+          }
+        ]
+      },
+      "photoResearch": {
+        "sources": [
+          "https://www.findglocal.com/PH/Iloilo-City/512507965554615/Shops-at-Atria%2C-Ayala-Malls",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Neighbor+Coffee+Iloilo+City&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Neighbor+Coffee&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=Neighbor+Coffee+Iloilo+City&license=4%2C5%2C9%2C10"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "approved": true,
+      "identityReviewed": true,
+      "operationReviewed": true,
+      "record": {
+        "id": "iloilo-bluejay-sm-city",
+        "name": "Bluejay Coffee & Company — SM City Iloilo",
+        "destination_group": "Iloilo",
+        "region": "Western Visayas",
+        "province": null,
+        "city_municipality": "Iloilo City",
+        "barangay": null,
+        "address": "Upper ground floor, North Wing, SM City Iloilo, Benigno Aquino Avenue, Mandurriao",
+        "latitude": null,
+        "longitude": null,
+        "sources": {
+          "identity": {
+            "sourceName": "Bluejay SM City — June 2026 business posts, public mirror",
+            "sourceUrl": "https://www.findglocal.com/PH/Iloilo-City/1549445962029867/Bluejay-Coffee-%26-Company-SM-City-Iloilo",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "municipality": {
+            "sourceName": "Bluejay SM City — June 2026 business posts, public mirror",
+            "sourceUrl": "https://www.findglocal.com/PH/Iloilo-City/1549445962029867/Bluejay-Coffee-%26-Company-SM-City-Iloilo",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "address": {
+            "sourceName": "Bluejay SM City — June 2026 business posts, public mirror",
+            "sourceUrl": "https://www.findglocal.com/PH/Iloilo-City/1549445962029867/Bluejay-Coffee-%26-Company-SM-City-Iloilo",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "coordinates": {
+            "sourceName": null,
+            "sourceUrl": null,
+            "dateChecked": null,
+            "status": "unverified"
+          }
+        },
+        "category": "Food & drink",
+        "description": "Bluejay’s SM City branch offers coffee and meals in the mall’s north wing. June 2026 business posts describe vanilla latte and aglio e olio at this specific Iloilo branch.",
+        "interests": [
+          "Food Hunter",
+          "Slow Traveler"
+        ],
+        "itinerary_base_slug": "iloilo",
+        "catalog_stop_id": "iloilo-bluejay-sm-city",
+        "status": "accepted",
+        "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+        "reviewed_on": "2026-10-22",
+        "planning": {
+          "base_slug": "iloilo",
+          "mode": "local",
+          "cluster": "iloilo-bluejay-sm-city",
+          "minutes": 60,
+          "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+          "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+          "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+          "requiresBooking": false,
+          "scheduling": "candidate",
+          "outdoor": false
+        },
+        "slug": "iloilo-bluejay-sm-city"
+      },
+      "food": {
+        "placeId": "iloilo-bluejay-sm-city",
+        "primary": "cafe",
+        "venueType": "cafe",
+        "suitability": [
+          "coffee",
+          "meal"
+        ],
+        "specialties": [
+          "vanilla latte",
+          "aglio e olio"
+        ],
+        "source": {
+          "sourceName": "Bluejay SM City — June 2026 business posts, public mirror",
+          "sourceUrl": "https://www.findglocal.com/PH/Iloilo-City/1549445962029867/Bluejay-Coffee-%26-Company-SM-City-Iloilo",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "officialUrl": null,
+        "operation": {
+          "basis": "recent-report",
+          "source": {
+            "sourceName": "Bluejay SM City — June 2026 business posts, public mirror",
+            "sourceUrl": "https://www.findglocal.com/PH/Iloilo-City/1549445962029867/Bluejay-Coffee-%26-Company-SM-City-Iloilo",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "limitation": "Dated local reporting or public business activity supports this venue; opening, menu availability and access still need direct confirmation."
+        }
+      },
+      "content": {
+        "placeId": "iloilo-bluejay-sm-city",
+        "summary": "Bluejay’s SM City branch offers coffee and meals in the mall’s north wing. June 2026 business posts describe vanilla latte and aglio e olio at this specific Iloilo branch.",
+        "overview": [
+          "Bluejay’s SM City branch offers coffee and meals in the mall’s north wing. June 2026 business posts describe vanilla latte and aglio e olio at this specific Iloilo branch.",
+          "Confirm the current menu and service before travelling. Lakbay has not verified a map pin, meal prices or accessibility for this listing; any itinerary allowance is an estimate."
+        ],
+        "highlights": [
+          {
+            "text": "vanilla latte",
+            "sourceUrls": [
+              "https://www.findglocal.com/PH/Iloilo-City/1549445962029867/Bluejay-Coffee-%26-Company-SM-City-Iloilo"
+            ]
+          },
+          {
+            "text": "aglio e olio",
+            "sourceUrls": [
+              "https://www.findglocal.com/PH/Iloilo-City/1549445962029867/Bluejay-Coffee-%26-Company-SM-City-Iloilo"
+            ]
+          }
+        ],
+        "tips": [],
+        "sources": [
+          {
+            "name": "Bluejay SM City — June 2026 business posts, public mirror",
+            "url": "https://www.findglocal.com/PH/Iloilo-City/1549445962029867/Bluejay-Coffee-%26-Company-SM-City-Iloilo",
+            "checkedOn": "2026-10-22",
+            "supports": "Exact venue, municipality and the descriptive food or coffee offering stated above; no verification of prices, accessibility or unsupplied coordinates."
+          }
+        ]
+      },
+      "photoResearch": {
+        "sources": [
+          "https://www.findglocal.com/PH/Iloilo-City/1549445962029867/Bluejay-Coffee-%26-Company-SM-City-Iloilo",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Bluejay+Coffee+%26+Company+Iloilo+City&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Bluejay+Coffee+%26+Company&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=Bluejay+Coffee+%26+Company+Iloilo+City&license=4%2C5%2C9%2C10"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "approved": true,
+      "identityReviewed": true,
+      "operationReviewed": true,
+      "record": {
+        "id": "iloilo-monkey-grounds",
+        "name": "Monkey Grounds Coffee — Benigno Aquino Avenue",
+        "destination_group": "Iloilo",
+        "region": "Western Visayas",
+        "province": null,
+        "city_municipality": "Iloilo City",
+        "barangay": "San Rafael",
+        "address": "Benigno Aquino Avenue, Mandurriao",
+        "latitude": null,
+        "longitude": null,
+        "sources": {
+          "identity": {
+            "sourceName": "Monkey Grounds — branch-specific merchant menu and 2026 orders",
+            "sourceUrl": "https://www.foodpanda.ph/restaurant/r9rc/monkey-grounds-coffee-benigno-aquino-avenue",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "municipality": {
+            "sourceName": "Monkey Grounds — branch-specific merchant menu and 2026 orders",
+            "sourceUrl": "https://www.foodpanda.ph/restaurant/r9rc/monkey-grounds-coffee-benigno-aquino-avenue",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "address": {
+            "sourceName": "Monkey Grounds — branch-specific merchant menu and 2026 orders",
+            "sourceUrl": "https://www.foodpanda.ph/restaurant/r9rc/monkey-grounds-coffee-benigno-aquino-avenue",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "coordinates": {
+            "sourceName": null,
+            "sourceUrl": null,
+            "dateChecked": null,
+            "status": "unverified"
+          }
+        },
+        "category": "Food & drink",
+        "description": "Monkey Grounds lists espresso, pour-over and nitro cold brew alongside rice bowls and sandwiches. Its Benigno Aquino Avenue merchant menu and dated 2026 orders support the named Iloilo venue.",
+        "interests": [
+          "Food Hunter",
+          "Slow Traveler"
+        ],
+        "itinerary_base_slug": "iloilo",
+        "catalog_stop_id": "iloilo-monkey-grounds",
+        "status": "accepted",
+        "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+        "reviewed_on": "2026-10-22",
+        "planning": {
+          "base_slug": "iloilo",
+          "mode": "local",
+          "cluster": "iloilo-monkey-grounds",
+          "minutes": 60,
+          "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+          "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+          "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+          "requiresBooking": false,
+          "scheduling": "candidate",
+          "outdoor": false
+        },
+        "slug": "iloilo-monkey-grounds"
+      },
+      "food": {
+        "placeId": "iloilo-monkey-grounds",
+        "primary": "cafe",
+        "venueType": "cafe",
+        "suitability": [
+          "coffee",
+          "meal",
+          "breakfast"
+        ],
+        "specialties": [
+          "pour-over coffee",
+          "nitro cold brew",
+          "rice bowls"
+        ],
+        "source": {
+          "sourceName": "Monkey Grounds — branch-specific merchant menu and 2026 orders",
+          "sourceUrl": "https://www.foodpanda.ph/restaurant/r9rc/monkey-grounds-coffee-benigno-aquino-avenue",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "officialUrl": null,
+        "operation": {
+          "basis": "recent-report",
+          "source": {
+            "sourceName": "Monkey Grounds — branch-specific merchant menu and 2026 orders",
+            "sourceUrl": "https://www.foodpanda.ph/restaurant/r9rc/monkey-grounds-coffee-benigno-aquino-avenue",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "limitation": "Dated local reporting or public business activity supports this venue; opening, menu availability and access still need direct confirmation."
+        }
+      },
+      "content": {
+        "placeId": "iloilo-monkey-grounds",
+        "summary": "Monkey Grounds lists espresso, pour-over and nitro cold brew alongside rice bowls and sandwiches. Its Benigno Aquino Avenue merchant menu and dated 2026 orders support the named Iloilo venue.",
+        "overview": [
+          "Monkey Grounds lists espresso, pour-over and nitro cold brew alongside rice bowls and sandwiches. Its Benigno Aquino Avenue merchant menu and dated 2026 orders support the named Iloilo venue.",
+          "Delivery-menu prices and delivery hours are not treated as in-house prices or venue opening hours. Confirm directly; no accessibility or dietary certification is inferred."
+        ],
+        "highlights": [
+          {
+            "text": "pour-over coffee",
+            "sourceUrls": [
+              "https://www.foodpanda.ph/restaurant/r9rc/monkey-grounds-coffee-benigno-aquino-avenue"
+            ]
+          },
+          {
+            "text": "nitro cold brew",
+            "sourceUrls": [
+              "https://www.foodpanda.ph/restaurant/r9rc/monkey-grounds-coffee-benigno-aquino-avenue"
+            ]
+          },
+          {
+            "text": "rice bowls",
+            "sourceUrls": [
+              "https://www.foodpanda.ph/restaurant/r9rc/monkey-grounds-coffee-benigno-aquino-avenue"
+            ]
+          }
+        ],
+        "tips": [],
+        "sources": [
+          {
+            "name": "Monkey Grounds — branch-specific merchant menu and 2026 orders",
+            "url": "https://www.foodpanda.ph/restaurant/r9rc/monkey-grounds-coffee-benigno-aquino-avenue",
+            "checkedOn": "2026-10-22",
+            "supports": "Exact venue, municipality and the descriptive food or coffee offering stated above; no verification of prices, accessibility or unsupplied coordinates."
+          }
+        ]
+      },
+      "photoResearch": {
+        "sources": [
+          "https://www.foodpanda.ph/restaurant/r9rc/monkey-grounds-coffee-benigno-aquino-avenue",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Monkey+Grounds+Coffee+Iloilo+City&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Monkey+Grounds+Coffee&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=Monkey+Grounds+Coffee+Iloilo+City&license=4%2C5%2C9%2C10"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "approved": true,
+      "identityReviewed": true,
+      "operationReviewed": true,
+      "record": {
+        "id": "iloilo-loco-smallville",
+        "name": "LoCo Local Coffee — Smallville",
+        "destination_group": "Iloilo",
+        "region": "Western Visayas",
+        "province": null,
+        "city_municipality": "Iloilo City",
+        "barangay": null,
+        "address": "Smallville, Mandurriao",
+        "latitude": null,
+        "longitude": null,
+        "sources": {
+          "identity": {
+            "sourceName": "LoCo Local Coffee — Smallville — venue website",
+            "sourceUrl": "https://localcoffee.ph/pages/about-us",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "municipality": {
+            "sourceName": "LoCo Local Coffee — Smallville — venue website",
+            "sourceUrl": "https://localcoffee.ph/pages/about-us",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "address": {
+            "sourceName": "LoCo Local Coffee — Smallville — venue website",
+            "sourceUrl": "https://localcoffee.ph/pages/about-us",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "coordinates": {
+            "sourceName": null,
+            "sourceUrl": null,
+            "dateChecked": null,
+            "status": "unverified"
+          }
+        },
+        "category": "Food & drink",
+        "description": "LoCo’s Smallville café highlights beans from Iloilo’s highlands and small-batch roasting. Its own menu description includes cold brew, silog meals, chicken pastil, panini and pasta.",
+        "interests": [
+          "Food Hunter",
+          "Slow Traveler"
+        ],
+        "itinerary_base_slug": "iloilo",
+        "catalog_stop_id": "iloilo-loco-smallville",
+        "status": "accepted",
+        "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+        "reviewed_on": "2026-10-22",
+        "planning": {
+          "base_slug": "iloilo",
+          "mode": "local",
+          "cluster": "iloilo-loco-smallville",
+          "minutes": 60,
+          "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+          "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+          "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+          "requiresBooking": false,
+          "scheduling": "candidate",
+          "outdoor": false
+        },
+        "slug": "iloilo-loco-smallville"
+      },
+      "food": {
+        "placeId": "iloilo-loco-smallville",
+        "primary": "cafe",
+        "venueType": "cafe",
+        "suitability": [
+          "coffee",
+          "meal",
+          "breakfast"
+        ],
+        "specialties": [
+          "Iloilo coffee",
+          "cold brew",
+          "silog",
+          "chicken pastil"
+        ],
+        "source": {
+          "sourceName": "LoCo Local Coffee — Smallville — venue website",
+          "sourceUrl": "https://localcoffee.ph/pages/about-us",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "officialUrl": "https://localcoffee.ph/pages/about-us",
+        "operation": {
+          "basis": "venue-offering",
+          "source": {
+            "sourceName": "LoCo Local Coffee — Smallville — venue website",
+            "sourceUrl": "https://localcoffee.ph/pages/about-us",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "limitation": "The public venue page offers this service when reviewed; no live table availability, closure guarantee or independent on-site check."
+        }
+      },
+      "content": {
+        "placeId": "iloilo-loco-smallville",
+        "summary": "LoCo’s Smallville café highlights beans from Iloilo’s highlands and small-batch roasting. Its own menu description includes cold brew, silog meals, chicken pastil, panini and pasta.",
+        "overview": [
+          "LoCo’s Smallville café highlights beans from Iloilo’s highlands and small-batch roasting. Its own menu description includes cold brew, silog meals, chicken pastil, panini and pasta.",
+          "Confirm the current menu and service before travelling. Lakbay has not verified a map pin, meal prices or accessibility for this listing; any itinerary allowance is an estimate."
+        ],
+        "highlights": [
+          {
+            "text": "Iloilo coffee",
+            "sourceUrls": [
+              "https://localcoffee.ph/pages/about-us"
+            ]
+          },
+          {
+            "text": "cold brew",
+            "sourceUrls": [
+              "https://localcoffee.ph/pages/about-us"
+            ]
+          },
+          {
+            "text": "silog",
+            "sourceUrls": [
+              "https://localcoffee.ph/pages/about-us"
+            ]
+          }
+        ],
+        "tips": [],
+        "sources": [
+          {
+            "name": "LoCo Local Coffee — Smallville — venue website",
+            "url": "https://localcoffee.ph/pages/about-us",
+            "checkedOn": "2026-10-22",
+            "supports": "Exact venue, municipality and the descriptive food or coffee offering stated above; no verification of prices, accessibility or unsupplied coordinates."
+          }
+        ]
+      },
+      "photoResearch": {
+        "sources": [
+          "https://localcoffee.ph/pages/about-us",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=LoCo+Local+Coffee+Iloilo+City&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=LoCo+Local+Coffee&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=LoCo+Local+Coffee+Iloilo+City&license=4%2C5%2C9%2C10"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "approved": true,
+      "identityReviewed": true,
+      "operationReviewed": true,
+      "record": {
+        "id": "iloilo-netongs-la-paz",
+        "name": "Netong’s Original Special La Paz Batchoy — La Paz Market",
+        "destination_group": "Iloilo",
+        "region": "Western Visayas",
+        "province": null,
+        "city_municipality": "Iloilo City",
+        "barangay": null,
+        "address": "La Paz Public Market",
+        "latitude": null,
+        "longitude": null,
+        "sources": {
+          "identity": {
+            "sourceName": "BusinessWorld — April 2026 owner interview",
+            "sourceUrl": "https://www.bworldonline.com/bw-launchpad/2026/04/15/742817/netongs-eyes-partnerships-to-cushion-rising-costs/",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "municipality": {
+            "sourceName": "BusinessWorld — April 2026 owner interview",
+            "sourceUrl": "https://www.bworldonline.com/bw-launchpad/2026/04/15/742817/netongs-eyes-partnerships-to-cushion-rising-costs/",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "address": {
+            "sourceName": "BusinessWorld — April 2026 owner interview",
+            "sourceUrl": "https://www.bworldonline.com/bw-launchpad/2026/04/15/742817/netongs-eyes-partnerships-to-cushion-rising-costs/",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "coordinates": {
+            "sourceName": null,
+            "sourceUrl": null,
+            "dateChecked": null,
+            "status": "unverified"
+          }
+        },
+        "category": "Food & drink",
+        "description": "Netong’s market branch serves La Paz batchoy, a noodle soup with meat, innards and crunchy toppings. An April 2026 owner interview confirms continued operation at the redeveloped La Paz Public Market.",
+        "interests": [
+          "Food Hunter"
+        ],
+        "itinerary_base_slug": "iloilo",
+        "catalog_stop_id": "iloilo-netongs-la-paz",
+        "status": "accepted",
+        "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+        "reviewed_on": "2026-10-22",
+        "planning": {
+          "base_slug": "iloilo",
+          "mode": "local",
+          "cluster": "iloilo-netongs-la-paz",
+          "minutes": 90,
+          "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+          "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+          "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+          "requiresBooking": false,
+          "scheduling": "candidate",
+          "outdoor": false
+        },
+        "slug": "iloilo-netongs-la-paz"
+      },
+      "food": {
+        "placeId": "iloilo-netongs-la-paz",
+        "primary": "other-food",
+        "venueType": "restaurant",
+        "suitability": [
+          "meal"
+        ],
+        "specialties": [
+          "La Paz batchoy",
+          "noodle soup"
+        ],
+        "source": {
+          "sourceName": "BusinessWorld — April 2026 owner interview",
+          "sourceUrl": "https://www.bworldonline.com/bw-launchpad/2026/04/15/742817/netongs-eyes-partnerships-to-cushion-rising-costs/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "officialUrl": null,
+        "operation": {
+          "basis": "recent-report",
+          "source": {
+            "sourceName": "BusinessWorld — April 2026 owner interview",
+            "sourceUrl": "https://www.bworldonline.com/bw-launchpad/2026/04/15/742817/netongs-eyes-partnerships-to-cushion-rising-costs/",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "limitation": "Dated local reporting or public business activity supports this venue; opening, menu availability and access still need direct confirmation."
+        },
+        "publishedPrices": {
+          "text": "BusinessWorld reported PHP115–155 per bowl on 15 April 2026. This is a dated menu observation, not a current quote; confirm prices directly. It does not replace the estimated itinerary allowance.",
+          "source": {
+            "sourceName": "BusinessWorld — April 2026 owner interview",
+            "sourceUrl": "https://www.bworldonline.com/bw-launchpad/2026/04/15/742817/netongs-eyes-partnerships-to-cushion-rising-costs/",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          }
+        }
+      },
+      "content": {
+        "placeId": "iloilo-netongs-la-paz",
+        "summary": "Netong’s market branch serves La Paz batchoy, a noodle soup with meat, innards and crunchy toppings. An April 2026 owner interview confirms continued operation at the redeveloped La Paz Public Market.",
+        "overview": [
+          "Netong’s market branch serves La Paz batchoy, a noodle soup with meat, innards and crunchy toppings. An April 2026 owner interview confirms continued operation at the redeveloped La Paz Public Market.",
+          "Confirm the current menu and service before travelling. Lakbay has not verified a map pin, meal prices or accessibility for this listing; any itinerary allowance is an estimate."
+        ],
+        "highlights": [
+          {
+            "text": "La Paz batchoy",
+            "sourceUrls": [
+              "https://www.bworldonline.com/bw-launchpad/2026/04/15/742817/netongs-eyes-partnerships-to-cushion-rising-costs/"
+            ]
+          },
+          {
+            "text": "noodle soup",
+            "sourceUrls": [
+              "https://www.bworldonline.com/bw-launchpad/2026/04/15/742817/netongs-eyes-partnerships-to-cushion-rising-costs/"
+            ]
+          }
+        ],
+        "tips": [],
+        "sources": [
+          {
+            "name": "BusinessWorld — April 2026 owner interview",
+            "url": "https://www.bworldonline.com/bw-launchpad/2026/04/15/742817/netongs-eyes-partnerships-to-cushion-rising-costs/",
+            "checkedOn": "2026-10-22",
+            "supports": "Exact venue, municipality and the descriptive food or coffee offering stated above; no verification of prices, accessibility or unsupplied coordinates."
+          }
+        ]
+      },
+      "photoResearch": {
+        "sources": [
+          "https://www.bworldonline.com/bw-launchpad/2026/04/15/742817/netongs-eyes-partnerships-to-cushion-rising-costs/",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Netong%E2%80%99s+Original+Special+La+Paz+Batchoy+Iloilo+City&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Netong%E2%80%99s+Original+Special+La+Paz+Batchoy&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=Netong%E2%80%99s+Original+Special+La+Paz+Batchoy+Iloilo+City&license=4%2C5%2C9%2C10"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "approved": true,
+      "identityReviewed": true,
+      "operationReviewed": true,
+      "record": {
+        "id": "iloilo-robertos-jm-basa",
+        "name": "Roberto’s — J.M. Basa",
+        "destination_group": "Iloilo",
+        "region": "Western Visayas",
+        "province": null,
+        "city_municipality": "Iloilo City",
+        "barangay": null,
+        "address": "61 J.M. Basa Street",
+        "latitude": null,
+        "longitude": null,
+        "sources": {
+          "identity": {
+            "sourceName": "Outrage Magazine — January 2026 Roberto’s visit",
+            "sourceUrl": "https://outragemag.com/it-supposedly-has-the-best-siopao-in-iloilo-city-so-we-tried-robertos/",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "municipality": {
+            "sourceName": "Outrage Magazine — January 2026 Roberto’s visit",
+            "sourceUrl": "https://outragemag.com/it-supposedly-has-the-best-siopao-in-iloilo-city-so-we-tried-robertos/",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "address": {
+            "sourceName": "Outrage Magazine — January 2026 Roberto’s visit",
+            "sourceUrl": "https://outragemag.com/it-supposedly-has-the-best-siopao-in-iloilo-city-so-we-tried-robertos/",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "coordinates": {
+            "sourceName": null,
+            "sourceUrl": null,
+            "dateChecked": null,
+            "status": "unverified"
+          }
+        },
+        "category": "Food & drink",
+        "description": "Roberto’s on J.M. Basa Street is a local siopao destination, documented by a January 2026 visit. The Queen bun combines several fillings; this is one named shop, without counting individual bun varieties as venues.",
+        "interests": [
+          "Food Hunter"
+        ],
+        "itinerary_base_slug": "iloilo",
+        "catalog_stop_id": "iloilo-robertos-jm-basa",
+        "status": "accepted",
+        "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+        "reviewed_on": "2026-10-22",
+        "planning": {
+          "base_slug": "iloilo",
+          "mode": "local",
+          "cluster": "iloilo-robertos-jm-basa",
+          "minutes": 90,
+          "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+          "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+          "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+          "requiresBooking": false,
+          "scheduling": "candidate",
+          "outdoor": false
+        },
+        "slug": "iloilo-robertos-jm-basa"
+      },
+      "food": {
+        "placeId": "iloilo-robertos-jm-basa",
+        "primary": "other-food",
+        "venueType": "food-shop",
+        "suitability": [
+          "bakery"
+        ],
+        "specialties": [
+          "siopao"
+        ],
+        "source": {
+          "sourceName": "Outrage Magazine — January 2026 Roberto’s visit",
+          "sourceUrl": "https://outragemag.com/it-supposedly-has-the-best-siopao-in-iloilo-city-so-we-tried-robertos/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "officialUrl": null,
+        "operation": {
+          "basis": "recent-report",
+          "source": {
+            "sourceName": "Outrage Magazine — January 2026 Roberto’s visit",
+            "sourceUrl": "https://outragemag.com/it-supposedly-has-the-best-siopao-in-iloilo-city-so-we-tried-robertos/",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "limitation": "Dated local reporting or public business activity supports this venue; opening, menu availability and access still need direct confirmation."
+        }
+      },
+      "content": {
+        "placeId": "iloilo-robertos-jm-basa",
+        "summary": "Roberto’s on J.M. Basa Street is a local siopao destination, documented by a January 2026 visit. The Queen bun combines several fillings; this is one named shop, without counting individual bun varieties as venues.",
+        "overview": [
+          "Roberto’s on J.M. Basa Street is a local siopao destination, documented by a January 2026 visit. The Queen bun combines several fillings; this is one named shop, without counting individual bun varieties as venues.",
+          "Later reporting discusses an expansion along J.M. Basa. Confirm the current shop entrance; no separate planned branch or unsupported map pin has been added."
+        ],
+        "highlights": [
+          {
+            "text": "siopao",
+            "sourceUrls": [
+              "https://outragemag.com/it-supposedly-has-the-best-siopao-in-iloilo-city-so-we-tried-robertos/"
+            ]
+          }
+        ],
+        "tips": [],
+        "sources": [
+          {
+            "name": "Outrage Magazine — January 2026 Roberto’s visit",
+            "url": "https://outragemag.com/it-supposedly-has-the-best-siopao-in-iloilo-city-so-we-tried-robertos/",
+            "checkedOn": "2026-10-22",
+            "supports": "Exact venue, municipality and the descriptive food or coffee offering stated above; no verification of prices, accessibility or unsupplied coordinates."
+          }
+        ]
+      },
+      "photoResearch": {
+        "sources": [
+          "https://outragemag.com/it-supposedly-has-the-best-siopao-in-iloilo-city-so-we-tried-robertos/",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Roberto%E2%80%99s+Iloilo+City&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Roberto%E2%80%99s&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=Roberto%E2%80%99s+Iloilo+City&license=4%2C5%2C9%2C10"
+        ],
+        "outcome": "Individual license, identity and visual review approved; published separately through the optimized image pipeline.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    },
+    {
+      "approved": true,
+      "identityReviewed": true,
+      "operationReviewed": true,
+      "record": {
+        "id": "iloilo-carlos-dungon",
+        "name": "Carlo’s Bakery & Cafe — Dungon",
+        "destination_group": "Iloilo",
+        "region": "Western Visayas",
+        "province": null,
+        "city_municipality": "Iloilo City",
+        "barangay": null,
+        "address": "117 Benigno Aquino Avenue, Dungon",
+        "latitude": null,
+        "longitude": null,
+        "sources": {
+          "identity": {
+            "sourceName": "Carlo’s Bakery & Cafe — Dungon — venue website",
+            "sourceUrl": "https://carlos-bakeshop.com/",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "municipality": {
+            "sourceName": "Carlo’s Bakery & Cafe — Dungon — venue website",
+            "sourceUrl": "https://carlos-bakeshop.com/",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "address": {
+            "sourceName": "Carlo’s Bakery & Cafe — Dungon — venue website",
+            "sourceUrl": "https://carlos-bakeshop.com/",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "coordinates": {
+            "sourceName": null,
+            "sourceUrl": null,
+            "dateChecked": null,
+            "status": "unverified"
+          }
+        },
+        "category": "Food & drink",
+        "description": "Carlo’s Dungon bakery-café serves baked goods, sandwiches, pasta and merienda dishes at 117 Benigno Aquino Avenue. The family business’s own branch page identifies this particular Iloilo shop.",
+        "interests": [
+          "Food Hunter"
+        ],
+        "itinerary_base_slug": "iloilo",
+        "catalog_stop_id": "iloilo-carlos-dungon",
+        "status": "accepted",
+        "decision_reason": "Exact venue identity, municipality and current public offering reviewed; optional facts remain independently unknown.",
+        "reviewed_on": "2026-10-22",
+        "planning": {
+          "base_slug": "iloilo",
+          "mode": "local",
+          "cluster": "iloilo-carlos-dungon",
+          "minutes": 90,
+          "booking": "Confirm current service and reservation requirements directly with the venue. No reservation has been made.",
+          "transport": "Route and travel time have not been verified. Confirm the exact entrance before setting out.",
+          "accessibility": "Accessibility has not been verified. Ask the venue about your specific needs.",
+          "requiresBooking": false,
+          "scheduling": "candidate",
+          "outdoor": false
+        },
+        "slug": "iloilo-carlos-dungon"
+      },
+      "food": {
+        "placeId": "iloilo-carlos-dungon",
+        "primary": "other-food",
+        "venueType": "bakery",
+        "suitability": [
+          "bakery",
+          "meal",
+          "dessert"
+        ],
+        "specialties": [
+          "baked goods",
+          "sandwiches",
+          "merienda"
+        ],
+        "source": {
+          "sourceName": "Carlo’s Bakery & Cafe — Dungon — venue website",
+          "sourceUrl": "https://carlos-bakeshop.com/",
+          "dateChecked": "2026-10-22",
+          "status": "verified"
+        },
+        "officialUrl": "https://carlos-bakeshop.com/",
+        "operation": {
+          "basis": "recent-report",
+          "source": {
+            "sourceName": "Iloilo Updates — August 2026 Dungon menu report",
+            "sourceUrl": "https://iloiloupdates.home.blog/2026/08/17/carlos-bakery-cafe-menu/",
+            "dateChecked": "2026-10-22",
+            "status": "verified"
+          },
+          "limitation": "Dated local reporting supports this named venue and its offering. It does not establish today’s opening, menu availability or table availability; confirm directly before travelling."
+        }
+      },
+      "content": {
+        "placeId": "iloilo-carlos-dungon",
+        "summary": "Carlo’s Dungon bakery-café serves baked goods, sandwiches, pasta and merienda dishes at 117 Benigno Aquino Avenue. The family business’s own branch page identifies this particular Iloilo shop.",
+        "overview": [
+          "Carlo’s Dungon bakery-café serves baked goods, sandwiches, pasta and merienda dishes at 117 Benigno Aquino Avenue. The family business’s own branch page identifies this particular Iloilo shop.",
+          "Confirm the current menu and service before travelling. Lakbay has not verified a map pin, meal prices or accessibility for this listing; any itinerary allowance is an estimate."
+        ],
+        "highlights": [
+          {
+            "text": "baked goods",
+            "sourceUrls": [
+              "https://carlos-bakeshop.com/"
+            ]
+          },
+          {
+            "text": "sandwiches",
+            "sourceUrls": [
+              "https://carlos-bakeshop.com/"
+            ]
+          },
+          {
+            "text": "merienda",
+            "sourceUrls": [
+              "https://carlos-bakeshop.com/"
+            ]
+          }
+        ],
+        "tips": [],
+        "sources": [
+          {
+            "name": "Carlo’s Bakery & Cafe — Dungon — venue website",
+            "url": "https://carlos-bakeshop.com/",
+            "checkedOn": "2026-10-22",
+            "supports": "Exact venue, municipality and the descriptive food or coffee offering stated above; no verification of prices, accessibility or unsupplied coordinates."
+          }
+        ]
+      },
+      "photoResearch": {
+        "sources": [
+          "https://carlos-bakeshop.com/",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Carlo%E2%80%99s+Bakery+%26+Cafe+Iloilo+City&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Carlo%E2%80%99s+Bakery+%26+Cafe&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "https://www.flickr.com/search/?text=Carlo%E2%80%99s+Bakery+%26+Cafe+Iloilo+City&license=4%2C5%2C9%2C10"
+        ],
+        "outcome": "Needs a supplied photograph; see saved source searches and per-candidate rejection/uncertainty records.",
+        "record": "docs/food-directory/media/decisions.json"
+      }
+    }
+  ],
+  "decisions": [
+    {
+      "name": "Lamesa Davao",
+      "status": "unresolved",
+      "sources": [
+        "https://www.sunstar.com.ph/amp/story/davao/kadayawan-2026-see-it-taste-it-live-it"
+      ],
+      "reason": "Current city-level mention found, but branch identity and primary venue details need further confirmation; no quota-filling record added."
+    }
+  ]
+}
