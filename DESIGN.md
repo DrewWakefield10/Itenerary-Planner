@@ -52,6 +52,8 @@ Runtime tokens in `app/globals.css` are canonical (Model B). Frontmatter mirrors
 
 The existing `.page`, `.section`, `.discovery-grid`, `.paper-note`, and `.discovery-detail-grid` own width and spacing. Destination tabs use a responsive grid; the complete directory paginates at 12 records. Filters remain visible native controls with labels. The document owns scrolling; dialogs have bounded inner scrolling.
 
+Explore Destinations buttons scroll the updated Spots to discover section into view with a small top inset. Keep the existing toggle and combined filters, retain button focus, and use an immediate scroll when reduced motion is requested. Restoring a URL does not initiate this scroll.
+
 Discover puts filtered, paginated Spots to discover before the unchanged readership section in DOM order. Place details lead with the actual municipality and a documentary photograph, followed by overview/highlights, place-specific videos, practical notes, and expandable sources/credits. The existing cream/teal notebook remains canonical. Video players use YouTube's own privacy-enhanced iframe surface in a two-column desktop, one-column mobile grid; controls are never recreated. Every player reserves 16:9 space and has an external fallback link. Photography reserves space and falls back to the compass without substituting another place's photo.
 
 ## Elevation & Depth

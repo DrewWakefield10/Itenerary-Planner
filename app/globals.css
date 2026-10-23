@@ -1582,6 +1582,7 @@ textarea {
 .discovery-actions .text-link { font-size: 11px; }
 .discovery-view { font-size: 11px; text-decoration: underline; text-underline-offset: 4px; }
 .discovery-section { margin-top: 60px; }
+#discover-spots { scroll-margin-top: 24px; }
 .discovery-section>p { margin-bottom: 25px; max-width: 760px; }
 .discovery-interest-section { padding: 30px; border: 1px solid var(--line); background: #eee9dc66; }
 .discovery-note-tag { font-size: 9px; letter-spacing: 1.4px; border: 1px solid var(--line); padding: 9px 12px; }

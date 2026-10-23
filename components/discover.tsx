@@ -1,5 +1,5 @@
 "use client";
-import { lazy, Suspense, useEffect, useMemo, useState } from "react";
+import { lazy, Suspense, useEffect, useMemo, useRef, useState } from "react";
 import Link from "next/link";
 import {
   ArrowLeft,
@@ -221,6 +221,17 @@ export default function Discover({ placeId }: { placeId?: string }) {
     [page, setPage] = useState(1),
     [showBases, setShowBases] = useState(false);
   const [filtersReady, setFiltersReady] = useState(false);
+  const spotsSection = useRef<HTMLElement>(null);
+  const [destinationSelection, setDestinationSelection] = useState(0);
+  useEffect(() => {
+    if (!destinationSelection || placeId) return;
+    spotsSection.current?.scrollIntoView({
+      behavior: window.matchMedia("(prefers-reduced-motion: reduce)").matches
+        ? "instant"
+        : "smooth",
+      block: "start",
+    });
+  }, [destinationSelection, placeId]);
   useEffect(() => {
     const restore = () => {
       const params = new URLSearchParams(window.location.search);
@@ -394,9 +405,11 @@ export default function Discover({ placeId }: { placeId?: string }) {
                       : "directory-destination"
                   }
                   aria-pressed={area === group}
+                  aria-controls="discover-spots"
                   onClick={() => {
                     setArea(area === group ? "all" : group);
                     setPage(1);
+                    setDestinationSelection((selection) => selection + 1);
                   }}
                 >
                   <img
@@ -517,7 +530,7 @@ export default function Discover({ placeId }: { placeId?: string }) {
               Clear all filters
             </button>
           )}
-          <section className="discovery-section" aria-labelledby="spots-title">
+          <section id="discover-spots" ref={spotsSection} className="discovery-section" aria-labelledby="spots-title">
             <span className="eyebrow">01 / THE PLACE COLLECTION</span>
             <h2 id="spots-title">
               Spots to <em>discover.</em>
