@@ -20,6 +20,7 @@
     "test:browser": "node tests/foundation.mjs && node tests/planner.mjs && node tests/interactive.mjs && node tests/portability.mjs && node tests/sources-browser.mjs && node tests/rain-browser.mjs",
     "test:accounts": "tsx --test tests/accounts.test.ts tests/vercel-accounts.test.ts",
     "test:accounts:browser": "node tests/accounts-browser.mjs",
+    "test:explore:browser": "node --import tsx tests/explore-browser.mjs",
     "export:directory": "tsx scripts/export-directory.ts",
     "publish:food": "tsx scripts/publish-food-batch.ts",
     "progress:food": "tsx scripts/food-progress.ts",

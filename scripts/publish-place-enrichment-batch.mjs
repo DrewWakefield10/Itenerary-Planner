@@ -9,7 +9,7 @@ if(decision.mode==='instagram-only'){
   const result=spawnSync(process.execPath,['--import','tsx','scripts/publish-instagram-batch.ts',process.argv[2]],{stdio:'inherit'});
   process.exit(result.status??1);
 }
-if(decision.mode==='photos-only'){
+if(decision.mode==='photos-only'||decision.mode==='cover-photos'){
   const {publishPhotoBatch}=await import('./publish-place-photo-batch.mjs');
   await publishPhotoBatch(decision);
   process.exit(0);

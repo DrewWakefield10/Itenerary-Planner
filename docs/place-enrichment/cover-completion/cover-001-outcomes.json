@@ -1,0 +1,925 @@
+{
+  "batchId": "cover-001",
+  "mode": "photos-only",
+  "checkedOn": "2026-10-23",
+  "outcomes": [
+    {
+      "placeId": "siargao-catangnan-bridge",
+      "checkedOn": "2026-10-23",
+      "sourcesSearched": [
+        {
+          "provider": "Flickr",
+          "query": "Catangnan–Cabitoonan Bridge General Luna",
+          "url": "https://www.flickr.com/search/?text=Catangnan%E2%80%93Cabitoonan+Bridge+General+Luna&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Cabitoonan bridge",
+          "url": "https://www.flickr.com/search/?text=Cabitoonan+bridge&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Commons",
+          "query": "Cabitoonan bridge",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Cabitoonan+bridge&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        }
+      ],
+      "rejections": [],
+      "notes": [
+        "Earlier approved descriptions, photographs, videos, stable IDs, bookmarks and saved trips are preserved. Public or official visibility alone does not establish image reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source."
+    },
+    {
+      "placeId": "siargao-tayangban-cave-pool",
+      "checkedOn": "2026-10-23",
+      "sourcesSearched": [
+        {
+          "provider": "Flickr",
+          "query": "Tayangban Cave Pool Pilar",
+          "url": "https://www.flickr.com/search/?text=Tayangban+Cave+Pool+Pilar&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Tayangban",
+          "url": "https://www.flickr.com/search/?text=Tayangban&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "rejections": [],
+      "notes": [
+        "Earlier approved descriptions, photographs, videos, stable IDs, bookmarks and saved trips are preserved. Public or official visibility alone does not establish image reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source."
+    },
+    {
+      "placeId": "siargao-maasin-river",
+      "checkedOn": "2026-10-23",
+      "sourcesSearched": [
+        {
+          "provider": "Flickr",
+          "query": "Maasin River Pilar",
+          "url": "https://www.flickr.com/search/?text=Maasin+River+Pilar&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Maasin Siargao",
+          "url": "https://www.flickr.com/search/?text=Maasin+Siargao&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "rejections": [],
+      "notes": [
+        "Earlier approved descriptions, photographs, videos, stable IDs, bookmarks and saved trips are preserved. Public or official visibility alone does not establish image reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source."
+    },
+    {
+      "placeId": "siargao-pacifico-beach",
+      "checkedOn": "2026-10-23",
+      "sourcesSearched": [
+        {
+          "provider": "Flickr",
+          "query": "Pacifico Beach San Isidro",
+          "url": "https://www.flickr.com/search/?text=Pacifico+Beach+San+Isidro&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Pacifico Siargao",
+          "url": "https://www.flickr.com/search/?text=Pacifico+Siargao&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "rejections": [],
+      "notes": [
+        "Earlier approved descriptions, photographs, videos, stable IDs, bookmarks and saved trips are preserved. Public or official visibility alone does not establish image reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source."
+    },
+    {
+      "placeId": "siargao-alegria-beach",
+      "checkedOn": "2026-10-23",
+      "sourcesSearched": [
+        {
+          "provider": "Flickr",
+          "query": "Alegria Beach Santa Monica",
+          "url": "https://www.flickr.com/search/?text=Alegria+Beach+Santa+Monica&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Alegria Siargao",
+          "url": "https://www.flickr.com/search/?text=Alegria+Siargao&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "rejections": [],
+      "notes": [
+        "Earlier approved descriptions, photographs, videos, stable IDs, bookmarks and saved trips are preserved. Public or official visibility alone does not establish image reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source."
+    },
+    {
+      "placeId": "siargao-taktak-falls",
+      "checkedOn": "2026-10-23",
+      "sourcesSearched": [
+        {
+          "provider": "Flickr",
+          "query": "Taktak Falls Santa Monica",
+          "url": "https://www.flickr.com/search/?text=Taktak+Falls+Santa+Monica&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Taktak",
+          "url": "https://www.flickr.com/search/?text=Taktak&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 4,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "rejections": [
+        {
+          "sourcePage": "https://www.flickr.com/photos/dmclear/5418506107/",
+          "title": "Taktaks",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/bigfarmer/48356413181/",
+          "title": "Fooled me. Twice!",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/bigfarmer/48356411926/",
+          "title": "Fooled me. Twice!",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/photocapy/3616830185/",
+          "title": "Busy",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        }
+      ],
+      "notes": [
+        "Earlier approved descriptions, photographs, videos, stable IDs, bookmarks and saved trips are preserved. Public or official visibility alone does not establish image reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "No candidate established an exact-place/branch photograph with individually reviewed compatible rights and a usable image. Name collisions and neighboring places are not substitutes. Supply an authorized exact-place photograph or resolve the linked candidate review."
+    },
+    {
+      "placeId": "siargao-santa-monica-pier",
+      "checkedOn": "2026-10-23",
+      "sourcesSearched": [
+        {
+          "provider": "Flickr",
+          "query": "Santa Monica Pier Santa Monica",
+          "url": "https://www.flickr.com/search/?text=Santa+Monica+Pier+Santa+Monica&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 12,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Santa Monica Pier Siargao",
+          "url": "https://www.flickr.com/search/?text=Santa+Monica+Pier+Siargao&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "rejections": [
+        {
+          "sourcePage": "https://www.flickr.com/photos/giuseppemilo/8536790498/",
+          "title": "Santa Monica Pier - Los Angeles",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/giuseppemilo/8535685029/",
+          "title": "Santa Monica Pier - Los Angeles",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/fernando/32232569756/",
+          "title": "Santa Monica Pier Sunset",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/131880272@N06/17181458066/",
+          "title": "150316 052 Santa Monica Pier is really big",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/discoverytourstv/15912028938/",
+          "title": "Santa Monica Pier, Los Angeles",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/inazakira/5308685520/",
+          "title": "Sunset of Santa Monica",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/chrissamuel/5213738553/",
+          "title": "Santa Monica Pier Sunset - HDR_20101121_1647.jpg",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/namoscato/42651233620/",
+          "title": "Santa Monica Pier",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/126392904@N06/19995446774/",
+          "title": "Santa Monica-8",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/anapaulahrm/15210482588/",
+          "title": "Santa Monica - Los Angeles County, California",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/sergeigussev/24065450228/",
+          "title": "Santa Monica",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/sergeigussev/24065450028/",
+          "title": "Santa Monica",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        }
+      ],
+      "notes": [
+        "Earlier approved descriptions, photographs, videos, stable IDs, bookmarks and saved trips are preserved. Public or official visibility alone does not establish image reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "No candidate established an exact-place/branch photograph with individually reviewed compatible rights and a usable image. Name collisions and neighboring places are not substitutes. Supply an authorized exact-place photograph or resolve the linked candidate review."
+    },
+    {
+      "placeId": "siargao-del-carmen-mangrove-viewdeck",
+      "checkedOn": "2026-10-23",
+      "sourcesSearched": [
+        {
+          "provider": "Flickr",
+          "query": "Del Carmen Mangrove Viewdeck Del Carmen",
+          "url": "https://www.flickr.com/search/?text=Del+Carmen+Mangrove+Viewdeck+Del+Carmen&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Del Carmen mangrove",
+          "url": "https://www.flickr.com/search/?text=Del+Carmen+mangrove&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 12,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Commons",
+          "query": "Del Carmen mangrove",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Del+Carmen+mangrove&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 4
+        }
+      ],
+      "rejections": [
+        {
+          "sourcePage": "https://www.flickr.com/photos/miguel_discart_vrac_3/46043657812/",
+          "title": "2017-12-07_12-06-47_ILCE-6500_DSC02865",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/miguel_discart_vrac_3/45371601884/",
+          "title": "2017-12-08_12-58-57_ILCE-6500_DSC03809",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/miguel_discart_vrac_3/46043700472/",
+          "title": "2017-12-07_12-09-10_ILCE-6500_DSC02879",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/33037982@N04/5426040275/",
+          "title": "Bursera simaruba (Chacah)",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/33037982@N04/5426643792/",
+          "title": "Bursera simaruba (Chacah)",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/inoldnews/54018350180/",
+          "title": "Drone shot of mangroves in the Siargao Island region",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/inoldnews/54018126238/",
+          "title": "Drone shot of mangroves in the Siargao Island region",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/inoldnews/54017924061/",
+          "title": "Wide shot of boating through dried up mangroves on a sunny day",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/inoldnews/54018139998/",
+          "title": "Drone shot of mangroves in the Siargao Island region",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/inoldnews/54017903621/",
+          "title": "Drone shot of mangroves in the Siargao Island region",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/inoldnews/54018354785/",
+          "title": "A tracking shot of a reptile sliding on a mangrove branch",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/33037982@N04/33016445942/",
+          "title": "Mangrove Jellyfish (Cassiopea xamachana)",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Mangrove_ciudad_del_carmen2020.jpg",
+          "title": "File:Mangrove ciudad del carmen2020.jpg",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Laguna_de_T%C3%A9rminos.jpeg",
+          "title": "File:Laguna de Términos.jpeg",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:The_Del_Carmen_Mangrove_Reserve,_a_recently_designated_Ramsar_Site_(Copernicus_2024-11-28).png",
+          "title": "File:The Del Carmen Mangrove Reserve, a recently designated Ramsar Site (Copernicus 2024-11-28).png",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:The_Del_Carmen_Mangrove_Reserve,_a_recently_designated_Ramsar_Site_(Copernicus_2024-11-28).webp",
+          "title": "File:The Del Carmen Mangrove Reserve, a recently designated Ramsar Site (Copernicus 2024-11-28).webp",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        }
+      ],
+      "notes": [
+        "Earlier approved descriptions, photographs, videos, stable IDs, bookmarks and saved trips are preserved. Public or official visibility alone does not establish image reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "No candidate established an exact-place/branch photograph with individually reviewed compatible rights and a usable image. Name collisions and neighboring places are not substitutes. Supply an authorized exact-place photograph or resolve the linked candidate review."
+    },
+    {
+      "placeId": "siargao-poneas-lake",
+      "checkedOn": "2026-10-23",
+      "sourcesSearched": [
+        {
+          "provider": "Flickr",
+          "query": "Poneas Lake San Benito",
+          "url": "https://www.flickr.com/search/?text=Poneas+Lake+San+Benito&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Poneas Lake Siargao",
+          "url": "https://www.flickr.com/search/?text=Poneas+Lake+Siargao&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "rejections": [],
+      "notes": [
+        "Earlier approved descriptions, photographs, videos, stable IDs, bookmarks and saved trips are preserved. Public or official visibility alone does not establish image reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source."
+    },
+    {
+      "placeId": "siargao-sohoton-cove",
+      "checkedOn": "2026-10-23",
+      "sourcesSearched": [
+        {
+          "provider": "Flickr",
+          "query": "Sohoton Cove Socorro",
+          "url": "https://www.flickr.com/search/?text=Sohoton+Cove+Socorro&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Sohoton",
+          "url": "https://www.flickr.com/search/?text=Sohoton&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 12,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Commons",
+          "query": "Sohoton",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Sohoton&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 8
+        }
+      ],
+      "rejections": [
+        {
+          "sourcePage": "https://www.flickr.com/photos/93788068@N02/51959825160/",
+          "title": "Sohoton Cove",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/93788068@N02/51959243176/",
+          "title": "Sohoton Bucas Grande",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/93788068@N02/51959539354/",
+          "title": "Cave in Sohoton",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/28722516@N02/3734832254/",
+          "title": "Lazarus Jewel Box - Chama Lazarus",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/28722516@N02/3734831876/",
+          "title": "Lazarus Jewel Box - Chama Lazarus",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/28722516@N02/3734039185/",
+          "title": "Lazarus Jewel Box - Chama Lazarus",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/28722516@N02/3734832496/",
+          "title": "Lazarus Jewel Box - Chama Lazarus",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/28722516@N02/3734036837/",
+          "title": "Lazarus Jewel Box - Chama Lazarus",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/28722516@N02/3734037231/",
+          "title": "Lazarus Jewel Box - Chama Lazarus",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/28722516@N02/3734034733/",
+          "title": "Lazarus Jewel Box - Chama Lazarus",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/28722516@N02/3734039595/",
+          "title": "Lazarus Jewel Box - Chama Lazarus",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/28722516@N02/3734035731/",
+          "title": "Lazarus Jewel Box - Chama Lazarus",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Sohoton_Cave_at_Sohoton_Natural_Bridge_National_Park.JPG",
+          "title": "File:Sohoton Cave at Sohoton Natural Bridge National Park.JPG",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Sohoton_Cave_at_Sohoton_Natural_Bridge_National_Park2.JPG",
+          "title": "File:Sohoton Cave at Sohoton Natural Bridge National Park2.JPG",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Interior_of_Sohoton_Cave2.JPG",
+          "title": "File:Interior of Sohoton Cave2.JPG",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Interior_of_Sohoton_Cave.JPG",
+          "title": "File:Interior of Sohoton Cave.JPG",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Sohoton_Cave_Interior_1.JPG",
+          "title": "File:Sohoton Cave Interior 1.JPG",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Sohoton_Natural_Bridge_1.JPG",
+          "title": "File:Sohoton Natural Bridge 1.JPG",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Sohoton_Natural_Bridge_3.JPG",
+          "title": "File:Sohoton Natural Bridge 3.JPG",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Sohoton_Natural_Bridge_4.JPG",
+          "title": "File:Sohoton Natural Bridge 4.JPG",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        }
+      ],
+      "notes": [
+        "Earlier approved descriptions, photographs, videos, stable IDs, bookmarks and saved trips are preserved. Public or official visibility alone does not establish image reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "Promising exact-place candidate has individually checked reusable license metadata, but the public image delivery endpoint timed out. Visual review remains incomplete; no photograph is copied. Resolve image delivery or supply an authorized photograph."
+    },
+    {
+      "placeId": "siargao-paghungawan-marsh",
+      "checkedOn": "2026-10-23",
+      "sourcesSearched": [
+        {
+          "provider": "Flickr",
+          "query": "Paghungawan Marsh Pilar",
+          "url": "https://www.flickr.com/search/?text=Paghungawan+Marsh+Pilar&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Paghungawan Marsh Siargao",
+          "url": "https://www.flickr.com/search/?text=Paghungawan+Marsh+Siargao&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "rejections": [],
+      "notes": [
+        "Earlier approved descriptions, photographs, videos, stable IDs, bookmarks and saved trips are preserved. Public or official visibility alone does not establish image reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source."
+    },
+    {
+      "placeId": "siargao-somyot-cave",
+      "checkedOn": "2026-10-23",
+      "sourcesSearched": [
+        {
+          "provider": "Flickr",
+          "query": "Somyot Cave Burgos",
+          "url": "https://www.flickr.com/search/?text=Somyot+Cave+Burgos&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Somyot Cave Siargao",
+          "url": "https://www.flickr.com/search/?text=Somyot+Cave+Siargao&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "rejections": [],
+      "notes": [
+        "Earlier approved descriptions, photographs, videos, stable IDs, bookmarks and saved trips are preserved. Public or official visibility alone does not establish image reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source."
+    },
+    {
+      "placeId": "siargao-osmena-wetland",
+      "checkedOn": "2026-10-23",
+      "sourcesSearched": [
+        {
+          "provider": "Flickr",
+          "query": "Osmeña Wetland Dapa",
+          "url": "https://www.flickr.com/search/?text=Osme%C3%B1a+Wetland+Dapa&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Osmeña Wetland Siargao",
+          "url": "https://www.flickr.com/search/?text=Osme%C3%B1a+Wetland+Siargao&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "rejections": [],
+      "notes": [
+        "Earlier approved descriptions, photographs, videos, stable IDs, bookmarks and saved trips are preserved. Public or official visibility alone does not establish image reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source."
+    },
+    {
+      "placeId": "siargao-kermit-restaurant",
+      "checkedOn": "2026-10-23",
+      "sourcesSearched": [
+        {
+          "provider": "Flickr",
+          "query": "Kermit Restaurant General Luna",
+          "url": "https://www.flickr.com/search/?text=Kermit+Restaurant+General+Luna&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Kermit Siargao",
+          "url": "https://www.flickr.com/search/?text=Kermit+Siargao&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "rejections": [],
+      "notes": [
+        "Earlier approved descriptions, photographs, videos, stable IDs, bookmarks and saved trips are preserved. Public or official visibility alone does not establish image reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source."
+    },
+    {
+      "placeId": "siargao-trattoria-altrove",
+      "checkedOn": "2026-10-23",
+      "sourcesSearched": [
+        {
+          "provider": "Flickr",
+          "query": "Trattoria Altrove General Luna",
+          "url": "https://www.flickr.com/search/?text=Trattoria+Altrove+General+Luna&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Trattoria Altrove Siargao",
+          "url": "https://www.flickr.com/search/?text=Trattoria+Altrove+Siargao&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "rejections": [],
+      "notes": [
+        "Earlier approved descriptions, photographs, videos, stable IDs, bookmarks and saved trips are preserved. Public or official visibility alone does not establish image reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source."
+    },
+    {
+      "placeId": "siargao-warung",
+      "checkedOn": "2026-10-23",
+      "sourcesSearched": [
+        {
+          "provider": "Flickr",
+          "query": "Warung General Luna",
+          "url": "https://www.flickr.com/search/?text=Warung+General+Luna&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Warung Siargao",
+          "url": "https://www.flickr.com/search/?text=Warung+Siargao&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "rejections": [],
+      "notes": [
+        "Earlier approved descriptions, photographs, videos, stable IDs, bookmarks and saved trips are preserved. Public or official visibility alone does not establish image reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source."
+    },
+    {
+      "placeId": "siargao-brunch-spot",
+      "checkedOn": "2026-10-23",
+      "sourcesSearched": [
+        {
+          "provider": "Flickr",
+          "query": "Brunch Spot Siargao General Luna",
+          "url": "https://www.flickr.com/search/?text=Brunch+Spot+Siargao+General+Luna&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Brunch Spot Siargao Siargao",
+          "url": "https://www.flickr.com/search/?text=Brunch+Spot+Siargao+Siargao&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "rejections": [],
+      "notes": [
+        "Earlier approved descriptions, photographs, videos, stable IDs, bookmarks and saved trips are preserved. Public or official visibility alone does not establish image reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source."
+    },
+    {
+      "placeId": "siargao-bravo-restaurant",
+      "checkedOn": "2026-10-23",
+      "sourcesSearched": [
+        {
+          "provider": "Flickr",
+          "query": "Bravo Restaurant General Luna",
+          "url": "https://www.flickr.com/search/?text=Bravo+Restaurant+General+Luna&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Bravo Siargao",
+          "url": "https://www.flickr.com/search/?text=Bravo+Siargao&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "rejections": [],
+      "notes": [
+        "Earlier approved descriptions, photographs, videos, stable IDs, bookmarks and saved trips are preserved. Public or official visibility alone does not establish image reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source."
+    },
+    {
+      "placeId": "siargao-naga-restaurant",
+      "checkedOn": "2026-10-23",
+      "sourcesSearched": [
+        {
+          "provider": "Flickr",
+          "query": "NĀGA Siargao General Luna",
+          "url": "https://www.flickr.com/search/?text=N%C4%80GA+Siargao+General+Luna&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "NĀGA Siargao Siargao",
+          "url": "https://www.flickr.com/search/?text=N%C4%80GA+Siargao+Siargao&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "rejections": [],
+      "notes": [
+        "Earlier approved descriptions, photographs, videos, stable IDs, bookmarks and saved trips are preserved. Public or official visibility alone does not establish image reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source."
+    },
+    {
+      "placeId": "siargao-malinao-beach",
+      "checkedOn": "2026-10-23",
+      "sourcesSearched": [
+        {
+          "provider": "Flickr",
+          "query": "Malinao Beach General Luna",
+          "url": "https://www.flickr.com/search/?text=Malinao+Beach+General+Luna&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Malinao Beach Siargao",
+          "url": "https://www.flickr.com/search/?text=Malinao+Beach+Siargao&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Commons",
+          "query": "Malinao Beach Siargao",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Malinao+Beach+Siargao&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        }
+      ],
+      "rejections": [],
+      "notes": [
+        "Earlier approved descriptions, photographs, videos, stable IDs, bookmarks and saved trips are preserved. Public or official visibility alone does not establish image reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source."
+    },
+    {
+      "placeId": "siargao-paseo-de-cabuntog",
+      "checkedOn": "2026-10-23",
+      "sourcesSearched": [
+        {
+          "provider": "Flickr",
+          "query": "Paseo de Cabuntog General Luna",
+          "url": "https://www.flickr.com/search/?text=Paseo+de+Cabuntog+General+Luna&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Paseo de Cabuntog Siargao",
+          "url": "https://www.flickr.com/search/?text=Paseo+de+Cabuntog+Siargao&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "rejections": [],
+      "notes": [
+        "Earlier approved descriptions, photographs, videos, stable IDs, bookmarks and saved trips are preserved. Public or official visibility alone does not establish image reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source."
+    },
+    {
+      "placeId": "siargao-lokal-hub-general-luna",
+      "checkedOn": "2026-10-23",
+      "sourcesSearched": [
+        {
+          "provider": "Flickr",
+          "query": "The Hub by Lokal Lab General Luna",
+          "url": "https://www.flickr.com/search/?text=The+Hub+by+Lokal+Lab+General+Luna&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Hub by Lokal Siargao",
+          "url": "https://www.flickr.com/search/?text=Hub+by+Lokal+Siargao&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "rejections": [],
+      "notes": [
+        "Earlier approved descriptions, photographs, videos, stable IDs, bookmarks and saved trips are preserved. Public or official visibility alone does not establish image reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source."
+    },
+    {
+      "placeId": "siargao-clubhouse-golf",
+      "checkedOn": "2026-10-23",
+      "sourcesSearched": [
+        {
+          "provider": "Flickr",
+          "query": "The Clubhouse Siargao General Luna",
+          "url": "https://www.flickr.com/search/?text=The+Clubhouse+Siargao+General+Luna&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Clubhouse Siargao Siargao",
+          "url": "https://www.flickr.com/search/?text=Clubhouse+Siargao+Siargao&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "rejections": [],
+      "notes": [
+        "Earlier approved descriptions, photographs, videos, stable IDs, bookmarks and saved trips are preserved. Public or official visibility alone does not establish image reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source."
+    },
+    {
+      "placeId": "siargao-spotted-pig-catangnan",
+      "checkedOn": "2026-10-23",
+      "sourcesSearched": [
+        {
+          "provider": "Flickr",
+          "query": "Spotted Pig Cafe General Luna",
+          "url": "https://www.flickr.com/search/?text=Spotted+Pig+Cafe+General+Luna&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Spotted Pig Siargao",
+          "url": "https://www.flickr.com/search/?text=Spotted+Pig+Siargao&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Commons",
+          "query": "Spotted Pig Siargao",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Spotted+Pig+Siargao&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        }
+      ],
+      "rejections": [],
+      "notes": [
+        "Earlier approved descriptions, photographs, videos, stable IDs, bookmarks and saved trips are preserved. Public or official visibility alone does not establish image reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source."
+    }
+  ]
+}

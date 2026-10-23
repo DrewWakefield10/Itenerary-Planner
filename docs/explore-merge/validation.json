@@ -1,0 +1,51 @@
+{
+  "checkedOn": "2026-10-23",
+  "status": "implemented-and-verified-locally",
+  "navigation": ["Discover", "Explore", "Plan a Trip", "My Trips", "Saved Places", "Existing Google account entry"],
+  "coverage": {"baseGuides": 13, "browsingDestinations": 11, "practicalArticles": 4, "retainedTripStarters": 8},
+  "routes": {
+    "destinationIndex": "/explore",
+    "adviceIndex": "/explore/advice",
+    "articles": ["/explore/advice/transport", "/explore/advice/budgeting", "/explore/advice/packing", "/explore/advice/preparation"],
+    "existingDestinationPages": "/destinations/[slug] — unchanged URLs; legacy Palawan remains readable and offers explicit bases",
+    "retiredIndex": "/templates → /explore/advice (HTTP 308)",
+    "compatibleAlias": "/explore?view=advice → /explore/advice (HTTP 308)",
+    "preserved": "Repeated query values, selected destinations/days and category/search parameters survive the guide-index redirect. Browser fragments and Back/Forward navigation were verified. No former guide article detail routes existed."
+  },
+  "checks": {
+    "unitIntegration": {"passed": 104, "failed": 0, "command": "npm test"},
+    "typecheck": "npm run typecheck — passed after both builds",
+    "sitesBuild": "npm run build — passed",
+    "vercelBuild": "npm run build:vercel — passed",
+    "formatting": "Prettier check of new UI/data/test files and catch-all page — passed; no formatter dependency was added",
+    "diffWhitespace": "passed",
+    "focusedLint": "No errors in merge UI/helpers/tests/route files. Two existing warnings remain: native image use and planner aria-description.",
+    "accountProviderLint": "Four baseline errors versus three current pre-existing effect-state errors; zero new findings. The changed account link now uses the canonical Next Link. See lint-comparison.json.",
+    "strictUiAudit": "Seven inherited findings in unchanged connector/UI wrappers; no new findings. Full repository lint/audit is not claimed clean. See ui-audit.json."
+  },
+  "browser": {
+    "origin": "http://localhost:5195",
+    "runtime": "Native Next production build",
+    "viewports": [1440, 390],
+    "explore": "Passed navigation order, removal of redundant Travel Guides entry, search/interest/favorites composition, advice/article access, all eight starters, correct production document titles, route redirects/query/hash, Back/Forward, Palawan grouping, missing-article state and horizontal-overflow checks.",
+    "planner": "Passed correct fresh prefill, preview without storage mutation, keyboard/Escape dismissal, explicit replace/add acceptance, optional suggested duration, refresh persistence, rejection of a fourth base, malformed-draft preservation/recovery and exact saved-trip preservation.",
+    "accounts": "Existing accounts-browser suite passed guest-to-Google save, exact snapshots, edits, retries, session recovery, reload, bookmarks, duplicate/delete confirmation, account isolation and mobile. UI network fixtures were used; no production account write was performed.",
+    "discover": "Existing Discover browser suite passed navigation, search/filtering, unavailable readership, mobile layout, lazy map, source links, Add to Trip preview/dismiss/confirm and persistence. The destination auto-scroll regression also passed.",
+    "travelBases": "Existing Palawan suite passed independent choices, keyboard/mobile grouping, generation and connection days, correct map markers, export/import, legacy Palawan snapshots and filtered Explore results.",
+    "foundation": "Existing desktop/mobile homepage-to-Explore search, destination guide and Mountains filter checks passed.",
+    "visualReview": "Destination/advice screenshots inspected; cream/teal palette, existing typography/postcards, mobile stacking and normal document scrolling retained. Images remain existing licensed assets."
+  },
+  "preservation": "Catalog/media overlays, stable IDs, existing source dates/statuses, authentication readiness, ownership checks, trip snapshots, bookmarks, geographic/scheduling constraints and generation logic are unchanged. Only the browser planner-request handoff gains explicit choice protection.",
+  "limitations": [
+    "Practical articles are planning checklists distilled from existing application material, not current verified fares, schedules, entry assessments or safety determinations. Existing destination estimates and unverified facts retain their labels.",
+    "A live personal Google login and production Turso write were not performed; account regression uses fixtures alongside the existing backend integration tests.",
+    "Inherited lint/static-audit findings remain outside the merge scope."
+  ],
+  "deployment": {
+    "published": false,
+    "requiredSteps": ["Review and commit the local feature files together, preserving earlier media work.", "Push the intended GitHub deployment branch.", "Deploy/redeploy Vercel from that commit, or allow the connected Git deployment to run."],
+    "newEnvironmentVariables": [],
+    "databaseMigrations": [],
+    "paidServices": []
+  }
+}

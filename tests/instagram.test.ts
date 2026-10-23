@@ -6,6 +6,7 @@ import {canonicalInstagramUrl,instagramRecordSchema,validateInstagramRecords} fr
 import {placeInstagram,instagramForPlace,instagramCoverForPlace,selectInstagramCover} from '../lib/catalog/instagram';
 import {directoryListings} from '../lib/catalog/directory';
 import {publishInstagramBatch} from '../scripts/publish-instagram-batch';
+import {beforeCoverAdditions,reviewedCoverAdditions} from './helpers/cover-preservation';
 
 test('Instagram accepts canonical post/reel URLs and rejects profiles, scripts and lookalikes',()=>{
  assert.equal(canonicalInstagramUrl('https://instagram.com/p/Abc_123-/?utm_source=test#fragment'),'https://www.instagram.com/p/Abc_123-/');
@@ -43,10 +44,13 @@ test('Unreviewed HTML, future checks and unsupported embed claims are rejected',
 });
 test('Instagram enrichment preserves catalog identities and licensed photos, descriptions and videos',()=>{
  const baseline=JSON.parse(readFileSync('docs/place-enrichment/instagram/preservation-baseline.json','utf8'));
- for(const entry of baseline.files)assert.equal(createHash('sha256').update(readFileSync(entry.path)).digest('hex'),entry.sha256,entry.path);
+ for(const entry of baseline.files){
+  const bytes=entry.path==='lib/catalog/place-content.json'?JSON.stringify(beforeCoverAdditions(JSON.parse(readFileSync(entry.path,'utf8'))),null,2)+'\n':readFileSync(entry.path);
+  assert.equal(createHash('sha256').update(bytes).digest('hex'),entry.sha256,entry.path);
+ }
  assert.deepEqual(directoryListings.map(p=>p.id),baseline.catalogIds);
  const exported=JSON.parse(readFileSync('public/data/lakbay-locations.json','utf8')) as {id:string;image:unknown}[];
- assert.deepEqual(exported.filter(p=>p.image).map(p=>({placeId:p.id,image:p.image})),baseline.approvedPhotos);
+ assert.deepEqual(exported.filter(p=>p.image&&!reviewedCoverAdditions.has(p.id)).map(p=>({placeId:p.id,image:p.image})),baseline.approvedPhotos);
  for(const post of placeInstagram)assert.ok(!('photo' in post)&&!('image' in post));
 });
 test('Reviewed publishing rejects unapproved input before changing the Instagram overlay',async()=>{
@@ -54,12 +58,13 @@ test('Reviewed publishing rejects unapproved input before changing the Instagram
  await assert.rejects(publishInstagramBatch({mode:'instagram-only',batchId:'instagram-unreviewed',checkedOn:new Date().toISOString().slice(0,10),entries:[{placeId:placeInstagram[0].placeId,decision:'candidate',identityReviewed:false,posts:[placeInstagram[0]]}]}));
  assert.equal(readFileSync('lib/catalog/place-instagram.json','utf8'),before);
 });
-test('Directory exports retain Instagram metadata without changing licensed photo coverage',()=>{
+test('Directory exports keep Instagram separate from independently approved photo additions',()=>{
  const rows=JSON.parse(readFileSync('public/data/lakbay-locations.json','utf8')) as {id:string;image:unknown;instagram:typeof placeInstagram}[];
  for(const row of rows)assert.deepEqual(row.instagram,instagramForPlace(row.id));
- assert.equal(rows.filter(r=>r.image).length,214);
+ const baseline=JSON.parse(readFileSync('docs/place-enrichment/instagram/preservation-baseline.json','utf8'));
+ assert.equal(rows.filter(r=>r.image).length,baseline.approvedPhotos.length+reviewedCoverAdditions.size);
  const progress=JSON.parse(readFileSync('public/data/instagram-progress.json','utf8'));
- assert.equal(progress.totals.photoGaps,212);
+ assert.equal(progress.totals.photoGaps,rows.filter(r=>!r.image).length);
  assert.equal(progress.totals.resources,placeInstagram.length);
  assert.equal(progress.totals.photoGapsWithInstagram,rows.filter(r=>!r.image&&r.instagram.length).length);
 });

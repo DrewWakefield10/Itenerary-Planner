@@ -1,0 +1,972 @@
+{
+  "batchId": "cover-007",
+  "mode": "cover-photos",
+  "checkedOn": "2026-10-23",
+  "entries": [
+    {
+      "placeId": "el-nido-ver-de",
+      "approved": false,
+      "sourcesSearched": [
+        {
+          "provider": "Flickr",
+          "query": "Ver De El Nido",
+          "url": "https://www.flickr.com/search/?text=Ver+De+El+Nido&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 7,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Ver De Palawan",
+          "url": "https://www.flickr.com/search/?text=Ver+De+Palawan&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 1,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Commons",
+          "query": "Ver De Palawan",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Ver+De+Palawan&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 5
+        }
+      ],
+      "previousReports": [
+        "docs/food-directory/media/research.json"
+      ],
+      "rejections": [
+        {
+          "sourcePage": "https://www.flickr.com/photos/70626035@N00/8990405837/",
+          "title": "el polluelo de mirlo",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/70626035@N00/7739762464/",
+          "title": "dia 54 desde la eclosion del primer huevo * Piret \"S0\"  visita nido 15,30",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/30533963@N02/47927824021/",
+          "title": "Vandalismo en Neuer Teich Dresde",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/30533963@N02/47927819308/",
+          "title": "Vandalismo en Neuer Teich Dresde",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/30533963@N02/47927825608/",
+          "title": "Vandalismo en Neuer Teich Dresde",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/70626035@N00/7733101692/",
+          "title": "dia 53 .... Nori S7  * Piret  S0 ....visita el 7 de agosto a las 16h. 20' la plataforma del nido",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/28788207@N04/47834208192/",
+          "title": "Piquero camanay, piquero patiazul o alcatraz patiazul (Sula nebouxii)",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/papuan_cultures/48813059087/",
+          "title": "Gijs Bertels - Limburgsch Dagblad 12 oktober 1956",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:A_pronouncing_gazetteer_and_geographical_dictionary_of_the_Philippine_Islands,_United_States_of_America_with_maps,_charts_and_illustrations_(1902)_(14775918054).jpg",
+          "title": "File:A pronouncing gazetteer and geographical dictionary of the Philippine Islands, United States of America with maps, charts and illustrations (1902) (14775918054).jpg",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:A_pronouncing_gazetteer_and_geographical_dictionary_of_the_Philippine_Islands,_United_States_of_America_with_maps,_charts_and_illustrations_(1902)_(14591683800).jpg",
+          "title": "File:A pronouncing gazetteer and geographical dictionary of the Philippine Islands, United States of America with maps, charts and illustrations (1902) (14591683800).jpg",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:A_pronouncing_gazetteer_and_geographical_dictionary_of_the_Philippine_Islands,_United_States_of_America_with_maps,_charts_and_illustrations_(1902)_(14591806399).jpg",
+          "title": "File:A pronouncing gazetteer and geographical dictionary of the Philippine Islands, United States of America with maps, charts and illustrations (1902) (14591806399).jpg",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:A_pronouncing_gazetteer_and_geographical_dictionary_of_the_Philippine_Islands,_United_States_of_America_with_maps,_charts_and_illustrations_(1902)_(14755311926).jpg",
+          "title": "File:A pronouncing gazetteer and geographical dictionary of the Philippine Islands, United States of America with maps, charts and illustrations (1902) (14755311926).jpg",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Kalayaan_Island_Group_2026_de_facto_control.png",
+          "title": "File:Kalayaan Island Group 2026 de facto control.png",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        }
+      ],
+      "notes": [
+        "Earlier approved descriptions, photographs, videos, stable IDs, bookmarks and saved trips are preserved. Public or official visibility alone does not establish image reuse rights."
+      ],
+      "reason": "No candidate established an exact-place/branch photograph with individually reviewed compatible rights and a usable image. Name collisions and neighboring places are not substitutes. Supply an authorized exact-place photograph or resolve the linked candidate review."
+    },
+    {
+      "placeId": "el-nido-piece-of-sky",
+      "approved": false,
+      "sourcesSearched": [
+        {
+          "provider": "Flickr",
+          "query": "Piece of Sky El Nido",
+          "url": "https://www.flickr.com/search/?text=Piece+of+Sky+El+Nido&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Piece of Sky Palawan",
+          "url": "https://www.flickr.com/search/?text=Piece+of+Sky+Palawan&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 1,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Commons",
+          "query": "Piece of Sky Palawan",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Piece+of+Sky+Palawan&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        }
+      ],
+      "previousReports": [
+        "docs/food-directory/media/research.json"
+      ],
+      "rejections": [
+        {
+          "sourcePage": "https://www.flickr.com/photos/071108/24950652673/",
+          "title": "Secret Beach",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        }
+      ],
+      "notes": [
+        "Earlier approved descriptions, photographs, videos, stable IDs, bookmarks and saved trips are preserved. Public or official visibility alone does not establish image reuse rights."
+      ],
+      "reason": "No candidate established an exact-place/branch photograph with individually reviewed compatible rights and a usable image. Name collisions and neighboring places are not substitutes. Supply an authorized exact-place photograph or resolve the linked candidate review."
+    },
+    {
+      "placeId": "el-nido-henris",
+      "approved": false,
+      "sourcesSearched": [
+        {
+          "provider": "Flickr",
+          "query": "Henris El Nido",
+          "url": "https://www.flickr.com/search/?text=Henris+El+Nido&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Henris Palawan",
+          "url": "https://www.flickr.com/search/?text=Henris+Palawan&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Commons",
+          "query": "Henris Palawan",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Henris+Palawan&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 1
+        }
+      ],
+      "previousReports": [
+        "docs/food-directory/media/research.json"
+      ],
+      "rejections": [
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Partie_des_Iles_Philippines._Oceanique_no._6._(Dresse_par_Ph._Vandermaelen,_lithographie_par_H._Ode._Sixieme_partie.-Oceanique._(IA_dr_partie-des-iles-philippines-oceanique-no-6-dresse-par-ph-vandermaelen-01014020).jpg",
+          "title": "File:Partie des Iles Philippines. Oceanique no. 6. (Dresse par Ph. Vandermaelen, lithographie par H. Ode. Sixieme partie.-Oceanique. (IA dr partie-des-iles-philippines-oceanique-no-6-dresse-par-ph-vandermaelen-01014020).jpg",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        }
+      ],
+      "notes": [
+        "Earlier approved descriptions, photographs, videos, stable IDs, bookmarks and saved trips are preserved. Public or official visibility alone does not establish image reuse rights."
+      ],
+      "reason": "No candidate established an exact-place/branch photograph with individually reviewed compatible rights and a usable image. Name collisions and neighboring places are not substitutes. Supply an authorized exact-place photograph or resolve the linked candidate review."
+    },
+    {
+      "placeId": "el-nido-lanai-amakan",
+      "approved": false,
+      "sourcesSearched": [
+        {
+          "provider": "Flickr",
+          "query": "The Lanai at Amakan El Nido",
+          "url": "https://www.flickr.com/search/?text=The+Lanai+at+Amakan+El+Nido&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Lanai at Amakan Palawan",
+          "url": "https://www.flickr.com/search/?text=Lanai+at+Amakan+Palawan&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Commons",
+          "query": "Lanai at Amakan Palawan",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Lanai+at+Amakan+Palawan&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        }
+      ],
+      "previousReports": [
+        "docs/food-directory/media/research.json"
+      ],
+      "rejections": [],
+      "notes": [
+        "Earlier approved descriptions, photographs, videos, stable IDs, bookmarks and saved trips are preserved. Public or official visibility alone does not establish image reuse rights."
+      ],
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source."
+    },
+    {
+      "placeId": "coron-baya-resto-lounge",
+      "approved": false,
+      "sourcesSearched": [
+        {
+          "provider": "Flickr",
+          "query": "BAYA Resto Lounge Coron",
+          "url": "https://www.flickr.com/search/?text=BAYA+Resto+Lounge+Coron&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "BAYA Resto Lounge Palawan",
+          "url": "https://www.flickr.com/search/?text=BAYA+Resto+Lounge+Palawan&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Commons",
+          "query": "BAYA Resto Lounge Palawan",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=BAYA+Resto+Lounge+Palawan&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        }
+      ],
+      "previousReports": [
+        "docs/food-directory/media/research.json"
+      ],
+      "rejections": [],
+      "notes": [
+        "Earlier approved descriptions, photographs, videos, stable IDs, bookmarks and saved trips are preserved. Public or official visibility alone does not establish image reuse rights."
+      ],
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source."
+    },
+    {
+      "placeId": "coron-hunt-funny-lion",
+      "approved": false,
+      "sourcesSearched": [
+        {
+          "provider": "Flickr",
+          "query": "Hunt Restaurant Coron",
+          "url": "https://www.flickr.com/search/?text=Hunt+Restaurant+Coron&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Hunt Palawan",
+          "url": "https://www.flickr.com/search/?text=Hunt+Palawan&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 12,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Commons",
+          "query": "Hunt Palawan",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Hunt+Palawan&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 8
+        }
+      ],
+      "previousReports": [
+        "docs/food-directory/media/research.json"
+      ],
+      "rejections": [
+        {
+          "sourcePage": "https://www.flickr.com/photos/lyng883/2402126629/",
+          "title": "810 (2)Philippines Palawan \"Tabon Cave\"",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/lyng883/2402955866/",
+          "title": "809 (2)Philippines Palawan \"Tabon Cave\"",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/lyng883/2402955746/",
+          "title": "808 (2)Philippines Palawan \"Tabon Cave\"",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/lyng883/2402956096/",
+          "title": "811 (2)Philippines Palawan \"Tabon Cave\"",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/lyng883/2402955424/",
+          "title": "805 (2)Philippines Palawan \"Tabon Cave\"",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/lyng883/2402955650/",
+          "title": "807 (2)Philippines Palawan \"Tabon Cave\"",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/lyng883/2402955320/",
+          "title": "804 (2)Philippines Palawan \"Tabon Cave\"",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/lyng883/2402955026/",
+          "title": "801 (2)Philippines Palawan \"Tabon Cave\"",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/lyng883/2402955234/",
+          "title": "803 (2)Philippines Palawan \"Tabon Cave\"",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/lyng883/2402954904/",
+          "title": "800 (2)Philippines Palawan \"Tabon Cave\"",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/lyng883/2402126247/",
+          "title": "806 (2)",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/shankaronline/9165342414/",
+          "title": "Baywalk food stall",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Palawan_swiftlet_(Aerodramus_palawanensis)_hunting_by_echolocation.JPG",
+          "title": "File:Palawan swiftlet (Aerodramus palawanensis) hunting by echolocation.JPG",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Palawan_swiftlet_(Aerodramus_palawanensis)_hunting_by_echolocation_(cropped).JPG",
+          "title": "File:Palawan swiftlet (Aerodramus palawanensis) hunting by echolocation (cropped).JPG",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Blue-eared_Kingfisher_of_palawan.jpg",
+          "title": "File:Blue-eared Kingfisher of palawan.jpg",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Armed_Forces_of_the_Philippines,_U_S_,_Australia,_and_New_Zealand_conduct_a_Counter_Landing_Live-fire_Event_(9659250).jpg",
+          "title": "File:Armed Forces of the Philippines, U S , Australia, and New Zealand conduct a Counter Landing Live-fire Event (9659250).jpg",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Armed_Forces_of_the_Philippines,_U_S_,_Australia,_and_New_Zealand_conduct_a_Counter_Landing_Live-fire_Event_(9659251).jpg",
+          "title": "File:Armed Forces of the Philippines, U S , Australia, and New Zealand conduct a Counter Landing Live-fire Event (9659251).jpg",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Armed_Forces_of_the_Philippines,_U_S_,_Australia,_and_New_Zealand_conduct_a_Counter_Landing_Live-fire_Event_(9659253).jpg",
+          "title": "File:Armed Forces of the Philippines, U S , Australia, and New Zealand conduct a Counter Landing Live-fire Event (9659253).jpg",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Armed_Forces_of_the_Philippines,_U_S_,_Australia,_and_New_Zealand_conduct_a_Counter_Landing_Live-fire_Event_(9659256).jpg",
+          "title": "File:Armed Forces of the Philippines, U S , Australia, and New Zealand conduct a Counter Landing Live-fire Event (9659256).jpg",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Armed_Forces_of_the_Philippines,_U_S_,_Australia,_and_New_Zealand_conduct_a_Counter_Landing_Live-fire_Event_(9659258).jpg",
+          "title": "File:Armed Forces of the Philippines, U S , Australia, and New Zealand conduct a Counter Landing Live-fire Event (9659258).jpg",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        }
+      ],
+      "notes": [
+        "Earlier approved descriptions, photographs, videos, stable IDs, bookmarks and saved trips are preserved. Public or official visibility alone does not establish image reuse rights."
+      ],
+      "reason": "No candidate established an exact-place/branch photograph with individually reviewed compatible rights and a usable image. Name collisions and neighboring places are not substitutes. Supply an authorized exact-place photograph or resolve the linked candidate review."
+    },
+    {
+      "placeId": "el-nido-sunmai-nacpan",
+      "approved": false,
+      "sourcesSearched": [
+        {
+          "provider": "Flickr",
+          "query": "Sunmai Beach Bar and Restaurant El Nido",
+          "url": "https://www.flickr.com/search/?text=Sunmai+Beach+Bar+and+Restaurant+El+Nido&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Sunmai Beach Bar Palawan",
+          "url": "https://www.flickr.com/search/?text=Sunmai+Beach+Bar+Palawan&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Commons",
+          "query": "Sunmai Beach Bar Palawan",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Sunmai+Beach+Bar+Palawan&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        }
+      ],
+      "previousReports": [
+        "docs/food-directory/media/research.json"
+      ],
+      "rejections": [],
+      "notes": [
+        "Earlier approved descriptions, photographs, videos, stable IDs, bookmarks and saved trips are preserved. Public or official visibility alone does not establish image reuse rights."
+      ],
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source."
+    },
+    {
+      "placeId": "el-nido-calima-piece-lio",
+      "approved": false,
+      "sourcesSearched": [
+        {
+          "provider": "Flickr",
+          "query": "CALIMA Restaurant El Nido",
+          "url": "https://www.flickr.com/search/?text=CALIMA+Restaurant+El+Nido&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "CALIMA Palawan",
+          "url": "https://www.flickr.com/search/?text=CALIMA+Palawan&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Commons",
+          "query": "CALIMA Palawan",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=CALIMA+Palawan&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        }
+      ],
+      "previousReports": [
+        "docs/food-directory/media/research.json"
+      ],
+      "rejections": [],
+      "notes": [
+        "Earlier approved descriptions, photographs, videos, stable IDs, bookmarks and saved trips are preserved. Public or official visibility alone does not establish image reuse rights."
+      ],
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source."
+    },
+    {
+      "placeId": "el-nido-ocean-view-chinese",
+      "approved": false,
+      "sourcesSearched": [
+        {
+          "provider": "Flickr",
+          "query": "Ocean View Chinese Restaurant El Nido",
+          "url": "https://www.flickr.com/search/?text=Ocean+View+Chinese+Restaurant+El+Nido&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Ocean View Chinese Palawan",
+          "url": "https://www.flickr.com/search/?text=Ocean+View+Chinese+Palawan&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Commons",
+          "query": "Ocean View Chinese Palawan",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Ocean+View+Chinese+Palawan&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        }
+      ],
+      "previousReports": [
+        "docs/food-directory/media/research.json"
+      ],
+      "rejections": [],
+      "notes": [
+        "Earlier approved descriptions, photographs, videos, stable IDs, bookmarks and saved trips are preserved. Public or official visibility alone does not establish image reuse rights."
+      ],
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source."
+    },
+    {
+      "placeId": "puerto-princesa-divines-robinsons",
+      "approved": false,
+      "sourcesSearched": [
+        {
+          "provider": "Flickr",
+          "query": "Divines Sweets Bakery & Cafe Puerto Princesa City",
+          "url": "https://www.flickr.com/search/?text=Divines+Sweets+Bakery+%26+Cafe+Puerto+Princesa+City&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Divines Sweets Bakery Palawan",
+          "url": "https://www.flickr.com/search/?text=Divines+Sweets+Bakery+Palawan&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Commons",
+          "query": "Divines Sweets Bakery Palawan",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Divines+Sweets+Bakery+Palawan&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        }
+      ],
+      "previousReports": [
+        "docs/food-directory/media/research.json"
+      ],
+      "rejections": [],
+      "notes": [
+        "Earlier approved descriptions, photographs, videos, stable IDs, bookmarks and saved trips are preserved. Public or official visibility alone does not establish image reuse rights."
+      ],
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source."
+    },
+    {
+      "placeId": "puerto-princesa-jeju-island-cafe",
+      "approved": false,
+      "sourcesSearched": [
+        {
+          "provider": "Flickr",
+          "query": "Jeju Island Cafe Puerto Princesa City",
+          "url": "https://www.flickr.com/search/?text=Jeju+Island+Cafe+Puerto+Princesa+City&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Jeju Island Palawan",
+          "url": "https://www.flickr.com/search/?text=Jeju+Island+Palawan&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 1,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Commons",
+          "query": "Jeju Island Palawan",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Jeju+Island+Palawan&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        }
+      ],
+      "previousReports": [
+        "docs/food-directory/media/research.json"
+      ],
+      "rejections": [
+        {
+          "sourcePage": "https://www.flickr.com/photos/shankaronline/9165588924/",
+          "title": "Rock formation inside the cave",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        }
+      ],
+      "notes": [
+        "Earlier approved descriptions, photographs, videos, stable IDs, bookmarks and saved trips are preserved. Public or official visibility alone does not establish image reuse rights."
+      ],
+      "reason": "No candidate established an exact-place/branch photograph with individually reviewed compatible rights and a usable image. Name collisions and neighboring places are not substitutes. Supply an authorized exact-place photograph or resolve the linked candidate review."
+    },
+    {
+      "placeId": "puerto-princesa-kofilab",
+      "approved": false,
+      "sourcesSearched": [
+        {
+          "provider": "Flickr",
+          "query": "Kofilab Cafe Puerto Princesa City",
+          "url": "https://www.flickr.com/search/?text=Kofilab+Cafe+Puerto+Princesa+City&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Kofilab Palawan",
+          "url": "https://www.flickr.com/search/?text=Kofilab+Palawan&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Commons",
+          "query": "Kofilab Palawan",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Kofilab+Palawan&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        }
+      ],
+      "previousReports": [
+        "docs/food-directory/media/research.json"
+      ],
+      "rejections": [],
+      "notes": [
+        "Earlier approved descriptions, photographs, videos, stable IDs, bookmarks and saved trips are preserved. Public or official visibility alone does not establish image reuse rights."
+      ],
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source."
+    },
+    {
+      "placeId": "iloilo-baking-studio-theos",
+      "approved": false,
+      "sourcesSearched": [
+        {
+          "provider": "Flickr",
+          "query": "Baking Studio by Theos Iloilo City",
+          "url": "https://www.flickr.com/search/?text=Baking+Studio+by+Theos+Iloilo+City&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Baking Studio by Iloilo",
+          "url": "https://www.flickr.com/search/?text=Baking+Studio+by+Iloilo&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "previousReports": [
+        "docs/place-enrichment/photo-only/photo-006-research.json"
+      ],
+      "rejections": [],
+      "notes": [
+        "Earlier approved descriptions, photographs, videos, stable IDs, bookmarks and saved trips are preserved. Public or official visibility alone does not establish image reuse rights."
+      ],
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source."
+    },
+    {
+      "placeId": "iloilo-breakthrough-villa",
+      "approved": false,
+      "sourcesSearched": [
+        {
+          "provider": "Flickr",
+          "query": "Breakthrough Restaurant Iloilo City",
+          "url": "https://www.flickr.com/search/?text=Breakthrough+Restaurant+Iloilo+City&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Breakthrough Iloilo",
+          "url": "https://www.flickr.com/search/?text=Breakthrough+Iloilo&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "previousReports": [
+        "docs/place-enrichment/photo-only/photo-006-research.json"
+      ],
+      "rejections": [],
+      "notes": [
+        "Earlier approved descriptions, photographs, videos, stable IDs, bookmarks and saved trips are preserved. Public or official visibility alone does not establish image reuse rights."
+      ],
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source."
+    },
+    {
+      "placeId": "iloilo-dapli-valeria",
+      "approved": false,
+      "sourcesSearched": [
+        {
+          "provider": "Flickr",
+          "query": "Dapli by Breakthrough Iloilo City",
+          "url": "https://www.flickr.com/search/?text=Dapli+by+Breakthrough+Iloilo+City&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Dapli by Breakthrough Iloilo",
+          "url": "https://www.flickr.com/search/?text=Dapli+by+Breakthrough+Iloilo&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "previousReports": [
+        "docs/place-enrichment/photo-only/photo-006-research.json"
+      ],
+      "rejections": [],
+      "notes": [
+        "Earlier approved descriptions, photographs, videos, stable IDs, bookmarks and saved trips are preserved. Public or official visibility alone does not establish image reuse rights."
+      ],
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source."
+    },
+    {
+      "placeId": "iloilo-ponsyon-plazuela",
+      "approved": false,
+      "sourcesSearched": [
+        {
+          "provider": "Flickr",
+          "query": "Ponsyon by Breakthrough Iloilo City",
+          "url": "https://www.flickr.com/search/?text=Ponsyon+by+Breakthrough+Iloilo+City&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Ponsyon by Breakthrough Iloilo",
+          "url": "https://www.flickr.com/search/?text=Ponsyon+by+Breakthrough+Iloilo&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "previousReports": [
+        "docs/place-enrichment/photo-only/photo-006-research.json"
+      ],
+      "rejections": [],
+      "notes": [
+        "Earlier approved descriptions, photographs, videos, stable IDs, bookmarks and saved trips are preserved. Public or official visibility alone does not establish image reuse rights."
+      ],
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source."
+    },
+    {
+      "placeId": "iloilo-taytay-tigre",
+      "approved": false,
+      "sourcesSearched": [
+        {
+          "provider": "Flickr",
+          "query": "Taytay Tigre Guimbal",
+          "url": "https://www.flickr.com/search/?text=Taytay+Tigre+Guimbal&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Taytay Tigre Iloilo",
+          "url": "https://www.flickr.com/search/?text=Taytay+Tigre+Iloilo&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "previousReports": [
+        "docs/place-enrichment/photo-only/photo-006-research.json"
+      ],
+      "rejections": [],
+      "notes": [
+        "Earlier approved descriptions, photographs, videos, stable IDs, bookmarks and saved trips are preserved. Public or official visibility alone does not establish image reuse rights."
+      ],
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source."
+    },
+    {
+      "placeId": "iloilo-garin-farm",
+      "approved": false,
+      "sourcesSearched": [
+        {
+          "provider": "Flickr",
+          "query": "Garin Farm San Joaquin",
+          "url": "https://www.flickr.com/search/?text=Garin+Farm+San+Joaquin&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Garin Farm Iloilo",
+          "url": "https://www.flickr.com/search/?text=Garin+Farm+Iloilo&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "previousReports": [
+        "docs/place-enrichment/photo-only/photo-006-research.json"
+      ],
+      "rejections": [],
+      "notes": [
+        "Earlier approved descriptions, photographs, videos, stable IDs, bookmarks and saved trips are preserved. Public or official visibility alone does not establish image reuse rights."
+      ],
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source."
+    },
+    {
+      "placeId": "iloilo-neighbor-atria",
+      "approved": false,
+      "sourcesSearched": [
+        {
+          "provider": "Flickr",
+          "query": "Neighbor Coffee Iloilo City",
+          "url": "https://www.flickr.com/search/?text=Neighbor+Coffee+Iloilo+City&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Neighbor Coffee Iloilo",
+          "url": "https://www.flickr.com/search/?text=Neighbor+Coffee+Iloilo&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Commons",
+          "query": "Neighbor Coffee Iloilo",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Neighbor+Coffee+Iloilo&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        }
+      ],
+      "previousReports": [
+        "docs/food-directory/media/research.json"
+      ],
+      "rejections": [],
+      "notes": [
+        "Earlier approved descriptions, photographs, videos, stable IDs, bookmarks and saved trips are preserved. Public or official visibility alone does not establish image reuse rights."
+      ],
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source."
+    },
+    {
+      "placeId": "iloilo-bluejay-sm-city",
+      "approved": false,
+      "sourcesSearched": [
+        {
+          "provider": "Flickr",
+          "query": "Bluejay Coffee & Company Iloilo City",
+          "url": "https://www.flickr.com/search/?text=Bluejay+Coffee+%26+Company+Iloilo+City&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Bluejay Coffee Company Iloilo",
+          "url": "https://www.flickr.com/search/?text=Bluejay+Coffee+Company+Iloilo&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Commons",
+          "query": "Bluejay Coffee Company Iloilo",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Bluejay+Coffee+Company+Iloilo&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        }
+      ],
+      "previousReports": [
+        "docs/food-directory/media/research.json"
+      ],
+      "rejections": [],
+      "notes": [
+        "Earlier approved descriptions, photographs, videos, stable IDs, bookmarks and saved trips are preserved. Public or official visibility alone does not establish image reuse rights."
+      ],
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source."
+    },
+    {
+      "placeId": "iloilo-monkey-grounds",
+      "approved": false,
+      "sourcesSearched": [
+        {
+          "provider": "Flickr",
+          "query": "Monkey Grounds Coffee Iloilo City",
+          "url": "https://www.flickr.com/search/?text=Monkey+Grounds+Coffee+Iloilo+City&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Monkey Grounds Coffee Iloilo",
+          "url": "https://www.flickr.com/search/?text=Monkey+Grounds+Coffee+Iloilo&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Commons",
+          "query": "Monkey Grounds Coffee Iloilo",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Monkey+Grounds+Coffee+Iloilo&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        }
+      ],
+      "previousReports": [
+        "docs/food-directory/media/research.json"
+      ],
+      "rejections": [],
+      "notes": [
+        "Earlier approved descriptions, photographs, videos, stable IDs, bookmarks and saved trips are preserved. Public or official visibility alone does not establish image reuse rights."
+      ],
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source."
+    },
+    {
+      "placeId": "iloilo-loco-smallville",
+      "approved": false,
+      "sourcesSearched": [
+        {
+          "provider": "Flickr",
+          "query": "LoCo Local Coffee Iloilo City",
+          "url": "https://www.flickr.com/search/?text=LoCo+Local+Coffee+Iloilo+City&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "LoCo Local Coffee Iloilo",
+          "url": "https://www.flickr.com/search/?text=LoCo+Local+Coffee+Iloilo&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Commons",
+          "query": "LoCo Local Coffee Iloilo",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=LoCo+Local+Coffee+Iloilo&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        }
+      ],
+      "previousReports": [
+        "docs/food-directory/media/research.json"
+      ],
+      "rejections": [],
+      "notes": [
+        "Earlier approved descriptions, photographs, videos, stable IDs, bookmarks and saved trips are preserved. Public or official visibility alone does not establish image reuse rights."
+      ],
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source."
+    },
+    {
+      "placeId": "iloilo-netongs-la-paz",
+      "approved": false,
+      "sourcesSearched": [
+        {
+          "provider": "Flickr",
+          "query": "Netongs Original Special La Paz Batchoy Iloilo City",
+          "url": "https://www.flickr.com/search/?text=Netongs+Original+Special+La+Paz+Batchoy+Iloilo+City&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Netongs Original Special Iloilo",
+          "url": "https://www.flickr.com/search/?text=Netongs+Original+Special+Iloilo&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Commons",
+          "query": "Netongs Original Special Iloilo",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Netongs+Original+Special+Iloilo&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        }
+      ],
+      "previousReports": [
+        "docs/food-directory/media/research.json"
+      ],
+      "rejections": [],
+      "notes": [
+        "Earlier approved descriptions, photographs, videos, stable IDs, bookmarks and saved trips are preserved. Public or official visibility alone does not establish image reuse rights."
+      ],
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source."
+    },
+    {
+      "placeId": "iloilo-carlos-dungon",
+      "approved": false,
+      "sourcesSearched": [
+        {
+          "provider": "Flickr",
+          "query": "Carlos Bakery & Cafe Iloilo City",
+          "url": "https://www.flickr.com/search/?text=Carlos+Bakery+%26+Cafe+Iloilo+City&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Carlos Bakery Iloilo",
+          "url": "https://www.flickr.com/search/?text=Carlos+Bakery+Iloilo&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Commons",
+          "query": "Carlos Bakery Iloilo",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Carlos+Bakery+Iloilo&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        }
+      ],
+      "previousReports": [
+        "docs/food-directory/media/research.json"
+      ],
+      "rejections": [],
+      "notes": [
+        "Earlier approved descriptions, photographs, videos, stable IDs, bookmarks and saved trips are preserved. Public or official visibility alone does not establish image reuse rights."
+      ],
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source."
+    }
+  ]
+}

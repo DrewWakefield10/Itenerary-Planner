@@ -38,6 +38,7 @@ await page.route("**/api/account/**",async route=>{
 });
 try{
   await page.goto(origin+"/account");
+  await expect(page.getByRole('navigation',{name:'Main navigation'}).getByRole('link',{name:'Sign in with Google',exact:true})).toBeVisible();
   await expect(page.getByText("Lakbay is a standalone travel planner.",{exact:false})).toBeVisible();
   await expect(page.getByText(/Let.s Corp/)).toHaveCount(0);
   await expect(page.getByRole("button",{name:"Continue with Google",exact:true})).toBeVisible();

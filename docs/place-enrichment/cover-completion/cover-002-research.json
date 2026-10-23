@@ -1,0 +1,773 @@
+{
+  "batchId": "cover-002",
+  "checkedOn": "2026-10-23",
+  "status": "unapproved-research",
+  "records": [
+    {
+      "placeId": "siargao-sinag-snack-bar",
+      "name": "Sinag Snack Bar",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/food-directory/media/research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "Sinag Snack Bar General Luna",
+          "url": "https://www.flickr.com/search/?text=Sinag+Snack+Bar+General+Luna&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Sinag Snack Bar Siargao",
+          "url": "https://www.flickr.com/search/?text=Sinag+Snack+Bar+Siargao&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Commons",
+          "query": "Sinag Snack Bar Siargao",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Sinag+Snack+Bar+Siargao&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "placeId": "siargao-saint-thomas",
+      "name": "Saint Thomas Coffee",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/food-directory/media/research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "Saint Thomas Coffee General Luna",
+          "url": "https://www.flickr.com/search/?text=Saint+Thomas+Coffee+General+Luna&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Saint Thomas Coffee Siargao",
+          "url": "https://www.flickr.com/search/?text=Saint+Thomas+Coffee+Siargao&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Commons",
+          "query": "Saint Thomas Coffee Siargao",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Saint+Thomas+Coffee+Siargao&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "placeId": "siargao-weekend-cafe",
+      "name": "/Week·End/ Cafe",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/food-directory/media/research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "/Week·End/ Cafe General Luna",
+          "url": "https://www.flickr.com/search/?text=%2FWeek%C2%B7End%2F+Cafe+General+Luna&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "/Week·End/ Siargao",
+          "url": "https://www.flickr.com/search/?text=%2FWeek%C2%B7End%2F+Siargao&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Commons",
+          "query": "/Week·End/ Siargao",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=%2FWeek%C2%B7End%2F+Siargao&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "placeId": "siargao-fin-fin",
+      "name": "Fin & Fin Beach Shack",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/food-directory/media/research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "Fin & Fin Beach Shack General Luna",
+          "url": "https://www.flickr.com/search/?text=Fin+%26+Fin+Beach+Shack+General+Luna&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Fin Fin Beach Siargao",
+          "url": "https://www.flickr.com/search/?text=Fin+Fin+Beach+Siargao&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Commons",
+          "query": "Fin Fin Beach Siargao",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Fin+Fin+Beach+Siargao&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "placeId": "siargao-sunset-coffee",
+      "name": "Sunset Coffee Roasters",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/food-directory/media/research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "Sunset Coffee Roasters General Luna",
+          "url": "https://www.flickr.com/search/?text=Sunset+Coffee+Roasters+General+Luna&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Sunset Coffee Roasters Siargao",
+          "url": "https://www.flickr.com/search/?text=Sunset+Coffee+Roasters+Siargao&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Commons",
+          "query": "Sunset Coffee Roasters Siargao",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Sunset+Coffee+Roasters+Siargao&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "placeId": "boracay-tambisaan-beach",
+      "name": "Tambisaan Beach",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/place-enrichment/photo-only/photo-002-research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "Tambisaan Beach Malay",
+          "url": "https://www.flickr.com/search/?text=Tambisaan+Beach+Malay&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Tambisaan Beach Boracay",
+          "url": "https://www.flickr.com/search/?text=Tambisaan+Beach+Boracay&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Commons",
+          "query": "Tambisaan Beach Boracay",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Tambisaan+Beach+Boracay&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "placeId": "boracay-newcoast-keyhole",
+      "name": "Boracay Newcoast Keyhole",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/place-enrichment/photo-only/photo-002-research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "Boracay Newcoast Keyhole Malay",
+          "url": "https://www.flickr.com/search/?text=Boracay+Newcoast+Keyhole+Malay&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Boracay Newcoast Keyhole Boracay",
+          "url": "https://www.flickr.com/search/?text=Boracay+Newcoast+Keyhole+Boracay&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "placeId": "boracay-tulubhan-beach",
+      "name": "Tulubhan Beach",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/place-enrichment/photo-only/photo-002-research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "Tulubhan Beach Malay",
+          "url": "https://www.flickr.com/search/?text=Tulubhan+Beach+Malay&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Tulubhan Beach Boracay",
+          "url": "https://www.flickr.com/search/?text=Tulubhan+Beach+Boracay&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Commons",
+          "query": "Tulubhan Beach Boracay",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Tulubhan+Beach+Boracay&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "placeId": "boracay-dtalipapa-market",
+      "name": "D’Talipapa market",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/place-enrichment/photo-only/photo-002-research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "DTalipapa market Malay",
+          "url": "https://www.flickr.com/search/?text=DTalipapa+market+Malay&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Talipapa Boracay",
+          "url": "https://www.flickr.com/search/?text=Talipapa+Boracay&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 6,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "candidates": [
+        {
+          "provider": "Flickr",
+          "id": "6998648138",
+          "title": "Tienda.",
+          "description": "Talipapa in Boracay.",
+          "creator": "Fernie Mapa",
+          "owner": "69451015@N03",
+          "sourcePage": "https://www.flickr.com/photos/capturinggeek/6998648138/",
+          "licenseCode": 4,
+          "originalUrl": "https://live.staticflickr.com/5469/6998648138_defab175d6_b.jpg",
+          "previewUrl": "https://live.staticflickr.com/5469/6998648138_defab175d6_c.jpg",
+          "width": 681,
+          "height": 1024
+        },
+        {
+          "provider": "Flickr",
+          "id": "7255389270",
+          "title": "Palengke.",
+          "description": "Wet market. Found in Talipapa at Boracay Island Station 3.",
+          "creator": "Fernie Mapa",
+          "owner": "69451015@N03",
+          "sourcePage": "https://www.flickr.com/photos/capturinggeek/7255389270/",
+          "licenseCode": 4,
+          "originalUrl": "https://live.staticflickr.com/7091/7255389270_12651df11c_b.jpg",
+          "previewUrl": "https://live.staticflickr.com/7091/7255389270_12651df11c_z.jpg",
+          "width": 1024,
+          "height": 681
+        },
+        {
+          "provider": "Flickr",
+          "id": "7255385338",
+          "title": "Lapu-lapu.",
+          "description": "Grouper in English. Best cooked for sweet-and-sour dishes.",
+          "creator": "Fernie Mapa",
+          "owner": "69451015@N03",
+          "sourcePage": "https://www.flickr.com/photos/capturinggeek/7255385338/",
+          "licenseCode": 4,
+          "originalUrl": "https://live.staticflickr.com/8021/7255385338_1425d600d4_b.jpg",
+          "previewUrl": "https://live.staticflickr.com/8021/7255385338_1425d600d4_z.jpg",
+          "width": 1024,
+          "height": 681
+        },
+        {
+          "provider": "Flickr",
+          "id": "6910371973",
+          "title": "Talipapa",
+          "description": "",
+          "creator": "Sam Villaroman",
+          "owner": "41979323@N04",
+          "sourcePage": "https://www.flickr.com/photos/413studios/6910371973/",
+          "licenseCode": 4,
+          "originalUrl": "https://live.staticflickr.com/7185/6910371973_3e9790dfff_b.jpg",
+          "previewUrl": "https://live.staticflickr.com/7185/6910371973_3e9790dfff_z.jpg",
+          "width": 1024,
+          "height": 678
+        },
+        {
+          "provider": "Flickr",
+          "id": "3572235470",
+          "title": "Talipapa (Boracay Island, Aklan)",
+          "description": "I tried shooting Boracay beyond the white sand, the emerald sea, and the hot bikinis. Let me know what you think. :-D\n\nNikon D40 (NATCCO 32nd General Assembly, May 2009)",
+          "creator": "Shubert Ciencia",
+          "owner": "20119750@N00",
+          "sourcePage": "https://www.flickr.com/photos/bigberto/3572235470/",
+          "licenseCode": 4,
+          "originalUrl": "https://live.staticflickr.com/2452/3572235470_7c23c9b16b_b.jpg",
+          "previewUrl": "https://live.staticflickr.com/2452/3572235470_7c23c9b16b_z.jpg",
+          "width": 1024,
+          "height": 768
+        },
+        {
+          "provider": "Flickr",
+          "id": "3580320078",
+          "title": "Pananghalian (Boracay Island, Aklan)",
+          "description": "Except for the breakfast buffet, hotel food for me is a culinary lightweight so I prefer eating out and exploring the local cuisine whenever I could. In Boracay, I convince two colleagues to buy our lunch and dinner at the talipapa and have it prepared at nearby stalls  who offer cooking services. Our favorite place is the Plato D'Boracay. The P100 per kilo cooking service fee is steep but worth it. Above is our first Bora talipapa meal (clockwise from left): halabos na suwaheng dagat/pan-cooked saltwater shrimp, kinilaw na talaba/oyster ceviche, sinigang na ulo ng tuna/tuna head cooked in sour broth, and inihaw na blue marlin/grilled blue marlin.\n\nNikon D40 (NATCCO 32nd General Assembly, May 2009)",
+          "creator": "Shubert Ciencia",
+          "owner": "20119750@N00",
+          "sourcePage": "https://www.flickr.com/photos/bigberto/3580320078/",
+          "licenseCode": 4,
+          "originalUrl": "https://live.staticflickr.com/3377/3580320078_610b388745_b.jpg",
+          "previewUrl": "https://live.staticflickr.com/3377/3580320078_610b388745_z.jpg",
+          "width": 1024,
+          "height": 768
+        }
+      ]
+    },
+    {
+      "placeId": "boracay-balabag-wetland-park",
+      "name": "Balabag Wetland Park",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/place-enrichment/photo-only/photo-002-research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "Balabag Wetland Park Malay",
+          "url": "https://www.flickr.com/search/?text=Balabag+Wetland+Park+Malay&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Balabag Wetland Park Boracay",
+          "url": "https://www.flickr.com/search/?text=Balabag+Wetland+Park+Boracay&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Commons",
+          "query": "Balabag Wetland Park Boracay",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Balabag+Wetland+Park+Boracay&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "placeId": "boracay-nonies-ondus",
+      "name": "Nonie’s — Ondus Hotel",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/place-enrichment/photo-only/photo-002-research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "Nonies Malay",
+          "url": "https://www.flickr.com/search/?text=Nonies+Malay&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Nonies Boracay",
+          "url": "https://www.flickr.com/search/?text=Nonies+Boracay&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "placeId": "boracay-giuseppe-station-three",
+      "name": "Giuseppe Pizzeria & Sicilian Roast — Boracay",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/place-enrichment/photo-only/photo-002-research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "Giuseppe Pizzeria & Sicilian Roast Malay",
+          "url": "https://www.flickr.com/search/?text=Giuseppe+Pizzeria+%26+Sicilian+Roast+Malay&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Giuseppe Pizzeria Sicilian Boracay",
+          "url": "https://www.flickr.com/search/?text=Giuseppe+Pizzeria+Sicilian+Boracay&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "placeId": "boracay-station-x",
+      "name": "Station X",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/place-enrichment/photo-only/photo-002-research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "Station X Malay",
+          "url": "https://www.flickr.com/search/?text=Station+X+Malay&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Station X Boracay",
+          "url": "https://www.flickr.com/search/?text=Station+X+Boracay&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 1,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "candidates": [
+        {
+          "provider": "Flickr",
+          "id": "6880540506",
+          "title": "Excellent Restaurant in D'Mall in Boracay",
+          "description": "",
+          "creator": "Thomas Galvez",
+          "owner": "69031678@N00",
+          "sourcePage": "https://www.flickr.com/photos/togawanderings/6880540506/",
+          "licenseCode": 4,
+          "originalUrl": "https://live.staticflickr.com/7079/6880540506_ae5105270a_z.jpg",
+          "previewUrl": "https://live.staticflickr.com/7079/6880540506_ae5105270a_z.jpg",
+          "width": 612,
+          "height": 612
+        }
+      ]
+    },
+    {
+      "placeId": "boracay-little-taj",
+      "name": "Little Taj",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/place-enrichment/photo-only/photo-002-research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "Little Taj Malay",
+          "url": "https://www.flickr.com/search/?text=Little+Taj+Malay&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Little Taj Boracay",
+          "url": "https://www.flickr.com/search/?text=Little+Taj+Boracay&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "placeId": "boracay-muchos",
+      "name": "Muchos",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/place-enrichment/photo-only/photo-002-research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "Muchos Malay",
+          "url": "https://www.flickr.com/search/?text=Muchos+Malay&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Muchos Boracay",
+          "url": "https://www.flickr.com/search/?text=Muchos+Boracay&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "placeId": "boracay-aria-cucina",
+      "name": "Aria Cucina Italiana",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/place-enrichment/photo-only/photo-002-research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "Aria Cucina Italiana Malay",
+          "url": "https://www.flickr.com/search/?text=Aria+Cucina+Italiana+Malay&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Aria Cucina Italiana Boracay",
+          "url": "https://www.flickr.com/search/?text=Aria+Cucina+Italiana+Boracay&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "placeId": "boracay-jammers-beach-shack",
+      "name": "Jammers Beach Shack",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/place-enrichment/photo-only/photo-002-research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "Jammers Beach Shack Malay",
+          "url": "https://www.flickr.com/search/?text=Jammers+Beach+Shack+Malay&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Jammers Beach Shack Boracay",
+          "url": "https://www.flickr.com/search/?text=Jammers+Beach+Shack+Boracay&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Commons",
+          "query": "Jammers Beach Shack Boracay",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Jammers+Beach+Shack+Boracay&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "placeId": "boracay-hama",
+      "name": "Hama Japanese Restaurant",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/place-enrichment/photo-only/photo-002-research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "Hama Japanese Restaurant Malay",
+          "url": "https://www.flickr.com/search/?text=Hama+Japanese+Restaurant+Malay&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Hama Japanese Boracay",
+          "url": "https://www.flickr.com/search/?text=Hama+Japanese+Boracay&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "placeId": "boracay-beach-truck",
+      "name": "Boracay Beach Truck",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/place-enrichment/photo-only/photo-002-research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "Boracay Beach Truck Malay",
+          "url": "https://www.flickr.com/search/?text=Boracay+Beach+Truck+Malay&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Boracay Beach Truck Boracay",
+          "url": "https://www.flickr.com/search/?text=Boracay+Beach+Truck+Boracay&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Commons",
+          "query": "Boracay Beach Truck Boracay",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Boracay+Beach+Truck+Boracay&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "placeId": "boracay-dinibeach-bar",
+      "name": "Dinibeach Bar & Restaurant",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/place-enrichment/photo-only/photo-002-research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "Dinibeach Bar & Restaurant Malay",
+          "url": "https://www.flickr.com/search/?text=Dinibeach+Bar+%26+Restaurant+Malay&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Dinibeach Bar Boracay",
+          "url": "https://www.flickr.com/search/?text=Dinibeach+Bar+Boracay&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "placeId": "boracay-cafe-del-sol",
+      "name": "Cafe del Sol",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/place-enrichment/photo-only/photo-002-research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "Cafe del Sol Malay",
+          "url": "https://www.flickr.com/search/?text=Cafe+del+Sol+Malay&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "del Sol Boracay",
+          "url": "https://www.flickr.com/search/?text=del+Sol+Boracay&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Commons",
+          "query": "del Sol Boracay",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=del+Sol+Boracay&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "placeId": "boracay-citymall",
+      "name": "CityMall Boracay",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/place-enrichment/photo-only/photo-002-research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "CityMall Boracay Malay",
+          "url": "https://www.flickr.com/search/?text=CityMall+Boracay+Malay&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "CityMall Boracay Boracay",
+          "url": "https://www.flickr.com/search/?text=CityMall+Boracay+Boracay&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "placeId": "boracay-sirena",
+      "name": "Sirena Restaurant & Clifftop Bar",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/place-enrichment/photo-only/photo-002-research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "Sirena Restaurant & Clifftop Bar Malay",
+          "url": "https://www.flickr.com/search/?text=Sirena+Restaurant+%26+Clifftop+Bar+Malay&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Sirena Clifftop Bar Boracay",
+          "url": "https://www.flickr.com/search/?text=Sirena+Clifftop+Bar+Boracay&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "placeId": "boracay-los-indios-bravos",
+      "name": "Los Indios Bravos",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/place-enrichment/photo-only/photo-002-research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "Los Indios Bravos Malay",
+          "url": "https://www.flickr.com/search/?text=Los+Indios+Bravos+Malay&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Los Indios Bravos Boracay",
+          "url": "https://www.flickr.com/search/?text=Los+Indios+Bravos+Boracay&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "candidates": []
+    }
+  ]
+}

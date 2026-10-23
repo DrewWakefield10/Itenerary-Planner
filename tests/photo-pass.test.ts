@@ -4,6 +4,24 @@ import {readFileSync} from 'node:fs';
 import {createHash} from 'node:crypto';
 import {validatePhotoDecision} from '../scripts/publish-place-photo-batch.mjs';
 import {placeContents} from '../lib/catalog/place-content';
+import {flickrReusableLicenses} from '../scripts/photo-pass-tools.mjs';
+import {reviewedCoverAdditions} from './helpers/cover-preservation';
+
+test('Flickr research includes reusable 4.0 licenses and excludes restricted licenses',()=>{
+ assert.deepEqual(flickrReusableLicenses[11],['CC BY 4.0','https://creativecommons.org/licenses/by/4.0/']);
+ assert.deepEqual(flickrReusableLicenses[12],['CC BY-SA 4.0','https://creativecommons.org/licenses/by-sa/4.0/']);
+ for(const restricted of [0,1,2,3,6,7,8,13,14,15,16])assert.equal(Object.hasOwn(flickrReusableLicenses,restricted),false);
+});
+
+test('cover follow-up preserves all prior photographs, descriptions and unrelated catalog data',()=>{
+ const baseline=JSON.parse(readFileSync('docs/place-enrichment/cover-completion/baseline.json','utf8'));
+ const raw=JSON.parse(readFileSync('lib/catalog/place-content.json','utf8'));
+ assert.equal(hash(JSON.stringify(raw.map((row:Record<string,unknown>)=>Object.fromEntries(Object.entries(row).filter(([key])=>key!=='photo'))))),baseline.nonPhotoHash);
+ for(const [id,photo]of Object.entries(baseline.photos))assert.deepEqual(placeContents.find(p=>p.placeId===id)?.photo,photo);
+ for(const [path,digest]of Object.entries(baseline.files))assert.equal(hash(readFileSync(path)),digest,path);
+ for(const [path,digest]of Object.entries(baseline.photoAssetHashes))assert.equal(hash(readFileSync('public'+path)),digest,path);
+ assert.deepEqual(new Set(raw.filter((p:{placeId:string;photo?:unknown})=>p.photo&&!baseline.photos[p.placeId]).map((p:{placeId:string})=>p.placeId)),reviewedCoverAdditions);
+});
 
 const hash=(value:string|Buffer)=>createHash('sha256').update(value).digest('hex');
 test('photo-only enrichment leaves approved text, videos, original catalog and existing photo files unchanged',()=>{

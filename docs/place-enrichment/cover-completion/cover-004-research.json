@@ -1,0 +1,741 @@
+{
+  "batchId": "cover-004",
+  "checkedOn": "2026-10-23",
+  "status": "unapproved-research",
+  "records": [
+    {
+      "placeId": "davao-dleonor-inland-resort",
+      "name": "D’Leonor Inland Resort and Adventure Park",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/place-enrichment/photo-only/photo-003-research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "DLeonor Inland Resort and Adventure Park Davao City",
+          "url": "https://www.flickr.com/search/?text=DLeonor+Inland+Resort+and+Adventure+Park+Davao+City&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "DLeonor Inland Resort Davao",
+          "url": "https://www.flickr.com/search/?text=DLeonor+Inland+Resort+Davao&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "placeId": "davao-poblacion-market-central",
+      "name": "Poblacion Market Central",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/place-enrichment/photo-only/photo-003-research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "Poblacion Market Central Davao City",
+          "url": "https://www.flickr.com/search/?text=Poblacion+Market+Central+Davao+City&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Poblacion Market Central Davao",
+          "url": "https://www.flickr.com/search/?text=Poblacion+Market+Central+Davao&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "placeId": "davao-gap-farm",
+      "name": "GAP Farm Resort",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/place-enrichment/photo-only/photo-003-research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "GAP Farm Resort Davao City",
+          "url": "https://www.flickr.com/search/?text=GAP+Farm+Resort+Davao+City&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "GAP Farm Resort Davao",
+          "url": "https://www.flickr.com/search/?text=GAP+Farm+Resort+Davao&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "placeId": "davao-bago-esplanade",
+      "name": "Bago Esplanade",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/place-enrichment/photo-only/photo-003-research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "Bago Esplanade Davao City",
+          "url": "https://www.flickr.com/search/?text=Bago+Esplanade+Davao+City&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Bago Esplanade Davao",
+          "url": "https://www.flickr.com/search/?text=Bago+Esplanade+Davao&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "placeId": "davao-gulf-view-esplanade",
+      "name": "Gulf View Esplanade",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/place-enrichment/photo-only/photo-003-research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "Gulf View Esplanade Davao City",
+          "url": "https://www.flickr.com/search/?text=Gulf+View+Esplanade+Davao+City&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Gulf View Esplanade Davao",
+          "url": "https://www.flickr.com/search/?text=Gulf+View+Esplanade+Davao&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "placeId": "davao-marfori-botanical-garden",
+      "name": "Davao City Botanical Park",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/place-enrichment/photo-only/photo-003-research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "Davao City Botanical Park Davao City",
+          "url": "https://www.flickr.com/search/?text=Davao+City+Botanical+Park+Davao+City&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Davao City Botanical Davao",
+          "url": "https://www.flickr.com/search/?text=Davao+City+Botanical+Davao&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "placeId": "davao-matina-linear-park",
+      "name": "Matina Linear Park",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/place-enrichment/photo-only/photo-004-research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "Matina Linear Park Davao City",
+          "url": "https://www.flickr.com/search/?text=Matina+Linear+Park+Davao+City&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Matina Linear Park Davao",
+          "url": "https://www.flickr.com/search/?text=Matina+Linear+Park+Davao&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Commons",
+          "query": "Matina Linear Park Davao",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Matina+Linear+Park+Davao&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "placeId": "davao-toril-park",
+      "name": "Toril Park",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/place-enrichment/photo-only/photo-003-research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "Toril Park Davao City",
+          "url": "https://www.flickr.com/search/?text=Toril+Park+Davao+City&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Toril Park Davao",
+          "url": "https://www.flickr.com/search/?text=Toril+Park+Davao&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Commons",
+          "query": "Toril Park Davao",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Toril+Park+Davao&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 2
+        }
+      ],
+      "candidates": [
+        {
+          "provider": "Wikimedia Commons",
+          "title": "File:Eden Nature Park panorama.jpg",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Eden_Nature_Park_panorama.jpg",
+          "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Eden_Nature_Park_panorama.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "previewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Eden_Nature_Park_panorama.jpg/960px-Eden_Nature_Park_panorama.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 8735,
+          "height": 4279,
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "creator": "Michael E. Peligro",
+          "description": "view of Eden Nature Park's entrance\nEden Nature Park\n\nBarangay Eden, Toril, Davao City, Philippines",
+          "categories": "Self-published work|Images from Wiki Loves Earth 2018|September 2015 Philippines photographs|Files with coordinates missing SDC location of creation|Images from Wiki Loves Earth 2018 in the Philippines|Philippines photographs taken on 2015-09-24|Uploaded via Campaign:wle-ph|Images from Wiki Loves Earth missing SDC depicts|Images from Wiki Loves Earth missing SDC location of creation|Parks in Davao City",
+          "latitude": "7.029249",
+          "longitude": "125.399267"
+        },
+        {
+          "provider": "Wikimedia Commons",
+          "title": "File:Cabin in Eden.jpg",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Cabin_in_Eden.jpg",
+          "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/8/87/Cabin_in_Eden.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "previewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Cabin_in_Eden.jpg/960px-Cabin_in_Eden.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 3468,
+          "height": 4624,
+          "license": "CC0",
+          "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "creator": "RoseAnnMay21",
+          "description": "Eden Nature Park and Resort in Toril, Davao City, Philippines",
+          "categories": "CC-Zero|Self-published work|Nature parks in the Philippines|Files with coordinates missing SDC location of creation|Buildings in Davao City|Taken with Oppo Reno7 Z 5G",
+          "latitude": "7.029294",
+          "longitude": "125.400219"
+        }
+      ]
+    },
+    {
+      "placeId": "davao-candelaria-park",
+      "name": "Candelaria Park",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/place-enrichment/photo-only/photo-004-research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "Candelaria Park Davao City",
+          "url": "https://www.flickr.com/search/?text=Candelaria+Park+Davao+City&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Candelaria Park Davao",
+          "url": "https://www.flickr.com/search/?text=Candelaria+Park+Davao&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Commons",
+          "query": "Candelaria Park Davao",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Candelaria+Park+Davao&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "placeId": "davao-marina-tuna-sandawa",
+      "name": "Marina Tuna — Sandawa Plaza",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/place-enrichment/photo-only/photo-004-research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "Marina Tuna Davao City",
+          "url": "https://www.flickr.com/search/?text=Marina+Tuna+Davao+City&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Marina Tuna Davao",
+          "url": "https://www.flickr.com/search/?text=Marina+Tuna+Davao&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "placeId": "davao-apo-ni-lola-matina",
+      "name": "Apo ni Lola Pasalubong Center — Matina",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/place-enrichment/photo-only/photo-004-research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "Apo ni Lola Pasalubong Center Davao City",
+          "url": "https://www.flickr.com/search/?text=Apo+ni+Lola+Pasalubong+Center+Davao+City&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Apo ni Lola Davao",
+          "url": "https://www.flickr.com/search/?text=Apo+ni+Lola+Davao&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "placeId": "davao-communal-pocket-park",
+      "name": "Communal Pocket Park",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/place-enrichment/photo-only/photo-004-research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "Communal Pocket Park Davao City",
+          "url": "https://www.flickr.com/search/?text=Communal+Pocket+Park+Davao+City&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Communal Pocket Park Davao",
+          "url": "https://www.flickr.com/search/?text=Communal+Pocket+Park+Davao&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Commons",
+          "query": "Communal Pocket Park Davao",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Communal+Pocket+Park+Davao&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "placeId": "davao-purge-tulip",
+      "name": "Purge Coffee Roaster — Tulip Drive",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/food-directory/media/research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "Purge Coffee Roaster Davao City",
+          "url": "https://www.flickr.com/search/?text=Purge+Coffee+Roaster+Davao+City&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Purge Coffee Roaster Davao",
+          "url": "https://www.flickr.com/search/?text=Purge+Coffee+Roaster+Davao&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Commons",
+          "query": "Purge Coffee Roaster Davao",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Purge+Coffee+Roaster+Davao&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "placeId": "davao-glasshouse-oboza",
+      "name": "Glasshouse Coffee — Oboza Heritage House",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/food-directory/media/research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "Glasshouse Coffee Davao City",
+          "url": "https://www.flickr.com/search/?text=Glasshouse+Coffee+Davao+City&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Glasshouse Coffee Davao",
+          "url": "https://www.flickr.com/search/?text=Glasshouse+Coffee+Davao&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Commons",
+          "query": "Glasshouse Coffee Davao",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Glasshouse+Coffee+Davao&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "placeId": "davao-fourth-street-narra",
+      "name": "Fourth Street Cafe — Narra",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/food-directory/media/research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "Fourth Street Cafe Davao City",
+          "url": "https://www.flickr.com/search/?text=Fourth+Street+Cafe+Davao+City&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Fourth Street Davao",
+          "url": "https://www.flickr.com/search/?text=Fourth+Street+Davao&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Commons",
+          "query": "Fourth Street Davao",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Fourth+Street+Davao&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "placeId": "davao-kapewenoz-v-mapa",
+      "name": "Kapeweñoz — V. Mapa",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/food-directory/media/research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "Kapeweñoz Davao City",
+          "url": "https://www.flickr.com/search/?text=Kapewe%C3%B1oz+Davao+City&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Kapeweñoz Davao",
+          "url": "https://www.flickr.com/search/?text=Kapewe%C3%B1oz+Davao&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Commons",
+          "query": "Kapeweñoz Davao",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Kapewe%C3%B1oz+Davao&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "placeId": "davao-paramount-star-hotel",
+      "name": "Paramount Coffee — Star Hotel",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/food-directory/media/research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "Paramount Coffee Davao City",
+          "url": "https://www.flickr.com/search/?text=Paramount+Coffee+Davao+City&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Paramount Coffee Davao",
+          "url": "https://www.flickr.com/search/?text=Paramount+Coffee+Davao&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Commons",
+          "query": "Paramount Coffee Davao",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Paramount+Coffee+Davao&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "placeId": "davao-lamano-tulip",
+      "name": "Lamano Cocina & Bar",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/food-directory/media/research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "Lamano Cocina & Bar Davao City",
+          "url": "https://www.flickr.com/search/?text=Lamano+Cocina+%26+Bar+Davao+City&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Lamano Cocina Bar Davao",
+          "url": "https://www.flickr.com/search/?text=Lamano+Cocina+Bar+Davao&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Commons",
+          "query": "Lamano Cocina Bar Davao",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Lamano+Cocina+Bar+Davao&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "placeId": "davao-lachis-marfori",
+      "name": "Lachi’s Sans Rival Atbp. — Marfori",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/food-directory/media/research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "Lachis Sans Rival Atbp. Davao City",
+          "url": "https://www.flickr.com/search/?text=Lachis+Sans+Rival+Atbp.+Davao+City&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Lachis Sans Rival Davao",
+          "url": "https://www.flickr.com/search/?text=Lachis+Sans+Rival+Davao&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Commons",
+          "query": "Lachis Sans Rival Davao",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Lachis+Sans+Rival+Davao&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "placeId": "bohol-danao-beach-afternoon",
+      "name": "Danao Beach",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/place-enrichment/photo-only/photo-004-research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "Danao Beach Panglao",
+          "url": "https://www.flickr.com/search/?text=Danao+Beach+Panglao&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Danao Beach Bohol",
+          "url": "https://www.flickr.com/search/?text=Danao+Beach+Bohol&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Commons",
+          "query": "Danao Beach Bohol",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Danao+Beach+Bohol&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 1
+        }
+      ],
+      "candidates": [
+        {
+          "provider": "Wikimedia Commons",
+          "title": "File:Coconut trees on Panglao Bita-Ug beach - panoramio.jpg",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Coconut_trees_on_Panglao_Bita-Ug_beach_-_panoramio.jpg",
+          "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/3/36/Coconut_trees_on_Panglao_Bita-Ug_beach_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "previewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Coconut_trees_on_Panglao_Bita-Ug_beach_-_panoramio.jpg/960px-Coconut_trees_on_Panglao_Bita-Ug_beach_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1752,
+          "height": 1168,
+          "license": "CC BY 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+          "creator": "Tuderna",
+          "description": "Coconut trees on Panglao Bita-Ug beach",
+          "categories": "Panglao, Bohol|Panoramio files uploaded by Panoramio upload bot|Panoramio images reviewed by trusted users|Photos from Panoramio|Philippines photographs taken on 2010-01-27|Files with coordinates missing SDC location of creation|Beaches of Bohol|Photos from Panoramio ID 1496126",
+          "latitude": "9.547056",
+          "longitude": "123.752244"
+        }
+      ]
+    },
+    {
+      "placeId": "davao-capris-bajada",
+      "name": "Capri’s Restaurant and Deli",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/food-directory/media/research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "Capris Restaurant and Deli Davao City",
+          "url": "https://www.flickr.com/search/?text=Capris+Restaurant+and+Deli+Davao+City&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Capris Deli Davao",
+          "url": "https://www.flickr.com/search/?text=Capris+Deli+Davao&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Commons",
+          "query": "Capris Deli Davao",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Capris+Deli+Davao&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "placeId": "bohol-common-crew",
+      "name": "Common Crew Coffee Roasters & Brewers",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/place-enrichment/photo-only/photo-004-research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "Common Crew Coffee Roasters & Brewers Panglao",
+          "url": "https://www.flickr.com/search/?text=Common+Crew+Coffee+Roasters+%26+Brewers+Panglao&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Common Crew Coffee Bohol",
+          "url": "https://www.flickr.com/search/?text=Common+Crew+Coffee+Bohol&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "placeId": "bohol-shaka-panglao",
+      "name": "Shaka Cafes — Panglao",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/place-enrichment/photo-only/photo-004-research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "Shaka Cafes Panglao",
+          "url": "https://www.flickr.com/search/?text=Shaka+Cafes+Panglao&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Shaka Cafes Bohol",
+          "url": "https://www.flickr.com/search/?text=Shaka+Cafes+Bohol&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "placeId": "bohol-libaong-beach",
+      "name": "Libaong Beach",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/place-enrichment/photo-only/photo-004-research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "Libaong Beach Panglao",
+          "url": "https://www.flickr.com/search/?text=Libaong+Beach+Panglao&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Libaong Beach Bohol",
+          "url": "https://www.flickr.com/search/?text=Libaong+Beach+Bohol&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Commons",
+          "query": "Libaong Beach Bohol",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Libaong+Beach+Bohol&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        }
+      ],
+      "candidates": []
+    }
+  ]
+}

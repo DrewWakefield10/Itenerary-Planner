@@ -1,0 +1,879 @@
+{
+  "batchId": "cover-008",
+  "checkedOn": "2026-10-23",
+  "status": "unapproved-research",
+  "records": [
+    {
+      "placeId": "manila-yardstick-esteban",
+      "name": "Yardstick — Legazpi Village",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/food-directory/media/research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "Yardstick Makati",
+          "url": "https://www.flickr.com/search/?text=Yardstick+Makati&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "placeId": "manila-eng-bee-tin-ongpin",
+      "name": "Eng Bee Tin - Ongpin Flagship",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/place-enrichment/photo-only/photo-006-research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "Eng Bee Tin Manila",
+          "url": "https://www.flickr.com/search/?text=Eng+Bee+Tin+Manila&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Commons",
+          "query": "Eng Bee Tin Manila",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Eng+Bee+Tin+Manila&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 8
+        }
+      ],
+      "candidates": [
+        {
+          "provider": "Wikimedia Commons",
+          "title": "File:Eng Bee Tin Manila 01.jpg",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Eng_Bee_Tin_Manila_01.jpg",
+          "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Eng_Bee_Tin_Manila_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "previewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Eng_Bee_Tin_Manila_01.jpg/960px-Eng_Bee_Tin_Manila_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 3872,
+          "height": 4877,
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "creator": "SwarmCheng",
+          "description": "Eng Bee Tin",
+          "categories": "Eng Bee Tin|Self-published work"
+        },
+        {
+          "provider": "Wikimedia Commons",
+          "title": "File:Eng Bee Tin Manila 07.jpg",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Eng_Bee_Tin_Manila_07.jpg",
+          "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Eng_Bee_Tin_Manila_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "previewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Eng_Bee_Tin_Manila_07.jpg/960px-Eng_Bee_Tin_Manila_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 3717,
+          "height": 4799,
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "creator": "SwarmCheng",
+          "description": "Chinese guardian lions in the Philippines",
+          "categories": "Self-published work|Chinese guardian lions in the Philippines"
+        },
+        {
+          "provider": "Wikimedia Commons",
+          "title": "File:Eng Bee Tin Manila 08.jpg",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Eng_Bee_Tin_Manila_08.jpg",
+          "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Eng_Bee_Tin_Manila_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "previewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Eng_Bee_Tin_Manila_08.jpg/960px-Eng_Bee_Tin_Manila_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 3525,
+          "height": 4566,
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "creator": "SwarmCheng",
+          "description": "Chinese guardian lions in the Philippines",
+          "categories": "Self-published work|Chinese guardian lions in the Philippines"
+        },
+        {
+          "provider": "Wikimedia Commons",
+          "title": "File:Eng Bee Tin Manila 09.jpg",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Eng_Bee_Tin_Manila_09.jpg",
+          "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/8/87/Eng_Bee_Tin_Manila_09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "previewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Eng_Bee_Tin_Manila_09.jpg/960px-Eng_Bee_Tin_Manila_09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 4784,
+          "height": 3555,
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "creator": "SwarmCheng",
+          "description": "Mooncakes",
+          "categories": "Mooncakes|Self-published work"
+        },
+        {
+          "provider": "Wikimedia Commons",
+          "title": "File:Eng Bee Tin Manila 10.jpg",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Eng_Bee_Tin_Manila_10.jpg",
+          "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Eng_Bee_Tin_Manila_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "previewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Eng_Bee_Tin_Manila_10.jpg/960px-Eng_Bee_Tin_Manila_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 4922,
+          "height": 3728,
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "creator": "SwarmCheng",
+          "description": "Mooncakes",
+          "categories": "Mooncakes|Self-published work"
+        },
+        {
+          "provider": "Wikimedia Commons",
+          "title": "File:Eng Bee Tin Manila 11.jpg",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Eng_Bee_Tin_Manila_11.jpg",
+          "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Eng_Bee_Tin_Manila_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "previewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Eng_Bee_Tin_Manila_11.jpg/960px-Eng_Bee_Tin_Manila_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 5184,
+          "height": 3888,
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "creator": "SwarmCheng",
+          "description": "Mooncakes",
+          "categories": "Mooncakes|Self-published work"
+        },
+        {
+          "provider": "Wikimedia Commons",
+          "title": "File:Eng Bee Tin Manila 12.jpg",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Eng_Bee_Tin_Manila_12.jpg",
+          "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/d/db/Eng_Bee_Tin_Manila_12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "previewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Eng_Bee_Tin_Manila_12.jpg/960px-Eng_Bee_Tin_Manila_12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 3867,
+          "height": 5128,
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "creator": "SwarmCheng",
+          "description": "Chinese guardian lions in the Philippines",
+          "categories": "Self-published work|Chinese guardian lions in the Philippines"
+        },
+        {
+          "provider": "Wikimedia Commons",
+          "title": "File:Eng Bee Tin Manila 18.jpg",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Eng_Bee_Tin_Manila_18.jpg",
+          "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/1/17/Eng_Bee_Tin_Manila_18.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "previewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Eng_Bee_Tin_Manila_18.jpg/960px-Eng_Bee_Tin_Manila_18.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 5184,
+          "height": 3888,
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "creator": "SwarmCheng",
+          "description": "Santo Cristo de Longos (Binondo)",
+          "categories": "Self-published work|Santo Cristo de Longos (Binondo)"
+        }
+      ]
+    },
+    {
+      "placeId": "manila-commune-poblacion",
+      "name": "Commune Café + Bar",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/food-directory/media/research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "Commune Café + Bar Makati",
+          "url": "https://www.flickr.com/search/?text=Commune+Caf%C3%A9+%2B+Bar+Makati&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Commune + Bar Makati",
+          "url": "https://www.flickr.com/search/?text=Commune+%2B+Bar+Makati&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Commons",
+          "query": "Commune + Bar Makati",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Commune+%2B+Bar+Makati&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 1
+        }
+      ],
+      "candidates": [
+        {
+          "provider": "Wikimedia Commons",
+          "title": "File:Sony Xperia XZ Platinum with Style Cover Touch case.jpg",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Sony_Xperia_XZ_Platinum_with_Style_Cover_Touch_case.jpg",
+          "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Sony_Xperia_XZ_Platinum_with_Style_Cover_Touch_case.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "previewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Sony_Xperia_XZ_Platinum_with_Style_Cover_Touch_case.jpg/960px-Sony_Xperia_XZ_Platinum_with_Style_Cover_Touch_case.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 2132,
+          "height": 2112,
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "creator": "Ekklesia12",
+          "description": "Sony Xperia XZ in Platinum with Style Cover Touch SCTF10, taken at the Sony Mobile Photography Workshop event held at Commune Cafe+Bar, Makati City, Philippines",
+          "categories": "Sony Xperia XZ|Self-published work|Files with coordinates missing SDC location of creation",
+          "latitude": "14.562667",
+          "longitude": "121.030167"
+        }
+      ]
+    },
+    {
+      "placeId": "manila-exchange-alley-molito",
+      "name": "Exchange Alley Coffee House — Molito",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/food-directory/media/research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "Exchange Alley Coffee House Muntinlupa",
+          "url": "https://www.flickr.com/search/?text=Exchange+Alley+Coffee+House+Muntinlupa&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Exchange Alley Coffee Muntinlupa",
+          "url": "https://www.flickr.com/search/?text=Exchange+Alley+Coffee+Muntinlupa&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Commons",
+          "query": "Exchange Alley Coffee Muntinlupa",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Exchange+Alley+Coffee+Muntinlupa&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "placeId": "manila-type-a-nbs",
+      "name": "Type A Coffee — NBS Park",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/food-directory/media/research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "Type A Coffee Mandaluyong",
+          "url": "https://www.flickr.com/search/?text=Type+A+Coffee+Mandaluyong&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "placeId": "manila-group-boiler-molito",
+      "name": "Group & Boiler — Molito",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/food-directory/media/research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "Group & Boiler Muntinlupa",
+          "url": "https://www.flickr.com/search/?text=Group+%26+Boiler+Muntinlupa&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Group Boiler Muntinlupa",
+          "url": "https://www.flickr.com/search/?text=Group+Boiler+Muntinlupa&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Commons",
+          "query": "Group Boiler Muntinlupa",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Group+Boiler+Muntinlupa&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "placeId": "manila-saigon-coffee-arca",
+      "name": "Saigon Coffee — Arca South",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/food-directory/media/research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "Saigon Coffee Taguig",
+          "url": "https://www.flickr.com/search/?text=Saigon+Coffee+Taguig&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "placeId": "manila-toyo-eatery",
+      "name": "Toyo Eatery",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/food-directory/media/research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "Toyo Eatery Makati",
+          "url": "https://www.flickr.com/search/?text=Toyo+Eatery+Makati&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "placeId": "manila-gallery-by-chele",
+      "name": "Gallery by Chele",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/food-directory/media/research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "Gallery by Chele Taguig",
+          "url": "https://www.flickr.com/search/?text=Gallery+by+Chele+Taguig&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "placeId": "manila-sarsa-rada",
+      "name": "Sarsa — Rada Street",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/food-directory/media/research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "Sarsa Makati",
+          "url": "https://www.flickr.com/search/?text=Sarsa+Makati&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "placeId": "manila-your-local",
+      "name": "Your Local",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/food-directory/media/research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "Your Local Makati",
+          "url": "https://www.flickr.com/search/?text=Your+Local+Makati&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 1,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "candidates": [
+        {
+          "provider": "Flickr",
+          "id": "9364538772",
+          "title": "Driving through the Manila slum",
+          "description": "There was a 'clearing' in the traffic so to speak, due to a large water tank blocking half the road, so I dared this more direct shot. You can see people making their living whatever way they can- selling reconditioned computers recovered from scrap, repairing refrigerators etc. It is EXACTLY like this in large cities in India. I was actually feeling a lump in my throat here, and looking at these simple, hard working folk struggling to make ends meet wondered whether the slums of Manila are really such dangerous places after all. After dark maybe, if you flash your valuables. (Manila, Philippines, May 2013)",
+          "creator": "shankar s.",
+          "owner": "77742560@N06",
+          "sourcePage": "https://www.flickr.com/photos/shankaronline/9364538772/",
+          "licenseCode": 4,
+          "originalUrl": "https://live.staticflickr.com/7317/9364538772_1450a5578f_b.jpg",
+          "previewUrl": "https://live.staticflickr.com/7317/9364538772_1450a5578f_z.jpg",
+          "width": 1024,
+          "height": 683
+        }
+      ]
+    },
+    {
+      "placeId": "manila-metiz-karrivin",
+      "name": "Metiz",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/food-directory/media/research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "Metiz Makati",
+          "url": "https://www.flickr.com/search/?text=Metiz+Makati&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "placeId": "manila-the-den-escolta",
+      "name": "The Den — Escolta",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/food-directory/media/research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "The Den Manila",
+          "url": "https://www.flickr.com/search/?text=The+Den+Manila&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 1,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Den Manila",
+          "url": "https://www.flickr.com/search/?text=Den+Manila&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 2,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Commons",
+          "query": "Den Manila",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Den+Manila&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 8
+        }
+      ],
+      "candidates": [
+        {
+          "provider": "Flickr",
+          "id": "21073345854",
+          "title": "Manila, Utah",
+          "description": "Manila is a small town located on the northern edge of Daggett County, Utah, just south of the Wyoming border in the United States. The town is at the junction of State Route 43 and State Route 44, and is the county seat of Daggett County. Nearby sites include the Flaming Gorge National Recreation Area and the Flaming Gorge Reservoir just east of town, and to the south is Ashley National Forest, which includes Kings Peak (13,528 ft), the highest point in Utah.\n\nThe population of Manila was 310 at the 2010 census. The settlement was named in 1898, commemorating the American naval victory at the Battle of Manila Bay in the Philippines.\n\nManila is located in northeastern Utah, north of the Uinta Mountains and west of the Flaming Gorge Reservoir on the Green River. The northern border of the town is the Wyoming state line.\n\nen.wikipedia.org/wiki/Manila,_Utah\n\nen.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_...",
+          "creator": "Ken Lund",
+          "owner": "75683070@N00",
+          "sourcePage": "https://www.flickr.com/photos/kenlund/21073345854/",
+          "licenseCode": 5,
+          "originalUrl": "https://live.staticflickr.com/713/21073345854_93548c9816_b.jpg",
+          "previewUrl": "https://live.staticflickr.com/713/21073345854_93548c9816_z.jpg",
+          "width": 1024,
+          "height": 768
+        },
+        {
+          "provider": "Flickr",
+          "id": "9197136341",
+          "title": "AM Spindelegger überreicht Bürgerservice-Preis",
+          "description": "Mittwoch, den 3. Juli 2013, überreichte AM Michael Spindelegger , anlässlich der jährlichen Konsular- und Verwaltungskonferenz des Aussenamtes, den Bürgerservice-Preis an Mitarbeiter des Ressorts, für ihren ausserordentlichen Einsatz im Konsularbereich. . Im Bild v.l.n.r) Dr. Barbara Pfeiffer, Bot. Dr. Elisabeth Tichy-Fisslberger, BR und  Konsul Peter Janisch (Österreichische Botschaft Madrid), 3. BS und VK Gabriele Zobl-Kratschmann (Österreichische Botschaft Manila), HVK, Attaché und VK Mag. Andreas Heuberger (Österreichische Botschaft Addis Abeba)\nFoto: Mahmoud",
+          "creator": "Bundesministerium für europäische und internationale Angelegenheiten",
+          "owner": "88775815@N04",
+          "sourcePage": "https://www.flickr.com/photos/minoritenplatz8/9197136341/",
+          "licenseCode": 4,
+          "originalUrl": "https://live.staticflickr.com/3761/9197136341_e35699ba39_b.jpg",
+          "previewUrl": "https://live.staticflickr.com/3761/9197136341_e35699ba39_z.jpg",
+          "width": 1024,
+          "height": 847
+        },
+        {
+          "provider": "Flickr",
+          "id": "9199917916",
+          "title": "AM Spindelegger überreicht Bürgerservice-Preis",
+          "description": "Mittwoch, den 3. Juli 2013, überreichte AM Michael Spindelegger , anlässlich der jährlichen Konsular- und Verwaltungskonferenz des Aussenamtes, den Bürgerservice-Preis an Mitarbeiter des Ressorts, für ihren ausserordentlichen Einsatz im Konsularbereich. Im Bild, HVK Dr. Spindelegger und  Fr. Gabriele Zobl-Kratschmann (Österreichische Botschaft Manila)\nFoto: Mahmoud",
+          "creator": "Bundesministerium für europäische und internationale Angelegenheiten",
+          "owner": "88775815@N04",
+          "sourcePage": "https://www.flickr.com/photos/minoritenplatz8/9199917916/",
+          "licenseCode": 4,
+          "originalUrl": "https://live.staticflickr.com/3692/9199917916_e7ae11e434_b.jpg",
+          "previewUrl": "https://live.staticflickr.com/3692/9199917916_e7ae11e434_z.jpg",
+          "width": 1024,
+          "height": 846
+        },
+        {
+          "provider": "Wikimedia Commons",
+          "title": "File:0211jfRockwell Power Plant Chapel Sacred Heart Poblacion Makati Cityfvf 11.jpg",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:0211jfRockwell_Power_Plant_Chapel_Sacred_Heart_Poblacion_Makati_Cityfvf_11.jpg",
+          "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/0/03/0211jfRockwell_Power_Plant_Chapel_Sacred_Heart_Poblacion_Makati_Cityfvf_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "previewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/0211jfRockwell_Power_Plant_Chapel_Sacred_Heart_Poblacion_Makati_Cityfvf_11.jpg/960px-0211jfRockwell_Power_Plant_Chapel_Sacred_Heart_Poblacion_Makati_Cityfvf_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 4608,
+          "height": 3456,
+          "license": "Public domain",
+          "creator": "Judgefloro",
+          "description": "Sacred Heart of Jesus Chapel (Power Plant Mall, Rockwell Center, Makati City)\nPower Plant Mall, Rockwell Center Dedicated June 5, 2006 List of barangays of Metro Manila, Legislative districts of Makati, Barangay Poblacion, Makati, Makati City (Note: Judge Florentino Floro, the owner, to repeat, Donor Florentino Floro of all these photos hereby donate gratuitously, freely and unconditionally all these photos to and for Wikimedia Commons, exclusively, for public use of the public domain, and again without any condition whatsoever).",
+          "categories": "Self-published work|PD-self|Sacred Heart of Jesus Chapel (Power Plant Mall, Rockwell Center, Makati City)"
+        },
+        {
+          "provider": "Wikimedia Commons",
+          "title": "File:Makati, Metro Manila, Philippines - panoramio.jpg",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Makati,_Metro_Manila,_Philippines_-_panoramio.jpg",
+          "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Makati%2C_Metro_Manila%2C_Philippines_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "previewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Makati%2C_Metro_Manila%2C_Philippines_-_panoramio.jpg/960px-Makati%2C_Metro_Manila%2C_Philippines_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 2880,
+          "height": 2160,
+          "license": "CC BY-SA 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+          "creator": "Idawriter",
+          "description": "Makati, Metro Manila, Philippines",
+          "categories": "Makati|Panoramio files uploaded by Panoramio upload bot|Panoramio images reviewed by trusted users|Photos from Panoramio|Files with coordinates missing SDC location of creation|Philippines photographs taken on 2011-07-14",
+          "latitude": "14.562048",
+          "longitude": "121.054042"
+        },
+        {
+          "provider": "Wikimedia Commons",
+          "title": "File:0340jfEast Rembo Barangays Kalayaan Avenue Makati City Tunnelfvf 32.jpg",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:0340jfEast_Rembo_Barangays_Kalayaan_Avenue_Makati_City_Tunnelfvf_32.jpg",
+          "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/9/98/0340jfEast_Rembo_Barangays_Kalayaan_Avenue_Makati_City_Tunnelfvf_32.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "previewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/0340jfEast_Rembo_Barangays_Kalayaan_Avenue_Makati_City_Tunnelfvf_32.jpg/960px-0340jfEast_Rembo_Barangays_Kalayaan_Avenue_Makati_City_Tunnelfvf_32.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 4608,
+          "height": 3456,
+          "license": "CC0",
+          "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "creator": "Judgefloro",
+          "description": "Makati City Tunnel in East Rembo, Kalayaan Avenue Kalayaan Avenue Sgt. Fabian Yabut Circle (Makati City) List of barangays of Metro Manila, Legislative districts of Makati, Guadalupe Nuevo 14°33'46\"N 121°2'43\"E Pitogo 14°33'26\"N 121°2'42\"E South Cembo 14°33'33\"N 121°3'0\"E  Pinagkaisahan  14°33'29\"N 121°2'27\"E Cembo 14°33'54\"N 121°3'2\"E East Rembo 14°33'11\"N 121°3'42\"E Makati City Fort Bonifacio  EDSA–Kalayaan Flyover Kalayaan Flyover Circumferential Road 5 Gil Puyat Avenue EDSA (Road) List of rivers and estuaries in Metro Manila (Note: Judge Florentino Floro, the owner, to repeat, Donor Florentino Floro of all these photos hereby donate gratuitously, freely and unconditionally all these photos to and for Wikimedia Commons, exclusively, for public use of the public domain, and again without any condition whatsoever).",
+          "categories": "CC-Zero|Self-published work|Files with coordinates missing SDC location of creation|Makati City Tunnel in East Rembo, Kalayaan Avenue",
+          "latitude": "14.553056",
+          "longitude": "121.061667"
+        },
+        {
+          "provider": "Wikimedia Commons",
+          "title": "File:Bel-Air, Makati, Metro Manila, Philippines - panoramio (2).jpg",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Bel-Air,_Makati,_Metro_Manila,_Philippines_-_panoramio_(2).jpg",
+          "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Bel-Air%2C_Makati%2C_Metro_Manila%2C_Philippines_-_panoramio_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "previewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Bel-Air%2C_Makati%2C_Metro_Manila%2C_Philippines_-_panoramio_%282%29.jpg/960px-Bel-Air%2C_Makati%2C_Metro_Manila%2C_Philippines_-_panoramio_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 2048,
+          "height": 1536,
+          "license": "CC BY 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+          "creator": "randomtraveller",
+          "description": "Bel-Air, Makati, Metro Manila, Philippines",
+          "categories": "Makati|Panoramio files uploaded by Panoramio upload bot|Panoramio images reviewed by trusted users|Photos from Panoramio|Photographs taken on 2014-02-04|Files with coordinates missing SDC location of creation|Taken with Oplus O+ 8.31z",
+          "latitude": "14.559999",
+          "longitude": "121.017059"
+        },
+        {
+          "provider": "Wikimedia Commons",
+          "title": "File:San Antonio, Makati, Metro Manila, Philippines - panoramio (1).jpg",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:San_Antonio,_Makati,_Metro_Manila,_Philippines_-_panoramio_(1).jpg",
+          "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0c/San_Antonio%2C_Makati%2C_Metro_Manila%2C_Philippines_-_panoramio_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "previewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/San_Antonio%2C_Makati%2C_Metro_Manila%2C_Philippines_-_panoramio_%281%29.jpg/960px-San_Antonio%2C_Makati%2C_Metro_Manila%2C_Philippines_-_panoramio_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 2048,
+          "height": 1536,
+          "license": "CC BY 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+          "creator": "randomtraveller",
+          "description": "San Antonio, Makati, Metro Manila, Philippines",
+          "categories": "Makati|Panoramio files uploaded by Panoramio upload bot|Panoramio images reviewed by trusted users|Photos from Panoramio|Photographs taken on 2014-04-01|Files with coordinates missing SDC location of creation",
+          "latitude": "14.561270",
+          "longitude": "121.013618"
+        },
+        {
+          "provider": "Wikimedia Commons",
+          "title": "File:Manila, Makati, Philippines.jpg",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Manila,_Makati,_Philippines.jpg",
+          "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Manila%2C_Makati%2C_Philippines.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "previewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Manila%2C_Makati%2C_Philippines.jpg/960px-Manila%2C_Makati%2C_Philippines.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 4000,
+          "height": 3000,
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+          "creator": "Vyacheslav Argenberg",
+          "description": "Greenbelt is a major shopping mall located at Ayala Center, Makati, Metro Manila. Manila, Philippines.",
+          "categories": "Photos by Vyacheslav Argenberg|Makati|Greenbelt (Ayala Center)|Self-published work|Photos by Vyacheslav Argenberg in 2009|Photos by Vyacheslav Argenberg in the Philippines"
+        },
+        {
+          "provider": "Wikimedia Commons",
+          "title": "File:Iglesia de San Miguel, Manila, Filipinas, 2023-08-27, DD 29-31 HDR.jpg",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Iglesia_de_San_Miguel,_Manila,_Filipinas,_2023-08-27,_DD_29-31_HDR.jpg",
+          "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/8/83/Iglesia_de_San_Miguel%2C_Manila%2C_Filipinas%2C_2023-08-27%2C_DD_29-31_HDR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "previewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Iglesia_de_San_Miguel%2C_Manila%2C_Filipinas%2C_2023-08-27%2C_DD_29-31_HDR.jpg/960px-Iglesia_de_San_Miguel%2C_Manila%2C_Filipinas%2C_2023-08-27%2C_DD_29-31_HDR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 7117,
+          "height": 5294,
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "creator": "Diego Delso",
+          "description": "San Miguel Church‎, formally The Royal Parish and National Shrine of Saint Michael and the Archangels, Manila, Philippines. The shrine is located within the Malacañang Palace complex, the official residence of the President of the Republic of the Philippines. Presidents that have heard Mass at the shrine include Carlos P. García, Gloria Macapagal Arroyo, and Fidel V. Ramos (who was Protestant). The Church was first built in stone in 1603 by the Jesuits in Paco. In 1611, the Jesuits and Filipino Catholics accommodated the Japanese Christians who were persecuted by the Tokugawa Shogunate. It was Blessed Dom Justo Takayama (高山右近), a daimyō or feudal lord, who led a group of approximately 300 Japanese Christians to the Philippines in 1614. The church was damaged in the 1645 Luzon earthquake, and during the British occupation of Manila that was part of the Seven Years' War. The church was rebuilt in 1913. The church served as the pro-cathedral of the Archdiocese of Manila while Manila Cathedral was being rebuilt from 1946 to 1958 following the city's destruction in World War II. It was elevated to the rank of a national shrine in 1986.",
+          "categories": "Taken with Canon EOS 5DS R|Interior of the San Miguel Church, Manila|Self-published work|Featured pictures by User:Poco a poco|Images by User:Poco a poco|Cultural heritage monuments in the Philippines with known IDs|Images from Wiki Loves Monuments 2023|Featured pictures of the Philippines by User:Poco a poco|Images of the Philippines by User:Poco a poco|Featured pictures from Wiki Loves Monuments by User:Poco a poco|Featured pictures on Commons by User:Poco a poco|Images from Wiki Loves Monuments by User:Poco a poco|Featured pictures of interiors by User:Poco a poco|Churches in the Philippines photographed in 2023|Naves in the Philippines|Images from Wiki Loves Monuments missing SDC creator|Images from Wiki Loves Monuments missing SDC depicts|Images from Wiki Loves Monuments missing SDC location of creation|Cultural heritage monuments in the Philippines missing SDC location of creation|Cultural heritage monuments in the Philippines missing SDC depicts|Philippines photographs taken on 2023-08-27|Images from Wiki Loves Monuments 2023 in the Philippines|Featured pictures from Wiki Loves Monuments in the Philippines 2023|Images by User:Poco a poco taken in 2023|Featured pictures of churches in Manila"
+        },
+        {
+          "provider": "Wikimedia Commons",
+          "title": "File:Guadalupe Nuevo, Pasig River, EDSA, Barangka drone (Makati City; 12-31-2025).jpg",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Guadalupe_Nuevo,_Pasig_River,_EDSA,_Barangka_drone_(Makati_City;_12-31-2025).jpg",
+          "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Guadalupe_Nuevo%2C_Pasig_River%2C_EDSA%2C_Barangka_drone_%28Makati_City%3B_12-31-2025%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "previewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Guadalupe_Nuevo%2C_Pasig_River%2C_EDSA%2C_Barangka_drone_%28Makati_City%3B_12-31-2025%29.jpg/960px-Guadalupe_Nuevo%2C_Pasig_River%2C_EDSA%2C_Barangka_drone_%28Makati_City%3B_12-31-2025%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 4000,
+          "height": 3000,
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "creator": "Patrickroque01",
+          "description": "Makati City",
+          "categories": "GFDL|License migration not eligible|Self-published work|Photographs by Patrick Roque|Cityscapes of Mandaluyong|Cityscapes of Makati|Photos from unmanned aerial vehicles in Metro Manila|Aerial photographs of Guadalupe Bridge (Makati and Mandaluyong)|Overcast in Mandaluyong"
+        }
+      ]
+    },
+    {
+      "placeId": "manila-cirkulo",
+      "name": "Cirkulo",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/food-directory/media/research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "Cirkulo Makati",
+          "url": "https://www.flickr.com/search/?text=Cirkulo+Makati&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "placeId": "manila-la-pita-poblacion",
+      "name": "La Pita — Poblacion",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/food-directory/media/research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "La Pita Makati",
+          "url": "https://www.flickr.com/search/?text=La+Pita+Makati&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "placeId": "manila-morning-sun-project-four",
+      "name": "Morning Sun Eatery",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/food-directory/media/research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "Morning Sun Eatery Quezon City",
+          "url": "https://www.flickr.com/search/?text=Morning+Sun+Eatery+Quezon+City&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "placeId": "manila-el-poco-malate",
+      "name": "El Poco Cantina — Malate",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/food-directory/media/research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "El Poco Cantina Manila",
+          "url": "https://www.flickr.com/search/?text=El+Poco+Cantina+Manila&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "placeId": "manila-rodics-maginhawa",
+      "name": "Rodic’s Diner — Maginhawa",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/food-directory/media/research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "Rodics Diner Quezon City",
+          "url": "https://www.flickr.com/search/?text=Rodics+Diner+Quezon+City&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Commons",
+          "query": "Rodics Diner Quezon City",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Rodics+Diner+Quezon+City&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "placeId": "cebu-pig-and-palm",
+      "name": "The Pig & Palm",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/place-enrichment/photo-only/photo-006-research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "The Pig & Palm Cebu City",
+          "url": "https://www.flickr.com/search/?text=The+Pig+%26+Palm+Cebu+City&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Pig Palm Cebu",
+          "url": "https://www.flickr.com/search/?text=Pig+Palm+Cebu&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "placeId": "cebu-omagieca-obo-ob-mangrove-garden",
+      "name": "Omagieca Obo-ob Mangrove Garden",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/place-enrichment/photo-only/photo-006-research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "Omagieca Obo-ob Mangrove Garden Bantayan",
+          "url": "https://www.flickr.com/search/?text=Omagieca+Obo-ob+Mangrove+Garden+Bantayan&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Omagieca Obo-ob Mangrove Cebu",
+          "url": "https://www.flickr.com/search/?text=Omagieca+Obo-ob+Mangrove+Cebu&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "placeId": "cebu-turning-wheels-brewery",
+      "name": "Turning Wheels Brewery",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/place-enrichment/photo-only/photo-006-research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "Turning Wheels Brewery Cebu City",
+          "url": "https://www.flickr.com/search/?text=Turning+Wheels+Brewery+Cebu+City&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Turning Wheels Brewery Cebu",
+          "url": "https://www.flickr.com/search/?text=Turning+Wheels+Brewery+Cebu&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "placeId": "cebu-abaca-baking-crossroads",
+      "name": "Abaca Baking Company - Crossroads",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/place-enrichment/photo-only/photo-006-research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "Abaca Baking Company Cebu City",
+          "url": "https://www.flickr.com/search/?text=Abaca+Baking+Company+Cebu+City&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Abaca Baking Company Cebu",
+          "url": "https://www.flickr.com/search/?text=Abaca+Baking+Company+Cebu&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "placeId": "cebu-north-cafe-citymall",
+      "name": "North Café & Co — CityMall Bacalso",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/food-directory/media/research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "North Café & Co Cebu City",
+          "url": "https://www.flickr.com/search/?text=North+Caf%C3%A9+%26+Co+Cebu+City&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "North Co Cebu",
+          "url": "https://www.flickr.com/search/?text=North+Co+Cebu&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Commons",
+          "query": "North Co Cebu",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=North+Co+Cebu&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 1
+        }
+      ],
+      "candidates": [
+        {
+          "provider": "Wikimedia Commons",
+          "title": "File:Compania Maritima Building ruins on the Cebu waterfront.jpg",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Compania_Maritima_Building_ruins_on_the_Cebu_waterfront.jpg",
+          "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Compania_Maritima_Building_ruins_on_the_Cebu_waterfront.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "previewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Compania_Maritima_Building_ruins_on_the_Cebu_waterfront.jpg/960px-Compania_Maritima_Building_ruins_on_the_Cebu_waterfront.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 2047,
+          "height": 1365,
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "creator": "Idolwanderer",
+          "description": "Compania Maritima Building ruins on the Cebu waterfront, just south of the Cebu Customs Building, and north of the China Heritage Museum, one block east of Cebu City Hall.  \nThe building was originally constructed in 1910, the same year as the Cebu Customs Building, making both buildings 114 years old.  The Compania Maritimas Building once housed the Shamrock Hotel & the Manila Steamship Co.  \nAt some point the top floor lost its entire roof, all the glass window panes are now gone, and the ground floor is sealed shut.  The structure's bright yellow exterior is an empty shell  inside.  On city maps it is referred to as \"ruins.\"  \nOddly, there is no historical marker or plaque at the site. \n\nSadly, this site seems tied up in an ownership dispute between the Cebu Port Authority (CPA) and the Cebu City Government that is somehow related to redevelopment plans for the whole Carbon Market area.",
+          "categories": "Compañía Marítima Building|Self-published work|Images from Wiki Loves Monuments 2024|Uploaded via Campaign:wlm-ph|Images from Wiki Loves Monuments missing SDC depicts|Images from Wiki Loves Monuments missing SDC location of creation|Images from Wiki Loves Monuments 2024 in the Philippines"
+        }
+      ]
+    },
+    {
+      "placeId": "cebu-teamo-hotel-one",
+      "name": "Te’Amo Café — Hotel One",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/food-directory/media/research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "TeAmo Café Cebu City",
+          "url": "https://www.flickr.com/search/?text=TeAmo+Caf%C3%A9+Cebu+City&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "TeAmo Cebu",
+          "url": "https://www.flickr.com/search/?text=TeAmo+Cebu&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Commons",
+          "query": "TeAmo Cebu",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=TeAmo+Cebu&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        }
+      ],
+      "candidates": []
+    }
+  ]
+}

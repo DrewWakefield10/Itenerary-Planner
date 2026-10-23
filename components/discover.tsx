@@ -72,7 +72,7 @@ type InterestResponse = {
   rows: ReadershipRow[];
 };
 
-function PlaceCard({
+export function PlaceCard({
   place,
   onAdd,
   signal,

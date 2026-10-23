@@ -1,0 +1,936 @@
+{
+  "batchId": "cover-006",
+  "mode": "photos-only",
+  "checkedOn": "2026-10-23",
+  "outcomes": [
+    {
+      "placeId": "batanes-bunkers-bistro",
+      "checkedOn": "2026-10-23",
+      "sourcesSearched": [
+        {
+          "provider": "Flickr",
+          "query": "Bunkers Bistro Basco",
+          "url": "https://www.flickr.com/search/?text=Bunkers+Bistro+Basco&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Bunkers Bistro Batanes",
+          "url": "https://www.flickr.com/search/?text=Bunkers+Bistro+Batanes&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Commons",
+          "query": "Bunkers Bistro Batanes",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Bunkers+Bistro+Batanes&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        }
+      ],
+      "rejections": [],
+      "notes": [
+        "Earlier approved descriptions, photographs, videos, stable IDs, bookmarks and saved trips are preserved. Public or official visibility alone does not establish image reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source."
+    },
+    {
+      "placeId": "el-nido-secret-lagoon",
+      "checkedOn": "2026-10-23",
+      "sourcesSearched": [
+        {
+          "provider": "Flickr",
+          "query": "Secret Lagoon El Nido",
+          "url": "https://www.flickr.com/search/?text=Secret+Lagoon+El+Nido&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Secret Lagoon Palawan",
+          "url": "https://www.flickr.com/search/?text=Secret+Lagoon+Palawan&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "rejections": [],
+      "notes": [
+        "Earlier approved descriptions, photographs, videos, stable IDs, bookmarks and saved trips are preserved. Public or official visibility alone does not establish image reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source."
+    },
+    {
+      "placeId": "el-nido-cudugnon-cave",
+      "checkedOn": "2026-10-23",
+      "sourcesSearched": [
+        {
+          "provider": "Flickr",
+          "query": "Cudugnon Cave El Nido",
+          "url": "https://www.flickr.com/search/?text=Cudugnon+Cave+El+Nido&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Cudognon",
+          "url": "https://www.flickr.com/search/?text=Cudognon&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Commons",
+          "query": "Cudognon",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Cudognon&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        }
+      ],
+      "rejections": [],
+      "notes": [
+        "Earlier approved descriptions, photographs, videos, stable IDs, bookmarks and saved trips are preserved. Public or official visibility alone does not establish image reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source."
+    },
+    {
+      "placeId": "puerto-princesa-mendoza-park",
+      "checkedOn": "2026-10-23",
+      "sourcesSearched": [
+        {
+          "provider": "Flickr",
+          "query": "Mendoza Park Puerto Princesa City",
+          "url": "https://www.flickr.com/search/?text=Mendoza+Park+Puerto+Princesa+City&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Mendoza Park Palawan",
+          "url": "https://www.flickr.com/search/?text=Mendoza+Park+Palawan&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Commons",
+          "query": "Mendoza Park Palawan",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Mendoza+Park+Palawan&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        }
+      ],
+      "rejections": [],
+      "notes": [
+        "Earlier approved descriptions, photographs, videos, stable IDs, bookmarks and saved trips are preserved. Public or official visibility alone does not establish image reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source."
+    },
+    {
+      "placeId": "puerto-princesa-princess-eulalia-park",
+      "checkedOn": "2026-10-23",
+      "sourcesSearched": [
+        {
+          "provider": "Flickr",
+          "query": "Princess Eulalia Park Puerto Princesa City",
+          "url": "https://www.flickr.com/search/?text=Princess+Eulalia+Park+Puerto+Princesa+City&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Princess Eulalia Park Palawan",
+          "url": "https://www.flickr.com/search/?text=Princess+Eulalia+Park+Palawan&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Commons",
+          "query": "Princess Eulalia Park Palawan",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Princess+Eulalia+Park+Palawan&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        }
+      ],
+      "rejections": [],
+      "notes": [
+        "Earlier approved descriptions, photographs, videos, stable IDs, bookmarks and saved trips are preserved. Public or official visibility alone does not establish image reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source."
+    },
+    {
+      "placeId": "puerto-princesa-world-war-ii-memorial-museum",
+      "checkedOn": "2026-10-23",
+      "sourcesSearched": [
+        {
+          "provider": "Flickr",
+          "query": "World War II Memorial Museum Puerto Princesa City",
+          "url": "https://www.flickr.com/search/?text=World+War+II+Memorial+Museum+Puerto+Princesa+City&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "World War II Palawan",
+          "url": "https://www.flickr.com/search/?text=World+War+II+Palawan&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 12,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "rejections": [
+        {
+          "sourcePage": "https://www.flickr.com/photos/rayinmanila/22403300756/",
+          "title": "Coral & Limestone, Coron Island, Palawan, Philippines",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/rayinmanila/31923191562/",
+          "title": "Limestone Rocks, Coron Island, Philippines",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/rayinmanila/19881239935/",
+          "title": "Coron Island, Palawan, Philippines",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/rayinmanila/28639962181/",
+          "title": "A Beach in Limestone. Coron, Palawan, Philippines",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/trishhhh/2334603971/",
+          "title": "Philippines March 2005 055",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/shankaronline/9163500541/",
+          "title": "Plaza Cuartel",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/shankaronline/9163476429/",
+          "title": "Plaza Cuartel memorial monument",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/shankaronline/9165456172/",
+          "title": "Place were American soldiers were burnt",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/shankaronline/9163235905/",
+          "title": "Moi at the (in)famous Plaza Cuartel",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/shankaronline/9165457602/",
+          "title": "Place where American soldiers were burnt",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/oregonmildep/33435645780/",
+          "title": "151120-Z-FS713-004",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/shankaronline/9163477903/",
+          "title": "Erstwhile horse cart at Plaza Cuartel",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        }
+      ],
+      "notes": [
+        "Earlier approved descriptions, photographs, videos, stable IDs, bookmarks and saved trips are preserved. Public or official visibility alone does not establish image reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "No candidate established an exact-place/branch photograph with individually reviewed compatible rights and a usable image. Name collisions and neighboring places are not substitutes. Supply an authorized exact-place photograph or resolve the linked candidate review."
+    },
+    {
+      "placeId": "puerto-princesa-butterfly-ecological-garden",
+      "checkedOn": "2026-10-23",
+      "sourcesSearched": [
+        {
+          "provider": "Flickr",
+          "query": "Palawan Butterfly Ecological Garden Puerto Princesa City",
+          "url": "https://www.flickr.com/search/?text=Palawan+Butterfly+Ecological+Garden+Puerto+Princesa+City&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Palawan Butterfly Ecological Palawan",
+          "url": "https://www.flickr.com/search/?text=Palawan+Butterfly+Ecological+Palawan&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "rejections": [],
+      "notes": [
+        "Earlier approved descriptions, photographs, videos, stable IDs, bookmarks and saved trips are preserved. Public or official visibility alone does not establish image reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source."
+    },
+    {
+      "placeId": "coron-saint-augustine-parish",
+      "checkedOn": "2026-10-23",
+      "sourcesSearched": [
+        {
+          "provider": "Flickr",
+          "query": "Saint Augustine Parish Church Coron",
+          "url": "https://www.flickr.com/search/?text=Saint+Augustine+Parish+Church+Coron&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Saint Augustine Parish Palawan",
+          "url": "https://www.flickr.com/search/?text=Saint+Augustine+Parish+Palawan&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "rejections": [],
+      "notes": [
+        "Earlier approved descriptions, photographs, videos, stable IDs, bookmarks and saved trips are preserved. Public or official visibility alone does not establish image reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source."
+    },
+    {
+      "placeId": "el-nido-nagkalit-kalit-falls",
+      "checkedOn": "2026-10-23",
+      "sourcesSearched": [
+        {
+          "provider": "Flickr",
+          "query": "Nagkalit-kalit Falls El Nido",
+          "url": "https://www.flickr.com/search/?text=Nagkalit-kalit+Falls+El+Nido&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Nagkalit-kalit Falls Palawan",
+          "url": "https://www.flickr.com/search/?text=Nagkalit-kalit+Falls+Palawan&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "rejections": [],
+      "notes": [
+        "Earlier approved descriptions, photographs, videos, stable IDs, bookmarks and saved trips are preserved. Public or official visibility alone does not establish image reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source."
+    },
+    {
+      "placeId": "puerto-princesa-iwahig-firefly-watching",
+      "checkedOn": "2026-10-23",
+      "sourcesSearched": [
+        {
+          "provider": "Flickr",
+          "query": "Iwahig River Puerto Princesa City",
+          "url": "https://www.flickr.com/search/?text=Iwahig+River+Puerto+Princesa+City&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Iwahig River Palawan",
+          "url": "https://www.flickr.com/search/?text=Iwahig+River+Palawan&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "rejections": [],
+      "notes": [
+        "Earlier approved descriptions, photographs, videos, stable IDs, bookmarks and saved trips are preserved. Public or official visibility alone does not establish image reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source."
+    },
+    {
+      "placeId": "puerto-princesa-buenavista-viewdeck",
+      "checkedOn": "2026-10-23",
+      "sourcesSearched": [
+        {
+          "provider": "Flickr",
+          "query": "Buenavista Viewdeck Puerto Princesa City",
+          "url": "https://www.flickr.com/search/?text=Buenavista+Viewdeck+Puerto+Princesa+City&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Buenavista Viewdeck Palawan",
+          "url": "https://www.flickr.com/search/?text=Buenavista+Viewdeck+Palawan&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "rejections": [],
+      "notes": [
+        "Earlier approved descriptions, photographs, videos, stable IDs, bookmarks and saved trips are preserved. Public or official visibility alone does not establish image reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source."
+    },
+    {
+      "placeId": "puerto-princesa-bakers-hill",
+      "checkedOn": "2026-10-23",
+      "sourcesSearched": [
+        {
+          "provider": "Flickr",
+          "query": "Bakers Hill Puerto Princesa City",
+          "url": "https://www.flickr.com/search/?text=Bakers+Hill+Puerto+Princesa+City&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 1,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Bakers Hill Palawan",
+          "url": "https://www.flickr.com/search/?text=Bakers+Hill+Palawan&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 12,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "rejections": [
+        {
+          "sourcePage": "https://www.flickr.com/photos/shankaronline/9364648658/",
+          "title": "Hopia factory, Quiapo",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/shankaronline/9162912239/",
+          "title": "Baker's Hill- the bakery",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/shankaronline/9162927471/",
+          "title": "Zipline hut at Baker's Hill",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/shankaronline/9165140154/",
+          "title": "Baker's Hill- the bakery",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/shankaronline/9165143768/",
+          "title": "Tourists at the Baker's Hill villa",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/shankaronline/9162925937/",
+          "title": "View from Baker's Hill",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/shankaronline/9165147420/",
+          "title": "Horse riding on Baker's Hill",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/shankaronline/9163278713/",
+          "title": "Upmarket housing on Baker's Hill",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/shankaronline/9212014703/",
+          "title": "Marilyn Monroe figurine",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/shankaronline/9165141956/",
+          "title": "Villa at Mitra's Ranch on Baker's Hill",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/shankaronline/9212011229/",
+          "title": "Decorative hedge trimming",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/shankaronline/9165145134/",
+          "title": "Horse riding on Baker's Hill",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/shankaronline/9165478818/",
+          "title": "Moi with Tootsie, our tourist guide",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        }
+      ],
+      "notes": [
+        "Earlier approved descriptions, photographs, videos, stable IDs, bookmarks and saved trips are preserved. Public or official visibility alone does not establish image reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "The reviewed image did not establish the exact catalog place/branch: a nearby hotel frontage, uncertain bakery-versus-ranch attribution, or unspecified store branch is insufficient. Supply a photograph of this exact place with documented rights."
+    },
+    {
+      "placeId": "puerto-princesa-balayong-peoples-park",
+      "checkedOn": "2026-10-23",
+      "sourcesSearched": [
+        {
+          "provider": "Flickr",
+          "query": "Balayong Peoples Park Puerto Princesa City",
+          "url": "https://www.flickr.com/search/?text=Balayong+Peoples+Park+Puerto+Princesa+City&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Balayong Peoples Park Palawan",
+          "url": "https://www.flickr.com/search/?text=Balayong+Peoples+Park+Palawan&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Commons",
+          "query": "Balayong Peoples Park Palawan",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Balayong+Peoples+Park+Palawan&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        }
+      ],
+      "rejections": [],
+      "notes": [
+        "Earlier approved descriptions, photographs, videos, stable IDs, bookmarks and saved trips are preserved. Public or official visibility alone does not establish image reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source."
+    },
+    {
+      "placeId": "el-nido-artcafe",
+      "checkedOn": "2026-10-23",
+      "sourcesSearched": [
+        {
+          "provider": "Flickr",
+          "query": "El Nido Boutique & Artcafe El Nido",
+          "url": "https://www.flickr.com/search/?text=El+Nido+Boutique+%26+Artcafe+El+Nido&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "El Nido Boutique Palawan",
+          "url": "https://www.flickr.com/search/?text=El+Nido+Boutique+Palawan&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "rejections": [],
+      "notes": [
+        "Earlier approved descriptions, photographs, videos, stable IDs, bookmarks and saved trips are preserved. Public or official visibility alone does not establish image reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source."
+    },
+    {
+      "placeId": "el-nido-trattoria-altrove",
+      "checkedOn": "2026-10-23",
+      "sourcesSearched": [
+        {
+          "provider": "Flickr",
+          "query": "Trattoria Altrove El Nido",
+          "url": "https://www.flickr.com/search/?text=Trattoria+Altrove+El+Nido&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Trattoria Altrove Palawan",
+          "url": "https://www.flickr.com/search/?text=Trattoria+Altrove+Palawan&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "rejections": [],
+      "notes": [
+        "Earlier approved descriptions, photographs, videos, stable IDs, bookmarks and saved trips are preserved. Public or official visibility alone does not establish image reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source."
+    },
+    {
+      "placeId": "coron-trattoria-altrove",
+      "checkedOn": "2026-10-23",
+      "sourcesSearched": [
+        {
+          "provider": "Flickr",
+          "query": "Trattoria Altrove Coron",
+          "url": "https://www.flickr.com/search/?text=Trattoria+Altrove+Coron&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Trattoria Altrove Palawan",
+          "url": "https://www.flickr.com/search/?text=Trattoria+Altrove+Palawan&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "rejections": [],
+      "notes": [
+        "Earlier approved descriptions, photographs, videos, stable IDs, bookmarks and saved trips are preserved. Public or official visibility alone does not establish image reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source."
+    },
+    {
+      "placeId": "el-nido-grounded-town",
+      "checkedOn": "2026-10-23",
+      "sourcesSearched": [
+        {
+          "provider": "Flickr",
+          "query": "Grounded El Nido",
+          "url": "https://www.flickr.com/search/?text=Grounded+El+Nido&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 1,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Grounded Palawan",
+          "url": "https://www.flickr.com/search/?text=Grounded+Palawan&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 12,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Commons",
+          "query": "Grounded Palawan",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Grounded+Palawan&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 7
+        }
+      ],
+      "rejections": [
+        {
+          "sourcePage": "https://www.flickr.com/photos/dobroide/152599218/",
+          "title": "ground.nesting.bee",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/145078281@N04/30324924353/",
+          "title": "Palawan under ground river",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/bensonkua/6161033411/",
+          "title": "Meanwhile somewhere over Palawan....",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/shankaronline/9163215613/",
+          "title": "Baywalk fish collage",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/bensonkua/6326968245/",
+          "title": "Revelation",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/shankaronline/9163416411/",
+          "title": "Them moving towards the u'ground river entrance",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/pchin/458700968/",
+          "title": "Crab's effect",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/dany13/33386383060/",
+          "title": "IMG_0064/Thailand/Koh Samui Island/Cirrochroa Tyche Rotundata/femelle",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/dany13/33767703265/",
+          "title": "IMG_0005/Thailand/Koh Samui Island/Cirrochroa Tyche Rotundata/",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/iamagenious/410310881/",
+          "title": "so this is the national dance of the Philippines, kinda like the Macarena was the national dance of america in 1996",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/iamagenious/408249948/",
+          "title": "mating ground for massive hammerhead sharks",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/dany13/26237306447/",
+          "title": "IMG_1923/Thailand/Koh Samui Island/ Elymnias Hypermnestra Discrépans/male/Verso",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/doun_dounell/6949055383/",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Opening_ceremony_for_PHIBLEX_2015_in_Palawan_151001-M-EB647-015.jpg",
+          "title": "File:Opening ceremony for PHIBLEX 2015 in Palawan 151001-M-EB647-015.jpg",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Opening_ceremony_for_PHIBLEX_2015_in_Palawan_151001-M-EB647-037.jpg",
+          "title": "File:Opening ceremony for PHIBLEX 2015 in Palawan 151001-M-EB647-037.jpg",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Palawan,_Aircraft,_Puerto_Princesa_Airport,_Philippines.jpg",
+          "title": "File:Palawan, Aircraft, Puerto Princesa Airport, Philippines.jpg",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:El_Nido,_Grilled_sea_fish,_Palawan,_Philippines.jpg",
+          "title": "File:El Nido, Grilled sea fish, Palawan, Philippines.jpg",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Once_a_bird_witnessing_the_beautiful_horizons.jpg",
+          "title": "File:Once a bird witnessing the beautiful horizons.jpg",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:KAMANDAG_8-_Philippine,_15th_MEU_Marines_Complete_Amphibious_Assault_at_Apurawan_(8706533).jpg",
+          "title": "File:KAMANDAG 8- Philippine, 15th MEU Marines Complete Amphibious Assault at Apurawan (8706533).jpg",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:KAMANDAG_8-_Philippine,_15th_MEU_Marines_Complete_Amphibious_Assault_at_Apurawan_(8706536).jpg",
+          "title": "File:KAMANDAG 8- Philippine, 15th MEU Marines Complete Amphibious Assault at Apurawan (8706536).jpg",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        }
+      ],
+      "notes": [
+        "Earlier approved descriptions, photographs, videos, stable IDs, bookmarks and saved trips are preserved. Public or official visibility alone does not establish image reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "No candidate established an exact-place/branch photograph with individually reviewed compatible rights and a usable image. Name collisions and neighboring places are not substitutes. Supply an authorized exact-place photograph or resolve the linked candidate review."
+    },
+    {
+      "placeId": "el-nido-janu-coffee-tea",
+      "checkedOn": "2026-10-23",
+      "sourcesSearched": [
+        {
+          "provider": "Flickr",
+          "query": "Janu Coffee & Tea El Nido",
+          "url": "https://www.flickr.com/search/?text=Janu+Coffee+%26+Tea+El+Nido&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Janu Coffee Tea Palawan",
+          "url": "https://www.flickr.com/search/?text=Janu+Coffee+Tea+Palawan&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Commons",
+          "query": "Janu Coffee Tea Palawan",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Janu+Coffee+Tea+Palawan&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        }
+      ],
+      "rejections": [],
+      "notes": [
+        "Earlier approved descriptions, photographs, videos, stable IDs, bookmarks and saved trips are preserved. Public or official visibility alone does not establish image reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source."
+    },
+    {
+      "placeId": "puerto-princesa-itoys-coffee-haus",
+      "checkedOn": "2026-10-23",
+      "sourcesSearched": [
+        {
+          "provider": "Flickr",
+          "query": "Itoys Coffee Haus Puerto Princesa City",
+          "url": "https://www.flickr.com/search/?text=Itoys+Coffee+Haus+Puerto+Princesa+City&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Itoys Coffee Haus Palawan",
+          "url": "https://www.flickr.com/search/?text=Itoys+Coffee+Haus+Palawan&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Commons",
+          "query": "Itoys Coffee Haus Palawan",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Itoys+Coffee+Haus+Palawan&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        }
+      ],
+      "rejections": [],
+      "notes": [
+        "Earlier approved descriptions, photographs, videos, stable IDs, bookmarks and saved trips are preserved. Public or official visibility alone does not establish image reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source."
+    },
+    {
+      "placeId": "puerto-princesa-koffee-kat",
+      "checkedOn": "2026-10-23",
+      "sourcesSearched": [
+        {
+          "provider": "Flickr",
+          "query": "Koffee Kat Cafe Puerto Princesa City",
+          "url": "https://www.flickr.com/search/?text=Koffee+Kat+Cafe+Puerto+Princesa+City&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Koffee Kat Palawan",
+          "url": "https://www.flickr.com/search/?text=Koffee+Kat+Palawan&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Commons",
+          "query": "Koffee Kat Palawan",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Koffee+Kat+Palawan&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        }
+      ],
+      "rejections": [],
+      "notes": [
+        "Earlier approved descriptions, photographs, videos, stable IDs, bookmarks and saved trips are preserved. Public or official visibility alone does not establish image reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source."
+    },
+    {
+      "placeId": "puerto-princesa-ka-inato-main",
+      "checkedOn": "2026-10-23",
+      "sourcesSearched": [
+        {
+          "provider": "Flickr",
+          "query": "Ka Inato Puerto Princesa City",
+          "url": "https://www.flickr.com/search/?text=Ka+Inato+Puerto+Princesa+City&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Ka Inato Palawan",
+          "url": "https://www.flickr.com/search/?text=Ka+Inato+Palawan&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Commons",
+          "query": "Ka Inato Palawan",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Ka+Inato+Palawan&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        }
+      ],
+      "rejections": [],
+      "notes": [
+        "Earlier approved descriptions, photographs, videos, stable IDs, bookmarks and saved trips are preserved. Public or official visibility alone does not establish image reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source."
+    },
+    {
+      "placeId": "el-nido-lick-roastery",
+      "checkedOn": "2026-10-23",
+      "sourcesSearched": [
+        {
+          "provider": "Flickr",
+          "query": "Lost Islands Center for Kape El Nido",
+          "url": "https://www.flickr.com/search/?text=Lost+Islands+Center+for+Kape+El+Nido&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Lost Islands Center Palawan",
+          "url": "https://www.flickr.com/search/?text=Lost+Islands+Center+Palawan&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Commons",
+          "query": "Lost Islands Center Palawan",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Lost+Islands+Center+Palawan&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        }
+      ],
+      "rejections": [],
+      "notes": [
+        "Earlier approved descriptions, photographs, videos, stable IDs, bookmarks and saved trips are preserved. Public or official visibility alone does not establish image reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source."
+    },
+    {
+      "placeId": "el-nido-la-moro-hill",
+      "checkedOn": "2026-10-23",
+      "sourcesSearched": [
+        {
+          "provider": "Flickr",
+          "query": "La Moro Hill Bakery El Nido",
+          "url": "https://www.flickr.com/search/?text=La+Moro+Hill+Bakery+El+Nido&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "La Moro Hill Palawan",
+          "url": "https://www.flickr.com/search/?text=La+Moro+Hill+Palawan&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Commons",
+          "query": "La Moro Hill Palawan",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=La+Moro+Hill+Palawan&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        }
+      ],
+      "rejections": [],
+      "notes": [
+        "Earlier approved descriptions, photographs, videos, stable IDs, bookmarks and saved trips are preserved. Public or official visibility alone does not establish image reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source."
+    },
+    {
+      "placeId": "el-nido-huk-co",
+      "checkedOn": "2026-10-23",
+      "sourcesSearched": [
+        {
+          "provider": "Flickr",
+          "query": "HUK & Co. El Nido",
+          "url": "https://www.flickr.com/search/?text=HUK+%26+Co.+El+Nido&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "HUK Co. Palawan",
+          "url": "https://www.flickr.com/search/?text=HUK+Co.+Palawan&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Commons",
+          "query": "HUK Co. Palawan",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=HUK+Co.+Palawan&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        }
+      ],
+      "rejections": [],
+      "notes": [
+        "Earlier approved descriptions, photographs, videos, stable IDs, bookmarks and saved trips are preserved. Public or official visibility alone does not establish image reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source."
+    }
+  ]
+}

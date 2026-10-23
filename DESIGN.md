@@ -66,9 +66,13 @@ Reuse `.button`, `.button.secondary`, and `.text-link`. Destination selectors ar
 
 ## Components
 
+Explore owns destination understanding and practical advice. Its two URL-linked views use ordinary navigation links with a current-page indicator, not an authored tab widget. Reuse the established postcards with the destination-guide summary variant; keep Palawan's three base guides grouped. Advice uses short ruled link rows and compact existing trip starters. Destination pages show three shared Discover cards and up to two food links, then link to the full filtered directory. Full place media stays on Discover details. The shared HTML confirmation dialog adds an explicit Keep my draft variant for incoming planner choices; it retains the existing palette, focus handling and keyboard behavior.
+
 | Surface | Canonical implementation |
 | --- | --- |
 | Directory cards, filters, details | `components/discover.tsx` and existing discovery CSS |
+| Destination/advice hub and guides | `components/explore.tsx`, `components/destination-card.tsx`, `lib/explore.ts` and `lib/travel-advice.ts` |
+| Incoming planner choices | Existing `components/planner.tsx`, shared `components/confirm-dialog.tsx`, `lib/planner-entry.ts` |
 | Original Instagram resources / detail-cover preview | `components/place-instagram.tsx`, shared opt-in loader; photographs remain preferred |
 | Food role filters and venue evidence | Same native selects and source indicators; preserve cream/teal notebook styling and card dimensions |
 | Source status and review explanation | `components/source-indicator.tsx` |

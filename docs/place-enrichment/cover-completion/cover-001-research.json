@@ -1,0 +1,1366 @@
+{
+  "batchId": "cover-001",
+  "checkedOn": "2026-10-23",
+  "status": "unapproved-research",
+  "records": [
+    {
+      "placeId": "siargao-tayangban-cave-pool",
+      "name": "Tayangban Cave Pool",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/place-enrichment/photo-only/photo-001-research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "Tayangban Cave Pool Pilar",
+          "url": "https://www.flickr.com/search/?text=Tayangban+Cave+Pool+Pilar&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Tayangban",
+          "url": "https://www.flickr.com/search/?text=Tayangban&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "placeId": "siargao-maasin-river",
+      "name": "Maasin River",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/place-enrichment/photo-only/photo-001-research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "Maasin River Pilar",
+          "url": "https://www.flickr.com/search/?text=Maasin+River+Pilar&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Maasin Siargao",
+          "url": "https://www.flickr.com/search/?text=Maasin+Siargao&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "placeId": "siargao-catangnan-bridge",
+      "name": "Catangnan–Cabitoonan Bridge",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/place-enrichment/photo-only/photo-001-research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "Catangnan–Cabitoonan Bridge General Luna",
+          "url": "https://www.flickr.com/search/?text=Catangnan%E2%80%93Cabitoonan+Bridge+General+Luna&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Cabitoonan bridge",
+          "url": "https://www.flickr.com/search/?text=Cabitoonan+bridge&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Commons",
+          "query": "Cabitoonan bridge",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Cabitoonan+bridge&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "placeId": "siargao-pacifico-beach",
+      "name": "Pacifico Beach",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/place-enrichment/photo-only/photo-001-research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "Pacifico Beach San Isidro",
+          "url": "https://www.flickr.com/search/?text=Pacifico+Beach+San+Isidro&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Pacifico Siargao",
+          "url": "https://www.flickr.com/search/?text=Pacifico+Siargao&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "placeId": "siargao-alegria-beach",
+      "name": "Alegria Beach",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/place-enrichment/photo-only/photo-001-research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "Alegria Beach Santa Monica",
+          "url": "https://www.flickr.com/search/?text=Alegria+Beach+Santa+Monica&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Alegria Siargao",
+          "url": "https://www.flickr.com/search/?text=Alegria+Siargao&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "placeId": "siargao-taktak-falls",
+      "name": "Taktak Falls",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/place-enrichment/photo-only/photo-001-research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "Taktak Falls Santa Monica",
+          "url": "https://www.flickr.com/search/?text=Taktak+Falls+Santa+Monica&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Taktak",
+          "url": "https://www.flickr.com/search/?text=Taktak&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 4,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "candidates": [
+        {
+          "provider": "Flickr",
+          "id": "5418506107",
+          "title": "Taktaks",
+          "description": "mini tractors and VW camper vans\n\nIf this image is seen on another site other than Flickr could you let me know please.",
+          "creator": "Dave McLear",
+          "owner": "7236774@N05",
+          "sourcePage": "https://www.flickr.com/photos/dmclear/5418506107/",
+          "licenseCode": 4,
+          "originalUrl": "https://live.staticflickr.com/5131/5418506107_8662c3cb87_b.jpg",
+          "previewUrl": "https://live.staticflickr.com/5131/5418506107_8662c3cb87_z.jpg",
+          "width": 1024,
+          "height": 686
+        },
+        {
+          "provider": "Flickr",
+          "id": "48356413181",
+          "title": "Fooled me. Twice!",
+          "description": "A few days ago, I was on a walk through the countryside when I saw a pheasant. It disappeared into the barley. I put my camera in program mode and the lens at its longest focal length of 90mm and hoped for it to reappear. Instead I heard a sharp “Taktak” behind me and when I looked round, I stared into the eyes of a roe deer. It had jumped out of the cornfield onto the middle of the road. After that brief stare it jumped into the barley and jumped up three times to see if I was following her. At the third time I snapped my shutter…half a second too late! But at least I had a nice shot of the barley.\nYesterday I was at the same location taking photos of the barley when I heard rustling behind me. There she was again. She had almost bumped into me. She turned sharp left and ran at high speed along the fence, jumped it and crossed the street to disappear into the barley again. I had a 25mm lens on and offcentre focus, so the shot is cropped, and focus is somewhere in the trees. But at least I got something :-)\n\nCanon EOS 300V / Canon Rebel Ti, Canon EF 28-90mm f4-5.6 II, Kodak Gold 200 (expired)",
+          "creator": "bigfarmer8",
+          "owner": "128305016@N04",
+          "sourcePage": "https://www.flickr.com/photos/bigfarmer/48356413181/",
+          "licenseCode": 4,
+          "originalUrl": "https://live.staticflickr.com/65535/48356413181_e73689e579_b.jpg",
+          "previewUrl": "https://live.staticflickr.com/65535/48356413181_e73689e579_z.jpg",
+          "width": 1024,
+          "height": 683
+        },
+        {
+          "provider": "Flickr",
+          "id": "48356411926",
+          "title": "Fooled me. Twice!",
+          "description": "A few days ago, I was on a walk through the countryside when I saw a pheasant. It disappeared into the barley. I put my camera in program mode and the lens at its longest focal length of 90mm and hoped for it to reappear. Instead I heard a sharp “Taktak” behind me and when I looked round, I stared into the eyes of a roe deer. It had jumped out of the cornfield onto the middle of the road. After that brief stare it jumped into the barley and jumped up three times to see if I was following her. At the third time I snapped my shutter…half a second too late! But at least I had a nice shot of the barley.\nYesterday I was at the same location taking photos of the barley when I heard rustling behind me. There she was again. She had almost bumped into me. She turned sharp left and ran at high speed along the fence, jumped it and crossed the street to disappear into the barley again. I had a 25mm lens on and offcentre focus, so the shot is cropped, and focus is somewhere in the trees. But at least I got something :-)\n\nOLYMPUS DIGITAL CAMERA   \nOlympus OM-D E-M10 MKII, M.Zuiko 25mm f1.8",
+          "creator": "bigfarmer8",
+          "owner": "128305016@N04",
+          "sourcePage": "https://www.flickr.com/photos/bigfarmer/48356411926/",
+          "licenseCode": 4,
+          "originalUrl": "https://live.staticflickr.com/65535/48356411926_7c20a54bfc_b.jpg",
+          "previewUrl": "https://live.staticflickr.com/65535/48356411926_7c20a54bfc_z.jpg",
+          "width": 1024,
+          "height": 683
+        },
+        {
+          "provider": "Flickr",
+          "id": "3616830185",
+          "title": "Busy",
+          "description": "",
+          "creator": "Photocapy",
+          "owner": "81635051@N00",
+          "sourcePage": "https://www.flickr.com/photos/photocapy/3616830185/",
+          "licenseCode": 5,
+          "originalUrl": "https://live.staticflickr.com/3339/3616830185_6192e7cc23_b.jpg",
+          "previewUrl": "https://live.staticflickr.com/3339/3616830185_6192e7cc23_c.jpg",
+          "width": 717,
+          "height": 1024
+        }
+      ]
+    },
+    {
+      "placeId": "siargao-santa-monica-pier",
+      "name": "Santa Monica Pier",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/place-enrichment/photo-only/photo-001-research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "Santa Monica Pier Santa Monica",
+          "url": "https://www.flickr.com/search/?text=Santa+Monica+Pier+Santa+Monica&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 12,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Santa Monica Pier Siargao",
+          "url": "https://www.flickr.com/search/?text=Santa+Monica+Pier+Siargao&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "candidates": [
+        {
+          "provider": "Flickr",
+          "id": "8536790498",
+          "title": "Santa Monica Pier - Los Angeles",
+          "description": "More about me on www.pixael.com",
+          "creator": "Giuseppe Milo",
+          "owner": "87690240@N03",
+          "sourcePage": "https://www.flickr.com/photos/giuseppemilo/8536790498/",
+          "licenseCode": 4,
+          "originalUrl": "https://live.staticflickr.com/8370/8536790498_5970f3a02a_b.jpg",
+          "previewUrl": "https://live.staticflickr.com/8370/8536790498_5970f3a02a_z.jpg",
+          "width": 1000,
+          "height": 667
+        },
+        {
+          "provider": "Flickr",
+          "id": "8535685029",
+          "title": "Santa Monica Pier - Los Angeles",
+          "description": "More about me on www.pixael.com",
+          "creator": "Giuseppe Milo",
+          "owner": "87690240@N03",
+          "sourcePage": "https://www.flickr.com/photos/giuseppemilo/8535685029/",
+          "licenseCode": 4,
+          "originalUrl": "https://live.staticflickr.com/8532/8535685029_ae7a930244_b.jpg",
+          "previewUrl": "https://live.staticflickr.com/8532/8535685029_ae7a930244_z.jpg",
+          "width": 1000,
+          "height": 667
+        },
+        {
+          "provider": "Flickr",
+          "id": "32232569756",
+          "title": "Santa Monica Pier Sunset",
+          "description": "via Instagram ift.tt/2jchRp6",
+          "creator": "Fernando de Sousa",
+          "owner": "31157339@N00",
+          "sourcePage": "https://www.flickr.com/photos/fernando/32232569756/",
+          "licenseCode": 5,
+          "originalUrl": "https://live.staticflickr.com/473/32232569756_56e2a0d00c_b.jpg",
+          "previewUrl": "https://live.staticflickr.com/473/32232569756_56e2a0d00c_z.jpg",
+          "width": 904,
+          "height": 1024
+        },
+        {
+          "provider": "Flickr",
+          "id": "17181458066",
+          "title": "150316 052 Santa Monica Pier is really big",
+          "description": "150316 052 Santa Monica Pier is really big",
+          "creator": "cultivar413",
+          "owner": "131880272@N06",
+          "sourcePage": "https://www.flickr.com/photos/131880272@N06/17181458066/",
+          "licenseCode": 4,
+          "originalUrl": "https://live.staticflickr.com/8711/17181458066_3238e64337_b.jpg",
+          "previewUrl": "https://live.staticflickr.com/8711/17181458066_3238e64337_z.jpg",
+          "width": 1024,
+          "height": 576
+        },
+        {
+          "provider": "Flickr",
+          "id": "15912028938",
+          "title": "Santa Monica Pier, Los Angeles",
+          "description": "",
+          "creator": "My Discovery",
+          "owner": "100167937@N04",
+          "sourcePage": "https://www.flickr.com/photos/discoverytourstv/15912028938/",
+          "licenseCode": 4,
+          "originalUrl": "https://live.staticflickr.com/8615/15912028938_94eafe0403_b.jpg",
+          "previewUrl": "https://live.staticflickr.com/8615/15912028938_94eafe0403_z.jpg",
+          "width": 1024,
+          "height": 683
+        },
+        {
+          "provider": "Flickr",
+          "id": "5308685520",
+          "title": "Sunset of Santa Monica",
+          "description": "2010/12/01 Sightseeing in Los Angels.\nWalk around Santa Monica.",
+          "creator": "inazakira",
+          "owner": "47573122@N05",
+          "sourcePage": "https://www.flickr.com/photos/inazakira/5308685520/",
+          "licenseCode": 5,
+          "originalUrl": "https://live.staticflickr.com/5284/5308685520_20b3acca84_b.jpg",
+          "previewUrl": "https://live.staticflickr.com/5284/5308685520_20b3acca84_z.jpg",
+          "width": 1024,
+          "height": 768
+        },
+        {
+          "provider": "Flickr",
+          "id": "5213738553",
+          "title": "Santa Monica Pier Sunset - HDR_20101121_1647.jpg",
+          "description": "Taken with the Nokia HDR demonstration application on my Nokia N900 phone.",
+          "creator": "Chris Samuel",
+          "owner": "94482242@N00",
+          "sourcePage": "https://www.flickr.com/photos/chrissamuel/5213738553/",
+          "licenseCode": 4,
+          "originalUrl": "https://live.staticflickr.com/5047/5213738553_f50c6f456f_b.jpg",
+          "previewUrl": "https://live.staticflickr.com/5047/5213738553_f50c6f456f_z.jpg",
+          "width": 1024,
+          "height": 777
+        },
+        {
+          "provider": "Flickr",
+          "id": "42651233620",
+          "title": "Santa Monica Pier",
+          "description": "",
+          "creator": "Nick Amoscato",
+          "owner": "91374488@N07",
+          "sourcePage": "https://www.flickr.com/photos/namoscato/42651233620/",
+          "licenseCode": 4,
+          "originalUrl": "https://live.staticflickr.com/1879/42651233620_ac495579fc_b.jpg",
+          "previewUrl": "https://live.staticflickr.com/1879/42651233620_ac495579fc_c.jpg",
+          "width": 683,
+          "height": 1024
+        },
+        {
+          "provider": "Flickr",
+          "id": "19995446774",
+          "title": "Santa Monica-8",
+          "description": "Nicht nur Santa Monica, sondern auch ein bisschen Beverly Hills, Hollywood, und Venice Beach. Standard eben. :-)",
+          "creator": "theflyingrobert",
+          "owner": "126392904@N06",
+          "sourcePage": "https://www.flickr.com/photos/126392904@N06/19995446774/",
+          "licenseCode": 4,
+          "originalUrl": "https://live.staticflickr.com/5701/19995446774_026e34118c_b.jpg",
+          "previewUrl": "https://live.staticflickr.com/5701/19995446774_026e34118c_z.jpg",
+          "width": 1024,
+          "height": 683
+        },
+        {
+          "provider": "Flickr",
+          "id": "15210482588",
+          "title": "Santa Monica - Los Angeles County, California",
+          "description": "",
+          "creator": "Ana Paula Hirama",
+          "owner": "33704098@N00",
+          "sourcePage": "https://www.flickr.com/photos/anapaulahrm/15210482588/",
+          "licenseCode": 5,
+          "originalUrl": "https://live.staticflickr.com/2946/15210482588_0e3a6fcf50_b.jpg",
+          "previewUrl": "https://live.staticflickr.com/2946/15210482588_0e3a6fcf50_z.jpg",
+          "width": 1024,
+          "height": 685
+        },
+        {
+          "provider": "Flickr",
+          "id": "24065450228",
+          "title": "Santa Monica",
+          "description": "California, USA - October 2017",
+          "creator": "Sergei Gussev",
+          "owner": "133200397@N03",
+          "sourcePage": "https://www.flickr.com/photos/sergeigussev/24065450228/",
+          "licenseCode": 4,
+          "originalUrl": "https://live.staticflickr.com/4485/24065450228_ac225b5f3b_b.jpg",
+          "previewUrl": "https://live.staticflickr.com/4485/24065450228_ac225b5f3b_z.jpg",
+          "width": 1024,
+          "height": 768
+        },
+        {
+          "provider": "Flickr",
+          "id": "24065450028",
+          "title": "Santa Monica",
+          "description": "California, USA - October 2017",
+          "creator": "Sergei Gussev",
+          "owner": "133200397@N03",
+          "sourcePage": "https://www.flickr.com/photos/sergeigussev/24065450028/",
+          "licenseCode": 4,
+          "originalUrl": "https://live.staticflickr.com/4485/24065450028_4679226e77_b.jpg",
+          "previewUrl": "https://live.staticflickr.com/4485/24065450028_4679226e77_z.jpg",
+          "width": 1024,
+          "height": 768
+        }
+      ]
+    },
+    {
+      "placeId": "siargao-poneas-lake",
+      "name": "Poneas Lake",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/place-enrichment/photo-only/photo-001-research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "Poneas Lake San Benito",
+          "url": "https://www.flickr.com/search/?text=Poneas+Lake+San+Benito&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Poneas Lake Siargao",
+          "url": "https://www.flickr.com/search/?text=Poneas+Lake+Siargao&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "placeId": "siargao-del-carmen-mangrove-viewdeck",
+      "name": "Del Carmen Mangrove Viewdeck",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/place-enrichment/photo-only/photo-001-research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "Del Carmen Mangrove Viewdeck Del Carmen",
+          "url": "https://www.flickr.com/search/?text=Del+Carmen+Mangrove+Viewdeck+Del+Carmen&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Del Carmen mangrove",
+          "url": "https://www.flickr.com/search/?text=Del+Carmen+mangrove&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 12,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Commons",
+          "query": "Del Carmen mangrove",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Del+Carmen+mangrove&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 4
+        }
+      ],
+      "candidates": [
+        {
+          "provider": "Flickr",
+          "id": "46043657812",
+          "title": "2017-12-07_12-06-47_ILCE-6500_DSC02865",
+          "description": "Mexico - Winter 2017 - Tulum and Coba Maya Village \n\nCoba\n\nVisit temples and the legendary ballgame of this majestic archeological site. Follow the paths to arrive at the Nohoch Mul, the tallest temple in the whole Yucatan Peninsula, from the top of which you will enjoy breathtaking views of the amazing jungle that surrounds the site. Optional bike rental is available at the site.\n\nTulum\n\nVisit the archeological site of Tulum and learn about the Maya culture and history of this beautiful ancient city that was occupied in 1200.\n\nMaya Village\n\nYou will have the opportunity to see how the Maya live and learn from their culture and traditions.\n\n    Esmeralda - This Maya community still keeps a traditional lifestyle, learn about local flora and walk to the Cenote. Observe how the village has evolved with ecotourism and understand their social growth.\n    Swimming - A refreshing dip in the crystal, clear fresh water of the beautiful Cenote (underground cave).\n    Maya ritual - Be part of an authentic blessing ceremony that a Maya Shaman will perform with incense.\n    Traditional meal - Enjoy an authentic Maya menu including soup, chicken, vegetables, rice, beans and hand-made corn tortillas. \n\n ( Vacances d'hivers 2017 au Mexique (Playa del carmen) )",
+          "creator": "Miguel Discart & Kiri Karma",
+          "owner": "151639852@N07",
+          "sourcePage": "https://www.flickr.com/photos/miguel_discart_vrac_3/46043657812/",
+          "licenseCode": 5,
+          "originalUrl": "https://live.staticflickr.com/4804/46043657812_29b9b7d791_b.jpg",
+          "previewUrl": "https://live.staticflickr.com/4804/46043657812_29b9b7d791_b.jpg",
+          "width": 576,
+          "height": 1024
+        },
+        {
+          "provider": "Flickr",
+          "id": "45371601884",
+          "title": "2017-12-08_12-58-57_ILCE-6500_DSC03809",
+          "description": "Mexico - Winter 2017 - Divers Day - 6 \n\nDivers Photo of the day 6 in Mexico (Ocean Riviera Paradise) with no particular subject\nDiverses photos prisent au Mexiques (Ocean Riviera Paradise) (jour : 6) sans sujet reel. \n\n ( Vacances d'hivers 2017 au Mexique (Playa del carmen) )",
+          "creator": "Miguel Discart & Kiri Karma",
+          "owner": "151639852@N07",
+          "sourcePage": "https://www.flickr.com/photos/miguel_discart_vrac_3/45371601884/",
+          "licenseCode": 5,
+          "originalUrl": "https://live.staticflickr.com/4846/45371601884_16332dfd29_b.jpg",
+          "previewUrl": "https://live.staticflickr.com/4846/45371601884_16332dfd29_b.jpg",
+          "width": 576,
+          "height": 1024
+        },
+        {
+          "provider": "Flickr",
+          "id": "46043700472",
+          "title": "2017-12-07_12-09-10_ILCE-6500_DSC02879",
+          "description": "Mexico - Winter 2017 - Tulum and Coba Maya Village \n\nCoba\n\nVisit temples and the legendary ballgame of this majestic archeological site. Follow the paths to arrive at the Nohoch Mul, the tallest temple in the whole Yucatan Peninsula, from the top of which you will enjoy breathtaking views of the amazing jungle that surrounds the site. Optional bike rental is available at the site.\n\nTulum\n\nVisit the archeological site of Tulum and learn about the Maya culture and history of this beautiful ancient city that was occupied in 1200.\n\nMaya Village\n\nYou will have the opportunity to see how the Maya live and learn from their culture and traditions.\n\n    Esmeralda - This Maya community still keeps a traditional lifestyle, learn about local flora and walk to the Cenote. Observe how the village has evolved with ecotourism and understand their social growth.\n    Swimming - A refreshing dip in the crystal, clear fresh water of the beautiful Cenote (underground cave).\n    Maya ritual - Be part of an authentic blessing ceremony that a Maya Shaman will perform with incense.\n    Traditional meal - Enjoy an authentic Maya menu including soup, chicken, vegetables, rice, beans and hand-made corn tortillas. \n\n ( Vacances d'hivers 2017 au Mexique (Playa del carmen) )",
+          "creator": "Miguel Discart & Kiri Karma",
+          "owner": "151639852@N07",
+          "sourcePage": "https://www.flickr.com/photos/miguel_discart_vrac_3/46043700472/",
+          "licenseCode": 5,
+          "originalUrl": "https://live.staticflickr.com/4876/46043700472_8eaf700e5b_b.jpg",
+          "previewUrl": "https://live.staticflickr.com/4876/46043700472_8eaf700e5b_b.jpg",
+          "width": 576,
+          "height": 1024
+        },
+        {
+          "provider": "Flickr",
+          "id": "5426040275",
+          "title": "Bursera simaruba (Chacah)",
+          "description": "Playacar Aviary (Xaman-Ha) at Playa del Carmen, Quintana Roo, Mexico.\n\nBursera simaruba, commonly known as the Gumbo-limbo, is a tree species in the family Burseraceae, native to tropical regions of the Americas from the southeasternmost United States (southern Florida) south through Mexico and the Caribbean to Brazil and Venezuela. An example habitat of occurrence is in the Petenes mangroves ecoregion ot the Yucatan were it is a subdominant plant species to mangroves.\n\nBursera simaruba is a small to medium-sized tree growing to 30 m tall, with a diameter of 1 meter or less at 1.5 meters above ground. The bark is shiny dark red, the leaves are spirally arranged and pinnate with 7-11 leaflets, each leaflet broad ovate, 4–10 cm long and 2–5 cm broad.\n\nThe Gumbo-limbo is often referred to as the Tourist Tree because the tree's bark is red and peeling, like the skin of sunburnt tourists, who are a common sight in the plant's range.\n\nSome ripe fruits are present year-round, but the main fruiting season is March and April in the northern part of the plant's range. The fruits are a small three-valved capsule encasing a single seed which is covered in a red fatty aril (seedcoat) of 5–6 mm diameter. Both ripe and unripe fruits are borne quite loosely on their stems and can spontaneously detach if the tree is shaken. Ripe capsules dehisce or are cracked open by birds. Birds also seek out the fruit to feed on the aril, which though small is rich in lipids (about half its dry weight).\n\nGumbo-limbo is a very useful plant economically and ecologically. In cars they are air fresheners as well. It is well adapted to several kinds of habitats, which include salty and calcareous soils; it does not tolerate foggy soils though. Due to this fact and its rapid growth, B. simaruba is planted for various purposes, notably in coastal areas.\n\nIn addition, Gumbo-limbo is also considered one of the most wind-tolerant trees, and it is recommended as a rugged, hurricane-resistant species in south Florida. Plantings may be due to wind protection of crops and roads, or as living fence posts, and if simply stuck into good soil, small branches will readily root and grow into sizeable trees in a few years.\n\nIn addition, Gumbo-limbo wood is suitable for light construction and as firewood, and the tree's resin, called chibou, cachibou or gomartis, is used as glue, varnish and incense.\n\nGumbo Limbo is the traditional wood used for the manufacture of carousel horses in the United States.\n\nThe arils are an important source of food for birds, including many winter migrants from North America. Local residents such as the Masked Tityra, Bright-rumped Attila, Black-faced Grosbeak and, in Hispaniola, Palmchat, seem particularly fond of Gumbo-limbo fruit, as are migrants like the Baltimore Oriole or the Dusky-capped Flycatcher. Especially for vireos such the Red-eyed Vireo, it appears to be a very important food at least locally and when ripe fruit are abundant. Especially notable is the fact that many migrant species will utilize Gumbo-limbo trees that are in human-modified habitat, even in settlements. This creates the opportunity to attract such species to residential areas for bird watching, and to reduce the competition for Gumbo-limbo seeds in undisturbed habitat rarer local resident birds might face.\n\nGumbo-limbo's rapid growth, ease and low cost of propagation, and ecological versatility make them highly recommended as a \"starter\" tree in reforestation, even of degraded habitat, and it is certainly does much better overall in such a role than most exotic species.\n\nThe resin is also used as a treatment for gout, while the leaves are brewed into a medicinal tea.\n\nHexane extracts of the leaves have been shown to possess anti-inflammatory properties in animal tests.\n\nGumbo-limbo bark is also considered an antidote to Metopium toxiferum (Chechem) which often grows in the same habitat and can cause extreme rashes just as the related poison ivy.\n\nGiven the eagerness with which some birds seek out the arils, it may be that these contain lipids or other compounds with interesting properties; these would probably have to be synthetically produced however because, though the crop of a single tree can be very large (up to or even exceeding 15,000 fruits, translating into a raw lipid yield of over 200 grams per harvest) individual seeds are small and cumbersome to harvest.",
+          "creator": "Leonora (Ellie) Enking",
+          "owner": "33037982@N04",
+          "sourcePage": "https://www.flickr.com/photos/33037982@N04/5426040275/",
+          "licenseCode": 5,
+          "originalUrl": "https://live.staticflickr.com/5171/5426040275_f2bf886bf0_z.jpg",
+          "previewUrl": "https://live.staticflickr.com/5171/5426040275_f2bf886bf0_z.jpg",
+          "width": 480,
+          "height": 640
+        },
+        {
+          "provider": "Flickr",
+          "id": "5426643792",
+          "title": "Bursera simaruba (Chacah)",
+          "description": "Playacar Aviary (Xaman-Ha) at Playa del Carmen, Quintana Roo, Mexico.\n\nIt was very dark in the jungle, especially as it was late evening ... and the foliage was too high to get a good close up ... very frustrating!\n\nBursera simaruba, commonly known as the Gumbo-limbo, is a tree species in the family Burseraceae, native to tropical regions of the Americas from the southeasternmost United States (southern Florida) south through Mexico and the Caribbean to Brazil and Venezuela. An example habitat of occurrence is in the Petenes mangroves ecoregion ot the Yucatan were it is a subdominant plant species to mangroves.\n\nBursera simaruba is a small to medium-sized tree growing to 30 m tall, with a diameter of 1 meter or less at 1.5 meters above ground. The bark is shiny dark red, the leaves are spirally arranged and pinnate with 7-11 leaflets, each leaflet broad ovate, 4–10 cm long and 2–5 cm broad.\n\nThe Gumbo-limbo is often referred to as the Tourist Tree because the tree's bark is red and peeling, like the skin of sunburnt tourists, who are a common sight in the plant's range.\n\nSome ripe fruits are present year-round, but the main fruiting season is March and April in the northern part of the plant's range. The fruits are a small three-valved capsule encasing a single seed which is covered in a red fatty aril (seedcoat) of 5–6 mm diameter. Both ripe and unripe fruits are borne quite loosely on their stems and can spontaneously detach if the tree is shaken. Ripe capsules dehisce or are cracked open by birds. Birds also seek out the fruit to feed on the aril, which though small is rich in lipids (about half its dry weight).\n\nGumbo-limbo is a very useful plant economically and ecologically. In cars they are air fresheners as well. It is well adapted to several kinds of habitats, which include salty and calcareous soils; it does not tolerate foggy soils though. Due to this fact and its rapid growth, B. simaruba is planted for various purposes, notably in coastal areas.\n\nIn addition, Gumbo-limbo is also considered one of the most wind-tolerant trees, and it is recommended as a rugged, hurricane-resistant species in south Florida. Plantings may be due to wind protection of crops and roads, or as living fence posts, and if simply stuck into good soil, small branches will readily root and grow into sizeable trees in a few years.\n\nIn addition, Gumbo-limbo wood is suitable for light construction and as firewood, and the tree's resin, called chibou, cachibou or gomartis, is used as glue, varnish and incense.\n\nGumbo Limbo is the traditional wood used for the manufacture of carousel horses in the United States.\n\nThe arils are an important source of food for birds, including many winter migrants from North America. Local residents such as the Masked Tityra, Bright-rumped Attila, Black-faced Grosbeak and, in Hispaniola, Palmchat, seem particularly fond of Gumbo-limbo fruit, as are migrants like the Baltimore Oriole or the Dusky-capped Flycatcher. Especially for vireos such the Red-eyed Vireo, it appears to be a very important food at least locally and when ripe fruit are abundant. Especially notable is the fact that many migrant species will utilize Gumbo-limbo trees that are in human-modified habitat, even in settlements. This creates the opportunity to attract such species to residential areas for bird watching, and to reduce the competition for Gumbo-limbo seeds in undisturbed habitat rarer local resident birds might face.\n\nGumbo-limbo's rapid growth, ease and low cost of propagation, and ecological versatility make them highly recommended as a \"starter\" tree in reforestation, even of degraded habitat, and it is certainly does much better overall in such a role than most exotic species.\n\nThe resin is also used as a treatment for gout, while the leaves are brewed into a medicinal tea.\n\nHexane extracts of the leaves have been shown to possess anti-inflammatory properties in animal tests.\n\nGumbo-limbo bark is also considered an antidote to Metopium toxiferum (Chechem) which often grows in the same habitat and can cause extreme rashes just as the related poison ivy.\n\nGiven the eagerness with which some birds seek out the arils, it may be that these contain lipids or other compounds with interesting properties; these would probably have to be synthetically produced however because, though the crop of a single tree can be very large (up to or even exceeding 15,000 fruits, translating into a raw lipid yield of over 200 grams per harvest) individual seeds are small and cumbersome to harvest.",
+          "creator": "Leonora (Ellie) Enking",
+          "owner": "33037982@N04",
+          "sourcePage": "https://www.flickr.com/photos/33037982@N04/5426643792/",
+          "licenseCode": 5,
+          "originalUrl": "https://live.staticflickr.com/5291/5426643792_05ffb12500_z.jpg",
+          "previewUrl": "https://live.staticflickr.com/5291/5426643792_05ffb12500_z.jpg",
+          "width": 480,
+          "height": 640
+        },
+        {
+          "provider": "Flickr",
+          "id": "54018350180",
+          "title": "Drone shot of mangroves in the Siargao Island region",
+          "description": "Credit: InOldNews | Erwin Mascariñas\n\nLocation:  Del Carmen, Siargao Island, Surigao del Norte, Philippines   \n\nDate: November 8, 2020\n\nDescription: Siargao Island is a top destination for tourists in the Philippines. It’s home to a vast mangrove forest. These mangroves protect communities from the growing number of typhoons the region is experiencing as a result of climate change. \n\nClimate-driven cyclones have led to a 7% decrease in household incomes in the Philippines, according to research organisation Climate Analytics. Their research found that the annual damage will also increase by more than 7% by 2050.\n\nWhile mangroves can protect homes and infrastructure from factors like storm surges, they are also susceptible to damage during typhoons.\n\nThis CC-BY-licensed footage related to climate change was published with support from Internews' Earth Journalism Network and The Swedish International Development Cooperation Agency (Sida).",
+          "creator": "Open Journalism Network by InOldNews",
+          "owner": "198946688@N02",
+          "sourcePage": "https://www.flickr.com/photos/inoldnews/54018350180/",
+          "licenseCode": 4,
+          "originalUrl": "https://live.staticflickr.com/31337/54018350180_cdfb7ecdd5_b.jpg",
+          "previewUrl": "https://live.staticflickr.com/31337/54018350180_cdfb7ecdd5_z.jpg",
+          "width": 1024,
+          "height": 576
+        },
+        {
+          "provider": "Flickr",
+          "id": "54018126238",
+          "title": "Drone shot of mangroves in the Siargao Island region",
+          "description": "Credit: InOldNews | Erwin Mascariñas\n\nLocation:  Del Carmen, Siargao Island, Surigao del Norte, Philippines   \n\nDate: November 5, 2020\n\nDescription: Siargao Island is a top destination for tourists in the Philippines. It’s home to a vast mangrove forest. These mangroves protect communities from the growing number of typhoons the region is experiencing as a result of climate change. \n\nClimate-driven cyclones have led to a 7% decrease in household incomes in the Philippines, according to research organisation Climate Analytics. Their research found that the annual damage will also increase by more than 7% by 2050.\n\nWhile mangroves can protect homes and infrastructure from factors like storm surges, they are also susceptible to damage during typhoons.\n\nThis CC-BY-licensed footage related to climate change was published with support from Internews' Earth Journalism Network and The Swedish International Development Cooperation Agency (Sida).",
+          "creator": "Open Journalism Network by InOldNews",
+          "owner": "198946688@N02",
+          "sourcePage": "https://www.flickr.com/photos/inoldnews/54018126238/",
+          "licenseCode": 4,
+          "originalUrl": "https://live.staticflickr.com/31337/54018126238_cb372ef95f_b.jpg",
+          "previewUrl": "https://live.staticflickr.com/31337/54018126238_cb372ef95f_z.jpg",
+          "width": 1024,
+          "height": 576
+        },
+        {
+          "provider": "Flickr",
+          "id": "54017924061",
+          "title": "Wide shot of boating through dried up mangroves on a sunny day",
+          "description": "Credit: InOldNews | Erwin Mascariñas\n\nLocation:  Del Carmen, Siargao Island, Surigao del Norte, Philippines   \n\nDate: November 21, 2022\n\nDescription: Siargao Island is a top destination for tourists in the Philippines. It’s home to a vast mangrove forest. These mangroves protect communities from the growing number of typhoons the region is experiencing as a result of climate change. \n\nClimate-driven cyclones have led to a 7% decrease in household incomes in the Philippines, according to research organisation Climate Analytics. Their research found that the annual damage will also increase by more than 7% by 2050.\n\nWhile mangroves can protect homes and infrastructure from factors like storm surges, they are also susceptible to damage during typhoons.\n\nThis CC-BY-licensed footage related to climate change was published with support from Internews' Earth Journalism Network and The Swedish International Development Cooperation Agency (Sida).",
+          "creator": "Open Journalism Network by InOldNews",
+          "owner": "198946688@N02",
+          "sourcePage": "https://www.flickr.com/photos/inoldnews/54017924061/",
+          "licenseCode": 4,
+          "originalUrl": "https://live.staticflickr.com/31337/54017924061_352449b5b7_b.jpg",
+          "previewUrl": "https://live.staticflickr.com/31337/54017924061_352449b5b7_z.jpg",
+          "width": 1024,
+          "height": 576
+        },
+        {
+          "provider": "Flickr",
+          "id": "54018139998",
+          "title": "Drone shot of mangroves in the Siargao Island region",
+          "description": "Credit: InOldNews | Erwin Mascariñas\n\nLocation:  Del Carmen, Siargao Island, Surigao del Norte, Philippines   \n\nDate: November 7, 2020\n\nDescription: Siargao Island is a top destination for tourists in the Philippines. It’s home to a vast mangrove forest. These mangroves protect communities from the growing number of typhoons the region is experiencing as a result of climate change. \n\nClimate-driven cyclones have led to a 7% decrease in household incomes in the Philippines, according to research organisation Climate Analytics. Their research found that the annual damage will also increase by more than 7% by 2050.\n\nWhile mangroves can protect homes and infrastructure from factors like storm surges, they are also susceptible to damage during typhoons.\n\nThis CC-BY-licensed footage related to climate change was published with support from Internews' Earth Journalism Network and The Swedish International Development Cooperation Agency (Sida).",
+          "creator": "Open Journalism Network by InOldNews",
+          "owner": "198946688@N02",
+          "sourcePage": "https://www.flickr.com/photos/inoldnews/54018139998/",
+          "licenseCode": 4,
+          "originalUrl": "https://live.staticflickr.com/31337/54018139998_38dc1fd909_b.jpg",
+          "previewUrl": "https://live.staticflickr.com/31337/54018139998_38dc1fd909_z.jpg",
+          "width": 1024,
+          "height": 576
+        },
+        {
+          "provider": "Flickr",
+          "id": "54017903621",
+          "title": "Drone shot of mangroves in the Siargao Island region",
+          "description": "Credit: InOldNews | Erwin Mascariñas\n\nLocation:  Del Carmen, Siargao Island, Surigao del Norte, Philippines   \n\nDate: November 5, 2020\n\nDescription: Siargao Island is a top destination for tourists in the Philippines. It’s home to a vast mangrove forest. These mangroves protect communities from the growing number of typhoons the region is experiencing as a result of climate change. \n\nClimate-driven cyclones have led to a 7% decrease in household incomes in the Philippines, according to research organisation Climate Analytics. Their research found that the annual damage will also increase by more than 7% by 2050.\n\nWhile mangroves can protect homes and infrastructure from factors like storm surges, they are also susceptible to damage during typhoons.\n\nThis CC-BY-licensed footage related to climate change was published with support from Internews' Earth Journalism Network and The Swedish International Development Cooperation Agency (Sida).",
+          "creator": "Open Journalism Network by InOldNews",
+          "owner": "198946688@N02",
+          "sourcePage": "https://www.flickr.com/photos/inoldnews/54017903621/",
+          "licenseCode": 4,
+          "originalUrl": "https://live.staticflickr.com/31337/54017903621_7bdb34d259_b.jpg",
+          "previewUrl": "https://live.staticflickr.com/31337/54017903621_7bdb34d259_z.jpg",
+          "width": 1024,
+          "height": 576
+        },
+        {
+          "provider": "Flickr",
+          "id": "54018354785",
+          "title": "A tracking shot of a reptile sliding on a mangrove branch",
+          "description": "Credit: InOldNews | Erwin Mascariñas\n\nLocation:  Del Carmen, Siargao Island, Surigao del Norte, Philippines   \n\nDate: August 10, 2024\n\nDescription: Siargao Island is a top destination for tourists in the Philippines. It’s home to a vast mangrove forest. These mangroves protect communities from the growing number of typhoons the region is experiencing as a result of climate change. \n\nClimate-driven cyclones have led to a 7% decrease in household incomes in the Philippines, according to research organisation Climate Analytics. Their research found that the annual damage will also increase by more than 7% by 2050.\n\nWhile mangroves can protect homes and infrastructure from factors like storm surges, they are also susceptible to damage during typhoons.\n\nThis CC-BY-licensed footage related to climate change was published with support from Internews' Earth Journalism Network and The Swedish International Development Cooperation Agency (Sida).",
+          "creator": "Open Journalism Network by InOldNews",
+          "owner": "198946688@N02",
+          "sourcePage": "https://www.flickr.com/photos/inoldnews/54018354785/",
+          "licenseCode": 4,
+          "originalUrl": "https://live.staticflickr.com/31337/54018354785_8fe129cae9_b.jpg",
+          "previewUrl": "https://live.staticflickr.com/31337/54018354785_8fe129cae9_z.jpg",
+          "width": 1024,
+          "height": 576
+        },
+        {
+          "provider": "Flickr",
+          "id": "33016445942",
+          "title": "Mangrove Jellyfish (Cassiopea xamachana)",
+          "description": "Xcaret Eco Park on the Riviera Maya, Mexico.\n\nOur fourth visit to Xcaret ... after lunch we wandered a bit more.\n\nCassiopea (upside-down jellyfish) is a genus of true jellyfish and the only members of the family Cassiopeidae. They are found in warmer coastal regions around the world, including shallow mangrove swamps, mudflats, canals, and turtle grass flats in Florida, and the Caribbean and Micronesia. The medusa usually lives upside-down on the bottom, which has earned them the common name. These jellyfish partake in a symbiotic relationship with photosynthetic dinoflagellates and therefore, must lie upside-down in areas with sufficient light penetration to fuel their energy source. Where found, there may be numerous individuals with varying shades of white, blue, green and brown.\n\nCassiopea species have a mild sting since they are primarily photosynthetic, but sensitive individuals may have a stronger reaction. The photosynthesis occurs because, like most corals, they host zooxanthellae in their tissues. The stinging cells are also found in cellular masses, dubbed \"cassiosomes\", excreted in a mucus; people swimming near the jellyfish may come in contact with these cassiosomes and be stung. The stings, appearing in the form of a red rash-like skin irritation, are known for being extraordinarily itchy. Sometimes this jellyfish is picked up by the crab Dorippe frascone and carried on its back. The crab uses the jellyfish to defend itself against possible predators.\n\nCassiopea xamachana, commonly known as the upside-down jellyfish or the mangrove jellyfish, is found in warm parts of the western Atlantic Ocean, the Caribbean Sea, and the Gulf of Mexico. It was first described by the American marine biologist Henry Bryant Bigelow in 1892.\n\nIt is normally found in large aggregations on the muddy seabed of inshore bays and shallow lagoons. If disturbed the jellyfish may pulsate their bells and rise in the water, soon flopping back onto the seabed.\n\nThe life cycle of Cassiopea xamachana alternates between a polyp phase and the medusa phase. Gametes are released by the medusae into the water and the fertilized eggs hatch into planula larvae, which attach to the sea bed or some other suitable substrate. Decomposing red mangrove (Rhizophora mangle) give off a substance which attracts the larvae to settle. Having settled, the larvae undergo metamorphosis into the hydroid stage of the lifecycle, forming tiny sessile polyps called scyphistomae. Under favourable conditions these bud and form further scyphistomae. In due course, when they have acquired zooxanthellae and the temperature exceeds 20 °C (68 °F), these strobilate (split) and new medusae are formed. In Florida, the medusae are found all the year round but the scyphistomae are only present in late summer and fall. This is the reverse of the usual situation of rhizostome jellyfish, in more temperate locations, where the scyphistomae are temperature-tolerant and the medusae are cold-sensitive.",
+          "creator": "Leonora (Ellie) Enking",
+          "owner": "33037982@N04",
+          "sourcePage": "https://www.flickr.com/photos/33037982@N04/33016445942/",
+          "licenseCode": 5,
+          "originalUrl": "https://live.staticflickr.com/3860/33016445942_7e0c4d4ea4_b.jpg",
+          "previewUrl": "https://live.staticflickr.com/3860/33016445942_7e0c4d4ea4_z.jpg",
+          "width": 1024,
+          "height": 768
+        },
+        {
+          "provider": "Wikimedia Commons",
+          "title": "File:Mangrove ciudad del carmen2020.jpg",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Mangrove_ciudad_del_carmen2020.jpg",
+          "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Mangrove_ciudad_del_carmen2020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "previewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Mangrove_ciudad_del_carmen2020.jpg/960px-Mangrove_ciudad_del_carmen2020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 5966,
+          "height": 3955,
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "creator": "Cvmontuy",
+          "description": "Mangrove in Ciudad del Carmen, Campeche, Mexico",
+          "categories": "Mangrove forests|Ciudad del Carmen|Self-published work|Landforms of Campeche|2020 in Campeche|Mexico photographs taken on 2020-08-16|Images by Cvmontuy in 2020|Beach vegetation in Mexico"
+        },
+        {
+          "provider": "Wikimedia Commons",
+          "title": "File:Laguna de Términos.jpeg",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Laguna_de_T%C3%A9rminos.jpeg",
+          "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Laguna_de_T%C3%A9rminos.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "previewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Laguna_de_T%C3%A9rminos.jpeg/960px-Laguna_de_T%C3%A9rminos.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 8797,
+          "height": 5865,
+          "license": "Public domain",
+          "creator": "NASA Earth Observatory images by Joshua Stevens, using Landsat data from the U.S. Geological Survey. Story by Kathryn Hansen.",
+          "description": "Along the coast of southeast Mexico, in the state of Campeche, wetlands and rivers give way to a shallow, swirling body of water. At 2500 square kilometers, Laguna de Términos is Mexico’s largest coastal lagoon.\nBy definition, coastal lagoons maintain a connection to the sea through a restricted inlet. At Laguna de Términos, the flow of water between the lagoon and the Campeche Sound is impeded by Isla del Carmen, a 2.5-kilometer-wide barrier island. This arrangement means this lagoon has two inlets (or outlets): Sea water generally flows into the lagoon around the east of the island, and out past the western end.\nCampeche and its lagoon receive a healthy input of fresh water from a huge system of rivers flowing from the nearby states of Tabasco, Chiapas, and Guatemala. The flow varies depending on the season. When the Operational Land Imager (OLI) on the Landsat 8 satellite captured this image on January 20, 2017, the region was in the dry season, which runs from October through February.\nFour major river systems drain the watershed and feed the lagoon from the south and southwest, the largest of which is the Usumacinta River. Even in the dry season, these areas of the lagoon are fresher than other parts and more turbid—visible in this image as colorful swirls near the shore. Winds and tides also can stir up lagoon waters.\n\nLife is abundant here. Oyster beds thrive at the mouths of the major rivers. Beds of seagrass take hold in the saltier, calmer areas, particularly off of Isla del Carmen. And ringing much of the lagoon are uninterrupted patches of mangrove wetlands. The detailed image shows one such area on the eastern side of the lagoon. The mangroves and lagoon serve as a nursery for fish and shellfish, such as shrimp, which in turn support productive commercial fisheries in Campeche Sound.",
+          "categories": "Laguna de Términos|PD NASA|Isla del Carmen|Satellite pictures of Campeche|Satellite pictures by Landsat 8|Satellite pictures of Mexico in 2017"
+        },
+        {
+          "provider": "Wikimedia Commons",
+          "title": "File:The Del Carmen Mangrove Reserve, a recently designated Ramsar Site (Copernicus 2024-11-28).png",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:The_Del_Carmen_Mangrove_Reserve,_a_recently_designated_Ramsar_Site_(Copernicus_2024-11-28).png",
+          "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a4/The_Del_Carmen_Mangrove_Reserve%2C_a_recently_designated_Ramsar_Site_%28Copernicus_2024-11-28%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "previewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/The_Del_Carmen_Mangrove_Reserve%2C_a_recently_designated_Ramsar_Site_%28Copernicus_2024-11-28%29.png/960px-The_Del_Carmen_Mangrove_Reserve%2C_a_recently_designated_Ramsar_Site_%28Copernicus_2024-11-28%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 4960,
+          "height": 3507,
+          "license": "Attribution",
+          "creator": "European Union, Copernicus Sentinel-2 imagery",
+          "description": "The Del Carmen Mangrove Reserve on Siargao Island in the Philippines was recently designated a Ramsar Site of International Importance. Spanning nearly 4,900 hectares, the reserve forms the country's largest contiguous mangrove forest. The area’s intertidal flats and upland forests are connected by the mangroves, providing a way for birds to move more easily between the two types of habitats. The reserve hosts 245 animal species, including endangered species such as the Philippine duck and Southern rufous hornbill, while supporting the local fishing and tourism industries. The Del Carmen Mangrove Reserve is visible in this Copernicus Sentinel-2 image acquired on 27 September 2024. The Copernicus Sentinel satellites provide essential data on the state of mangroves around the world, providing key insights to better protect these important ecosystems. As a flagship programme of the EU’s Global Gateway strategy, the European Commission, in partnership with ESA, is supporting the creation of a Copernicus Data Centre in the Philippines. The CopPhil Centre is strengthening and promoting the operational uptake of free and open Copernicus data in the Philippines. In particular, the Centre will support and increase the ability of the Philippines to address climate vulnerability and biodiversity conservation while improving hazard management and resilience. The CopPhil activities include pilot services for mangrove monitoring. More information is available here.",
+          "categories": "Del Carmen|Attribution Copernicus|2024 satellite pictures|Photos of the Philippines by Sentinel-2|Photographs taken on 2024-09-27|Copernicus files uploaded by OptimusPrimeBot"
+        },
+        {
+          "provider": "Wikimedia Commons",
+          "title": "File:The Del Carmen Mangrove Reserve, a recently designated Ramsar Site (Copernicus 2024-11-28).webp",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:The_Del_Carmen_Mangrove_Reserve,_a_recently_designated_Ramsar_Site_(Copernicus_2024-11-28).webp",
+          "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d2/The_Del_Carmen_Mangrove_Reserve%2C_a_recently_designated_Ramsar_Site_%28Copernicus_2024-11-28%29.webp?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "previewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/The_Del_Carmen_Mangrove_Reserve%2C_a_recently_designated_Ramsar_Site_%28Copernicus_2024-11-28%29.webp/960px-The_Del_Carmen_Mangrove_Reserve%2C_a_recently_designated_Ramsar_Site_%28Copernicus_2024-11-28%29.webp?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 4960,
+          "height": 3507,
+          "license": "Attribution",
+          "creator": "European Union, Copernicus Sentinel-2 imagery",
+          "description": "The Del Carmen Mangrove Reserve on Siargao Island in the Philippines was recently designated a Ramsar Site of International Importance. Spanning nearly 4,900 hectares, the reserve forms the country's largest contiguous mangrove forest. The area’s intertidal flats and upland forests are connected by the mangroves, providing a way for birds to move more easily between the two types of habitats. The reserve hosts 245 animal species, including endangered species such as the Philippine duck and Southern rufous hornbill, while supporting the local fishing and tourism industries. The Del Carmen Mangrove Reserve is visible in this Copernicus Sentinel-2 image acquired on 27 September 2024. The Copernicus Sentinel satellites provide essential data on the state of mangroves around the world, providing key insights to better protect these important ecosystems. As a flagship programme of the EU’s Global Gateway strategy, the European Commission, in partnership with ESA, is supporting the creation of a Copernicus Data Centre in the Philippines. The CopPhil Centre is strengthening and promoting the operational uptake of free and open Copernicus data in the Philippines. In particular, the Centre will support and increase the ability of the Philippines to address climate vulnerability and biodiversity conservation while improving hazard management and resilience. The CopPhil activities include pilot services for mangrove monitoring. More information is available here.",
+          "categories": "Del Carmen|Attribution Copernicus|2024 satellite pictures|Photos of the Philippines by Sentinel-2|Photographs taken on 2024-09-27|Copernicus files uploaded by OptimusPrimeBot"
+        }
+      ]
+    },
+    {
+      "placeId": "siargao-paghungawan-marsh",
+      "name": "Paghungawan Marsh",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/place-enrichment/photo-only/photo-001-research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "Paghungawan Marsh Pilar",
+          "url": "https://www.flickr.com/search/?text=Paghungawan+Marsh+Pilar&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Paghungawan Marsh Siargao",
+          "url": "https://www.flickr.com/search/?text=Paghungawan+Marsh+Siargao&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "placeId": "siargao-sohoton-cove",
+      "name": "Sohoton Cove",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/place-enrichment/photo-only/photo-001-research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "Sohoton Cove Socorro",
+          "url": "https://www.flickr.com/search/?text=Sohoton+Cove+Socorro&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Sohoton",
+          "url": "https://www.flickr.com/search/?text=Sohoton&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 12,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Commons",
+          "query": "Sohoton",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Sohoton&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 8
+        }
+      ],
+      "candidates": [
+        {
+          "provider": "Flickr",
+          "id": "51959825160",
+          "title": "Sohoton Cove",
+          "description": "Feel free to use our photos but please add link going to our website wayph.com/",
+          "creator": "WayPH.com",
+          "owner": "93788068@N02",
+          "sourcePage": "https://www.flickr.com/photos/93788068@N02/51959825160/",
+          "licenseCode": 4,
+          "originalUrl": "https://live.staticflickr.com/65535/51959825160_bb27185988_b.jpg",
+          "previewUrl": "https://live.staticflickr.com/65535/51959825160_bb27185988_z.jpg",
+          "width": 1024,
+          "height": 678
+        },
+        {
+          "provider": "Flickr",
+          "id": "51959243176",
+          "title": "Sohoton Bucas Grande",
+          "description": "Feel free to use our photos but please add link going to our website wayph.com/",
+          "creator": "WayPH.com",
+          "owner": "93788068@N02",
+          "sourcePage": "https://www.flickr.com/photos/93788068@N02/51959243176/",
+          "licenseCode": 4,
+          "originalUrl": "https://live.staticflickr.com/65535/51959243176_fc858f130b_b.jpg",
+          "previewUrl": "https://live.staticflickr.com/65535/51959243176_fc858f130b_z.jpg",
+          "width": 1024,
+          "height": 678
+        },
+        {
+          "provider": "Flickr",
+          "id": "51959539354",
+          "title": "Cave in Sohoton",
+          "description": "Feel free to use our photos but please add link going to our website wayph.com/",
+          "creator": "WayPH.com",
+          "owner": "93788068@N02",
+          "sourcePage": "https://www.flickr.com/photos/93788068@N02/51959539354/",
+          "licenseCode": 4,
+          "originalUrl": "https://live.staticflickr.com/65535/51959539354_bfebdf1022_b.jpg",
+          "previewUrl": "https://live.staticflickr.com/65535/51959539354_bfebdf1022_z.jpg",
+          "width": 1024,
+          "height": 678
+        },
+        {
+          "provider": "Flickr",
+          "id": "3734832254",
+          "title": "Lazarus Jewel Box - Chama Lazarus",
+          "description": "All of these shells came from a single submarine cave, where conditions were sufficiently calm to promote their growth.",
+          "creator": "Richard Parker",
+          "owner": "28722516@N02",
+          "sourcePage": "https://www.flickr.com/photos/28722516@N02/3734832254/",
+          "licenseCode": 4,
+          "originalUrl": "https://live.staticflickr.com/3452/3734832254_8d5ee47034_b.jpg",
+          "previewUrl": "https://live.staticflickr.com/3452/3734832254_8d5ee47034_z.jpg",
+          "width": 1024,
+          "height": 801
+        },
+        {
+          "provider": "Flickr",
+          "id": "3734831876",
+          "title": "Lazarus Jewel Box - Chama Lazarus",
+          "description": "All of these shells came from a single submarine cave, where conditions were sufficiently calm to promote their growth.\n\nI am not at all sure whether they are all the same species. Some of the attached ones may be Reflexed Jewel Box - Chama reflexa..",
+          "creator": "Richard Parker",
+          "owner": "28722516@N02",
+          "sourcePage": "https://www.flickr.com/photos/28722516@N02/3734831876/",
+          "licenseCode": 4,
+          "originalUrl": "https://live.staticflickr.com/2653/3734831876_98dd660dea_b.jpg",
+          "previewUrl": "https://live.staticflickr.com/2653/3734831876_98dd660dea_c.jpg",
+          "width": 808,
+          "height": 1024
+        },
+        {
+          "provider": "Flickr",
+          "id": "3734039185",
+          "title": "Lazarus Jewel Box - Chama Lazarus",
+          "description": "All of these shells came from a single submarine cave, where conditions were sufficiently calm to promote their growth.\n\nI am not at all sure whether they are all the same species. Some of the attached ones may be Reflexed Jewl Box - Chama reflexa.",
+          "creator": "Richard Parker",
+          "owner": "28722516@N02",
+          "sourcePage": "https://www.flickr.com/photos/28722516@N02/3734039185/",
+          "licenseCode": 4,
+          "originalUrl": "https://live.staticflickr.com/2566/3734039185_bdf3c8a338_b.jpg",
+          "previewUrl": "https://live.staticflickr.com/2566/3734039185_bdf3c8a338_z.jpg",
+          "width": 1024,
+          "height": 1018
+        },
+        {
+          "provider": "Flickr",
+          "id": "3734832496",
+          "title": "Lazarus Jewel Box - Chama Lazarus",
+          "description": "All of these shells came from a single submarine cave, where conditions were sufficiently calm to promote their growth.",
+          "creator": "Richard Parker",
+          "owner": "28722516@N02",
+          "sourcePage": "https://www.flickr.com/photos/28722516@N02/3734832496/",
+          "licenseCode": 4,
+          "originalUrl": "https://live.staticflickr.com/2670/3734832496_776d718706_b.jpg",
+          "previewUrl": "https://live.staticflickr.com/2670/3734832496_776d718706_z.jpg",
+          "width": 1024,
+          "height": 798
+        },
+        {
+          "provider": "Flickr",
+          "id": "3734036837",
+          "title": "Lazarus Jewel Box - Chama Lazarus",
+          "description": "All of these shells came from a single submarine cave, where conditions were sufficiently calm to promote their growth.",
+          "creator": "Richard Parker",
+          "owner": "28722516@N02",
+          "sourcePage": "https://www.flickr.com/photos/28722516@N02/3734036837/",
+          "licenseCode": 4,
+          "originalUrl": "https://live.staticflickr.com/3476/3734036837_5c5ea888bf_b.jpg",
+          "previewUrl": "https://live.staticflickr.com/3476/3734036837_5c5ea888bf_z.jpg",
+          "width": 1024,
+          "height": 832
+        },
+        {
+          "provider": "Flickr",
+          "id": "3734037231",
+          "title": "Lazarus Jewel Box - Chama Lazarus",
+          "description": "All of these shells came from a single submarine cave, where conditions were sufficiently calm to promote their growth.",
+          "creator": "Richard Parker",
+          "owner": "28722516@N02",
+          "sourcePage": "https://www.flickr.com/photos/28722516@N02/3734037231/",
+          "licenseCode": 4,
+          "originalUrl": "https://live.staticflickr.com/2659/3734037231_7a81d7e736_b.jpg",
+          "previewUrl": "https://live.staticflickr.com/2659/3734037231_7a81d7e736_z.jpg",
+          "width": 1024,
+          "height": 854
+        },
+        {
+          "provider": "Flickr",
+          "id": "3734034733",
+          "title": "Lazarus Jewel Box - Chama Lazarus",
+          "description": "All of these shells came from a single submarine cave, where conditions were sufficiently calm to promote their growth.",
+          "creator": "Richard Parker",
+          "owner": "28722516@N02",
+          "sourcePage": "https://www.flickr.com/photos/28722516@N02/3734034733/",
+          "licenseCode": 4,
+          "originalUrl": "https://live.staticflickr.com/2675/3734034733_6bb0ed7fff_b.jpg",
+          "previewUrl": "https://live.staticflickr.com/2675/3734034733_6bb0ed7fff_z.jpg",
+          "width": 1024,
+          "height": 1002
+        },
+        {
+          "provider": "Flickr",
+          "id": "3734039595",
+          "title": "Lazarus Jewel Box - Chama Lazarus",
+          "description": "All of these shells came from a single submarine cave, where conditions were sufficiently calm to promote their growth.",
+          "creator": "Richard Parker",
+          "owner": "28722516@N02",
+          "sourcePage": "https://www.flickr.com/photos/28722516@N02/3734039595/",
+          "licenseCode": 4,
+          "originalUrl": "https://live.staticflickr.com/3435/3734039595_3731a1822f_b.jpg",
+          "previewUrl": "https://live.staticflickr.com/3435/3734039595_3731a1822f_z.jpg",
+          "width": 1024,
+          "height": 898
+        },
+        {
+          "provider": "Flickr",
+          "id": "3734035731",
+          "title": "Lazarus Jewel Box - Chama Lazarus",
+          "description": "All of these shells came from a single submarine cave, where conditions were sufficiently calm to promote their growth.",
+          "creator": "Richard Parker",
+          "owner": "28722516@N02",
+          "sourcePage": "https://www.flickr.com/photos/28722516@N02/3734035731/",
+          "licenseCode": 4,
+          "originalUrl": "https://live.staticflickr.com/3429/3734035731_ce5cec494c_b.jpg",
+          "previewUrl": "https://live.staticflickr.com/3429/3734035731_ce5cec494c_z.jpg",
+          "width": 1024,
+          "height": 747
+        },
+        {
+          "provider": "Wikimedia Commons",
+          "title": "File:Sohoton Cave at Sohoton Natural Bridge National Park.JPG",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Sohoton_Cave_at_Sohoton_Natural_Bridge_National_Park.JPG",
+          "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Sohoton_Cave_at_Sohoton_Natural_Bridge_National_Park.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "previewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Sohoton_Cave_at_Sohoton_Natural_Bridge_National_Park.JPG/960px-Sohoton_Cave_at_Sohoton_Natural_Bridge_National_Park.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 4608,
+          "height": 3456,
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "creator": "Lawrence Ruiz",
+          "description": "One of the entrances leading to Sohoton Cave, Basey, Samar, with the wrought iron bridge from the DENR office.",
+          "categories": "Self-published work|Sohoton Natural Bridge National Park"
+        },
+        {
+          "provider": "Wikimedia Commons",
+          "title": "File:Sohoton Cave at Sohoton Natural Bridge National Park2.JPG",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Sohoton_Cave_at_Sohoton_Natural_Bridge_National_Park2.JPG",
+          "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/4/46/Sohoton_Cave_at_Sohoton_Natural_Bridge_National_Park2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "previewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Sohoton_Cave_at_Sohoton_Natural_Bridge_National_Park2.JPG/960px-Sohoton_Cave_at_Sohoton_Natural_Bridge_National_Park2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 4608,
+          "height": 3456,
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "creator": "Lawrence Ruiz",
+          "description": "The entrance leading to Sohoton Cave at Sohoton Natural Bridge National Park, Basey, Samar",
+          "categories": "Limestone caves|Self-published work|Sohoton Natural Bridge National Park"
+        },
+        {
+          "provider": "Wikimedia Commons",
+          "title": "File:Interior of Sohoton Cave2.JPG",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Interior_of_Sohoton_Cave2.JPG",
+          "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Interior_of_Sohoton_Cave2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "previewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Interior_of_Sohoton_Cave2.JPG/960px-Interior_of_Sohoton_Cave2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 4608,
+          "height": 3456,
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "creator": "Lawrence Ruiz",
+          "description": "A guide leads tourists inside the Sohoton Cave Complex within Sohoton Natural Bridge National Park, Basey, Samar",
+          "categories": "Self-published work|Sohoton Natural Bridge National Park"
+        },
+        {
+          "provider": "Wikimedia Commons",
+          "title": "File:Interior of Sohoton Cave.JPG",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Interior_of_Sohoton_Cave.JPG",
+          "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/2/26/Interior_of_Sohoton_Cave.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "previewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Interior_of_Sohoton_Cave.JPG/960px-Interior_of_Sohoton_Cave.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 4608,
+          "height": 3456,
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "creator": "Lawrence Ruiz",
+          "description": "The interior of Sohoton Cave within Sohoton Natural Bridge National Park, Basey, Samar",
+          "categories": "Self-published work|Sohoton Natural Bridge National Park"
+        },
+        {
+          "provider": "Wikimedia Commons",
+          "title": "File:Sohoton Cave Interior 1.JPG",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Sohoton_Cave_Interior_1.JPG",
+          "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/2/25/Sohoton_Cave_Interior_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "previewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Sohoton_Cave_Interior_1.JPG/960px-Sohoton_Cave_Interior_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 4608,
+          "height": 3456,
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "creator": "Lawrence Ruiz",
+          "description": "Photo showing tourists exploring the interior of Sohoton Cave in Sohoton Natural Bridge National Park in Basey, Samar.",
+          "categories": "Self-published work|Sohoton Natural Bridge National Park"
+        },
+        {
+          "provider": "Wikimedia Commons",
+          "title": "File:Sohoton Natural Bridge 1.JPG",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Sohoton_Natural_Bridge_1.JPG",
+          "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/9/96/Sohoton_Natural_Bridge_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "previewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Sohoton_Natural_Bridge_1.JPG/960px-Sohoton_Natural_Bridge_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 4608,
+          "height": 3456,
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "creator": "Lawrence Ruiz",
+          "description": "Photo showing tourists kayaking through Sohoton Natural Bridge via Cadacan River in Sohoton Natural Bridge National Park in Basey, Samar.",
+          "categories": "Self-published work|Sohoton Natural Bridge National Park"
+        },
+        {
+          "provider": "Wikimedia Commons",
+          "title": "File:Sohoton Natural Bridge 3.JPG",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Sohoton_Natural_Bridge_3.JPG",
+          "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/6/64/Sohoton_Natural_Bridge_3.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "previewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Sohoton_Natural_Bridge_3.JPG/960px-Sohoton_Natural_Bridge_3.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 4608,
+          "height": 3456,
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "creator": "Lawrence Ruiz",
+          "description": "Photo showing the larger arch of Sohoton Natural Bridge along Cadacan River in Sohoton Natural Bridge National Park in Basey, Samar.",
+          "categories": "Self-published work|Sohoton Natural Bridge National Park"
+        },
+        {
+          "provider": "Wikimedia Commons",
+          "title": "File:Sohoton Natural Bridge 4.JPG",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Sohoton_Natural_Bridge_4.JPG",
+          "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Sohoton_Natural_Bridge_4.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "previewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Sohoton_Natural_Bridge_4.JPG/960px-Sohoton_Natural_Bridge_4.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 4608,
+          "height": 3456,
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "creator": "Lawrence Ruiz",
+          "description": "Photo showing the kayaks used by tourists to reach Sohoton Natural Bridge along Cadacan River in Sohoton Natural Bridge National Park in Basey, Samar.",
+          "categories": "Self-published work|Sohoton Natural Bridge National Park|Rivers of Samar (province)"
+        }
+      ]
+    },
+    {
+      "placeId": "siargao-osmena-wetland",
+      "name": "Osmeña Wetland",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/place-enrichment/photo-only/photo-001-research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "Osmeña Wetland Dapa",
+          "url": "https://www.flickr.com/search/?text=Osme%C3%B1a+Wetland+Dapa&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Osmeña Wetland Siargao",
+          "url": "https://www.flickr.com/search/?text=Osme%C3%B1a+Wetland+Siargao&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "placeId": "siargao-somyot-cave",
+      "name": "Somyot Cave",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/place-enrichment/photo-only/photo-001-research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "Somyot Cave Burgos",
+          "url": "https://www.flickr.com/search/?text=Somyot+Cave+Burgos&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Somyot Cave Siargao",
+          "url": "https://www.flickr.com/search/?text=Somyot+Cave+Siargao&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "placeId": "siargao-trattoria-altrove",
+      "name": "Trattoria Altrove — Siargao",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/place-enrichment/photo-only/photo-001-research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "Trattoria Altrove General Luna",
+          "url": "https://www.flickr.com/search/?text=Trattoria+Altrove+General+Luna&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Trattoria Altrove Siargao",
+          "url": "https://www.flickr.com/search/?text=Trattoria+Altrove+Siargao&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "placeId": "siargao-kermit-restaurant",
+      "name": "Kermit Restaurant — Siargao",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/place-enrichment/photo-only/photo-001-research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "Kermit Restaurant General Luna",
+          "url": "https://www.flickr.com/search/?text=Kermit+Restaurant+General+Luna&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Kermit Siargao",
+          "url": "https://www.flickr.com/search/?text=Kermit+Siargao&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "placeId": "siargao-warung",
+      "name": "Warung — Siargao Island Villas",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/place-enrichment/photo-only/photo-001-research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "Warung General Luna",
+          "url": "https://www.flickr.com/search/?text=Warung+General+Luna&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Warung Siargao",
+          "url": "https://www.flickr.com/search/?text=Warung+Siargao&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "placeId": "siargao-bravo-restaurant",
+      "name": "Bravo Restaurant — Siargao",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/place-enrichment/photo-only/photo-001-research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "Bravo Restaurant General Luna",
+          "url": "https://www.flickr.com/search/?text=Bravo+Restaurant+General+Luna&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Bravo Siargao",
+          "url": "https://www.flickr.com/search/?text=Bravo+Siargao&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "placeId": "siargao-brunch-spot",
+      "name": "Brunch Spot Siargao",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/place-enrichment/photo-only/photo-001-research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "Brunch Spot Siargao General Luna",
+          "url": "https://www.flickr.com/search/?text=Brunch+Spot+Siargao+General+Luna&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Brunch Spot Siargao Siargao",
+          "url": "https://www.flickr.com/search/?text=Brunch+Spot+Siargao+Siargao&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "placeId": "siargao-naga-restaurant",
+      "name": "NĀGA Siargao",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/place-enrichment/photo-only/photo-001-research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "NĀGA Siargao General Luna",
+          "url": "https://www.flickr.com/search/?text=N%C4%80GA+Siargao+General+Luna&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "NĀGA Siargao Siargao",
+          "url": "https://www.flickr.com/search/?text=N%C4%80GA+Siargao+Siargao&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "placeId": "siargao-malinao-beach",
+      "name": "Malinao Beach",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/place-enrichment/photo-only/photo-001-research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "Malinao Beach General Luna",
+          "url": "https://www.flickr.com/search/?text=Malinao+Beach+General+Luna&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Malinao Beach Siargao",
+          "url": "https://www.flickr.com/search/?text=Malinao+Beach+Siargao&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Commons",
+          "query": "Malinao Beach Siargao",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Malinao+Beach+Siargao&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "placeId": "siargao-paseo-de-cabuntog",
+      "name": "Paseo de Cabuntog",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/place-enrichment/photo-only/photo-001-research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "Paseo de Cabuntog General Luna",
+          "url": "https://www.flickr.com/search/?text=Paseo+de+Cabuntog+General+Luna&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Paseo de Cabuntog Siargao",
+          "url": "https://www.flickr.com/search/?text=Paseo+de+Cabuntog+Siargao&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "placeId": "siargao-lokal-hub-general-luna",
+      "name": "The Hub by Lokal Lab — General Luna",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/place-enrichment/photo-only/photo-001-research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "The Hub by Lokal Lab General Luna",
+          "url": "https://www.flickr.com/search/?text=The+Hub+by+Lokal+Lab+General+Luna&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Hub by Lokal Siargao",
+          "url": "https://www.flickr.com/search/?text=Hub+by+Lokal+Siargao&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "placeId": "siargao-clubhouse-golf",
+      "name": "The Clubhouse Siargao",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/place-enrichment/photo-only/photo-001-research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "The Clubhouse Siargao General Luna",
+          "url": "https://www.flickr.com/search/?text=The+Clubhouse+Siargao+General+Luna&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Clubhouse Siargao Siargao",
+          "url": "https://www.flickr.com/search/?text=Clubhouse+Siargao+Siargao&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "placeId": "siargao-spotted-pig-catangnan",
+      "name": "Spotted Pig Cafe — Catangnan",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/food-directory/media/research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "Spotted Pig Cafe General Luna",
+          "url": "https://www.flickr.com/search/?text=Spotted+Pig+Cafe+General+Luna&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Spotted Pig Siargao",
+          "url": "https://www.flickr.com/search/?text=Spotted+Pig+Siargao&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Commons",
+          "query": "Spotted Pig Siargao",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Spotted+Pig+Siargao&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        }
+      ],
+      "candidates": []
+    }
+  ]
+}

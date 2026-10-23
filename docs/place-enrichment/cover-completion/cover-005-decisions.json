@@ -1,0 +1,826 @@
+{
+  "batchId": "cover-005",
+  "mode": "cover-photos",
+  "checkedOn": "2026-10-23",
+  "entries": [
+    {
+      "placeId": "bohol-loboc-eco-adventure-park",
+      "approved": false,
+      "sourcesSearched": [
+        {
+          "provider": "Flickr",
+          "query": "Loboc Eco-Tourism Adventure Park Loboc",
+          "url": "https://www.flickr.com/search/?text=Loboc+Eco-Tourism+Adventure+Park+Loboc&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Loboc Eco-Tourism Adventure Bohol",
+          "url": "https://www.flickr.com/search/?text=Loboc+Eco-Tourism+Adventure+Bohol&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "previousReports": [
+        "docs/place-enrichment/photo-only/photo-004-research.json"
+      ],
+      "rejections": [],
+      "notes": [
+        "Earlier approved descriptions, photographs, videos, stable IDs, bookmarks and saved trips are preserved. Public or official visibility alone does not establish image reuse rights."
+      ],
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source."
+    },
+    {
+      "placeId": "bohol-green-thumb-farm",
+      "approved": false,
+      "sourcesSearched": [
+        {
+          "provider": "Flickr",
+          "query": "Green Thumb Farm Corella",
+          "url": "https://www.flickr.com/search/?text=Green+Thumb+Farm+Corella&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Green Thumb Farm Bohol",
+          "url": "https://www.flickr.com/search/?text=Green+Thumb+Farm+Bohol&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "previousReports": [
+        "docs/place-enrichment/photo-only/photo-004-research.json"
+      ],
+      "rejections": [],
+      "notes": [
+        "Earlier approved descriptions, photographs, videos, stable IDs, bookmarks and saved trips are preserved. Public or official visibility alone does not establish image reuse rights."
+      ],
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source."
+    },
+    {
+      "placeId": "bohol-quinale-beach",
+      "approved": false,
+      "sourcesSearched": [
+        {
+          "provider": "Flickr",
+          "query": "Quinale Beach Anda",
+          "url": "https://www.flickr.com/search/?text=Quinale+Beach+Anda&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Quinale Beach Bohol",
+          "url": "https://www.flickr.com/search/?text=Quinale+Beach+Bohol&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Commons",
+          "query": "Quinale Beach Bohol",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Quinale+Beach+Bohol&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        }
+      ],
+      "previousReports": [
+        "docs/place-enrichment/photo-only/photo-004-research.json"
+      ],
+      "rejections": [],
+      "notes": [
+        "Earlier approved descriptions, photographs, videos, stable IDs, bookmarks and saved trips are preserved. Public or official visibility alone does not establish image reuse rights."
+      ],
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source."
+    },
+    {
+      "placeId": "bohol-cabagnow-cave-pool",
+      "approved": false,
+      "sourcesSearched": [
+        {
+          "provider": "Flickr",
+          "query": "Cabagnow Cave Pool Anda",
+          "url": "https://www.flickr.com/search/?text=Cabagnow+Cave+Pool+Anda&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Cabagnow Cave Pool Bohol",
+          "url": "https://www.flickr.com/search/?text=Cabagnow+Cave+Pool+Bohol&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "previousReports": [
+        "docs/place-enrichment/photo-only/photo-004-research.json"
+      ],
+      "rejections": [],
+      "notes": [
+        "Earlier approved descriptions, photographs, videos, stable IDs, bookmarks and saved trips are preserved. Public or official visibility alone does not establish image reuse rights."
+      ],
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source."
+    },
+    {
+      "placeId": "bohol-edith-grand-garden",
+      "approved": false,
+      "sourcesSearched": [
+        {
+          "provider": "Flickr",
+          "query": "Edith Grand Garden Wellness Resort & Adventure Park Baclayon",
+          "url": "https://www.flickr.com/search/?text=Edith+Grand+Garden+Wellness+Resort+%26+Adventure+Park+Baclayon&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Edith Grand Garden Bohol",
+          "url": "https://www.flickr.com/search/?text=Edith+Grand+Garden+Bohol&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "previousReports": [
+        "docs/place-enrichment/photo-only/photo-004-research.json"
+      ],
+      "rejections": [],
+      "notes": [
+        "Earlier approved descriptions, photographs, videos, stable IDs, bookmarks and saved trips are preserved. Public or official visibility alone does not establish image reuse rights."
+      ],
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source."
+    },
+    {
+      "placeId": "bohol-saffron-restaurant",
+      "approved": false,
+      "sourcesSearched": [
+        {
+          "provider": "Flickr",
+          "query": "Saffron Restaurant Panglao",
+          "url": "https://www.flickr.com/search/?text=Saffron+Restaurant+Panglao&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Saffron Bohol",
+          "url": "https://www.flickr.com/search/?text=Saffron+Bohol&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "previousReports": [
+        "docs/place-enrichment/photo-only/photo-004-research.json"
+      ],
+      "rejections": [],
+      "notes": [
+        "Earlier approved descriptions, photographs, videos, stable IDs, bookmarks and saved trips are preserved. Public or official visibility alone does not establish image reuse rights."
+      ],
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source."
+    },
+    {
+      "placeId": "bohol-latavola-restaurant",
+      "approved": false,
+      "sourcesSearched": [
+        {
+          "provider": "Flickr",
+          "query": "Latavola Italian Restaurant Panglao",
+          "url": "https://www.flickr.com/search/?text=Latavola+Italian+Restaurant+Panglao&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Latavola Italian Bohol",
+          "url": "https://www.flickr.com/search/?text=Latavola+Italian+Bohol&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "previousReports": [
+        "docs/place-enrichment/photo-only/photo-004-research.json"
+      ],
+      "rejections": [],
+      "notes": [
+        "Earlier approved descriptions, photographs, videos, stable IDs, bookmarks and saved trips are preserved. Public or official visibility alone does not establish image reuse rights."
+      ],
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source."
+    },
+    {
+      "placeId": "bohol-prawn-farm-bolod",
+      "approved": false,
+      "sourcesSearched": [
+        {
+          "provider": "Flickr",
+          "query": "The Prawn Farm Grill and Seafoods Panglao",
+          "url": "https://www.flickr.com/search/?text=The+Prawn+Farm+Grill+and+Seafoods+Panglao&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Prawn Farm Grill Bohol",
+          "url": "https://www.flickr.com/search/?text=Prawn+Farm+Grill+Bohol&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "previousReports": [
+        "docs/place-enrichment/photo-only/photo-004-research.json"
+      ],
+      "rejections": [],
+      "notes": [
+        "Earlier approved descriptions, photographs, videos, stable IDs, bookmarks and saved trips are preserved. Public or official visibility alone does not establish image reuse rights."
+      ],
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source."
+    },
+    {
+      "placeId": "bohol-overgrown-panglao",
+      "approved": false,
+      "sourcesSearched": [
+        {
+          "provider": "Flickr",
+          "query": "Overgrown Café & Bar Panglao",
+          "url": "https://www.flickr.com/search/?text=Overgrown+Caf%C3%A9+%26+Bar+Panglao&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Overgrown Bar Bohol",
+          "url": "https://www.flickr.com/search/?text=Overgrown+Bar+Bohol&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Commons",
+          "query": "Overgrown Bar Bohol",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Overgrown+Bar+Bohol&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        }
+      ],
+      "previousReports": [
+        "docs/food-directory/media/research.json"
+      ],
+      "rejections": [],
+      "notes": [
+        "Earlier approved descriptions, photographs, videos, stable IDs, bookmarks and saved trips are preserved. Public or official visibility alone does not establish image reuse rights."
+      ],
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source."
+    },
+    {
+      "placeId": "bohol-mosia-cafe",
+      "approved": false,
+      "sourcesSearched": [
+        {
+          "provider": "Flickr",
+          "query": "Mosia Cafe Tagbilaran City",
+          "url": "https://www.flickr.com/search/?text=Mosia+Cafe+Tagbilaran+City&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Mosia Bohol",
+          "url": "https://www.flickr.com/search/?text=Mosia+Bohol&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Commons",
+          "query": "Mosia Bohol",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Mosia+Bohol&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        }
+      ],
+      "previousReports": [
+        "docs/food-directory/media/research.json"
+      ],
+      "rejections": [],
+      "notes": [
+        "Earlier approved descriptions, photographs, videos, stable IDs, bookmarks and saved trips are preserved. Public or official visibility alone does not establish image reuse rights."
+      ],
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source."
+    },
+    {
+      "placeId": "bohol-slotide-danao",
+      "approved": false,
+      "sourcesSearched": [
+        {
+          "provider": "Flickr",
+          "query": "Slotide Coffee Club Panglao",
+          "url": "https://www.flickr.com/search/?text=Slotide+Coffee+Club+Panglao&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Slotide Coffee Club Bohol",
+          "url": "https://www.flickr.com/search/?text=Slotide+Coffee+Club+Bohol&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Commons",
+          "query": "Slotide Coffee Club Bohol",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Slotide+Coffee+Club+Bohol&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        }
+      ],
+      "previousReports": [
+        "docs/food-directory/media/research.json"
+      ],
+      "rejections": [],
+      "notes": [
+        "Earlier approved descriptions, photographs, videos, stable IDs, bookmarks and saved trips are preserved. Public or official visibility alone does not establish image reuse rights."
+      ],
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source."
+    },
+    {
+      "placeId": "bohol-smoque-bistro",
+      "approved": false,
+      "sourcesSearched": [
+        {
+          "provider": "Flickr",
+          "query": "Smoque Bistro + Cafe & Bar Tagbilaran City",
+          "url": "https://www.flickr.com/search/?text=Smoque+Bistro+%2B+Cafe+%26+Bar+Tagbilaran+City&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Smoque Bistro + Bohol",
+          "url": "https://www.flickr.com/search/?text=Smoque+Bistro+%2B+Bohol&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Commons",
+          "query": "Smoque Bistro + Bohol",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Smoque+Bistro+%2B+Bohol&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        }
+      ],
+      "previousReports": [
+        "docs/food-directory/media/research.json"
+      ],
+      "rejections": [],
+      "notes": [
+        "Earlier approved descriptions, photographs, videos, stable IDs, bookmarks and saved trips are preserved. Public or official visibility alone does not establish image reuse rights."
+      ],
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source."
+    },
+    {
+      "placeId": "bohol-mist-danao",
+      "approved": false,
+      "sourcesSearched": [
+        {
+          "provider": "Flickr",
+          "query": "MIST Cafe and Restaurant Panglao",
+          "url": "https://www.flickr.com/search/?text=MIST+Cafe+and+Restaurant+Panglao&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "MIST Bohol",
+          "url": "https://www.flickr.com/search/?text=MIST+Bohol&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 4,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Commons",
+          "query": "MIST Bohol",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=MIST+Bohol&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 1
+        }
+      ],
+      "previousReports": [
+        "docs/food-directory/media/research.json"
+      ],
+      "rejections": [
+        {
+          "sourcePage": "https://www.flickr.com/photos/edwardmusiak/8061535675/",
+          "title": "jungle mist",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/cost-of-living-worldwide/8175075803/",
+          "title": "Bohol, Philippines",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/shankaronline/9295522546/",
+          "title": "Not a mysterious misty scene this!",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/shankaronline/9274505687/",
+          "title": "Glass mounted butterflies",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Morning_In_Alicia.jpg",
+          "title": "File:Morning In Alicia.jpg",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        }
+      ],
+      "notes": [
+        "Earlier approved descriptions, photographs, videos, stable IDs, bookmarks and saved trips are preserved. Public or official visibility alone does not establish image reuse rights."
+      ],
+      "reason": "No candidate established an exact-place/branch photograph with individually reviewed compatible rights and a usable image. Name collisions and neighboring places are not substitutes. Supply an authorized exact-place photograph or resolve the linked candidate review."
+    },
+    {
+      "placeId": "bohol-tomar-amorita",
+      "approved": false,
+      "sourcesSearched": [
+        {
+          "provider": "Flickr",
+          "query": "Tomar Tapas x Bar Panglao",
+          "url": "https://www.flickr.com/search/?text=Tomar+Tapas+x+Bar+Panglao&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Tomar Tapas x Bohol",
+          "url": "https://www.flickr.com/search/?text=Tomar+Tapas+x+Bohol&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Commons",
+          "query": "Tomar Tapas x Bohol",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Tomar+Tapas+x+Bohol&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        }
+      ],
+      "previousReports": [
+        "docs/food-directory/media/research.json"
+      ],
+      "rejections": [],
+      "notes": [
+        "Earlier approved descriptions, photographs, videos, stable IDs, bookmarks and saved trips are preserved. Public or official visibility alone does not establish image reuse rights."
+      ],
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source."
+    },
+    {
+      "placeId": "batanes-basco-plaza",
+      "approved": false,
+      "sourcesSearched": [
+        {
+          "provider": "Flickr",
+          "query": "Basco Plaza Basco",
+          "url": "https://www.flickr.com/search/?text=Basco+Plaza+Basco&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 12,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Basco Plaza Batanes",
+          "url": "https://www.flickr.com/search/?text=Basco+Plaza+Batanes&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "previousReports": [
+        "docs/place-enrichment/photo-only/photo-004-research.json"
+      ],
+      "rejections": [
+        {
+          "sourcePage": "https://www.flickr.com/photos/129231073@N06/29478895841/",
+          "title": "Donostia - De Euskadi Plaza",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/129231073@N06/29449935472/",
+          "title": "Donostia - San Telmo Museoa",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/metamorfastudio/25745490486/",
+          "title": "Surfers at Laga Beach, Basque Country",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/129231073@N06/29239757365/",
+          "title": "Bilbao",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/129231073@N06/29559349305/",
+          "title": "Donostia - La Equitativa",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/129231073@N06/29239758835/",
+          "title": "Bilbao",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/129231073@N06/29478897931/",
+          "title": "Donostia - La Equitativa",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/129231073@N06/29239760995/",
+          "title": "Bilbao - Azkuna Zentroa",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/129231073@N06/29559373775/",
+          "title": "Donostia - Pescaderia de la Bretxa",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/129231073@N06/28933946124/",
+          "title": "Donostia - De Euskadi Plaza",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/129231073@N06/28952033680/",
+          "title": "Bilbao - Azkuna Zentroa",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/129231073@N06/29131883162/",
+          "title": "Bilbao - Azkuna Zentroa",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        }
+      ],
+      "notes": [
+        "Earlier approved descriptions, photographs, videos, stable IDs, bookmarks and saved trips are preserved. Public or official visibility alone does not establish image reuse rights."
+      ],
+      "reason": "No candidate established an exact-place/branch photograph with individually reviewed compatible rights and a usable image. Name collisions and neighboring places are not substitutes. Supply an authorized exact-place photograph or resolve the linked candidate review."
+    },
+    {
+      "placeId": "batanes-casa-napoli-town",
+      "approved": false,
+      "sourcesSearched": [
+        {
+          "provider": "Flickr",
+          "query": "Casa Napoli Pizza and Pasta Basco",
+          "url": "https://www.flickr.com/search/?text=Casa+Napoli+Pizza+and+Pasta+Basco&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Casa Napoli Pizza Batanes",
+          "url": "https://www.flickr.com/search/?text=Casa+Napoli+Pizza+Batanes&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "previousReports": [
+        "docs/place-enrichment/photo-only/photo-004-research.json"
+      ],
+      "rejections": [],
+      "notes": [
+        "Earlier approved descriptions, photographs, videos, stable IDs, bookmarks and saved trips are preserved. Public or official visibility alone does not establish image reuse rights."
+      ],
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source."
+    },
+    {
+      "placeId": "batanes-beehan",
+      "approved": false,
+      "sourcesSearched": [
+        {
+          "provider": "Flickr",
+          "query": "Beehan Food Enterprise Basco",
+          "url": "https://www.flickr.com/search/?text=Beehan+Food+Enterprise+Basco&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Beehan Food Enterprise Batanes",
+          "url": "https://www.flickr.com/search/?text=Beehan+Food+Enterprise+Batanes&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "previousReports": [
+        "docs/place-enrichment/photo-only/photo-004-research.json"
+      ],
+      "rejections": [],
+      "notes": [
+        "Earlier approved descriptions, photographs, videos, stable IDs, bookmarks and saved trips are preserved. Public or official visibility alone does not establish image reuse rights."
+      ],
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source."
+    },
+    {
+      "placeId": "batanes-harbour-cafe",
+      "approved": false,
+      "sourcesSearched": [
+        {
+          "provider": "Flickr",
+          "query": "Harbour Cafe Basco",
+          "url": "https://www.flickr.com/search/?text=Harbour+Cafe+Basco&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Harbour Batanes",
+          "url": "https://www.flickr.com/search/?text=Harbour+Batanes&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Commons",
+          "query": "Harbour Batanes",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Harbour+Batanes&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 1
+        }
+      ],
+      "previousReports": [
+        "docs/place-enrichment/photo-only/photo-004-research.json"
+      ],
+      "rejections": [
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Uscgc_kukui-001.jpg",
+          "title": "File:Uscgc kukui-001.jpg",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        }
+      ],
+      "notes": [
+        "Earlier approved descriptions, photographs, videos, stable IDs, bookmarks and saved trips are preserved. Public or official visibility alone does not establish image reuse rights."
+      ],
+      "reason": "No candidate established an exact-place/branch photograph with individually reviewed compatible rights and a usable image. Name collisions and neighboring places are not substitutes. Supply an authorized exact-place photograph or resolve the linked candidate review."
+    },
+    {
+      "placeId": "batanes-vunong-dinette",
+      "approved": false,
+      "sourcesSearched": [
+        {
+          "provider": "Flickr",
+          "query": "Vunong Dinette Basco",
+          "url": "https://www.flickr.com/search/?text=Vunong+Dinette+Basco&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Vunong Dinette Batanes",
+          "url": "https://www.flickr.com/search/?text=Vunong+Dinette+Batanes&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "previousReports": [
+        "docs/place-enrichment/photo-only/photo-004-research.json"
+      ],
+      "rejections": [],
+      "notes": [
+        "Earlier approved descriptions, photographs, videos, stable IDs, bookmarks and saved trips are preserved. Public or official visibility alone does not establish image reuse rights."
+      ],
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source."
+    },
+    {
+      "placeId": "batanes-honesty-coffee-shop",
+      "approved": false,
+      "sourcesSearched": [
+        {
+          "provider": "Flickr",
+          "query": "Honesty Coffee Shop Ivana",
+          "url": "https://www.flickr.com/search/?text=Honesty+Coffee+Shop+Ivana&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Honesty Coffee Shop Batanes",
+          "url": "https://www.flickr.com/search/?text=Honesty+Coffee+Shop+Batanes&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "previousReports": [
+        "docs/place-enrichment/photo-only/photo-005-research.json"
+      ],
+      "rejections": [],
+      "notes": [
+        "Earlier approved descriptions, photographs, videos, stable IDs, bookmarks and saved trips are preserved. Public or official visibility alone does not establish image reuse rights."
+      ],
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source."
+    },
+    {
+      "placeId": "batanes-rakuh-idi-spring",
+      "approved": false,
+      "sourcesSearched": [
+        {
+          "provider": "Flickr",
+          "query": "Rakuh-a-Idi Spring Mahatao",
+          "url": "https://www.flickr.com/search/?text=Rakuh-a-Idi+Spring+Mahatao&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Rakuh-a-Idi Spring Batanes",
+          "url": "https://www.flickr.com/search/?text=Rakuh-a-Idi+Spring+Batanes&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "previousReports": [
+        "docs/place-enrichment/photo-only/photo-005-research.json"
+      ],
+      "rejections": [],
+      "notes": [
+        "Earlier approved descriptions, photographs, videos, stable IDs, bookmarks and saved trips are preserved. Public or official visibility alone does not establish image reuse rights."
+      ],
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source."
+    },
+    {
+      "placeId": "batanes-chawa-viewdeck",
+      "approved": false,
+      "sourcesSearched": [
+        {
+          "provider": "Flickr",
+          "query": "Chawa View Deck Mahatao",
+          "url": "https://www.flickr.com/search/?text=Chawa+View+Deck+Mahatao&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Chawa View Deck Batanes",
+          "url": "https://www.flickr.com/search/?text=Chawa+View+Deck+Batanes&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "previousReports": [
+        "docs/place-enrichment/photo-only/photo-005-research.json"
+      ],
+      "rejections": [],
+      "notes": [
+        "Earlier approved descriptions, photographs, videos, stable IDs, bookmarks and saved trips are preserved. Public or official visibility alone does not establish image reuse rights."
+      ],
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source."
+    },
+    {
+      "placeId": "batanes-national-museum",
+      "approved": false,
+      "sourcesSearched": [
+        {
+          "provider": "Flickr",
+          "query": "National Museum of the Philippines Uyugan",
+          "url": "https://www.flickr.com/search/?text=National+Museum+of+the+Philippines+Uyugan&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "National Museum of Batanes",
+          "url": "https://www.flickr.com/search/?text=National+Museum+of+Batanes&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "previousReports": [
+        "docs/place-enrichment/photo-only/photo-005-research.json"
+      ],
+      "rejections": [],
+      "notes": [
+        "Earlier approved descriptions, photographs, videos, stable IDs, bookmarks and saved trips are preserved. Public or official visibility alone does not establish image reuse rights."
+      ],
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source."
+    },
+    {
+      "placeId": "batanes-cafe-du-tukon",
+      "approved": false,
+      "sourcesSearched": [
+        {
+          "provider": "Flickr",
+          "query": "Café du Tukon Basco",
+          "url": "https://www.flickr.com/search/?text=Caf%C3%A9+du+Tukon+Basco&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "du Tukon Batanes",
+          "url": "https://www.flickr.com/search/?text=du+Tukon+Batanes&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Commons",
+          "query": "du Tukon Batanes",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=du+Tukon+Batanes&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        }
+      ],
+      "previousReports": [
+        "docs/food-directory/media/research.json"
+      ],
+      "rejections": [],
+      "notes": [
+        "Earlier approved descriptions, photographs, videos, stable IDs, bookmarks and saved trips are preserved. Public or official visibility alone does not establish image reuse rights."
+      ],
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source."
+    }
+  ]
+}

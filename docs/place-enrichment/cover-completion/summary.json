@@ -1,0 +1,139 @@
+{
+  "updatedOn": "2026-10-23",
+  "startingGaps": 212,
+  "startingPhotos": 214,
+  "reviewed": 212,
+  "added": 2,
+  "photos": 216,
+  "remainingGaps": 210,
+  "status": "reviewed-with-unresolved-photo-gaps",
+  "coverage": [
+    {
+      "destination": "Siargao",
+      "total": 36,
+      "photos": 7,
+      "added": 0,
+      "gaps": 29
+    },
+    {
+      "destination": "Boracay",
+      "total": 28,
+      "photos": 8,
+      "added": 0,
+      "gaps": 20
+    },
+    {
+      "destination": "Baguio",
+      "total": 35,
+      "photos": 16,
+      "added": 0,
+      "gaps": 19
+    },
+    {
+      "destination": "Davao",
+      "total": 39,
+      "photos": 16,
+      "added": 1,
+      "gaps": 23
+    },
+    {
+      "destination": "Bohol",
+      "total": 36,
+      "photos": 18,
+      "added": 0,
+      "gaps": 18
+    },
+    {
+      "destination": "Batanes",
+      "total": 32,
+      "photos": 21,
+      "added": 0,
+      "gaps": 11
+    },
+    {
+      "destination": "Palawan",
+      "total": 66,
+      "photos": 31,
+      "added": 0,
+      "gaps": 35
+    },
+    {
+      "destination": "Iloilo",
+      "total": 38,
+      "photos": 26,
+      "added": 0,
+      "gaps": 12
+    },
+    {
+      "destination": "Manila",
+      "total": 49,
+      "photos": 31,
+      "added": 0,
+      "gaps": 18
+    },
+    {
+      "destination": "Cebu",
+      "total": 51,
+      "photos": 32,
+      "added": 0,
+      "gaps": 19
+    },
+    {
+      "destination": "Sagada",
+      "total": 16,
+      "photos": 10,
+      "added": 1,
+      "gaps": 6
+    }
+  ],
+  "batches": [
+    {
+      "id": "cover-001",
+      "size": 24,
+      "added": 0
+    },
+    {
+      "id": "cover-002",
+      "size": 24,
+      "added": 0
+    },
+    {
+      "id": "cover-003",
+      "size": 24,
+      "added": 1
+    },
+    {
+      "id": "cover-004",
+      "size": 24,
+      "added": 0
+    },
+    {
+      "id": "cover-005",
+      "size": 24,
+      "added": 0
+    },
+    {
+      "id": "cover-006",
+      "size": 24,
+      "added": 0
+    },
+    {
+      "id": "cover-007",
+      "size": 24,
+      "added": 0
+    },
+    {
+      "id": "cover-008",
+      "size": 24,
+      "added": 0
+    },
+    {
+      "id": "cover-009",
+      "size": 20,
+      "added": 1
+    }
+  ],
+  "checklist": "docs/place-enrichment/cover-completion/checklist.json",
+  "suppliedPhotoList": "docs/place-enrichment/cover-completion/remaining-photos.json",
+  "limitation": "A completed source search is not complete photo coverage or proof that no reusable photo exists. Instagram remains independent. No generic or generated substitutes are counted as exact-place photos."
+}

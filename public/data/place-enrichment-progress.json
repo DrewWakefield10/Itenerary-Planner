@@ -13,15 +13,15 @@
       "baguio-wright-park"
     ]
   },
-  "updatedOn": "2026-10-22",
+  "updatedOn": "2026-10-23",
   "featureStatus": "implemented-and-verified",
   "stage": "B-complete-with-content-gaps",
   "totals": {
     "reviewed": 426,
     "descriptionsImproved": 426,
-    "photographsAdded": 208,
+    "photographsAdded": 210,
     "existingPhotographs": 6,
-    "photoGaps": 212,
+    "photoGaps": 210,
     "locationsWithVideos": 299,
     "videos": 515,
     "videoGaps": 127
@@ -700,10 +700,10 @@
       "descriptionStatus": "improved",
       "mediaReviewed": true,
       "photoResearch": {
-        "batchId": "photo-005",
+        "batchId": "cover-006",
         "status": "needs-supplied-photo",
-        "checkedOn": "2026-10-22",
-        "record": "docs/place-enrichment/photo-only/photo-005-decisions.json"
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-006-decisions.json"
       },
       "existingSummaryWords": 5,
       "reviewedOn": "2026-10-22",
@@ -800,10 +800,10 @@
       "descriptionStatus": "improved",
       "mediaReviewed": true,
       "photoResearch": {
-        "batchId": "photo-005",
+        "batchId": "cover-006",
         "status": "needs-supplied-photo",
-        "checkedOn": "2026-10-22",
-        "record": "docs/place-enrichment/photo-only/photo-005-decisions.json"
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-006-decisions.json"
       },
       "existingSummaryWords": 6,
       "reviewedOn": "2026-10-22",
@@ -906,10 +906,10 @@
       "descriptionStatus": "improved",
       "mediaReviewed": true,
       "photoResearch": {
-        "batchId": "photo-005",
+        "batchId": "cover-006",
         "status": "needs-supplied-photo",
-        "checkedOn": "2026-10-22",
-        "record": "docs/place-enrichment/photo-only/photo-005-decisions.json"
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-006-decisions.json"
       },
       "existingSummaryWords": 5,
       "reviewedOn": "2026-10-22",
@@ -937,10 +937,10 @@
       "descriptionStatus": "improved",
       "mediaReviewed": true,
       "photoResearch": {
-        "batchId": "photo-005",
+        "batchId": "cover-006",
         "status": "needs-supplied-photo",
-        "checkedOn": "2026-10-22",
-        "record": "docs/place-enrichment/photo-only/photo-005-decisions.json"
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-006-decisions.json"
       },
       "existingSummaryWords": 5,
       "reviewedOn": "2026-10-22",
@@ -1020,10 +1020,10 @@
       "descriptionStatus": "improved",
       "mediaReviewed": true,
       "photoResearch": {
-        "batchId": "photo-005",
+        "batchId": "cover-006",
         "status": "needs-supplied-photo",
-        "checkedOn": "2026-10-22",
-        "record": "docs/place-enrichment/photo-only/photo-005-decisions.json"
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-006-decisions.json"
       },
       "existingSummaryWords": 6,
       "reviewedOn": "2026-10-22",
@@ -1051,10 +1051,10 @@
       "descriptionStatus": "improved",
       "mediaReviewed": true,
       "photoResearch": {
-        "batchId": "photo-005",
+        "batchId": "cover-006",
         "status": "needs-supplied-photo",
-        "checkedOn": "2026-10-22",
-        "record": "docs/place-enrichment/photo-only/photo-005-decisions.json"
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-006-decisions.json"
       },
       "existingSummaryWords": 4,
       "reviewedOn": "2026-10-22",
@@ -1239,10 +1239,10 @@
       "descriptionStatus": "improved",
       "mediaReviewed": true,
       "photoResearch": {
-        "batchId": "photo-005",
+        "batchId": "cover-006",
         "status": "needs-supplied-photo",
-        "checkedOn": "2026-10-22",
-        "record": "docs/place-enrichment/photo-only/photo-005-decisions.json"
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-006-decisions.json"
       },
       "existingSummaryWords": 6,
       "reviewedOn": "2026-10-22",
@@ -1464,10 +1464,10 @@
       "descriptionStatus": "improved",
       "mediaReviewed": true,
       "photoResearch": {
-        "batchId": "photo-001",
+        "batchId": "cover-001",
         "status": "needs-supplied-photo",
-        "checkedOn": "2026-10-22",
-        "record": "docs/place-enrichment/photo-only/photo-001-decisions.json"
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-001-decisions.json"
       },
       "existingSummaryWords": 7,
       "reviewedOn": "2026-10-22",
@@ -1622,10 +1622,10 @@
       "descriptionStatus": "improved",
       "mediaReviewed": true,
       "photoResearch": {
-        "batchId": "photo-001",
+        "batchId": "cover-001",
         "status": "needs-supplied-photo",
-        "checkedOn": "2026-10-22",
-        "record": "docs/place-enrichment/photo-only/photo-001-decisions.json"
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-001-decisions.json"
       },
       "existingSummaryWords": 5,
       "reviewedOn": "2026-10-22",
@@ -1653,10 +1653,10 @@
       "descriptionStatus": "improved",
       "mediaReviewed": true,
       "photoResearch": {
-        "batchId": "photo-001",
+        "batchId": "cover-001",
         "status": "needs-supplied-photo",
-        "checkedOn": "2026-10-22",
-        "record": "docs/place-enrichment/photo-only/photo-001-decisions.json"
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-001-decisions.json"
       },
       "existingSummaryWords": 5,
       "reviewedOn": "2026-10-22",
@@ -1707,10 +1707,10 @@
       "descriptionStatus": "improved",
       "mediaReviewed": true,
       "photoResearch": {
-        "batchId": "photo-001",
+        "batchId": "cover-001",
         "status": "needs-supplied-photo",
-        "checkedOn": "2026-10-22",
-        "record": "docs/place-enrichment/photo-only/photo-001-decisions.json"
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-001-decisions.json"
       },
       "existingSummaryWords": 6,
       "reviewedOn": "2026-10-22",
@@ -1746,10 +1746,10 @@
       "descriptionStatus": "improved",
       "mediaReviewed": true,
       "photoResearch": {
-        "batchId": "photo-001",
+        "batchId": "cover-001",
         "status": "needs-supplied-photo",
-        "checkedOn": "2026-10-22",
-        "record": "docs/place-enrichment/photo-only/photo-001-decisions.json"
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-001-decisions.json"
       },
       "existingSummaryWords": 7,
       "reviewedOn": "2026-10-22",
@@ -1785,10 +1785,10 @@
       "descriptionStatus": "improved",
       "mediaReviewed": true,
       "photoResearch": {
-        "batchId": "photo-001",
+        "batchId": "cover-001",
         "status": "needs-supplied-photo",
-        "checkedOn": "2026-10-22",
-        "record": "docs/place-enrichment/photo-only/photo-001-decisions.json"
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-001-decisions.json"
       },
       "existingSummaryWords": 5,
       "reviewedOn": "2026-10-22",
@@ -1824,10 +1824,10 @@
       "descriptionStatus": "improved",
       "mediaReviewed": true,
       "photoResearch": {
-        "batchId": "photo-001",
+        "batchId": "cover-001",
         "status": "needs-supplied-photo",
-        "checkedOn": "2026-10-22",
-        "record": "docs/place-enrichment/photo-only/photo-001-decisions.json"
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-001-decisions.json"
       },
       "existingSummaryWords": 7,
       "reviewedOn": "2026-10-22",
@@ -1865,10 +1865,10 @@
       "descriptionStatus": "improved",
       "mediaReviewed": true,
       "photoResearch": {
-        "batchId": "photo-001",
+        "batchId": "cover-001",
         "status": "needs-supplied-photo",
-        "checkedOn": "2026-10-22",
-        "record": "docs/place-enrichment/photo-only/photo-001-decisions.json"
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-001-decisions.json"
       },
       "existingSummaryWords": 6,
       "reviewedOn": "2026-10-22",
@@ -1904,10 +1904,10 @@
       "descriptionStatus": "improved",
       "mediaReviewed": true,
       "photoResearch": {
-        "batchId": "photo-001",
+        "batchId": "cover-001",
         "status": "needs-supplied-photo",
-        "checkedOn": "2026-10-22",
-        "record": "docs/place-enrichment/photo-only/photo-001-decisions.json"
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-001-decisions.json"
       },
       "existingSummaryWords": 5,
       "reviewedOn": "2026-10-22",
@@ -1942,10 +1942,10 @@
       "descriptionStatus": "improved",
       "mediaReviewed": true,
       "photoResearch": {
-        "batchId": "photo-001",
+        "batchId": "cover-001",
         "status": "needs-supplied-photo",
-        "checkedOn": "2026-10-22",
-        "record": "docs/place-enrichment/photo-only/photo-001-decisions.json"
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-001-decisions.json"
       },
       "existingSummaryWords": 7,
       "reviewedOn": "2026-10-22",
@@ -2020,10 +2020,10 @@
       "descriptionStatus": "improved",
       "mediaReviewed": true,
       "photoResearch": {
-        "batchId": "photo-001",
+        "batchId": "cover-001",
         "status": "needs-supplied-photo",
-        "checkedOn": "2026-10-22",
-        "record": "docs/place-enrichment/photo-only/photo-001-decisions.json"
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-001-decisions.json"
       },
       "existingSummaryWords": 4,
       "reviewedOn": "2026-10-22",
@@ -2090,7 +2090,7 @@
       "destination": "Davao",
       "municipality": "Davao City",
       "description": "improved",
-      "image": "gap",
+      "image": "added",
       "videos": "metadata-reviewed",
       "videoCount": 1,
       "instagramResources": 0,
@@ -2098,10 +2098,10 @@
       "descriptionStatus": "improved",
       "mediaReviewed": true,
       "photoResearch": {
-        "batchId": "photo-003",
-        "status": "needs-supplied-photo",
-        "checkedOn": "2026-10-22",
-        "record": "docs/place-enrichment/photo-only/photo-003-decisions.json"
+        "batchId": "cover-003",
+        "status": "added",
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-003-decisions.json"
       },
       "existingSummaryWords": 7,
       "reviewedOn": "2026-10-22",
@@ -2120,7 +2120,6 @@
         }
       ],
       "notes": [
-        "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results.",
         "Video gap: Other museum videos did not clearly establish this Mabini Street venue."
       ]
     },
@@ -2210,10 +2209,10 @@
       "descriptionStatus": "improved",
       "mediaReviewed": true,
       "photoResearch": {
-        "batchId": "photo-003",
+        "batchId": "cover-003",
         "status": "needs-supplied-photo",
-        "checkedOn": "2026-10-22",
-        "record": "docs/place-enrichment/photo-only/photo-003-decisions.json"
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-003-decisions.json"
       },
       "existingSummaryWords": 5,
       "reviewedOn": "2026-10-22",
@@ -2272,10 +2271,10 @@
       "descriptionStatus": "improved",
       "mediaReviewed": true,
       "photoResearch": {
-        "batchId": "photo-003",
+        "batchId": "cover-003",
         "status": "needs-supplied-photo",
-        "checkedOn": "2026-10-22",
-        "record": "docs/place-enrichment/photo-only/photo-003-decisions.json"
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-003-decisions.json"
       },
       "existingSummaryWords": 7,
       "reviewedOn": "2026-10-22",
@@ -2439,10 +2438,10 @@
       "descriptionStatus": "improved",
       "mediaReviewed": true,
       "photoResearch": {
-        "batchId": "photo-003",
+        "batchId": "cover-003",
         "status": "needs-supplied-photo",
-        "checkedOn": "2026-10-22",
-        "record": "docs/place-enrichment/photo-only/photo-003-decisions.json"
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-003-decisions.json"
       },
       "existingSummaryWords": 5,
       "reviewedOn": "2026-10-22",
@@ -2470,10 +2469,10 @@
       "descriptionStatus": "improved",
       "mediaReviewed": true,
       "photoResearch": {
-        "batchId": "photo-005",
+        "batchId": "cover-006",
         "status": "needs-supplied-photo",
-        "checkedOn": "2026-10-22",
-        "record": "docs/place-enrichment/photo-only/photo-005-decisions.json"
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-006-decisions.json"
       },
       "existingSummaryWords": 8,
       "reviewedOn": "2026-10-22",
@@ -2510,10 +2509,10 @@
       "descriptionStatus": "improved",
       "mediaReviewed": true,
       "photoResearch": {
-        "batchId": "photo-005",
+        "batchId": "cover-006",
         "status": "needs-supplied-photo",
-        "checkedOn": "2026-10-22",
-        "record": "docs/place-enrichment/photo-only/photo-005-decisions.json"
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-006-decisions.json"
       },
       "existingSummaryWords": 10,
       "reviewedOn": "2026-10-22",
@@ -2572,10 +2571,10 @@
       "descriptionStatus": "improved",
       "mediaReviewed": true,
       "photoResearch": {
-        "batchId": "photo-005",
+        "batchId": "cover-006",
         "status": "needs-supplied-photo",
-        "checkedOn": "2026-10-22",
-        "record": "docs/place-enrichment/photo-only/photo-005-decisions.json"
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-006-decisions.json"
       },
       "existingSummaryWords": 6,
       "reviewedOn": "2026-10-22",
@@ -2603,10 +2602,10 @@
       "descriptionStatus": "improved",
       "mediaReviewed": true,
       "photoResearch": {
-        "batchId": "photo-005",
+        "batchId": "cover-006",
         "status": "needs-supplied-photo",
-        "checkedOn": "2026-10-22",
-        "record": "docs/place-enrichment/photo-only/photo-005-decisions.json"
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-006-decisions.json"
       },
       "existingSummaryWords": 8,
       "reviewedOn": "2026-10-22",
@@ -2634,10 +2633,10 @@
       "descriptionStatus": "improved",
       "mediaReviewed": true,
       "photoResearch": {
-        "batchId": "photo-005",
+        "batchId": "cover-006",
         "status": "needs-supplied-photo",
-        "checkedOn": "2026-10-22",
-        "record": "docs/place-enrichment/photo-only/photo-005-decisions.json"
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-006-decisions.json"
       },
       "existingSummaryWords": 9,
       "reviewedOn": "2026-10-22",
@@ -2665,10 +2664,10 @@
       "descriptionStatus": "improved",
       "mediaReviewed": true,
       "photoResearch": {
-        "batchId": "photo-001",
+        "batchId": "cover-001",
         "status": "needs-supplied-photo",
-        "checkedOn": "2026-10-22",
-        "record": "docs/place-enrichment/photo-only/photo-001-decisions.json"
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-001-decisions.json"
       },
       "existingSummaryWords": 7,
       "reviewedOn": "2026-10-22",
@@ -2696,10 +2695,10 @@
       "descriptionStatus": "limited-evidence",
       "mediaReviewed": true,
       "photoResearch": {
-        "batchId": "photo-001",
+        "batchId": "cover-001",
         "status": "needs-supplied-photo",
-        "checkedOn": "2026-10-22",
-        "record": "docs/place-enrichment/photo-only/photo-001-decisions.json"
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-001-decisions.json"
       },
       "existingSummaryWords": 8,
       "reviewedOn": "2026-10-22",
@@ -3395,10 +3394,10 @@
       "descriptionStatus": "improved",
       "mediaReviewed": true,
       "photoResearch": {
-        "batchId": "photo-004",
+        "batchId": "cover-004",
         "status": "needs-supplied-photo",
-        "checkedOn": "2026-10-22",
-        "record": "docs/place-enrichment/photo-only/photo-004-decisions.json"
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-004-decisions.json"
       },
       "existingSummaryWords": 7,
       "reviewedOn": "2026-10-22",
@@ -3544,10 +3543,10 @@
       "descriptionStatus": "improved",
       "mediaReviewed": true,
       "photoResearch": {
-        "batchId": "photo-004",
+        "batchId": "cover-004",
         "status": "needs-supplied-photo",
-        "checkedOn": "2026-10-22",
-        "record": "docs/place-enrichment/photo-only/photo-004-decisions.json"
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-004-decisions.json"
       },
       "existingSummaryWords": 5,
       "reviewedOn": "2026-10-22",
@@ -3648,10 +3647,10 @@
       "descriptionStatus": "improved",
       "mediaReviewed": true,
       "photoResearch": {
-        "batchId": "photo-004",
+        "batchId": "cover-004",
         "status": "needs-supplied-photo",
-        "checkedOn": "2026-10-22",
-        "record": "docs/place-enrichment/photo-only/photo-004-decisions.json"
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-004-decisions.json"
       },
       "existingSummaryWords": 8,
       "reviewedOn": "2026-10-22",
@@ -3679,10 +3678,10 @@
       "descriptionStatus": "limited-evidence",
       "mediaReviewed": true,
       "photoResearch": {
-        "batchId": "photo-004",
+        "batchId": "cover-004",
         "status": "needs-supplied-photo",
-        "checkedOn": "2026-10-22",
-        "record": "docs/place-enrichment/photo-only/photo-004-decisions.json"
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-004-decisions.json"
       },
       "existingSummaryWords": 6,
       "reviewedOn": "2026-10-22",
@@ -3859,10 +3858,10 @@
       "descriptionStatus": "improved",
       "mediaReviewed": true,
       "photoResearch": {
-        "batchId": "photo-004",
+        "batchId": "cover-005",
         "status": "needs-supplied-photo",
-        "checkedOn": "2026-10-22",
-        "record": "docs/place-enrichment/photo-only/photo-004-decisions.json"
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-005-decisions.json"
       },
       "existingSummaryWords": 8,
       "reviewedOn": "2026-10-22",
@@ -4113,10 +4112,10 @@
       "descriptionStatus": "improved",
       "mediaReviewed": true,
       "photoResearch": {
-        "batchId": "photo-002",
+        "batchId": "cover-002",
         "status": "needs-supplied-photo",
-        "checkedOn": "2026-10-22",
-        "record": "docs/place-enrichment/photo-only/photo-002-decisions.json"
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-002-decisions.json"
       },
       "existingSummaryWords": 5,
       "reviewedOn": "2026-10-22",
@@ -4151,10 +4150,10 @@
       "descriptionStatus": "improved",
       "mediaReviewed": true,
       "photoResearch": {
-        "batchId": "photo-002",
+        "batchId": "cover-002",
         "status": "needs-supplied-photo",
-        "checkedOn": "2026-10-22",
-        "record": "docs/place-enrichment/photo-only/photo-002-decisions.json"
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-002-decisions.json"
       },
       "existingSummaryWords": 6,
       "reviewedOn": "2026-10-22",
@@ -4226,10 +4225,10 @@
       "descriptionStatus": "improved",
       "mediaReviewed": true,
       "photoResearch": {
-        "batchId": "photo-002",
+        "batchId": "cover-002",
         "status": "needs-supplied-photo",
-        "checkedOn": "2026-10-22",
-        "record": "docs/place-enrichment/photo-only/photo-002-decisions.json"
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-002-decisions.json"
       },
       "existingSummaryWords": 7,
       "reviewedOn": "2026-10-22",
@@ -4266,10 +4265,10 @@
       "descriptionStatus": "improved",
       "mediaReviewed": true,
       "photoResearch": {
-        "batchId": "photo-002",
+        "batchId": "cover-002",
         "status": "needs-supplied-photo",
-        "checkedOn": "2026-10-22",
-        "record": "docs/place-enrichment/photo-only/photo-002-decisions.json"
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-002-decisions.json"
       },
       "existingSummaryWords": 6,
       "reviewedOn": "2026-10-22",
@@ -4305,10 +4304,10 @@
       "descriptionStatus": "improved",
       "mediaReviewed": true,
       "photoResearch": {
-        "batchId": "photo-002",
+        "batchId": "cover-002",
         "status": "needs-supplied-photo",
-        "checkedOn": "2026-10-22",
-        "record": "docs/place-enrichment/photo-only/photo-002-decisions.json"
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-002-decisions.json"
       },
       "existingSummaryWords": 6,
       "reviewedOn": "2026-10-22",
@@ -4337,10 +4336,10 @@
       "descriptionStatus": "improved",
       "mediaReviewed": true,
       "photoResearch": {
-        "batchId": "photo-002",
+        "batchId": "cover-002",
         "status": "needs-supplied-photo",
-        "checkedOn": "2026-10-22",
-        "record": "docs/place-enrichment/photo-only/photo-002-decisions.json"
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-002-decisions.json"
       },
       "existingSummaryWords": 6,
       "reviewedOn": "2026-10-22",
@@ -4369,10 +4368,10 @@
       "descriptionStatus": "improved",
       "mediaReviewed": true,
       "photoResearch": {
-        "batchId": "photo-002",
+        "batchId": "cover-002",
         "status": "needs-supplied-photo",
-        "checkedOn": "2026-10-22",
-        "record": "docs/place-enrichment/photo-only/photo-002-decisions.json"
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-002-decisions.json"
       },
       "existingSummaryWords": 6,
       "reviewedOn": "2026-10-22",
@@ -4400,10 +4399,10 @@
       "descriptionStatus": "improved",
       "mediaReviewed": true,
       "photoResearch": {
-        "batchId": "photo-002",
+        "batchId": "cover-002",
         "status": "needs-supplied-photo",
-        "checkedOn": "2026-10-22",
-        "record": "docs/place-enrichment/photo-only/photo-002-decisions.json"
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-002-decisions.json"
       },
       "existingSummaryWords": 5,
       "reviewedOn": "2026-10-22",
@@ -4431,10 +4430,10 @@
       "descriptionStatus": "improved",
       "mediaReviewed": true,
       "photoResearch": {
-        "batchId": "photo-002",
+        "batchId": "cover-002",
         "status": "needs-supplied-photo",
-        "checkedOn": "2026-10-22",
-        "record": "docs/place-enrichment/photo-only/photo-002-decisions.json"
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-002-decisions.json"
       },
       "existingSummaryWords": 8,
       "reviewedOn": "2026-10-22",
@@ -4694,10 +4693,10 @@
       "descriptionStatus": "improved",
       "mediaReviewed": true,
       "photoResearch": {
-        "batchId": "photo-006",
+        "batchId": "cover-007",
         "status": "needs-supplied-photo",
-        "checkedOn": "2026-10-22",
-        "record": "docs/place-enrichment/photo-only/photo-006-decisions.json"
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-007-decisions.json"
       },
       "existingSummaryWords": 6,
       "reviewedOn": "2026-10-22",
@@ -4954,10 +4953,10 @@
       "descriptionStatus": "improved",
       "mediaReviewed": true,
       "photoResearch": {
-        "batchId": "photo-006",
+        "batchId": "cover-008",
         "status": "needs-supplied-photo",
-        "checkedOn": "2026-10-22",
-        "record": "docs/place-enrichment/photo-only/photo-006-decisions.json"
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-008-decisions.json"
       },
       "existingSummaryWords": 9,
       "reviewedOn": "2026-10-22",
@@ -5057,10 +5056,10 @@
       "descriptionStatus": "improved",
       "mediaReviewed": true,
       "photoResearch": {
-        "batchId": "photo-002",
+        "batchId": "cover-003",
         "status": "needs-supplied-photo",
-        "checkedOn": "2026-10-22",
-        "record": "docs/place-enrichment/photo-only/photo-002-decisions.json"
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-003-decisions.json"
       },
       "existingSummaryWords": 8,
       "reviewedOn": "2026-10-22",
@@ -5089,10 +5088,10 @@
       "descriptionStatus": "improved",
       "mediaReviewed": true,
       "photoResearch": {
-        "batchId": "photo-002",
+        "batchId": "cover-003",
         "status": "needs-supplied-photo",
-        "checkedOn": "2026-10-22",
-        "record": "docs/place-enrichment/photo-only/photo-002-decisions.json"
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-003-decisions.json"
       },
       "existingSummaryWords": 6,
       "reviewedOn": "2026-10-22",
@@ -5121,10 +5120,10 @@
       "descriptionStatus": "improved",
       "mediaReviewed": true,
       "photoResearch": {
-        "batchId": "photo-002",
+        "batchId": "cover-003",
         "status": "needs-supplied-photo",
-        "checkedOn": "2026-10-22",
-        "record": "docs/place-enrichment/photo-only/photo-002-decisions.json"
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-003-decisions.json"
       },
       "existingSummaryWords": 9,
       "reviewedOn": "2026-10-22",
@@ -5154,10 +5153,10 @@
       "descriptionStatus": "improved",
       "mediaReviewed": true,
       "photoResearch": {
-        "batchId": "photo-002",
+        "batchId": "cover-003",
         "status": "needs-supplied-photo",
-        "checkedOn": "2026-10-22",
-        "record": "docs/place-enrichment/photo-only/photo-002-decisions.json"
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-003-decisions.json"
       },
       "existingSummaryWords": 8,
       "reviewedOn": "2026-10-22",
@@ -5584,7 +5583,7 @@
       "destination": "Sagada",
       "municipality": "Sagada",
       "description": "improved",
-      "image": "gap",
+      "image": "added",
       "videos": "metadata-reviewed",
       "videoCount": 2,
       "instagramResources": 0,
@@ -5592,10 +5591,10 @@
       "descriptionStatus": "improved",
       "mediaReviewed": true,
       "photoResearch": {
-        "batchId": "photo-006",
-        "status": "needs-supplied-photo",
-        "checkedOn": "2026-10-22",
-        "record": "docs/place-enrichment/photo-only/photo-006-decisions.json"
+        "batchId": "cover-009",
+        "status": "added",
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-009-decisions.json"
       },
       "existingSummaryWords": 6,
       "reviewedOn": "2026-10-22",
@@ -5606,8 +5605,7 @@
       ],
       "sourceReachabilityIssues": [],
       "notes": [
-        "An ambiguously named Alumani photograph was not accepted as the Ampacao viewpoint.",
-        "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results."
+        "An ambiguously named Alumani photograph was not accepted as the Ampacao viewpoint."
       ]
     },
     {
@@ -5624,10 +5622,10 @@
       "descriptionStatus": "improved",
       "mediaReviewed": true,
       "photoResearch": {
-        "batchId": "photo-006",
+        "batchId": "cover-009",
         "status": "needs-supplied-photo",
-        "checkedOn": "2026-10-22",
-        "record": "docs/place-enrichment/photo-only/photo-006-decisions.json"
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-009-decisions.json"
       },
       "existingSummaryWords": 9,
       "reviewedOn": "2026-10-22",
@@ -5926,10 +5924,10 @@
       "descriptionStatus": "improved",
       "mediaReviewed": true,
       "photoResearch": {
-        "batchId": "photo-004",
+        "batchId": "cover-005",
         "status": "needs-supplied-photo",
-        "checkedOn": "2026-10-22",
-        "record": "docs/place-enrichment/photo-only/photo-004-decisions.json"
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-005-decisions.json"
       },
       "existingSummaryWords": 6,
       "reviewedOn": "2026-10-22",
@@ -6540,10 +6538,10 @@
       "descriptionStatus": "improved",
       "mediaReviewed": true,
       "photoResearch": {
-        "batchId": "photo-005",
+        "batchId": "cover-006",
         "status": "needs-supplied-photo",
-        "checkedOn": "2026-10-22",
-        "record": "docs/place-enrichment/photo-only/photo-005-decisions.json"
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-006-decisions.json"
       },
       "existingSummaryWords": 10,
       "reviewedOn": "2026-10-22",
@@ -6571,10 +6569,10 @@
       "descriptionStatus": "improved",
       "mediaReviewed": true,
       "photoResearch": {
-        "batchId": "photo-005",
+        "batchId": "cover-006",
         "status": "needs-supplied-photo",
-        "checkedOn": "2026-10-22",
-        "record": "docs/place-enrichment/photo-only/photo-005-decisions.json"
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-006-decisions.json"
       },
       "existingSummaryWords": 8,
       "reviewedOn": "2026-10-22",
@@ -6602,10 +6600,10 @@
       "descriptionStatus": "improved",
       "mediaReviewed": true,
       "photoResearch": {
-        "batchId": "photo-005",
+        "batchId": "cover-006",
         "status": "needs-supplied-photo",
-        "checkedOn": "2026-10-22",
-        "record": "docs/place-enrichment/photo-only/photo-005-decisions.json"
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-006-decisions.json"
       },
       "existingSummaryWords": 7,
       "reviewedOn": "2026-10-22",
@@ -6775,10 +6773,10 @@
       "descriptionStatus": "improved",
       "mediaReviewed": true,
       "photoResearch": {
-        "batchId": "photo-006",
+        "batchId": "cover-008",
         "status": "needs-supplied-photo",
-        "checkedOn": "2026-10-22",
-        "record": "docs/place-enrichment/photo-only/photo-006-decisions.json"
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-008-decisions.json"
       },
       "existingSummaryWords": 9,
       "reviewedOn": "2026-10-22",
@@ -6815,10 +6813,10 @@
       "descriptionStatus": "limited-evidence",
       "mediaReviewed": true,
       "photoResearch": {
-        "batchId": "photo-006",
+        "batchId": "cover-008",
         "status": "needs-supplied-photo",
-        "checkedOn": "2026-10-22",
-        "record": "docs/place-enrichment/photo-only/photo-006-decisions.json"
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-008-decisions.json"
       },
       "existingSummaryWords": 8,
       "reviewedOn": "2026-10-22",
@@ -6855,10 +6853,10 @@
       "descriptionStatus": "improved",
       "mediaReviewed": true,
       "photoResearch": {
-        "batchId": "photo-006",
+        "batchId": "cover-008",
         "status": "needs-supplied-photo",
-        "checkedOn": "2026-10-22",
-        "record": "docs/place-enrichment/photo-only/photo-006-decisions.json"
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-008-decisions.json"
       },
       "existingSummaryWords": 8,
       "reviewedOn": "2026-10-22",
@@ -6911,10 +6909,10 @@
       "descriptionStatus": "improved",
       "mediaReviewed": true,
       "photoResearch": {
-        "batchId": "photo-004",
+        "batchId": "cover-005",
         "status": "needs-supplied-photo",
-        "checkedOn": "2026-10-22",
-        "record": "docs/place-enrichment/photo-only/photo-004-decisions.json"
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-005-decisions.json"
       },
       "existingSummaryWords": 8,
       "reviewedOn": "2026-10-22",
@@ -6942,10 +6940,10 @@
       "descriptionStatus": "improved",
       "mediaReviewed": true,
       "photoResearch": {
-        "batchId": "photo-004",
+        "batchId": "cover-005",
         "status": "needs-supplied-photo",
-        "checkedOn": "2026-10-22",
-        "record": "docs/place-enrichment/photo-only/photo-004-decisions.json"
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-005-decisions.json"
       },
       "existingSummaryWords": 8,
       "reviewedOn": "2026-10-22",
@@ -6973,10 +6971,10 @@
       "descriptionStatus": "improved",
       "mediaReviewed": true,
       "photoResearch": {
-        "batchId": "photo-004",
+        "batchId": "cover-005",
         "status": "needs-supplied-photo",
-        "checkedOn": "2026-10-22",
-        "record": "docs/place-enrichment/photo-only/photo-004-decisions.json"
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-005-decisions.json"
       },
       "existingSummaryWords": 8,
       "reviewedOn": "2026-10-22",
@@ -7027,10 +7025,10 @@
       "descriptionStatus": "improved",
       "mediaReviewed": true,
       "photoResearch": {
-        "batchId": "photo-004",
+        "batchId": "cover-005",
         "status": "needs-supplied-photo",
-        "checkedOn": "2026-10-22",
-        "record": "docs/place-enrichment/photo-only/photo-004-decisions.json"
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-005-decisions.json"
       },
       "existingSummaryWords": 11,
       "reviewedOn": "2026-10-22",
@@ -7060,10 +7058,10 @@
       "descriptionStatus": "improved",
       "mediaReviewed": true,
       "photoResearch": {
-        "batchId": "photo-004",
+        "batchId": "cover-005",
         "status": "needs-supplied-photo",
-        "checkedOn": "2026-10-22",
-        "record": "docs/place-enrichment/photo-only/photo-004-decisions.json"
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-005-decisions.json"
       },
       "existingSummaryWords": 7,
       "reviewedOn": "2026-10-22",
@@ -7092,10 +7090,10 @@
       "descriptionStatus": "limited-evidence",
       "mediaReviewed": true,
       "photoResearch": {
-        "batchId": "photo-004",
+        "batchId": "cover-005",
         "status": "needs-supplied-photo",
-        "checkedOn": "2026-10-22",
-        "record": "docs/place-enrichment/photo-only/photo-004-decisions.json"
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-005-decisions.json"
       },
       "existingSummaryWords": 8,
       "reviewedOn": "2026-10-22",
@@ -7124,10 +7122,10 @@
       "descriptionStatus": "improved",
       "mediaReviewed": true,
       "photoResearch": {
-        "batchId": "photo-004",
+        "batchId": "cover-005",
         "status": "needs-supplied-photo",
-        "checkedOn": "2026-10-22",
-        "record": "docs/place-enrichment/photo-only/photo-004-decisions.json"
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-005-decisions.json"
       },
       "existingSummaryWords": 7,
       "reviewedOn": "2026-10-22",
@@ -7179,10 +7177,10 @@
       "descriptionStatus": "improved",
       "mediaReviewed": true,
       "photoResearch": {
-        "batchId": "photo-006",
+        "batchId": "cover-008",
         "status": "needs-supplied-photo",
-        "checkedOn": "2026-10-22",
-        "record": "docs/place-enrichment/photo-only/photo-006-decisions.json"
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-008-decisions.json"
       },
       "existingSummaryWords": 8,
       "reviewedOn": "2026-10-22",
@@ -7396,10 +7394,10 @@
       "descriptionStatus": "improved",
       "mediaReviewed": true,
       "photoResearch": {
-        "batchId": "photo-003",
+        "batchId": "cover-003",
         "status": "needs-supplied-photo",
-        "checkedOn": "2026-10-22",
-        "record": "docs/place-enrichment/photo-only/photo-003-decisions.json"
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-003-decisions.json"
       },
       "existingSummaryWords": 6,
       "reviewedOn": "2026-10-22",
@@ -7428,10 +7426,10 @@
       "descriptionStatus": "improved",
       "mediaReviewed": true,
       "photoResearch": {
-        "batchId": "photo-003",
+        "batchId": "cover-003",
         "status": "needs-supplied-photo",
-        "checkedOn": "2026-10-22",
-        "record": "docs/place-enrichment/photo-only/photo-003-decisions.json"
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-003-decisions.json"
       },
       "existingSummaryWords": 7,
       "reviewedOn": "2026-10-22",
@@ -7470,10 +7468,10 @@
       "descriptionStatus": "improved",
       "mediaReviewed": true,
       "photoResearch": {
-        "batchId": "photo-003",
+        "batchId": "cover-003",
         "status": "needs-supplied-photo",
-        "checkedOn": "2026-10-22",
-        "record": "docs/place-enrichment/photo-only/photo-003-decisions.json"
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-003-decisions.json"
       },
       "existingSummaryWords": 5,
       "reviewedOn": "2026-10-22",
@@ -7504,10 +7502,10 @@
       "descriptionStatus": "improved",
       "mediaReviewed": true,
       "photoResearch": {
-        "batchId": "photo-003",
+        "batchId": "cover-003",
         "status": "needs-supplied-photo",
-        "checkedOn": "2026-10-22",
-        "record": "docs/place-enrichment/photo-only/photo-003-decisions.json"
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-003-decisions.json"
       },
       "existingSummaryWords": 7,
       "reviewedOn": "2026-10-22",
@@ -7538,10 +7536,10 @@
       "descriptionStatus": "improved",
       "mediaReviewed": true,
       "photoResearch": {
-        "batchId": "photo-003",
+        "batchId": "cover-003",
         "status": "needs-supplied-photo",
-        "checkedOn": "2026-10-22",
-        "record": "docs/place-enrichment/photo-only/photo-003-decisions.json"
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-003-decisions.json"
       },
       "existingSummaryWords": 6,
       "reviewedOn": "2026-10-22",
@@ -7653,10 +7651,10 @@
       "descriptionStatus": "improved",
       "mediaReviewed": true,
       "photoResearch": {
-        "batchId": "photo-003",
+        "batchId": "cover-003",
         "status": "needs-supplied-photo",
-        "checkedOn": "2026-10-22",
-        "record": "docs/place-enrichment/photo-only/photo-003-decisions.json"
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-003-decisions.json"
       },
       "existingSummaryWords": 10,
       "reviewedOn": "2026-10-22",
@@ -7686,10 +7684,10 @@
       "descriptionStatus": "improved",
       "mediaReviewed": true,
       "photoResearch": {
-        "batchId": "photo-003",
+        "batchId": "cover-003",
         "status": "needs-supplied-photo",
-        "checkedOn": "2026-10-22",
-        "record": "docs/place-enrichment/photo-only/photo-003-decisions.json"
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-003-decisions.json"
       },
       "existingSummaryWords": 7,
       "reviewedOn": "2026-10-22",
@@ -7717,10 +7715,10 @@
       "descriptionStatus": "improved",
       "mediaReviewed": true,
       "photoResearch": {
-        "batchId": "photo-003",
+        "batchId": "cover-003",
         "status": "needs-supplied-photo",
-        "checkedOn": "2026-10-22",
-        "record": "docs/place-enrichment/photo-only/photo-003-decisions.json"
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-003-decisions.json"
       },
       "existingSummaryWords": 7,
       "reviewedOn": "2026-10-22",
@@ -7748,10 +7746,10 @@
       "descriptionStatus": "improved",
       "mediaReviewed": true,
       "photoResearch": {
-        "batchId": "photo-003",
+        "batchId": "cover-003",
         "status": "needs-supplied-photo",
-        "checkedOn": "2026-10-22",
-        "record": "docs/place-enrichment/photo-only/photo-003-decisions.json"
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-003-decisions.json"
       },
       "existingSummaryWords": 9,
       "reviewedOn": "2026-10-22",
@@ -7779,10 +7777,10 @@
       "descriptionStatus": "improved",
       "mediaReviewed": true,
       "photoResearch": {
-        "batchId": "photo-003",
+        "batchId": "cover-003",
         "status": "needs-supplied-photo",
-        "checkedOn": "2026-10-22",
-        "record": "docs/place-enrichment/photo-only/photo-003-decisions.json"
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-003-decisions.json"
       },
       "existingSummaryWords": 8,
       "reviewedOn": "2026-10-22",
@@ -7810,10 +7808,10 @@
       "descriptionStatus": "improved",
       "mediaReviewed": true,
       "photoResearch": {
-        "batchId": "photo-003",
+        "batchId": "cover-003",
         "status": "needs-supplied-photo",
-        "checkedOn": "2026-10-22",
-        "record": "docs/place-enrichment/photo-only/photo-003-decisions.json"
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-003-decisions.json"
       },
       "existingSummaryWords": 9,
       "reviewedOn": "2026-10-22",
@@ -7841,10 +7839,10 @@
       "descriptionStatus": "improved",
       "mediaReviewed": true,
       "photoResearch": {
-        "batchId": "photo-001",
+        "batchId": "cover-001",
         "status": "needs-supplied-photo",
-        "checkedOn": "2026-10-22",
-        "record": "docs/place-enrichment/photo-only/photo-001-decisions.json"
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-001-decisions.json"
       },
       "existingSummaryWords": 9,
       "reviewedOn": "2026-10-22",
@@ -7873,10 +7871,10 @@
       "descriptionStatus": "improved",
       "mediaReviewed": true,
       "photoResearch": {
-        "batchId": "photo-001",
+        "batchId": "cover-001",
         "status": "needs-supplied-photo",
-        "checkedOn": "2026-10-22",
-        "record": "docs/place-enrichment/photo-only/photo-001-decisions.json"
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-001-decisions.json"
       },
       "existingSummaryWords": 7,
       "reviewedOn": "2026-10-22",
@@ -7905,10 +7903,10 @@
       "descriptionStatus": "improved",
       "mediaReviewed": true,
       "photoResearch": {
-        "batchId": "photo-001",
+        "batchId": "cover-001",
         "status": "needs-supplied-photo",
-        "checkedOn": "2026-10-22",
-        "record": "docs/place-enrichment/photo-only/photo-001-decisions.json"
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-001-decisions.json"
       },
       "existingSummaryWords": 6,
       "reviewedOn": "2026-10-22",
@@ -7937,10 +7935,10 @@
       "descriptionStatus": "improved",
       "mediaReviewed": true,
       "photoResearch": {
-        "batchId": "photo-001",
+        "batchId": "cover-001",
         "status": "needs-supplied-photo",
-        "checkedOn": "2026-10-22",
-        "record": "docs/place-enrichment/photo-only/photo-001-decisions.json"
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-001-decisions.json"
       },
       "existingSummaryWords": 10,
       "reviewedOn": "2026-10-22",
@@ -7969,10 +7967,10 @@
       "descriptionStatus": "improved",
       "mediaReviewed": true,
       "photoResearch": {
-        "batchId": "photo-001",
+        "batchId": "cover-001",
         "status": "needs-supplied-photo",
-        "checkedOn": "2026-10-22",
-        "record": "docs/place-enrichment/photo-only/photo-001-decisions.json"
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-001-decisions.json"
       },
       "existingSummaryWords": 9,
       "reviewedOn": "2026-10-22",
@@ -8001,10 +7999,10 @@
       "descriptionStatus": "improved",
       "mediaReviewed": true,
       "photoResearch": {
-        "batchId": "photo-001",
+        "batchId": "cover-001",
         "status": "needs-supplied-photo",
-        "checkedOn": "2026-10-22",
-        "record": "docs/place-enrichment/photo-only/photo-001-decisions.json"
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-001-decisions.json"
       },
       "existingSummaryWords": 9,
       "reviewedOn": "2026-10-22",
@@ -8033,10 +8031,10 @@
       "descriptionStatus": "improved",
       "mediaReviewed": true,
       "photoResearch": {
-        "batchId": "photo-001",
+        "batchId": "cover-001",
         "status": "needs-supplied-photo",
-        "checkedOn": "2026-10-22",
-        "record": "docs/place-enrichment/photo-only/photo-001-decisions.json"
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-001-decisions.json"
       },
       "existingSummaryWords": 7,
       "reviewedOn": "2026-10-22",
@@ -8065,10 +8063,10 @@
       "descriptionStatus": "improved",
       "mediaReviewed": true,
       "photoResearch": {
-        "batchId": "photo-001",
+        "batchId": "cover-001",
         "status": "needs-supplied-photo",
-        "checkedOn": "2026-10-22",
-        "record": "docs/place-enrichment/photo-only/photo-001-decisions.json"
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-001-decisions.json"
       },
       "existingSummaryWords": 8,
       "reviewedOn": "2026-10-22",
@@ -8097,10 +8095,10 @@
       "descriptionStatus": "improved",
       "mediaReviewed": true,
       "photoResearch": {
-        "batchId": "photo-001",
+        "batchId": "cover-001",
         "status": "needs-supplied-photo",
-        "checkedOn": "2026-10-22",
-        "record": "docs/place-enrichment/photo-only/photo-001-decisions.json"
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-001-decisions.json"
       },
       "existingSummaryWords": 9,
       "reviewedOn": "2026-10-22",
@@ -8129,10 +8127,10 @@
       "descriptionStatus": "improved",
       "mediaReviewed": true,
       "photoResearch": {
-        "batchId": "photo-001",
+        "batchId": "cover-001",
         "status": "needs-supplied-photo",
-        "checkedOn": "2026-10-22",
-        "record": "docs/place-enrichment/photo-only/photo-001-decisions.json"
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-001-decisions.json"
       },
       "existingSummaryWords": 9,
       "reviewedOn": "2026-10-22",
@@ -8161,10 +8159,10 @@
       "descriptionStatus": "improved",
       "mediaReviewed": true,
       "photoResearch": {
-        "batchId": "photo-003",
+        "batchId": "cover-004",
         "status": "needs-supplied-photo",
-        "checkedOn": "2026-10-22",
-        "record": "docs/place-enrichment/photo-only/photo-003-decisions.json"
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-004-decisions.json"
       },
       "existingSummaryWords": 7,
       "reviewedOn": "2026-10-22",
@@ -8193,10 +8191,10 @@
       "descriptionStatus": "improved",
       "mediaReviewed": true,
       "photoResearch": {
-        "batchId": "photo-003",
+        "batchId": "cover-004",
         "status": "needs-supplied-photo",
-        "checkedOn": "2026-10-22",
-        "record": "docs/place-enrichment/photo-only/photo-003-decisions.json"
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-004-decisions.json"
       },
       "existingSummaryWords": 7,
       "reviewedOn": "2026-10-22",
@@ -8288,10 +8286,10 @@
       "descriptionStatus": "improved",
       "mediaReviewed": true,
       "photoResearch": {
-        "batchId": "photo-003",
+        "batchId": "cover-004",
         "status": "needs-supplied-photo",
-        "checkedOn": "2026-10-22",
-        "record": "docs/place-enrichment/photo-only/photo-003-decisions.json"
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-004-decisions.json"
       },
       "existingSummaryWords": 9,
       "reviewedOn": "2026-10-22",
@@ -8319,10 +8317,10 @@
       "descriptionStatus": "improved",
       "mediaReviewed": true,
       "photoResearch": {
-        "batchId": "photo-003",
+        "batchId": "cover-004",
         "status": "needs-supplied-photo",
-        "checkedOn": "2026-10-22",
-        "record": "docs/place-enrichment/photo-only/photo-003-decisions.json"
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-004-decisions.json"
       },
       "existingSummaryWords": 7,
       "reviewedOn": "2026-10-22",
@@ -8351,10 +8349,10 @@
       "descriptionStatus": "improved",
       "mediaReviewed": true,
       "photoResearch": {
-        "batchId": "photo-003",
+        "batchId": "cover-004",
         "status": "needs-supplied-photo",
-        "checkedOn": "2026-10-22",
-        "record": "docs/place-enrichment/photo-only/photo-003-decisions.json"
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-004-decisions.json"
       },
       "existingSummaryWords": 8,
       "reviewedOn": "2026-10-22",
@@ -8383,10 +8381,10 @@
       "descriptionStatus": "improved",
       "mediaReviewed": true,
       "photoResearch": {
-        "batchId": "photo-003",
+        "batchId": "cover-004",
         "status": "needs-supplied-photo",
-        "checkedOn": "2026-10-22",
-        "record": "docs/place-enrichment/photo-only/photo-003-decisions.json"
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-004-decisions.json"
       },
       "existingSummaryWords": 6,
       "reviewedOn": "2026-10-22",
@@ -8415,10 +8413,10 @@
       "descriptionStatus": "improved",
       "mediaReviewed": true,
       "photoResearch": {
-        "batchId": "photo-003",
+        "batchId": "cover-004",
         "status": "needs-supplied-photo",
-        "checkedOn": "2026-10-22",
-        "record": "docs/place-enrichment/photo-only/photo-003-decisions.json"
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-004-decisions.json"
       },
       "existingSummaryWords": 7,
       "reviewedOn": "2026-10-22",
@@ -8447,10 +8445,10 @@
       "descriptionStatus": "improved",
       "mediaReviewed": true,
       "photoResearch": {
-        "batchId": "photo-004",
+        "batchId": "cover-004",
         "status": "needs-supplied-photo",
-        "checkedOn": "2026-10-22",
-        "record": "docs/place-enrichment/photo-only/photo-004-decisions.json"
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-004-decisions.json"
       },
       "existingSummaryWords": 7,
       "reviewedOn": "2026-10-22",
@@ -8478,10 +8476,10 @@
       "descriptionStatus": "improved",
       "mediaReviewed": true,
       "photoResearch": {
-        "batchId": "photo-004",
+        "batchId": "cover-004",
         "status": "needs-supplied-photo",
-        "checkedOn": "2026-10-22",
-        "record": "docs/place-enrichment/photo-only/photo-004-decisions.json"
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-004-decisions.json"
       },
       "existingSummaryWords": 6,
       "reviewedOn": "2026-10-22",
@@ -8510,10 +8508,10 @@
       "descriptionStatus": "improved",
       "mediaReviewed": true,
       "photoResearch": {
-        "batchId": "photo-004",
+        "batchId": "cover-004",
         "status": "needs-supplied-photo",
-        "checkedOn": "2026-10-22",
-        "record": "docs/place-enrichment/photo-only/photo-004-decisions.json"
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-004-decisions.json"
       },
       "existingSummaryWords": 7,
       "reviewedOn": "2026-10-22",
@@ -8571,10 +8569,10 @@
       "descriptionStatus": "improved",
       "mediaReviewed": true,
       "photoResearch": {
-        "batchId": "photo-004",
+        "batchId": "cover-004",
         "status": "needs-supplied-photo",
-        "checkedOn": "2026-10-22",
-        "record": "docs/place-enrichment/photo-only/photo-004-decisions.json"
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-004-decisions.json"
       },
       "existingSummaryWords": 9,
       "reviewedOn": "2026-10-22",
@@ -8603,10 +8601,10 @@
       "descriptionStatus": "limited-evidence",
       "mediaReviewed": true,
       "photoResearch": {
-        "batchId": "photo-004",
+        "batchId": "cover-004",
         "status": "needs-supplied-photo",
-        "checkedOn": "2026-10-22",
-        "record": "docs/place-enrichment/photo-only/photo-004-decisions.json"
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-004-decisions.json"
       },
       "existingSummaryWords": 7,
       "reviewedOn": "2026-10-22",
@@ -8635,10 +8633,10 @@
       "descriptionStatus": "improved",
       "mediaReviewed": true,
       "photoResearch": {
-        "batchId": "photo-002",
+        "batchId": "cover-002",
         "status": "needs-supplied-photo",
-        "checkedOn": "2026-10-22",
-        "record": "docs/place-enrichment/photo-only/photo-002-decisions.json"
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-002-decisions.json"
       },
       "existingSummaryWords": 7,
       "reviewedOn": "2026-10-22",
@@ -8667,10 +8665,10 @@
       "descriptionStatus": "improved",
       "mediaReviewed": true,
       "photoResearch": {
-        "batchId": "photo-002",
+        "batchId": "cover-002",
         "status": "needs-supplied-photo",
-        "checkedOn": "2026-10-22",
-        "record": "docs/place-enrichment/photo-only/photo-002-decisions.json"
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-002-decisions.json"
       },
       "existingSummaryWords": 8,
       "reviewedOn": "2026-10-22",
@@ -8698,10 +8696,10 @@
       "descriptionStatus": "improved",
       "mediaReviewed": true,
       "photoResearch": {
-        "batchId": "photo-002",
+        "batchId": "cover-002",
         "status": "needs-supplied-photo",
-        "checkedOn": "2026-10-22",
-        "record": "docs/place-enrichment/photo-only/photo-002-decisions.json"
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-002-decisions.json"
       },
       "existingSummaryWords": 6,
       "reviewedOn": "2026-10-22",
@@ -8729,10 +8727,10 @@
       "descriptionStatus": "improved",
       "mediaReviewed": true,
       "photoResearch": {
-        "batchId": "photo-002",
+        "batchId": "cover-002",
         "status": "needs-supplied-photo",
-        "checkedOn": "2026-10-22",
-        "record": "docs/place-enrichment/photo-only/photo-002-decisions.json"
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-002-decisions.json"
       },
       "existingSummaryWords": 5,
       "reviewedOn": "2026-10-22",
@@ -8760,10 +8758,10 @@
       "descriptionStatus": "improved",
       "mediaReviewed": true,
       "photoResearch": {
-        "batchId": "photo-002",
+        "batchId": "cover-002",
         "status": "needs-supplied-photo",
-        "checkedOn": "2026-10-22",
-        "record": "docs/place-enrichment/photo-only/photo-002-decisions.json"
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-002-decisions.json"
       },
       "existingSummaryWords": 8,
       "reviewedOn": "2026-10-22",
@@ -8791,10 +8789,10 @@
       "descriptionStatus": "improved",
       "mediaReviewed": true,
       "photoResearch": {
-        "batchId": "photo-002",
+        "batchId": "cover-002",
         "status": "needs-supplied-photo",
-        "checkedOn": "2026-10-22",
-        "record": "docs/place-enrichment/photo-only/photo-002-decisions.json"
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-002-decisions.json"
       },
       "existingSummaryWords": 7,
       "reviewedOn": "2026-10-22",
@@ -8823,10 +8821,10 @@
       "descriptionStatus": "improved",
       "mediaReviewed": true,
       "photoResearch": {
-        "batchId": "photo-002",
+        "batchId": "cover-002",
         "status": "needs-supplied-photo",
-        "checkedOn": "2026-10-22",
-        "record": "docs/place-enrichment/photo-only/photo-002-decisions.json"
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-002-decisions.json"
       },
       "existingSummaryWords": 8,
       "reviewedOn": "2026-10-22",
@@ -8854,10 +8852,10 @@
       "descriptionStatus": "improved",
       "mediaReviewed": true,
       "photoResearch": {
-        "batchId": "photo-002",
+        "batchId": "cover-002",
         "status": "needs-supplied-photo",
-        "checkedOn": "2026-10-22",
-        "record": "docs/place-enrichment/photo-only/photo-002-decisions.json"
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-002-decisions.json"
       },
       "existingSummaryWords": 7,
       "reviewedOn": "2026-10-22",
@@ -8886,10 +8884,10 @@
       "descriptionStatus": "improved",
       "mediaReviewed": true,
       "photoResearch": {
-        "batchId": "photo-002",
+        "batchId": "cover-002",
         "status": "needs-supplied-photo",
-        "checkedOn": "2026-10-22",
-        "record": "docs/place-enrichment/photo-only/photo-002-decisions.json"
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-002-decisions.json"
       },
       "existingSummaryWords": 6,
       "reviewedOn": "2026-10-22",
@@ -8917,10 +8915,10 @@
       "descriptionStatus": "improved",
       "mediaReviewed": true,
       "photoResearch": {
-        "batchId": "photo-002",
+        "batchId": "cover-002",
         "status": "needs-supplied-photo",
-        "checkedOn": "2026-10-22",
-        "record": "docs/place-enrichment/photo-only/photo-002-decisions.json"
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-002-decisions.json"
       },
       "existingSummaryWords": 8,
       "reviewedOn": "2026-10-22",
@@ -8948,10 +8946,10 @@
       "descriptionStatus": "improved",
       "mediaReviewed": true,
       "photoResearch": {
-        "batchId": "photo-002",
+        "batchId": "cover-003",
         "status": "needs-supplied-photo",
-        "checkedOn": "2026-10-22",
-        "record": "docs/place-enrichment/photo-only/photo-002-decisions.json"
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-003-decisions.json"
       },
       "existingSummaryWords": 8,
       "reviewedOn": "2026-10-22",
@@ -9055,10 +9053,10 @@
       "descriptionStatus": "improved",
       "mediaReviewed": true,
       "photoResearch": {
-        "batchId": "photo-006",
+        "batchId": "cover-007",
         "status": "needs-supplied-photo",
-        "checkedOn": "2026-10-22",
-        "record": "docs/place-enrichment/photo-only/photo-006-decisions.json"
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-007-decisions.json"
       },
       "existingSummaryWords": 10,
       "reviewedOn": "2026-10-22",
@@ -9087,10 +9085,10 @@
       "descriptionStatus": "improved",
       "mediaReviewed": true,
       "photoResearch": {
-        "batchId": "photo-006",
+        "batchId": "cover-007",
         "status": "needs-supplied-photo",
-        "checkedOn": "2026-10-22",
-        "record": "docs/place-enrichment/photo-only/photo-006-decisions.json"
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-007-decisions.json"
       },
       "existingSummaryWords": 8,
       "reviewedOn": "2026-10-22",
@@ -9120,10 +9118,10 @@
       "descriptionStatus": "improved",
       "mediaReviewed": true,
       "photoResearch": {
-        "batchId": "photo-006",
+        "batchId": "cover-007",
         "status": "needs-supplied-photo",
-        "checkedOn": "2026-10-22",
-        "record": "docs/place-enrichment/photo-only/photo-006-decisions.json"
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-007-decisions.json"
       },
       "existingSummaryWords": 8,
       "reviewedOn": "2026-10-22",
@@ -9204,10 +9202,10 @@
       "descriptionStatus": "improved",
       "mediaReviewed": true,
       "photoResearch": {
-        "batchId": "photo-006",
+        "batchId": "cover-007",
         "status": "needs-supplied-photo",
-        "checkedOn": "2026-10-22",
-        "record": "docs/place-enrichment/photo-only/photo-006-decisions.json"
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-007-decisions.json"
       },
       "existingSummaryWords": 7,
       "reviewedOn": "2026-10-22",
@@ -9339,10 +9337,10 @@
       "descriptionStatus": "improved",
       "mediaReviewed": true,
       "photoResearch": {
-        "batchId": "photo-006",
+        "batchId": "cover-007",
         "status": "needs-supplied-photo",
-        "checkedOn": "2026-10-22",
-        "record": "docs/place-enrichment/photo-only/photo-006-decisions.json"
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-007-decisions.json"
       },
       "existingSummaryWords": 7,
       "reviewedOn": "2026-10-22",
@@ -9377,10 +9375,10 @@
       "descriptionStatus": "limited-evidence",
       "mediaReviewed": true,
       "photoResearch": {
-        "batchId": "photo-004",
+        "batchId": "cover-005",
         "status": "needs-supplied-photo",
-        "checkedOn": "2026-10-22",
-        "record": "docs/place-enrichment/photo-only/photo-004-decisions.json"
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-005-decisions.json"
       },
       "existingSummaryWords": 11,
       "reviewedOn": "2026-10-22",
@@ -9417,10 +9415,10 @@
       "descriptionStatus": "improved",
       "mediaReviewed": true,
       "photoResearch": {
-        "batchId": "photo-004",
+        "batchId": "cover-005",
         "status": "needs-supplied-photo",
-        "checkedOn": "2026-10-22",
-        "record": "docs/place-enrichment/photo-only/photo-004-decisions.json"
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-005-decisions.json"
       },
       "existingSummaryWords": 9,
       "reviewedOn": "2026-10-22",
@@ -9457,10 +9455,10 @@
       "descriptionStatus": "limited-evidence",
       "mediaReviewed": true,
       "photoResearch": {
-        "batchId": "photo-004",
+        "batchId": "cover-005",
         "status": "needs-supplied-photo",
-        "checkedOn": "2026-10-22",
-        "record": "docs/place-enrichment/photo-only/photo-004-decisions.json"
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-005-decisions.json"
       },
       "existingSummaryWords": 8,
       "reviewedOn": "2026-10-22",
@@ -9497,10 +9495,10 @@
       "descriptionStatus": "limited-evidence",
       "mediaReviewed": true,
       "photoResearch": {
-        "batchId": "photo-004",
+        "batchId": "cover-005",
         "status": "needs-supplied-photo",
-        "checkedOn": "2026-10-22",
-        "record": "docs/place-enrichment/photo-only/photo-004-decisions.json"
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-005-decisions.json"
       },
       "existingSummaryWords": 9,
       "reviewedOn": "2026-10-22",
@@ -9537,10 +9535,10 @@
       "descriptionStatus": "improved",
       "mediaReviewed": true,
       "photoResearch": {
-        "batchId": "photo-005",
+        "batchId": "cover-005",
         "status": "needs-supplied-photo",
-        "checkedOn": "2026-10-22",
-        "record": "docs/place-enrichment/photo-only/photo-005-decisions.json"
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-005-decisions.json"
       },
       "existingSummaryWords": 9,
       "reviewedOn": "2026-10-22",
@@ -9568,10 +9566,10 @@
       "descriptionStatus": "improved",
       "mediaReviewed": true,
       "photoResearch": {
-        "batchId": "photo-005",
+        "batchId": "cover-005",
         "status": "needs-supplied-photo",
-        "checkedOn": "2026-10-22",
-        "record": "docs/place-enrichment/photo-only/photo-005-decisions.json"
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-005-decisions.json"
       },
       "existingSummaryWords": 8,
       "reviewedOn": "2026-10-22",
@@ -9601,10 +9599,10 @@
       "descriptionStatus": "improved",
       "mediaReviewed": true,
       "photoResearch": {
-        "batchId": "photo-005",
+        "batchId": "cover-005",
         "status": "needs-supplied-photo",
-        "checkedOn": "2026-10-22",
-        "record": "docs/place-enrichment/photo-only/photo-005-decisions.json"
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-005-decisions.json"
       },
       "existingSummaryWords": 5,
       "reviewedOn": "2026-10-22",
@@ -9762,10 +9760,10 @@
       "descriptionStatus": "improved",
       "mediaReviewed": true,
       "photoResearch": {
-        "batchId": "photo-005",
+        "batchId": "cover-005",
         "status": "needs-supplied-photo",
-        "checkedOn": "2026-10-22",
-        "record": "docs/place-enrichment/photo-only/photo-005-decisions.json"
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-005-decisions.json"
       },
       "existingSummaryWords": 10,
       "reviewedOn": "2026-10-22",
@@ -9932,6 +9930,12 @@
       "instagramConfirmedEmbeds": 0,
       "descriptionStatus": null,
       "mediaReviewed": false,
+      "photoResearch": {
+        "batchId": "cover-006",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-006-decisions.json"
+      },
       "foodResearch": {
         "batchId": "food-001",
         "description": "reviewed",
@@ -9970,6 +9974,12 @@
       "instagramConfirmedEmbeds": 0,
       "descriptionStatus": null,
       "mediaReviewed": false,
+      "photoResearch": {
+        "batchId": "cover-006",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-006-decisions.json"
+      },
       "foodResearch": {
         "batchId": "food-001",
         "description": "reviewed",
@@ -10008,6 +10018,12 @@
       "instagramConfirmedEmbeds": 0,
       "descriptionStatus": null,
       "mediaReviewed": false,
+      "photoResearch": {
+        "batchId": "cover-006",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-006-decisions.json"
+      },
       "foodResearch": {
         "batchId": "food-001",
         "description": "reviewed",
@@ -10047,6 +10063,12 @@
       "instagramConfirmedEmbeds": 0,
       "descriptionStatus": null,
       "mediaReviewed": false,
+      "photoResearch": {
+        "batchId": "cover-006",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-006-decisions.json"
+      },
       "foodResearch": {
         "batchId": "food-001",
         "description": "reviewed",
@@ -10124,6 +10146,12 @@
       "instagramConfirmedEmbeds": 0,
       "descriptionStatus": null,
       "mediaReviewed": false,
+      "photoResearch": {
+        "batchId": "cover-006",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-006-decisions.json"
+      },
       "foodResearch": {
         "batchId": "food-001",
         "description": "reviewed",
@@ -10162,6 +10190,12 @@
       "instagramConfirmedEmbeds": 0,
       "descriptionStatus": null,
       "mediaReviewed": false,
+      "photoResearch": {
+        "batchId": "cover-008",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-008-decisions.json"
+      },
       "foodResearch": {
         "batchId": "food-001",
         "description": "reviewed",
@@ -10200,6 +10234,12 @@
       "instagramConfirmedEmbeds": 0,
       "descriptionStatus": null,
       "mediaReviewed": false,
+      "photoResearch": {
+        "batchId": "cover-008",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-008-decisions.json"
+      },
       "foodResearch": {
         "batchId": "food-001",
         "description": "reviewed",
@@ -10238,6 +10278,12 @@
       "instagramConfirmedEmbeds": 0,
       "descriptionStatus": null,
       "mediaReviewed": false,
+      "photoResearch": {
+        "batchId": "cover-006",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-006-decisions.json"
+      },
       "foodResearch": {
         "batchId": "food-002",
         "description": "reviewed",
@@ -10276,6 +10322,12 @@
       "instagramConfirmedEmbeds": 0,
       "descriptionStatus": null,
       "mediaReviewed": false,
+      "photoResearch": {
+        "batchId": "cover-006",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-006-decisions.json"
+      },
       "foodResearch": {
         "batchId": "food-002",
         "description": "reviewed",
@@ -10314,6 +10366,12 @@
       "instagramConfirmedEmbeds": 0,
       "descriptionStatus": null,
       "mediaReviewed": false,
+      "photoResearch": {
+        "batchId": "cover-006",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-006-decisions.json"
+      },
       "foodResearch": {
         "batchId": "food-002",
         "description": "reviewed",
@@ -10352,6 +10410,12 @@
       "instagramConfirmedEmbeds": 0,
       "descriptionStatus": null,
       "mediaReviewed": false,
+      "photoResearch": {
+        "batchId": "cover-007",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-007-decisions.json"
+      },
       "foodResearch": {
         "batchId": "food-002",
         "description": "reviewed",
@@ -10390,6 +10454,12 @@
       "instagramConfirmedEmbeds": 2,
       "descriptionStatus": null,
       "mediaReviewed": false,
+      "photoResearch": {
+        "batchId": "cover-007",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-007-decisions.json"
+      },
       "foodResearch": {
         "batchId": "food-002",
         "description": "reviewed",
@@ -10428,6 +10498,12 @@
       "instagramConfirmedEmbeds": 0,
       "descriptionStatus": null,
       "mediaReviewed": false,
+      "photoResearch": {
+        "batchId": "cover-007",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-007-decisions.json"
+      },
       "foodResearch": {
         "batchId": "food-002",
         "description": "reviewed",
@@ -10466,6 +10542,12 @@
       "instagramConfirmedEmbeds": 0,
       "descriptionStatus": null,
       "mediaReviewed": false,
+      "photoResearch": {
+        "batchId": "cover-007",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-007-decisions.json"
+      },
       "foodResearch": {
         "batchId": "food-002",
         "description": "reviewed",
@@ -10504,6 +10586,12 @@
       "instagramConfirmedEmbeds": 0,
       "descriptionStatus": null,
       "mediaReviewed": false,
+      "photoResearch": {
+        "batchId": "cover-007",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-007-decisions.json"
+      },
       "foodResearch": {
         "batchId": "food-002",
         "description": "reviewed",
@@ -10542,6 +10630,12 @@
       "instagramConfirmedEmbeds": 0,
       "descriptionStatus": null,
       "mediaReviewed": false,
+      "photoResearch": {
+        "batchId": "cover-007",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-007-decisions.json"
+      },
       "foodResearch": {
         "batchId": "food-002",
         "description": "reviewed",
@@ -10580,6 +10674,12 @@
       "instagramConfirmedEmbeds": 0,
       "descriptionStatus": null,
       "mediaReviewed": false,
+      "photoResearch": {
+        "batchId": "cover-007",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-007-decisions.json"
+      },
       "foodResearch": {
         "batchId": "food-002",
         "description": "reviewed",
@@ -10618,6 +10718,12 @@
       "instagramConfirmedEmbeds": 0,
       "descriptionStatus": null,
       "mediaReviewed": false,
+      "photoResearch": {
+        "batchId": "cover-007",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-007-decisions.json"
+      },
       "foodResearch": {
         "batchId": "food-002",
         "description": "reviewed",
@@ -10656,6 +10762,12 @@
       "instagramConfirmedEmbeds": 0,
       "descriptionStatus": null,
       "mediaReviewed": false,
+      "photoResearch": {
+        "batchId": "cover-007",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-007-decisions.json"
+      },
       "foodResearch": {
         "batchId": "food-002",
         "description": "reviewed",
@@ -10694,6 +10806,12 @@
       "instagramConfirmedEmbeds": 0,
       "descriptionStatus": null,
       "mediaReviewed": false,
+      "photoResearch": {
+        "batchId": "cover-007",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-007-decisions.json"
+      },
       "foodResearch": {
         "batchId": "food-002",
         "description": "reviewed",
@@ -10732,6 +10850,12 @@
       "instagramConfirmedEmbeds": 0,
       "descriptionStatus": null,
       "mediaReviewed": false,
+      "photoResearch": {
+        "batchId": "cover-007",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-007-decisions.json"
+      },
       "foodResearch": {
         "batchId": "food-002",
         "description": "reviewed",
@@ -10770,6 +10894,12 @@
       "instagramConfirmedEmbeds": 0,
       "descriptionStatus": null,
       "mediaReviewed": false,
+      "photoResearch": {
+        "batchId": "cover-007",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-007-decisions.json"
+      },
       "foodResearch": {
         "batchId": "food-002",
         "description": "reviewed",
@@ -10808,6 +10938,12 @@
       "instagramConfirmedEmbeds": 0,
       "descriptionStatus": null,
       "mediaReviewed": false,
+      "photoResearch": {
+        "batchId": "cover-009",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-009-decisions.json"
+      },
       "foodResearch": {
         "batchId": "food-002",
         "description": "reviewed",
@@ -10847,6 +10983,12 @@
       "instagramConfirmedEmbeds": 0,
       "descriptionStatus": null,
       "mediaReviewed": false,
+      "photoResearch": {
+        "batchId": "cover-009",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-009-decisions.json"
+      },
       "foodResearch": {
         "batchId": "food-002",
         "description": "reviewed",
@@ -10924,6 +11066,12 @@
       "instagramConfirmedEmbeds": 0,
       "descriptionStatus": null,
       "mediaReviewed": false,
+      "photoResearch": {
+        "batchId": "cover-009",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-009-decisions.json"
+      },
       "foodResearch": {
         "batchId": "food-002",
         "description": "reviewed",
@@ -10962,6 +11110,12 @@
       "instagramConfirmedEmbeds": 0,
       "descriptionStatus": null,
       "mediaReviewed": false,
+      "photoResearch": {
+        "batchId": "cover-009",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-009-decisions.json"
+      },
       "foodResearch": {
         "batchId": "food-002",
         "description": "reviewed",
@@ -11000,6 +11154,12 @@
       "instagramConfirmedEmbeds": 0,
       "descriptionStatus": null,
       "mediaReviewed": false,
+      "photoResearch": {
+        "batchId": "cover-009",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-009-decisions.json"
+      },
       "foodResearch": {
         "batchId": "food-002",
         "description": "reviewed",
@@ -11038,6 +11198,12 @@
       "instagramConfirmedEmbeds": 0,
       "descriptionStatus": null,
       "mediaReviewed": false,
+      "photoResearch": {
+        "batchId": "cover-009",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-009-decisions.json"
+      },
       "foodResearch": {
         "batchId": "food-002",
         "description": "reviewed",
@@ -11076,6 +11242,12 @@
       "instagramConfirmedEmbeds": 0,
       "descriptionStatus": null,
       "mediaReviewed": false,
+      "photoResearch": {
+        "batchId": "cover-009",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-009-decisions.json"
+      },
       "foodResearch": {
         "batchId": "food-003",
         "description": "reviewed",
@@ -11115,6 +11287,12 @@
       "instagramConfirmedEmbeds": 0,
       "descriptionStatus": null,
       "mediaReviewed": false,
+      "photoResearch": {
+        "batchId": "cover-009",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-009-decisions.json"
+      },
       "foodResearch": {
         "batchId": "food-003",
         "description": "reviewed",
@@ -11153,6 +11331,12 @@
       "instagramConfirmedEmbeds": 0,
       "descriptionStatus": null,
       "mediaReviewed": false,
+      "photoResearch": {
+        "batchId": "cover-009",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-009-decisions.json"
+      },
       "foodResearch": {
         "batchId": "food-003",
         "description": "reviewed",
@@ -11191,6 +11375,12 @@
       "instagramConfirmedEmbeds": 0,
       "descriptionStatus": null,
       "mediaReviewed": false,
+      "photoResearch": {
+        "batchId": "cover-009",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-009-decisions.json"
+      },
       "foodResearch": {
         "batchId": "food-003",
         "description": "reviewed",
@@ -11229,6 +11419,12 @@
       "instagramConfirmedEmbeds": 0,
       "descriptionStatus": null,
       "mediaReviewed": false,
+      "photoResearch": {
+        "batchId": "cover-009",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-009-decisions.json"
+      },
       "foodResearch": {
         "batchId": "food-003",
         "description": "reviewed",
@@ -11267,6 +11463,12 @@
       "instagramConfirmedEmbeds": 0,
       "descriptionStatus": null,
       "mediaReviewed": false,
+      "photoResearch": {
+        "batchId": "cover-009",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-009-decisions.json"
+      },
       "foodResearch": {
         "batchId": "food-003",
         "description": "reviewed",
@@ -11305,6 +11507,12 @@
       "instagramConfirmedEmbeds": 0,
       "descriptionStatus": null,
       "mediaReviewed": false,
+      "photoResearch": {
+        "batchId": "cover-009",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-009-decisions.json"
+      },
       "foodResearch": {
         "batchId": "food-003",
         "description": "reviewed",
@@ -11343,6 +11551,12 @@
       "instagramConfirmedEmbeds": 0,
       "descriptionStatus": null,
       "mediaReviewed": false,
+      "photoResearch": {
+        "batchId": "cover-008",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-008-decisions.json"
+      },
       "foodResearch": {
         "batchId": "food-003",
         "description": "reviewed",
@@ -11382,6 +11596,12 @@
       "instagramConfirmedEmbeds": 0,
       "descriptionStatus": null,
       "mediaReviewed": false,
+      "photoResearch": {
+        "batchId": "cover-008",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-008-decisions.json"
+      },
       "foodResearch": {
         "batchId": "food-003",
         "description": "reviewed",
@@ -11421,6 +11641,12 @@
       "instagramConfirmedEmbeds": 0,
       "descriptionStatus": null,
       "mediaReviewed": false,
+      "photoResearch": {
+        "batchId": "cover-008",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-008-decisions.json"
+      },
       "foodResearch": {
         "batchId": "food-003",
         "description": "reviewed",
@@ -11459,6 +11685,12 @@
       "instagramConfirmedEmbeds": 0,
       "descriptionStatus": null,
       "mediaReviewed": false,
+      "photoResearch": {
+        "batchId": "cover-008",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-008-decisions.json"
+      },
       "foodResearch": {
         "batchId": "food-003",
         "description": "reviewed",
@@ -11497,6 +11729,12 @@
       "instagramConfirmedEmbeds": 0,
       "descriptionStatus": null,
       "mediaReviewed": false,
+      "photoResearch": {
+        "batchId": "cover-008",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-008-decisions.json"
+      },
       "foodResearch": {
         "batchId": "food-003",
         "description": "reviewed",
@@ -11535,6 +11773,12 @@
       "instagramConfirmedEmbeds": 0,
       "descriptionStatus": null,
       "mediaReviewed": false,
+      "photoResearch": {
+        "batchId": "cover-008",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-008-decisions.json"
+      },
       "foodResearch": {
         "batchId": "food-003",
         "description": "reviewed",
@@ -11574,6 +11818,12 @@
       "instagramConfirmedEmbeds": 0,
       "descriptionStatus": null,
       "mediaReviewed": false,
+      "photoResearch": {
+        "batchId": "cover-008",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-008-decisions.json"
+      },
       "foodResearch": {
         "batchId": "food-003",
         "description": "reviewed",
@@ -11612,6 +11862,12 @@
       "instagramConfirmedEmbeds": 0,
       "descriptionStatus": null,
       "mediaReviewed": false,
+      "photoResearch": {
+        "batchId": "cover-008",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-008-decisions.json"
+      },
       "foodResearch": {
         "batchId": "food-003",
         "description": "reviewed",
@@ -11650,6 +11906,12 @@
       "instagramConfirmedEmbeds": 0,
       "descriptionStatus": null,
       "mediaReviewed": false,
+      "photoResearch": {
+        "batchId": "cover-008",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-008-decisions.json"
+      },
       "foodResearch": {
         "batchId": "food-003",
         "description": "reviewed",
@@ -11688,6 +11950,12 @@
       "instagramConfirmedEmbeds": 0,
       "descriptionStatus": null,
       "mediaReviewed": false,
+      "photoResearch": {
+        "batchId": "cover-008",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-008-decisions.json"
+      },
       "foodResearch": {
         "batchId": "food-003",
         "description": "reviewed",
@@ -11726,6 +11994,12 @@
       "instagramConfirmedEmbeds": 0,
       "descriptionStatus": null,
       "mediaReviewed": false,
+      "photoResearch": {
+        "batchId": "cover-008",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-008-decisions.json"
+      },
       "foodResearch": {
         "batchId": "food-003",
         "description": "reviewed",
@@ -11764,6 +12038,12 @@
       "instagramConfirmedEmbeds": 0,
       "descriptionStatus": null,
       "mediaReviewed": false,
+      "photoResearch": {
+        "batchId": "cover-008",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-008-decisions.json"
+      },
       "foodResearch": {
         "batchId": "food-003",
         "description": "reviewed",
@@ -11802,6 +12082,12 @@
       "instagramConfirmedEmbeds": 0,
       "descriptionStatus": null,
       "mediaReviewed": false,
+      "photoResearch": {
+        "batchId": "cover-008",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-008-decisions.json"
+      },
       "foodResearch": {
         "batchId": "food-003",
         "description": "reviewed",
@@ -11840,6 +12126,12 @@
       "instagramConfirmedEmbeds": 0,
       "descriptionStatus": null,
       "mediaReviewed": false,
+      "photoResearch": {
+        "batchId": "cover-008",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-008-decisions.json"
+      },
       "foodResearch": {
         "batchId": "food-003",
         "description": "reviewed",
@@ -11878,6 +12170,12 @@
       "instagramConfirmedEmbeds": 0,
       "descriptionStatus": null,
       "mediaReviewed": false,
+      "photoResearch": {
+        "batchId": "cover-008",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-008-decisions.json"
+      },
       "foodResearch": {
         "batchId": "food-003",
         "description": "reviewed",
@@ -11916,6 +12214,12 @@
       "instagramConfirmedEmbeds": 0,
       "descriptionStatus": null,
       "mediaReviewed": false,
+      "photoResearch": {
+        "batchId": "cover-008",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-008-decisions.json"
+      },
       "foodResearch": {
         "batchId": "food-003",
         "description": "reviewed",
@@ -11954,6 +12258,12 @@
       "instagramConfirmedEmbeds": 0,
       "descriptionStatus": null,
       "mediaReviewed": false,
+      "photoResearch": {
+        "batchId": "cover-008",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-008-decisions.json"
+      },
       "foodResearch": {
         "batchId": "food-003",
         "description": "reviewed",
@@ -11992,6 +12302,12 @@
       "instagramConfirmedEmbeds": 1,
       "descriptionStatus": null,
       "mediaReviewed": false,
+      "photoResearch": {
+        "batchId": "cover-001",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-001-decisions.json"
+      },
       "foodResearch": {
         "batchId": "food-004",
         "description": "reviewed",
@@ -12030,6 +12346,12 @@
       "instagramConfirmedEmbeds": 0,
       "descriptionStatus": null,
       "mediaReviewed": false,
+      "photoResearch": {
+        "batchId": "cover-002",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-002-decisions.json"
+      },
       "foodResearch": {
         "batchId": "food-004",
         "description": "reviewed",
@@ -12069,6 +12391,12 @@
       "instagramConfirmedEmbeds": 0,
       "descriptionStatus": null,
       "mediaReviewed": false,
+      "photoResearch": {
+        "batchId": "cover-002",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-002-decisions.json"
+      },
       "foodResearch": {
         "batchId": "food-004",
         "description": "reviewed",
@@ -12107,6 +12435,12 @@
       "instagramConfirmedEmbeds": 0,
       "descriptionStatus": null,
       "mediaReviewed": false,
+      "photoResearch": {
+        "batchId": "cover-002",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-002-decisions.json"
+      },
       "foodResearch": {
         "batchId": "food-004",
         "description": "reviewed",
@@ -12145,6 +12479,12 @@
       "instagramConfirmedEmbeds": 0,
       "descriptionStatus": null,
       "mediaReviewed": false,
+      "photoResearch": {
+        "batchId": "cover-002",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-002-decisions.json"
+      },
       "foodResearch": {
         "batchId": "food-004",
         "description": "reviewed",
@@ -12183,6 +12523,12 @@
       "instagramConfirmedEmbeds": 0,
       "descriptionStatus": null,
       "mediaReviewed": false,
+      "photoResearch": {
+        "batchId": "cover-002",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-002-decisions.json"
+      },
       "foodResearch": {
         "batchId": "food-004",
         "description": "reviewed",
@@ -12221,6 +12567,12 @@
       "instagramConfirmedEmbeds": 0,
       "descriptionStatus": null,
       "mediaReviewed": false,
+      "photoResearch": {
+        "batchId": "cover-005",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-005-decisions.json"
+      },
       "foodResearch": {
         "batchId": "food-004",
         "description": "reviewed",
@@ -12259,6 +12611,12 @@
       "instagramConfirmedEmbeds": 0,
       "descriptionStatus": null,
       "mediaReviewed": false,
+      "photoResearch": {
+        "batchId": "cover-005",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-005-decisions.json"
+      },
       "foodResearch": {
         "batchId": "food-004",
         "description": "reviewed",
@@ -12297,6 +12655,12 @@
       "instagramConfirmedEmbeds": 0,
       "descriptionStatus": null,
       "mediaReviewed": false,
+      "photoResearch": {
+        "batchId": "cover-005",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-005-decisions.json"
+      },
       "foodResearch": {
         "batchId": "food-004",
         "description": "reviewed",
@@ -12335,6 +12699,12 @@
       "instagramConfirmedEmbeds": 0,
       "descriptionStatus": null,
       "mediaReviewed": false,
+      "photoResearch": {
+        "batchId": "cover-005",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-005-decisions.json"
+      },
       "foodResearch": {
         "batchId": "food-004",
         "description": "reviewed",
@@ -12373,6 +12743,12 @@
       "instagramConfirmedEmbeds": 0,
       "descriptionStatus": null,
       "mediaReviewed": false,
+      "photoResearch": {
+        "batchId": "cover-005",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-005-decisions.json"
+      },
       "foodResearch": {
         "batchId": "food-004",
         "description": "reviewed",
@@ -12411,6 +12787,12 @@
       "instagramConfirmedEmbeds": 0,
       "descriptionStatus": null,
       "mediaReviewed": false,
+      "photoResearch": {
+        "batchId": "cover-005",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-005-decisions.json"
+      },
       "foodResearch": {
         "batchId": "food-004",
         "description": "reviewed",
@@ -12449,6 +12831,12 @@
       "instagramConfirmedEmbeds": 0,
       "descriptionStatus": null,
       "mediaReviewed": false,
+      "photoResearch": {
+        "batchId": "cover-003",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-003-decisions.json"
+      },
       "foodResearch": {
         "batchId": "food-004",
         "description": "reviewed",
@@ -12487,6 +12875,12 @@
       "instagramConfirmedEmbeds": 0,
       "descriptionStatus": null,
       "mediaReviewed": false,
+      "photoResearch": {
+        "batchId": "cover-003",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-003-decisions.json"
+      },
       "foodResearch": {
         "batchId": "food-004",
         "description": "reviewed",
@@ -12564,6 +12958,12 @@
       "instagramConfirmedEmbeds": 0,
       "descriptionStatus": null,
       "mediaReviewed": false,
+      "photoResearch": {
+        "batchId": "cover-003",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-003-decisions.json"
+      },
       "foodResearch": {
         "batchId": "food-004",
         "description": "reviewed",
@@ -12603,6 +13003,12 @@
       "instagramConfirmedEmbeds": 0,
       "descriptionStatus": null,
       "mediaReviewed": false,
+      "photoResearch": {
+        "batchId": "cover-003",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-003-decisions.json"
+      },
       "foodResearch": {
         "batchId": "food-004",
         "description": "reviewed",
@@ -12642,6 +13048,12 @@
       "instagramConfirmedEmbeds": 0,
       "descriptionStatus": null,
       "mediaReviewed": false,
+      "photoResearch": {
+        "batchId": "cover-005",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-005-decisions.json"
+      },
       "foodResearch": {
         "batchId": "food-004",
         "description": "reviewed",
@@ -12680,6 +13092,12 @@
       "instagramConfirmedEmbeds": 0,
       "descriptionStatus": null,
       "mediaReviewed": false,
+      "photoResearch": {
+        "batchId": "cover-006",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-006-decisions.json"
+      },
       "foodResearch": {
         "batchId": "food-004",
         "description": "reviewed",
@@ -12757,6 +13175,12 @@
       "instagramConfirmedEmbeds": 0,
       "descriptionStatus": null,
       "mediaReviewed": false,
+      "photoResearch": {
+        "batchId": "cover-009",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-009-decisions.json"
+      },
       "foodResearch": {
         "batchId": "food-004",
         "description": "reviewed",
@@ -12795,6 +13219,12 @@
       "instagramConfirmedEmbeds": 0,
       "descriptionStatus": null,
       "mediaReviewed": false,
+      "photoResearch": {
+        "batchId": "cover-009",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-009-decisions.json"
+      },
       "foodResearch": {
         "batchId": "food-004",
         "description": "reviewed",
@@ -12834,6 +13264,12 @@
       "instagramConfirmedEmbeds": 0,
       "descriptionStatus": null,
       "mediaReviewed": false,
+      "photoResearch": {
+        "batchId": "cover-009",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-009-decisions.json"
+      },
       "foodResearch": {
         "batchId": "food-004",
         "description": "reviewed",
@@ -12872,6 +13308,12 @@
       "instagramConfirmedEmbeds": 0,
       "descriptionStatus": null,
       "mediaReviewed": false,
+      "photoResearch": {
+        "batchId": "cover-009",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-009-decisions.json"
+      },
       "foodResearch": {
         "batchId": "food-004",
         "description": "reviewed",
@@ -12911,6 +13353,12 @@
       "instagramConfirmedEmbeds": 0,
       "descriptionStatus": null,
       "mediaReviewed": false,
+      "photoResearch": {
+        "batchId": "cover-009",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-009-decisions.json"
+      },
       "foodResearch": {
         "batchId": "food-004",
         "description": "reviewed",
@@ -12949,6 +13397,12 @@
       "instagramConfirmedEmbeds": 0,
       "descriptionStatus": null,
       "mediaReviewed": false,
+      "photoResearch": {
+        "batchId": "cover-004",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-004-decisions.json"
+      },
       "foodResearch": {
         "batchId": "food-005",
         "description": "reviewed",
@@ -12987,6 +13441,12 @@
       "instagramConfirmedEmbeds": 0,
       "descriptionStatus": null,
       "mediaReviewed": false,
+      "photoResearch": {
+        "batchId": "cover-004",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-004-decisions.json"
+      },
       "foodResearch": {
         "batchId": "food-005",
         "description": "reviewed",
@@ -13025,6 +13485,12 @@
       "instagramConfirmedEmbeds": 1,
       "descriptionStatus": null,
       "mediaReviewed": false,
+      "photoResearch": {
+        "batchId": "cover-004",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-004-decisions.json"
+      },
       "foodResearch": {
         "batchId": "food-005",
         "description": "reviewed",
@@ -13063,6 +13529,12 @@
       "instagramConfirmedEmbeds": 0,
       "descriptionStatus": null,
       "mediaReviewed": false,
+      "photoResearch": {
+        "batchId": "cover-004",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-004-decisions.json"
+      },
       "foodResearch": {
         "batchId": "food-005",
         "description": "reviewed",
@@ -13101,6 +13573,12 @@
       "instagramConfirmedEmbeds": 0,
       "descriptionStatus": null,
       "mediaReviewed": false,
+      "photoResearch": {
+        "batchId": "cover-004",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-004-decisions.json"
+      },
       "foodResearch": {
         "batchId": "food-005",
         "description": "reviewed",
@@ -13139,6 +13617,12 @@
       "instagramConfirmedEmbeds": 0,
       "descriptionStatus": null,
       "mediaReviewed": false,
+      "photoResearch": {
+        "batchId": "cover-004",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-004-decisions.json"
+      },
       "foodResearch": {
         "batchId": "food-005",
         "description": "reviewed",
@@ -13177,6 +13661,12 @@
       "instagramConfirmedEmbeds": 0,
       "descriptionStatus": null,
       "mediaReviewed": false,
+      "photoResearch": {
+        "batchId": "cover-004",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-004-decisions.json"
+      },
       "foodResearch": {
         "batchId": "food-005",
         "description": "reviewed",
@@ -13215,6 +13705,12 @@
       "instagramConfirmedEmbeds": 0,
       "descriptionStatus": null,
       "mediaReviewed": false,
+      "photoResearch": {
+        "batchId": "cover-004",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-004-decisions.json"
+      },
       "foodResearch": {
         "batchId": "food-005",
         "description": "reviewed",
@@ -13253,6 +13749,12 @@
       "instagramConfirmedEmbeds": 0,
       "descriptionStatus": null,
       "mediaReviewed": false,
+      "photoResearch": {
+        "batchId": "cover-007",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-007-decisions.json"
+      },
       "foodResearch": {
         "batchId": "food-005",
         "description": "reviewed",
@@ -13291,6 +13793,12 @@
       "instagramConfirmedEmbeds": 0,
       "descriptionStatus": null,
       "mediaReviewed": false,
+      "photoResearch": {
+        "batchId": "cover-007",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-007-decisions.json"
+      },
       "foodResearch": {
         "batchId": "food-005",
         "description": "reviewed",
@@ -13329,6 +13837,12 @@
       "instagramConfirmedEmbeds": 0,
       "descriptionStatus": null,
       "mediaReviewed": false,
+      "photoResearch": {
+        "batchId": "cover-007",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-007-decisions.json"
+      },
       "foodResearch": {
         "batchId": "food-005",
         "description": "reviewed",
@@ -13367,6 +13881,12 @@
       "instagramConfirmedEmbeds": 0,
       "descriptionStatus": null,
       "mediaReviewed": false,
+      "photoResearch": {
+        "batchId": "cover-007",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-007-decisions.json"
+      },
       "foodResearch": {
         "batchId": "food-005",
         "description": "reviewed",
@@ -13405,6 +13925,12 @@
       "instagramConfirmedEmbeds": 0,
       "descriptionStatus": null,
       "mediaReviewed": false,
+      "photoResearch": {
+        "batchId": "cover-007",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-007-decisions.json"
+      },
       "foodResearch": {
         "batchId": "food-005",
         "description": "reviewed",
@@ -13481,6 +14007,12 @@
       "instagramConfirmedEmbeds": 0,
       "descriptionStatus": null,
       "mediaReviewed": false,
+      "photoResearch": {
+        "batchId": "cover-007",
+        "status": "needs-supplied-photo",
+        "checkedOn": "2026-10-23",
+        "record": "docs/place-enrichment/cover-completion/cover-007-decisions.json"
+      },
       "foodResearch": {
         "batchId": "food-005",
         "description": "reviewed",
@@ -13528,7 +14060,7 @@
   },
   "outstandingImplementation": [],
   "remainingWork": [
-    "123 places still need an exact-place photograph with documented reuse rights; the targeted 148-place pass added 25. See docs/place-enrichment/photo-only/.",
+    "210 current locations still need an approved exact-place photograph or a resolved source/download review. The historical 148-place pass and this 212-gap follow-up remain separate; see docs/place-enrichment/cover-completion/.",
     "33 places have no selected video; some other places have one resource rather than two or three. Relevance is not inferred to meet a quota.",
     "Many overviews are shorter than 100 words because supporting detail was limited; nine entries explicitly record limited-evidence status.",
     "Review unavailable sources when access returns. The old Davao CPDO Sectoral Studies URL is now 404; the official current download index is https://cpdoapps.davaocity.gov.ph/requirements, but the replacement PDF could not be reviewed in this pass.",
@@ -13693,5 +14225,144 @@
     "linkOnly": 0,
     "progress": "public/data/instagram-progress.json",
     "photoCoverageIndependent": true
+  },
+  "coverPhotoPass": {
+    "updatedOn": "2026-10-23",
+    "startingGaps": 212,
+    "startingPhotos": 214,
+    "reviewed": 212,
+    "added": 2,
+    "photos": 216,
+    "remainingGaps": 210,
+    "status": "reviewed-with-unresolved-photo-gaps",
+    "coverage": [
+      {
+        "destination": "Siargao",
+        "total": 36,
+        "photos": 7,
+        "added": 0,
+        "gaps": 29
+      },
+      {
+        "destination": "Boracay",
+        "total": 28,
+        "photos": 8,
+        "added": 0,
+        "gaps": 20
+      },
+      {
+        "destination": "Baguio",
+        "total": 35,
+        "photos": 16,
+        "added": 0,
+        "gaps": 19
+      },
+      {
+        "destination": "Davao",
+        "total": 39,
+        "photos": 16,
+        "added": 1,
+        "gaps": 23
+      },
+      {
+        "destination": "Bohol",
+        "total": 36,
+        "photos": 18,
+        "added": 0,
+        "gaps": 18
+      },
+      {
+        "destination": "Batanes",
+        "total": 32,
+        "photos": 21,
+        "added": 0,
+        "gaps": 11
+      },
+      {
+        "destination": "Palawan",
+        "total": 66,
+        "photos": 31,
+        "added": 0,
+        "gaps": 35
+      },
+      {
+        "destination": "Iloilo",
+        "total": 38,
+        "photos": 26,
+        "added": 0,
+        "gaps": 12
+      },
+      {
+        "destination": "Manila",
+        "total": 49,
+        "photos": 31,
+        "added": 0,
+        "gaps": 18
+      },
+      {
+        "destination": "Cebu",
+        "total": 51,
+        "photos": 32,
+        "added": 0,
+        "gaps": 19
+      },
+      {
+        "destination": "Sagada",
+        "total": 16,
+        "photos": 10,
+        "added": 1,
+        "gaps": 6
+      }
+    ],
+    "batches": [
+      {
+        "id": "cover-001",
+        "size": 24,
+        "added": 0
+      },
+      {
+        "id": "cover-002",
+        "size": 24,
+        "added": 0
+      },
+      {
+        "id": "cover-003",
+        "size": 24,
+        "added": 1
+      },
+      {
+        "id": "cover-004",
+        "size": 24,
+        "added": 0
+      },
+      {
+        "id": "cover-005",
+        "size": 24,
+        "added": 0
+      },
+      {
+        "id": "cover-006",
+        "size": 24,
+        "added": 0
+      },
+      {
+        "id": "cover-007",
+        "size": 24,
+        "added": 0
+      },
+      {
+        "id": "cover-008",
+        "size": 24,
+        "added": 0
+      },
+      {
+        "id": "cover-009",
+        "size": 20,
+        "added": 1
+      }
+    ],
+    "checklist": "docs/place-enrichment/cover-completion/checklist.json",
+    "suppliedPhotoList": "docs/place-enrichment/cover-completion/remaining-photos.json",
+    "limitation": "A completed source search is not complete photo coverage or proof that no reusable photo exists. Instagram remains independent. No generic or generated substitutes are counted as exact-place photos."
   }
 }

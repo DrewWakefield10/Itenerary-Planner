@@ -1,0 +1,3157 @@
+{
+  "updatedOn": "2026-10-23",
+  "count": 210,
+  "permissionGuide": "../photo-only/supplied-photo-guide.md",
+  "records": [
+    {
+      "placeId": "el-nido-secret-lagoon",
+      "name": "Secret Lagoon",
+      "destination": "Palawan",
+      "municipality": "El Nido",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-006-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "el-nido-cudugnon-cave",
+      "name": "Cudugnon Cave",
+      "destination": "Palawan",
+      "municipality": "El Nido",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-006-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "puerto-princesa-mendoza-park",
+      "name": "Mendoza Park",
+      "destination": "Palawan",
+      "municipality": "Puerto Princesa City",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-006-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "puerto-princesa-princess-eulalia-park",
+      "name": "Princess Eulalia Park",
+      "destination": "Palawan",
+      "municipality": "Puerto Princesa City",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-006-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "puerto-princesa-world-war-ii-memorial-museum",
+      "name": "World War II Memorial Museum",
+      "destination": "Palawan",
+      "municipality": "Puerto Princesa City",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "No candidate established an exact-place/branch photograph with individually reviewed compatible rights and a usable image. Name collisions and neighboring places are not substitutes. Supply an authorized exact-place photograph or resolve the linked candidate review.",
+      "decision": "cover-006-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "puerto-princesa-butterfly-ecological-garden",
+      "name": "Palawan Butterfly Ecological Garden",
+      "destination": "Palawan",
+      "municipality": "Puerto Princesa City",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-006-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "coron-saint-augustine-parish",
+      "name": "Saint Augustine Parish Church",
+      "destination": "Palawan",
+      "municipality": "Coron",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-006-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "siargao-catangnan-bridge",
+      "name": "Catangnan–Cabitoonan Bridge",
+      "destination": "Siargao",
+      "municipality": "General Luna",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-001-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "siargao-tayangban-cave-pool",
+      "name": "Tayangban Cave Pool",
+      "destination": "Siargao",
+      "municipality": "Pilar",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-001-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "siargao-maasin-river",
+      "name": "Maasin River",
+      "destination": "Siargao",
+      "municipality": "Pilar",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-001-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "siargao-pacifico-beach",
+      "name": "Pacifico Beach",
+      "destination": "Siargao",
+      "municipality": "San Isidro",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-001-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "siargao-alegria-beach",
+      "name": "Alegria Beach",
+      "destination": "Siargao",
+      "municipality": "Santa Monica",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-001-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "siargao-taktak-falls",
+      "name": "Taktak Falls",
+      "destination": "Siargao",
+      "municipality": "Santa Monica",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "No candidate established an exact-place/branch photograph with individually reviewed compatible rights and a usable image. Name collisions and neighboring places are not substitutes. Supply an authorized exact-place photograph or resolve the linked candidate review.",
+      "decision": "cover-001-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "siargao-santa-monica-pier",
+      "name": "Santa Monica Pier",
+      "destination": "Siargao",
+      "municipality": "Santa Monica",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "No candidate established an exact-place/branch photograph with individually reviewed compatible rights and a usable image. Name collisions and neighboring places are not substitutes. Supply an authorized exact-place photograph or resolve the linked candidate review.",
+      "decision": "cover-001-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "siargao-del-carmen-mangrove-viewdeck",
+      "name": "Del Carmen Mangrove Viewdeck",
+      "destination": "Siargao",
+      "municipality": "Del Carmen",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "No candidate established an exact-place/branch photograph with individually reviewed compatible rights and a usable image. Name collisions and neighboring places are not substitutes. Supply an authorized exact-place photograph or resolve the linked candidate review.",
+      "decision": "cover-001-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "siargao-poneas-lake",
+      "name": "Poneas Lake",
+      "destination": "Siargao",
+      "municipality": "San Benito",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-001-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "siargao-sohoton-cove",
+      "name": "Sohoton Cove",
+      "destination": "Siargao",
+      "municipality": "Socorro",
+      "status": "download-blocked-awaiting-visual-review",
+      "reason": "Promising exact-place candidate has individually checked reusable license metadata, but the public image delivery endpoint timed out. Visual review remains incomplete; no photograph is copied. Resolve image delivery or supply an authorized photograph.",
+      "decision": "cover-001-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "siargao-paghungawan-marsh",
+      "name": "Paghungawan Marsh",
+      "destination": "Siargao",
+      "municipality": "Pilar",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-001-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "davao-bone-collector-museum",
+      "name": "D’ Bone Collector Museum",
+      "destination": "Davao",
+      "municipality": "Davao City",
+      "status": "download-blocked-awaiting-visual-review",
+      "reason": "Promising exact-place candidate has individually checked reusable license metadata, but the public image delivery endpoint timed out. Visual review remains incomplete; no photograph is copied. Resolve image delivery or supply an authorized photograph.",
+      "decision": "cover-003-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "davao-rizal-park",
+      "name": "Rizal Park",
+      "destination": "Davao",
+      "municipality": "Davao City",
+      "status": "download-blocked-awaiting-visual-review",
+      "reason": "Promising exact-place candidate has individually checked reusable license metadata, but the public image delivery endpoint timed out. Visual review remains incomplete; no photograph is copied. Resolve image delivery or supply an authorized photograph.",
+      "decision": "cover-003-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "davao-imin-museum",
+      "name": "IMIN Philippine–Japan Historical Museum",
+      "destination": "Davao",
+      "municipality": "Davao City",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-003-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "el-nido-nagkalit-kalit-falls",
+      "name": "Nagkalit-kalit Falls",
+      "destination": "Palawan",
+      "municipality": "El Nido",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-006-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "puerto-princesa-iwahig-firefly-watching",
+      "name": "Iwahig River — community firefly site",
+      "destination": "Palawan",
+      "municipality": "Puerto Princesa City",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-006-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "puerto-princesa-buenavista-viewdeck",
+      "name": "Buenavista Viewdeck",
+      "destination": "Palawan",
+      "municipality": "Puerto Princesa City",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-006-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "puerto-princesa-bakers-hill",
+      "name": "Baker’s Hill",
+      "destination": "Palawan",
+      "municipality": "Puerto Princesa City",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The reviewed image did not establish the exact catalog place/branch: a nearby hotel frontage, uncertain bakery-versus-ranch attribution, or unspecified store branch is insufficient. Supply a photograph of this exact place with documented rights.",
+      "decision": "cover-006-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "puerto-princesa-balayong-peoples-park",
+      "name": "Balayong People’s Park",
+      "destination": "Palawan",
+      "municipality": "Puerto Princesa City",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-006-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "siargao-somyot-cave",
+      "name": "Somyot Cave",
+      "destination": "Siargao",
+      "municipality": "Burgos",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-001-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "siargao-osmena-wetland",
+      "name": "Osmeña Wetland",
+      "destination": "Siargao",
+      "municipality": "Dapa",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-001-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "bohol-danao-beach-afternoon",
+      "name": "Danao Beach",
+      "destination": "Bohol",
+      "municipality": "Panglao",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "No candidate established an exact-place/branch photograph with individually reviewed compatible rights and a usable image. Name collisions and neighboring places are not substitutes. Supply an authorized exact-place photograph or resolve the linked candidate review.",
+      "decision": "cover-004-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "bohol-libaong-beach",
+      "name": "Libaong Beach",
+      "destination": "Bohol",
+      "municipality": "Panglao",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-004-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "bohol-common-crew",
+      "name": "Common Crew Coffee Roasters & Brewers",
+      "destination": "Bohol",
+      "municipality": "Panglao",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-004-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "bohol-shaka-panglao",
+      "name": "Shaka Cafes — Panglao",
+      "destination": "Bohol",
+      "municipality": "Panglao",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-004-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "bohol-loboc-eco-adventure-park",
+      "name": "Loboc Eco-Tourism Adventure Park",
+      "destination": "Bohol",
+      "municipality": "Loboc",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-005-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "boracay-tambisaan-beach",
+      "name": "Tambisaan Beach",
+      "destination": "Boracay",
+      "municipality": "Malay",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-002-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "boracay-tulubhan-beach",
+      "name": "Tulubhan Beach",
+      "destination": "Boracay",
+      "municipality": "Malay",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-002-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "boracay-newcoast-keyhole",
+      "name": "Boracay Newcoast Keyhole",
+      "destination": "Boracay",
+      "municipality": "Malay",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-002-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "boracay-balabag-wetland-park",
+      "name": "Balabag Wetland Park",
+      "destination": "Boracay",
+      "municipality": "Malay",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-002-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "boracay-dtalipapa-market",
+      "name": "D’Talipapa market",
+      "destination": "Boracay",
+      "municipality": "Malay",
+      "status": "download-blocked-awaiting-visual-review",
+      "reason": "Promising exact-place candidate has individually checked reusable license metadata, but the public image delivery endpoint timed out. Visual review remains incomplete; no photograph is copied. Resolve image delivery or supply an authorized photograph.",
+      "decision": "cover-002-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "boracay-nonies-ondus",
+      "name": "Nonie’s — Ondus Hotel",
+      "destination": "Boracay",
+      "municipality": "Malay",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-002-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "boracay-giuseppe-station-three",
+      "name": "Giuseppe Pizzeria & Sicilian Roast — Boracay",
+      "destination": "Boracay",
+      "municipality": "Malay",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-002-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "boracay-little-taj",
+      "name": "Little Taj",
+      "destination": "Boracay",
+      "municipality": "Malay",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-002-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "boracay-station-x",
+      "name": "Station X",
+      "destination": "Boracay",
+      "municipality": "Malay",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "No candidate established an exact-place/branch photograph with individually reviewed compatible rights and a usable image. Name collisions and neighboring places are not substitutes. Supply an authorized exact-place photograph or resolve the linked candidate review.",
+      "decision": "cover-002-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "iloilo-baking-studio-theos",
+      "name": "Baking Studio by Theo’s — North Grove",
+      "destination": "Iloilo",
+      "municipality": "Iloilo City",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-007-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "cebu-omagieca-obo-ob-mangrove-garden",
+      "name": "Omagieca Obo-ob Mangrove Garden",
+      "destination": "Cebu",
+      "municipality": "Bantayan",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-008-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "baguio-easter-weaving-room",
+      "name": "Easter Weaving Room",
+      "destination": "Baguio",
+      "municipality": "Baguio City",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-003-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "baguio-ili-likha",
+      "name": "Ili-Likha Artists' Wateringhole",
+      "destination": "Baguio",
+      "municipality": "Baguio City",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-003-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "baguio-aguinaldo-museum",
+      "name": "Emilio F. Aguinaldo Museum",
+      "destination": "Baguio",
+      "municipality": "Baguio City",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-003-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "baguio-maryknoll-sanctuary",
+      "name": "Maryknoll Ecological Sanctuary",
+      "destination": "Baguio",
+      "municipality": "Baguio City",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-003-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "sagada-balangagan-cave",
+      "name": "Balangagan Cave",
+      "destination": "Sagada",
+      "municipality": "Sagada",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-009-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "batanes-basco-plaza",
+      "name": "Basco Plaza",
+      "destination": "Batanes",
+      "municipality": "Basco",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "No candidate established an exact-place/branch photograph with individually reviewed compatible rights and a usable image. Name collisions and neighboring places are not substitutes. Supply an authorized exact-place photograph or resolve the linked candidate review.",
+      "decision": "cover-005-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "el-nido-artcafe",
+      "name": "El Nido Boutique & Artcafe",
+      "destination": "Palawan",
+      "municipality": "El Nido",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-006-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "el-nido-trattoria-altrove",
+      "name": "Trattoria Altrove — El Nido",
+      "destination": "Palawan",
+      "municipality": "El Nido",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-006-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "coron-trattoria-altrove",
+      "name": "Trattoria Altrove — Coron",
+      "destination": "Palawan",
+      "municipality": "Coron",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-006-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "cebu-pig-and-palm",
+      "name": "The Pig & Palm",
+      "destination": "Cebu",
+      "municipality": "Cebu City",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-008-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "cebu-turning-wheels-brewery",
+      "name": "Turning Wheels Brewery",
+      "destination": "Cebu",
+      "municipality": "Cebu City",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-008-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "cebu-abaca-baking-crossroads",
+      "name": "Abaca Baking Company - Crossroads",
+      "destination": "Cebu",
+      "municipality": "Cebu City",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-008-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "bohol-green-thumb-farm",
+      "name": "Green Thumb Farm",
+      "destination": "Bohol",
+      "municipality": "Corella",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-005-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "bohol-quinale-beach",
+      "name": "Quinale Beach",
+      "destination": "Bohol",
+      "municipality": "Anda",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-005-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "bohol-cabagnow-cave-pool",
+      "name": "Cabagnow Cave Pool",
+      "destination": "Bohol",
+      "municipality": "Anda",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-005-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "bohol-edith-grand-garden",
+      "name": "Edith Grand Garden Wellness Resort & Adventure Park",
+      "destination": "Bohol",
+      "municipality": "Baclayon",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-005-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "bohol-saffron-restaurant",
+      "name": "Saffron Restaurant - Amorita Resort",
+      "destination": "Bohol",
+      "municipality": "Panglao",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-005-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "bohol-latavola-restaurant",
+      "name": "Latavola Italian Restaurant",
+      "destination": "Bohol",
+      "municipality": "Panglao",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-005-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "bohol-prawn-farm-bolod",
+      "name": "The Prawn Farm Grill and Seafoods - Bolod",
+      "destination": "Bohol",
+      "municipality": "Panglao",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-005-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "manila-eng-bee-tin-ongpin",
+      "name": "Eng Bee Tin - Ongpin Flagship",
+      "destination": "Manila",
+      "municipality": "Manila",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The reviewed image did not establish the exact catalog place/branch: a nearby hotel frontage, uncertain bakery-versus-ranch attribution, or unspecified store branch is insufficient. Supply a photograph of this exact place with documented rights.",
+      "decision": "cover-008-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "baguio-pink-sisters",
+      "name": "Pink Sisters' Convent and Chapel",
+      "destination": "Baguio",
+      "municipality": "Baguio City",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-003-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "baguio-slu-museum",
+      "name": "SLU Museum of Igorot Cultures and Arts",
+      "destination": "Baguio",
+      "municipality": "Baguio City",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-003-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "baguio-bamboo-sanctuary",
+      "name": "St. Francis Xavier Bamboo Sanctuary",
+      "destination": "Baguio",
+      "municipality": "Baguio City",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-003-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "baguio-pilak-silvercraft",
+      "name": "PILAK Silvercraft and Gift Shoppe",
+      "destination": "Baguio",
+      "municipality": "Baguio City",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-003-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "baguio-nardas-handwoven",
+      "name": "Narda's Handwoven Arts and Crafts",
+      "destination": "Baguio",
+      "municipality": "Baguio City",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-003-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "baguio-original-good-taste",
+      "name": "The Original Good Taste Restaurant",
+      "destination": "Baguio",
+      "municipality": "Baguio City",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-003-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "baguio-choco-late-batirol",
+      "name": "Choco-late de Batirol - Camp John Hay",
+      "destination": "Baguio",
+      "municipality": "Baguio City",
+      "status": "download-blocked-awaiting-visual-review",
+      "reason": "Promising exact-place candidate has individually checked reusable license metadata, but the public image delivery endpoint timed out. Visual review remains incomplete; no photograph is copied. Resolve image delivery or supply an authorized photograph.",
+      "decision": "cover-003-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "baguio-hill-station",
+      "name": "Hill Station Restaurant",
+      "destination": "Baguio",
+      "municipality": "Baguio City",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The reviewed image did not establish the exact catalog place/branch: a nearby hotel frontage, uncertain bakery-versus-ranch attribution, or unspecified store branch is insufficient. Supply a photograph of this exact place with documented rights.",
+      "decision": "cover-003-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "baguio-amare-outlook",
+      "name": "Amare La Cucina - Outlook Drive",
+      "destination": "Baguio",
+      "municipality": "Baguio City",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-003-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "baguio-craft-brewery",
+      "name": "Baguio Craft Brewery",
+      "destination": "Baguio",
+      "municipality": "Baguio City",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "No candidate established an exact-place/branch photograph with individually reviewed compatible rights and a usable image. Name collisions and neighboring places are not substitutes. Supply an authorized exact-place photograph or resolve the linked candidate review.",
+      "decision": "cover-003-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "baguio-craft-1945",
+      "name": "Craft 1945",
+      "destination": "Baguio",
+      "municipality": "Baguio City",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-003-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "siargao-kermit-restaurant",
+      "name": "Kermit Restaurant — Siargao",
+      "destination": "Siargao",
+      "municipality": "General Luna",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-001-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "siargao-trattoria-altrove",
+      "name": "Trattoria Altrove — Siargao",
+      "destination": "Siargao",
+      "municipality": "General Luna",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-001-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "siargao-warung",
+      "name": "Warung — Siargao Island Villas",
+      "destination": "Siargao",
+      "municipality": "General Luna",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-001-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "siargao-brunch-spot",
+      "name": "Brunch Spot Siargao",
+      "destination": "Siargao",
+      "municipality": "General Luna",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-001-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "siargao-bravo-restaurant",
+      "name": "Bravo Restaurant — Siargao",
+      "destination": "Siargao",
+      "municipality": "General Luna",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-001-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "siargao-naga-restaurant",
+      "name": "NĀGA Siargao",
+      "destination": "Siargao",
+      "municipality": "General Luna",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-001-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "siargao-malinao-beach",
+      "name": "Malinao Beach",
+      "destination": "Siargao",
+      "municipality": "General Luna",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-001-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "siargao-paseo-de-cabuntog",
+      "name": "Paseo de Cabuntog",
+      "destination": "Siargao",
+      "municipality": "General Luna",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-001-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "siargao-lokal-hub-general-luna",
+      "name": "The Hub by Lokal Lab — General Luna",
+      "destination": "Siargao",
+      "municipality": "General Luna",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-001-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "siargao-clubhouse-golf",
+      "name": "The Clubhouse Siargao",
+      "destination": "Siargao",
+      "municipality": "General Luna",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-001-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "davao-gap-farm",
+      "name": "GAP Farm Resort",
+      "destination": "Davao",
+      "municipality": "Davao City",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-004-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "davao-dleonor-inland-resort",
+      "name": "D’Leonor Inland Resort and Adventure Park",
+      "destination": "Davao",
+      "municipality": "Davao City",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-004-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "davao-poblacion-market-central",
+      "name": "Poblacion Market Central",
+      "destination": "Davao",
+      "municipality": "Davao City",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-004-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "davao-bago-esplanade",
+      "name": "Bago Esplanade",
+      "destination": "Davao",
+      "municipality": "Davao City",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-004-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "davao-gulf-view-esplanade",
+      "name": "Gulf View Esplanade",
+      "destination": "Davao",
+      "municipality": "Davao City",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-004-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "davao-marfori-botanical-garden",
+      "name": "Davao City Botanical Park",
+      "destination": "Davao",
+      "municipality": "Davao City",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-004-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "davao-toril-park",
+      "name": "Toril Park",
+      "destination": "Davao",
+      "municipality": "Davao City",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "No candidate established an exact-place/branch photograph with individually reviewed compatible rights and a usable image. Name collisions and neighboring places are not substitutes. Supply an authorized exact-place photograph or resolve the linked candidate review.",
+      "decision": "cover-004-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "davao-matina-linear-park",
+      "name": "Matina Linear Park",
+      "destination": "Davao",
+      "municipality": "Davao City",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-004-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "davao-candelaria-park",
+      "name": "Candelaria Park",
+      "destination": "Davao",
+      "municipality": "Davao City",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-004-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "davao-communal-pocket-park",
+      "name": "Communal Pocket Park",
+      "destination": "Davao",
+      "municipality": "Davao City",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-004-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "davao-apo-ni-lola-matina",
+      "name": "Apo ni Lola Pasalubong Center — Matina",
+      "destination": "Davao",
+      "municipality": "Davao City",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-004-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "davao-marina-tuna-sandawa",
+      "name": "Marina Tuna — Sandawa Plaza",
+      "destination": "Davao",
+      "municipality": "Davao City",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-004-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "boracay-muchos",
+      "name": "Muchos",
+      "destination": "Boracay",
+      "municipality": "Malay",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-002-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "boracay-jammers-beach-shack",
+      "name": "Jammers Beach Shack",
+      "destination": "Boracay",
+      "municipality": "Malay",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-002-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "boracay-aria-cucina",
+      "name": "Aria Cucina Italiana",
+      "destination": "Boracay",
+      "municipality": "Malay",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-002-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "boracay-hama",
+      "name": "Hama Japanese Restaurant",
+      "destination": "Boracay",
+      "municipality": "Malay",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-002-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "boracay-cafe-del-sol",
+      "name": "Cafe del Sol",
+      "destination": "Boracay",
+      "municipality": "Malay",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-002-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "boracay-beach-truck",
+      "name": "Boracay Beach Truck",
+      "destination": "Boracay",
+      "municipality": "Malay",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-002-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "boracay-dinibeach-bar",
+      "name": "Dinibeach Bar & Restaurant",
+      "destination": "Boracay",
+      "municipality": "Malay",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-002-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "boracay-citymall",
+      "name": "CityMall Boracay",
+      "destination": "Boracay",
+      "municipality": "Malay",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-002-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "boracay-sirena",
+      "name": "Sirena Restaurant & Clifftop Bar",
+      "destination": "Boracay",
+      "municipality": "Malay",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-002-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "boracay-los-indios-bravos",
+      "name": "Los Indios Bravos",
+      "destination": "Boracay",
+      "municipality": "Malay",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-002-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "boracay-sands-bar-restaurant",
+      "name": "Sands Bar & Restaurant",
+      "destination": "Boracay",
+      "municipality": "Malay",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "No candidate established an exact-place/branch photograph with individually reviewed compatible rights and a usable image. Name collisions and neighboring places are not substitutes. Supply an authorized exact-place photograph or resolve the linked candidate review.",
+      "decision": "cover-003-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "iloilo-breakthrough-villa",
+      "name": "Breakthrough Restaurant - Villa",
+      "destination": "Iloilo",
+      "municipality": "Iloilo City",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-007-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "iloilo-dapli-valeria",
+      "name": "Dapli by Breakthrough",
+      "destination": "Iloilo",
+      "municipality": "Iloilo City",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-007-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "iloilo-ponsyon-plazuela",
+      "name": "Ponsyon by Breakthrough",
+      "destination": "Iloilo",
+      "municipality": "Iloilo City",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-007-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "iloilo-taytay-tigre",
+      "name": "Taytay Tigre",
+      "destination": "Iloilo",
+      "municipality": "Guimbal",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-007-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "iloilo-garin-farm",
+      "name": "Garin Farm",
+      "destination": "Iloilo",
+      "municipality": "San Joaquin",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-007-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "batanes-casa-napoli-town",
+      "name": "Casa Napoli Pizza and Pasta - Basco Town",
+      "destination": "Batanes",
+      "municipality": "Basco",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-005-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "batanes-beehan",
+      "name": "Beehan Food Enterprise",
+      "destination": "Batanes",
+      "municipality": "Basco",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-005-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "batanes-harbour-cafe",
+      "name": "Harbour Cafe",
+      "destination": "Batanes",
+      "municipality": "Basco",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "No candidate established an exact-place/branch photograph with individually reviewed compatible rights and a usable image. Name collisions and neighboring places are not substitutes. Supply an authorized exact-place photograph or resolve the linked candidate review.",
+      "decision": "cover-005-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "batanes-vunong-dinette",
+      "name": "Vunong Dinette",
+      "destination": "Batanes",
+      "municipality": "Basco",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-005-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "batanes-honesty-coffee-shop",
+      "name": "Honesty Coffee Shop",
+      "destination": "Batanes",
+      "municipality": "Ivana",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-005-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "batanes-rakuh-idi-spring",
+      "name": "Rakuh-a-Idi Spring",
+      "destination": "Batanes",
+      "municipality": "Mahatao",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-005-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "batanes-chawa-viewdeck",
+      "name": "Chawa View Deck",
+      "destination": "Batanes",
+      "municipality": "Mahatao",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-005-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "batanes-national-museum",
+      "name": "National Museum of the Philippines - Batanes",
+      "destination": "Batanes",
+      "municipality": "Uyugan",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-005-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "el-nido-grounded-town",
+      "name": "Grounded — El Nido Town",
+      "destination": "Palawan",
+      "municipality": "El Nido",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "No candidate established an exact-place/branch photograph with individually reviewed compatible rights and a usable image. Name collisions and neighboring places are not substitutes. Supply an authorized exact-place photograph or resolve the linked candidate review.",
+      "decision": "cover-006-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "el-nido-janu-coffee-tea",
+      "name": "Janu Coffee & Tea",
+      "destination": "Palawan",
+      "municipality": "El Nido",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-006-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "puerto-princesa-itoys-coffee-haus",
+      "name": "Itoy’s Coffee Haus",
+      "destination": "Palawan",
+      "municipality": "Puerto Princesa City",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-006-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "puerto-princesa-koffee-kat",
+      "name": "Koffee Kat Cafe",
+      "destination": "Palawan",
+      "municipality": "Puerto Princesa City",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-006-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "puerto-princesa-ka-inato-main",
+      "name": "Ka Inato — Tiniguiban",
+      "destination": "Palawan",
+      "municipality": "Puerto Princesa City",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-006-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "cebu-north-cafe-citymall",
+      "name": "North Café & Co — CityMall Bacalso",
+      "destination": "Cebu",
+      "municipality": "Cebu City",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "No candidate established an exact-place/branch photograph with individually reviewed compatible rights and a usable image. Name collisions and neighboring places are not substitutes. Supply an authorized exact-place photograph or resolve the linked candidate review.",
+      "decision": "cover-008-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "cebu-teamo-hotel-one",
+      "name": "Te’Amo Café — Hotel One",
+      "destination": "Cebu",
+      "municipality": "Cebu City",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-008-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "el-nido-lick-roastery",
+      "name": "Lost Islands Center for Kape — Lio HQ",
+      "destination": "Palawan",
+      "municipality": "El Nido",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-006-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "el-nido-la-moro-hill",
+      "name": "La Moro Hill Bakery — Lio",
+      "destination": "Palawan",
+      "municipality": "El Nido",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-006-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "el-nido-huk-co",
+      "name": "HUK & Co. — C Hotel",
+      "destination": "Palawan",
+      "municipality": "El Nido",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-006-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "el-nido-ver-de",
+      "name": "Ver De — H Hotel",
+      "destination": "Palawan",
+      "municipality": "El Nido",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "No candidate established an exact-place/branch photograph with individually reviewed compatible rights and a usable image. Name collisions and neighboring places are not substitutes. Supply an authorized exact-place photograph or resolve the linked candidate review.",
+      "decision": "cover-007-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "el-nido-piece-of-sky",
+      "name": "Piece of Sky",
+      "destination": "Palawan",
+      "municipality": "El Nido",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "No candidate established an exact-place/branch photograph with individually reviewed compatible rights and a usable image. Name collisions and neighboring places are not substitutes. Supply an authorized exact-place photograph or resolve the linked candidate review.",
+      "decision": "cover-007-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "el-nido-henris",
+      "name": "Henri’s — Lihim Resorts",
+      "destination": "Palawan",
+      "municipality": "El Nido",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "No candidate established an exact-place/branch photograph with individually reviewed compatible rights and a usable image. Name collisions and neighboring places are not substitutes. Supply an authorized exact-place photograph or resolve the linked candidate review.",
+      "decision": "cover-007-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "el-nido-lanai-amakan",
+      "name": "The Lanai at Amakan",
+      "destination": "Palawan",
+      "municipality": "El Nido",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-007-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "coron-baya-resto-lounge",
+      "name": "BAYA Resto Lounge",
+      "destination": "Palawan",
+      "municipality": "Coron",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-007-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "coron-hunt-funny-lion",
+      "name": "Hunt Restaurant — The Funny Lion Coron",
+      "destination": "Palawan",
+      "municipality": "Coron",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "No candidate established an exact-place/branch photograph with individually reviewed compatible rights and a usable image. Name collisions and neighboring places are not substitutes. Supply an authorized exact-place photograph or resolve the linked candidate review.",
+      "decision": "cover-007-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "el-nido-sunmai-nacpan",
+      "name": "Sunmai Beach Bar and Restaurant",
+      "destination": "Palawan",
+      "municipality": "El Nido",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-007-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "el-nido-calima-piece-lio",
+      "name": "CALIMA Restaurant — Piece Lio",
+      "destination": "Palawan",
+      "municipality": "El Nido",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-007-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "el-nido-ocean-view-chinese",
+      "name": "Ocean View Chinese Restaurant — S Resort",
+      "destination": "Palawan",
+      "municipality": "El Nido",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-007-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "puerto-princesa-divines-robinsons",
+      "name": "Divine’s Sweets Bakery & Cafe — Robinsons",
+      "destination": "Palawan",
+      "municipality": "Puerto Princesa City",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-007-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "puerto-princesa-jeju-island-cafe",
+      "name": "Jeju Island Cafe",
+      "destination": "Palawan",
+      "municipality": "Puerto Princesa City",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "No candidate established an exact-place/branch photograph with individually reviewed compatible rights and a usable image. Name collisions and neighboring places are not substitutes. Supply an authorized exact-place photograph or resolve the linked candidate review.",
+      "decision": "cover-007-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "puerto-princesa-kofilab",
+      "name": "Kofilab Cafe",
+      "destination": "Palawan",
+      "municipality": "Puerto Princesa City",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-007-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "cebu-good-cup-ramos",
+      "name": "Good Cup Café — F. Ramos",
+      "destination": "Cebu",
+      "municipality": "Cebu City",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "No candidate established an exact-place/branch photograph with individually reviewed compatible rights and a usable image. Name collisions and neighboring places are not substitutes. Supply an authorized exact-place photograph or resolve the linked candidate review.",
+      "decision": "cover-009-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "cebu-house-of-lechon-acacia",
+      "name": "House of Lechon — Acacia",
+      "destination": "Cebu",
+      "municipality": "Cebu City",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-009-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "cebu-parilya-il-corso",
+      "name": "Parilya — Il Corso",
+      "destination": "Cebu",
+      "municipality": "Cebu City",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-009-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "cebu-lemon-grass-ayala",
+      "name": "Lemon Grass — Ayala Center Cebu",
+      "destination": "Cebu",
+      "municipality": "Cebu City",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "No candidate established an exact-place/branch photograph with individually reviewed compatible rights and a usable image. Name collisions and neighboring places are not substitutes. Supply an authorized exact-place photograph or resolve the linked candidate review.",
+      "decision": "cover-009-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "cebu-ullis-ayala",
+      "name": "Ulli’s Streets of Asia — Ayala",
+      "destination": "Cebu",
+      "municipality": "Cebu City",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-009-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "cebu-u-kitchen-lahug",
+      "name": "U Kitchen — Lahug",
+      "destination": "Cebu",
+      "municipality": "Cebu City",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-009-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "cebu-pares-pares-escario",
+      "name": "Pares Pares — N. Escario Street",
+      "destination": "Cebu",
+      "municipality": "Cebu City",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "No candidate established an exact-place/branch photograph with individually reviewed compatible rights and a usable image. Name collisions and neighboring places are not substitutes. Supply an authorized exact-place photograph or resolve the linked candidate review.",
+      "decision": "cover-009-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "cebu-abli",
+      "name": "Abli",
+      "destination": "Cebu",
+      "municipality": "Cebu City",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "No candidate established an exact-place/branch photograph with individually reviewed compatible rights and a usable image. Name collisions and neighboring places are not substitutes. Supply an authorized exact-place photograph or resolve the linked candidate review.",
+      "decision": "cover-009-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "cebu-abaseria",
+      "name": "Abaseria Deli & Cafe",
+      "destination": "Cebu",
+      "municipality": "Cebu City",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-009-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "cebu-ato-ah",
+      "name": "ATO-AH",
+      "destination": "Cebu",
+      "municipality": "Cebu City",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-009-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "cebu-lantaw-compostela",
+      "name": "Lantaw — Compostela",
+      "destination": "Cebu",
+      "municipality": "Compostela",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "No candidate established an exact-place/branch photograph with individually reviewed compatible rights and a usable image. Name collisions and neighboring places are not substitutes. Supply an authorized exact-place photograph or resolve the linked candidate review.",
+      "decision": "cover-009-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "cebu-ricos-mandaue",
+      "name": "Rico’s Lechon — Mandaue",
+      "destination": "Cebu",
+      "municipality": "Mandaue City",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "No candidate established an exact-place/branch photograph with individually reviewed compatible rights and a usable image. Name collisions and neighboring places are not substitutes. Supply an authorized exact-place photograph or resolve the linked candidate review.",
+      "decision": "cover-009-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "cebu-punched-mabuhay",
+      "name": "Punched Coffee — Mabuhay Tower",
+      "destination": "Cebu",
+      "municipality": "Cebu City",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-009-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "manila-yardstick-esteban",
+      "name": "Yardstick — Legazpi Village",
+      "destination": "Manila",
+      "municipality": "Makati",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-008-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "manila-commune-poblacion",
+      "name": "Commune Café + Bar",
+      "destination": "Manila",
+      "municipality": "Makati",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "No candidate established an exact-place/branch photograph with individually reviewed compatible rights and a usable image. Name collisions and neighboring places are not substitutes. Supply an authorized exact-place photograph or resolve the linked candidate review.",
+      "decision": "cover-008-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "manila-exchange-alley-molito",
+      "name": "Exchange Alley Coffee House — Molito",
+      "destination": "Manila",
+      "municipality": "Muntinlupa",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-008-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "manila-group-boiler-molito",
+      "name": "Group & Boiler — Molito",
+      "destination": "Manila",
+      "municipality": "Muntinlupa",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-008-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "manila-type-a-nbs",
+      "name": "Type A Coffee — NBS Park",
+      "destination": "Manila",
+      "municipality": "Mandaluyong",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-008-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "manila-the-den-escolta",
+      "name": "The Den — Escolta",
+      "destination": "Manila",
+      "municipality": "Manila",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "No candidate established an exact-place/branch photograph with individually reviewed compatible rights and a usable image. Name collisions and neighboring places are not substitutes. Supply an authorized exact-place photograph or resolve the linked candidate review.",
+      "decision": "cover-008-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "manila-saigon-coffee-arca",
+      "name": "Saigon Coffee — Arca South",
+      "destination": "Manila",
+      "municipality": "Taguig",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-008-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "manila-toyo-eatery",
+      "name": "Toyo Eatery",
+      "destination": "Manila",
+      "municipality": "Makati",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-008-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "manila-gallery-by-chele",
+      "name": "Gallery by Chele",
+      "destination": "Manila",
+      "municipality": "Taguig",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-008-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "manila-your-local",
+      "name": "Your Local",
+      "destination": "Manila",
+      "municipality": "Makati",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "No candidate established an exact-place/branch photograph with individually reviewed compatible rights and a usable image. Name collisions and neighboring places are not substitutes. Supply an authorized exact-place photograph or resolve the linked candidate review.",
+      "decision": "cover-008-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "manila-sarsa-rada",
+      "name": "Sarsa — Rada Street",
+      "destination": "Manila",
+      "municipality": "Makati",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-008-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "manila-metiz-karrivin",
+      "name": "Metiz",
+      "destination": "Manila",
+      "municipality": "Makati",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-008-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "manila-cirkulo",
+      "name": "Cirkulo",
+      "destination": "Manila",
+      "municipality": "Makati",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-008-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "manila-la-pita-poblacion",
+      "name": "La Pita — Poblacion",
+      "destination": "Manila",
+      "municipality": "Makati",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-008-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "manila-morning-sun-project-four",
+      "name": "Morning Sun Eatery",
+      "destination": "Manila",
+      "municipality": "Quezon City",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-008-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "manila-el-poco-malate",
+      "name": "El Poco Cantina — Malate",
+      "destination": "Manila",
+      "municipality": "Manila",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-008-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "manila-rodics-maginhawa",
+      "name": "Rodic’s Diner — Maginhawa",
+      "destination": "Manila",
+      "municipality": "Quezon City",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-008-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "siargao-spotted-pig-catangnan",
+      "name": "Spotted Pig Cafe — Catangnan",
+      "destination": "Siargao",
+      "municipality": "General Luna",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-001-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "siargao-weekend-cafe",
+      "name": "/Week·End/ Cafe",
+      "destination": "Siargao",
+      "municipality": "General Luna",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-002-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "siargao-sinag-snack-bar",
+      "name": "Sinag Snack Bar",
+      "destination": "Siargao",
+      "municipality": "General Luna",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-002-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "siargao-saint-thomas",
+      "name": "Saint Thomas Coffee",
+      "destination": "Siargao",
+      "municipality": "General Luna",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-002-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "siargao-sunset-coffee",
+      "name": "Sunset Coffee Roasters",
+      "destination": "Siargao",
+      "municipality": "General Luna",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-002-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "siargao-fin-fin",
+      "name": "Fin & Fin Beach Shack",
+      "destination": "Siargao",
+      "municipality": "General Luna",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-002-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "bohol-overgrown-panglao",
+      "name": "Overgrown Café & Bar — Panglao",
+      "destination": "Bohol",
+      "municipality": "Panglao",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-005-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "bohol-mosia-cafe",
+      "name": "Mosia Cafe",
+      "destination": "Bohol",
+      "municipality": "Tagbilaran City",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-005-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "bohol-slotide-danao",
+      "name": "Slotide Coffee Club",
+      "destination": "Bohol",
+      "municipality": "Panglao",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-005-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "bohol-smoque-bistro",
+      "name": "Smoque Bistro + Cafe & Bar",
+      "destination": "Bohol",
+      "municipality": "Tagbilaran City",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-005-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "bohol-mist-danao",
+      "name": "MIST Cafe and Restaurant",
+      "destination": "Bohol",
+      "municipality": "Panglao",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "No candidate established an exact-place/branch photograph with individually reviewed compatible rights and a usable image. Name collisions and neighboring places are not substitutes. Supply an authorized exact-place photograph or resolve the linked candidate review.",
+      "decision": "cover-005-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "bohol-tomar-amorita",
+      "name": "Tomar Tapas x Bar — Amorita",
+      "destination": "Bohol",
+      "municipality": "Panglao",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-005-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "baguio-rebel-irisan",
+      "name": "Rebel Bakehouse — Irisan",
+      "destination": "Baguio",
+      "municipality": "Baguio City",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-003-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "baguio-hatch-easter",
+      "name": "Hatch Coffee — Easter Road",
+      "destination": "Baguio",
+      "municipality": "Baguio City",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-003-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "baguio-hot-cat-yangco",
+      "name": "Hot Cat Specialty Coffee — Yangco",
+      "destination": "Baguio",
+      "municipality": "Baguio City",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-003-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "baguio-cafe-by-ruins",
+      "name": "Café by the Ruins — Shuntug",
+      "destination": "Baguio",
+      "municipality": "Baguio City",
+      "status": "download-blocked-awaiting-visual-review",
+      "reason": "Promising exact-place candidate has individually checked reusable license metadata, but the public image delivery endpoint timed out. Visual review remains incomplete; no photograph is copied. Resolve image delivery or supply an authorized photograph.",
+      "decision": "cover-003-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "batanes-cafe-du-tukon",
+      "name": "Café du Tukon",
+      "destination": "Batanes",
+      "municipality": "Basco",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-005-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "batanes-bunkers-bistro",
+      "name": "Bunkers Bistro",
+      "destination": "Batanes",
+      "municipality": "Basco",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-006-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "sagada-cafe-bodega-rock-inn",
+      "name": "Café Bodega — Rock Inn",
+      "destination": "Sagada",
+      "municipality": "Sagada",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-009-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "sagada-log-cabin",
+      "name": "Log Cabin Sagada",
+      "destination": "Sagada",
+      "municipality": "Sagada",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "No candidate established an exact-place/branch photograph with individually reviewed compatible rights and a usable image. Name collisions and neighboring places are not substitutes. Supply an authorized exact-place photograph or resolve the linked candidate review.",
+      "decision": "cover-009-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "sagada-cellar-door",
+      "name": "Sagada Cellar Door",
+      "destination": "Sagada",
+      "municipality": "Sagada",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-009-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "sagada-gaia-cafe",
+      "name": "Gaia Cafe & Crafts",
+      "destination": "Sagada",
+      "municipality": "Sagada",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-009-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "sagada-banas-cafe",
+      "name": "Bana’s Coffee",
+      "destination": "Sagada",
+      "municipality": "Sagada",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-009-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "davao-purge-tulip",
+      "name": "Purge Coffee Roaster — Tulip Drive",
+      "destination": "Davao",
+      "municipality": "Davao City",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-004-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "davao-fourth-street-narra",
+      "name": "Fourth Street Cafe — Narra",
+      "destination": "Davao",
+      "municipality": "Davao City",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-004-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "davao-glasshouse-oboza",
+      "name": "Glasshouse Coffee — Oboza Heritage House",
+      "destination": "Davao",
+      "municipality": "Davao City",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-004-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "davao-paramount-star-hotel",
+      "name": "Paramount Coffee — Star Hotel",
+      "destination": "Davao",
+      "municipality": "Davao City",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-004-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "davao-kapewenoz-v-mapa",
+      "name": "Kapeweñoz — V. Mapa",
+      "destination": "Davao",
+      "municipality": "Davao City",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-004-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "davao-lamano-tulip",
+      "name": "Lamano Cocina & Bar",
+      "destination": "Davao",
+      "municipality": "Davao City",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-004-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "davao-capris-bajada",
+      "name": "Capri’s Restaurant and Deli",
+      "destination": "Davao",
+      "municipality": "Davao City",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-004-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "davao-lachis-marfori",
+      "name": "Lachi’s Sans Rival Atbp. — Marfori",
+      "destination": "Davao",
+      "municipality": "Davao City",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-004-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "iloilo-neighbor-atria",
+      "name": "Neighbor Coffee — Shops at Atria",
+      "destination": "Iloilo",
+      "municipality": "Iloilo City",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-007-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "iloilo-bluejay-sm-city",
+      "name": "Bluejay Coffee & Company — SM City Iloilo",
+      "destination": "Iloilo",
+      "municipality": "Iloilo City",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-007-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "iloilo-monkey-grounds",
+      "name": "Monkey Grounds Coffee — Benigno Aquino Avenue",
+      "destination": "Iloilo",
+      "municipality": "Iloilo City",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-007-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "iloilo-loco-smallville",
+      "name": "LoCo Local Coffee — Smallville",
+      "destination": "Iloilo",
+      "municipality": "Iloilo City",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-007-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "iloilo-netongs-la-paz",
+      "name": "Netong’s Original Special La Paz Batchoy — La Paz Market",
+      "destination": "Iloilo",
+      "municipality": "Iloilo City",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-007-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    },
+    {
+      "placeId": "iloilo-carlos-dungon",
+      "name": "Carlo’s Bakery & Cafe — Dungon",
+      "destination": "Iloilo",
+      "municipality": "Iloilo City",
+      "status": "needs-authorized-photo-or-resolved-source",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
+      "decision": "cover-007-decisions.json",
+      "requiredInformation": {
+        "imageFile": null,
+        "photographerOrRightsHolder": null,
+        "permissionForWebsitePublicationAndResizingCropping": null,
+        "attributionPreference": null
+      }
+    }
+  ]
+}

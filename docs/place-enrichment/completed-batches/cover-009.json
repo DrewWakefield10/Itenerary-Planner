@@ -1,0 +1,752 @@
+{
+  "batchId": "cover-009",
+  "mode": "photos-only",
+  "checkedOn": "2026-10-23",
+  "outcomes": [
+    {
+      "placeId": "cebu-good-cup-ramos",
+      "checkedOn": "2026-10-23",
+      "sourcesSearched": [
+        {
+          "provider": "Flickr",
+          "query": "Good Cup Café Cebu City",
+          "url": "https://www.flickr.com/search/?text=Good+Cup+Caf%C3%A9+Cebu+City&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Good Cup Cebu",
+          "url": "https://www.flickr.com/search/?text=Good+Cup+Cebu&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 4,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Commons",
+          "query": "Good Cup Cebu",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Good+Cup+Cebu&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        }
+      ],
+      "rejections": [
+        {
+          "sourcePage": "https://www.flickr.com/photos/hulagway/4382942485/",
+          "title": "LIMITATIONS",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/hulagway/5538775950/",
+          "title": "LAI GARDEN",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/hulagway/5538195829/",
+          "title": "LAI GARDEN",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/hulagway/5538774588/",
+          "title": "LAI GARDEN",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        }
+      ],
+      "notes": [
+        "Earlier approved descriptions, photographs, videos, stable IDs, bookmarks and saved trips are preserved. Public or official visibility alone does not establish image reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "No candidate established an exact-place/branch photograph with individually reviewed compatible rights and a usable image. Name collisions and neighboring places are not substitutes. Supply an authorized exact-place photograph or resolve the linked candidate review."
+    },
+    {
+      "placeId": "cebu-house-of-lechon-acacia",
+      "checkedOn": "2026-10-23",
+      "sourcesSearched": [
+        {
+          "provider": "Flickr",
+          "query": "House of Lechon Cebu City",
+          "url": "https://www.flickr.com/search/?text=House+of+Lechon+Cebu+City&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "House of Lechon Cebu",
+          "url": "https://www.flickr.com/search/?text=House+of+Lechon+Cebu&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Commons",
+          "query": "House of Lechon Cebu",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=House+of+Lechon+Cebu&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        }
+      ],
+      "rejections": [],
+      "notes": [
+        "Earlier approved descriptions, photographs, videos, stable IDs, bookmarks and saved trips are preserved. Public or official visibility alone does not establish image reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source."
+    },
+    {
+      "placeId": "cebu-parilya-il-corso",
+      "checkedOn": "2026-10-23",
+      "sourcesSearched": [
+        {
+          "provider": "Flickr",
+          "query": "Parilya Cebu City",
+          "url": "https://www.flickr.com/search/?text=Parilya+Cebu+City&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Parilya Cebu",
+          "url": "https://www.flickr.com/search/?text=Parilya+Cebu&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Commons",
+          "query": "Parilya Cebu",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Parilya+Cebu&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        }
+      ],
+      "rejections": [],
+      "notes": [
+        "Earlier approved descriptions, photographs, videos, stable IDs, bookmarks and saved trips are preserved. Public or official visibility alone does not establish image reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source."
+    },
+    {
+      "placeId": "cebu-lemon-grass-ayala",
+      "checkedOn": "2026-10-23",
+      "sourcesSearched": [
+        {
+          "provider": "Flickr",
+          "query": "Lemon Grass Cebu City",
+          "url": "https://www.flickr.com/search/?text=Lemon+Grass+Cebu+City&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 1,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Lemon Grass Cebu",
+          "url": "https://www.flickr.com/search/?text=Lemon+Grass+Cebu&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 1,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Commons",
+          "query": "Lemon Grass Cebu",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Lemon+Grass+Cebu&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 1
+        }
+      ],
+      "rejections": [
+        {
+          "sourcePage": "https://www.flickr.com/photos/hulagway/4017766987/",
+          "title": "LOLA SALING",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Lemon_Grass_at_SM_Seaside_City_(2024-08-11).jpg",
+          "title": "File:Lemon Grass at SM Seaside City (2024-08-11).jpg",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        }
+      ],
+      "notes": [
+        "Earlier approved descriptions, photographs, videos, stable IDs, bookmarks and saved trips are preserved. Public or official visibility alone does not establish image reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "No candidate established an exact-place/branch photograph with individually reviewed compatible rights and a usable image. Name collisions and neighboring places are not substitutes. Supply an authorized exact-place photograph or resolve the linked candidate review."
+    },
+    {
+      "placeId": "cebu-ullis-ayala",
+      "checkedOn": "2026-10-23",
+      "sourcesSearched": [
+        {
+          "provider": "Flickr",
+          "query": "Ullis Streets of Asia Cebu City",
+          "url": "https://www.flickr.com/search/?text=Ullis+Streets+of+Asia+Cebu+City&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Ullis Streets of Cebu",
+          "url": "https://www.flickr.com/search/?text=Ullis+Streets+of+Cebu&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Commons",
+          "query": "Ullis Streets of Cebu",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Ullis+Streets+of+Cebu&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        }
+      ],
+      "rejections": [],
+      "notes": [
+        "Earlier approved descriptions, photographs, videos, stable IDs, bookmarks and saved trips are preserved. Public or official visibility alone does not establish image reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source."
+    },
+    {
+      "placeId": "cebu-u-kitchen-lahug",
+      "checkedOn": "2026-10-23",
+      "sourcesSearched": [
+        {
+          "provider": "Flickr",
+          "query": "U Kitchen Cebu City",
+          "url": "https://www.flickr.com/search/?text=U+Kitchen+Cebu+City&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "U Kitchen Cebu",
+          "url": "https://www.flickr.com/search/?text=U+Kitchen+Cebu&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Commons",
+          "query": "U Kitchen Cebu",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=U+Kitchen+Cebu&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        }
+      ],
+      "rejections": [],
+      "notes": [
+        "Earlier approved descriptions, photographs, videos, stable IDs, bookmarks and saved trips are preserved. Public or official visibility alone does not establish image reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source."
+    },
+    {
+      "placeId": "cebu-pares-pares-escario",
+      "checkedOn": "2026-10-23",
+      "sourcesSearched": [
+        {
+          "provider": "Flickr",
+          "query": "Pares Pares Cebu City",
+          "url": "https://www.flickr.com/search/?text=Pares+Pares+Cebu+City&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Pares Pares Cebu",
+          "url": "https://www.flickr.com/search/?text=Pares+Pares+Cebu&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Commons",
+          "query": "Pares Pares Cebu",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Pares+Pares+Cebu&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 7
+        }
+      ],
+      "rejections": [
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:The_abaca_footwear_from_Bantayan_Island,_Cebu_1.jpg",
+          "title": "File:The abaca footwear from Bantayan Island, Cebu 1.jpg",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:The_abaca_footwear_from_Bantayan_Island,_Cebu_2.jpg",
+          "title": "File:The abaca footwear from Bantayan Island, Cebu 2.jpg",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Tagaktak_Pasalubong_Products.jpg",
+          "title": "File:Tagaktak Pasalubong Products.jpg",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Pares_Batchoy_Food_House_at_the_Barracks_(2025-03-09).jpg",
+          "title": "File:Pares Batchoy Food House at the Barracks (2025-03-09).jpg",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Batchoy_with_Bread_from_Pares_Batchoy_at_the_Barracks_(2025-03-09).jpg",
+          "title": "File:Batchoy with Bread from Pares Batchoy at the Barracks (2025-03-09).jpg",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Budbod_food_stall.jpg_02.jpg",
+          "title": "File:Budbod food stall.jpg 02.jpg",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Budbod_food_stall.jpg_01.jpg",
+          "title": "File:Budbod food stall.jpg 01.jpg",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        }
+      ],
+      "notes": [
+        "Earlier approved descriptions, photographs, videos, stable IDs, bookmarks and saved trips are preserved. Public or official visibility alone does not establish image reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "No candidate established an exact-place/branch photograph with individually reviewed compatible rights and a usable image. Name collisions and neighboring places are not substitutes. Supply an authorized exact-place photograph or resolve the linked candidate review."
+    },
+    {
+      "placeId": "cebu-abli",
+      "checkedOn": "2026-10-23",
+      "sourcesSearched": [
+        {
+          "provider": "Flickr",
+          "query": "Abli Cebu City",
+          "url": "https://www.flickr.com/search/?text=Abli+Cebu+City&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Abli Cebu",
+          "url": "https://www.flickr.com/search/?text=Abli+Cebu&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Commons",
+          "query": "Abli Cebu",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Abli+Cebu&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 8
+        }
+      ],
+      "rejections": [
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Handurawang_Kinamot.jpg",
+          "title": "File:Handurawang Kinamot.jpg",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:This_is_what_you_will_read_inside_The_Kabilin_Center.jpg",
+          "title": "File:This is what you will read inside The Kabilin Center.jpg",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Haligi_nga_makita_sa_Casa_Gorordo.jpg",
+          "title": "File:Haligi nga makita sa Casa Gorordo.jpg",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Haligi_historical_marker.jpg",
+          "title": "File:Haligi historical marker.jpg",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Sisters_of_St._Paul_of_Chartres_Monument_02.jpg",
+          "title": "File:Sisters of St. Paul of Chartres Monument 02.jpg",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Sisters_of_St._Paul_of_Chartres_Monument_03.jpg",
+          "title": "File:Sisters of St. Paul of Chartres Monument 03.jpg",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Sisters_of_St._Paul_of_Chartres_Monument_01.jpg",
+          "title": "File:Sisters of St. Paul of Chartres Monument 01.jpg",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Fresh_Coconut_in_Cebu.jpg",
+          "title": "File:Fresh Coconut in Cebu.jpg",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        }
+      ],
+      "notes": [
+        "Earlier approved descriptions, photographs, videos, stable IDs, bookmarks and saved trips are preserved. Public or official visibility alone does not establish image reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "No candidate established an exact-place/branch photograph with individually reviewed compatible rights and a usable image. Name collisions and neighboring places are not substitutes. Supply an authorized exact-place photograph or resolve the linked candidate review."
+    },
+    {
+      "placeId": "cebu-abaseria",
+      "checkedOn": "2026-10-23",
+      "sourcesSearched": [
+        {
+          "provider": "Flickr",
+          "query": "Abaseria Deli & Cafe Cebu City",
+          "url": "https://www.flickr.com/search/?text=Abaseria+Deli+%26+Cafe+Cebu+City&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Abaseria Deli Cebu",
+          "url": "https://www.flickr.com/search/?text=Abaseria+Deli+Cebu&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Commons",
+          "query": "Abaseria Deli Cebu",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Abaseria+Deli+Cebu&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        }
+      ],
+      "rejections": [],
+      "notes": [
+        "Earlier approved descriptions, photographs, videos, stable IDs, bookmarks and saved trips are preserved. Public or official visibility alone does not establish image reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source."
+    },
+    {
+      "placeId": "cebu-ato-ah",
+      "checkedOn": "2026-10-23",
+      "sourcesSearched": [
+        {
+          "provider": "Flickr",
+          "query": "ATO-AH Cebu City",
+          "url": "https://www.flickr.com/search/?text=ATO-AH+Cebu+City&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "ATO-AH Cebu",
+          "url": "https://www.flickr.com/search/?text=ATO-AH+Cebu&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Commons",
+          "query": "ATO-AH Cebu",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=ATO-AH+Cebu&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        }
+      ],
+      "rejections": [],
+      "notes": [
+        "Earlier approved descriptions, photographs, videos, stable IDs, bookmarks and saved trips are preserved. Public or official visibility alone does not establish image reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source."
+    },
+    {
+      "placeId": "cebu-lantaw-compostela",
+      "checkedOn": "2026-10-23",
+      "sourcesSearched": [
+        {
+          "provider": "Flickr",
+          "query": "Lantaw Compostela",
+          "url": "https://www.flickr.com/search/?text=Lantaw+Compostela&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Lantaw Cebu",
+          "url": "https://www.flickr.com/search/?text=Lantaw+Cebu&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 1,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Commons",
+          "query": "Lantaw Cebu",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Lantaw+Cebu&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 3
+        }
+      ],
+      "rejections": [
+        {
+          "sourcePage": "https://www.flickr.com/photos/43584526@N06/10271389353/",
+          "title": "#Lantaw #overlookingCebu #Cebu's #nativerestaurant",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:LantawSRP_grass_area_spherical_360-degree_shot.jpg",
+          "title": "File:LantawSRP grass area spherical 360-degree shot.jpg",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Sunsets_in_Cordova.jpg",
+          "title": "File:Sunsets in Cordova.jpg",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Lantaw_Seafood_and_Grill_(10-02-2022).jpg",
+          "title": "File:Lantaw Seafood and Grill (10-02-2022).jpg",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        }
+      ],
+      "notes": [
+        "Earlier approved descriptions, photographs, videos, stable IDs, bookmarks and saved trips are preserved. Public or official visibility alone does not establish image reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "No candidate established an exact-place/branch photograph with individually reviewed compatible rights and a usable image. Name collisions and neighboring places are not substitutes. Supply an authorized exact-place photograph or resolve the linked candidate review."
+    },
+    {
+      "placeId": "cebu-ricos-mandaue",
+      "checkedOn": "2026-10-23",
+      "sourcesSearched": [
+        {
+          "provider": "Flickr",
+          "query": "Ricos Lechon Mandaue City",
+          "url": "https://www.flickr.com/search/?text=Ricos+Lechon+Mandaue+City&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Ricos Lechon Cebu",
+          "url": "https://www.flickr.com/search/?text=Ricos+Lechon+Cebu&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Commons",
+          "query": "Ricos Lechon Cebu",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Ricos+Lechon+Cebu&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 1
+        }
+      ],
+      "rejections": [
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Rico%27s_Lechon_at_IL_Corso_(2023-05-04).jpg",
+          "title": "File:Rico's Lechon at IL Corso (2023-05-04).jpg",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        }
+      ],
+      "notes": [
+        "Earlier approved descriptions, photographs, videos, stable IDs, bookmarks and saved trips are preserved. Public or official visibility alone does not establish image reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "No candidate established an exact-place/branch photograph with individually reviewed compatible rights and a usable image. Name collisions and neighboring places are not substitutes. Supply an authorized exact-place photograph or resolve the linked candidate review."
+    },
+    {
+      "placeId": "cebu-punched-mabuhay",
+      "checkedOn": "2026-10-23",
+      "sourcesSearched": [
+        {
+          "provider": "Flickr",
+          "query": "Punched Coffee Cebu City",
+          "url": "https://www.flickr.com/search/?text=Punched+Coffee+Cebu+City&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Punched Coffee Cebu",
+          "url": "https://www.flickr.com/search/?text=Punched+Coffee+Cebu&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Commons",
+          "query": "Punched Coffee Cebu",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Punched+Coffee+Cebu&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        }
+      ],
+      "rejections": [],
+      "notes": [
+        "Earlier approved descriptions, photographs, videos, stable IDs, bookmarks and saved trips are preserved. Public or official visibility alone does not establish image reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source."
+    },
+    {
+      "placeId": "sagada-ampacao",
+      "checkedOn": "2026-10-23",
+      "sourcesSearched": [
+        {
+          "provider": "Flickr",
+          "query": "Mount Ampacao Sagada",
+          "url": "https://www.flickr.com/search/?text=Mount+Ampacao+Sagada&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "rejections": [],
+      "notes": [
+        "Earlier approved descriptions, photographs, videos, stable IDs, bookmarks and saved trips are preserved. Public or official visibility alone does not establish image reuse rights.",
+        "Photographer attribution and exact individual-file license retained. Resized and JPEG compressed; normal card/detail object-fit may crop the display."
+      ],
+      "status": "added",
+      "photo": {
+        "placeId": "sagada-ampacao",
+        "src": "/images/places/sagada-ampacao.jpg",
+        "srcSmall": "/images/places/sagada-ampacao-640.jpg",
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:View_from_Ampacao_(3302520385).jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/4/40/View_from_Ampacao_%283302520385%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "Caitriana Nicholson from 北京 ~ Beijing, 中国 ~ China",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "attribution": "Caitriana Nicholson from 北京 ~ Beijing, 中国 ~ China / Wikimedia Commons / CC BY-SA 2.0. Resized and JPEG compressed.",
+        "alt": "Mountain valley and pine-covered slopes seen while climbing Mount Ampacao near Sagada",
+        "width": 1200,
+        "height": 900,
+        "checkedOn": "2026-10-23"
+      }
+    },
+    {
+      "placeId": "sagada-balangagan-cave",
+      "checkedOn": "2026-10-23",
+      "sourcesSearched": [
+        {
+          "provider": "Flickr",
+          "query": "Balangagan Cave Sagada",
+          "url": "https://www.flickr.com/search/?text=Balangagan+Cave+Sagada&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Balangagan",
+          "url": "https://www.flickr.com/search/?text=Balangagan&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "rejections": [],
+      "notes": [
+        "Earlier approved descriptions, photographs, videos, stable IDs, bookmarks and saved trips are preserved. Public or official visibility alone does not establish image reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source."
+    },
+    {
+      "placeId": "sagada-cafe-bodega-rock-inn",
+      "checkedOn": "2026-10-23",
+      "sourcesSearched": [
+        {
+          "provider": "Flickr",
+          "query": "Café Bodega Sagada",
+          "url": "https://www.flickr.com/search/?text=Caf%C3%A9+Bodega+Sagada&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Bodega Sagada",
+          "url": "https://www.flickr.com/search/?text=Bodega+Sagada&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Commons",
+          "query": "Bodega Sagada",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Bodega+Sagada&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        }
+      ],
+      "rejections": [],
+      "notes": [
+        "Earlier approved descriptions, photographs, videos, stable IDs, bookmarks and saved trips are preserved. Public or official visibility alone does not establish image reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source."
+    },
+    {
+      "placeId": "sagada-log-cabin",
+      "checkedOn": "2026-10-23",
+      "sourcesSearched": [
+        {
+          "provider": "Flickr",
+          "query": "Log Cabin Sagada Sagada",
+          "url": "https://www.flickr.com/search/?text=Log+Cabin+Sagada+Sagada&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 1,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "rejections": [
+        {
+          "sourcePage": "https://www.flickr.com/photos/rickmccharles/6524247881/",
+          "title": "Log Cabin restaurant, Sagada",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        }
+      ],
+      "notes": [
+        "Earlier approved descriptions, photographs, videos, stable IDs, bookmarks and saved trips are preserved. Public or official visibility alone does not establish image reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "No candidate established an exact-place/branch photograph with individually reviewed compatible rights and a usable image. Name collisions and neighboring places are not substitutes. Supply an authorized exact-place photograph or resolve the linked candidate review."
+    },
+    {
+      "placeId": "sagada-cellar-door",
+      "checkedOn": "2026-10-23",
+      "sourcesSearched": [
+        {
+          "provider": "Flickr",
+          "query": "Sagada Cellar Door Sagada",
+          "url": "https://www.flickr.com/search/?text=Sagada+Cellar+Door+Sagada&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "rejections": [],
+      "notes": [
+        "Earlier approved descriptions, photographs, videos, stable IDs, bookmarks and saved trips are preserved. Public or official visibility alone does not establish image reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source."
+    },
+    {
+      "placeId": "sagada-gaia-cafe",
+      "checkedOn": "2026-10-23",
+      "sourcesSearched": [
+        {
+          "provider": "Flickr",
+          "query": "Gaia Cafe & Crafts Sagada",
+          "url": "https://www.flickr.com/search/?text=Gaia+Cafe+%26+Crafts+Sagada&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Gaia Crafts Sagada",
+          "url": "https://www.flickr.com/search/?text=Gaia+Crafts+Sagada&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Commons",
+          "query": "Gaia Crafts Sagada",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Gaia+Crafts+Sagada&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        }
+      ],
+      "rejections": [],
+      "notes": [
+        "Earlier approved descriptions, photographs, videos, stable IDs, bookmarks and saved trips are preserved. Public or official visibility alone does not establish image reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source."
+    },
+    {
+      "placeId": "sagada-banas-cafe",
+      "checkedOn": "2026-10-23",
+      "sourcesSearched": [
+        {
+          "provider": "Flickr",
+          "query": "Banas Coffee Sagada",
+          "url": "https://www.flickr.com/search/?text=Banas+Coffee+Sagada&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Commons",
+          "query": "Banas Coffee Sagada",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Banas+Coffee+Sagada&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        }
+      ],
+      "rejections": [],
+      "notes": [
+        "Earlier approved descriptions, photographs, videos, stable IDs, bookmarks and saved trips are preserved. Public or official visibility alone does not establish image reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source."
+    }
+  ]
+}

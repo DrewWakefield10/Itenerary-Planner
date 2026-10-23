@@ -1,0 +1,62 @@
+{
+  "file": "components/account-provider.tsx",
+  "baselineCommit": "de658671e60c00adaf8b197f84b6ab72b16e006f",
+  "baselineFindings": [
+    {
+      "ruleId": "react-hooks/refs",
+      "severity": 2,
+      "message": "Error: Cannot access refs during render"
+    },
+    {
+      "ruleId": "react-hooks/exhaustive-deps",
+      "severity": 1,
+      "message": "React Hook useCallback has a missing dependency: 'session.user'. Either include it or remove the dependency array."
+    },
+    {
+      "ruleId": "react-hooks/set-state-in-effect",
+      "severity": 2,
+      "message": "Error: Calling setState synchronously within an effect can trigger cascading renders"
+    },
+    {
+      "ruleId": "react-hooks/set-state-in-effect",
+      "severity": 2,
+      "message": "Error: Calling setState synchronously within an effect can trigger cascading renders"
+    },
+    {
+      "ruleId": "@next/next/no-html-link-for-pages",
+      "severity": 2,
+      "message": "Do not use an `<a>` element to navigate to `/account/`. Use `<Link />` from `next/link` instead. See: https://nextjs.org/docs/messages/no-html-link-for-pages"
+    }
+  ],
+  "currentFindings": [
+    {
+      "ruleId": "react-hooks/refs",
+      "severity": 2,
+      "message": "Error: Cannot access refs during render"
+    },
+    {
+      "ruleId": "react-hooks/exhaustive-deps",
+      "severity": 1,
+      "message": "React Hook useCallback has a missing dependency: 'session.user'. Either include it or remove the dependency array."
+    },
+    {
+      "ruleId": "react-hooks/set-state-in-effect",
+      "severity": 2,
+      "message": "Error: Calling setState synchronously within an effect can trigger cascading renders"
+    },
+    {
+      "ruleId": "react-hooks/set-state-in-effect",
+      "severity": 2,
+      "message": "Error: Calling setState synchronously within an effect can trigger cascading renders"
+    }
+  ],
+  "newFindings": [],
+  "resolvedFindings": [
+    {
+      "ruleId": "@next/next/no-html-link-for-pages",
+      "severity": 2,
+      "message": "Do not use an `<a>` element to navigate to `/account/`. Use `<Link />` from `next/link` instead. See: https://nextjs.org/docs/messages/no-html-link-for-pages"
+    }
+  ],
+  "note": "Account behavior is unchanged; the account navigation now uses the existing Next Link and says Sign in with Google. Existing effect-state lint findings remain outside the Explore merge."
+}

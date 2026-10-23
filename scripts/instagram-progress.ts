@@ -1,6 +1,7 @@
 import {readFile,writeFile,readdir} from 'node:fs/promises';
 import {createHash} from 'node:crypto';
 import {validateInstagramRecords} from '../lib/catalog/instagram-schema';
+import {beforeCoverAdditions,reviewedCoverAdditions} from './reviewed-cover-additions.mjs';
 const read=async(path:string)=>JSON.parse(await readFile(path,'utf8'));
 type CatalogRow={id:string;image:unknown;destination_group:string;display_category:string;[key:string]:unknown};
 type ChecklistRow={placeId:string;batchId:string;[key:string]:unknown};
@@ -9,9 +10,12 @@ type Research={records:{placeId:string;status:string;sources:Source[]}[]};
 const root='docs/place-enrichment/instagram',catalog=await read('public/data/lakbay-locations.json') as CatalogRow[];
 const resources=validateInstagramRecords(await read('lib/catalog/place-instagram.json'),new Set<string>(catalog.map((p:{id:string})=>p.id)));
 const baseline=await read(root+'/preservation-baseline.json');
-for(const file of baseline.files){if(createHash('sha256').update(await readFile(file.path)).digest('hex')!==file.sha256)throw Error('Preserved file changed: '+file.path);}
+for(const file of baseline.files){
+ const bytes=file.path==='lib/catalog/place-content.json'?JSON.stringify(beforeCoverAdditions(await read(file.path)),null,2)+'\n':await readFile(file.path);
+ if(createHash('sha256').update(bytes).digest('hex')!==file.sha256)throw Error('Preserved file changed: '+file.path);
+}
 if(JSON.stringify(baseline.catalogIds)!==JSON.stringify(catalog.map((p:{id:string})=>p.id)))throw Error('Catalog identities changed');
-if(JSON.stringify(baseline.approvedPhotos)!==JSON.stringify(catalog.filter((p:{image:unknown})=>p.image).map((p:{id:string;image:unknown})=>({placeId:p.id,image:p.image}))))throw Error('Approved photographs changed');
+if(JSON.stringify(baseline.approvedPhotos)!==JSON.stringify(catalog.filter(p=>p.image&&!reviewedCoverAdditions.has(p.id)).map(p=>({placeId:p.id,image:p.image}))))throw Error('Approved photographs changed');
 const checklist=await read(root+'/checklist.json') as {records:ChecklistRow[];startingPhotoGaps:number},reports:Research[]=[];
 for(const file of (await readdir(root)).filter(n=>/^instagram-\d+-research.json$/.test(n)))reports.push(await read(root+'/'+file));
 let decisions:{placeId:string;outcome:string;reason:string}[]=[];
@@ -34,7 +38,7 @@ await writeFile('public/data/lakbay-instagram.csv','\uFEFF'+[columns.join(','),.
 const table=(groups:ReturnType<typeof counts>)=>Object.entries(groups).map(([group,c])=>`| ${group} | ${c.locations} | ${c.approvedPhotos} | ${c.photoGaps} | ${c.locationsWithInstagram} | ${c.resources} | ${c.photoGapsWithInstagram} |`);
 await writeFile(root+'/coverage.md',[
  '# Instagram coverage', '',`Generated ${progress.updatedOn} (UTC review dates). ${progress.totals.resources} resources for ${progress.totals.locationsWithInstagram}/${catalog.length} locations. ${progress.totals.confirmedWorkingEmbeds} confirmed working embeds at their recorded checks; ${progress.totals.externalLinkOnly} link-only resources.`,
- '',`Licensed photographs remain ${progress.totals.approvedPhotos}/${catalog.length}; starting and final photo gaps: ${checklist.startingPhotoGaps}. ${progress.totals.photoGapsWithInstagram} places with missing photos now have an Instagram resource. The other ${progress.totals.remainingWithoutApprovedInstagram} locations still have no approved Instagram resource.`,
+ '',`Licensed photographs: ${progress.totals.approvedPhotos}/${catalog.length}; current photo gaps: ${progress.totals.photoGaps}. The Instagram pass started with ${checklist.startingPhotoGaps} photo gaps; later, independently approved photo additions are counted separately. ${progress.totals.photoGapsWithInstagram} places with missing photos now have an Instagram resource. The other ${progress.totals.remainingWithoutApprovedInstagram} locations still have no approved Instagram resource.`,
  '', '## By browsing destination','', '| Destination | Locations | Photos | Photo gaps | Places with Instagram | Posts | Photo gaps with Instagram |','| --- | ---: | ---: | ---: | ---: | ---: | ---: |',...table(progress.byDestination),
  '', '## By display category','', '| Category | Locations | Photos | Photo gaps | Places with Instagram | Posts | Photo gaps with Instagram |','| --- | ---: | ---: | ---: | ---: | ---: | ---: |',...table(progress.byCategory),
  '',`The catalog-source audit covers ${progress.totals.publisherAudited} locations in 20-location batches (last batch: 6). ${uniqueSources.length} unique sources were attempted; ${progress.sourceAudit.inaccessible} were inaccessible. ${progress.sourceAudit.locationsWithAllCatalogSourcesInaccessible} locations had no accessible catalog source in this pass. Separate public travel/venue articles supplied the reviewed candidates.`,

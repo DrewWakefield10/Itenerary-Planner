@@ -1,0 +1,916 @@
+{
+  "batchId": "cover-005",
+  "checkedOn": "2026-10-23",
+  "status": "unapproved-research",
+  "records": [
+    {
+      "placeId": "bohol-green-thumb-farm",
+      "name": "Green Thumb Farm",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/place-enrichment/photo-only/photo-004-research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "Green Thumb Farm Corella",
+          "url": "https://www.flickr.com/search/?text=Green+Thumb+Farm+Corella&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Green Thumb Farm Bohol",
+          "url": "https://www.flickr.com/search/?text=Green+Thumb+Farm+Bohol&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "placeId": "bohol-quinale-beach",
+      "name": "Quinale Beach",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/place-enrichment/photo-only/photo-004-research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "Quinale Beach Anda",
+          "url": "https://www.flickr.com/search/?text=Quinale+Beach+Anda&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Quinale Beach Bohol",
+          "url": "https://www.flickr.com/search/?text=Quinale+Beach+Bohol&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Commons",
+          "query": "Quinale Beach Bohol",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Quinale+Beach+Bohol&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "placeId": "bohol-loboc-eco-adventure-park",
+      "name": "Loboc Eco-Tourism Adventure Park",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/place-enrichment/photo-only/photo-004-research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "Loboc Eco-Tourism Adventure Park Loboc",
+          "url": "https://www.flickr.com/search/?text=Loboc+Eco-Tourism+Adventure+Park+Loboc&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Loboc Eco-Tourism Adventure Bohol",
+          "url": "https://www.flickr.com/search/?text=Loboc+Eco-Tourism+Adventure+Bohol&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "placeId": "bohol-cabagnow-cave-pool",
+      "name": "Cabagnow Cave Pool",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/place-enrichment/photo-only/photo-004-research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "Cabagnow Cave Pool Anda",
+          "url": "https://www.flickr.com/search/?text=Cabagnow+Cave+Pool+Anda&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Cabagnow Cave Pool Bohol",
+          "url": "https://www.flickr.com/search/?text=Cabagnow+Cave+Pool+Bohol&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "placeId": "bohol-edith-grand-garden",
+      "name": "Edith Grand Garden Wellness Resort & Adventure Park",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/place-enrichment/photo-only/photo-004-research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "Edith Grand Garden Wellness Resort & Adventure Park Baclayon",
+          "url": "https://www.flickr.com/search/?text=Edith+Grand+Garden+Wellness+Resort+%26+Adventure+Park+Baclayon&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Edith Grand Garden Bohol",
+          "url": "https://www.flickr.com/search/?text=Edith+Grand+Garden+Bohol&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "placeId": "bohol-saffron-restaurant",
+      "name": "Saffron Restaurant - Amorita Resort",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/place-enrichment/photo-only/photo-004-research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "Saffron Restaurant Panglao",
+          "url": "https://www.flickr.com/search/?text=Saffron+Restaurant+Panglao&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Saffron Bohol",
+          "url": "https://www.flickr.com/search/?text=Saffron+Bohol&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "placeId": "bohol-latavola-restaurant",
+      "name": "Latavola Italian Restaurant",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/place-enrichment/photo-only/photo-004-research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "Latavola Italian Restaurant Panglao",
+          "url": "https://www.flickr.com/search/?text=Latavola+Italian+Restaurant+Panglao&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Latavola Italian Bohol",
+          "url": "https://www.flickr.com/search/?text=Latavola+Italian+Bohol&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "placeId": "bohol-prawn-farm-bolod",
+      "name": "The Prawn Farm Grill and Seafoods - Bolod",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/place-enrichment/photo-only/photo-004-research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "The Prawn Farm Grill and Seafoods Panglao",
+          "url": "https://www.flickr.com/search/?text=The+Prawn+Farm+Grill+and+Seafoods+Panglao&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Prawn Farm Grill Bohol",
+          "url": "https://www.flickr.com/search/?text=Prawn+Farm+Grill+Bohol&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "placeId": "bohol-overgrown-panglao",
+      "name": "Overgrown Café & Bar — Panglao",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/food-directory/media/research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "Overgrown Café & Bar Panglao",
+          "url": "https://www.flickr.com/search/?text=Overgrown+Caf%C3%A9+%26+Bar+Panglao&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Overgrown Bar Bohol",
+          "url": "https://www.flickr.com/search/?text=Overgrown+Bar+Bohol&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Commons",
+          "query": "Overgrown Bar Bohol",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Overgrown+Bar+Bohol&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "placeId": "bohol-mosia-cafe",
+      "name": "Mosia Cafe",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/food-directory/media/research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "Mosia Cafe Tagbilaran City",
+          "url": "https://www.flickr.com/search/?text=Mosia+Cafe+Tagbilaran+City&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Mosia Bohol",
+          "url": "https://www.flickr.com/search/?text=Mosia+Bohol&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Commons",
+          "query": "Mosia Bohol",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Mosia+Bohol&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "placeId": "bohol-slotide-danao",
+      "name": "Slotide Coffee Club",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/food-directory/media/research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "Slotide Coffee Club Panglao",
+          "url": "https://www.flickr.com/search/?text=Slotide+Coffee+Club+Panglao&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Slotide Coffee Club Bohol",
+          "url": "https://www.flickr.com/search/?text=Slotide+Coffee+Club+Bohol&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Commons",
+          "query": "Slotide Coffee Club Bohol",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Slotide+Coffee+Club+Bohol&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "placeId": "bohol-smoque-bistro",
+      "name": "Smoque Bistro + Cafe & Bar",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/food-directory/media/research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "Smoque Bistro + Cafe & Bar Tagbilaran City",
+          "url": "https://www.flickr.com/search/?text=Smoque+Bistro+%2B+Cafe+%26+Bar+Tagbilaran+City&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Smoque Bistro + Bohol",
+          "url": "https://www.flickr.com/search/?text=Smoque+Bistro+%2B+Bohol&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Commons",
+          "query": "Smoque Bistro + Bohol",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Smoque+Bistro+%2B+Bohol&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "placeId": "bohol-mist-danao",
+      "name": "MIST Cafe and Restaurant",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/food-directory/media/research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "MIST Cafe and Restaurant Panglao",
+          "url": "https://www.flickr.com/search/?text=MIST+Cafe+and+Restaurant+Panglao&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "MIST Bohol",
+          "url": "https://www.flickr.com/search/?text=MIST+Bohol&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 4,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Commons",
+          "query": "MIST Bohol",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=MIST+Bohol&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 1
+        }
+      ],
+      "candidates": [
+        {
+          "provider": "Flickr",
+          "id": "8061535675",
+          "title": "jungle mist",
+          "description": "",
+          "creator": "edward musiak",
+          "owner": "45098669@N06",
+          "sourcePage": "https://www.flickr.com/photos/edwardmusiak/8061535675/",
+          "licenseCode": 5,
+          "originalUrl": "https://live.staticflickr.com/8029/8061535675_073c445d92_b.jpg",
+          "previewUrl": "https://live.staticflickr.com/8029/8061535675_073c445d92_z.jpg",
+          "width": 1024,
+          "height": 768
+        },
+        {
+          "provider": "Flickr",
+          "id": "8175075803",
+          "title": "Bohol, Philippines",
+          "description": "The Chocolate Hills of Bohol. Go there in the early morning hours and you will see the scenery in the awesome morning mist. Priceless.\nwww.eardex.com/cost-of-living/calculator.php?city_name=Ta...\n\nCost of living: www.eardex.com\nCredit: Eardex.com (CC BY 2.0)",
+          "creator": "Cost of Living",
+          "owner": "89941121@N04",
+          "sourcePage": "https://www.flickr.com/photos/cost-of-living-worldwide/8175075803/",
+          "licenseCode": 4,
+          "originalUrl": "https://live.staticflickr.com/8069/8175075803_21cb35cabe_b.jpg",
+          "previewUrl": "https://live.staticflickr.com/8069/8175075803_21cb35cabe_z.jpg",
+          "width": 1024,
+          "height": 694
+        },
+        {
+          "provider": "Flickr",
+          "id": "9295522546",
+          "title": "Not a mysterious misty scene this!",
+          "description": "The following day was the day of our departure for Manila. But before that, we had another programme on the itinerary. This is the dolphin watching tour, which meant a bloody early start of 05:45. So here we aer, on the banca (traditional Filipino boat) casting off for the dolphins tour. And no, this is not a mysterious and romantic scene in the mist and gof. It was bloody hot and humid at 05:45 in the morning, and my lens has fogged completely. Wiping it clean meant it getting fogged again. Now the banquero (boat man) will not wait indefinitely for my lens to be clean, so he cast off anyway, after waiting some 10min. So this is a crisp, early morning though humid scene shot with a completely fogged lens. (Bohol- Tagbilaran, Philippines, May 2013)",
+          "creator": "shankar s.",
+          "owner": "77742560@N06",
+          "sourcePage": "https://www.flickr.com/photos/shankaronline/9295522546/",
+          "licenseCode": 4,
+          "originalUrl": "https://live.staticflickr.com/7405/9295522546_550df65366_b.jpg",
+          "previewUrl": "https://live.staticflickr.com/7405/9295522546_550df65366_z.jpg",
+          "width": 1024,
+          "height": 683
+        },
+        {
+          "provider": "Flickr",
+          "id": "9274505687",
+          "title": "Glass mounted butterflies",
+          "description": "After the humour filled explanations, you are free to look around the other glass mounted displays. This panel with 9 very dead butterflies is very nicely placed against an open window where can see the beautiful forest like landscaping of the facility. The mist effect is due to mesh behind the glass pane. (Bohol- Tagbilaran, Philippines, May 2013)",
+          "creator": "shankar s.",
+          "owner": "77742560@N06",
+          "sourcePage": "https://www.flickr.com/photos/shankaronline/9274505687/",
+          "licenseCode": 4,
+          "originalUrl": "https://live.staticflickr.com/3763/9274505687_af27656985_b.jpg",
+          "previewUrl": "https://live.staticflickr.com/3763/9274505687_af27656985_z.jpg",
+          "width": 1024,
+          "height": 768
+        },
+        {
+          "provider": "Wikimedia Commons",
+          "title": "File:Morning In Alicia.jpg",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Morning_In_Alicia.jpg",
+          "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Morning_In_Alicia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "previewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Morning_In_Alicia.jpg/960px-Morning_In_Alicia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1920,
+          "height": 1080,
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "creator": "Brian Santamaria",
+          "description": "Alicia Bohol is becoming a popular destination for trekkers .",
+          "categories": "Alicia, Bohol|Self-published work|Images from Wiki Loves Earth 2020|Images from Wiki Loves Earth 2020 in the Philippines|Uploaded via Campaign:wle-ph|Images from Wiki Loves Earth missing SDC depicts|Images from Wiki Loves Earth missing SDC location of creation"
+        }
+      ]
+    },
+    {
+      "placeId": "bohol-tomar-amorita",
+      "name": "Tomar Tapas x Bar — Amorita",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/food-directory/media/research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "Tomar Tapas x Bar Panglao",
+          "url": "https://www.flickr.com/search/?text=Tomar+Tapas+x+Bar+Panglao&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Tomar Tapas x Bohol",
+          "url": "https://www.flickr.com/search/?text=Tomar+Tapas+x+Bohol&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Commons",
+          "query": "Tomar Tapas x Bohol",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Tomar+Tapas+x+Bohol&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "placeId": "batanes-beehan",
+      "name": "Beehan Food Enterprise",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/place-enrichment/photo-only/photo-004-research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "Beehan Food Enterprise Basco",
+          "url": "https://www.flickr.com/search/?text=Beehan+Food+Enterprise+Basco&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Beehan Food Enterprise Batanes",
+          "url": "https://www.flickr.com/search/?text=Beehan+Food+Enterprise+Batanes&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "placeId": "batanes-casa-napoli-town",
+      "name": "Casa Napoli Pizza and Pasta - Basco Town",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/place-enrichment/photo-only/photo-004-research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "Casa Napoli Pizza and Pasta Basco",
+          "url": "https://www.flickr.com/search/?text=Casa+Napoli+Pizza+and+Pasta+Basco&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Casa Napoli Pizza Batanes",
+          "url": "https://www.flickr.com/search/?text=Casa+Napoli+Pizza+Batanes&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "placeId": "batanes-basco-plaza",
+      "name": "Basco Plaza",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/place-enrichment/photo-only/photo-004-research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "Basco Plaza Basco",
+          "url": "https://www.flickr.com/search/?text=Basco+Plaza+Basco&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 12,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Basco Plaza Batanes",
+          "url": "https://www.flickr.com/search/?text=Basco+Plaza+Batanes&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "candidates": [
+        {
+          "provider": "Flickr",
+          "id": "29478895841",
+          "title": "Donostia - De Euskadi Plaza",
+          "description": "Gros-Zurriola | De Euskadi Plaza\nBelle Epoque square and buildings.",
+          "creator": "Fred Romero",
+          "owner": "129231073@N06",
+          "sourcePage": "https://www.flickr.com/photos/129231073@N06/29478895841/",
+          "licenseCode": 4,
+          "originalUrl": "https://live.staticflickr.com/8077/29478895841_774dfcbc75_b.jpg",
+          "previewUrl": "https://live.staticflickr.com/8077/29478895841_774dfcbc75_z.jpg",
+          "width": 1024,
+          "height": 683
+        },
+        {
+          "provider": "Flickr",
+          "id": "29449935472",
+          "title": "Donostia - San Telmo Museoa",
+          "description": "Centro Histórico | Zuloaga Plaza\nSan Telmo Museum, municipal museum of the city of San Sebastian. The modern extension.\nArch. Nieto Sobejano Arquitectos (Fuensanta Nieto & Enrique Sobejano)\n2006-12.",
+          "creator": "Fred Romero",
+          "owner": "129231073@N06",
+          "sourcePage": "https://www.flickr.com/photos/129231073@N06/29449935472/",
+          "licenseCode": 4,
+          "originalUrl": "https://live.staticflickr.com/8087/29449935472_716df3ce89_b.jpg",
+          "previewUrl": "https://live.staticflickr.com/8087/29449935472_716df3ce89_z.jpg",
+          "width": 1024,
+          "height": 683
+        },
+        {
+          "provider": "Flickr",
+          "id": "25745490486",
+          "title": "Surfers at Laga Beach, Basque Country",
+          "description": "An open source photo gallery which aims to offer you some of our best takes – Use this photos for personal or commercial purposes, attribution is appreciated but not required – Here you go – Njoy!",
+          "creator": "Metamorfa Studio",
+          "owner": "126115381@N08",
+          "sourcePage": "https://www.flickr.com/photos/metamorfastudio/25745490486/",
+          "licenseCode": 10,
+          "originalUrl": "https://live.staticflickr.com/1604/25745490486_d610189389_b.jpg",
+          "previewUrl": "https://live.staticflickr.com/1604/25745490486_d610189389_z.jpg",
+          "width": 1024,
+          "height": 768
+        },
+        {
+          "provider": "Flickr",
+          "id": "29239757365",
+          "title": "Bilbao",
+          "description": "Indautxu | Indautxu Plaza\nEclecticism.",
+          "creator": "Fred Romero",
+          "owner": "129231073@N06",
+          "sourcePage": "https://www.flickr.com/photos/129231073@N06/29239757365/",
+          "licenseCode": 4,
+          "originalUrl": "https://live.staticflickr.com/8116/29239757365_f9cd24c96c_b.jpg",
+          "previewUrl": "https://live.staticflickr.com/8116/29239757365_f9cd24c96c_z.jpg",
+          "width": 1024,
+          "height": 683
+        },
+        {
+          "provider": "Flickr",
+          "id": "29559349305",
+          "title": "Donostia - La Equitativa",
+          "description": "Gros-Zurriola | De Euskadi Plaza\nFormer insurance company \"La Equitativa\" built in rationalist-expressionist style, now a residential building.\nArch. Fernando Arzadún\n1933.",
+          "creator": "Fred Romero",
+          "owner": "129231073@N06",
+          "sourcePage": "https://www.flickr.com/photos/129231073@N06/29559349305/",
+          "licenseCode": 4,
+          "originalUrl": "https://live.staticflickr.com/8631/29559349305_a491674cff_b.jpg",
+          "previewUrl": "https://live.staticflickr.com/8631/29559349305_a491674cff_z.jpg",
+          "width": 1024,
+          "height": 683
+        },
+        {
+          "provider": "Flickr",
+          "id": "29239758835",
+          "title": "Bilbao",
+          "description": "Indautxu | Bizkaia Plaza\nArt deco.",
+          "creator": "Fred Romero",
+          "owner": "129231073@N06",
+          "sourcePage": "https://www.flickr.com/photos/129231073@N06/29239758835/",
+          "licenseCode": 4,
+          "originalUrl": "https://live.staticflickr.com/8096/29239758835_db5c8b30b4_b.jpg",
+          "previewUrl": "https://live.staticflickr.com/8096/29239758835_db5c8b30b4_z.jpg",
+          "width": 1024,
+          "height": 683
+        },
+        {
+          "provider": "Flickr",
+          "id": "29478897931",
+          "title": "Donostia - La Equitativa",
+          "description": "Gros-Zurriola | De Euskadi Plaza\nFormer insurance company \"La Equitativa\" built in rationalist-expressionist style, now a residential building.\nArch. Fernando Arzadún\n1933.",
+          "creator": "Fred Romero",
+          "owner": "129231073@N06",
+          "sourcePage": "https://www.flickr.com/photos/129231073@N06/29478897931/",
+          "licenseCode": 4,
+          "originalUrl": "https://live.staticflickr.com/8214/29478897931_e901c058e1_b.jpg",
+          "previewUrl": "https://live.staticflickr.com/8214/29478897931_e901c058e1_z.jpg",
+          "width": 1024,
+          "height": 683
+        },
+        {
+          "provider": "Flickr",
+          "id": "29239760995",
+          "title": "Bilbao - Azkuna Zentroa",
+          "description": "Indautxu | Arriquibar Plaza\nAzkuna Centre, previously known as Alhóndiga Bilbao, is a multi-purpose venue. Originally it was a wine warehouse.\nArch. Ricardo Bastida\n1905-09.\nThe venue, labeled as a \"Culture and Leisure Centre\", consist of a cinema multiplex, a fitness centre, a library, showrooms, an auditorium, shops, and a restaurant.\nArch./Design: Philippe Starck and Thibaut Mathieu\n2001-10.",
+          "creator": "Fred Romero",
+          "owner": "129231073@N06",
+          "sourcePage": "https://www.flickr.com/photos/129231073@N06/29239760995/",
+          "licenseCode": 4,
+          "originalUrl": "https://live.staticflickr.com/8267/29239760995_23116dd14d_b.jpg",
+          "previewUrl": "https://live.staticflickr.com/8267/29239760995_23116dd14d_z.jpg",
+          "width": 1024,
+          "height": 683
+        },
+        {
+          "provider": "Flickr",
+          "id": "29559373775",
+          "title": "Donostia - Pescaderia de la Bretxa",
+          "description": "Centro Histórico | Bretxa Plaza\nFish market.\nArch. Juan Rafael Alday\n1928.",
+          "creator": "Fred Romero",
+          "owner": "129231073@N06",
+          "sourcePage": "https://www.flickr.com/photos/129231073@N06/29559373775/",
+          "licenseCode": 4,
+          "originalUrl": "https://live.staticflickr.com/8089/29559373775_9c2481327a_b.jpg",
+          "previewUrl": "https://live.staticflickr.com/8089/29559373775_9c2481327a_z.jpg",
+          "width": 1024,
+          "height": 683
+        },
+        {
+          "provider": "Flickr",
+          "id": "28933946124",
+          "title": "Donostia - De Euskadi Plaza",
+          "description": "Gros-Zurriola | De Euskadi Plaza\nBelle Epoque square.",
+          "creator": "Fred Romero",
+          "owner": "129231073@N06",
+          "sourcePage": "https://www.flickr.com/photos/129231073@N06/28933946124/",
+          "licenseCode": 4,
+          "originalUrl": "https://live.staticflickr.com/8151/28933946124_e0ab4dea34_b.jpg",
+          "previewUrl": "https://live.staticflickr.com/8151/28933946124_e0ab4dea34_z.jpg",
+          "width": 1024,
+          "height": 683
+        },
+        {
+          "provider": "Flickr",
+          "id": "28952033680",
+          "title": "Bilbao - Azkuna Zentroa",
+          "description": "Indautxu | Arriquibar Plaza\nAzkuna Centre, previously known as Alhóndiga Bilbao, is a multi-purpose venue. Originally it was a wine warehouse.\nArch. Ricardo Bastida\n1905-09.\nThe venue, labeled as a \"Culture and Leisure Centre\", consist of a cinema multiplex, a fitness centre, a library, showrooms, an auditorium, shops, and a restaurant.\nArch./Design: Philippe Starck and Thibaut Mathieu\n2001-10.",
+          "creator": "Fred Romero",
+          "owner": "129231073@N06",
+          "sourcePage": "https://www.flickr.com/photos/129231073@N06/28952033680/",
+          "licenseCode": 4,
+          "originalUrl": "https://live.staticflickr.com/8175/28952033680_392f53ddff_b.jpg",
+          "previewUrl": "https://live.staticflickr.com/8175/28952033680_392f53ddff_z.jpg",
+          "width": 1024,
+          "height": 684
+        },
+        {
+          "provider": "Flickr",
+          "id": "29131883162",
+          "title": "Bilbao - Azkuna Zentroa",
+          "description": "Indautxu | Arriquibar Plaza\nAzkuna Centre, previously known as Alhóndiga Bilbao, is a multi-purpose venue. Originally it was a wine warehouse.\nArch. Ricardo Bastida\n1905-09.\nThe venue, labeled as a \"Culture and Leisure Centre\", consist of a cinema multiplex, a fitness centre, a library, showrooms, an auditorium, shops, and a restaurant.\nArch./Design: Philippe Starck and Thibaut Mathieu\n2001-10.",
+          "creator": "Fred Romero",
+          "owner": "129231073@N06",
+          "sourcePage": "https://www.flickr.com/photos/129231073@N06/29131883162/",
+          "licenseCode": 4,
+          "originalUrl": "https://live.staticflickr.com/8400/29131883162_2d20922cdd_b.jpg",
+          "previewUrl": "https://live.staticflickr.com/8400/29131883162_2d20922cdd_z.jpg",
+          "width": 1024,
+          "height": 683
+        }
+      ]
+    },
+    {
+      "placeId": "batanes-vunong-dinette",
+      "name": "Vunong Dinette",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/place-enrichment/photo-only/photo-004-research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "Vunong Dinette Basco",
+          "url": "https://www.flickr.com/search/?text=Vunong+Dinette+Basco&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Vunong Dinette Batanes",
+          "url": "https://www.flickr.com/search/?text=Vunong+Dinette+Batanes&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "placeId": "batanes-honesty-coffee-shop",
+      "name": "Honesty Coffee Shop",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/place-enrichment/photo-only/photo-005-research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "Honesty Coffee Shop Ivana",
+          "url": "https://www.flickr.com/search/?text=Honesty+Coffee+Shop+Ivana&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Honesty Coffee Shop Batanes",
+          "url": "https://www.flickr.com/search/?text=Honesty+Coffee+Shop+Batanes&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "placeId": "batanes-harbour-cafe",
+      "name": "Harbour Cafe",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/place-enrichment/photo-only/photo-004-research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "Harbour Cafe Basco",
+          "url": "https://www.flickr.com/search/?text=Harbour+Cafe+Basco&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Harbour Batanes",
+          "url": "https://www.flickr.com/search/?text=Harbour+Batanes&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Commons",
+          "query": "Harbour Batanes",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Harbour+Batanes&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 1
+        }
+      ],
+      "candidates": [
+        {
+          "provider": "Wikimedia Commons",
+          "title": "File:Uscgc kukui-001.jpg",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Uscgc_kukui-001.jpg",
+          "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Uscgc_kukui-001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "previewUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Uscgc_kukui-001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "width": 800,
+          "height": 565,
+          "license": "CC BY-SA 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+          "creator": "Vbyssey",
+          "description": "The USCGC Kukui that dropped anchor at Imnajbu Harbour in Batanes, the Philippines, in the early 50s!",
+          "categories": "Imnajbu|USCGC Kukui (WAK-186)|Self-published work"
+        }
+      ]
+    },
+    {
+      "placeId": "batanes-rakuh-idi-spring",
+      "name": "Rakuh-a-Idi Spring",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/place-enrichment/photo-only/photo-005-research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "Rakuh-a-Idi Spring Mahatao",
+          "url": "https://www.flickr.com/search/?text=Rakuh-a-Idi+Spring+Mahatao&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Rakuh-a-Idi Spring Batanes",
+          "url": "https://www.flickr.com/search/?text=Rakuh-a-Idi+Spring+Batanes&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "placeId": "batanes-chawa-viewdeck",
+      "name": "Chawa View Deck",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/place-enrichment/photo-only/photo-005-research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "Chawa View Deck Mahatao",
+          "url": "https://www.flickr.com/search/?text=Chawa+View+Deck+Mahatao&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Chawa View Deck Batanes",
+          "url": "https://www.flickr.com/search/?text=Chawa+View+Deck+Batanes&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "placeId": "batanes-national-museum",
+      "name": "National Museum of the Philippines - Batanes",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/place-enrichment/photo-only/photo-005-research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "National Museum of the Philippines Uyugan",
+          "url": "https://www.flickr.com/search/?text=National+Museum+of+the+Philippines+Uyugan&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "National Museum of Batanes",
+          "url": "https://www.flickr.com/search/?text=National+Museum+of+Batanes&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "placeId": "batanes-cafe-du-tukon",
+      "name": "Café du Tukon",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/food-directory/media/research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "Café du Tukon Basco",
+          "url": "https://www.flickr.com/search/?text=Caf%C3%A9+du+Tukon+Basco&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "du Tukon Batanes",
+          "url": "https://www.flickr.com/search/?text=du+Tukon+Batanes&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Commons",
+          "query": "du Tukon Batanes",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=du+Tukon+Batanes&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        }
+      ],
+      "candidates": []
+    }
+  ]
+}

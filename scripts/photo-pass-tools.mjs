@@ -3,6 +3,16 @@ import {createHash} from 'node:crypto';
 import {mkdir,readFile,writeFile,stat} from 'node:fs/promises';
 export const clean=s=>String(s||'').replace(/<[^>]*>/g,'').replaceAll('&amp;','&').replaceAll('&#39;',"'").replaceAll('&quot;','"').trim();
 export const today=()=>new Date().toISOString().slice(0,10);
+// Flickr's individual-photo license IDs, including the newer 4.0 options.
+// https://www.flickr.com/services/api/flickr.photos.licenses.getInfo.html
+export const flickrReusableLicenses={
+ 4:['CC BY 2.0','https://creativecommons.org/licenses/by/2.0/'],
+ 5:['CC BY-SA 2.0','https://creativecommons.org/licenses/by-sa/2.0/'],
+ 9:['CC0','https://creativecommons.org/publicdomain/zero/1.0/'],
+ 10:['Public domain','https://creativecommons.org/publicdomain/mark/1.0/'],
+ 11:['CC BY 4.0','https://creativecommons.org/licenses/by/4.0/'],
+ 12:['CC BY-SA 4.0','https://creativecommons.org/licenses/by-sa/4.0/'],
+};
 const root='work/photo-pass';await mkdir(root,{recursive:true});
 export async function cached(url,type='json'){
  const path=`${root}/${createHash('sha256').update(url).digest('hex')}.${type==='json'?'json':'html'}`;
@@ -32,6 +42,6 @@ export async function commonsSearch(query){
  const d=await cached(url);return {url,candidates:Object.values(d.query?.pages||{}).filter(p=>/\.(jpe?g|png|webp)$/i.test(p.title)).map(p=>{const i=p.imageinfo?.[0],m=i?.extmetadata||{};return {provider:'Wikimedia Commons',title:p.title,sourcePage:i?.descriptionurl,originalUrl:i?.url,previewUrl:i?.thumburl||i?.url,width:i?.width,height:i?.height,license:clean(m.LicenseShortName?.value),licenseUrl:m.LicenseUrl?.value,creator:clean(m.Artist?.value),description:clean(m.ImageDescription?.value),categories:clean(m.Categories?.value),latitude:m.GPSLatitude?.value,longitude:m.GPSLongitude?.value};})};
 }
 export async function flickrSearch(query){
- const url='https://www.flickr.com/search/?'+new URLSearchParams({text:query,license:'4,5,9,10'});
+ const url='https://www.flickr.com/search/?'+new URLSearchParams({text:query,license:Object.keys(flickrReusableLicenses).join(',')});
  const html=await cached(url,'html');return {url,candidates:flickrPhotos(html).map(flickrCandidate).slice(0,12)};
 }

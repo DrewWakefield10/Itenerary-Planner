@@ -1,0 +1,1313 @@
+{
+  "batchId": "cover-006",
+  "checkedOn": "2026-10-23",
+  "status": "unapproved-research",
+  "records": [
+    {
+      "placeId": "el-nido-secret-lagoon",
+      "name": "Secret Lagoon",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/place-enrichment/photo-only/photo-005-research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "Secret Lagoon El Nido",
+          "url": "https://www.flickr.com/search/?text=Secret+Lagoon+El+Nido&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Secret Lagoon Palawan",
+          "url": "https://www.flickr.com/search/?text=Secret+Lagoon+Palawan&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "placeId": "batanes-bunkers-bistro",
+      "name": "Bunkers Bistro",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/food-directory/media/research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "Bunkers Bistro Basco",
+          "url": "https://www.flickr.com/search/?text=Bunkers+Bistro+Basco&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Bunkers Bistro Batanes",
+          "url": "https://www.flickr.com/search/?text=Bunkers+Bistro+Batanes&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Commons",
+          "query": "Bunkers Bistro Batanes",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Bunkers+Bistro+Batanes&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "placeId": "el-nido-cudugnon-cave",
+      "name": "Cudugnon Cave",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/place-enrichment/photo-only/photo-005-research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "Cudugnon Cave El Nido",
+          "url": "https://www.flickr.com/search/?text=Cudugnon+Cave+El+Nido&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Cudognon",
+          "url": "https://www.flickr.com/search/?text=Cudognon&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Commons",
+          "query": "Cudognon",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Cudognon&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "placeId": "puerto-princesa-mendoza-park",
+      "name": "Mendoza Park",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/place-enrichment/photo-only/photo-005-research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "Mendoza Park Puerto Princesa City",
+          "url": "https://www.flickr.com/search/?text=Mendoza+Park+Puerto+Princesa+City&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Mendoza Park Palawan",
+          "url": "https://www.flickr.com/search/?text=Mendoza+Park+Palawan&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Commons",
+          "query": "Mendoza Park Palawan",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Mendoza+Park+Palawan&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "placeId": "puerto-princesa-princess-eulalia-park",
+      "name": "Princess Eulalia Park",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/place-enrichment/photo-only/photo-005-research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "Princess Eulalia Park Puerto Princesa City",
+          "url": "https://www.flickr.com/search/?text=Princess+Eulalia+Park+Puerto+Princesa+City&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Princess Eulalia Park Palawan",
+          "url": "https://www.flickr.com/search/?text=Princess+Eulalia+Park+Palawan&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Commons",
+          "query": "Princess Eulalia Park Palawan",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Princess+Eulalia+Park+Palawan&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "placeId": "puerto-princesa-world-war-ii-memorial-museum",
+      "name": "World War II Memorial Museum",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/place-enrichment/photo-only/photo-005-research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "World War II Memorial Museum Puerto Princesa City",
+          "url": "https://www.flickr.com/search/?text=World+War+II+Memorial+Museum+Puerto+Princesa+City&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "World War II Palawan",
+          "url": "https://www.flickr.com/search/?text=World+War+II+Palawan&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 12,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "candidates": [
+        {
+          "provider": "Flickr",
+          "id": "22403300756",
+          "title": "Coral & Limestone, Coron Island, Palawan, Philippines",
+          "description": "PUBLISHED:\ndeeparrival.com/news/lind-hotels-coron-palawan-resort-2027/\n--------------------------------\nCoron is famous for its World War II wreck diving, and the site has been named in many lists of top dive spots in the world. In September 1944, a fleet of Japanese ships hiding in the harbor were sunk in a daring raid by the US navy. The result is around ten well preserved underwater shipwrecks surrounded with coral reef.\n\nCoron limestone was formed 260 million years ago as a coral reef along the length of Southeast Asia and was part of the China Continental Crust. It was later rafted to its present location north of Palawan by tectonic movements.\n\nThey were uplifted by tectonism some 30 million years ago and then extensively eroded by waves and monsoon rains to create its present unique “karst” topography. These limestone crops rise dramatically as cathedral-like formations more 400 meters above sea level.\n\nPalawan has recently been named by Conde Nast Traveller as The Best Island in The World for the second year running.",
+          "creator": ". Ray in Manila",
+          "owner": "21186555@N07",
+          "sourcePage": "https://www.flickr.com/photos/rayinmanila/22403300756/",
+          "licenseCode": 4,
+          "originalUrl": "https://live.staticflickr.com/5641/22403300756_a413f3fd59_b.jpg",
+          "previewUrl": "https://live.staticflickr.com/5641/22403300756_a413f3fd59_z.jpg",
+          "width": 1024,
+          "height": 563
+        },
+        {
+          "provider": "Flickr",
+          "id": "31923191562",
+          "title": "Limestone Rocks, Coron Island, Philippines",
+          "description": "PUBLISHED:\n\nexpertworldtravel.com/best-snorkeling-palawan/\n\nwww.income.com.sg/travelmadedifferent/blog/the-best-place...\n\nholamigo.id/astindo-travel-fair-filipina/\n--------------------------\nCoron is famous for its World War II wreck diving, and the site has been named in many lists of top dive spots in the world. In September 1944, a fleet of Japanese ships hiding in the harbor were sunk in a daring raid by the US navy. The result is around ten well preserved underwater shipwrecks surrounded with coral reef.\n \nCoron limestone was formed 260 million years ago as a coral reef along the length of Southeast Asia and was part of the China Continental Crust. It was later rafted to its present location north of Palawan by tectonic movements.\n \nThey were uplifted by tectonism some 30 million years ago and then extensively eroded by waves and monsoon rains to create its present unique “karst” topography. These limestone crops rise dramatically as cathedral-like formations more 400 meters above sea level.",
+          "creator": ". Ray in Manila",
+          "owner": "21186555@N07",
+          "sourcePage": "https://www.flickr.com/photos/rayinmanila/31923191562/",
+          "licenseCode": 4,
+          "originalUrl": "https://live.staticflickr.com/396/31923191562_4b424d6b22_b.jpg",
+          "previewUrl": "https://live.staticflickr.com/396/31923191562_4b424d6b22_z.jpg",
+          "width": 1024,
+          "height": 522
+        },
+        {
+          "provider": "Flickr",
+          "id": "19881239935",
+          "title": "Coron Island, Palawan, Philippines",
+          "description": "PUBLISHED:\n\nwww.taiwannews.com.tw/en/news/3755112\n\nwww.shopback.ph/blog/best-spots-for-snorkeling-in-the-phi...\n\ntripmydream.com/philippines/palawan/climate-resort\n\nwww.palawanpawnshop.com/amp/travel-\npalawan-tourist-spots\n\nwww.tripstodiscover.com/life-changing-snorkeling-spots-in...\n\ndivinginsurance.com/diving-insurance-philippines/\n\nleguidedesvoyageurs.ma/conseil-voyage/destinations-partir...\n\nthe-biggest.net/animals/what-are-the-10-largest-islands-i...\n\nwww.spot.ph/things-to-do/the-latest-things-to-do/82452/ce...\n\nwww.theworldbucketlist.com/mountains-in-the-philippines-f...\n\n---------------\nCoron Island is the third-largest island in the Calamian Islands in northern Palawan in the Philippines. The island is part of the larger municipality of the same name. It is about 170 nautical miles (310 km) southwest of Manila and is known for several Japanese shipwrecks of World War II vintage. The island is part of the ancestral domain of the indigenous Tagbanwa people. Known as Calis among the Tagbanwas and Coronians, its tribal chieftain is Rodolfo Aguilar I.\n\nThe area around the wrecks has rock formations which provide for snorkeling opportunities, with underwater visibility extending up to 80 feet (24 m). The water is often calm. Coron is one of the most visited destinations for wreck diving in the Philippines. Wreck dive sites are found in depths as shallow as 10–30 feet (3.0–9.1 m) and as deep as 120–140 feet (37–43 m). Most are in the range of about 60–80 feet (18–24 m).\n\nThe aquatic views from the sunken Japanese ships off Coron Island are listed in Forbes Traveler Magazine’s top-10 best scuba diving sites in the world.",
+          "creator": ". Ray in Manila",
+          "owner": "21186555@N07",
+          "sourcePage": "https://www.flickr.com/photos/rayinmanila/19881239935/",
+          "licenseCode": 4,
+          "originalUrl": "https://live.staticflickr.com/298/19881239935_c645130bcf_b.jpg",
+          "previewUrl": "https://live.staticflickr.com/298/19881239935_c645130bcf_z.jpg",
+          "width": 1024,
+          "height": 713
+        },
+        {
+          "provider": "Flickr",
+          "id": "28639962181",
+          "title": "A Beach in Limestone. Coron, Palawan, Philippines",
+          "description": "PUBLISHED:\n\nwww.thebrokebackpacker.com/coron-itinerary/\n\n——————————\n\nCoron is famous for its World War II wreck diving, and the site has been named in many lists of top dive spots in the world. In September 1944, a fleet of Japanese ships hiding in the harbour were sunk in a daring raid by the US navy. The result is around ten well preserved underwater shipwrecks surrounded with coral reef.\n \nCoron limestone was formed 260 million years ago as a coral reef along the length of Southeast Asia and was part of the China Continental Crust. It was later rafted to its present location north of Palawan by tectonic movements.\n \nThey were uplifted by tectonism some 30 million years ago and then extensively eroded by waves and monsoon rains to create its present unique “karst” topography. These limestone crops rise dramatically as cathedral-like formations more 400 meters above sea level.\n \nPalawan has recently been named by Conde Nast Traveller as The Best Island in The World for the second year running.",
+          "creator": ". Ray in Manila",
+          "owner": "21186555@N07",
+          "sourcePage": "https://www.flickr.com/photos/rayinmanila/28639962181/",
+          "licenseCode": 4,
+          "originalUrl": "https://live.staticflickr.com/8677/28639962181_9ac94d97b4_b.jpg",
+          "previewUrl": "https://live.staticflickr.com/8677/28639962181_9ac94d97b4_z.jpg",
+          "width": 1024,
+          "height": 596
+        },
+        {
+          "provider": "Flickr",
+          "id": "2334603971",
+          "title": "Philippines March 2005 055",
+          "description": "Fort Santiago description from Wikipedia:\n\nFort Santiago (Fuerza de Santiago) is a defense fortress built for Spanish conquistador, Miguel López de Legazpi. The fort is part of the structures of the walled city of Intramuros, in Manila, Philippines.\n\nThe location of Fort Santiago was also once the site of the palace and kingdom of Rajah Suliman, chieftain of Manila of pre-Spanish era. It was destroyed by the conquistadors upon arriving in 1570, encountering several bloody battles with the Muslims and native Tagalogs. The Spaniards destroyed the native settlements and erected Fuerza de Santiago in 1571.\n\nThe first fort was made out of log structures and earth. Most of it was destroyed in the Spanish-Chinese War of (1574-1575), by invaders of ethnic Chinese pirates who besieged the area. The Spaniards fought a bloody conflict and eventually drove the pirates out. In 1589 the fort was constructed with hard stone and finished in 1592. It became the main fort for travels and spice trade to the Americas and Europe for 333 years. The famous Manila Galleon trade to Acapulco, Mexico started sailing from Fuerza de Santiago.\n\nThe fort is shielded by 22-feet-high walls, with a thickness of 8 feet and an entrance measuring 40 feet high. It is located at the mouth of the Pasig River and it was once the premier defense fortress of the Spanish Government in the Philippines. During World War II it was captured by the Japanese, and sustained heavy damage from American & Filipino bombs during the Battle of Manila in February 1945. It was later restored by the Intramuros Administration during the 1980s. Today the fort serves as a museum which houses well-preserved legacies of the Spanish government, Jose Rizal (which is called the Plaza de Armas), Rizal Shrine, and the prison dungeons for criminals used by the Spanish officials.\n\nJosé Rizal, the country's national hero, was imprisoned here before his execution in 1896.\n\nThe Fort was featured as the first pit-stop in The Amazing Race Asia 2.",
+          "creator": "Trishhhh",
+          "owner": "10876923@N06",
+          "sourcePage": "https://www.flickr.com/photos/trishhhh/2334603971/",
+          "licenseCode": 4,
+          "originalUrl": "https://live.staticflickr.com/3059/2334603971_47b9a6d706_b.jpg",
+          "previewUrl": "https://live.staticflickr.com/3059/2334603971_47b9a6d706_z.jpg",
+          "width": 1024,
+          "height": 768
+        },
+        {
+          "provider": "Flickr",
+          "id": "9163500541",
+          "title": "Plaza Cuartel",
+          "description": "The beautifully landscaped garden inside Plaza Cuartel tries to soften the blow, and to hide the place's grisly history. Built in the 1940s, Plaza Cuartel served as a fortress for Filipino and American soldiers until it was over run by the Japanese invaders. It was then converted into a prison. (Puerto Princesa, Philippines, May 2013)",
+          "creator": "shankar s.",
+          "owner": "77742560@N06",
+          "sourcePage": "https://www.flickr.com/photos/shankaronline/9163500541/",
+          "licenseCode": 4,
+          "originalUrl": "https://live.staticflickr.com/5343/9163500541_34f7cfa9fe_b.jpg",
+          "previewUrl": "https://live.staticflickr.com/5343/9163500541_34f7cfa9fe_z.jpg",
+          "width": 1024,
+          "height": 683
+        },
+        {
+          "provider": "Flickr",
+          "id": "9163476429",
+          "title": "Plaza Cuartel memorial monument",
+          "description": "Plaza Cuartel is also the place where 143 American soldiers were locked up inside a dungeon without food or water, and were eventually burnt alive by the Japanese. Only 11 survived to tell the tale. This graphic image shows how the American soldiers would have looked, all skin and bones during their stay in prison here. (Puerto Princesa, Philippines, May 2013)",
+          "creator": "shankar s.",
+          "owner": "77742560@N06",
+          "sourcePage": "https://www.flickr.com/photos/shankaronline/9163476429/",
+          "licenseCode": 4,
+          "originalUrl": "https://live.staticflickr.com/5457/9163476429_5c16cdc700_b.jpg",
+          "previewUrl": "https://live.staticflickr.com/5457/9163476429_5c16cdc700_z.jpg",
+          "width": 1024,
+          "height": 683
+        },
+        {
+          "provider": "Flickr",
+          "id": "9165456172",
+          "title": "Place were American soldiers were burnt",
+          "description": "This is the dungeon where over 150 American soldiers were stuffed inside, without food or water. On 14 Dec. 1944, the occupying Japanese forces (the Japanese Imperial Army) poured gasoline on the prisoners and set them afire. 143 of the American solders perished in that tragedy, and only 11 survived to tell the tale. (Puerto Princesa, Philippines, May 2013)",
+          "creator": "shankar s.",
+          "owner": "77742560@N06",
+          "sourcePage": "https://www.flickr.com/photos/shankaronline/9165456172/",
+          "licenseCode": 4,
+          "originalUrl": "https://live.staticflickr.com/3834/9165456172_aedf20b6b0_b.jpg",
+          "previewUrl": "https://live.staticflickr.com/3834/9165456172_aedf20b6b0_c.jpg",
+          "width": 768,
+          "height": 1024
+        },
+        {
+          "provider": "Flickr",
+          "id": "9163235905",
+          "title": "Moi at the (in)famous Plaza Cuartel",
+          "description": "The main reason to pass through the Baywalk food plaza was, apart from to see the place, was to get to Plaza Cuartel. This is the restored ruin of an old garrison where Japanese soldiers burned 143 American prisoners of war inside a tunnel. Although beautiful landscaped garden tries to soften the blow, Plaza Cuartel still stands as a grim reminder of World War II.  (Puerto Princesa, Philippines, May 2013)",
+          "creator": "shankar s.",
+          "owner": "77742560@N06",
+          "sourcePage": "https://www.flickr.com/photos/shankaronline/9163235905/",
+          "licenseCode": 4,
+          "originalUrl": "https://live.staticflickr.com/5468/9163235905_3b69c13c4b_b.jpg",
+          "previewUrl": "https://live.staticflickr.com/5468/9163235905_3b69c13c4b_c.jpg",
+          "width": 768,
+          "height": 1024
+        },
+        {
+          "provider": "Flickr",
+          "id": "9165457602",
+          "title": "Place where American soldiers were burnt",
+          "description": "A final look at the infamous dungeon. To be stuffed here is one thing, but to be burned alive, un-imagninable! Imagine the state of mind of the 11 survivors! They'd have become nervous wrecks for life. It's rare to see the Americans getting busted, it's usually they who intimidate and bully nations all over the world in the name of spreading democracy. Be that as it may, I pray that the departed are now resting in peace. (Puerto Princesa, Philippines, May 2013)",
+          "creator": "shankar s.",
+          "owner": "77742560@N06",
+          "sourcePage": "https://www.flickr.com/photos/shankaronline/9165457602/",
+          "licenseCode": 4,
+          "originalUrl": "https://live.staticflickr.com/5472/9165457602_ea90237fe3_b.jpg",
+          "previewUrl": "https://live.staticflickr.com/5472/9165457602_ea90237fe3_c.jpg",
+          "width": 768,
+          "height": 1024
+        },
+        {
+          "provider": "Flickr",
+          "id": "33435645780",
+          "title": "151120-Z-FS713-004",
+          "description": "World War II Veteran Herb Everson (right) and his son, Rick, visit with Soldiers of the 41st Infantry Brigade Combat Team at the 41st Division Centennial Anniversary ceremony, April 1, 2017, at the 41st Infantry Division Armed Forces Reserve Center at Camp Withycombe in Clackamas, Oregon. Everson was a forward observer with the 167th Field Artillery Battalion, 41st Infantry Division, during battles with the Japanese on Palawan Island in the southern Philippines. The ceremony honored the 41st Division's 100-year history and generations of service from World War I to the Soldiers of the 41st Infantry Brigade Combat Team today. (Photo by Sgt. Cory Grogan, 41st Infantry Brigade Combat Team Public Affairs)",
+          "creator": "Oregon National Guard",
+          "owner": "32031029@N03",
+          "sourcePage": "https://www.flickr.com/photos/oregonmildep/33435645780/",
+          "licenseCode": 4,
+          "originalUrl": "https://live.staticflickr.com/3951/33435645780_918672db4b_b.jpg",
+          "previewUrl": "https://live.staticflickr.com/3951/33435645780_918672db4b_z.jpg",
+          "width": 1024,
+          "height": 658
+        },
+        {
+          "provider": "Flickr",
+          "id": "9163477903",
+          "title": "Erstwhile horse cart at Plaza Cuartel",
+          "description": "A horse cart or buggy of some sort, plinthed in the Plaza Cuartel grounds. No info was available, it was probably used by the Japanese army commanders. (Puerto Princesa, Philippines, May 2013)",
+          "creator": "shankar s.",
+          "owner": "77742560@N06",
+          "sourcePage": "https://www.flickr.com/photos/shankaronline/9163477903/",
+          "licenseCode": 4,
+          "originalUrl": "https://live.staticflickr.com/3707/9163477903_97bc5479ac_b.jpg",
+          "previewUrl": "https://live.staticflickr.com/3707/9163477903_97bc5479ac_z.jpg",
+          "width": 1024,
+          "height": 683
+        }
+      ]
+    },
+    {
+      "placeId": "puerto-princesa-butterfly-ecological-garden",
+      "name": "Palawan Butterfly Ecological Garden",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/place-enrichment/photo-only/photo-005-research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "Palawan Butterfly Ecological Garden Puerto Princesa City",
+          "url": "https://www.flickr.com/search/?text=Palawan+Butterfly+Ecological+Garden+Puerto+Princesa+City&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Palawan Butterfly Ecological Palawan",
+          "url": "https://www.flickr.com/search/?text=Palawan+Butterfly+Ecological+Palawan&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "placeId": "coron-saint-augustine-parish",
+      "name": "Saint Augustine Parish Church",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/place-enrichment/photo-only/photo-005-research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "Saint Augustine Parish Church Coron",
+          "url": "https://www.flickr.com/search/?text=Saint+Augustine+Parish+Church+Coron&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Saint Augustine Parish Palawan",
+          "url": "https://www.flickr.com/search/?text=Saint+Augustine+Parish+Palawan&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "placeId": "el-nido-nagkalit-kalit-falls",
+      "name": "Nagkalit-kalit Falls",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/place-enrichment/photo-only/photo-005-research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "Nagkalit-kalit Falls El Nido",
+          "url": "https://www.flickr.com/search/?text=Nagkalit-kalit+Falls+El+Nido&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Nagkalit-kalit Falls Palawan",
+          "url": "https://www.flickr.com/search/?text=Nagkalit-kalit+Falls+Palawan&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "placeId": "puerto-princesa-iwahig-firefly-watching",
+      "name": "Iwahig River — community firefly site",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/place-enrichment/photo-only/photo-005-research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "Iwahig River Puerto Princesa City",
+          "url": "https://www.flickr.com/search/?text=Iwahig+River+Puerto+Princesa+City&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Iwahig River Palawan",
+          "url": "https://www.flickr.com/search/?text=Iwahig+River+Palawan&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "placeId": "puerto-princesa-buenavista-viewdeck",
+      "name": "Buenavista Viewdeck",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/place-enrichment/photo-only/photo-005-research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "Buenavista Viewdeck Puerto Princesa City",
+          "url": "https://www.flickr.com/search/?text=Buenavista+Viewdeck+Puerto+Princesa+City&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Buenavista Viewdeck Palawan",
+          "url": "https://www.flickr.com/search/?text=Buenavista+Viewdeck+Palawan&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "placeId": "puerto-princesa-bakers-hill",
+      "name": "Baker’s Hill",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/place-enrichment/photo-only/photo-005-research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "Bakers Hill Puerto Princesa City",
+          "url": "https://www.flickr.com/search/?text=Bakers+Hill+Puerto+Princesa+City&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 1,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Bakers Hill Palawan",
+          "url": "https://www.flickr.com/search/?text=Bakers+Hill+Palawan&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 12,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "candidates": [
+        {
+          "provider": "Flickr",
+          "id": "9364648658",
+          "title": "Hopia factory, Quiapo",
+          "description": "I retraced a couple of steps to take this picture. One, the 'hopia factory' bit fascinated me. 'Hopia' is a kind of Filipino stuffed pastry and is usually sweet (there are non sweet varieties as well) and 100% delicious. I had two boxes of fresh hopia in my case back at the hotel, one for a colleague I was due to meet in Manila (which I never did as there was a death in her family, due to which I gave it to the kid accompanying me for her family) and one box for my own folks bak home. We had picked these up fresh from the oven on Baker's Hill, Puerto Princesa a couple of days earlier. So the sight of a hopia factory right inthe middle of the busy market area fascinated me and brought back memories. Second, hopia is a typically Filipino dish (there is a Chinese variant), but I was surprised to see the Chinese name Kim Chong Tin on the shop. Or maybe hopia is Chinese and piyaya is the Filipina equivalent? (Manila, Philippines, May 2013)",
+          "creator": "shankar s.",
+          "owner": "77742560@N06",
+          "sourcePage": "https://www.flickr.com/photos/shankaronline/9364648658/",
+          "licenseCode": 4,
+          "originalUrl": "https://live.staticflickr.com/7361/9364648658_33cb9b12c2_b.jpg",
+          "previewUrl": "https://live.staticflickr.com/7361/9364648658_33cb9b12c2_z.jpg",
+          "width": 1024,
+          "height": 683
+        },
+        {
+          "provider": "Flickr",
+          "id": "9162912239",
+          "title": "Baker's Hill- the bakery",
+          "description": "Interior of one of the bakery. Stop here for the freshest 'hopia' in Philippines. Baker's Hill Hopia is the bakery's best seller and the stocks literally sell out like hot cakes. It's fresh and very inexpensive- something like some Php 40 Phpfor a pack of 24. Hopia is actually a bean filled sweet pastry Other fillings are used too, and several varieties are available. That's moi trying to take a shot of the hopia lovers as seen is the large mirror abouve the check out counter.(Puerto Princesa, Philippines, May 2013)",
+          "creator": "shankar s.",
+          "owner": "77742560@N06",
+          "sourcePage": "https://www.flickr.com/photos/shankaronline/9162912239/",
+          "licenseCode": 4,
+          "originalUrl": "https://live.staticflickr.com/7409/9162912239_ac8f731ecf_b.jpg",
+          "previewUrl": "https://live.staticflickr.com/7409/9162912239_ac8f731ecf_z.jpg",
+          "width": 1024,
+          "height": 683
+        },
+        {
+          "provider": "Flickr",
+          "id": "9162927471",
+          "title": "Zipline hut at Baker's Hill",
+          "description": "Baker's Hill also starting point of the 'zip line' where you hook yourself to a cable and rocket across a deep valley to the other side. A true adrenaline rush if there was one, as your life literally hands by a single thread! I'll pass this one on, thank you very much. The hut you see in the foreground is the starting poing for the zipline. Incidentally, FIilpinos obviously love their ziplines, I found several of these rides in Davao, Cebu, two in Bohol, and here in Puerto Princesa. In Cebu, the zipline was across tall buildings. In the horizon is the Puerto Princesa bay.  (Puerto Princesa, Philippines, May 2013)",
+          "creator": "shankar s.",
+          "owner": "77742560@N06",
+          "sourcePage": "https://www.flickr.com/photos/shankaronline/9162927471/",
+          "licenseCode": 4,
+          "originalUrl": "https://live.staticflickr.com/5441/9162927471_ed432431d1_b.jpg",
+          "previewUrl": "https://live.staticflickr.com/5441/9162927471_ed432431d1_z.jpg",
+          "width": 1024,
+          "height": 683
+        },
+        {
+          "provider": "Flickr",
+          "id": "9165140154",
+          "title": "Baker's Hill- the bakery",
+          "description": "Freshness and quality sell, there is no doubt about that! The bakery does brisk business, with most folks picking up hopia (bean filled pastries, buns or cakes. Here is a view of the check out counter. (Puerto Princesa, Philippines, May 2013)",
+          "creator": "shankar s.",
+          "owner": "77742560@N06",
+          "sourcePage": "https://www.flickr.com/photos/shankaronline/9165140154/",
+          "licenseCode": 4,
+          "originalUrl": "https://live.staticflickr.com/2891/9165140154_6a64d5a7f6_b.jpg",
+          "previewUrl": "https://live.staticflickr.com/2891/9165140154_6a64d5a7f6_z.jpg",
+          "width": 1024,
+          "height": 683
+        },
+        {
+          "provider": "Flickr",
+          "id": "9165143768",
+          "title": "Tourists at the Baker's Hill villa",
+          "description": "Tourists get their photos taken with the background of the Mitra's Ranch villa. Here our tour guide Tootsie obliges two of the other passengers of our bus by snapping their picture. (Puerto Princesa, Philippines, May 2013)",
+          "creator": "shankar s.",
+          "owner": "77742560@N06",
+          "sourcePage": "https://www.flickr.com/photos/shankaronline/9165143768/",
+          "licenseCode": 4,
+          "originalUrl": "https://live.staticflickr.com/7409/9165143768_0175a25c50_b.jpg",
+          "previewUrl": "https://live.staticflickr.com/7409/9165143768_0175a25c50_z.jpg",
+          "width": 1024,
+          "height": 683
+        },
+        {
+          "provider": "Flickr",
+          "id": "9162925937",
+          "title": "View from Baker's Hill",
+          "description": "The next halt on our tour was Baker's Hill. Baker's Hill is one of the tourist attractions in Puerto Princesa, and as the name suggests, sit on top of a hill where a number of bakers work together to offer deliciously baked goodies for tourists and visitors. This and Mitra's Ranch close by are skirted by a military area. Seen here are the grounds of the military facility and the typically army watch tower.(Puerto Princesa, Philippin",
+          "creator": "shankar s.",
+          "owner": "77742560@N06",
+          "sourcePage": "https://www.flickr.com/photos/shankaronline/9162925937/",
+          "licenseCode": 4,
+          "originalUrl": "https://live.staticflickr.com/2859/9162925937_faee081cdf_b.jpg",
+          "previewUrl": "https://live.staticflickr.com/2859/9162925937_faee081cdf_z.jpg",
+          "width": 1024,
+          "height": 683
+        },
+        {
+          "provider": "Flickr",
+          "id": "9165147420",
+          "title": "Horse riding on Baker's Hill",
+          "description": "There were not many takers for the horse ride, or for the zipline for that matter. Maybe it was that time of the day, it was pretty hot then. (Puerto Princesa, Philippines, May 2013)",
+          "creator": "shankar s.",
+          "owner": "77742560@N06",
+          "sourcePage": "https://www.flickr.com/photos/shankaronline/9165147420/",
+          "licenseCode": 4,
+          "originalUrl": "https://live.staticflickr.com/3703/9165147420_65bf252f4e_b.jpg",
+          "previewUrl": "https://live.staticflickr.com/3703/9165147420_65bf252f4e_z.jpg",
+          "width": 1024,
+          "height": 683
+        },
+        {
+          "provider": "Flickr",
+          "id": "9163278713",
+          "title": "Upmarket housing on Baker's Hill",
+          "description": "Upmarket housing on Baker's Hill. (Puerto Princesa, Philippines, May 2013)",
+          "creator": "shankar s.",
+          "owner": "77742560@N06",
+          "sourcePage": "https://www.flickr.com/photos/shankaronline/9163278713/",
+          "licenseCode": 4,
+          "originalUrl": "https://live.staticflickr.com/5495/9163278713_d260c87b5b_b.jpg",
+          "previewUrl": "https://live.staticflickr.com/5495/9163278713_d260c87b5b_z.jpg",
+          "width": 1024,
+          "height": 683
+        },
+        {
+          "provider": "Flickr",
+          "id": "9212014703",
+          "title": "Marilyn Monroe figurine",
+          "description": "Apart from the bakeries, restaurants and other entertainment on Baker's Hill are also several figurines of cartoon characters, a baker and this one of Marilyn Monroe. This Marilyn Monroe appeared to be quite popular, as there was a cut out of this inside the bakery as well.   (Puerto Princesa, Philippines, May 2013)",
+          "creator": "shankar s.",
+          "owner": "77742560@N06",
+          "sourcePage": "https://www.flickr.com/photos/shankaronline/9212014703/",
+          "licenseCode": 4,
+          "originalUrl": "https://live.staticflickr.com/7417/9212014703_11723b8337_b.jpg",
+          "previewUrl": "https://live.staticflickr.com/7417/9212014703_11723b8337_c.jpg",
+          "width": 768,
+          "height": 1024
+        },
+        {
+          "provider": "Flickr",
+          "id": "9165141956",
+          "title": "Villa at Mitra's Ranch on Baker's Hill",
+          "description": "Bakeries aside, Rancho Sta. Monica, popularly known as Mitra’s Ranch is another of the popular tourist spots on Baker's Hill. This is a big ranch is owned by the family of late Philippines house speaker Ramon Mitra and his son, Baham Mitra, who have opened up their personal property to the public.You can hang out and roam around freely in the grounds, but the house itself is off-limits to the public. This is the house. (Puerto Princesa, Philippines, May 2013)",
+          "creator": "shankar s.",
+          "owner": "77742560@N06",
+          "sourcePage": "https://www.flickr.com/photos/shankaronline/9165141956/",
+          "licenseCode": 4,
+          "originalUrl": "https://live.staticflickr.com/3779/9165141956_68cf6f2fde_b.jpg",
+          "previewUrl": "https://live.staticflickr.com/3779/9165141956_68cf6f2fde_z.jpg",
+          "width": 1024,
+          "height": 683
+        },
+        {
+          "provider": "Flickr",
+          "id": "9212011229",
+          "title": "Decorative hedge trimming",
+          "description": "Decorative hedge trimming near the bakery and the villa in the gardens on Baker's Hill. Here the theme seems to be ice cream. (though some one in our group referred to the first twirl (ice cream on a cone) as poo poo. (excrement). Yikes! (Puerto Princesa, Philippines, May 2013)",
+          "creator": "shankar s.",
+          "owner": "77742560@N06",
+          "sourcePage": "https://www.flickr.com/photos/shankaronline/9212011229/",
+          "licenseCode": 4,
+          "originalUrl": "https://live.staticflickr.com/2822/9212011229_e574d55385_b.jpg",
+          "previewUrl": "https://live.staticflickr.com/2822/9212011229_e574d55385_z.jpg",
+          "width": 1024,
+          "height": 768
+        },
+        {
+          "provider": "Flickr",
+          "id": "9165145134",
+          "title": "Horse riding on Baker's Hill",
+          "description": "Bakery, zipline and Mitra's Ranch aside, there are other touristic activities such as horse riding around the area. Beyond the horse is a steeply graded path leading to the zipline. The kid in our group who kept calling me dad, and is now my sort of adopted daughter, poses.(Puerto Princesa, Philippines, May 2013)",
+          "creator": "shankar s.",
+          "owner": "77742560@N06",
+          "sourcePage": "https://www.flickr.com/photos/shankaronline/9165145134/",
+          "licenseCode": 4,
+          "originalUrl": "https://live.staticflickr.com/7422/9165145134_6970fe771c_b.jpg",
+          "previewUrl": "https://live.staticflickr.com/7422/9165145134_6970fe771c_z.jpg",
+          "width": 1024,
+          "height": 683
+        },
+        {
+          "provider": "Flickr",
+          "id": "9165478818",
+          "title": "Moi with Tootsie, our tourist guide",
+          "description": "Despite my general dislike for bus tours, our tour guide Tootsie was a wonderful individual, always ready with a smile. She even made a joke at my expense much to the amusement of the rest of the passengers! This is me posing with Tootsie. (Puerto Princesa, Philippines, May 2013)",
+          "creator": "shankar s.",
+          "owner": "77742560@N06",
+          "sourcePage": "https://www.flickr.com/photos/shankaronline/9165478818/",
+          "licenseCode": 4,
+          "originalUrl": "https://live.staticflickr.com/7304/9165478818_28d3165876_b.jpg",
+          "previewUrl": "https://live.staticflickr.com/7304/9165478818_28d3165876_c.jpg",
+          "width": 768,
+          "height": 1024
+        }
+      ]
+    },
+    {
+      "placeId": "puerto-princesa-balayong-peoples-park",
+      "name": "Balayong People’s Park",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/place-enrichment/photo-only/photo-005-research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "Balayong Peoples Park Puerto Princesa City",
+          "url": "https://www.flickr.com/search/?text=Balayong+Peoples+Park+Puerto+Princesa+City&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Balayong Peoples Park Palawan",
+          "url": "https://www.flickr.com/search/?text=Balayong+Peoples+Park+Palawan&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Commons",
+          "query": "Balayong Peoples Park Palawan",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Balayong+Peoples+Park+Palawan&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "placeId": "el-nido-artcafe",
+      "name": "El Nido Boutique & Artcafe",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/place-enrichment/photo-only/photo-005-research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "El Nido Boutique & Artcafe El Nido",
+          "url": "https://www.flickr.com/search/?text=El+Nido+Boutique+%26+Artcafe+El+Nido&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "El Nido Boutique Palawan",
+          "url": "https://www.flickr.com/search/?text=El+Nido+Boutique+Palawan&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "placeId": "el-nido-trattoria-altrove",
+      "name": "Trattoria Altrove — El Nido",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/place-enrichment/photo-only/photo-005-research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "Trattoria Altrove El Nido",
+          "url": "https://www.flickr.com/search/?text=Trattoria+Altrove+El+Nido&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Trattoria Altrove Palawan",
+          "url": "https://www.flickr.com/search/?text=Trattoria+Altrove+Palawan&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "placeId": "coron-trattoria-altrove",
+      "name": "Trattoria Altrove — Coron",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/place-enrichment/photo-only/photo-005-research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "Trattoria Altrove Coron",
+          "url": "https://www.flickr.com/search/?text=Trattoria+Altrove+Coron&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Trattoria Altrove Palawan",
+          "url": "https://www.flickr.com/search/?text=Trattoria+Altrove+Palawan&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "placeId": "el-nido-grounded-town",
+      "name": "Grounded — El Nido Town",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/food-directory/media/research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "Grounded El Nido",
+          "url": "https://www.flickr.com/search/?text=Grounded+El+Nido&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 1,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Grounded Palawan",
+          "url": "https://www.flickr.com/search/?text=Grounded+Palawan&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 12,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Commons",
+          "query": "Grounded Palawan",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Grounded+Palawan&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 7
+        }
+      ],
+      "candidates": [
+        {
+          "provider": "Flickr",
+          "id": "152599218",
+          "title": "ground.nesting.bee",
+          "description": "a female solitary bee (Halictidae) coming out of her nest  in the ground. Good morning cutie! / una hembra de Halictido saliendo de su nido en el suelo",
+          "creator": "dobroide",
+          "owner": "28619287@N00",
+          "sourcePage": "https://www.flickr.com/photos/dobroide/152599218/",
+          "licenseCode": 5,
+          "originalUrl": "https://live.staticflickr.com/45/152599218_eef404713a_c.jpg",
+          "previewUrl": "https://live.staticflickr.com/45/152599218_eef404713a_z.jpg",
+          "width": 800,
+          "height": 600
+        },
+        {
+          "provider": "Flickr",
+          "id": "30324924353",
+          "title": "Palawan under ground river",
+          "description": "",
+          "creator": "GoTcHiE",
+          "owner": "145078281@N04",
+          "sourcePage": "https://www.flickr.com/photos/145078281@N04/30324924353/",
+          "licenseCode": 4,
+          "originalUrl": "https://live.staticflickr.com/5457/30324924353_a398c98057_b.jpg",
+          "previewUrl": "https://live.staticflickr.com/5457/30324924353_a398c98057_c.jpg",
+          "width": 683,
+          "height": 1024
+        },
+        {
+          "provider": "Flickr",
+          "id": "6161033411",
+          "title": "Meanwhile somewhere over Palawan....",
+          "description": "I recently went on a trip to Puerto Princesa, Palawan and we had one of those early morning flights so I immediately zonked out as I got into my seat.  Good thing the flight attendants were walking along the aisles selling drinks so I woke up from the noise and looked out the window. \n\nPalawan, Philippines",
+          "creator": "Benson Kua",
+          "owner": "91545223@N00",
+          "sourcePage": "https://www.flickr.com/photos/bensonkua/6161033411/",
+          "licenseCode": 5,
+          "originalUrl": "https://live.staticflickr.com/6190/6161033411_67c08689cf_b.jpg",
+          "previewUrl": "https://live.staticflickr.com/6190/6161033411_67c08689cf_z.jpg",
+          "width": 1024,
+          "height": 680
+        },
+        {
+          "provider": "Flickr",
+          "id": "9163215613",
+          "title": "Baywalk fish collage",
+          "description": "Although I generally dislike organized tours, and prefer to wander at my own terms at my own pace, thanks to the necessity of obtaining a permit before hand for the underground river (pictures later), this entire Palawan trip was part of a package. That meant most of our time was spent inside tour buses and vans. We had very little 'ground time' so to speak. And when I did get a chance to wander, it was usually late night. So here I am, back on Puerto Princesa's  Baywalk seaside promenade, trying to stretch my legs and get some authentic local cuisine.  This interesting fish collage was on the seaside promenade. Just behind the fish is the sea. (Puerto Princesa, Philippines, May 2013)",
+          "creator": "shankar s.",
+          "owner": "77742560@N06",
+          "sourcePage": "https://www.flickr.com/photos/shankaronline/9163215613/",
+          "licenseCode": 4,
+          "originalUrl": "https://live.staticflickr.com/7400/9163215613_e91c443661_b.jpg",
+          "previewUrl": "https://live.staticflickr.com/7400/9163215613_e91c443661_z.jpg",
+          "width": 1024,
+          "height": 768
+        },
+        {
+          "provider": "Flickr",
+          "id": "6326968245",
+          "title": "Revelation",
+          "description": "When we were taking off from Puerto Princesa's airport, I was bummed that it was really gloomy and cloudy because that meant that I wouldn't be able to get shots of the ground as the plane was flying.  Minutes after take-off I could barely see anything because of the thick clouds, but as we rose up from the dense cloud layer I saw this! Who knew it was beautiful above those clouds!\n\nPuerto Princesa, Palawan\n\ntumblr.com/ZomCayBhT-8A",
+          "creator": "Benson Kua",
+          "owner": "91545223@N00",
+          "sourcePage": "https://www.flickr.com/photos/bensonkua/6326968245/",
+          "licenseCode": 5,
+          "originalUrl": "https://live.staticflickr.com/6213/6326968245_b81e26fa0c_b.jpg",
+          "previewUrl": "https://live.staticflickr.com/6213/6326968245_b81e26fa0c_z.jpg",
+          "width": 1024,
+          "height": 680
+        },
+        {
+          "provider": "Flickr",
+          "id": "9163416411",
+          "title": "Them moving towards the u'ground river entrance",
+          "description": "Yes, thats the underground river, and they are well and truly heading into it. Due to the length of the tunnel, and no ventilation, diesel boats are not allowed inside. Apart from choking the passengers, the fumes will also kill the wild life inside and do irrepairable permanent damage to the limestone formations within. The tunnel is some 8.4 km long. We are allowed 1.4 km only. People with special permits can go upto4.5km inside. (Puerto Princesa, Philippines, May 2013)",
+          "creator": "shankar s.",
+          "owner": "77742560@N06",
+          "sourcePage": "https://www.flickr.com/photos/shankaronline/9163416411/",
+          "licenseCode": 4,
+          "originalUrl": "https://live.staticflickr.com/3690/9163416411_5b9028af2c_b.jpg",
+          "previewUrl": "https://live.staticflickr.com/3690/9163416411_5b9028af2c_z.jpg",
+          "width": 1024,
+          "height": 683
+        },
+        {
+          "provider": "Flickr",
+          "id": "458700968",
+          "title": "Crab's effect",
+          "description": "Crabs play ground",
+          "creator": "Paul Chin",
+          "owner": "97097981@N00",
+          "sourcePage": "https://www.flickr.com/photos/pchin/458700968/",
+          "licenseCode": 5,
+          "originalUrl": "https://live.staticflickr.com/210/458700968_01366edc79_c.jpg",
+          "previewUrl": "https://live.staticflickr.com/210/458700968_01366edc79_z.jpg",
+          "width": 800,
+          "height": 533
+        },
+        {
+          "provider": "Flickr",
+          "id": "33386383060",
+          "title": "IMG_0064/Thailand/Koh Samui Island/Cirrochroa Tyche Rotundata/femelle",
+          "description": "Cirrochroa Tyche is large specie present in South East Asia , India , Burma , China South , Indochina , Malaysia , Indonésia and Philippines only Palawan and Bornéo .\nMember of Nymphalidaé/Héliconiinaé family \nCommon name ; Common Yeoman \nDiscover by Felder 1861 \n\nCirrochroa Tyche Rotundata  is only présent in Burma,  Peninsular of Thailand , and Malaysia .\nOn the uppersdie, the wings are tawny orange with black distal margin, sinuate marginal and submarginal lines. The hindwing has a series of black post-discal spots. The female is duller orange with black margin at the forewing apex broader than that in the male. On the underside, the wings are paler orange in the male and dull brownish orange in the female. Both wings feature a silvery white transverse discal band.  \nThis newly discovered species has so far been sighted at two locations in island. The adults are rapid in flight and not easy to photograph. Typically, photography opportunities arise when the males are puddling on wet ground, or when the females are taking breaks between oviposition runs.",
+          "creator": "dany13",
+          "owner": "11493299@N00",
+          "sourcePage": "https://www.flickr.com/photos/dany13/33386383060/",
+          "licenseCode": 4,
+          "originalUrl": "https://live.staticflickr.com/3843/33386383060_6df3c8e9f4_b.jpg",
+          "previewUrl": "https://live.staticflickr.com/3843/33386383060_6df3c8e9f4_z.jpg",
+          "width": 1024,
+          "height": 672
+        },
+        {
+          "provider": "Flickr",
+          "id": "33767703265",
+          "title": "IMG_0005/Thailand/Koh Samui Island/Cirrochroa Tyche Rotundata/",
+          "description": "Cirrochroa Tyche is large specie present in South East Asia , India , Burma , China South , Indochina , Malaysia , Indonésia and Philippines only Palawan and Bornéo .\nMember of Nymphalidaé/Héliconiinaé family \nCommon name ; Common Yeoman \nDiscover by Felder 1861 \n\nCirrochroa Tyche Rotundata  is only présent in Burma,  Peninsular of Thailand , and Malaysia .\nOn the uppersdie, the wings are tawny orange with black distal margin, sinuate marginal and submarginal lines. The hindwing has a series of black post-discal spots. The female is duller orange with black margin at the forewing apex broader than that in the male. On the underside, the wings are paler orange in the male and dull brownish orange in the female. Both wings feature a silvery white transverse discal band.  \nThis newly discovered species has so far been sighted at two locations in island. The adults are rapid in flight and not easy to photograph. Typically, photography opportunities arise when the males are puddling on wet ground, or when the females are taking breaks between oviposition runs.",
+          "creator": "dany13",
+          "owner": "11493299@N00",
+          "sourcePage": "https://www.flickr.com/photos/dany13/33767703265/",
+          "licenseCode": 4,
+          "originalUrl": "https://live.staticflickr.com/3837/33767703265_47c0a6a396_b.jpg",
+          "previewUrl": "https://live.staticflickr.com/3837/33767703265_47c0a6a396_z.jpg",
+          "width": 1024,
+          "height": 617
+        },
+        {
+          "provider": "Flickr",
+          "id": "410310881",
+          "title": "so this is the national dance of the Philippines, kinda like the Macarena was the national dance of america in 1996",
+          "description": "from wikipedia:\n\nTinikling is a Filipino folk dance, often dubbed the Philippine National Dance. The dance originated in Leyte as an imitation of the movements of the tikling bird dodging bamboo traps set by rice farmers.\nThe dance consists of two people hitting parallel bamboo poles on the ground, raising them, then hitting the poles against each other in the air with a rhythm. Meanwhile, at least one dancer hops over and around the clashing poles in a manner not entirely unlike jump roping. Other variations consist of four people holding a pair of bamboo in a tic-tac-toe like pattern. This form of the dance would usually travel in a circular pattern increasing the difficulting of staying on rhythm.\nDancers Dance like the tikling bird's legendary grace and speed as they skillfully play, chase each other run over tree brances, or dodge bamboo traps set by rice farmers. Hence it was given the name after the bird, tikling.",
+          "creator": "eric molina",
+          "owner": "88774309@N00",
+          "sourcePage": "https://www.flickr.com/photos/iamagenious/410310881/",
+          "licenseCode": 4,
+          "originalUrl": "https://live.staticflickr.com/185/410310881_0e8b86a325_b.jpg",
+          "previewUrl": "https://live.staticflickr.com/185/410310881_0e8b86a325_z.jpg",
+          "width": 1024,
+          "height": 768
+        },
+        {
+          "provider": "Flickr",
+          "id": "408249948",
+          "title": "mating ground for massive hammerhead sharks",
+          "description": "hey, it could be. you don't know what's down there.",
+          "creator": "eric molina",
+          "owner": "88774309@N00",
+          "sourcePage": "https://www.flickr.com/photos/iamagenious/408249948/",
+          "licenseCode": 4,
+          "originalUrl": "https://live.staticflickr.com/173/408249948_5bccef91d8_b.jpg",
+          "previewUrl": "https://live.staticflickr.com/173/408249948_5bccef91d8_c.jpg",
+          "width": 768,
+          "height": 1024
+        },
+        {
+          "provider": "Flickr",
+          "id": "26237306447",
+          "title": "IMG_1923/Thailand/Koh Samui Island/ Elymnias Hypermnestra Discrépans/male/Verso",
+          "description": "Common Palm Fly ,  Elymnias hypermnestra Discrépans  LINNAEUS, 1763\n\nFamily - NYMPHALIDAE\nsubfamily - SATYRINAE\nTribe - ELYMNIINI\nElymnias hypermnestra occurs in India, Sri Lanka, Myanmar, Laos, South Vietnam, Thailand, West Malaysia, Palawan, the Philippines, Taiwan, Sumatra, Borneo, Java and Bali.\nUnlike most Satyrines ( which usually to fly close to the ground ), the butterflies tend to fly around the top of bushes or the lower branches of trees. They have a delicate slow flight - a mixture of fluttering and gliding, and when they land they invariably settle on a leaf, high up in a bush, and usually beyond camera reach.  At all times they are nervous and very alert, and at the slightest disturbance will immediately take flight, only to resettle on another high leaf, usually somewhere even less accessible to the photographer !",
+          "creator": "dany13",
+          "owner": "11493299@N00",
+          "sourcePage": "https://www.flickr.com/photos/dany13/26237306447/",
+          "licenseCode": 4,
+          "originalUrl": "https://live.staticflickr.com/880/26237306447_73a66eeb84_b.jpg",
+          "previewUrl": "https://live.staticflickr.com/880/26237306447_73a66eeb84_z.jpg",
+          "width": 1024,
+          "height": 615
+        },
+        {
+          "provider": "Flickr",
+          "id": "6949055383",
+          "description": "",
+          "creator": "Doun",
+          "owner": "7701055@N05",
+          "sourcePage": "https://www.flickr.com/photos/doun_dounell/6949055383/",
+          "licenseCode": 4,
+          "originalUrl": "https://live.staticflickr.com/7206/6949055383_0ae925723f_c.jpg",
+          "previewUrl": "https://live.staticflickr.com/7206/6949055383_0ae925723f_z.jpg",
+          "width": 800,
+          "height": 532
+        },
+        {
+          "provider": "Wikimedia Commons",
+          "title": "File:Opening ceremony for PHIBLEX 2015 in Palawan 151001-M-EB647-015.jpg",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Opening_ceremony_for_PHIBLEX_2015_in_Palawan_151001-M-EB647-015.jpg",
+          "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/1/19/Opening_ceremony_for_PHIBLEX_2015_in_Palawan_151001-M-EB647-015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "previewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Opening_ceremony_for_PHIBLEX_2015_in_Palawan_151001-M-EB647-015.jpg/960px-Opening_ceremony_for_PHIBLEX_2015_in_Palawan_151001-M-EB647-015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 5760,
+          "height": 3840,
+          "license": "Public domain",
+          "creator": "Lance Cpl. Robert Williams",
+          "description": "Armed Forces of the Philippines, Japanese Ground Self-Defense Force, U.S. Marines and U.S. Navy service members come together for the Command Post Exercise opening ceremony, Oct. 1, at Naval Forces Northwest during Amphibious Landing Exercise 2015. PHIBLEX 15 is an annual, bilateral training exercise conducted by members of the Armed Forces of the Philippines alongside U.S. Marine and Navy Forces. It focuses on strengthening the partnership and relationships between the two nations across a range of military operations, including disaster relief and complex expeditionary operations. (U.S. Marine photo by Cpl. Robert Williams Jr./Released)\nUnit: III Marine Expeditionary Force / Marine Corps Installations Pacific",
+          "categories": "Type III camouflage|PD US Marines|Files created by the United States Marine Corps with known IDs|Taken on missing SDC inception|Images from DoD uploaded by Fæ|Photographs taken on 2015-10-01|PHILMARPAT|PHIBLEX 2015|MARPAT in 2025"
+        },
+        {
+          "provider": "Wikimedia Commons",
+          "title": "File:Opening ceremony for PHIBLEX 2015 in Palawan 151001-M-EB647-037.jpg",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Opening_ceremony_for_PHIBLEX_2015_in_Palawan_151001-M-EB647-037.jpg",
+          "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Opening_ceremony_for_PHIBLEX_2015_in_Palawan_151001-M-EB647-037.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "previewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Opening_ceremony_for_PHIBLEX_2015_in_Palawan_151001-M-EB647-037.jpg/960px-Opening_ceremony_for_PHIBLEX_2015_in_Palawan_151001-M-EB647-037.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 5760,
+          "height": 3840,
+          "license": "Public domain",
+          "creator": "Lance Cpl. Robert Williams",
+          "description": "Armed Forces of the Philippines, Japanese Ground Self-Defense Force, U.S. Marines and U.S. Navy service members come together for the Command Post Exercise opening ceremony, Oct. 1, at Naval Forces Northwest during Amphibious Landing Exercise 2015. PHIBLEX 15 is an annual, bilateral training exercise conducted by members of the Armed Forces of the Philippines alongside U.S. Marine and Navy Forces. It focuses on strengthening the partnership and relationships between the two nations across a wide range of military operations, including disaster relief and complex expeditionary operations. (U.S. Marine photo by Cpl. Robert Williams Jr./Released)\nUnit: III Marine Expeditionary Force / Marine Corps Installations Pacific",
+          "categories": "PD US Marines|Files created by the United States Marine Corps with known IDs|Taken on missing SDC inception|Images from DoD uploaded by Fæ|Philippines photographs taken on 2015-10-01|PHIBLEX 2015"
+        },
+        {
+          "provider": "Wikimedia Commons",
+          "title": "File:Palawan, Aircraft, Puerto Princesa Airport, Philippines.jpg",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Palawan,_Aircraft,_Puerto_Princesa_Airport,_Philippines.jpg",
+          "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/1/10/Palawan%2C_Aircraft%2C_Puerto_Princesa_Airport%2C_Philippines.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "previewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Palawan%2C_Aircraft%2C_Puerto_Princesa_Airport%2C_Philippines.jpg/960px-Palawan%2C_Aircraft%2C_Puerto_Princesa_Airport%2C_Philippines.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 4000,
+          "height": 2667,
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+          "creator": "Vyacheslav Argenberg",
+          "description": "Aircraft. Palawan, Philippines.",
+          "categories": "Photos by Vyacheslav Argenberg|Self-published work|Hangars in the Philippines|2009 at Puerto Princesa International Airport|Aircraft on the ground|Photos by Vyacheslav Argenberg in 2009|Photos by Vyacheslav Argenberg in the Philippines"
+        },
+        {
+          "provider": "Wikimedia Commons",
+          "title": "File:El Nido, Grilled sea fish, Palawan, Philippines.jpg",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:El_Nido,_Grilled_sea_fish,_Palawan,_Philippines.jpg",
+          "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e8/El_Nido%2C_Grilled_sea_fish%2C_Palawan%2C_Philippines.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "previewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/El_Nido%2C_Grilled_sea_fish%2C_Palawan%2C_Philippines.jpg/960px-El_Nido%2C_Grilled_sea_fish%2C_Palawan%2C_Philippines.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 3457,
+          "height": 2667,
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+          "creator": "Vyacheslav Argenberg",
+          "description": "Grilled sea fish. Saltwater tropical fish on the grill. Many of the islands in Bacuit archipelago are surrounded by a coral shelf that acts as an enormous feeding ground and nursery for marine life. Palawan, Philippines.",
+          "categories": "Photos by Vyacheslav Argenberg|Fish of the Philippines|Grilled fish|Self-published work|Beaches of El Nido, Palawan|Photos by Vyacheslav Argenberg in 2009|Photos by Vyacheslav Argenberg in the Philippines"
+        },
+        {
+          "provider": "Wikimedia Commons",
+          "title": "File:Once a bird witnessing the beautiful horizons.jpg",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Once_a_bird_witnessing_the_beautiful_horizons.jpg",
+          "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Once_a_bird_witnessing_the_beautiful_horizons.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "previewUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Once_a_bird_witnessing_the_beautiful_horizons.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+          "width": 746,
+          "height": 923,
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "creator": "Zumar001",
+          "description": "Point of view from airplane in el nido palawan",
+          "categories": "Self-published work|Aerial photographs of El Nido, Palawan|Cabin window views of clouds|Images from Wiki Loves Earth 2022|Images from Wiki Loves Earth 2022 in the Philippines|Uploaded via Campaign:wle-ph|Images from Wiki Loves Earth missing SDC location of creation|Cabin window views of aircraft wings at sunset|Images from Wiki Loves Earth 2022 in the Philippines - missing"
+        },
+        {
+          "provider": "Wikimedia Commons",
+          "title": "File:KAMANDAG 8- Philippine, 15th MEU Marines Complete Amphibious Assault at Apurawan (8706533).jpg",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:KAMANDAG_8-_Philippine,_15th_MEU_Marines_Complete_Amphibious_Assault_at_Apurawan_(8706533).jpg",
+          "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bc/KAMANDAG_8-_Philippine%2C_15th_MEU_Marines_Complete_Amphibious_Assault_at_Apurawan_%288706533%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "previewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/KAMANDAG_8-_Philippine%2C_15th_MEU_Marines_Complete_Amphibious_Assault_at_Apurawan_%288706533%29.jpg/960px-KAMANDAG_8-_Philippine%2C_15th_MEU_Marines_Complete_Amphibious_Assault_at_Apurawan_%288706533%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 3979,
+          "height": 2487,
+          "license": "Public domain",
+          "creator": "U.S. Marine Corps photo by Cpl. Luis Agostini",
+          "description": "Philippine Marines assigned to 61st Reconnaissance Company, Force Reconnaissance Group, move to engage simulated targets after breaching an objective during an amphibious assault with U.S. Marine assigned to Bravo Company, Battalion Landing Team 1/5, 15th Marine Expeditionary Unit, as part of exercise KAMANDAG 8 at Apurawan, Palawan Province, Philippines, Oct. 16, 2024. KAMANDAG is an annual Philippine Marine Corps and U.S. Marine Corps-led exercise aimed at enhancing the Armed Forces of the Philippines’ defense and humanitarian capabilities by providing valuable training in combined operations with foreign militaries in the advancement of a Free and Open Indo-Pacific. This year marks the eighth iteration of this exercise and includes participants from the French Armed Forces, Royal Thai Marine Corps, and Indonesian Marine Corps; including continued participation from the Australian Defense Force, British Armed Forces, Japan Ground Self-Defense Force, and Republic of Korea Marine Corps. (U.S. Marine Corps photo by Cpl. Luis Agostini)",
+          "categories": "PD US Marines|Files created by the United States Marine Corps with known IDs|Aborlan|Amphibious military exercises|Beaches of Palawan|DVIDS files uploaded by OptimusPrimeBot|Philippines photographs taken on 2024-10-16|Milimedia files, Philippines (review needed)|People of the Philippine Marine Corps|Palm beaches of the Philippines"
+        },
+        {
+          "provider": "Wikimedia Commons",
+          "title": "File:KAMANDAG 8- Philippine, 15th MEU Marines Complete Amphibious Assault at Apurawan (8706536).jpg",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:KAMANDAG_8-_Philippine,_15th_MEU_Marines_Complete_Amphibious_Assault_at_Apurawan_(8706536).jpg",
+          "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/3/37/KAMANDAG_8-_Philippine%2C_15th_MEU_Marines_Complete_Amphibious_Assault_at_Apurawan_%288706536%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "previewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/KAMANDAG_8-_Philippine%2C_15th_MEU_Marines_Complete_Amphibious_Assault_at_Apurawan_%288706536%29.jpg/960px-KAMANDAG_8-_Philippine%2C_15th_MEU_Marines_Complete_Amphibious_Assault_at_Apurawan_%288706536%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 2900,
+          "height": 1812,
+          "license": "Public domain",
+          "creator": "U.S. Marine Corps photo by Cpl. Luis Agostini",
+          "description": "U.S. Marines assigned to Bravo Company, Battalion Landing Team 1/5, 15th Marine Expeditionary Unit, and Philippine Marines assigned to 61st Reconnaissance Company, Force Reconnaissance Group, maneuver toward an objective during an amphibious assault as part of exercise KAMANDAG 8 at Apurawan, Palawan Province, Philippines, Oct. 16, 2024. KAMANDAG is an annual Philippine Marine Corps and U.S. Marine Corps-led exercise aimed at enhancing the Armed Forces of the Philippines’ defense and humanitarian capabilities by providing valuable training in combined operations with foreign militaries in the advancement of a Free and Open Indo-Pacific. This year marks the eighth iteration of this exercise and includes participants from the French Armed Forces, Royal Thai Marine Corps, and Indonesian Marine Corps; including continued participation from the Australian Defense Force, British Armed Forces, Japan Ground Self-Defense Force, and Republic of Korea Marine Corps. (U.S. Marine Corps photo by Cpl. Luis Agostini)",
+          "categories": "PD US Marines|Files created by the United States Marine Corps with known IDs|Aborlan|Amphibious military exercises|Beaches of Palawan|DVIDS files uploaded by OptimusPrimeBot|Philippines photographs taken on 2024-10-16|People of the Philippine Marine Corps"
+        }
+      ]
+    },
+    {
+      "placeId": "el-nido-janu-coffee-tea",
+      "name": "Janu Coffee & Tea",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/food-directory/media/research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "Janu Coffee & Tea El Nido",
+          "url": "https://www.flickr.com/search/?text=Janu+Coffee+%26+Tea+El+Nido&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Janu Coffee Tea Palawan",
+          "url": "https://www.flickr.com/search/?text=Janu+Coffee+Tea+Palawan&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Commons",
+          "query": "Janu Coffee Tea Palawan",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Janu+Coffee+Tea+Palawan&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "placeId": "puerto-princesa-itoys-coffee-haus",
+      "name": "Itoy’s Coffee Haus",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/food-directory/media/research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "Itoys Coffee Haus Puerto Princesa City",
+          "url": "https://www.flickr.com/search/?text=Itoys+Coffee+Haus+Puerto+Princesa+City&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Itoys Coffee Haus Palawan",
+          "url": "https://www.flickr.com/search/?text=Itoys+Coffee+Haus+Palawan&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Commons",
+          "query": "Itoys Coffee Haus Palawan",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Itoys+Coffee+Haus+Palawan&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "placeId": "puerto-princesa-koffee-kat",
+      "name": "Koffee Kat Cafe",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/food-directory/media/research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "Koffee Kat Cafe Puerto Princesa City",
+          "url": "https://www.flickr.com/search/?text=Koffee+Kat+Cafe+Puerto+Princesa+City&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Koffee Kat Palawan",
+          "url": "https://www.flickr.com/search/?text=Koffee+Kat+Palawan&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Commons",
+          "query": "Koffee Kat Palawan",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Koffee+Kat+Palawan&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "placeId": "puerto-princesa-ka-inato-main",
+      "name": "Ka Inato — Tiniguiban",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/food-directory/media/research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "Ka Inato Puerto Princesa City",
+          "url": "https://www.flickr.com/search/?text=Ka+Inato+Puerto+Princesa+City&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Ka Inato Palawan",
+          "url": "https://www.flickr.com/search/?text=Ka+Inato+Palawan&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Commons",
+          "query": "Ka Inato Palawan",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Ka+Inato+Palawan&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "placeId": "el-nido-lick-roastery",
+      "name": "Lost Islands Center for Kape — Lio HQ",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/food-directory/media/research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "Lost Islands Center for Kape El Nido",
+          "url": "https://www.flickr.com/search/?text=Lost+Islands+Center+for+Kape+El+Nido&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Lost Islands Center Palawan",
+          "url": "https://www.flickr.com/search/?text=Lost+Islands+Center+Palawan&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Commons",
+          "query": "Lost Islands Center Palawan",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Lost+Islands+Center+Palawan&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "placeId": "el-nido-la-moro-hill",
+      "name": "La Moro Hill Bakery — Lio",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/food-directory/media/research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "La Moro Hill Bakery El Nido",
+          "url": "https://www.flickr.com/search/?text=La+Moro+Hill+Bakery+El+Nido&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "La Moro Hill Palawan",
+          "url": "https://www.flickr.com/search/?text=La+Moro+Hill+Palawan&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Commons",
+          "query": "La Moro Hill Palawan",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=La+Moro+Hill+Palawan&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "placeId": "el-nido-huk-co",
+      "name": "HUK & Co. — C Hotel",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/food-directory/media/research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "HUK & Co. El Nido",
+          "url": "https://www.flickr.com/search/?text=HUK+%26+Co.+El+Nido&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "HUK Co. Palawan",
+          "url": "https://www.flickr.com/search/?text=HUK+Co.+Palawan&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Commons",
+          "query": "HUK Co. Palawan",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=HUK+Co.+Palawan&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        }
+      ],
+      "candidates": []
+    }
+  ]
+}

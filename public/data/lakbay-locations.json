@@ -10331,7 +10331,22 @@
     "food": null,
     "slug": "davao-museo-dabawenyo-area",
     "aliases": [],
-    "image": null,
+    "image": {
+      "placeId": "davao-museo-dabawenyo-area",
+      "src": "/images/places/davao-museo-dabawenyo-area.jpg",
+      "srcSmall": "/images/places/davao-museo-dabawenyo-area-640.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Museo_Dabawenyo,_Exhibits,_August_2026-_05.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Museo_Dabawenyo%2C_Exhibits%2C_August_2026-_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "creator": "Herbertkikoy",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "attribution": "Herbertkikoy / Wikimedia Commons / CC BY-SA 4.0. Resized and JPEG compressed.",
+      "alt": "Central 911 artifacts and historical photographs on display inside Museo Dabawenyo in Davao City",
+      "width": 1200,
+      "height": 675,
+      "checkedOn": "2026-10-23",
+      "creditUrl": "https://commons.wikimedia.org/wiki/File:Museo_Dabawenyo,_Exhibits,_August_2026-_05.jpg"
+    },
     "card_summary": "Museo Dabawenyo Event Center is the city-history venue reported by Davao’s government on Mabini Street. Its 2025 opening featured an exhibition tracing the city’s communities and development through fifty objects.",
     "overview": [
       "Davao’s government reported the event center’s opening in May 2025 in Barangay 10-A on Mabini Street, behind Davao City National High School. The opening exhibition, “A History of Davao City in 50 Objects,” brought together material concerning the city’s first peoples, settlers and other communities. The report noted English and Binisaya descriptions for the objects. This listing concerns the Mabini Street event-center venue. Check current exhibitions and the intended museum location before arranging a visit, since Museo Dabawenyo has used more than one venue."
@@ -35607,7 +35622,22 @@
     "food": null,
     "slug": "sagada-ampacao",
     "aliases": [],
-    "image": null,
+    "image": {
+      "placeId": "sagada-ampacao",
+      "src": "/images/places/sagada-ampacao.jpg",
+      "srcSmall": "/images/places/sagada-ampacao-640.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:View_from_Ampacao_(3302520385).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/4/40/View_from_Ampacao_%283302520385%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "creator": "Caitriana Nicholson from 北京 ~ Beijing, 中国 ~ China",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "attribution": "Caitriana Nicholson from 北京 ~ Beijing, 中国 ~ China / Wikimedia Commons / CC BY-SA 2.0. Resized and JPEG compressed.",
+      "alt": "Mountain valley and pine-covered slopes seen while climbing Mount Ampacao near Sagada",
+      "width": 1200,
+      "height": 900,
+      "checkedOn": "2026-10-23",
+      "creditUrl": "https://commons.wikimedia.org/wiki/File:View_from_Ampacao_(3302520385).jpg"
+    },
     "card_summary": "Mount Ampacao is a mountain-viewpoint destination above Sagada. Its particular peak and route are separate from Marlboro Hills and other viewpoints, with the exact mountain name useful when arranging a local hike.",
     "overview": [
       "Sagada’s municipal tourism portal lists Ampacao as a mountain destination with panoramic outlooks. This entry concerns that particular route above the town. Confirm current guide and trail arrangements locally before planning a hike rather than relying on a generic Sagada mountain pin."

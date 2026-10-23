@@ -1,0 +1,285 @@
+{
+  "checkedOn": "2026-10-23",
+  "reviews": [
+    {
+      "placeId": "sagada-ampacao",
+      "checkedOn": "2026-10-23",
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:View_from_Ampacao_(3302520385).jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/4/40/View_from_Ampacao_%283302520385%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "Caitriana Nicholson from 北京 ~ Beijing, 中国 ~ China",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "attribution": "Caitriana Nicholson from 北京 ~ Beijing, 中国 ~ China / Wikimedia Commons / CC BY-SA 2.0. Resized and JPEG compressed."
+      },
+      "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/View_from_Ampacao_%283302520385%29.jpg/1280px-View_from_Ampacao_%283302520385%29.jpg",
+      "evidence": {
+        "api": "https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=1280&titles=File%3AView_from_Ampacao_%283302520385%29.jpg",
+        "parseUrl": "https://commons.wikimedia.org/w/api.php?action=parse&format=json&page=File%3AView_from_Ampacao_%283302520385%29.jpg&prop=wikitext",
+        "description": "Climbing Mt Ampacao, near Sagada",
+        "categories": "Luzon (island)|Files with coordinates missing SDC location of creation|Files uploaded by OceanAtoll|Flickr images reviewed by FlickreviewR 2",
+        "latitude": "17.082302",
+        "longitude": "120.902481",
+        "requiredAttribution": "",
+        "licenseDeclaration": "== {{int:filedesc}} ==\n{{Information\n| Description = Climbing Mt Ampacao, near Sagada\n| Source      = [https://www.flickr.com/photos/caitriana/3302520385/ View from Ampacao]\n| Date        = 2009-02-12 04:17\n| Author      = [https://www.flickr.com/people/93221896@N00 Caitriana Nicholson] from 北京 ~ Beijing, 中国 ~ China\n| Permission  = \n| other_versions=\n}}\n{{Location dec|17.082302|120.902481|source:Flickr}}\n\n=={{int:license-header}}==\n{{cc-by-sa-2.0}}\n{{FlickreviewR|status=passed|author=caitriana|sourceurl=https://flickr.com/photos/93221896@N00/3302520385|archive=https://web.archive.org/web/20190122150319/https://www.flickr.com/photos/93221896@N00/3302520385/|reviewdate=2018-05-17 03:57:14|reviewlicense=cc-by-sa-2.0|reviewer=FlickreviewR 2}}\n[[Category:Luzon (island)]]\n[[Category:Files uploaded by OceanAtoll]]"
+      },
+      "sourceReview": "Individual source/rights fetched; awaiting explicit visual and identity approval",
+      "decision": "approved-after-visual-review",
+      "notes": "The individual file description identifies the Mount Ampacao climb and provides matching Sagada-area camera coordinates. The reviewed landscape is the documented view from the climb, rather than a portrait or a substitute attraction."
+    },
+    {
+      "placeId": "davao-museo-dabawenyo-area",
+      "checkedOn": "2026-10-23",
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Museo_Dabawenyo,_Exhibits,_August_2026-_05.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Museo_Dabawenyo%2C_Exhibits%2C_August_2026-_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "Herbertkikoy",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "Herbertkikoy / Wikimedia Commons / CC BY-SA 4.0. Resized and JPEG compressed."
+      },
+      "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Museo_Dabawenyo%2C_Exhibits%2C_August_2026-_05.jpg/1280px-Museo_Dabawenyo%2C_Exhibits%2C_August_2026-_05.jpg",
+      "evidence": {
+        "api": "https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=1280&titles=File%3AMuseo_Dabawenyo%2C_Exhibits%2C_August_2026-_05.jpg",
+        "parseUrl": "https://commons.wikimedia.org/w/api.php?action=parse&format=json&page=File%3AMuseo_Dabawenyo%2C_Exhibits%2C_August_2026-_05.jpg&prop=wikitext",
+        "description": "Museo Dabawenyo is a cultural institution dedicated to preserving and showcasing the rich heritage, traditions, and artistic expressions of Davao’s diverse communities. Its collections offer a glimpse into the city’s history and the enduring cultures of its Indigenous peoples, Muslim communities, and migrant groups, providing visitors with a deeper understanding of Davao’s evolving identity.",
+        "categories": "Creative Commons Attribution-Share Alike missing SDC copyright status|Self-published work|Creative Commons Attribution-Share Alike 4.0 missing SDC copyright license|Self-published work missing SDC copyright license|Files with coordinates missing SDC location of creation|Wiki Takes Davao",
+        "latitude": "7.079166",
+        "longitude": "125.602066",
+        "requiredAttribution": "",
+        "licenseDeclaration": "=={{int:filedesc}}==\n{{Information\n|description={{en|1=Museo Dabawenyo is a cultural institution dedicated to preserving and showcasing the rich heritage, traditions, and artistic expressions of Davao’s diverse communities. Its collections offer a glimpse into the city’s history and the enduring cultures of its Indigenous peoples, Muslim communities, and migrant groups, providing visitors with a deeper understanding of Davao’s evolving identity.}}\n|date=2026-08-17 13:37:07\n|source={{own}}\n|author=[[User:Herbertkikoy|Herbertkikoy]]\n|permission=\n|other versions=\n}}\n{{Location|7.079166|125.602066}}\n\n=={{int:license-header}}==\n{{self|cc-by-sa-4.0}}\n\n[[Category:Wiki Takes Davao]]"
+      },
+      "sourceReview": "Individual source/rights fetched; awaiting explicit visual and identity approval",
+      "decision": "approved-after-visual-review",
+      "notes": "The individual file identifies Museo Dabawenyo, an August 2026 visit and the new museum/event-center coordinates. The reviewed image shows the museum’s Central 911 display; it is an exhibit view, not a promise about current exhibitions."
+    },
+    {
+      "placeId": "siargao-sohoton-cove",
+      "checkedOn": "2026-10-23",
+      "photo": {
+        "sourcePage": "https://www.flickr.com/photos/93788068@N02/51959825160/",
+        "originalUrl": "https://live.staticflickr.com/65535/51959825160_b10cabe137_o.jpg",
+        "creator": "WayPH.com",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "attribution": "WayPH.com / Flickr / CC BY 2.0. Resized and JPEG compressed."
+      },
+      "downloadUrl": "https://live.staticflickr.com/65535/51959825160_f0c7c32694_k.jpg",
+      "evidence": {
+        "title": "Sohoton Cove",
+        "creator": "WayPH.com",
+        "licenseCode": 4,
+        "description": "Feel free to use our photos but please add link going to our website wayph.com/",
+        "keywords": "siargao, surigao, philippines",
+        "individualLicenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "location": ""
+      },
+      "sourceReview": "Individual source/rights fetched; awaiting explicit visual and identity approval",
+      "previewError": "fetch failed",
+      "decision": "download-blocked; not visually approved",
+      "notes": "Individual rights metadata was retrieved, but no usable image could be downloaded for visual review. No photograph is published."
+    },
+    {
+      "placeId": "davao-bone-collector-museum",
+      "checkedOn": "2026-10-23",
+      "photo": {
+        "sourcePage": "https://www.flickr.com/photos/90412460@N00/16135543292/",
+        "originalUrl": "https://live.staticflickr.com/7481/16135543292_901efc64d9_o.jpg",
+        "creator": "Bro. Jeffrey  Pioquinto, SJ",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "attribution": "Bro. Jeffrey  Pioquinto, SJ / Flickr / CC BY 2.0. Resized and JPEG compressed."
+      },
+      "downloadUrl": "https://live.staticflickr.com/7481/16135543292_f7cd56f22f_k.jpg",
+      "evidence": {
+        "title": "D' Bone Collector Museum Inc., Davao City, Philippines",
+        "creator": "Bro. Jeffrey  Pioquinto, SJ",
+        "licenseCode": 4,
+        "description": "Please visit my blog for more photos: jeffpsj.blogspot.com/2014/12/d-bone-collector-museum-inc....",
+        "keywords": "city, museum, d, philippines, trading, bone, inc, davao, collector, museumindavao, thingstoseeindavao, dbonecollectormuseuminc, tourismdavaocity",
+        "individualLicenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "location": ""
+      },
+      "sourceReview": "Individual source/rights fetched; awaiting explicit visual and identity approval",
+      "previewError": "fetch failed",
+      "decision": "download-blocked; not visually approved",
+      "notes": "Individual rights metadata was retrieved, but no usable image could be downloaded for visual review. No photograph is published."
+    },
+    {
+      "placeId": "baguio-choco-late-batirol",
+      "checkedOn": "2026-10-23",
+      "photo": {
+        "sourcePage": "https://www.flickr.com/photos/biagkensiak/3128250506/",
+        "originalUrl": "https://live.staticflickr.com/3248/3128250506_47e2063443_o.jpg",
+        "creator": "Constantine Agustin",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "attribution": "Constantine Agustin / Flickr / CC BY-SA 2.0. Resized and JPEG compressed."
+      },
+      "downloadUrl": "https://live.staticflickr.com/3248/3128250506_a352ce75a7_k.jpg",
+      "evidence": {
+        "title": "baguio chocolate de batirol 6",
+        "creator": "Constantine Agustin",
+        "licenseCode": 5,
+        "description": "",
+        "keywords": "city, baguio",
+        "individualLicenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "location": ""
+      },
+      "sourceReview": "Individual source/rights fetched; awaiting explicit visual and identity approval",
+      "previewError": "fetch failed",
+      "decision": "download-blocked; not visually approved",
+      "notes": "Individual rights metadata was retrieved, but no usable image could be downloaded for visual review. No photograph is published."
+    },
+    {
+      "placeId": "baguio-cafe-by-ruins",
+      "checkedOn": "2026-10-23",
+      "photo": {
+        "sourcePage": "https://www.flickr.com/photos/bigberto/4773677974/",
+        "originalUrl": "https://live.staticflickr.com/4082/4773677974_ef393e5bba_o.jpg",
+        "creator": "Shubert Ciencia",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "attribution": "Shubert Ciencia / Flickr / CC BY 2.0. Resized and JPEG compressed."
+      },
+      "downloadUrl": "https://live.staticflickr.com/4082/4773677974_d780cacdff_k.jpg",
+      "evidence": {
+        "title": "Cigarettes, coffee, rice wine, and wi-fi (Cafe by the Ruins, Baguio City)",
+        "creator": "Shubert Ciencia",
+        "licenseCode": 4,
+        "description": "Blogged at Sebald-ing in &quot;Shooting Churches, Eating Noodles&quot;.",
+        "keywords": "philippines, benguet, baguiocity, wilfredopascual, cafebytheruins, shubertciencia",
+        "individualLicenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "location": ""
+      },
+      "sourceReview": "Individual source/rights fetched; awaiting explicit visual and identity approval",
+      "previewError": "fetch failed",
+      "decision": "download-blocked; not visually approved",
+      "notes": "Individual rights metadata was retrieved, but no usable image could be downloaded for visual review. No photograph is published."
+    },
+    {
+      "placeId": "boracay-dtalipapa-market",
+      "checkedOn": "2026-10-23",
+      "photo": {
+        "sourcePage": "https://www.flickr.com/photos/bigberto/3572235470/",
+        "originalUrl": "https://live.staticflickr.com/2452/3572235470_2b83c59b33_o.jpg",
+        "creator": "Shubert Ciencia",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "attribution": "Shubert Ciencia / Flickr / CC BY 2.0. Resized and JPEG compressed."
+      },
+      "downloadUrl": "https://live.staticflickr.com/2452/3572235470_ab5dbb79de_k.jpg",
+      "evidence": {
+        "title": "Talipapa (Boracay Island, Aklan)",
+        "creator": "Shubert Ciencia",
+        "licenseCode": 4,
+        "description": "I tried shooting Boracay beyond the white sand, the emerald sea, and the hot bikinis. Let me know what you think. :-D  Nikon D40 (NATCCO 32nd General Assembly, May 2009)",
+        "keywords": "philippines, boracay, malay, aklan, shubertciencia, natcco32ga",
+        "individualLicenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "location": ""
+      },
+      "sourceReview": "Individual source/rights fetched; awaiting explicit visual and identity approval",
+      "previewError": "fetch failed",
+      "decision": "download-blocked; not visually approved",
+      "notes": "Individual rights metadata was retrieved, but no usable image could be downloaded for visual review. No photograph is published."
+    },
+    {
+      "placeId": "davao-rizal-park",
+      "checkedOn": "2026-10-23",
+      "photo": {
+        "sourcePage": "https://www.flickr.com/photos/shankaronline/9103454951/",
+        "originalUrl": "https://live.staticflickr.com/7335/9103454951_a14084f3d2_o.jpg",
+        "creator": "shankar s.",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "attribution": "shankar s. / Flickr / CC BY 2.0. Resized and JPEG compressed."
+      },
+      "downloadUrl": "https://live.staticflickr.com/7335/9103454951_407c4a3b03_k.jpg",
+      "evidence": {
+        "title": "Rizal Park stage on San Pedro shopping street",
+        "creator": "shankar s.",
+        "licenseCode": 4,
+        "description": "We then took a taxi back into downtown Davao, to the San Pedro shopping street. San Pedro St. is considered to be the oldest street in Davao city. Unfortunately, thanks to a just concluded feverish election campaign, the local politicos had promised to make up for their excesses by saving power. Due to tis, much of the street lighting had been switched off and we had to rely on the lights from the many hand cards, many of which were unlit anyway. Frankly, had it not been for my delightful travel companions, I might never have ventured into that street in the dark. The recently stopped rain made things darker still. Here is an overview of the shopping area with greatly curtailed street lighting. Structure seen here is the Rizal Park stage on San Pedro in Davao. Love the fabulous metal eagle motif atop the shed.  (Davao, Philippines, May 2013)                             ",
+        "keywords": "philippines, davao, mindanao, thephilippines, davaocity, sanpedrostreet, eaglemotif, rizalparkstage, davaostreetmarket, davaolocalshopping, oldeststreetindavao",
+        "individualLicenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "location": ""
+      },
+      "sourceReview": "Individual source/rights fetched; awaiting explicit visual and identity approval",
+      "previewError": "fetch failed",
+      "decision": "download-blocked; not visually approved",
+      "notes": "Individual rights metadata was retrieved, but no usable image could be downloaded for visual review. No photograph is published."
+    },
+    {
+      "placeId": "puerto-princesa-bakers-hill",
+      "checkedOn": "2026-10-23",
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Zipline_hut_at_Baker%27s_Hill_(9162927471).jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/0/04/Zipline_hut_at_Baker%27s_Hill_%289162927471%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "shankar s. from Dubai, united arab emirates",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "attribution": "shankar s. from Dubai, united arab emirates / Wikimedia Commons / CC BY 2.0. Resized and JPEG compressed."
+      },
+      "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Zipline_hut_at_Baker%27s_Hill_%289162927471%29.jpg/1280px-Zipline_hut_at_Baker%27s_Hill_%289162927471%29.jpg",
+      "evidence": {
+        "api": "https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=1280&titles=File%3AZipline_hut_at_Baker%27s_Hill_%289162927471%29.jpg",
+        "parseUrl": "https://commons.wikimedia.org/w/api.php?action=parse&format=json&page=File%3AZipline_hut_at_Baker%27s_Hill_%289162927471%29.jpg&prop=wikitext",
+        "description": "Baker's Hill also starting point of the 'zip line' where you hook yourself to a cable and rocket across a deep valley to the other side. A true adrenaline rush if there was one, as your life literally hands by a single thread! I'll pass this one on, thank you very much. The hut you see in the foreground is the starting point for the zipline. Incidentally, Filpinos obviously love their ziplines, I found several of these rides in Davao, Cebu, two in Bohol, and here in Puerto Princesa. In Cebu, the zipline was across tall buildings. In the horizon is the Puerto Princesa bay. (Puerto Princesa, Philippines, May 2013)",
+        "categories": "Huts in the Philippines|Photographs taken on 2013-05-19|May 2013 Philippines photographs|Zip lines in the Philippines|Flickr images reviewed by FlickreviewR 2|Photographs by shankar s.|Nature of Puerto Princesa",
+        "requiredAttribution": "",
+        "licenseDeclaration": "== {{int:filedesc}} ==\n{{Information\n| Description = Baker's Hill also starting point of the 'zip line' where you hook yourself to a cable and rocket across a deep valley to the other side. A true adrenaline rush if there was one, as your life literally hands by a single thread! I'll pass this one on, thank you very much. The hut you see in the foreground is the starting point for the zipline. Incidentally, Filpinos obviously love their ziplines, I found several of these rides in Davao, Cebu, two in Bohol, and here in Puerto Princesa. In Cebu, the zipline was across tall buildings. In the horizon is the Puerto Princesa bay. (Puerto Princesa, Philippines, May 2013)\n| Source      = [https://www.flickr.com/photos/shankaronline/9162927471/ Zipline hut at Baker's Hill]\n| Date        = 2013-05-19 11:19\n| Author      = [https://www.flickr.com/people/77742560@N06 shankar s.] from Dubai, united arab emirates\n| Permission  = \n| other_versions=\n}}\n\n=={{int:license-header}}==\n{{cc-by-2.0}}\n{{FlickreviewR|status=passed|author=shankar s.|sourceurl=https://flickr.com/photos/77742560@N06/9162927471|archive=|reviewdate=2024-03-19 18:49:29|reviewlicense=cc-by-2.0|reviewer=FlickreviewR 2}}\n\n[[Category:Huts in the Philippines]]\n[[Category:Nature of Puerto Princesa]]\n[[Category:Zip lines in the Philippines]]\n[[Category:May 2013 Philippines photographs]]\n[[Category:Photographs taken on 2013-05-19]]\n[[Category:Photographs by shankar s.]]"
+      },
+      "sourceReview": "Individual source/rights fetched; awaiting explicit visual and identity approval",
+      "decision": "rejected-for-place-identity",
+      "notes": "Casa Vallejo frontage does not show the restaurant clearly; Eng Bee Tin branch is unproven; Baker’s Hill zipline view may be at the separate Mitra Ranch. No substitute is published."
+    },
+    {
+      "placeId": "baguio-hill-station",
+      "checkedOn": "2026-10-23",
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Casa_Vallejo.JPG",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Casa_Vallejo.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "KisekiLacroix",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "KisekiLacroix / Wikimedia Commons / CC BY-SA 4.0. Resized and JPEG compressed."
+      },
+      "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Casa_Vallejo.JPG/1280px-Casa_Vallejo.JPG",
+      "evidence": {
+        "api": "https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=1280&titles=File%3ACasa_Vallejo.JPG",
+        "parseUrl": "https://commons.wikimedia.org/w/api.php?action=parse&format=json&page=File%3ACasa_Vallejo.JPG&prop=wikitext",
+        "description": "rainy day at Casa Vallejo",
+        "categories": "Self-published work|Philippine Cultural Heritage Mapping Project content|Casa Vallejo",
+        "requiredAttribution": "",
+        "licenseDeclaration": "=={{int:filedesc}}==\n{{Information\n|description={{en|1=rainy day at Casa Vallejo}}\n|date=2014-06-08 17:44:47\n|source={{own}}\n|author=[[User:KisekiLacroix|KisekiLacroix]]\n|permission=\n|other versions=\n}}\n\n=={{int:license-header}}==\n{{self|cc-by-sa-4.0}}\n\n[[Category:Philippine Cultural Heritage Mapping Project content]]\n[[Category:Casa Vallejo]]"
+      },
+      "sourceReview": "Individual source/rights fetched; awaiting explicit visual and identity approval",
+      "decision": "rejected-for-place-identity",
+      "notes": "Casa Vallejo frontage does not show the restaurant clearly; Eng Bee Tin branch is unproven; Baker’s Hill zipline view may be at the separate Mitra Ranch. No substitute is published."
+    },
+    {
+      "placeId": "manila-eng-bee-tin-ongpin",
+      "checkedOn": "2026-10-23",
+      "photo": {
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Eng_Bee_Tin_Manila_01.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Eng_Bee_Tin_Manila_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "SwarmCheng",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "SwarmCheng / Wikimedia Commons / CC BY-SA 4.0. Resized and JPEG compressed."
+      },
+      "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Eng_Bee_Tin_Manila_01.jpg/1280px-Eng_Bee_Tin_Manila_01.jpg",
+      "evidence": {
+        "api": "https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=1280&titles=File%3AEng_Bee_Tin_Manila_01.jpg",
+        "parseUrl": "https://commons.wikimedia.org/w/api.php?action=parse&format=json&page=File%3AEng_Bee_Tin_Manila_01.jpg&prop=wikitext",
+        "description": "Eng Bee Tin",
+        "categories": "Eng Bee Tin|Self-published work",
+        "requiredAttribution": "",
+        "licenseDeclaration": "=={{int:filedesc}}==\n{{Information\n|description={{en|1=Eng Bee Tin}}\n|date=2022-12-23 15:18:46\n|source={{own}}\n|author=[[User:SwarmCheng|SwarmCheng]]\n|permission=\n|other versions=\n}}\n\n=={{int:license-header}}==\n{{self|cc-by-sa-4.0}}\n\n[[Category:Eng Bee Tin]]"
+      },
+      "sourceReview": "Individual source/rights fetched; awaiting explicit visual and identity approval",
+      "decision": "rejected-for-place-identity",
+      "notes": "Casa Vallejo frontage does not show the restaurant clearly; Eng Bee Tin branch is unproven; Baker’s Hill zipline view may be at the separate Mitra Ranch. No substitute is published."
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 // Fetch an individual image page and a preview for human review; never publishes.
 import {writeFile,mkdir} from 'node:fs/promises';
-import {cached,flickrPhotos,embeddedJson,clean,today} from './photo-pass-tools.mjs';
+import {cached,flickrPhotos,embeddedJson,clean,today,flickrReusableLicenses} from './photo-pass-tools.mjs';
 import {get} from './research-place-content.mjs';
 import sharp from 'sharp';
 export async function preparePhoto(placeId,sourcePage){
@@ -17,8 +17,7 @@ export async function preparePhoto(placeId,sourcePage){
   downloadUrl=(p.thumburl||p.url).split('?')[0];previewUrl=downloadUrl;
  }else if(url.hostname==='www.flickr.com'){
   const html=await cached(sourcePage,'html'),id=url.pathname.split('/').filter(Boolean).at(-1),p=flickrPhotos(html).find(p=>p.id===id);if(!p)throw Error('Individual Flickr photo metadata missing');
-  const licenses={4:['CC BY 2.0','https://creativecommons.org/licenses/by/2.0/'],5:['CC BY-SA 2.0','https://creativecommons.org/licenses/by-sa/2.0/'],9:['CC0','https://creativecommons.org/publicdomain/zero/1.0/'],10:['Public domain','https://creativecommons.org/publicdomain/mark/1.0/']};
-  const license=licenses[p.license];if(!license)throw Error(`Individual photo license is not approved: ${p.license}`);
+  const license=flickrReusableLicenses[p.license];if(!license)throw Error(`Individual photo license is not approved: ${p.license}`);
   if(!html.includes(license[1]+'deed.en')&&!html.includes(license[1]+'"'))throw Error('Individual photo license link is unavailable');
   const owner=p.owner?.data;if(typeof owner!=='object')throw Error('Individual photographer identity missing');
   const creator=owner.realname||owner.username;

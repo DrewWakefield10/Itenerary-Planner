@@ -1,10 +1,12 @@
 # Discover content and media enrichment
 
+**Latest photo follow-up:** [cover research, results and exact blockers](cover-completion/README.md) reviewed the current 212 gaps in nine saved batches and added two licensed, visually reviewed photos. Current coverage is **216/426**, with **210 unresolved gaps**. [The remaining-photo checklist](cover-completion/remaining-photos.csv) covers the full catalog; the older 148-place pass below is historical. All approved text, photos, videos and Instagram posts are preserved.
+
 **Detail-cover behavior:** [Instagram cover preview](instagram/cover-preview.md) now reuses the original post widget when no approved cover photo exists. Nine existing places qualify. The preview is opt-in, keeps all official controls and the original link, and does not change photo-gap counts.
 
 **Latest Instagram pass:** [implementation and research handoff](instagram/README.md), [destination/category coverage](instagram/coverage.md). There are 37 reviewed posts for 36 of 426 locations; 9 places with missing covers now have an Instagram resource. All 37 official widgets rendered at their recorded checks, with initial images/posters visually reviewed. The catalog-source audit covers all 426 places; exact-post discovery remains open for 390 without an approved resource. Instagram does not close any of the 212 licensed-photo gaps. Historical research totals below remain separate.
 
-**Current catalog:** the later [food-directory expansion](../food-directory/README.md) adds 94 places, bringing the complete directory to 426 descriptions and 214 places with photos (212 documented photo overlays plus two retained legacy images). There are 212 current photo gaps. Food additions contributed five approved images; the original 515 video associations remain unchanged.
+**Current catalog:** the [food-directory expansion](../food-directory/README.md) added 94 places and five approved photos, reaching 426 descriptions and 214 covers at that point. The latest two-photo follow-up brings current coverage to 216 covers (214 documented overlays plus two retained legacy images), with 210 gaps. The original 515 video associations remain unchanged.
 
 **Historical photo follow-up:** the targeted photo-only pass reviewed its original 148 gaps and added 25 photos, reaching 209/332 with 123 gaps in that cohort. See [photo-only results, source limits and supplied-photo checklist](photo-only/README.md). Its checklist and the earlier counts below are preserved as history, separately from new food records.
 

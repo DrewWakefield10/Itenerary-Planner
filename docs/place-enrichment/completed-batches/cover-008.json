@@ -1,0 +1,696 @@
+{
+  "batchId": "cover-008",
+  "mode": "photos-only",
+  "checkedOn": "2026-10-23",
+  "outcomes": [
+    {
+      "placeId": "manila-eng-bee-tin-ongpin",
+      "checkedOn": "2026-10-23",
+      "sourcesSearched": [
+        {
+          "provider": "Flickr",
+          "query": "Eng Bee Tin Manila",
+          "url": "https://www.flickr.com/search/?text=Eng+Bee+Tin+Manila&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Commons",
+          "query": "Eng Bee Tin Manila",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Eng+Bee+Tin+Manila&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 8
+        }
+      ],
+      "rejections": [
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Eng_Bee_Tin_Manila_01.jpg",
+          "title": "File:Eng Bee Tin Manila 01.jpg",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Eng_Bee_Tin_Manila_07.jpg",
+          "title": "File:Eng Bee Tin Manila 07.jpg",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Eng_Bee_Tin_Manila_08.jpg",
+          "title": "File:Eng Bee Tin Manila 08.jpg",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Eng_Bee_Tin_Manila_09.jpg",
+          "title": "File:Eng Bee Tin Manila 09.jpg",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Eng_Bee_Tin_Manila_10.jpg",
+          "title": "File:Eng Bee Tin Manila 10.jpg",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Eng_Bee_Tin_Manila_11.jpg",
+          "title": "File:Eng Bee Tin Manila 11.jpg",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Eng_Bee_Tin_Manila_12.jpg",
+          "title": "File:Eng Bee Tin Manila 12.jpg",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Eng_Bee_Tin_Manila_18.jpg",
+          "title": "File:Eng Bee Tin Manila 18.jpg",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        }
+      ],
+      "notes": [
+        "Earlier approved descriptions, photographs, videos, stable IDs, bookmarks and saved trips are preserved. Public or official visibility alone does not establish image reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "The reviewed image did not establish the exact catalog place/branch: a nearby hotel frontage, uncertain bakery-versus-ranch attribution, or unspecified store branch is insufficient. Supply a photograph of this exact place with documented rights."
+    },
+    {
+      "placeId": "manila-yardstick-esteban",
+      "checkedOn": "2026-10-23",
+      "sourcesSearched": [
+        {
+          "provider": "Flickr",
+          "query": "Yardstick Makati",
+          "url": "https://www.flickr.com/search/?text=Yardstick+Makati&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "rejections": [],
+      "notes": [
+        "Earlier approved descriptions, photographs, videos, stable IDs, bookmarks and saved trips are preserved. Public or official visibility alone does not establish image reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source."
+    },
+    {
+      "placeId": "manila-commune-poblacion",
+      "checkedOn": "2026-10-23",
+      "sourcesSearched": [
+        {
+          "provider": "Flickr",
+          "query": "Commune Café + Bar Makati",
+          "url": "https://www.flickr.com/search/?text=Commune+Caf%C3%A9+%2B+Bar+Makati&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Commune + Bar Makati",
+          "url": "https://www.flickr.com/search/?text=Commune+%2B+Bar+Makati&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Commons",
+          "query": "Commune + Bar Makati",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Commune+%2B+Bar+Makati&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 1
+        }
+      ],
+      "rejections": [
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Sony_Xperia_XZ_Platinum_with_Style_Cover_Touch_case.jpg",
+          "title": "File:Sony Xperia XZ Platinum with Style Cover Touch case.jpg",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        }
+      ],
+      "notes": [
+        "Earlier approved descriptions, photographs, videos, stable IDs, bookmarks and saved trips are preserved. Public or official visibility alone does not establish image reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "No candidate established an exact-place/branch photograph with individually reviewed compatible rights and a usable image. Name collisions and neighboring places are not substitutes. Supply an authorized exact-place photograph or resolve the linked candidate review."
+    },
+    {
+      "placeId": "manila-exchange-alley-molito",
+      "checkedOn": "2026-10-23",
+      "sourcesSearched": [
+        {
+          "provider": "Flickr",
+          "query": "Exchange Alley Coffee House Muntinlupa",
+          "url": "https://www.flickr.com/search/?text=Exchange+Alley+Coffee+House+Muntinlupa&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Exchange Alley Coffee Muntinlupa",
+          "url": "https://www.flickr.com/search/?text=Exchange+Alley+Coffee+Muntinlupa&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Commons",
+          "query": "Exchange Alley Coffee Muntinlupa",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Exchange+Alley+Coffee+Muntinlupa&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        }
+      ],
+      "rejections": [],
+      "notes": [
+        "Earlier approved descriptions, photographs, videos, stable IDs, bookmarks and saved trips are preserved. Public or official visibility alone does not establish image reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source."
+    },
+    {
+      "placeId": "manila-group-boiler-molito",
+      "checkedOn": "2026-10-23",
+      "sourcesSearched": [
+        {
+          "provider": "Flickr",
+          "query": "Group & Boiler Muntinlupa",
+          "url": "https://www.flickr.com/search/?text=Group+%26+Boiler+Muntinlupa&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Group Boiler Muntinlupa",
+          "url": "https://www.flickr.com/search/?text=Group+Boiler+Muntinlupa&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Commons",
+          "query": "Group Boiler Muntinlupa",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Group+Boiler+Muntinlupa&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        }
+      ],
+      "rejections": [],
+      "notes": [
+        "Earlier approved descriptions, photographs, videos, stable IDs, bookmarks and saved trips are preserved. Public or official visibility alone does not establish image reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source."
+    },
+    {
+      "placeId": "manila-type-a-nbs",
+      "checkedOn": "2026-10-23",
+      "sourcesSearched": [
+        {
+          "provider": "Flickr",
+          "query": "Type A Coffee Mandaluyong",
+          "url": "https://www.flickr.com/search/?text=Type+A+Coffee+Mandaluyong&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "rejections": [],
+      "notes": [
+        "Earlier approved descriptions, photographs, videos, stable IDs, bookmarks and saved trips are preserved. Public or official visibility alone does not establish image reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source."
+    },
+    {
+      "placeId": "manila-the-den-escolta",
+      "checkedOn": "2026-10-23",
+      "sourcesSearched": [
+        {
+          "provider": "Flickr",
+          "query": "The Den Manila",
+          "url": "https://www.flickr.com/search/?text=The+Den+Manila&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 1,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Den Manila",
+          "url": "https://www.flickr.com/search/?text=Den+Manila&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 2,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Commons",
+          "query": "Den Manila",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Den+Manila&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 8
+        }
+      ],
+      "rejections": [
+        {
+          "sourcePage": "https://www.flickr.com/photos/kenlund/21073345854/",
+          "title": "Manila, Utah",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/minoritenplatz8/9197136341/",
+          "title": "AM Spindelegger überreicht Bürgerservice-Preis",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://www.flickr.com/photos/minoritenplatz8/9199917916/",
+          "title": "AM Spindelegger überreicht Bürgerservice-Preis",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:0211jfRockwell_Power_Plant_Chapel_Sacred_Heart_Poblacion_Makati_Cityfvf_11.jpg",
+          "title": "File:0211jfRockwell Power Plant Chapel Sacred Heart Poblacion Makati Cityfvf 11.jpg",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Makati,_Metro_Manila,_Philippines_-_panoramio.jpg",
+          "title": "File:Makati, Metro Manila, Philippines - panoramio.jpg",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:0340jfEast_Rembo_Barangays_Kalayaan_Avenue_Makati_City_Tunnelfvf_32.jpg",
+          "title": "File:0340jfEast Rembo Barangays Kalayaan Avenue Makati City Tunnelfvf 32.jpg",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Bel-Air,_Makati,_Metro_Manila,_Philippines_-_panoramio_(2).jpg",
+          "title": "File:Bel-Air, Makati, Metro Manila, Philippines - panoramio (2).jpg",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:San_Antonio,_Makati,_Metro_Manila,_Philippines_-_panoramio_(1).jpg",
+          "title": "File:San Antonio, Makati, Metro Manila, Philippines - panoramio (1).jpg",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Manila,_Makati,_Philippines.jpg",
+          "title": "File:Manila, Makati, Philippines.jpg",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Iglesia_de_San_Miguel,_Manila,_Filipinas,_2023-08-27,_DD_29-31_HDR.jpg",
+          "title": "File:Iglesia de San Miguel, Manila, Filipinas, 2023-08-27, DD 29-31 HDR.jpg",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Guadalupe_Nuevo,_Pasig_River,_EDSA,_Barangka_drone_(Makati_City;_12-31-2025).jpg",
+          "title": "File:Guadalupe Nuevo, Pasig River, EDSA, Barangka drone (Makati City; 12-31-2025).jpg",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        }
+      ],
+      "notes": [
+        "Earlier approved descriptions, photographs, videos, stable IDs, bookmarks and saved trips are preserved. Public or official visibility alone does not establish image reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "No candidate established an exact-place/branch photograph with individually reviewed compatible rights and a usable image. Name collisions and neighboring places are not substitutes. Supply an authorized exact-place photograph or resolve the linked candidate review."
+    },
+    {
+      "placeId": "manila-saigon-coffee-arca",
+      "checkedOn": "2026-10-23",
+      "sourcesSearched": [
+        {
+          "provider": "Flickr",
+          "query": "Saigon Coffee Taguig",
+          "url": "https://www.flickr.com/search/?text=Saigon+Coffee+Taguig&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "rejections": [],
+      "notes": [
+        "Earlier approved descriptions, photographs, videos, stable IDs, bookmarks and saved trips are preserved. Public or official visibility alone does not establish image reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source."
+    },
+    {
+      "placeId": "manila-toyo-eatery",
+      "checkedOn": "2026-10-23",
+      "sourcesSearched": [
+        {
+          "provider": "Flickr",
+          "query": "Toyo Eatery Makati",
+          "url": "https://www.flickr.com/search/?text=Toyo+Eatery+Makati&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "rejections": [],
+      "notes": [
+        "Earlier approved descriptions, photographs, videos, stable IDs, bookmarks and saved trips are preserved. Public or official visibility alone does not establish image reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source."
+    },
+    {
+      "placeId": "manila-gallery-by-chele",
+      "checkedOn": "2026-10-23",
+      "sourcesSearched": [
+        {
+          "provider": "Flickr",
+          "query": "Gallery by Chele Taguig",
+          "url": "https://www.flickr.com/search/?text=Gallery+by+Chele+Taguig&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "rejections": [],
+      "notes": [
+        "Earlier approved descriptions, photographs, videos, stable IDs, bookmarks and saved trips are preserved. Public or official visibility alone does not establish image reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source."
+    },
+    {
+      "placeId": "manila-your-local",
+      "checkedOn": "2026-10-23",
+      "sourcesSearched": [
+        {
+          "provider": "Flickr",
+          "query": "Your Local Makati",
+          "url": "https://www.flickr.com/search/?text=Your+Local+Makati&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 1,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "rejections": [
+        {
+          "sourcePage": "https://www.flickr.com/photos/shankaronline/9364538772/",
+          "title": "Driving through the Manila slum",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        }
+      ],
+      "notes": [
+        "Earlier approved descriptions, photographs, videos, stable IDs, bookmarks and saved trips are preserved. Public or official visibility alone does not establish image reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "No candidate established an exact-place/branch photograph with individually reviewed compatible rights and a usable image. Name collisions and neighboring places are not substitutes. Supply an authorized exact-place photograph or resolve the linked candidate review."
+    },
+    {
+      "placeId": "manila-sarsa-rada",
+      "checkedOn": "2026-10-23",
+      "sourcesSearched": [
+        {
+          "provider": "Flickr",
+          "query": "Sarsa Makati",
+          "url": "https://www.flickr.com/search/?text=Sarsa+Makati&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "rejections": [],
+      "notes": [
+        "Earlier approved descriptions, photographs, videos, stable IDs, bookmarks and saved trips are preserved. Public or official visibility alone does not establish image reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source."
+    },
+    {
+      "placeId": "manila-metiz-karrivin",
+      "checkedOn": "2026-10-23",
+      "sourcesSearched": [
+        {
+          "provider": "Flickr",
+          "query": "Metiz Makati",
+          "url": "https://www.flickr.com/search/?text=Metiz+Makati&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "rejections": [],
+      "notes": [
+        "Earlier approved descriptions, photographs, videos, stable IDs, bookmarks and saved trips are preserved. Public or official visibility alone does not establish image reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source."
+    },
+    {
+      "placeId": "manila-cirkulo",
+      "checkedOn": "2026-10-23",
+      "sourcesSearched": [
+        {
+          "provider": "Flickr",
+          "query": "Cirkulo Makati",
+          "url": "https://www.flickr.com/search/?text=Cirkulo+Makati&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "rejections": [],
+      "notes": [
+        "Earlier approved descriptions, photographs, videos, stable IDs, bookmarks and saved trips are preserved. Public or official visibility alone does not establish image reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source."
+    },
+    {
+      "placeId": "manila-la-pita-poblacion",
+      "checkedOn": "2026-10-23",
+      "sourcesSearched": [
+        {
+          "provider": "Flickr",
+          "query": "La Pita Makati",
+          "url": "https://www.flickr.com/search/?text=La+Pita+Makati&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "rejections": [],
+      "notes": [
+        "Earlier approved descriptions, photographs, videos, stable IDs, bookmarks and saved trips are preserved. Public or official visibility alone does not establish image reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source."
+    },
+    {
+      "placeId": "manila-morning-sun-project-four",
+      "checkedOn": "2026-10-23",
+      "sourcesSearched": [
+        {
+          "provider": "Flickr",
+          "query": "Morning Sun Eatery Quezon City",
+          "url": "https://www.flickr.com/search/?text=Morning+Sun+Eatery+Quezon+City&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "rejections": [],
+      "notes": [
+        "Earlier approved descriptions, photographs, videos, stable IDs, bookmarks and saved trips are preserved. Public or official visibility alone does not establish image reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source."
+    },
+    {
+      "placeId": "manila-el-poco-malate",
+      "checkedOn": "2026-10-23",
+      "sourcesSearched": [
+        {
+          "provider": "Flickr",
+          "query": "El Poco Cantina Manila",
+          "url": "https://www.flickr.com/search/?text=El+Poco+Cantina+Manila&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "rejections": [],
+      "notes": [
+        "Earlier approved descriptions, photographs, videos, stable IDs, bookmarks and saved trips are preserved. Public or official visibility alone does not establish image reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source."
+    },
+    {
+      "placeId": "manila-rodics-maginhawa",
+      "checkedOn": "2026-10-23",
+      "sourcesSearched": [
+        {
+          "provider": "Flickr",
+          "query": "Rodics Diner Quezon City",
+          "url": "https://www.flickr.com/search/?text=Rodics+Diner+Quezon+City&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Commons",
+          "query": "Rodics Diner Quezon City",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Rodics+Diner+Quezon+City&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        }
+      ],
+      "rejections": [],
+      "notes": [
+        "Earlier approved descriptions, photographs, videos, stable IDs, bookmarks and saved trips are preserved. Public or official visibility alone does not establish image reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source."
+    },
+    {
+      "placeId": "cebu-omagieca-obo-ob-mangrove-garden",
+      "checkedOn": "2026-10-23",
+      "sourcesSearched": [
+        {
+          "provider": "Flickr",
+          "query": "Omagieca Obo-ob Mangrove Garden Bantayan",
+          "url": "https://www.flickr.com/search/?text=Omagieca+Obo-ob+Mangrove+Garden+Bantayan&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Omagieca Obo-ob Mangrove Cebu",
+          "url": "https://www.flickr.com/search/?text=Omagieca+Obo-ob+Mangrove+Cebu&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "rejections": [],
+      "notes": [
+        "Earlier approved descriptions, photographs, videos, stable IDs, bookmarks and saved trips are preserved. Public or official visibility alone does not establish image reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source."
+    },
+    {
+      "placeId": "cebu-pig-and-palm",
+      "checkedOn": "2026-10-23",
+      "sourcesSearched": [
+        {
+          "provider": "Flickr",
+          "query": "The Pig & Palm Cebu City",
+          "url": "https://www.flickr.com/search/?text=The+Pig+%26+Palm+Cebu+City&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Pig Palm Cebu",
+          "url": "https://www.flickr.com/search/?text=Pig+Palm+Cebu&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "rejections": [],
+      "notes": [
+        "Earlier approved descriptions, photographs, videos, stable IDs, bookmarks and saved trips are preserved. Public or official visibility alone does not establish image reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source."
+    },
+    {
+      "placeId": "cebu-turning-wheels-brewery",
+      "checkedOn": "2026-10-23",
+      "sourcesSearched": [
+        {
+          "provider": "Flickr",
+          "query": "Turning Wheels Brewery Cebu City",
+          "url": "https://www.flickr.com/search/?text=Turning+Wheels+Brewery+Cebu+City&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Turning Wheels Brewery Cebu",
+          "url": "https://www.flickr.com/search/?text=Turning+Wheels+Brewery+Cebu&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "rejections": [],
+      "notes": [
+        "Earlier approved descriptions, photographs, videos, stable IDs, bookmarks and saved trips are preserved. Public or official visibility alone does not establish image reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source."
+    },
+    {
+      "placeId": "cebu-abaca-baking-crossroads",
+      "checkedOn": "2026-10-23",
+      "sourcesSearched": [
+        {
+          "provider": "Flickr",
+          "query": "Abaca Baking Company Cebu City",
+          "url": "https://www.flickr.com/search/?text=Abaca+Baking+Company+Cebu+City&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Abaca Baking Company Cebu",
+          "url": "https://www.flickr.com/search/?text=Abaca+Baking+Company+Cebu&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "rejections": [],
+      "notes": [
+        "Earlier approved descriptions, photographs, videos, stable IDs, bookmarks and saved trips are preserved. Public or official visibility alone does not establish image reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source."
+    },
+    {
+      "placeId": "cebu-north-cafe-citymall",
+      "checkedOn": "2026-10-23",
+      "sourcesSearched": [
+        {
+          "provider": "Flickr",
+          "query": "North Café & Co Cebu City",
+          "url": "https://www.flickr.com/search/?text=North+Caf%C3%A9+%26+Co+Cebu+City&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "North Co Cebu",
+          "url": "https://www.flickr.com/search/?text=North+Co+Cebu&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Commons",
+          "query": "North Co Cebu",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=North+Co+Cebu&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 1
+        }
+      ],
+      "rejections": [
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Compania_Maritima_Building_ruins_on_the_Cebu_waterfront.jpg",
+          "title": "File:Compania Maritima Building ruins on the Cebu waterfront.jpg",
+          "reason": "Unapproved research result. Exact location/branch, individual rights and a visually reviewed usable photograph were not all established; not published."
+        }
+      ],
+      "notes": [
+        "Earlier approved descriptions, photographs, videos, stable IDs, bookmarks and saved trips are preserved. Public or official visibility alone does not establish image reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "No candidate established an exact-place/branch photograph with individually reviewed compatible rights and a usable image. Name collisions and neighboring places are not substitutes. Supply an authorized exact-place photograph or resolve the linked candidate review."
+    },
+    {
+      "placeId": "cebu-teamo-hotel-one",
+      "checkedOn": "2026-10-23",
+      "sourcesSearched": [
+        {
+          "provider": "Flickr",
+          "query": "TeAmo Café Cebu City",
+          "url": "https://www.flickr.com/search/?text=TeAmo+Caf%C3%A9+Cebu+City&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "TeAmo Cebu",
+          "url": "https://www.flickr.com/search/?text=TeAmo+Cebu&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Commons",
+          "query": "TeAmo Cebu",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=TeAmo+Cebu&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        }
+      ],
+      "rejections": [],
+      "notes": [
+        "Earlier approved descriptions, photographs, videos, stable IDs, bookmarks and saved trips are preserved. Public or official visibility alone does not establish image reuse rights."
+      ],
+      "status": "needs-supplied-photo",
+      "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source."
+    }
+  ]
+}

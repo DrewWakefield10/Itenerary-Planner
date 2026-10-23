@@ -1,0 +1,37 @@
+{
+  "checkedOn": "2026-10-23",
+  "taskStatus": "partially-completed-with-unresolved-photo-gaps",
+  "startingLocations": 426,
+  "startingPhotos": 214,
+  "startingGaps": 212,
+  "reviewedGaps": 212,
+  "batches": 9,
+  "newPhotos": 2,
+  "finalPhotos": 216,
+  "remainingGaps": 210,
+  "approvedPlaceIds": ["davao-museo-dabawenyo-area", "sagada-ampacao"],
+  "checks": {
+    "unitIntegration": {"passed": 99, "failed": 0},
+    "typecheck": "passed",
+    "sitesBuild": "passed",
+    "vercelBuild": "passed",
+    "focusedEslint": "passed",
+    "diffWhitespace": "passed",
+    "imageValidation": "426 stable IDs, 214 metadata-rich photographs plus two retained legacy photos, 515 video associations. All metadata-rich local images decode and reserved dimensions match.",
+    "preservation": "Existing photo metadata and image-file hashes, descriptions, catalog facts, videos and Instagram records match their starting baselines. Only explicit later photographic approvals are excluded when comparing historical snapshots.",
+    "browser": "Native Next production at http://localhost:5193. Both new covers load on Discover cards and detail pages at 1440/390 px, with source/license links, reserved dimensions and no horizontal overflow. Screenshots inspected. Instagram cover fixture regression also passed.",
+    "exports": "Directory JSON/CSV, image credits, combined progress, Instagram coverage counts and the 210-place remaining-photo CSV/JSON were regenerated. Instagram posts remain independent of approved photographs."
+  },
+  "blockers": [
+    "No suitable exact-place image with individually reviewed reuse rights was established for most remaining places. Broader matches often depict a namesake, a different branch or a nearby site.",
+    "Several promising Flickr photo pages provide reusable-license metadata, but the actual CDN files timed out in Node, Windows HTTP and Chrome. Visual review could not be completed, so those images were not published.",
+    "Most Openverse follow-up requests timed out. Unsplash candidate source pages were unavailable; a public WordPress image rendition request was rate-limited. No access control or rate limit was bypassed."
+  ],
+  "remainingSteps": [
+    "Resolve recorded public image delivery/source-access issues and visually review candidates before approving them.",
+    "Obtain exact-place owner/traveler files for unresolved venues, with place ID, photographer/rights holder, website publication and resize/crop permission, and attribution preference. No owner contact has been made.",
+    "Publish only reviewed decisions through the shared publisher; regenerate exports/progress and rerun focused image/browser validation.",
+    "Push the local changes, including all four new image assets, and redeploy Vercel. No new environment variables or database migrations are required."
+  ],
+  "deployment": "Local changes only; production was inspected read-only and not deployed."
+}

@@ -1,6 +1,7 @@
 "use client";
 import { useEffect, useState } from "react";
-import { useRouter } from "next/navigation";
+import Link from 'next/link';
+import { useRouter,useSearchParams } from "next/navigation";
 import {
   ArrowLeft,
   ArrowRight,
@@ -24,13 +25,14 @@ import {
   defaultRequest,
   requestSchema,
   tripSchema,
-  tomorrow,
   type TripRequest,
 } from "@/lib/trip";
 import { totalBudget, recommendDestinations, travelers } from "@/lib/engine";
 import { readLocal, writeLocal } from "@/lib/storage";
 import { saveTrip } from "@/lib/trip-storage";
 import {placeTypes,placeTypeLabels} from "@/lib/catalog/place-types";
+import {plannerEntry,readPlannerDraft,applyPlannerPrefill,clearPlannerPrefillQuery,type PlannerPrefill} from '@/lib/planner-entry';
+import ConfirmDialog from './confirm-dialog';
 const steps = [
   "The basics",
   "Your travel style",
@@ -41,6 +43,7 @@ const steps = [
 ];
 export default function Planner() {
   const router = useRouter();
+  const query=useSearchParams().toString();
   const [r, setR] = useState<TripRequest>(defaultRequest);
   const [step, setStep] = useState(0);
   const [loaded, setLoaded] = useState(false);
@@ -48,36 +51,46 @@ export default function Planner() {
   const [mode, setMode] = useState("demo");
   const [error, setError] = useState("");
   const [busy, setBusy] = useState(false);
+  const [pendingPrefill,setPendingPrefill]=useState<PlannerPrefill|null>(null);
+  const [prefillMode,setPrefillMode]=useState<'replace'|'add'>('replace');
+  const [useSuggestedDays,setUseSuggestedDays]=useState(false);
+  const [invalidDraft,setInvalidDraft]=useState(false);
   const hasLegacyBase = r.destinations.some(slug => destination(slug)?.legacyOnly);
   const baseGroups = [
     {name: "Palawan", choices: selectableDestinations.filter(d => d.province === "Palawan")},
     {name: "Other overnight bases", choices: selectableDestinations.filter(d => d.province !== "Palawan")},
   ];
   useEffect(() => {
-    const saved = readLocal<TripRequest>("draft", {
-      ...defaultRequest,
-      startDate: tomorrow(),
-      pace: readLocal("preferred-pace", "Balanced"),
-    });
-    const q = new URLSearchParams(location.search);
-    const picks = q
-      .get("destinations")
-      ?.split(",")
-      .filter((s) => destination(s));
-    if (picks?.length) saved.destinations = picks;
-    const days = Number(q.get("days"));
-    if (days >= 2 && days <= 21) saved.days = days;
-    const parsed=requestSchema.safeParse({...defaultRequest,...saved});
-    setR(parsed.success?parsed.data:{...defaultRequest,startDate:tomorrow()});
-    setLoaded(true);
+    const rawDraft=readPlannerDraft();
+    const entry=plannerEntry(rawDraft,query,readLocal('preferred-pace','Balanced'));
+    setR(entry.request);
+    setPendingPrefill(entry.draftValid?entry.proposal:null);
+    setPrefillMode('replace');setUseSuggestedDays(false);setError('');
+    setInvalidDraft(!entry.draftValid);
+    setLoaded(entry.draftValid);
+    if(rawDraft===null&&entry.draftValid&&(new URLSearchParams(query).has('destinations')||new URLSearchParams(query).has('days'))&&writeLocal('draft',entry.request))clearPlannerPrefillQuery(query);
+  }, [query]);
+  useEffect(()=>{
     fetch("/api/generate")
       .then((r) => r.json() as Promise<{ mode: string }>)
       .then((x) => setMode(x.mode))
       .catch(() => setMode("demo"));
   }, []);
   useEffect(() => {
-    if (loaded) setDraftSaved(writeLocal("draft", r));
-  }, [r, loaded]);
+    if (loaded&&!pendingPrefill&&!invalidDraft) setDraftSaved(writeLocal("draft", r));
+  }, [r, loaded,pendingPrefill,invalidDraft]);
+  function consumePrefill(){
+    clearPlannerPrefillQuery(query);
+  }
+  function keepDraft(){setPendingPrefill(null);setError('');consumePrefill();}
+  function acceptPrefill(){
+    if(!pendingPrefill)return;
+    try{
+      const next=applyPlannerPrefill(r,pendingPrefill,prefillMode,useSuggestedDays);
+      if(!writeLocal('draft',next)){setError('Your draft could not be saved. Your previous choices have been kept.');return;}
+      setR(next);setPendingPrefill(null);setError('');consumePrefill();
+    }catch(e){setError(e instanceof Error?('issues' in e?(e as {issues:{message:string}[]}).issues.map(i=>i.message).join(' '):e.message):'These choices do not fit the current trip. Check the number of bases and days.');}
+  }
   function change<K extends keyof TripRequest>(key: K, value: TripRequest[K]) {
     setR({ ...r, [key]: value });
     setError("");
@@ -153,8 +166,17 @@ export default function Planner() {
       setBusy(false);
     }
   }
+  if(invalidDraft)return <section className="page section narrow"><h1 className="page-title">Your saved <em>planner draft.</em></h1><div className="paper-note" role="alert"><p>The saved draft could not be read or validated. It has not been overwritten. Saved itineraries are separate and remain in My Trips.</p><button className="button" onClick={()=>{const fresh=plannerEntry(null,query,readLocal('preferred-pace','Balanced')).request;if(writeLocal('draft',fresh)){setR(fresh);setInvalidDraft(false);setLoaded(true);consumePrefill();}else setError('Storage is unavailable. The existing draft has been kept.');}}>Start a new planner draft</button>{error&&<p>{error}</p>}<Link href="/my-trips" className="text-link">Open My Trips</Link></div></section>;
   return (
     <section className="page section planner-page">
+      {pendingPrefill&&<ConfirmDialog title="Use these choices for your draft?" action="Apply to planner draft" cancelLabel="Keep my draft" onClose={keepDraft} onConfirm={acceptPrefill}>
+        <p>Your existing planner draft has been kept. Budget, dates, pace, interests and other preferences will stay as entered.</p>
+        <p><strong>Current:</strong> {r.destinations.map(s=>destination(s)?.name).join(', ')} / {r.days} days</p>
+        <p><strong>From this link:</strong> {pendingPrefill.destinations?.map(s=>destination(s)?.name).join(', ')||'Current destinations'}{pendingPrefill.days?` / ${pendingPrefill.days} days suggested`:''}</p>
+        {pendingPrefill.destinations&&<fieldset className="prefill-options"><legend>How should these destinations fit?</legend><label><input type="radio" name="prefill-mode" checked={prefillMode==='replace'} onChange={()=>setPrefillMode('replace')}/> Use the destinations from this link</label><label><input type="radio" name="prefill-mode" checked={prefillMode==='add'} onChange={()=>setPrefillMode('add')}/> Add to my existing destinations</label><small>The existing three-base and minimum-duration limits still apply.</small></fieldset>}
+        {pendingPrefill.days&&<label className="prefill-days"><input type="checkbox" checked={useSuggestedDays} onChange={e=>setUseSuggestedDays(e.target.checked)}/> Use the suggested {pendingPrefill.days}-day duration</label>}
+        {error&&<p className="notice error" role="alert">{error}</p>}
+      </ConfirmDialog>}
       <span className="eyebrow">A BLANK PAGE. A WHOLE LOT OF POSSIBILITY.</span>
       <h1 className="page-title">
         Let’s write <em>your next story.</em>

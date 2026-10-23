@@ -1,0 +1,28 @@
+{
+  "checkedOn": "2026-10-23",
+  "status": "research-only-not-photo-approvals",
+  "flickrLicenseReference": "https://www.flickr.com/services/api/flickr.photos.licenses.getInfo.html",
+  "flickrImageDelivery": {
+    "exampleOriginal": "https://live.staticflickr.com/65535/51959825160_b10cabe137_o.jpg",
+    "node": "UND_ERR_CONNECT_TIMEOUT",
+    "windowsHttp": "Timed out",
+    "chrome": "Navigation timed out after 20000 ms",
+    "effect": "Individual license metadata is readable, but an actual image is still required for visual approval and publication."
+  },
+  "unsplashCandidates": [
+    {
+      "placeId": "siargao-maasin-river",
+      "sourcePage": "https://unsplash.com/photos/dense-palm-forest-surrounds-a-vibrant-blue-natural-pool-u9Hk82jdjeo",
+      "discovery": "Public search index names Maasin River Bridge, Pilar, and a free Unsplash license.",
+      "sourceAccess": "Direct source page HTTP 401; browsing tool HTTP 429.",
+      "review": "Not visually or individually license-approved; not downloaded or published."
+    }
+  ],
+  "otherDeliveryAttempt": {
+    "service": "WordPress.com image rendition",
+    "status": 429,
+    "effect": "No image obtained, no proxy integration added, and no rate-limit bypass attempted."
+  },
+  "openverse": "See openverse-followup.json for each public query and timeout/empty result.",
+  "commonsDelivery": "See commons-delivery-followup.json for searches by original Flickr photo ID. The available Baker’s Hill candidate was not accepted because exact bakery-versus-ranch identity remains uncertain."
+}

@@ -5,12 +5,23 @@ import {readFile} from 'node:fs/promises';
 const browser = await chromium.launch({channel:'chrome', headless:true});
 const page = await browser.newPage({viewport:{width:1440,height:1000}});
 const errors=[]; page.on('pageerror',e=>errors.push(e.message));
-const origin='http://127.0.0.1:5173';
+const origin=process.env.LAKBAY_TEST_ORIGIN||'http://127.0.0.1:5173';
+async function acceptRequestedBases(){
+  const dialog=page.getByRole('dialog',{name:'Use these choices for your draft?'});
+  await expect(dialog).toBeVisible();
+  await dialog.getByLabel('Use the destinations from this link').check();
+  const duration=dialog.getByRole('checkbox');if(await duration.count())await duration.check();
+  await dialog.getByRole('button',{name:'Apply to planner draft',exact:true}).click();
+  await expect(dialog).toHaveCount(0);
+}
 try {
   for (const [slug,name] of [['el-nido','El Nido'],['coron','Coron'],['puerto-princesa','Puerto Princesa']]) {
     await page.goto(`${origin}/planner?destinations=${slug}&days=8`);
+    if(slug!=='el-nido')await acceptRequestedBases();
     await expect(page.getByRole('button',{name,exact:true})).toHaveAttribute('aria-pressed','true');
     await expect(page.locator('.destination-choices [aria-pressed=true]')).toHaveCount(1);
+    await expect.poll(()=>page.evaluate(()=>JSON.parse(localStorage.getItem('lakbay:draft')||'null')?.destinations)).toEqual([slug]);
+    await expect.poll(()=>page.evaluate(()=>JSON.parse(localStorage.getItem('lakbay:draft')||'null')?.days)).toBe(8);
   }
   const palawan = page.getByRole('region',{name:'Palawan',exact:true});
   await expect(palawan.getByRole('heading',{name:'Palawan',exact:true})).toBeVisible();
@@ -69,6 +80,7 @@ try {
   assert.deepEqual(loaded.request.destinations,['palawan']);
   assert.deepEqual(loaded.days.flatMap(d=>d.activities).map(a=>[a.lat,a.lng]),legacy.days.flatMap(d=>d.activities).map(a=>[a.lat,a.lng]));
   await page.goto(`${origin}/planner?destinations=palawan&days=5`);
+  await acceptRequestedBases();
   await expect(page.getByRole('status')).toContainText('older');
   await page.getByRole('button',{name:'Next chapter'}).click();
   await expect(page.getByText('Choose an explicit overnight base to replace the legacy Palawan selection for this new trip.',{exact:true})).toBeVisible();
@@ -76,7 +88,7 @@ try {
   await expect(page.getByRole('button',{name:'Coron',exact:true})).toHaveAttribute('aria-pressed','true');
   await expect(page.locator('.legacy-base-note')).toHaveCount(0);
   await page.goto(`${origin}/explore`);
-  await page.getByRole('textbox',{name:'Search destinations'}).fill('Palawan');
+  await page.getByRole('searchbox',{name:'Search destinations'}).fill('Palawan');
   await expect(page.locator('.postcard')).toHaveCount(3);
   assert.deepEqual(errors,[]);
   console.log('Travel bases: independent selection, keyboard/mobile grouping, generation, map markers, export/import, and legacy preservation passed.');

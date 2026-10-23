@@ -7,7 +7,6 @@ import {
   ArrowUpRight,
   MapPin,
   Compass,
-  Heart,
   Menu,
   X,
   Sun,
@@ -18,113 +17,21 @@ import {
   Sparkles,
   Wallet,
   Check,
-  Search,
-  ArrowLeft,
 } from "lucide-react";
 import {
   selectableDestinations,
-  destinationImage,
-  destination,
-  categories,
   templates,
-  peso,
-  type Destination,
 } from "@/lib/destinations";
 import { readLocal, writeLocal } from "@/lib/storage";
 import Planner from "./planner";
 import TripView from "./trip-view";
 import SavedTrips from "./saved-trips";
-import SavedPlaces,{BookmarkButton} from "./bookmarks";
+import SavedPlaces from "./bookmarks";
 import AccountPage from "./account-page";
 import {AccountMenu,useAccount} from "./account-provider";
 import Discover, { DiscoveryTeaser } from "./discover";
-import {
-  SourceIndicator,
-  SourceReviewNote,
-  AdvisorySources,
-} from "./source-indicator";
-export function Photo({
-  slug,
-  className = "",
-  eager = false,
-}: {
-  slug: string;
-  className?: string;
-  eager?: boolean;
-}) {
-  return (
-    <img
-      className={className}
-      src={destinationImage(slug)}
-      alt={`${destination(slug)?.name || slug} scenery`}
-      loading={eager ? "eager" : "lazy"}
-    />
-  );
-}
-export function Stamp() {
-  return (
-    <div className="stamp">
-      <Sun size={27} />
-      <span>PHILIPPINES</span>
-      <small>GO. WANDER. REPEAT.</small>
-    </div>
-  );
-}
-export function DestinationCard({
-  d,
-  index = 0,
-}: {
-  d: Destination;
-  index?: number;
-}) {
-  const account=useAccount();
-  const [saved, setSaved] = useState(false);
-  useEffect(() => {
-    setSaved(readLocal<string[]>("favorites", []).includes(d.slug));
-  }, [d.slug]);
-  return (
-    <article className={`postcard card-${index % 3}`}>
-      <Link href={`/destinations/${d.slug}`} className="photo-link">
-        <Photo slug={d.slug} />
-        <span className="destination-tag">{d.tags[0]}</span>
-      </Link>
-      {!account.enabled&&<button
-        className={`heart ${saved ? "saved" : ""}`}
-        aria-label={`${saved ? "Unsave" : "Save"} ${d.name} on this device`}
-        title="Device favorite; not an account bookmark"
-        onClick={() => {
-          const list = readLocal<string[]>("favorites", []);
-          if (
-            writeLocal(
-              "favorites",
-              saved ? list.filter((s) => s !== d.slug) : [...list, d.slug],
-            )
-          )
-            setSaved(!saved);
-        }}
-      >
-        <Heart size={19} fill={saved ? "currentColor" : "none"} />
-      </button>}
-      <div className="postcard-body">
-        <small>{d.province ? `${d.province} · ${d.region}` : d.region}</small>
-        <Link href={`/destinations/${d.slug}`}>
-          <h3>
-            {d.name}
-            <ArrowUpRight size={21} />
-          </h3>
-        </Link>
-        <p>{d.caption}</p>
-        <BookmarkButton placeId={`base-${d.slug}`} name={d.name}/>
-        <div className="card-meta">
-          <span>
-            {d.days}–{d.days + 2} days of discovery
-          </span>
-          <span>from {peso(d.daily)} / day*</span>
-        </div>
-      </div>
-    </article>
-  );
-}
+import {Photo,Stamp,DestinationCard} from './destination-card';
+import {Explore,DestinationDetails,TravelAdviceArticle} from './explore';
 export default function Lakbay() {
   const path = usePathname();
   const account=useAccount();
@@ -158,12 +65,12 @@ export default function Lakbay() {
             ["/discover", "Discover"],
             ["/explore", "Explore"],
             ["/planner", "Plan a Trip"],
-            ["/templates", "Travel Guides"],
             ["/my-trips", "My Trips"],
             ["/saved-places", "Saved Places"],
           ].map(([url, name]) => (
             <Link
-              className={path.startsWith(url) ? "active" : ""}
+              className={path.startsWith(url)||(url==='/explore'&&path.startsWith('/destinations/')) ? "active" : ""}
+              aria-current={path.startsWith(url)||(url==='/explore'&&path.startsWith('/destinations/'))?'page':undefined}
               href={url}
               key={url}
             >
@@ -199,12 +106,14 @@ export default function Lakbay() {
           <Home />
         ) : path === "/explore" ? (
           <Explore />
+        ) : path === '/explore/advice' ? (
+          <Explore advice />
+        ) : path.startsWith('/explore/advice/') ? (
+          <TravelAdviceArticle slug={path.split('/')[3]}/>
         ) : path === "/discover" || path.startsWith("/discover/") ? (
           <Discover key={slug || "all"} placeId={slug} />
         ) : path.startsWith("/destinations/") ? (
-          <Details slug={slug} />
-        ) : path === "/templates" ? (
-          <Templates />
+          <DestinationDetails slug={slug} />
         ) : path === "/planner" ? (
           <PlannerEntry />
         ) : path.startsWith("/trips/") ? (
@@ -241,7 +150,7 @@ export default function Lakbay() {
           <span>
             Made for the Philippines. Made for your kind of adventure.
           </span>
-          <Link href="/profile">Preferences & photo credits</Link>
+          <nav aria-label="Footer navigation"><Link href="/explore">Explore destinations</Link><Link href="/explore/advice">Travel advice</Link><Link href="/profile">Preferences & photo credits</Link></nav>
           <span>YOUR PHILIPPINES, YOUR ADVENTURE.</span>
         </div>
       </footer>
@@ -407,8 +316,8 @@ function Home() {
               A head start on <em>your next chapter.</em>
             </h2>
           </div>
-          <Link href="/templates" className="text-link">
-            All travel guides <ArrowUpRight size={18} />
+          <Link href="/explore/advice" className="text-link">
+            Travel advice & trip starters <ArrowUpRight size={18} />
           </Link>
         </div>
         <div className="template-grid">
@@ -492,7 +401,7 @@ function Home() {
             Trade a rainy beach afternoon for a local food stop. Keep the joy,
             change the plan.
           </p>
-          <Link className="text-link" href="/templates">
+          <Link className="text-link" href="/explore/advice">
             Find a flexible itinerary <ArrowRight size={18} />
           </Link>
           <hr />
@@ -521,324 +430,6 @@ function Home() {
         <span className="handwritten">Your plans. Your next chapter.</span>
       </section>
     </>
-  );
-}
-function Explore() {
-  const account=useAccount();
-  const [ready, setReady] = useState(false);
-  const [search, setSearch] = useState("");
-  const [category, setCategory] = useState("All");
-  const [favorites, setFavorites] = useState(false);
-  const [saved, setSaved] = useState<string[]>([]);
-  useEffect(() => {
-    const q = new URLSearchParams(location.search).get("category");
-    if (q && categories.includes(q)) setCategory(q);
-    setSaved(readLocal("favorites", []));
-    setReady(true);
-  }, []);
-  const filtered = selectableDestinations.filter(
-    (d) =>
-      (category === "All" || d.tags.includes(category)) &&
-      `${d.name} ${d.province || ""} ${d.region} ${d.description}`
-        .toLowerCase()
-        .includes(search.toLowerCase()) &&
-      (!favorites || (account.enabled?account.bookmarks.includes(`base-${d.slug}`):saved.includes(d.slug))),
-  );
-  return (
-    <section className="page section">
-      <Link className="breadcrumb" href="/">
-        Home / Explore
-      </Link>
-      <span className="eyebrow">THE PHILIPPINES, ONE DISCOVERY AT A TIME</span>
-      <h1 className="page-title">
-        Where will your <em>curiosity go?</em>
-      </h1>
-      <p className="lede">
-        From saltwater mornings to mountain air. Find a place that feels like
-        you.
-      </p>
-      <div className="explore-tools">
-        <label className="search">
-          <Search size={20} />
-          <input
-            aria-label="Search destinations"
-            disabled={!ready}
-            placeholder="Search an island, a city, a feeling…"
-            value={search}
-            onChange={(e) => setSearch(e.target.value)}
-          />
-        </label>
-        <button
-          className={`button secondary ${favorites ? "selected" : ""}`}
-          onClick={() => {
-            setSaved(readLocal("favorites", []));
-            setFavorites(!favorites);
-          }}
-        >
-          <Heart size={17} /> {favorites ? "All destinations" : account.enabled?"My favorites":"Device favorites"}
-        </button>
-      </div>
-      <div className="chips">
-        {categories.map((c) => (
-          <button
-            className={category === c ? "selected" : ""}
-            disabled={!ready}
-            onClick={() => setCategory(c)}
-            key={c}
-          >
-            {c}
-          </button>
-        ))}
-      </div>
-      <p className="fine-print">
-        {filtered.length} places to begin · Budget figures are estimates, not
-        live quotes.
-      </p>
-      <div className="destination-grid">
-        {filtered.map((d, i) => (
-          <DestinationCard d={d} index={i} key={d.slug} />
-        ))}
-      </div>
-      {!filtered.length && (
-        <div className="empty">
-          <Compass size={40} />
-          <h3>No places found just yet.</h3>
-          <button
-            className="button"
-            onClick={() => {
-              setCategory("All");
-              setSearch("");
-              setFavorites(false);
-            }}
-          >
-            Reset filters
-          </button>
-        </div>
-      )}
-    </section>
-  );
-}
-function Details({ slug }: { slug: string }) {
-  const d = destination(slug);
-  if (!d)
-    return (
-      <section className="page empty">
-        <h1>Destination not found.</h1>
-        <Link href="/explore">Explore destinations</Link>
-      </section>
-    );
-  return (
-    <section className="page section">
-      <Link href="/explore" className="breadcrumb">
-        <ArrowLeft size={15} /> Back to all destinations
-      </Link>
-      <div className="detail-hero">
-        <div>
-          <span className="eyebrow">
-            {d.province ? `${d.province} / ` : ""}{d.region} / PHILIPPINES{" "}
-            <SourceIndicator source={d.sources.region} label="Region" />
-          </span>
-          <h1>
-            {d.name}
-            <span className="handwritten">{d.caption}</span>
-          </h1>
-          <p className="lede">{d.description}</p>
-          {!d.legacyOnly&&<BookmarkButton placeId={`base-${d.slug}`} name={d.name}/>}
-          <SourceIndicator
-            source={d.sources.description}
-            label="Destination description"
-          />
-          <div className="chips">
-            {d.tags.map((t) => (
-              <span key={t}>{t}</span>
-            ))}
-          </div>
-          <Link
-            className="button"
-            href={`/planner?destinations=${d.slug}&days=${d.days}`}
-          >
-            {d.legacyOnly ? "Choose a Palawan base" : `Plan my ${d.name} adventure`} <ArrowUpRight size={18} />
-          </Link>
-        </div>
-        <div className="detail-photo">
-          <Photo slug={d.slug} eager />
-          <Stamp />
-        </div>
-      </div>
-      <div className="detail-facts">
-        <div>
-          <span>A LITTLE TIME</span>
-          <strong>
-            {d.days}–{d.days + 2} days
-          </strong>
-          <SourceIndicator
-            source={d.sources.schedule}
-            label="Suggested duration"
-          />
-        </div>
-        <div>
-          <span>A DAILY ALLOWANCE</span>
-          <strong>{peso(d.daily)} / person*</strong>
-          <SourceIndicator source={d.sources.price} label="Daily allowance" />
-        </div>
-        <div>
-          <span>A LITTLE LOCAL FLAVOR</span>
-          <p>{d.food}</p>
-          <SourceIndicator source={d.sources.food} label="Food suggestions" />
-        </div>
-      </div>
-      <div className="details-columns">
-        <section>
-          <span className="eyebrow">PUT THESE IN YOUR JOURNAL</span>
-          <h2>Start exploring.</h2>
-          <Link className="text-link" href={`/discover?base=${d.slug}`}>Browse this base's full catalog and practical notes ↗</Link>
-          {d.stops.filter(s=>s.distinct&&s.mode!=="separate-base").map((s) => (
-            <article className="attraction-source-row" key={s.name}>
-              <a
-                className="attraction-row"
-                href={`/discover/${s.id}`}
-              >
-                <MapPin size={21} />
-                <span>
-                  <h3>{s.name}</h3>
-                  <small>{s.category} · {s.mode === "local" ? "Local visit" : "Separate full-day outing"} · Practical notes</small>
-                </span>
-                <ArrowUpRight size={17} />
-              </a>
-              <p>
-                {s.locationDetails}{" "}
-                <SourceIndicator
-                  source={s.sources.location}
-                  label={`${s.name} location context`}
-                />
-              </p>
-              <p className="coordinate-source">
-                Map pin{" "}
-                <SourceIndicator
-                  source={s.sources.coordinates}
-                  label={`${s.name} coordinates`}
-                />
-              </p>
-            </article>
-          ))}
-        </section>
-        <aside className="paper-note">
-          <h3>Before you go</h3>
-          <h4>Location context</h4>
-          <p>
-            {d.locationDetails}{" "}
-            <SourceIndicator
-              source={d.sources.location}
-              label="Destination location context"
-            />
-          </p>
-          <h4>Getting around</h4>
-          <p>
-            {d.transport}{" "}
-            <SourceIndicator
-              source={d.sources.transport}
-              label="Destination transport guidance"
-            />
-          </p>
-          <h4>Seasons & flexibility</h4>
-          <p>
-            {d.season}{" "}
-            <SourceIndicator
-              source={d.sources.season}
-              label="Seasonal guidance"
-            />
-          </p>
-          <h4>Accessibility</h4>
-          <p>
-            {d.accessibility}{" "}
-            <SourceIndicator
-              source={d.sources.accessibility}
-              label="Destination accessibility"
-            />
-          </p>
-          <h4>Travel intensity</h4>
-          <p>
-            Choose Chill for fewer stops and longer breaks. Confirm
-            accessibility and opening hours with each venue.
-          </p>
-          <small>
-            *Illustrative allowances and approximate map pins. No live prices or
-            verified operating hours.
-          </small>
-          <h4>Official advisory sources</h4>
-          <AdvisorySources links={d.advisories} />
-          <SourceReviewNote />
-          <a
-            className="text-link"
-            href="https://philippines.travel/destinations"
-            target="_blank"
-            rel="noreferrer"
-          >
-            Official tourism inspiration <ArrowUpRight size={16} />
-          </a>
-        </aside>
-      </div>
-      <div className="section-heading">
-        <h2>
-          Keep <em>wandering.</em>
-        </h2>
-      </div>
-      <div className="featured-grid">
-        {selectableDestinations
-          .filter(
-            (x) => x.slug !== d.slug && x.tags.some((t) => d.tags.includes(t)),
-          )
-          .slice(0, 3)
-          .map((x) => (
-            <DestinationCard d={x} key={x.slug} />
-          ))}
-      </div>
-    </section>
-  );
-}
-function Templates() {
-  return (
-    <section className="page section">
-      <span className="eyebrow">FIELD NOTES FOR YOUR NEXT ADVENTURE</span>
-      <h1 className="page-title">
-        A little inspiration.
-        <br />
-        <em>A lot of possibility.</em>
-      </h1>
-      <p className="lede">
-        Thoughtful starting points, ready for your own detours. Customize dates,
-        budget, and pace in the planner.
-      </p>
-      <div className="destination-grid">
-        {templates.map((t) => (
-          <article className="postcard" key={t.title}>
-            <Photo slug={t.slugs[0]} />
-            <div className="postcard-body">
-              <span className="eyebrow">{t.days} DAYS · DEMO TEMPLATE</span>
-              <h3>{t.title}</h3>
-              <p>{destination(t.slugs[0])?.caption}</p>
-              <p className="fine-print">
-                Example stops:{" "}
-                {destination(t.slugs[0])
-                  ?.stops.slice(0, 2)
-                  .map((s) => s.name)
-                  .join(" → ")}
-                .{" "}
-                {t.slugs.length > 1
-                  ? "Includes a connection-verification day."
-                  : ""}
-              </p>
-              <Link
-                href={`/planner?destinations=${t.slugs.join(",")}&days=${t.days}`}
-                className="text-link"
-              >
-                Customize with AI <ArrowUpRight size={17} />
-              </Link>
-            </div>
-          </article>
-        ))}
-      </div>
-    </section>
   );
 }
 function Profile() {

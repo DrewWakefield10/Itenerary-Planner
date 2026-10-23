@@ -1,0 +1,1222 @@
+{
+  "batchId": "cover-007",
+  "checkedOn": "2026-10-23",
+  "status": "unapproved-research",
+  "records": [
+    {
+      "placeId": "el-nido-piece-of-sky",
+      "name": "Piece of Sky",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/food-directory/media/research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "Piece of Sky El Nido",
+          "url": "https://www.flickr.com/search/?text=Piece+of+Sky+El+Nido&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Piece of Sky Palawan",
+          "url": "https://www.flickr.com/search/?text=Piece+of+Sky+Palawan&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 1,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Commons",
+          "query": "Piece of Sky Palawan",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Piece+of+Sky+Palawan&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        }
+      ],
+      "candidates": [
+        {
+          "provider": "Flickr",
+          "id": "24950652673",
+          "title": "Secret Beach",
+          "description": "The Secret Beach is a piece of paradise concealed by the cliffs and is only accessible through a narrow hole with coming thru in and out. One has to swim through this opening to reach this place, shining even under the shade created when the sun kisses the cliffs.",
+          "creator": "Charizsa Timkang",
+          "owner": "51024774@N03",
+          "sourcePage": "https://www.flickr.com/photos/071108/24950652673/",
+          "licenseCode": 9,
+          "originalUrl": "https://live.staticflickr.com/1510/24950652673_984e8422e3_b.jpg",
+          "previewUrl": "https://live.staticflickr.com/1510/24950652673_984e8422e3_z.jpg",
+          "width": 1024,
+          "height": 768
+        }
+      ]
+    },
+    {
+      "placeId": "el-nido-henris",
+      "name": "Henri’s — Lihim Resorts",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/food-directory/media/research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "Henris El Nido",
+          "url": "https://www.flickr.com/search/?text=Henris+El+Nido&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Henris Palawan",
+          "url": "https://www.flickr.com/search/?text=Henris+Palawan&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Commons",
+          "query": "Henris Palawan",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Henris+Palawan&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 1
+        }
+      ],
+      "candidates": [
+        {
+          "provider": "Wikimedia Commons",
+          "title": "File:Partie des Iles Philippines. Oceanique no. 6. (Dresse par Ph. Vandermaelen, lithographie par H. Ode. Sixieme partie.-Oceanique. (IA dr partie-des-iles-philippines-oceanique-no-6-dresse-par-ph-vandermaelen-01014020).jpg",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Partie_des_Iles_Philippines._Oceanique_no._6._(Dresse_par_Ph._Vandermaelen,_lithographie_par_H._Ode._Sixieme_partie.-Oceanique._(IA_dr_partie-des-iles-philippines-oceanique-no-6-dresse-par-ph-vandermaelen-01014020).jpg",
+          "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Partie_des_Iles_Philippines._Oceanique_no._6._%28Dresse_par_Ph._Vandermaelen%2C_lithographie_par_H._Ode._Sixieme_partie.-Oceanique._%28IA_dr_partie-des-iles-philippines-oceanique-no-6-dresse-par-ph-vandermaelen-01014020%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "previewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Partie_des_Iles_Philippines._Oceanique_no._6._%28Dresse_par_Ph._Vandermaelen%2C_lithographie_par_H._Ode._Sixieme_partie.-Oceanique._%28IA_dr_partie-des-iles-philippines-oceanique-no-6-dresse-par-ph-vandermaelen-01014020%29.jpg/960px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1536,
+          "height": 1106,
+          "license": "Public domain",
+          "creator": "Vandermaelen, Philippe, 1795-1869\nOde, Henri\nHassel, S. G. H., 1779-1829",
+          "description": "Zoomable full resolution image available at davidrumsey.com.This image 2212.334 is a part of image group 2212.000.Hand col. lithographed map. Relief shown by hachures. Covers western Mindanao, Palawan and adjacent islands. Prime meridian: Paris.A complete set of the six volume Atlas Universel in original bindings of half red leather teal cloth covered boards with title \"Vandermaelen. Atlas Universel...\" embossed in gold on the spine. This monumental work was the first atlas of the world with all maps on the same scale (and a large scale at that - about one inch to 26 miles) and the first lithographed world atlas. If all the maps were joined together they would form a globe of 7.75 meters in diameter (such a globe was made in Brussels). The maps were published originally in parts of ten maps each, beginning in 1825 and ending in 1827. Vandermaelen's maps are frequently misunderstood because each map is usually best comprehended in the context of its neighboring maps - the maps do not function well on their own, since they were all meant to be joined. Koeman states that \"His atlases, although unique in concept and size did not possess that fine touch of cartographic style which make them attractive for a collector...\" We strongly disagree - the graphic art of the maps must be appreciated in the context of lithography, a developing art at the time; as lithographs, they are very well done. For many of the areas depicted, these maps are the largest scale maps made at the time, and the most detailed (particularly in the American West). Maps are hand painted in outline color.Phillips, 749; Koeman Vdm 1; National Maritime Museum, 179; Wellens-De Donder, L. Philippe Vandermaelen 1795-1869, 4-5.\nSubjects:",
+          "categories": "David Rumsey Historical Map Collection|PD-old-100-expired|Scans from the Internet Archive/unverified|CC-PD-Mark|Scans from the Internet Archive|Books uploaded by Fæ|PD-old missing SDC copyright status"
+        }
+      ]
+    },
+    {
+      "placeId": "el-nido-ver-de",
+      "name": "Ver De — H Hotel",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/food-directory/media/research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "Ver De El Nido",
+          "url": "https://www.flickr.com/search/?text=Ver+De+El+Nido&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 7,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Ver De Palawan",
+          "url": "https://www.flickr.com/search/?text=Ver+De+Palawan&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 1,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Commons",
+          "query": "Ver De Palawan",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Ver+De+Palawan&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 5
+        }
+      ],
+      "candidates": [
+        {
+          "provider": "Flickr",
+          "id": "8990405837",
+          "title": "el polluelo de mirlo",
+          "description": "quizas haya uno debajo pero yo solo veo uno, no puedo trajinar debajo para indagar...asi estan las cosas\n\nlei que es dificil que salgan todos adelante....a ver si por lo menos sale este, porque animalitos les esta haciendo un tiempo bien horrible",
+          "creator": "jacinta lluch valero",
+          "owner": "70626035@N00",
+          "sourcePage": "https://www.flickr.com/photos/70626035@N00/8990405837/",
+          "licenseCode": 5,
+          "originalUrl": "https://live.staticflickr.com/3719/8990405837_34926f6f95_b.jpg",
+          "previewUrl": "https://live.staticflickr.com/3719/8990405837_34926f6f95_z.jpg",
+          "width": 1024,
+          "height": 768
+        },
+        {
+          "provider": "Flickr",
+          "id": "7739762464",
+          "title": "dia 54 desde la eclosion del primer huevo * Piret \"S0\"  visita nido 15,30",
+          "description": "Sobre la misma hora de ayer Piret S0  la hembra, volvio a visitar  la plataforma del nido, mojada y con hambre. \nCon el transmisor no  debe atreverse a pescar, dio unos picotazos al pescado que tenian los polluelos y se marcho. Se la ve muy nerviosa\n\nUno S8, Elo S9 y Nori S7 ♥ \"Proyecto ESTLAT Eagles\" * Aguilas pescadoras - Estonia\nScreenshot o \"Pantallazos\" del proyecto \"Estlat eagles cross borders\"\n\n\n\n\nScreenshot o \"Pantallazos\" del proyecto \"Estlat eagles cross borders\"\n\n\n\n\n\n\n\n\n Urmas (el coordinador responsable de este proyecto) capturó el dia 3 de Agosto a la hembra adulta \"Piret\" (el objetivo era el macho \"Madis\", pero es muy desconfiado) a unos 100 mtrs del nido y además de anillarla (anilla S0), se la colocó un transmisor de 30 grs de peso sin antena para seguir sus movimientos, no sólo migratorios, sino los desplazamientos de pesca para ver cómo afectan éstos a las granjas de pescado (este nido en concreto está cerca de una granja de peces y algunos de los que vemos proceden de alli).\nEsto ha generado cierta controversia en los foros de seguimiento, ya que una de las posibilidades es que la madre no se presentara de nuevo por el nido, aunque Urmas señala que por eso se ha hecho ahora, cuando los pollos ya son capaces de comer  solos el pescado y tambien a punto de volar.",
+          "creator": "jacinta lluch valero",
+          "owner": "70626035@N00",
+          "sourcePage": "https://www.flickr.com/photos/70626035@N00/7739762464/",
+          "licenseCode": 5,
+          "originalUrl": "https://live.staticflickr.com/8425/7739762464_35a8e61662_b.jpg",
+          "previewUrl": "https://live.staticflickr.com/8425/7739762464_35a8e61662_z.jpg",
+          "width": 1024,
+          "height": 768
+        },
+        {
+          "provider": "Flickr",
+          "id": "47927824021",
+          "title": "Vandalismo en Neuer Teich Dresde",
+          "description": "Ich war hier beim Schwanenmann und seiner Frau auf dem Nest. Sie hatte keine Lust zu mir zu kommen, weil es ihr so gemütlich ist. Dann war ich zum Neuen Teich gefahren, um zu sehen, was die Asozialen wieder hier gemacht haben. Ich habe erst gedacht, dass ich nicht richtig sehe. Die Bäume vollgeschmiert. So geisteskrank und dann noch akzeptiert im sozialen Umfeld. Ob das von Drogendealern so gewünscht wurde, damit die Rabatt bekommen? Federn lagen auf dem Weg herum. Der Vogel war ein Star. Schlimm. Der Park macht aber für die Saboteure die Umstände zurecht. Die dürfen sich hier endlos betrinken. Alles was ordentliche Familien mit Kindern machen, wird verboten. Ich habe den Park 4 mal angescchrieben und gefragt, warum das nicht verboten wird, wie in anderen Parks von Dresden, dass man sich nicht mehr betrinken kann. Da gab es keine Antwort und Parties mit Engländern. \n\n\nEstuve aquí con el hombre cisne y su esposa en el nido. Ella no tenía ningún deseo de venir a mí porque está muy cómoda. Luego fui al New Pond para ver qué hacían aquí las personas asociales. Primero pensé que no veía bien. Los árboles están completamente lubricados. Tan insano y luego todavía aceptado en el entorno social. ¿Si eso fue tan deseado por los traficantes de drogas para el reembolso? Las plumas estaban en el camino alrededor. El pájaro era una estrella. Mala. Pero el parque está ajustando las circunstancias para los saboteadores. Se les permite emborracharse sin cesar aquí. Todo lo que hace familias decentes con niños está prohibido. Escribí el parque 4 veces y pregunté por qué esto no está prohibido, como en otros parques en Dresden, que ya no puedes emborracharte. No hubo respuesta y fiestas con ingleses.\n\n나는 둥지에 백조 남자와 그의 아내와 여기에 있었다. 그녀는 너무 편안하기 때문에 내게 올 생각이 없었습니다. 그런 다음 나는 새로운 연못으로 가서 비 사회적인 사람들이 다시 여기에서 한 일을 보았습니다. 나는 처음에는 내가 옳다고 생각하지 않는다고 생각했다. 나무는 완전히 윤활 처리됩니다. 이렇게 미친 그리고 사회적인 환경에서 아직도 받아 들여. 그것이 마약 상인이 환불을 원했던 것은 아닌가? 깃털이 돌아왔다. 새는 별이었다. 나쁜. 그러나 공원은 사보타주의 상황을 조정하고있다. 그들은 여기에서 끊임없이 취하게하는 것이 허용됩니다. 어린이들과 함께 품위있는 가정을 만드는 모든 것은 금지되어 있습니다. 나는 공원을 4 번 썼고, 드레스덴의 다른 공원과 같이 더 이상 취할 수없는 것처럼 이것이 금지되지 않은 이유를 묻습니다. 영국인과 아무 대답도없고 파티도 없었습니다.\n\nEu estava aqui com o homem do cisne e sua esposa no ninho. Ela não tinha vontade de vir a mim porque é tão confortável. Então eu fui para a Lagoa Nova para ver o que as pessoas asociais fizeram aqui novamente. Primeiro pensei que não via certo. As árvores estão totalmente lubrificadas. Tão insano e depois ainda aceito no meio social. Se isso foi tão desejado pelos traficantes de drogas para o desconto? Penas estavam a caminho. O pássaro era uma estrela. Bad. Mas o parque está ajustando as circunstâncias para os sabotadores. Eles podem ficar bêbados sem parar aqui. Tudo o que faz famílias decentes com crianças é proibido. Escrevi o parque 4 vezes e perguntei por que isso não é proibido, como em outros parques em Dresden, que você não pode mais ficar bêbado. Não houve resposta e festas com ingleses. \n\n私は白鳥の男と彼の妻と一緒にここにいました。 彼女はとても気持ちが良いので、私に来ることを望んでいませんでした。 それから私は新しい池に行き、再び非社会人がここで何をしたかを見ました。 私は最初は自分が正しく見えないと思った。 木は完全に潤滑されています。 だから非常識で、それでも社会環境の中で受け入れられています。 それがリベートのために麻薬の売人によってとても望まれたかどうか？ 羽が周りに向かっていた。 鳥は星でした。悪いです。 しかし、公園は破壊工作員の状況を調整しています。 彼らはここで果てしなく酔っぱらうことが許されています。 まともな家族を子供と一緒にすることはすべて禁じられています。 私は公園を4回書いて、なぜこれが禁止されていないのかを尋ねました。ドレスデンの他の公園のように、もう飲めないように。 イギリス人との答えもパーティーもありませんでした。\n\nI was here with the swan man and his wife on the nest. She had no desire to come to me because she is so comfortable. Then I went to the New Pond to see what the asocial people did here again. I first thought that I did not see right. The trees are fully lubricated. So insane and then still accepted in the social environment. Whether that was so desired by drug dealers for the rebate? Feathers were on the way around. The bird was a star. Bad. But the park is adjusting the circumstances for the saboteurs. They are allowed to get drunk endlessly here. Everything that makes decent families with children is forbidden. I wrote the park 4 times and asked why this is not forbidden, as in other parks in Dresden, that you can no longer get drunk. There was no answer and parties with Englishmen.\n\n我和天鹅男人和他的妻子在这里。 她不想来找我，因为她很舒服。 然后我去了新池塘，看看那里的社会人士再次做了什么。 我首先想到的是我看不对。 树木完全润滑。 如此疯狂，然后仍然在社会环境中被接受。 药店经营者是否非常希望获得回扣？ 羽毛正在路上。 这只鸟是一颗星。坏。 但公园正在调整破坏者的情况。 他们被允许在这里无休止地喝醉。 禁止带孩子的体面家庭的一切。 我写了四次公园，并问为什么这不是禁止的，就像在德累斯顿的其他公园一样，你不能再喝醉了。 英国人没有答案和派对。",
+          "creator": "Bambizoe",
+          "owner": "30533963@N02",
+          "sourcePage": "https://www.flickr.com/photos/30533963@N02/47927824021/",
+          "licenseCode": 9,
+          "originalUrl": "https://live.staticflickr.com/65535/47927824021_84b77911e0_b.jpg",
+          "previewUrl": "https://live.staticflickr.com/65535/47927824021_84b77911e0_c.jpg",
+          "width": 768,
+          "height": 1024
+        },
+        {
+          "provider": "Flickr",
+          "id": "47927819308",
+          "title": "Vandalismo en Neuer Teich Dresde",
+          "description": "Ich war hier beim Schwanenmann und seiner Frau auf dem Nest. Sie hatte keine Lust zu mir zu kommen, weil es ihr so gemütlich ist. Dann war ich zum Neuen Teich gefahren, um zu sehen, was die Asozialen wieder hier gemacht haben. Ich habe erst gedacht, dass ich nicht richtig sehe. Die Bäume vollgeschmiert. So geisteskrank und dann noch akzeptiert im sozialen Umfeld. Ob das von Drogendealern so gewünscht wurde, damit die Rabatt bekommen? Federn lagen auf dem Weg herum. Der Vogel war ein Star. Schlimm. Der Park macht aber für die Saboteure die Umstände zurecht. Die dürfen sich hier endlos betrinken. Alles was ordentliche Familien mit Kindern machen, wird verboten. Ich habe den Park 4 mal angescchrieben und gefragt, warum das nicht verboten wird, wie in anderen Parks von Dresden, dass man sich nicht mehr betrinken kann. Da gab es keine Antwort und Parties mit Engländern. \n\n\nEstuve aquí con el hombre cisne y su esposa en el nido. Ella no tenía ningún deseo de venir a mí porque está muy cómoda. Luego fui al New Pond para ver qué hacían aquí las personas asociales. Primero pensé que no veía bien. Los árboles están completamente lubricados. Tan insano y luego todavía aceptado en el entorno social. ¿Si eso fue tan deseado por los traficantes de drogas para el reembolso? Las plumas estaban en el camino alrededor. El pájaro era una estrella. Mala. Pero el parque está ajustando las circunstancias para los saboteadores. Se les permite emborracharse sin cesar aquí. Todo lo que hace familias decentes con niños está prohibido. Escribí el parque 4 veces y pregunté por qué esto no está prohibido, como en otros parques en Dresden, que ya no puedes emborracharte. No hubo respuesta y fiestas con ingleses.\n\n나는 둥지에 백조 남자와 그의 아내와 여기에 있었다. 그녀는 너무 편안하기 때문에 내게 올 생각이 없었습니다. 그런 다음 나는 새로운 연못으로 가서 비 사회적인 사람들이 다시 여기에서 한 일을 보았습니다. 나는 처음에는 내가 옳다고 생각하지 않는다고 생각했다. 나무는 완전히 윤활 처리됩니다. 이렇게 미친 그리고 사회적인 환경에서 아직도 받아 들여. 그것이 마약 상인이 환불을 원했던 것은 아닌가? 깃털이 돌아왔다. 새는 별이었다. 나쁜. 그러나 공원은 사보타주의 상황을 조정하고있다. 그들은 여기에서 끊임없이 취하게하는 것이 허용됩니다. 어린이들과 함께 품위있는 가정을 만드는 모든 것은 금지되어 있습니다. 나는 공원을 4 번 썼고, 드레스덴의 다른 공원과 같이 더 이상 취할 수없는 것처럼 이것이 금지되지 않은 이유를 묻습니다. 영국인과 아무 대답도없고 파티도 없었습니다.\n\nEu estava aqui com o homem do cisne e sua esposa no ninho. Ela não tinha vontade de vir a mim porque é tão confortável. Então eu fui para a Lagoa Nova para ver o que as pessoas asociais fizeram aqui novamente. Primeiro pensei que não via certo. As árvores estão totalmente lubrificadas. Tão insano e depois ainda aceito no meio social. Se isso foi tão desejado pelos traficantes de drogas para o desconto? Penas estavam a caminho. O pássaro era uma estrela. Bad. Mas o parque está ajustando as circunstâncias para os sabotadores. Eles podem ficar bêbados sem parar aqui. Tudo o que faz famílias decentes com crianças é proibido. Escrevi o parque 4 vezes e perguntei por que isso não é proibido, como em outros parques em Dresden, que você não pode mais ficar bêbado. Não houve resposta e festas com ingleses. \n\n私は白鳥の男と彼の妻と一緒にここにいました。 彼女はとても気持ちが良いので、私に来ることを望んでいませんでした。 それから私は新しい池に行き、再び非社会人がここで何をしたかを見ました。 私は最初は自分が正しく見えないと思った。 木は完全に潤滑されています。 だから非常識で、それでも社会環境の中で受け入れられています。 それがリベートのために麻薬の売人によってとても望まれたかどうか？ 羽が周りに向かっていた。 鳥は星でした。悪いです。 しかし、公園は破壊工作員の状況を調整しています。 彼らはここで果てしなく酔っぱらうことが許されています。 まともな家族を子供と一緒にすることはすべて禁じられています。 私は公園を4回書いて、なぜこれが禁止されていないのかを尋ねました。ドレスデンの他の公園のように、もう飲めないように。 イギリス人との答えもパーティーもありませんでした。\n\nI was here with the swan man and his wife on the nest. She had no desire to come to me because she is so comfortable. Then I went to the New Pond to see what the asocial people did here again. I first thought that I did not see right. The trees are fully lubricated. So insane and then still accepted in the social environment. Whether that was so desired by drug dealers for the rebate? Feathers were on the way around. The bird was a star. Bad. But the park is adjusting the circumstances for the saboteurs. They are allowed to get drunk endlessly here. Everything that makes decent families with children is forbidden. I wrote the park 4 times and asked why this is not forbidden, as in other parks in Dresden, that you can no longer get drunk. There was no answer and parties with Englishmen.\n\n我和天鹅男人和他的妻子在这里。 她不想来找我，因为她很舒服。 然后我去了新池塘，看看那里的社会人士再次做了什么。 我首先想到的是我看不对。 树木完全润滑。 如此疯狂，然后仍然在社会环境中被接受。 药店经营者是否非常希望获得回扣？ 羽毛正在路上。 这只鸟是一颗星。坏。 但公园正在调整破坏者的情况。 他们被允许在这里无休止地喝醉。 禁止带孩子的体面家庭的一切。 我写了四次公园，并问为什么这不是禁止的，就像在德累斯顿的其他公园一样，你不能再喝醉了。 英国人没有答案和派对。",
+          "creator": "Bambizoe",
+          "owner": "30533963@N02",
+          "sourcePage": "https://www.flickr.com/photos/30533963@N02/47927819308/",
+          "licenseCode": 9,
+          "originalUrl": "https://live.staticflickr.com/65535/47927819308_8a35aed4ac_b.jpg",
+          "previewUrl": "https://live.staticflickr.com/65535/47927819308_8a35aed4ac_z.jpg",
+          "width": 1024,
+          "height": 768
+        },
+        {
+          "provider": "Flickr",
+          "id": "47927825608",
+          "title": "Vandalismo en Neuer Teich Dresde",
+          "description": "Ich war hier beim Schwanenmann und seiner Frau auf dem Nest. Sie hatte keine Lust zu mir zu kommen, weil es ihr so gemütlich ist. Dann war ich zum Neuen Teich gefahren, um zu sehen, was die Asozialen wieder hier gemacht haben. Ich habe erst gedacht, dass ich nicht richtig sehe. Die Bäume vollgeschmiert. So geisteskrank und dann noch akzeptiert im sozialen Umfeld. Ob das von Drogendealern so gewünscht wurde, damit die Rabatt bekommen? Federn lagen auf dem Weg herum. Der Vogel war ein Star. Schlimm. Der Park macht aber für die Saboteure die Umstände zurecht. Die dürfen sich hier endlos betrinken. Alles was ordentliche Familien mit Kindern machen, wird verboten. Ich habe den Park 4 mal angescchrieben und gefragt, warum das nicht verboten wird, wie in anderen Parks von Dresden, dass man sich nicht mehr betrinken kann. Da gab es keine Antwort und Parties mit Engländern. \n\n\nEstuve aquí con el hombre cisne y su esposa en el nido. Ella no tenía ningún deseo de venir a mí porque está muy cómoda. Luego fui al New Pond para ver qué hacían aquí las personas asociales. Primero pensé que no veía bien. Los árboles están completamente lubricados. Tan insano y luego todavía aceptado en el entorno social. ¿Si eso fue tan deseado por los traficantes de drogas para el reembolso? Las plumas estaban en el camino alrededor. El pájaro era una estrella. Mala. Pero el parque está ajustando las circunstancias para los saboteadores. Se les permite emborracharse sin cesar aquí. Todo lo que hace familias decentes con niños está prohibido. Escribí el parque 4 veces y pregunté por qué esto no está prohibido, como en otros parques en Dresden, que ya no puedes emborracharte. No hubo respuesta y fiestas con ingleses.\n\n나는 둥지에 백조 남자와 그의 아내와 여기에 있었다. 그녀는 너무 편안하기 때문에 내게 올 생각이 없었습니다. 그런 다음 나는 새로운 연못으로 가서 비 사회적인 사람들이 다시 여기에서 한 일을 보았습니다. 나는 처음에는 내가 옳다고 생각하지 않는다고 생각했다. 나무는 완전히 윤활 처리됩니다. 이렇게 미친 그리고 사회적인 환경에서 아직도 받아 들여. 그것이 마약 상인이 환불을 원했던 것은 아닌가? 깃털이 돌아왔다. 새는 별이었다. 나쁜. 그러나 공원은 사보타주의 상황을 조정하고있다. 그들은 여기에서 끊임없이 취하게하는 것이 허용됩니다. 어린이들과 함께 품위있는 가정을 만드는 모든 것은 금지되어 있습니다. 나는 공원을 4 번 썼고, 드레스덴의 다른 공원과 같이 더 이상 취할 수없는 것처럼 이것이 금지되지 않은 이유를 묻습니다. 영국인과 아무 대답도없고 파티도 없었습니다.\n\nEu estava aqui com o homem do cisne e sua esposa no ninho. Ela não tinha vontade de vir a mim porque é tão confortável. Então eu fui para a Lagoa Nova para ver o que as pessoas asociais fizeram aqui novamente. Primeiro pensei que não via certo. As árvores estão totalmente lubrificadas. Tão insano e depois ainda aceito no meio social. Se isso foi tão desejado pelos traficantes de drogas para o desconto? Penas estavam a caminho. O pássaro era uma estrela. Bad. Mas o parque está ajustando as circunstâncias para os sabotadores. Eles podem ficar bêbados sem parar aqui. Tudo o que faz famílias decentes com crianças é proibido. Escrevi o parque 4 vezes e perguntei por que isso não é proibido, como em outros parques em Dresden, que você não pode mais ficar bêbado. Não houve resposta e festas com ingleses. \n\n私は白鳥の男と彼の妻と一緒にここにいました。 彼女はとても気持ちが良いので、私に来ることを望んでいませんでした。 それから私は新しい池に行き、再び非社会人がここで何をしたかを見ました。 私は最初は自分が正しく見えないと思った。 木は完全に潤滑されています。 だから非常識で、それでも社会環境の中で受け入れられています。 それがリベートのために麻薬の売人によってとても望まれたかどうか？ 羽が周りに向かっていた。 鳥は星でした。悪いです。 しかし、公園は破壊工作員の状況を調整しています。 彼らはここで果てしなく酔っぱらうことが許されています。 まともな家族を子供と一緒にすることはすべて禁じられています。 私は公園を4回書いて、なぜこれが禁止されていないのかを尋ねました。ドレスデンの他の公園のように、もう飲めないように。 イギリス人との答えもパーティーもありませんでした。\n\nI was here with the swan man and his wife on the nest. She had no desire to come to me because she is so comfortable. Then I went to the New Pond to see what the asocial people did here again. I first thought that I did not see right. The trees are fully lubricated. So insane and then still accepted in the social environment. Whether that was so desired by drug dealers for the rebate? Feathers were on the way around. The bird was a star. Bad. But the park is adjusting the circumstances for the saboteurs. They are allowed to get drunk endlessly here. Everything that makes decent families with children is forbidden. I wrote the park 4 times and asked why this is not forbidden, as in other parks in Dresden, that you can no longer get drunk. There was no answer and parties with Englishmen.\n\n我和天鹅男人和他的妻子在这里。 她不想来找我，因为她很舒服。 然后我去了新池塘，看看那里的社会人士再次做了什么。 我首先想到的是我看不对。 树木完全润滑。 如此疯狂，然后仍然在社会环境中被接受。 药店经营者是否非常希望获得回扣？ 羽毛正在路上。 这只鸟是一颗星。坏。 但公园正在调整破坏者的情况。 他们被允许在这里无休止地喝醉。 禁止带孩子的体面家庭的一切。 我写了四次公园，并问为什么这不是禁止的，就像在德累斯顿的其他公园一样，你不能再喝醉了。 英国人没有答案和派对。",
+          "creator": "Bambizoe",
+          "owner": "30533963@N02",
+          "sourcePage": "https://www.flickr.com/photos/30533963@N02/47927825608/",
+          "licenseCode": 9,
+          "originalUrl": "https://live.staticflickr.com/65535/47927825608_b531c0f4e0_b.jpg",
+          "previewUrl": "https://live.staticflickr.com/65535/47927825608_b531c0f4e0_c.jpg",
+          "width": 768,
+          "height": 1024
+        },
+        {
+          "provider": "Flickr",
+          "id": "7733101692",
+          "title": "dia 53 .... Nori S7  * Piret  S0 ....visita el 7 de agosto a las 16h. 20' la plataforma del nido",
+          "description": "Uno S8, Elo S9 y Nori S7 ♥ \"Proyecto ESTLAT Eagles\" * Aguilas pescadoras - Estonia\nScreenshot o \"Pantallazos\" del proyecto \"Estlat eagles cross borders\"\n\nScreenshot o \"Pantallazos\" del proyecto \"Estlat eagles cross borders\"\n\n\n Urmas (el coordinador responsable de este proyecto) capturó el dia 3 de Agosto a la hembra adulta \"Piret\" (el objetivo era el macho \"Madis\", pero es muy desconfiado) a unos 100 mtrs del nido y además de anillarla (anilla S0), se la colocó un transmisor de 30 grs de peso sin antena para seguir sus movimientos, no sólo migratorios, sino los desplazamientos de pesca para ver cómo afectan éstos a las granjas de pescado (este nido en concreto está cerca de una granja de peces y algunos de los que vemos proceden de alli).\nEsto ha generado cierta controversia en los foros de seguimiento, ya que una de las posibilidades es que la madre no se presentara de nuevo por el nido, aunque Urmas señala que por eso se ha hecho ahora, cuando los pollos ya son capaces de comer  solos el pescado y tambien a punto de volar.",
+          "creator": "jacinta lluch valero",
+          "owner": "70626035@N00",
+          "sourcePage": "https://www.flickr.com/photos/70626035@N00/7733101692/",
+          "licenseCode": 5,
+          "originalUrl": "https://live.staticflickr.com/8423/7733101692_09a2f4b6bb_b.jpg",
+          "previewUrl": "https://live.staticflickr.com/8423/7733101692_09a2f4b6bb_z.jpg",
+          "width": 1024,
+          "height": 768
+        },
+        {
+          "provider": "Flickr",
+          "id": "47834208192",
+          "title": "Piquero camanay, piquero patiazul o alcatraz patiazul (Sula nebouxii)",
+          "description": "Nidifican en cualquier época del año. La puesta es generalmente de un único huevo o, a veces, 2 o 3, que incuban durante 44 días. Pese a ello, el número de huevos puestos condiciona el desarrollo de las crías: cuando la hembra pone más de un huevo no es extraño ver cómo uno de ellos eclosiona antes que el otro. De este modo, con un margen de diferencia de 3 o 4 días, y como norma general, la cría mayor tenderá a atacar, instigar y expulsar del nido a la cría menor. Ésta, mucho más indefensa dado su menor tiempo de adaptación, morirá por depredación o deshidratación. Todo ello sucederá ante los ojos de la indiferente madre.",
+          "creator": "Constanza S. Mora",
+          "owner": "28788207@N04",
+          "sourcePage": "https://www.flickr.com/photos/28788207@N04/47834208192/",
+          "licenseCode": 4,
+          "originalUrl": "https://live.staticflickr.com/65535/47834208192_1a7ec71ea4_b.jpg",
+          "previewUrl": "https://live.staticflickr.com/65535/47834208192_1a7ec71ea4_z.jpg",
+          "width": 1024,
+          "height": 680
+        },
+        {
+          "provider": "Flickr",
+          "id": "48813059087",
+          "title": "Gijs Bertels - Limburgsch Dagblad 12 oktober 1956",
+          "description": "Zal binnenland geheimen prijsgeven? \n\nSPEURTOCHT NAAR GOUD IN HART VAN N.-GUINEA\n\nAAN de bovenloop van de Digoel ligt Tanah Merah, een heel *•* bescheiden plaatsje, dat evenwel een kwart eeuw geleden vrij algemeen bekend was omdat men daar een kamp had gevestigd waar lastige nationalisten en communisten uit Indonesië werden opgesloten. Mohamed Hatta, de huidige vice-president van de republiek Indonesia en Soetan Sjharir, die een voorname rol speelde bij de onderhandelingen over de soevereiniteitsoverdracht, hebben geen prettige herinneringen aan dit kamp in het hart van Nieuw Guinea.\nMen vindt er na nog een zwaar bewaakte en hoog ommuurde betonnen gevangenis, waar men een aantal deelnemers van infiltraties vanuit Indonesië afzonderlijk heeft opgesloten. In andere barakken, bewaart men enige tientallen papoea's, die wegens moord, koppensnellerij, kannibalisme e.a. zware vergrijpen hun straf uitzitten. Het geregelde leven en de goede voeding is deze primitieven wel aan te zien ofschoon er wel enkele zijn, die door het gemis aan vrijheid wegkwijnen. In de tuinen rondom de gevangenis laat men hen werken, mede in de hoop dat zij liet geleerde later in toepassing brengen. Maar de r*-nnrl Wert niet veel on.\nTanah Merah betekent rode aarde, het is dezelfde humusloze rode aarde welke men elders in de tropen vindt. Op deze grond kweekten de vroegere gevangenen wat fruit en andere mondkost, want de meesten van hen leefden in betrekkelijke vrijheid in een nederzetting, welke door de onmetelijke oerwouden afdoende was afgesloten van de rest der wereld. Van de ongelukkigen, die geprobeerd hebben deze afsluiting te passeren, heeft men nooit meer iets gehoord. Men mag veronderstellen dat ze ergens in het oerwoud door primitieve stammen werden afgeslacht. \nNA zijn geruchtmakende periode als communistenkamp is Tanah Merah in verval geraakt. Van de nederzetting vindt men nog wat fundamenten omringd door verwilderde ananas. Nochtans is er veel te zien: een bestuurspost, een missiestatie, een grote politiepost, een ziekenhuisje, een vliegveldje, en zowaar een elektrische centrale, want Tanah Merah heeft zelfs elektrische straatverlichting, tamelijk uniek in Nieuw Guinea. Van diep uit het oerwoud komen de landskinderen daarnaar kijken, de mannen enkel gekleed in een halve vruchtenpit, de vrouwen in een dik en dartel wiegend grasrokje. \n\nNaar het sterrengebergte\nNEDERLAND is thans op de hoogte van de grootscheepse expeditie, welke in 1958 naar de bronnen van de Digoel zal vertrekken. In Tanah Merah wist men dat al veel eerder. De organiserende instituten hebben er niet om gelogen dat het ook om goud gaat. Van goud wist men in Tanah Merah al jaren. Als vlak na zonsopgang de lucht nog helder was kon pastoor Willem Thieman langs zij kerkje heen naar het noorden wij zen, waar men dan ver aan d kim de formidabele toppen van he Sterrengebergte kon zien. Volko men onbekend gebied. Het lee: niet ver, maar pastoor Thiema  die het weten kan — verzekerd \"an dat het zeker drie weken le Pen was. Onder lopen verstond h worstelen en wringen door merendeels onbegaanbaar oerwoud. Hij vermoedde dat er over deze ontzagwekkende toppen „handels- Wegen\" bestaan. Want de zware en grillige schelpen, welke hier in hartje Nieuw Guinea de Djair- en Auwjustammen op hun blote huid laten bengelen, vindt men enk' aan de noordkust. Er hioeten dus verbindingen zijn. Of het Sterrengebergte — ver doelwit van de expeditie van 1958 — bevolkt As weet niemand. Maar missionarissen menen dat wellicht de helft van de totale bevolking van Nieuw Guinea de delen in het centrale bergland bewoont.\n---\n\nHet toverwoord goud\nPASTOOR Thieman liet zich dan wel eens het woord goud ontvallen. Niet dat hij daarop hoopt, Want heel zijn hart trekt naar het ongemunte goud van de heidenzielen, welke hij op eenzame voetreizen in de wildernis vindt. Maar hij zeide een woord na, dat in Tanah Merah menigeen op de lippen ligt. Men vertelt er van een kleine maatschappij, welke vroeger in dit gebied heeft geëxploreerd en Welke het blijkbaar vooral om ïoud te doen was. Want schaarse sporen goud zijn wel eens in oerwoudstroompjes gevonden en het gerucht gaat dat Australische zoekers méér weten van de eigenlijke vindplaats, maar deze niet willen loslaten, omdat ze op Nederlands gebied ligt.\n---\n\nNachtelijk lawaai\nDES nachts, als we onder onze klamboe lagen in het huisje van de pastoor, werden we wel \n\nsnuif en getrappel langs het raam. Dan wisten we dat een van de verwilderde paarden van Tanah Merah huishield in het schamele Tuintje. En dan dachten ook wij aan goud. Paarden zijn niet inheems. Het zijn verbijsterende natuurverschijnselen voor de papoea. In Tanah Merah liepen er enkele vrij rond. Bontgevlekte en rondgevreten knollen, van het soort dat wij dubbele hitten noemen. Niemand bekommerde zich erom en zij scharrelden hun kostje wel op in en rond de muskieten-moerassen van Tanah Merah. \nLevende herinneringen aan een oerwoudtragedie, welke zich rond 1950 afspeelde en waarbij goud de hoofrol speelde. Men vertelt het volgende. Omsti-eeks die tijd kwam een grote struise kerel Tanah Merah binnenvallen, vergezeld van een Indonesische boy en een aantal paarden, welke bij de inlandse bevolking een ware opschudding teweeg brachten. Men meende de man al eerder te hebben gezien als employé van de kleine goud maatschappij, welke bij haar pogingen geen succes had gehad. De man — een Nederlander — wilde naar het noorden en had veel haast. Achteraf veronderstelt men, dat hij eertijds werkelijk goud heeft gevonden en de buit nu voor zichzelf wilde ophalen. Van de gebruikelijke manier om oerwoud in te dringen, n.l. gen door inlandse dragees e gidsen, zag hij af. Hij wilde met zijn paarden de rimboe in en  vertrok hij dus. Weken later kwam hij terug. Voedselgebrek voor zijn paarden had hem gedwongen zijn tocht af te breken. Daarna wie hij papoea's aan om zijn b te draaien en vetrok opnieuw. Dat was de laatste keer dat men hem zag\n\n---\n\nEen oerwoud-drama\nVAN wat zich diep in het oei woud heeft afgespeeld is men later het een en ander te weten gekomen toen het gerucht ging lopen, dat de goudzoeker was vermoord en men enkele daders ervan ving. \nHij was tot ver in onbekend gebied doorgedrongen toen er moeilijkheden kwamen met de dragers, Het bekende zwakke punt van de expeditie, welke min of meer afhankelijk is van inlandse hr \nAls primitieven in onbekend gebied komen worden zij door angst bevangen, voor de vijandige stammen welke zij er kunnen ontmoeten, maar vooral voor de schimmen en geesten, waarmee zij d onheilspellende gebied bevolkt w. nen. \nVoor primitieven is het een zware geestelijke beproeving op  \nzulke tochten mee te» gaan. De dragers wilden daarom niet verder en op dat ogenblik maakte de goudzoeker een noodlottige fout Hij trachtte deze mensen met geweld zijn wil op te leggen. En daarop gebeurde het: uit wraakzucht, maar bovenal uit angst werd de man tijdens het baden doodgepijld en ook zijn Indische knecht onderging dat lot, hoewel de dragers veel sympathie voor hem hadden. Zij wisten niet anders te doen. De Nederlander werd 'uit verachting\" opgegeten, maar — zoals men zegt — het lijk van de Indonesiër werd gespaard omdat men eigenlijk niets tegen hem had. En daar men nu toch de wapenen van de verslagenen ter beschikking had ondernam men tevens een wraakoefening tegen 'n vijandige stam en vermoordde daar een tiental mensen van. Later heeft men een aantal dragers opgevangen en zo kwam er min of meer zekerheid hoe het onze rampzalige landgenoot was vergaan. De daders werden in de gevangenis van Tanah Merah opgesloten, waar thans ook de laatste is gestorven. Nu herinneren enkel nog maar de loslopende paarden van Tanah Merah aan dit oerwoud-drama, waarin het goud van Nieuw Guinea een belangrijke rol speelde.\nKort geleden is een kleine proef-expeditie vanuit Mindiptana — zowat 100 km. oostelijk van Tanah Merah — in de richting van het Sterrengebergte getrokken. Zoals men reeds weet was de gouvernementsambtenaar J. Schoorl daarvan de leider. Hij werd vergezeld door de jonge bestuursambtenaar Hermans (uit Tegelen) en pastoor Lommersen. Ook bij deze expeditie schijnt men moeilijkheden met dragers te hebben gehad. DAT is dus de voorgeschiedenis van de grote expeditie, welke in 1958 naar dit deel van centraal Nieuw Guinea wordt georganiseerd. Goud is belangrijk, uranium nog meer. Maar in menselijk opzicht is het o.i. van onvergelijkelijk meer betekenis om te weten of het Sterrengebergte bevolkt is en om de rijksgenoten te ontmoeten, die daar in hun oerstaat nog nimmer van de westerse wereld en van de grote goddelijke brenger van liefde en vrede, die Jezus Christus heeft, gehoord hebben.\n---\n\n\n„Het” Bewijs\nHet duidelijkste bewijs van de krachtige vooruitgang van het katholicisme op de Philippijnen is misschien wel de woede van de vrijmetselaars, die in hun jaarvergadering van ISÖ4 verklaarden: „De machten van slavernij, fanatisme en intolerantie boekten ongelofelijke successen\". Bedoeld is hier de Katholieke Kerk. En dit ondanks het nog altijd ontstellend tekort aan priesters. En terwijl de katholieke kerk in alle opzichten een vernieuwing ondergaat, concentreren de missionerende congregaties hun krachten tegen de laatste resten van het heidendom. De Belgische Scheutisten werken op Luzon in hun vicariaat van de Bergprovincie, dé Missionarissen van Steyl op Mindoro in het vicariaat Calapan, de Augustijnen-Recollecten in het vicariaat Palawan en de Oblaten in de prefectuur van de Soeloc-eilanden. blaten het missiewerk voort onder de banier van de Immaculata, dat de Spaanse monniken in 1898 hadden moeten afbreken. De Kerk van de Philippijnen is zelf ook al een missionerende kerk, de missionarissen van Steyl hebben reeds uit de dertig jonge priesters van hun Seminarie in' Manilla de eerste missionarissen gekozen en hen gezonden naar de Floresmissie van Indonesië. .\n---",
+          "creator": "Papua Heritage",
+          "owner": "58984807@N08",
+          "sourcePage": "https://www.flickr.com/photos/papuan_cultures/48813059087/",
+          "licenseCode": 10,
+          "originalUrl": "https://live.staticflickr.com/65535/48813059087_768a1b4872_b.jpg",
+          "previewUrl": "https://live.staticflickr.com/65535/48813059087_768a1b4872_b.jpg",
+          "width": 543,
+          "height": 1024
+        },
+        {
+          "provider": "Wikimedia Commons",
+          "title": "File:A pronouncing gazetteer and geographical dictionary of the Philippine Islands, United States of America with maps, charts and illustrations (1902) (14775918054).jpg",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:A_pronouncing_gazetteer_and_geographical_dictionary_of_the_Philippine_Islands,_United_States_of_America_with_maps,_charts_and_illustrations_(1902)_(14775918054).jpg",
+          "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ac/A_pronouncing_gazetteer_and_geographical_dictionary_of_the_Philippine_Islands%2C_United_States_of_America_with_maps%2C_charts_and_illustrations_%281902%29_%2814775918054%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "previewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/A_pronouncing_gazetteer_and_geographical_dictionary_of_the_Philippine_Islands%2C_United_States_of_America_with_maps%2C_charts_and_illustrations_%281902%29_%2814775918054%29.jpg/960px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 2032,
+          "height": 1780,
+          "license": "No restrictions",
+          "licenseUrl": "https://www.flickr.com/commons/usage/",
+          "creator": "Internet Archive Book Images",
+          "description": "Identifier: pronouncinggazet00unitrich (find matches)\nTitle: A pronouncing gazetteer and geographical dictionary of the Philippine Islands, United States of America with maps, charts and illustrations\nYear: 1902 (1900s)\nAuthors:  United States. Bureau of Insular Affairs United States. 57th Congress (1st session, 1901-1902) Keim, De B. Randolph (De Benneville Randolph), 1841-1914\nSubjects:  Philippines -- Description and travel Gazetteers Philippines -- Politics and government 1898-1935\nPublisher:  Washington, Govt. print. off.\nContributing Library:  University of California Libraries\nDigitizing Sponsor:  MSN\n\nView Book Page: Book Viewer\nAbout This Book: Catalog Entry\nView All Images: All Images From Book\nClick here to view book online to see this illustration in context in a browseable online version of this book.\n\nText Appearing Before Image:\nun),nat.; pointonE.coast of Palawan, in lat. 9° 18 N. CALASGAX (cah-lahs-gun),nat.; point on coastof Zambales, Luzon, in pueblo of Iba. CALASCiASAX (cah-las-gah-sahn), ver.; puebloin .\\mbosCamarines (Sur), Luzon. Pop., 813. CALASIAX (cah-lah-.see-ahn), ver.; point on E.end of coast of Negros Occidental, 5 m. W.of Isio, S. shore of Guimards Strait, oppositePanay. town on SE. shore of Eran Bay, W. coast of Palawan, 82 m. SW. of Puerto Princesa. CALASIAO (cah-lah-see-ah-oo), ver.; pueblo inPani,asin;ui, Luzon, on r. bank of DagupanRiv., ,» ni. !•:. (if Lint;avcn, on main highwayto Manila. Iop, jiuclilo, Cn. 1896, 14,053. CALASTMiAY (cah-lah-soong-i), nat.; inlandtown 6 m. WNW. of r. bank of Pulangui, E.Misamis, Mindanao, 28 m. SSE. of Cagaydnde Misamis. CALATAGAX (cah-lah-tah-gun), nat.; point inpueblo of same name, on W. coast of Batan-gas, Luz6n. pueblo in Batangas, Luzon, near SW. shore of Balaydn Bay, 27 m. from town of Batangas.Pop., 964. GAZETTEER OF THE PHILIPPINE ISLANDS. 417\nText Appearing After Image:\n1»^ V&gt;.;,, ..-: S ■ 3l y^^^-.i^ - V-# ,. i■?•^.^_■■ \\-w. S. Doc. 280 21 418 GAZETTEER OF THE PHILIPPINE ISLANDS. ^^CALATAX (cah-lah-tahn), nat.; mountain inMindanao, lat. 7° 30, on bank of Lanao Riv.,which empties into lake of same name. S. branch of Sipalav Riv., Negros Occiden-tal; rises on SW. watershed of Puente dePatioito. CALATAYAN (cah-lah-tah-yahn),Tag.: point andtown of .same name on AV. coast of Batangas,Luz6n. CALAT-CALAT (cah-lat-cah-laf), nat.; mountainin central range of Kegros, 12 m. NW. ofGuijulugan, E. coast. fALATCAT (cah-lat-cat),nat.: tributary of SanEnrique Riv., Xegros Occidental. CALATCiX (cah-lah-tawn), ver.; con.spicuousheadland of small peninsula which advancesli m. from SE. coast of Tablas I., Visayas.Point and Cabahan I. to S. form bay. inlet and mountain in Tablas I., Visayas. inlet in S. Tayabas, Luzon. CALATOXG (cah-lah-tohng), nat.; point on S. coast of Tayabas, Luz6n, in pueblo of Gumacft. -CALATRAVA (cah-lah-trah-vah), Sp.; pueblo on y^\n\nNote About Images\n\nPlease note that these images are extracted from scanned page images that may have been digitally enhanced for readability - coloration and appearance of these illustrations may not perfectly resemble the original work.",
+          "categories": "Balabac, Palawan|Photos uploaded from Flickr by Fæ using a script|Flickr images reviewed by FlickreviewR|Files from Internet Archive Book Images Flickr stream|Files from Flickr's 'The Commons'|A pronouncing gazetteer and geographical dictionary of the Philippine Islands (1902)"
+        },
+        {
+          "provider": "Wikimedia Commons",
+          "title": "File:A pronouncing gazetteer and geographical dictionary of the Philippine Islands, United States of America with maps, charts and illustrations (1902) (14591683800).jpg",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:A_pronouncing_gazetteer_and_geographical_dictionary_of_the_Philippine_Islands,_United_States_of_America_with_maps,_charts_and_illustrations_(1902)_(14591683800).jpg",
+          "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b6/A_pronouncing_gazetteer_and_geographical_dictionary_of_the_Philippine_Islands%2C_United_States_of_America_with_maps%2C_charts_and_illustrations_%281902%29_%2814591683800%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "previewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/A_pronouncing_gazetteer_and_geographical_dictionary_of_the_Philippine_Islands%2C_United_States_of_America_with_maps%2C_charts_and_illustrations_%281902%29_%2814591683800%29.jpg/960px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1784,
+          "height": 1960,
+          "license": "No restrictions",
+          "licenseUrl": "https://www.flickr.com/commons/usage/",
+          "creator": "Internet Archive Book Images",
+          "description": "Identifier: pronouncinggazet00unitrich (find matches)\nTitle: A pronouncing gazetteer and geographical dictionary of the Philippine Islands, United States of America with maps, charts and illustrations\nYear: 1902 (1900s)\nAuthors:  United States. Bureau of Insular Affairs United States. 57th Congress (1st session, 1901-1902) Keim, De B. Randolph (De Benneville Randolph), 1841-1914\nSubjects:  Philippines -- Description and travel Gazetteers Philippines -- Politics and government 1898-1935\nPublisher:  Washington, Govt. print. off.\nContributing Library:  University of California Libraries\nDigitizing Sponsor:  MSN\n\nView Book Page: Book Viewer\nAbout This Book: Catalog Entry\nView All Images: All Images From Book\nClick here to view book online to see this illustration in context in a browseable online version of this book.\n\nText Appearing Before Image:\nver.; island 156ft. high, E. of Tenabian 1., Malampaya Sound,iaragua, Palawan, inside strait of Bloqueo(Blockade Strait). MALAPOOTBAS (mah-lah-paw-ot-bass), ver.; is-land in Sulu grp., Sulu A. Lat., 6° 1 30 N. aiALAPOSO (mah-lah-poh-soh), nat.; one oflargest of that cluster of islands in SE. watersof Calamianes grp., off NE. coast of Paragua,Palawan, 175 ft. high, cone shaped, and com-posed of rock and clay of reddish-brown color,one of most conspicuous marks in vicinity. MALAQUI (mah-lah-key), nat ; small river inAmbos Camarines (Norte), Luzon, emptyinginto Pacific Ocean at Capaloiiga. point on N. coast of pueblo of Indan, Am-bos Camarines (Norte), Luzon. MALAOUING (mah-lah-king). Tag.; river de-stendingfrom MalarayatMt.and flowingiutobay 01 layabas, Luzon. MALAQLlNTfBlG (mahlah-kin-too-big). Tag.;river rising m Macolog Mt., flows S., receivingon 1 bank Panoan Riv., and becomes tribu-tary of Calumpau Riv., Batangas, Luz6n.(.i^AoSulsuquin.) GAZETTEER (»K THE IHILIPIIXE 1-LANDS. 029\nText Appearing After Image:\n630 GAZETTEER OF THE PHILIPPINE ISLANDS. MALAmIT (mnh-lah-kitM,nftt.; mountain in Am-bos Camariues, Luzon; contains gold. village of Ambos Camarines, Luz6n, 10 m. N., in mountains of same name; lead andlead glance exist in vicinity. MALXraD (mah-lah-rahd), ver.; island off NE.coast of Amboa Camarines, Luz6n. MALAKiYAT, or SOSONtAXBINO (mah-lah-rah-yalit, soh-sohn-cahn-bing), Tag.; mountainand extinct volcano in NE. Bativngas, Luz6n,N. of Lipa lat. 13° 58 N., Ion. 121° 11 E. peak on boundary of Tayabas and Batan- gas, in same mountain, Luzbn. MALASAllOT (mah-lah-sah-cof). Tag.; mountainin Tayabas, Luz6n. MALASAO (mah-lah-sah-oh), Sp.; small streamentering Pacific Ocean on E. coast of S4mar,2 m. N. of Paric. MALASIMBO (mah-lah-seem-beau), ver.; moun-tain in SE. Zambales, Luz6n. MALASIMIl! (mah-lah-see-mic), ver.; hamlet inpueblo of Iba&n, Batangas, Luz6n. MALASINA (mah-lah-see-nah), ver.; mountainin pueblo of Dolores, Tayabas, Luz6n. MALASIf^LI (mah-lah-see-key), ver.; pueblo inPa\n\nNote About Images\n\nPlease note that these images are extracted from scanned page images that may have been digitally enhanced for readability - coloration and appearance of these illustrations may not perfectly resemble the original work.",
+          "categories": "Quezon, Palawan|Photos uploaded from Flickr by Fæ using a script|Flickr images reviewed by FlickreviewR|Files from Internet Archive Book Images Flickr stream|Files from Flickr's 'The Commons'|A pronouncing gazetteer and geographical dictionary of the Philippine Islands (1902)|Old maps of Palawan (province)"
+        },
+        {
+          "provider": "Wikimedia Commons",
+          "title": "File:A pronouncing gazetteer and geographical dictionary of the Philippine Islands, United States of America with maps, charts and illustrations (1902) (14591806399).jpg",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:A_pronouncing_gazetteer_and_geographical_dictionary_of_the_Philippine_Islands,_United_States_of_America_with_maps,_charts_and_illustrations_(1902)_(14591806399).jpg",
+          "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ec/A_pronouncing_gazetteer_and_geographical_dictionary_of_the_Philippine_Islands%2C_United_States_of_America_with_maps%2C_charts_and_illustrations_%281902%29_%2814591806399%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "previewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/A_pronouncing_gazetteer_and_geographical_dictionary_of_the_Philippine_Islands%2C_United_States_of_America_with_maps%2C_charts_and_illustrations_%281902%29_%2814591806399%29.jpg/960px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 2064,
+          "height": 1724,
+          "license": "No restrictions",
+          "licenseUrl": "https://www.flickr.com/commons/usage/",
+          "creator": "Internet Archive Book Images",
+          "description": "Identifier: pronouncinggazet00unitrich (find matches)\nTitle: A pronouncing gazetteer and geographical dictionary of the Philippine Islands, United States of America with maps, charts and illustrations\nYear: 1902 (1900s)\nAuthors:  United States. Bureau of Insular Affairs United States. 57th Congress (1st session, 1901-1902) Keim, De B. Randolph (De Benneville Randolph), 1841-1914\nSubjects:  Philippines -- Description and travel Gazetteers Philippines -- Politics and government 1898-1935\nPublisher:  Washington, Govt. print. off.\nContributing Library:  University of California Libraries\nDigitizing Sponsor:  MSN\n\nView Book Page: Book Viewer\nAbout This Book: Catalog Entry\nView All Images: All Images From Book\nClick here to view book online to see this illustration in context in a browseable online version of this book.\n\nText Appearing Before Image:\ne I., off SW. coast Tayabas, Luz6n. hamlet near Paracale, Ambos Camarines (Norte), Luz6n. Deposits of gold worked bynatives exist in vicinity. pueblo in central Laguna, Luz6n 11 m NE. of Santa Cruz. Pop., 1,649. town of E. coast of Surigao, Mindanao, 17i m. S. of Tonguil Pt. and 159 m. SSE. of Surigao. town in Uni6n, Luz6n. SAN ANTONIO DE INGiU (sahn ahn-toh-nyohday een-gah-oo), Hisp.; pueblo on S. coast inZambales, Luz6n, 25 m. S. of Iba. Has goodroad connections in vicinity. Pop., 4,988.SAN ANTONIO, or SAPA (sahn ahn-toh-nyoh,sah-pah), Sp.; hamlet on SW. coast of Sorso-gon, Luz6n, 1 m. NW. of Dumaguit Pt.,entrance to Putiao port.SANAYA (sah-nah-yah), nat.; peak in pueblo ofDolores, Tayabas, Luz6n, W. of Mt. Majayjay,across the border in Laguna.SANAY(iN (sah-nah-yohn), nat.; town in Concep- ei6n, Hollo, Panay.SAN BARTOLOMt (sahn bar-toh-loh-mav), Sp.;hamlet at headwaters of stream empytinginto Manila Bay 9 m. NE. of Manila, Luz6n, (Renounces.) GAZETTEER OF THE PHILIPPINE ISLANDS. 807\nText Appearing After Image:\n23 ^g III I ■ 808 GAZETTEEK OF THE PHILIPPINE ISLANDS. SAN BAKTOLOME DE CALAYXN (sahn bar-toh-Idh-may day cah-lah-yahn), Hisp.; puebloin Batanes grp., off N. coast Cagayiln, Luzon.Pop., 1,7J2.SAN BEKNAKDlNO(sahn bayr-nar-dee-noh), Sp.;islet from which important strait of thatname is known, 150 ft. high, covered withtrees mostly of ebony variety, lying 7 m. offcoast of Bnlnsan, Sorsog6n, Luz6n. Smallerislet close by to NNE. strait between extreme SE. land of penin- snlii (if Lw/.iiu and NW. coafst of island of S&-niar, coniieetiiiK Pacific Ocean with VisayanSea 1111(1 1(inning E. endof S. route in connec-tion with Verde Pa.ssage across archipelagobetween United States and Manila.SAN BERNARDO (sahn bayr-nar-doh), Sp.; ham-let on SW. coast of S^mar, 3 m. SE. of SantaMargarita. hamlet on N. part of W. coast of Limasaua I., SE. of extreme point of Leyte.SANBULAN (sahn-boo-la.hn), ver.; hamlet onNE. shore of Lake Lanao, Misamis, Mindanao.SANCAGULIS (sahn-cah-goo-liss). Tag.; town inNu\n\nNote About Images\n\nPlease note that these images are extracted from scanned page images that may have been digitally enhanced for readability - coloration and appearance of these illustrations may not perfectly resemble the original work.",
+          "categories": "Photos uploaded from Flickr by Fæ using a script|Flickr images reviewed by FlickreviewR|Files from Internet Archive Book Images Flickr stream|Files from Flickr's 'The Commons'|A pronouncing gazetteer and geographical dictionary of the Philippine Islands (1902)|Old maps of Palawan (province)"
+        },
+        {
+          "provider": "Wikimedia Commons",
+          "title": "File:A pronouncing gazetteer and geographical dictionary of the Philippine Islands, United States of America with maps, charts and illustrations (1902) (14755311926).jpg",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:A_pronouncing_gazetteer_and_geographical_dictionary_of_the_Philippine_Islands,_United_States_of_America_with_maps,_charts_and_illustrations_(1902)_(14755311926).jpg",
+          "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1c/A_pronouncing_gazetteer_and_geographical_dictionary_of_the_Philippine_Islands%2C_United_States_of_America_with_maps%2C_charts_and_illustrations_%281902%29_%2814755311926%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "previewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/A_pronouncing_gazetteer_and_geographical_dictionary_of_the_Philippine_Islands%2C_United_States_of_America_with_maps%2C_charts_and_illustrations_%281902%29_%2814755311926%29.jpg/960px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1548,
+          "height": 2376,
+          "license": "No restrictions",
+          "licenseUrl": "https://www.flickr.com/commons/usage/",
+          "creator": "Internet Archive Book Images",
+          "description": "Identifier: pronouncinggazet00unitrich (find matches)\nTitle: A pronouncing gazetteer and geographical dictionary of the Philippine Islands, United States of America with maps, charts and illustrations\nYear: 1902 (1900s)\nAuthors:  United States. Bureau of Insular Affairs United States. 57th Congress (1st session, 1901-1902) Keim, De B. Randolph (De Benneville Randolph), 1841-1914\nSubjects:  Philippines -- Description and travel Gazetteers Philippines -- Politics and government 1898-1935\nPublisher:  Washington, Govt. print. off.\nContributing Library:  University of California Libraries\nDigitizing Sponsor:  MSN\n\nView Book Page: Book Viewer\nAbout This Book: Catalog Entry\nView All Images: All Images From Book\nClick here to view book online to see this illustration in context in a browseable online version of this book.\n\nText Appearing Before Image:\nof Sulu to S. Onlywellprniectid harbor in this fertile island,and is likely inider American auspices to be-come place of importance in this part ofUnited States Asiatic possessions. Consider-able native population is settled on its shores.DALRY5IPLE, for.; point E. shore of Ulugan Bay.W. coast Palawan, and N. head to Tagnipainlet.DALlGDIJG (dah-loog-doog),ver.; pointinLeyte.DALlMAX (dah-loo-mahn), ver.; island 1^ m. SE.of Ba.s Bas, off E. coast of Tawi Tawi I., Sulu A.DALlPIRI (dah-loo-pee-ree), nat.; mostW. islandof Babuyanes grp,, 8 m. N. and S. and 5 m. E.and W., with area of 20 sq. m. Island lies 9m. N. of W. end of Fuga I.; has level ap-pearance and may be seen from distance of35 m. at sea. .\\bout 3 m. off its S. point isBijutan islet, with deep water in interveningchannel. Formation is volcanic with cen-tral cone and 2 lower peaks on either sideN. and S. DALUPIBI, or DlLAittPIBI, or PIERCOS (dah-loo-pee-ree, nat.; doo-lahm-pee-ree. nat.,pwayr-cohs, Sp.); island 8 m. long and 2 m\nText Appearing After Image:\nIJAIMJI^ Bj^1 SDoc.iarHti«Of»«r, Mea t.Tnlju UL«t e-2 soil Loop 121*. 1 ttWF*C Yrf-SO-Zt-. .«,i..o,.. * ™,rrt.o„ /f,^ „ 3&gt;™.^ C.^^ « ^^ ^: . .^^ « - :. --*- o « «, T WHITE P M S ■&lt; ;?.,,^v^ B a1 -- -. . ^ „ ^ ^^^^ ! -»-- 31 Ij 1 &lt; J, « 9 1 : --- ?;- r • - vw^ _JL~-^—^ . S V«J Ij - ^-T^C^r. 1 ^•?^^«\\^ .,.- i ; , • ,; . 1 / ^.■-. .,-i-* J 1 / ^.*:?, ■-- ---^.t^^ 1 1 ^ 4r^- ■ ! ^-- i / J-.. / ^ ! ^^ CARASG CAR.VJJG (1 ii ! ^*- ^^-1^ S Doc ^S.C 57 1 DALRYMPLE HARBOR ^ 0^ . , ^ S Doc R.SC 57 1 GAZETTEER OF THE PHILIPPINE ISLANDS. 487 DALl PIRI, or DULAMPIRI, or PUERCOS—Con. wide, 3 m. off W. coast of Sdmar, S. of SanBernardino Strait and opposite mouth ofMauo Riv. Named Puercos on account ofnumVjer of wild hogs roaming over its hills,and celebrated for abundance of game. Incenter of island is large lake swarming withalligators. Hamlet of same name is\n\nNote About Images\n\nPlease note that these images are extracted from scanned page images that may have been digitally enhanced for readability - coloration and appearance of these illustrations may not perfectly resemble the original work.",
+          "categories": "Balabac, Palawan|Photos uploaded from Flickr by Fæ using a script|Flickr images reviewed by FlickreviewR|Files from Internet Archive Book Images Flickr stream|Files from Flickr's 'The Commons'|A pronouncing gazetteer and geographical dictionary of the Philippine Islands (1902)"
+        },
+        {
+          "provider": "Wikimedia Commons",
+          "title": "File:Kalayaan Island Group 2026 de facto control.png",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Kalayaan_Island_Group_2026_de_facto_control.png",
+          "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Kalayaan_Island_Group_2026_de_facto_control.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "previewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Kalayaan_Island_Group_2026_de_facto_control.png/960px-Kalayaan_Island_Group_2026_de_facto_control.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 3225,
+          "height": 2545,
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+          "creator": "Delirium333",
+          "description": "The map of the municipality of Kalayaan under Palawan province and the de facto control of each country in the area within the jurisdiction of the Philippines.",
+          "categories": "History of the Philippines|Spratly Islands|Palawan (province)|Kalayaan, Palawan|West Philippine Sea|Self-published work|Maps of the history of the Philippines|Atin Ito Coalition"
+        }
+      ]
+    },
+    {
+      "placeId": "el-nido-lanai-amakan",
+      "name": "The Lanai at Amakan",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/food-directory/media/research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "The Lanai at Amakan El Nido",
+          "url": "https://www.flickr.com/search/?text=The+Lanai+at+Amakan+El+Nido&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Lanai at Amakan Palawan",
+          "url": "https://www.flickr.com/search/?text=Lanai+at+Amakan+Palawan&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Commons",
+          "query": "Lanai at Amakan Palawan",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Lanai+at+Amakan+Palawan&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "placeId": "coron-baya-resto-lounge",
+      "name": "BAYA Resto Lounge",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/food-directory/media/research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "BAYA Resto Lounge Coron",
+          "url": "https://www.flickr.com/search/?text=BAYA+Resto+Lounge+Coron&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "BAYA Resto Lounge Palawan",
+          "url": "https://www.flickr.com/search/?text=BAYA+Resto+Lounge+Palawan&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Commons",
+          "query": "BAYA Resto Lounge Palawan",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=BAYA+Resto+Lounge+Palawan&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "placeId": "el-nido-sunmai-nacpan",
+      "name": "Sunmai Beach Bar and Restaurant",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/food-directory/media/research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "Sunmai Beach Bar and Restaurant El Nido",
+          "url": "https://www.flickr.com/search/?text=Sunmai+Beach+Bar+and+Restaurant+El+Nido&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Sunmai Beach Bar Palawan",
+          "url": "https://www.flickr.com/search/?text=Sunmai+Beach+Bar+Palawan&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Commons",
+          "query": "Sunmai Beach Bar Palawan",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Sunmai+Beach+Bar+Palawan&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "placeId": "coron-hunt-funny-lion",
+      "name": "Hunt Restaurant — The Funny Lion Coron",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/food-directory/media/research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "Hunt Restaurant Coron",
+          "url": "https://www.flickr.com/search/?text=Hunt+Restaurant+Coron&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Hunt Palawan",
+          "url": "https://www.flickr.com/search/?text=Hunt+Palawan&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 12,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Commons",
+          "query": "Hunt Palawan",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Hunt+Palawan&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 8
+        }
+      ],
+      "candidates": [
+        {
+          "provider": "Flickr",
+          "id": "2402126629",
+          "title": "810 (2)Philippines Palawan \"Tabon Cave\"",
+          "description": "Along with the skull cap, remains of wild boar and deer with evidence of having been hunted for consumption were also found in the cave, apparent proof of human inhabitation. Even though the location of the cave at present is close to shore, there were no remains of shellfish or sea creatures found inside, proof that when humans did inhabit the caves, it was far from the shore. The cave is said to be half a million years old, and has been inhabited for almost 50,000 years.",
+          "creator": "Lyn Gateley",
+          "owner": "87616709@N00",
+          "sourcePage": "https://www.flickr.com/photos/lyng883/2402126629/",
+          "licenseCode": 4,
+          "originalUrl": "https://live.staticflickr.com/3206/2402126629_40161c57e4_b.jpg",
+          "previewUrl": "https://live.staticflickr.com/3206/2402126629_40161c57e4_z.jpg",
+          "width": 1024,
+          "height": 803
+        },
+        {
+          "provider": "Flickr",
+          "id": "2402955866",
+          "title": "809 (2)Philippines Palawan \"Tabon Cave\"",
+          "description": "Along with the skull cap, remains of wild boar and deer with evidence of having been hunted for consumption were also found in the cave, apparent proof of human inhabitation. Even though the location of the cave at present is close to shore, there were no remains of shellfish or sea creatures found inside, proof that when humans did inhabit the caves, it was far from the shore. The cave is said to be half a million years old, and has been inhabited for almost 50,000 years.",
+          "creator": "Lyn Gateley",
+          "owner": "87616709@N00",
+          "sourcePage": "https://www.flickr.com/photos/lyng883/2402955866/",
+          "licenseCode": 4,
+          "originalUrl": "https://live.staticflickr.com/2065/2402955866_c2a4a3572d_b.jpg",
+          "previewUrl": "https://live.staticflickr.com/2065/2402955866_c2a4a3572d_z.jpg",
+          "width": 1024,
+          "height": 821
+        },
+        {
+          "provider": "Flickr",
+          "id": "2402955746",
+          "title": "808 (2)Philippines Palawan \"Tabon Cave\"",
+          "description": "Along with the skull cap, remains of wild boar and deer with evidence of having been hunted for consumption were also found in the cave, apparent proof of human inhabitation. Even though the location of the cave at present is close to shore, there were no remains of shellfish or sea creatures found inside, proof that when humans did inhabit the caves, it was far from the shore. The cave is said to be half a million years old, and has been inhabited for almost 50,000 years.",
+          "creator": "Lyn Gateley",
+          "owner": "87616709@N00",
+          "sourcePage": "https://www.flickr.com/photos/lyng883/2402955746/",
+          "licenseCode": 4,
+          "originalUrl": "https://live.staticflickr.com/3292/2402955746_6e93429218_b.jpg",
+          "previewUrl": "https://live.staticflickr.com/3292/2402955746_6e93429218_z.jpg",
+          "width": 1024,
+          "height": 813
+        },
+        {
+          "provider": "Flickr",
+          "id": "2402956096",
+          "title": "811 (2)Philippines Palawan \"Tabon Cave\"",
+          "description": "Along with the skull cap, remains of wild boar and deer with evidence of having been hunted for consumption were also found in the cave, apparent proof of human inhabitation. Even though the location of the cave at present is close to shore, there were no remains of shellfish or sea creatures found inside, proof that when humans did inhabit the caves, it was far from the shore. The cave is said to be half a million years old, and has been inhabited for almost 50,000 years.",
+          "creator": "Lyn Gateley",
+          "owner": "87616709@N00",
+          "sourcePage": "https://www.flickr.com/photos/lyng883/2402956096/",
+          "licenseCode": 4,
+          "originalUrl": "https://live.staticflickr.com/3222/2402956096_312d3e6879_b.jpg",
+          "previewUrl": "https://live.staticflickr.com/3222/2402956096_312d3e6879_z.jpg",
+          "width": 1024,
+          "height": 806
+        },
+        {
+          "provider": "Flickr",
+          "id": "2402955424",
+          "title": "805 (2)Philippines Palawan \"Tabon Cave\"",
+          "description": "Along with the skull cap, remains of wild boar and deer with evidence of having been hunted for consumption were also found in the cave, apparent proof of human inhabitation. Even though the location of the cave at present is close to shore, there were no remains of shellfish or sea creatures found inside, proof that when humans did inhabit the caves, it was far from the shore. The cave is said to be half a million years old, and has been inhabited for almost 50,000 years.",
+          "creator": "Lyn Gateley",
+          "owner": "87616709@N00",
+          "sourcePage": "https://www.flickr.com/photos/lyng883/2402955424/",
+          "licenseCode": 4,
+          "originalUrl": "https://live.staticflickr.com/3253/2402955424_f3fb828248_b.jpg",
+          "previewUrl": "https://live.staticflickr.com/3253/2402955424_f3fb828248_z.jpg",
+          "width": 1024,
+          "height": 801
+        },
+        {
+          "provider": "Flickr",
+          "id": "2402955650",
+          "title": "807 (2)Philippines Palawan \"Tabon Cave\"",
+          "description": "Along with the skull cap, remains of wild boar and deer with evidence of having been hunted for consumption were also found in the cave, apparent proof of human inhabitation. Even though the location of the cave at present is close to shore, there were no remains of shellfish or sea creatures found inside, proof that when humans did inhabit the caves, it was far from the shore. The cave is said to be half a million years old, and has been inhabited for almost 50,000 years.",
+          "creator": "Lyn Gateley",
+          "owner": "87616709@N00",
+          "sourcePage": "https://www.flickr.com/photos/lyng883/2402955650/",
+          "licenseCode": 4,
+          "originalUrl": "https://live.staticflickr.com/3105/2402955650_c7a6d05fed_b.jpg",
+          "previewUrl": "https://live.staticflickr.com/3105/2402955650_c7a6d05fed_z.jpg",
+          "width": 1024,
+          "height": 811
+        },
+        {
+          "provider": "Flickr",
+          "id": "2402955320",
+          "title": "804 (2)Philippines Palawan \"Tabon Cave\"",
+          "description": "Along with the skull cap, remains of wild boar and deer with evidence of having been hunted for consumption were also found in the cave, apparent proof of human inhabitation. Even though the location of the cave at present is close to shore, there were no remains of shellfish or sea creatures found inside, proof that when humans did inhabit the caves, it was far from the shore. The cave is said to be half a million years old, and has been inhabited for almost 50,000 years.",
+          "creator": "Lyn Gateley",
+          "owner": "87616709@N00",
+          "sourcePage": "https://www.flickr.com/photos/lyng883/2402955320/",
+          "licenseCode": 4,
+          "originalUrl": "https://live.staticflickr.com/3149/2402955320_38be0f8a7a_b.jpg",
+          "previewUrl": "https://live.staticflickr.com/3149/2402955320_38be0f8a7a_z.jpg",
+          "width": 1024,
+          "height": 807
+        },
+        {
+          "provider": "Flickr",
+          "id": "2402955026",
+          "title": "801 (2)Philippines Palawan \"Tabon Cave\"",
+          "description": "Along with the skull cap, remains of wild boar and deer with evidence of having been hunted for consumption were also found in the cave, apparent proof of human inhabitation. Even though the location of the cave at present is close to shore, there were no remains of shellfish or sea creatures found inside, proof that when humans did inhabit the caves, it was far from the shore. The cave is said to be half a million years old, and has been inhabited for almost 50,000 years.",
+          "creator": "Lyn Gateley",
+          "owner": "87616709@N00",
+          "sourcePage": "https://www.flickr.com/photos/lyng883/2402955026/",
+          "licenseCode": 4,
+          "originalUrl": "https://live.staticflickr.com/3071/2402955026_563feca510_b.jpg",
+          "previewUrl": "https://live.staticflickr.com/3071/2402955026_563feca510_z.jpg",
+          "width": 1024,
+          "height": 803
+        },
+        {
+          "provider": "Flickr",
+          "id": "2402955234",
+          "title": "803 (2)Philippines Palawan \"Tabon Cave\"",
+          "description": "Along with the skull cap, remains of wild boar and deer with evidence of having been hunted for consumption were also found in the cave, apparent proof of human inhabitation. Even though the location of the cave at present is close to shore, there were no remains of shellfish or sea creatures found inside, proof that when humans did inhabit the caves, it was far from the shore. The cave is said to be half a million years old, and has been inhabited for almost 50,000 years.",
+          "creator": "Lyn Gateley",
+          "owner": "87616709@N00",
+          "sourcePage": "https://www.flickr.com/photos/lyng883/2402955234/",
+          "licenseCode": 4,
+          "originalUrl": "https://live.staticflickr.com/2352/2402955234_29395fc302_b.jpg",
+          "previewUrl": "https://live.staticflickr.com/2352/2402955234_29395fc302_z.jpg",
+          "width": 1024,
+          "height": 808
+        },
+        {
+          "provider": "Flickr",
+          "id": "2402954904",
+          "title": "800 (2)Philippines Palawan \"Tabon Cave\"",
+          "description": "Along with the skull cap, remains of wild boar and deer with evidence of having been hunted for consumption were also found in the cave, apparent proof of human inhabitation. Even though the location of the cave at present is close to shore, there were no remains of shellfish or sea creatures found inside, proof that when humans did inhabit the caves, it was far from the shore. The cave is said to be half a million years old, and has been inhabited for almost 50,000 years.",
+          "creator": "Lyn Gateley",
+          "owner": "87616709@N00",
+          "sourcePage": "https://www.flickr.com/photos/lyng883/2402954904/",
+          "licenseCode": 4,
+          "originalUrl": "https://live.staticflickr.com/2410/2402954904_65a7a9686f_b.jpg",
+          "previewUrl": "https://live.staticflickr.com/2410/2402954904_65a7a9686f_z.jpg",
+          "width": 1024,
+          "height": 804
+        },
+        {
+          "provider": "Flickr",
+          "id": "2402126247",
+          "title": "806 (2)",
+          "description": "Along with the skull cap, remains of wild boar and deer with evidence of having been hunted for consumption were also found in the cave, apparent proof of human inhabitation. Even though the location of the cave at present is close to shore, there were no remains of shellfish or sea creatures found inside, proof that when humans did inhabit the caves, it was far from the shore. The cave is said to be half a million years old, and has been inhabited for almost 50,000 years.",
+          "creator": "Lyn Gateley",
+          "owner": "87616709@N00",
+          "sourcePage": "https://www.flickr.com/photos/lyng883/2402126247/",
+          "licenseCode": 4,
+          "originalUrl": "https://live.staticflickr.com/2281/2402126247_b9647261de_b.jpg",
+          "previewUrl": "https://live.staticflickr.com/2281/2402126247_b9647261de_z.jpg",
+          "width": 1024,
+          "height": 800
+        },
+        {
+          "provider": "Flickr",
+          "id": "9165342414",
+          "title": "Baywalk food stall",
+          "description": "One of the local eateries, now alive and kicking in the night. But for all the crowds, I was surprised to see many of them preparing to close shop as early as 20:30. Another surprising then is, for all the fish in Palawan, I had to really hunt for a stall that sold fish. Most of the stalls seemed to specialize in beef, and the ubiquitous baboi (pork), a favourite all over South East Asia. The lady in the picture moved suddenly just as I was clicking. This stall specializes in inihaw (local term for barbecue), while a fruit shake is blending in the mixer. (Puerto Princesa, Philippines, May 2013)",
+          "creator": "shankar s.",
+          "owner": "77742560@N06",
+          "sourcePage": "https://www.flickr.com/photos/shankaronline/9165342414/",
+          "licenseCode": 4,
+          "originalUrl": "https://live.staticflickr.com/3704/9165342414_cab897da68_b.jpg",
+          "previewUrl": "https://live.staticflickr.com/3704/9165342414_cab897da68_z.jpg",
+          "width": 1024,
+          "height": 768
+        },
+        {
+          "provider": "Wikimedia Commons",
+          "title": "File:Palawan swiftlet (Aerodramus palawanensis) hunting by echolocation.JPG",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Palawan_swiftlet_(Aerodramus_palawanensis)_hunting_by_echolocation.JPG",
+          "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/7/73/Palawan_swiftlet_%28Aerodramus_palawanensis%29_hunting_by_echolocation.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "previewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Palawan_swiftlet_%28Aerodramus_palawanensis%29_hunting_by_echolocation.JPG/960px-Palawan_swiftlet_%28Aerodramus_palawanensis%29_hunting_by_echolocation.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 5184,
+          "height": 3456,
+          "license": "CC BY-SA 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+          "creator": "Andrea Giovanni Murachelli",
+          "description": "A Palawan swiftlet hunts in complete darkness inside the Puerto Princesa subterranean river cave. Photo taken about 1.5 km inside the underground river cave, in complete darkness",
+          "categories": "Aerodramus amelis palawanensis|Puerto Princesa Subterranean River National Park|Taken with Canon EOS 650D|Echolocation|Self-published work|Images with extracted images|Files with coordinates missing SDC location of creation",
+          "latitude": "10.199063",
+          "longitude": "118.925554"
+        },
+        {
+          "provider": "Wikimedia Commons",
+          "title": "File:Palawan swiftlet (Aerodramus palawanensis) hunting by echolocation (cropped).JPG",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Palawan_swiftlet_(Aerodramus_palawanensis)_hunting_by_echolocation_(cropped).JPG",
+          "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Palawan_swiftlet_%28Aerodramus_palawanensis%29_hunting_by_echolocation_%28cropped%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "previewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Palawan_swiftlet_%28Aerodramus_palawanensis%29_hunting_by_echolocation_%28cropped%29.JPG/960px-Palawan_swiftlet_%28Aerodramus_palawanensis%29_hunting_by_echolocation_%28cropped%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 2581,
+          "height": 1852,
+          "license": "CC BY-SA 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+          "creator": "Andrea Giovanni Murachelli",
+          "description": "A Palawan swiftlet hunts in complete darkness inside the Puerto Princesa subterranean river cave. Photo taken about 1.5 km inside the underground river cave, in complete darkness",
+          "categories": "Aerodramus amelis palawanensis|Puerto Princesa Subterranean River National Park|Echolocation|Self-published work|Extracted images|Files with coordinates missing SDC location of creation",
+          "latitude": "10.199063",
+          "longitude": "118.925554"
+        },
+        {
+          "provider": "Wikimedia Commons",
+          "title": "File:Blue-eared Kingfisher of palawan.jpg",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Blue-eared_Kingfisher_of_palawan.jpg",
+          "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Blue-eared_Kingfisher_of_palawan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "previewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Blue-eared_Kingfisher_of_palawan.jpg/960px-Blue-eared_Kingfisher_of_palawan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 1229,
+          "height": 1721,
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "creator": "Rolando.entero",
+          "description": "The blue-eared kingfisher (Alcedo meninting) is found in Asia, ranging across the Indian subcontinent and Southeast Asia. It is found mainly in dense shaded forests where it hunts in small streams.",
+          "categories": "Alcedo meninting|Self-published work|Uploaded via Campaign:wlbird-ph 2025|Uploads by Rolando.entero in WLB PH 2025"
+        },
+        {
+          "provider": "Wikimedia Commons",
+          "title": "File:Armed Forces of the Philippines, U S , Australia, and New Zealand conduct a Counter Landing Live-fire Event (9659250).jpg",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Armed_Forces_of_the_Philippines,_U_S_,_Australia,_and_New_Zealand_conduct_a_Counter_Landing_Live-fire_Event_(9659250).jpg",
+          "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/7/72/Armed_Forces_of_the_Philippines%2C_U_S_%2C_Australia%2C_and_New_Zealand_conduct_a_Counter_Landing_Live-fire_Event_%289659250%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "previewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Armed_Forces_of_the_Philippines%2C_U_S_%2C_Australia%2C_and_New_Zealand_conduct_a_Counter_Landing_Live-fire_Event_%289659250%29.jpg/960px-Armed_Forces_of_the_Philippines%2C_U_S_%2C_Australia%2C_and_New_Zealand_conduct_a_Counter_Landing_Live-fire_Event_%289659250%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 7902,
+          "height": 5268,
+          "license": "Public domain",
+          "creator": "U.S. Marine Corps photo by Lance Cpl. Aaliyah Hunt",
+          "description": "U.S. Armed Forces senior leaders gather to observe a counter landing live-fire event during Exercise Balikatan 2026 at Aporawan Beach, Palawan, Philippines, April 27, 2026. Balikatan is a longstanding annual exercise between the Armed Forces of the Philippines and the U.S. military that represents the strength of our alliance, improves our capable combined force, and demonstrates our commitment to regional peace and prosperity. (U.S. Marine Corps photo by Lance Cpl. Aaliyah Hunt)",
+          "categories": "Military of the Philippines|PD US Marines|Files created by the United States Marine Corps with known IDs|DVIDS files uploaded by OptimusPrimeBot|Milimedia files, Philippines (review needed)|Philippines photographs taken on 2026-04-23"
+        },
+        {
+          "provider": "Wikimedia Commons",
+          "title": "File:Armed Forces of the Philippines, U S , Australia, and New Zealand conduct a Counter Landing Live-fire Event (9659251).jpg",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Armed_Forces_of_the_Philippines,_U_S_,_Australia,_and_New_Zealand_conduct_a_Counter_Landing_Live-fire_Event_(9659251).jpg",
+          "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/6/60/Armed_Forces_of_the_Philippines%2C_U_S_%2C_Australia%2C_and_New_Zealand_conduct_a_Counter_Landing_Live-fire_Event_%289659251%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "previewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Armed_Forces_of_the_Philippines%2C_U_S_%2C_Australia%2C_and_New_Zealand_conduct_a_Counter_Landing_Live-fire_Event_%289659251%29.jpg/960px-Armed_Forces_of_the_Philippines%2C_U_S_%2C_Australia%2C_and_New_Zealand_conduct_a_Counter_Landing_Live-fire_Event_%289659251%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 8192,
+          "height": 5464,
+          "license": "Public domain",
+          "creator": "U.S. Marine Corps photo by Lance Cpl. Aaliyah Hunt",
+          "description": "Armed Forces of the Philippines, U.S., Australian, and New Zealand forces strike coastal targets during a counter landing live-fire event during Exercise Balikatan 2026 at Aporawan Beach, Palawan, Philippines, April 27, 2026. Balikatan is a longstanding annual exercise between the Armed Forces of the Philippines and the U.S. military that represents the strength of our alliance, improves our capable combined force, and demonstrates our commitment to regional peace and prosperity. (U.S. Marine Corps photo by Lance Cpl. Aaliyah Hunt)",
+          "categories": "Military of the Philippines|PD US Marines|Files created by the United States Marine Corps with known IDs|DVIDS files uploaded by OptimusPrimeBot|Milimedia files, Philippines (review needed)|Philippines photographs taken on 2026-04-23"
+        },
+        {
+          "provider": "Wikimedia Commons",
+          "title": "File:Armed Forces of the Philippines, U S , Australia, and New Zealand conduct a Counter Landing Live-fire Event (9659253).jpg",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Armed_Forces_of_the_Philippines,_U_S_,_Australia,_and_New_Zealand_conduct_a_Counter_Landing_Live-fire_Event_(9659253).jpg",
+          "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/af/Armed_Forces_of_the_Philippines%2C_U_S_%2C_Australia%2C_and_New_Zealand_conduct_a_Counter_Landing_Live-fire_Event_%289659253%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "previewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Armed_Forces_of_the_Philippines%2C_U_S_%2C_Australia%2C_and_New_Zealand_conduct_a_Counter_Landing_Live-fire_Event_%289659253%29.jpg/960px-Armed_Forces_of_the_Philippines%2C_U_S_%2C_Australia%2C_and_New_Zealand_conduct_a_Counter_Landing_Live-fire_Event_%289659253%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 8192,
+          "height": 5464,
+          "license": "Public domain",
+          "creator": "U.S. Marine Corps photo by Lance Cpl. Aaliyah Hunt",
+          "description": "Armed Forces of the Philippines, U.S., Australian, and New Zealand forces strike coastal targets during a counter landing live-fire event during Exercise Balikatan 2026 at Aporawan Beach, Palawan, Philippines, April 27, 2026. Balikatan is a longstanding annual exercise between the Armed Forces of the Philippines and the U.S. military that represents the strength of our alliance, improves our capable combined force, and demonstrates our commitment to regional peace and prosperity. (U.S. Marine Corps photo by Lance Cpl. Aaliyah Hunt)",
+          "categories": "Military of the Philippines|PD US Marines|Files created by the United States Marine Corps with known IDs|DVIDS files uploaded by OptimusPrimeBot|Milimedia files, Philippines (review needed)|Philippines photographs taken on 2026-04-23"
+        },
+        {
+          "provider": "Wikimedia Commons",
+          "title": "File:Armed Forces of the Philippines, U S , Australia, and New Zealand conduct a Counter Landing Live-fire Event (9659256).jpg",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Armed_Forces_of_the_Philippines,_U_S_,_Australia,_and_New_Zealand_conduct_a_Counter_Landing_Live-fire_Event_(9659256).jpg",
+          "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/6/61/Armed_Forces_of_the_Philippines%2C_U_S_%2C_Australia%2C_and_New_Zealand_conduct_a_Counter_Landing_Live-fire_Event_%289659256%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "previewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Armed_Forces_of_the_Philippines%2C_U_S_%2C_Australia%2C_and_New_Zealand_conduct_a_Counter_Landing_Live-fire_Event_%289659256%29.jpg/960px-Armed_Forces_of_the_Philippines%2C_U_S_%2C_Australia%2C_and_New_Zealand_conduct_a_Counter_Landing_Live-fire_Event_%289659256%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 7796,
+          "height": 5197,
+          "license": "Public domain",
+          "creator": "U.S. Marine Corps photo by Lance Cpl. Aaliyah Hunt",
+          "description": "Senior leaders from participating forces pose for a photo following the conclusion of the counter landing live-fire event during Exercise Balikatan 2026 at Aporawan Beach, Palawan, Philippines, April 27, 2026. Balikatan is a longstanding annual exercise between the Armed Forces of the Philippines and the U.S. military that represents the strength of our alliance, improves our capable combined force, and demonstrates our commitment to regional peace and prosperity. (U.S. Marine Corps photo by Lance Cpl. Aaliyah Hunt)",
+          "categories": "Military of the Philippines|PD US Marines|Files created by the United States Marine Corps with known IDs|DVIDS files uploaded by OptimusPrimeBot|Milimedia files, Philippines (review needed)|Philippines photographs taken on 2026-04-23"
+        },
+        {
+          "provider": "Wikimedia Commons",
+          "title": "File:Armed Forces of the Philippines, U S , Australia, and New Zealand conduct a Counter Landing Live-fire Event (9659258).jpg",
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Armed_Forces_of_the_Philippines,_U_S_,_Australia,_and_New_Zealand_conduct_a_Counter_Landing_Live-fire_Event_(9659258).jpg",
+          "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Armed_Forces_of_the_Philippines%2C_U_S_%2C_Australia%2C_and_New_Zealand_conduct_a_Counter_Landing_Live-fire_Event_%289659258%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+          "previewUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Armed_Forces_of_the_Philippines%2C_U_S_%2C_Australia%2C_and_New_Zealand_conduct_a_Counter_Landing_Live-fire_Event_%289659258%29.jpg/960px-Armed_Forces_of_the_Philippines%2C_U_S_%2C_Australia%2C_and_New_Zealand_conduct_a_Counter_Landing_Live-fire_Event_%289659258%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "width": 7479,
+          "height": 4986,
+          "license": "Public domain",
+          "creator": "U.S. Marine Corps photo by Lance Cpl. Aaliyah Hunt",
+          "description": "U.S. Army Maj. Gen. James Bartholomees, center, commanding general of the 25th Infantry Division, addresses participating troops following the counter landing live-fire event during Exercise Balikatan 2026 at Aporawan Beach, Palawan, Philippines, April 27, 2026. Balikatan is a longstanding annual exercise between the Armed Forces of the Philippines and the U.S. military that represents the strength of our alliance, improves our capable combined force, and demonstrates our commitment to regional peace and prosperity. (U.S. Marine Corps photo by Lance Cpl. Aaliyah Hunt)",
+          "categories": "Military of the Philippines|25th Infantry Division (United States)|PD US Marines|Files created by the United States Marine Corps with known IDs|DVIDS files uploaded by OptimusPrimeBot|Milimedia files, Philippines (review needed)|Philippines photographs taken on 2026-04-23"
+        }
+      ]
+    },
+    {
+      "placeId": "el-nido-calima-piece-lio",
+      "name": "CALIMA Restaurant — Piece Lio",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/food-directory/media/research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "CALIMA Restaurant El Nido",
+          "url": "https://www.flickr.com/search/?text=CALIMA+Restaurant+El+Nido&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "CALIMA Palawan",
+          "url": "https://www.flickr.com/search/?text=CALIMA+Palawan&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Commons",
+          "query": "CALIMA Palawan",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=CALIMA+Palawan&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "placeId": "el-nido-ocean-view-chinese",
+      "name": "Ocean View Chinese Restaurant — S Resort",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/food-directory/media/research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "Ocean View Chinese Restaurant El Nido",
+          "url": "https://www.flickr.com/search/?text=Ocean+View+Chinese+Restaurant+El+Nido&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Ocean View Chinese Palawan",
+          "url": "https://www.flickr.com/search/?text=Ocean+View+Chinese+Palawan&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Commons",
+          "query": "Ocean View Chinese Palawan",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Ocean+View+Chinese+Palawan&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "placeId": "puerto-princesa-divines-robinsons",
+      "name": "Divine’s Sweets Bakery & Cafe — Robinsons",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/food-directory/media/research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "Divines Sweets Bakery & Cafe Puerto Princesa City",
+          "url": "https://www.flickr.com/search/?text=Divines+Sweets+Bakery+%26+Cafe+Puerto+Princesa+City&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Divines Sweets Bakery Palawan",
+          "url": "https://www.flickr.com/search/?text=Divines+Sweets+Bakery+Palawan&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Commons",
+          "query": "Divines Sweets Bakery Palawan",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Divines+Sweets+Bakery+Palawan&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "placeId": "puerto-princesa-jeju-island-cafe",
+      "name": "Jeju Island Cafe",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/food-directory/media/research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "Jeju Island Cafe Puerto Princesa City",
+          "url": "https://www.flickr.com/search/?text=Jeju+Island+Cafe+Puerto+Princesa+City&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Jeju Island Palawan",
+          "url": "https://www.flickr.com/search/?text=Jeju+Island+Palawan&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 1,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Commons",
+          "query": "Jeju Island Palawan",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Jeju+Island+Palawan&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        }
+      ],
+      "candidates": [
+        {
+          "provider": "Flickr",
+          "id": "9165588924",
+          "title": "Rock formation inside the cave",
+          "description": "Remnants of bat poo inside the cave. On November 11, 2011 the underground river was provisionally chosen as one of the New7Wonders, together with the Amazonia, Halong Bay, Iguazu Falls, Jeju Island, Komodo Island, and Table Mountain. This honour was confirmed in 2012. (Puerto Princesa, Philippines, May 2013)",
+          "creator": "shankar s.",
+          "owner": "77742560@N06",
+          "sourcePage": "https://www.flickr.com/photos/shankaronline/9165588924/",
+          "licenseCode": 4,
+          "originalUrl": "https://live.staticflickr.com/7357/9165588924_1bb693a48a_b.jpg",
+          "previewUrl": "https://live.staticflickr.com/7357/9165588924_1bb693a48a_z.jpg",
+          "width": 1024,
+          "height": 683
+        }
+      ]
+    },
+    {
+      "placeId": "puerto-princesa-kofilab",
+      "name": "Kofilab Cafe",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/food-directory/media/research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "Kofilab Cafe Puerto Princesa City",
+          "url": "https://www.flickr.com/search/?text=Kofilab+Cafe+Puerto+Princesa+City&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Kofilab Palawan",
+          "url": "https://www.flickr.com/search/?text=Kofilab+Palawan&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Commons",
+          "query": "Kofilab Palawan",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Kofilab+Palawan&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "placeId": "iloilo-baking-studio-theos",
+      "name": "Baking Studio by Theo’s — North Grove",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/place-enrichment/photo-only/photo-006-research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "Baking Studio by Theos Iloilo City",
+          "url": "https://www.flickr.com/search/?text=Baking+Studio+by+Theos+Iloilo+City&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Baking Studio by Iloilo",
+          "url": "https://www.flickr.com/search/?text=Baking+Studio+by+Iloilo&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "placeId": "iloilo-breakthrough-villa",
+      "name": "Breakthrough Restaurant - Villa",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/place-enrichment/photo-only/photo-006-research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "Breakthrough Restaurant Iloilo City",
+          "url": "https://www.flickr.com/search/?text=Breakthrough+Restaurant+Iloilo+City&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Breakthrough Iloilo",
+          "url": "https://www.flickr.com/search/?text=Breakthrough+Iloilo&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "placeId": "iloilo-dapli-valeria",
+      "name": "Dapli by Breakthrough",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/place-enrichment/photo-only/photo-006-research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "Dapli by Breakthrough Iloilo City",
+          "url": "https://www.flickr.com/search/?text=Dapli+by+Breakthrough+Iloilo+City&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Dapli by Breakthrough Iloilo",
+          "url": "https://www.flickr.com/search/?text=Dapli+by+Breakthrough+Iloilo&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "placeId": "iloilo-ponsyon-plazuela",
+      "name": "Ponsyon by Breakthrough",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/place-enrichment/photo-only/photo-006-research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "Ponsyon by Breakthrough Iloilo City",
+          "url": "https://www.flickr.com/search/?text=Ponsyon+by+Breakthrough+Iloilo+City&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Ponsyon by Breakthrough Iloilo",
+          "url": "https://www.flickr.com/search/?text=Ponsyon+by+Breakthrough+Iloilo&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "placeId": "iloilo-taytay-tigre",
+      "name": "Taytay Tigre",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/place-enrichment/photo-only/photo-006-research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "Taytay Tigre Guimbal",
+          "url": "https://www.flickr.com/search/?text=Taytay+Tigre+Guimbal&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Taytay Tigre Iloilo",
+          "url": "https://www.flickr.com/search/?text=Taytay+Tigre+Iloilo&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "placeId": "iloilo-garin-farm",
+      "name": "Garin Farm",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/place-enrichment/photo-only/photo-006-research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "Garin Farm San Joaquin",
+          "url": "https://www.flickr.com/search/?text=Garin+Farm+San+Joaquin&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Garin Farm Iloilo",
+          "url": "https://www.flickr.com/search/?text=Garin+Farm+Iloilo&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "placeId": "iloilo-neighbor-atria",
+      "name": "Neighbor Coffee — Shops at Atria",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/food-directory/media/research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "Neighbor Coffee Iloilo City",
+          "url": "https://www.flickr.com/search/?text=Neighbor+Coffee+Iloilo+City&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Neighbor Coffee Iloilo",
+          "url": "https://www.flickr.com/search/?text=Neighbor+Coffee+Iloilo&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Commons",
+          "query": "Neighbor Coffee Iloilo",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Neighbor+Coffee+Iloilo&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "placeId": "iloilo-bluejay-sm-city",
+      "name": "Bluejay Coffee & Company — SM City Iloilo",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/food-directory/media/research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "Bluejay Coffee & Company Iloilo City",
+          "url": "https://www.flickr.com/search/?text=Bluejay+Coffee+%26+Company+Iloilo+City&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Bluejay Coffee Company Iloilo",
+          "url": "https://www.flickr.com/search/?text=Bluejay+Coffee+Company+Iloilo&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Commons",
+          "query": "Bluejay Coffee Company Iloilo",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Bluejay+Coffee+Company+Iloilo&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "placeId": "iloilo-monkey-grounds",
+      "name": "Monkey Grounds Coffee — Benigno Aquino Avenue",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/food-directory/media/research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "Monkey Grounds Coffee Iloilo City",
+          "url": "https://www.flickr.com/search/?text=Monkey+Grounds+Coffee+Iloilo+City&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Monkey Grounds Coffee Iloilo",
+          "url": "https://www.flickr.com/search/?text=Monkey+Grounds+Coffee+Iloilo&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Commons",
+          "query": "Monkey Grounds Coffee Iloilo",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Monkey+Grounds+Coffee+Iloilo&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "placeId": "iloilo-loco-smallville",
+      "name": "LoCo Local Coffee — Smallville",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/food-directory/media/research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "LoCo Local Coffee Iloilo City",
+          "url": "https://www.flickr.com/search/?text=LoCo+Local+Coffee+Iloilo+City&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "LoCo Local Coffee Iloilo",
+          "url": "https://www.flickr.com/search/?text=LoCo+Local+Coffee+Iloilo&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Commons",
+          "query": "LoCo Local Coffee Iloilo",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=LoCo+Local+Coffee+Iloilo&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "placeId": "iloilo-netongs-la-paz",
+      "name": "Netong’s Original Special La Paz Batchoy — La Paz Market",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/food-directory/media/research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "Netongs Original Special La Paz Batchoy Iloilo City",
+          "url": "https://www.flickr.com/search/?text=Netongs+Original+Special+La+Paz+Batchoy+Iloilo+City&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Netongs Original Special Iloilo",
+          "url": "https://www.flickr.com/search/?text=Netongs+Original+Special+Iloilo&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Commons",
+          "query": "Netongs Original Special Iloilo",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Netongs+Original+Special+Iloilo&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "placeId": "iloilo-carlos-dungon",
+      "name": "Carlo’s Bakery & Cafe — Dungon",
+      "checkedOn": "2026-10-23",
+      "previousReports": [
+        "docs/food-directory/media/research.json"
+      ],
+      "searches": [
+        {
+          "provider": "Flickr",
+          "query": "Carlos Bakery & Cafe Iloilo City",
+          "url": "https://www.flickr.com/search/?text=Carlos+Bakery+%26+Cafe+Iloilo+City&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Flickr",
+          "query": "Carlos Bakery Iloilo",
+          "url": "https://www.flickr.com/search/?text=Carlos+Bakery+Iloilo&license=4%2C5%2C9%2C10%2C11%2C12",
+          "count": 0,
+          "scope": "Includes CC BY 4.0 and CC BY-SA 4.0 omitted by earlier search filters"
+        },
+        {
+          "provider": "Commons",
+          "query": "Carlos Bakery Iloilo",
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrsearch=Carlos+Bakery+Iloilo&gsrlimit=8&prop=imageinfo&iiprop=url%7Cextmetadata%7Csize&iiurlwidth=640",
+          "count": 0
+        }
+      ],
+      "candidates": []
+    }
+  ]
+}

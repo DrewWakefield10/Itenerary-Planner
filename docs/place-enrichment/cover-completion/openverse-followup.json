@@ -1,0 +1,57 @@
+{
+  "checkedOn": "2026-10-23",
+  "status": "unapproved-research",
+  "records": [
+    {
+      "query": "Sohoton",
+      "url": "https://api.openverse.org/v1/images/?q=Sohoton&page_size=20&license_type=commercial%2Cmodification",
+      "error": "The operation was aborted due to timeout"
+    },
+    {
+      "query": "Taktak",
+      "url": "https://api.openverse.org/v1/images/?q=Taktak&page_size=20&license_type=commercial%2Cmodification",
+      "error": "The operation was aborted due to timeout"
+    },
+    {
+      "query": "Hill Station Baguio",
+      "url": "https://api.openverse.org/v1/images/?q=Hill+Station+Baguio&page_size=20&license_type=commercial%2Cmodification",
+      "error": "The operation was aborted due to timeout"
+    },
+    {
+      "query": "Batirol",
+      "url": "https://api.openverse.org/v1/images/?q=Batirol&page_size=20&license_type=commercial%2Cmodification",
+      "error": "The operation was aborted due to timeout"
+    },
+    {
+      "query": "Bone Collector Davao",
+      "url": "https://api.openverse.org/v1/images/?q=Bone+Collector+Davao&page_size=20&license_type=commercial%2Cmodification",
+      "error": "The operation was aborted due to timeout"
+    },
+    {
+      "query": "Log Cabin Sagada",
+      "url": "https://api.openverse.org/v1/images/?q=Log+Cabin+Sagada&page_size=20&license_type=commercial%2Cmodification",
+      "error": "The operation was aborted due to timeout"
+    },
+    {
+      "query": "Maasin river",
+      "url": "https://api.openverse.org/v1/images/?q=Maasin+river&page_size=20&license_type=commercial%2Cmodification",
+      "error": "The operation was aborted due to timeout"
+    },
+    {
+      "query": "Pacifico Siargao",
+      "url": "https://api.openverse.org/v1/images/?q=Pacifico+Siargao&page_size=20&license_type=commercial%2Cmodification",
+      "count": 0,
+      "candidates": []
+    },
+    {
+      "query": "Talipapa Boracay",
+      "url": "https://api.openverse.org/v1/images/?q=Talipapa+Boracay&page_size=20&license_type=commercial%2Cmodification",
+      "error": "The operation was aborted due to timeout"
+    },
+    {
+      "query": "Bakers Hill",
+      "url": "https://api.openverse.org/v1/images/?q=Bakers+Hill&page_size=20&license_type=commercial%2Cmodification",
+      "error": "The operation was aborted due to timeout"
+    }
+  ]
+}

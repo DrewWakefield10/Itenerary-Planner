@@ -1,0 +1,34 @@
+{
+  "checkedOn": "2026-10-23",
+  "origin": "https://lakbay-itinerary-planner-psi.vercel.app",
+  "status": 200,
+  "locations": 426,
+  "photos": 214,
+  "gaps": 212,
+  "assets": [
+    {
+      "placeId": "el-nido-corong-corong-beach",
+      "url": "/images/places/el-nido-corong-corong-beach.jpg",
+      "status": 200,
+      "type": "image/jpeg"
+    },
+    {
+      "placeId": "el-nido-lio-beach-afternoon",
+      "url": "/images/places/el-nido-lio-beach-afternoon.jpg",
+      "status": 200,
+      "type": "image/jpeg"
+    },
+    {
+      "placeId": "el-nido-big-lagoon",
+      "url": "/images/places/el-nido-big-lagoon.jpg",
+      "status": 200,
+      "type": "image/jpeg"
+    },
+    {
+      "placeId": "el-nido-nacpan-beach",
+      "url": "/images/places/el-nido-nacpan-beach.jpg",
+      "status": 200,
+      "type": "image/jpeg"
+    }
+  ]
+}

@@ -1,6 +1,7 @@
 "use client";
 import {createContext,useContext,useEffect,useState,useCallback,useRef,type ReactNode} from "react";
 import {createAuthClient} from "better-auth/react";
+import Link from 'next/link';
 import {accountFetch,changeBookmark,pendingAction,clearPrivateDrafts,loadBookmarks} from "@/lib/account-client";
 type User={id:string;displayName:string;email:string};
 type Session={enabled:boolean;user:User|null};
@@ -70,4 +71,4 @@ export function GoogleSignIn({returnTo,children="Continue with Google",before}:{
   if(!account.enabled)return <p className="fine-print">Account saving is not available yet. You can plan, edit and export a browser draft.</p>;
   return <div><button className="button google-sign-in" disabled={busy} aria-busy={busy} onClick={async()=>{if(busy)return;setBusy(true);setLocalError("");try{before?.();await account.signIn(returnTo);}catch(e){setLocalError(e instanceof Error?e.message:"Sign-in could not start. Retry.");setBusy(false);}}}>{busy?"Opening Google…":children}</button>{(localError||account.error)&&<p role="alert" className="notice error">{localError||account.error}</p>}</div>;
 }
-export function AccountMenu(){const account=useAccount();return <a className="account-entry" href="/account">{account.user?account.user.displayName:account.enabled?"Sign in":"Account"}</a>;}
+export function AccountMenu(){const account=useAccount();return <Link className="account-entry" href="/account">{account.user?account.user.displayName:account.enabled?"Sign in with Google":"Account"}</Link>;}

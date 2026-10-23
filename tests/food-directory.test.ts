@@ -16,6 +16,7 @@ import baseline from '../docs/food-directory/baseline.json';
 import {placeContents} from '../lib/catalog/place-content';
 import {visitStart} from '../lib/catalog/planning';
 import type {DirectoryCandidate} from '../lib/catalog/directory-schema';
+import {beforeCoverAdditions} from './helpers/cover-preservation';
 const request={...defaultRequest,startDate:'2026-12-10',randomSeed:'food-regression',budget:200000,tier:'Premium' as const,days:5,interests:[],activityCategories:[]};
 const read=(p:string)=>JSON.parse(readFileSync(p,'utf8'));
 test('reviewed food additions count once, cover all destinations and preserve every previous identity and text',()=>{
@@ -26,7 +27,7 @@ test('reviewed food additions count once, cover all destinations and preserve ev
  for(const group of destinationGroups)assert.ok(foodProfiles.some(f=>directoryListings.find(p=>p.id===f.placeId)?.destination_group===group));
  for(const p of foodProfiles)foodProfileSchema.parse(p);
  // The prior photo pass's original text overlay remains immutable.
- const original=read('lib/catalog/place-content.json').filter((p:{placeId:string})=>baseline.contentIds.includes(p.placeId));
+ const original=beforeCoverAdditions(read('lib/catalog/place-content.json')).filter((p:{placeId:string})=>baseline.contentIds.includes(p.placeId));
  assert.equal(createHash('sha256').update(JSON.stringify(original)).digest('hex'),baseline.contentHash);
  assert.equal(foodForPlace('bohol-green-thumb-farm'),undefined);
  assert.equal(categoryForPlace(directoryListings.find(p=>p.id==='bohol-green-thumb-farm')!),'Nature');
