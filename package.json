@@ -22,6 +22,8 @@
     "test:accounts:browser": "node tests/accounts-browser.mjs",
     "test:explore:browser": "node --import tsx tests/explore-browser.mjs",
     "export:directory": "tsx scripts/export-directory.ts",
+    "progress:maps": "tsx scripts/google-maps-progress.ts",
+    "test:maps:browser": "node --import tsx tests/google-maps-browser.mjs",
     "publish:food": "tsx scripts/publish-food-batch.ts",
     "progress:food": "tsx scripts/food-progress.ts",
     "research:food:photos": "node scripts/research-food-photos.mjs",

@@ -1,5 +1,5 @@
 "use client";
-import { lazy, Suspense, useEffect, useMemo, useRef, useState } from "react";
+import { lazy, Suspense, useEffect, useRef, useState } from "react";
 import Link from "next/link";
 import {
   ArrowLeft,
@@ -15,7 +15,6 @@ import {
   discoveryStop,
   nearbyDiscoveries,
   reviewExpired,
-  placeCoordinates,
   type DiscoveryPlace,
 } from "@/lib/discovery";
 import { destination, peso } from "@/lib/destinations";
@@ -28,7 +27,7 @@ import {
   groupForBase,
 } from "@/lib/catalog/directory";
 import { addableStop } from "@/lib/catalog/planning";
-import { blankActivity } from "@/lib/engine";
+import { PlaceLocationMap } from "./place-location-map";
 import {
   interestFresh,
   signalLabel,
@@ -44,7 +43,6 @@ import {PlacePhoto,PlaceOverview,PlaceVideos,PlaceEditorialCredits} from "./plac
 const PlaceInstagram=lazy(()=>import('./place-instagram').then(module=>({default:module.PlaceInstagram})));
 const PlaceInstagramCover=lazy(()=>import('./place-instagram').then(module=>({default:module.PlaceInstagramCover})));
 const AddDialog = lazy(() => import("./discovery-add-dialog"));
-const TripMap = lazy(() => import("./trip-map"));
 const dayLabel = (date: string) =>
   new Date(date + "T12:00:00Z").toLocaleDateString("en-US", {
     month: "short",
@@ -833,24 +831,14 @@ function PlaceDetails({
   place: DiscoveryPlace;
   onAdd: (id: string) => void;
 }) {
-  const [showMap, setShowMap] = useState(false);
   const [interactive, setInteractive] = useState(false);
   useEffect(() => setInteractive(true), []);
   const base = destination(place.baseSlug);
   const stop = discoveryStop(place);
   const notes=stop||(place.directory?directoryDetails(place.directory):null);
-  const point = placeCoordinates(place);
   const nearby = place.baseSlug
     ? nearbyDiscoveries(place.baseSlug, place.id)
     : { origin: null, spots: [] };
-  const mapActivity = useMemo(
-    () => ({
-      ...blankActivity(place.name),
-      lat: point?.lat ?? null,
-      lng: point?.lng ?? null,
-    }),
-    [place.name, point?.lat, point?.lng],
-  );
   return (
     <>
       <Link href="/discover" className="breadcrumb">
@@ -1049,45 +1037,7 @@ function PlaceDetails({
           )}
         </section>
       </div>
-      <section className="discovery-section">
-        <h2>
-          A place on <em>the map.</em>
-        </h2>
-        {point ? (
-          <>
-            <p>
-              Reviewed reference coordinates: {point.lat}, {point.lng}{" "}
-              <SourceIndicator source={point.source} label="Coordinates" />. Not
-              a surveyed entrance or a routed journey.
-            </p>
-            {showMap ? (
-              <Suspense fallback={<p>Opening map…</p>}>
-                <TripMap
-                  activities={[mapActivity]}
-                  slug={place.baseSlug}
-                  center={[point.lat, point.lng]}
-                  selected=""
-                  onSelect={() => {}}
-                />
-              </Suspense>
-            ) : (
-              <button
-                className="button secondary"
-                disabled={!interactive}
-                onClick={() => setShowMap(true)}
-              >
-                Show location map
-              </button>
-            )}
-          </>
-        ) : (
-          <p>
-            No coordinate pin is available for this place. Approximate or
-            unverified catalog pins are not used for nearby distance
-            calculations.
-          </p>
-        )}
-      </section>
+      <PlaceLocationMap key={place.id} place={place} />
       <details id="place-sources" className="discovery-section paper-note place-source-details">
           <summary>Sources, detail checks and image credits</summary>
           <PlaceEditorialCredits place={place}/>

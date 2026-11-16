@@ -78,6 +78,7 @@ Explore owns destination understanding and practical advice. Its two URL-linked 
 | Source status and review explanation | `components/source-indicator.tsx` |
 | Add preview and explicit acceptance | `components/discovery-add-dialog.tsx`, `lib/discovery-planning.ts` |
 | Map | Lazy `components/trip-map.tsx`; no fabricated pins or routes |
+| Place maps and directions | `components/place-location-map.tsx`, `lib/google-maps.ts`; ordinary links, opt-in full Google Embed, separate reviewed-ID overlay; search results are labeled |
 | Global scrollbar | `app/globals.css`, using existing muted/paper/teal/marine tokens |
 
 ## Do's and Don'ts
