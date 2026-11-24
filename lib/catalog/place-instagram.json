@@ -738,5 +738,86 @@
       "checkedOn": "2026-10-22",
       "note": "Real official widget rendered with attribution and controls after the explicit Load Instagram posts action on the Lakbay detail page at desktop width. Initial photo or reel poster visually reviewed; not a full footage review."
     }
+  },
+  {
+    "placeId": "baguio-burnham-park",
+    "url": "https://www.instagram.com/p/BhqTgIHnnXQ/",
+    "account": "rhenvisuals",
+    "accountName": "Rhen Varias",
+    "relevance": "An aerial photograph of Burnham Lake and its boats, with the park’s tree-lined banks and Baguio skyline.",
+    "checkedOn": "2026-11-24",
+    "review": "public-post",
+    "evidenceUrls": [
+      "https://www.instagram.com/p/BhqTgIHnnXQ/",
+      "https://www.philippinebeaches.org/10-tourist-spots-for-your-baguio-itinerary/",
+      "https://visita.baguio.gov.ph/park-tickets"
+    ],
+    "limitation": "The original public widget, visible photograph, caption and Burnham Park location tag were reviewed together. This is a historical view. Standalone photo permission is undocumented.",
+    "presentation": "manual-embed",
+    "embedCheck": {
+      "status": "confirmed",
+      "checkedOn": "2026-11-24",
+      "note": "The official captioned embed rendered the original photograph, location, account and controls."
+    }
+  },
+  {
+    "placeId": "baguio-burnham-park",
+    "url": "https://www.instagram.com/p/COinxsPNm9y/",
+    "account": "jborje",
+    "accountName": "jborje",
+    "relevance": "A bicycle beside the lakeside planting and path in Burnham Park, with the water and boats behind it.",
+    "checkedOn": "2026-11-24",
+    "review": "public-post",
+    "evidenceUrls": [
+      "https://www.instagram.com/p/COinxsPNm9y/",
+      "https://visita.baguio.gov.ph/park-tickets"
+    ],
+    "limitation": "The original public widget, visible photograph, caption and Burnham Park location tag were reviewed together. This is a historical view. Standalone photo permission is undocumented.",
+    "presentation": "manual-embed",
+    "embedCheck": {
+      "status": "confirmed",
+      "checkedOn": "2026-11-24",
+      "note": "The official captioned embed rendered the original photograph, location, account and controls."
+    }
+  },
+  {
+    "placeId": "baguio-easter-weaving-room",
+    "url": "https://www.instagram.com/p/Br-VEbjlLOR/",
+    "account": "jennilizolarte",
+    "accountName": "Jenni O.",
+    "relevance": "A close view of woven UP Sablay fabric on a loom at Easter Weaving Room in Baguio City.",
+    "checkedOn": "2026-11-24",
+    "review": "public-post",
+    "evidenceUrls": [
+      "https://www.instagram.com/p/Br-VEbjlLOR/",
+      "https://main.baguio.gov.ph/api/infoboard/tourist-spots/easter-weaving-room-inc"
+    ],
+    "limitation": "The official public widget and initial photograph were visually reviewed with place evidence. This historical view does not establish current access. Standalone reuse permission is undocumented.",
+    "presentation": "manual-embed",
+    "embedCheck": {
+      "status": "confirmed",
+      "checkedOn": "2026-11-24",
+      "note": "Official captioned widget showed the photograph, source account, place tag and Instagram controls."
+    }
+  },
+  {
+    "placeId": "siargao-tayangban-cave-pool",
+    "url": "https://www.instagram.com/p/BIPl-oJj_4w/",
+    "account": "iameleimath",
+    "accountName": "iameleimath",
+    "relevance": "A view into Tayangban Cave Pool in Pilar, with blue water beneath the rock walls and hanging greenery.",
+    "checkedOn": "2026-11-24",
+    "review": "public-post",
+    "evidenceUrls": [
+      "https://www.instagram.com/p/BIPl-oJj_4w/",
+      "https://www.philippinesretreats.com/things-to-do-in-siargao-for-non-surfers/"
+    ],
+    "limitation": "The official public widget and initial photograph were visually reviewed with place evidence. This historical view does not establish current access. Standalone reuse permission is undocumented.",
+    "presentation": "manual-embed",
+    "embedCheck": {
+      "status": "confirmed",
+      "checkedOn": "2026-11-24",
+      "note": "Official captioned widget showed the photograph, source account, place tag and Instagram controls."
+    }
   }
 ]

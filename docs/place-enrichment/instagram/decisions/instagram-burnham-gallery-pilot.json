@@ -1,0 +1,55 @@
+{
+  "mode": "instagram-only",
+  "batchId": "instagram-burnham-gallery-pilot",
+  "checkedOn": "2026-11-24",
+  "entries": [
+    {
+      "placeId": "baguio-burnham-park",
+      "decision": "approved",
+      "identityReviewed": true,
+      "posts": [
+        {
+          "url": "https://www.instagram.com/p/BhqTgIHnnXQ/",
+          "account": "rhenvisuals",
+          "accountName": "Rhen Varias",
+          "relevance": "An aerial photograph of Burnham Lake and its boats, with the park’s tree-lined banks and Baguio skyline.",
+          "evidenceUrls": [
+            "https://www.instagram.com/p/BhqTgIHnnXQ/",
+            "https://www.philippinebeaches.org/10-tourist-spots-for-your-baguio-itinerary/",
+            "https://visita.baguio.gov.ph/park-tickets"
+          ],
+          "placeId": "baguio-burnham-park",
+          "checkedOn": "2026-11-24",
+          "review": "public-post",
+          "limitation": "The original public widget, visible photograph, caption and Burnham Park location tag were reviewed together. This is a historical view. Standalone photo permission is undocumented.",
+          "presentation": "manual-embed",
+          "embedCheck": {
+            "status": "confirmed",
+            "checkedOn": "2026-11-24",
+            "note": "The official captioned embed rendered the original photograph, location, account and controls."
+          }
+        },
+        {
+          "url": "https://www.instagram.com/p/COinxsPNm9y/",
+          "account": "jborje",
+          "accountName": "jborje",
+          "relevance": "A bicycle beside the lakeside planting and path in Burnham Park, with the water and boats behind it.",
+          "evidenceUrls": [
+            "https://www.instagram.com/p/COinxsPNm9y/",
+            "https://visita.baguio.gov.ph/park-tickets"
+          ],
+          "placeId": "baguio-burnham-park",
+          "checkedOn": "2026-11-24",
+          "review": "public-post",
+          "limitation": "The original public widget, visible photograph, caption and Burnham Park location tag were reviewed together. This is a historical view. Standalone photo permission is undocumented.",
+          "presentation": "manual-embed",
+          "embedCheck": {
+            "status": "confirmed",
+            "checkedOn": "2026-11-24",
+            "note": "The official captioned embed rendered the original photograph, location, account and controls."
+          }
+        }
+      ]
+    }
+  ]
+}

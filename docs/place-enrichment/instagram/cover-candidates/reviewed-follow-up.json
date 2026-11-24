@@ -1,0 +1,28 @@
+{
+  "checkedOn": "2026-11-24",
+  "scope": "Visual review of original public posts through official Instagram widgets and corroborating place-specific public sources.",
+  "approvedDecisionFiles": [
+    "../decisions/instagram-burnham-gallery-pilot.json",
+    "../decisions/instagram-gallery-cover-gap-follow-up.json"
+  ],
+  "rejected": [
+    {
+      "placeId": "baguio-burnham-park",
+      "url": "https://www.instagram.com/p/Cmg7Q22SYGV/",
+      "account": "fotourista",
+      "reason": "The widget did not render the photograph and the visible general Baguio tag did not identify a distinct Burnham Park view."
+    },
+    {
+      "placeId": "iloilo-garin-farm",
+      "url": "https://www.instagram.com/p/BwHAtjNB3e6/",
+      "account": "dreiautomatic",
+      "reason": "The exact location tag points at Garin Farm, but the portrait background is too indistinct to establish the landmark."
+    },
+    {
+      "placeId": "siargao-tayangban-cave-pool",
+      "url": "https://www.instagram.com/p/BwTSdDxHpPr/",
+      "account": "cosmic_kook",
+      "reason": "The original official widget showed the post unavailable, leaving the visual identity unverified."
+    }
+  ]
+}

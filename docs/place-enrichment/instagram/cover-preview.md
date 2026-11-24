@@ -1,4 +1,6 @@
-# Instagram detail-cover preview
+# Instagram detail-cover preview (historical)
+
+The November 24, 2026 [photo gallery](README.md) superseded this cover layout. This document records the previous release.
 
 The existing licensed cover photograph remains preferred. When it is absent, a detail page may use its first reviewed, public-post, manual-embed resource as an opt-in cover preview. Link-only/unavailable or unreviewed resources are ineligible. Without either resource, the existing compass artwork remains. A temporary failure to download an approved cover does not reclassify the image or replace it with Instagram.
 

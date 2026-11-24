@@ -2,7 +2,7 @@
 
 **Latest photo follow-up:** [cover research, results and exact blockers](cover-completion/README.md) reviewed the current 212 gaps in nine saved batches and added two licensed, visually reviewed photos. Current coverage is **216/426**, with **210 unresolved gaps**. [The remaining-photo checklist](cover-completion/remaining-photos.csv) covers the full catalog; the older 148-place pass below is historical. All approved text, photos, videos and Instagram posts are preserved.
 
-**Detail-cover behavior:** [Instagram cover preview](instagram/cover-preview.md) now reuses the original post widget when no approved cover photo exists. Nine existing places qualify. The preview is opt-in, keeps all official controls and the original link, and does not change photo-gap counts.
+**Instagram galleries:** [Photo research and gallery handoff](instagram/README.md) records the cover-gap searches and reviewed posts. The original post gallery sits below the cover, with opt-in embeds and independent photo coverage.
 
 **Latest Instagram pass:** [implementation and research handoff](instagram/README.md), [destination/category coverage](instagram/coverage.md). There are 37 reviewed posts for 36 of 426 locations; 9 places with missing covers now have an Instagram resource. All 37 official widgets rendered at their recorded checks, with initial images/posters visually reviewed. The catalog-source audit covers all 426 places; exact-post discovery remains open for 390 without an approved resource. Instagram does not close any of the 212 licensed-photo gaps. Historical research totals below remain separate.
 

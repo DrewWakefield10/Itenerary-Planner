@@ -1,0 +1,31 @@
+{
+  "batchId": "instagram-burnham-gallery-pilot",
+  "checkedOn": "2026-11-24",
+  "places": 1,
+  "posts": 2,
+  "outcomes": [
+    {
+      "placeId": "baguio-burnham-park",
+      "posts": [
+        {
+          "url": "https://www.instagram.com/p/BhqTgIHnnXQ/",
+          "presentation": "manual-embed",
+          "embedCheck": {
+            "status": "confirmed",
+            "checkedOn": "2026-11-24",
+            "note": "The official captioned embed rendered the original photograph, location, account and controls."
+          }
+        },
+        {
+          "url": "https://www.instagram.com/p/COinxsPNm9y/",
+          "presentation": "manual-embed",
+          "embedCheck": {
+            "status": "confirmed",
+            "checkedOn": "2026-11-24",
+            "note": "The official captioned embed rendered the original photograph, location, account and controls."
+          }
+        }
+      ]
+    }
+  ]
+}

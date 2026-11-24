@@ -1,0 +1,205 @@
+{
+  "date": "2026-11-24",
+  "scope": "One public search query per cover gap. Name and municipality are search context. Post and location-tag links are unverified leads until visually reviewed.",
+  "entries": [
+    {
+      "id": "sagada-banas-cafe",
+      "name": "Bana’s Coffee",
+      "city_municipality": "Sagada",
+      "destination_group": "Sagada",
+      "display_category": "Food & drink",
+      "query": "\"Bana’s Coffee\" \"Sagada\" Instagram public post location",
+      "leads": [],
+      "searchStatus": "completed",
+      "reviewedPosts": [],
+      "remaining": "An exact-place public post or a rights-cleared cover is still needed. Search results did not yield an eligible photograph."
+    },
+    {
+      "id": "davao-purge-tulip",
+      "name": "Purge Coffee Roaster — Tulip Drive",
+      "city_municipality": "Davao City",
+      "destination_group": "Davao",
+      "display_category": "Food & drink",
+      "query": "\"Purge Coffee Roaster — Tulip Drive\" \"Davao City\" Instagram public post location",
+      "leads": [],
+      "searchStatus": "completed",
+      "reviewedPosts": [],
+      "remaining": "An exact-place public post or a rights-cleared cover is still needed. Search results did not yield an eligible photograph."
+    },
+    {
+      "id": "davao-fourth-street-narra",
+      "name": "Fourth Street Cafe — Narra",
+      "city_municipality": "Davao City",
+      "destination_group": "Davao",
+      "display_category": "Food & drink",
+      "query": "\"Fourth Street Cafe — Narra\" \"Davao City\" Instagram public post location",
+      "leads": [],
+      "searchStatus": "completed",
+      "reviewedPosts": [],
+      "remaining": "An exact-place public post or a rights-cleared cover is still needed. Search results did not yield an eligible photograph."
+    },
+    {
+      "id": "davao-glasshouse-oboza",
+      "name": "Glasshouse Coffee — Oboza Heritage House",
+      "city_municipality": "Davao City",
+      "destination_group": "Davao",
+      "display_category": "Food & drink",
+      "query": "\"Glasshouse Coffee — Oboza Heritage House\" \"Davao City\" Instagram public post location",
+      "leads": [],
+      "searchStatus": "completed",
+      "reviewedPosts": [
+        {
+          "url": "https://www.instagram.com/p/BsdGWygAtz9/",
+          "account": "glasshousecoffeeph",
+          "relevance": "The café account shares a flat white beside reading material. The linked interview places this historical post at Glasshouse in the Oboza heritage-house compound in Davao, rather than another branch.",
+          "checkedOn": "2026-10-22",
+          "evidenceUrls": [
+            "https://www.instagram.com/p/BsdGWygAtz9/",
+            "https://clavelmagazine.com/2020/02/05/glasshouse-is-the-davao-cafe-built-on-restrictions/"
+          ],
+          "permissionStatus": "not-documented",
+          "review": "verified-public-post"
+        }
+      ],
+      "remaining": "Standalone photo permission or a reusable license and an approved image file are needed."
+    },
+    {
+      "id": "davao-paramount-star-hotel",
+      "name": "Paramount Coffee — Star Hotel",
+      "city_municipality": "Davao City",
+      "destination_group": "Davao",
+      "display_category": "Food & drink",
+      "query": "\"Paramount Coffee — Star Hotel\" \"Davao City\" Instagram public post location",
+      "leads": [],
+      "searchStatus": "completed",
+      "reviewedPosts": [],
+      "remaining": "An exact-place public post or a rights-cleared cover is still needed. Search results did not yield an eligible photograph."
+    },
+    {
+      "id": "davao-kapewenoz-v-mapa",
+      "name": "Kapeweñoz — V. Mapa",
+      "city_municipality": "Davao City",
+      "destination_group": "Davao",
+      "display_category": "Food & drink",
+      "query": "\"Kapeweñoz — V. Mapa\" \"Davao City\" Instagram public post location",
+      "leads": [],
+      "searchStatus": "completed",
+      "reviewedPosts": [],
+      "remaining": "An exact-place public post or a rights-cleared cover is still needed. Search results did not yield an eligible photograph."
+    },
+    {
+      "id": "davao-lamano-tulip",
+      "name": "Lamano Cocina & Bar",
+      "city_municipality": "Davao City",
+      "destination_group": "Davao",
+      "display_category": "Food & drink",
+      "query": "\"Lamano Cocina & Bar\" \"Davao City\" Instagram public post location",
+      "leads": [],
+      "searchStatus": "completed",
+      "reviewedPosts": [],
+      "remaining": "An exact-place public post or a rights-cleared cover is still needed. Search results did not yield an eligible photograph."
+    },
+    {
+      "id": "davao-capris-bajada",
+      "name": "Capri’s Restaurant and Deli",
+      "city_municipality": "Davao City",
+      "destination_group": "Davao",
+      "display_category": "Food & drink",
+      "query": "\"Capri’s Restaurant and Deli\" \"Davao City\" Instagram public post location",
+      "leads": [],
+      "searchStatus": "completed",
+      "reviewedPosts": [],
+      "remaining": "An exact-place public post or a rights-cleared cover is still needed. Search results did not yield an eligible photograph."
+    },
+    {
+      "id": "davao-lachis-marfori",
+      "name": "Lachi’s Sans Rival Atbp. — Marfori",
+      "city_municipality": "Davao City",
+      "destination_group": "Davao",
+      "display_category": "Food & drink",
+      "query": "\"Lachi’s Sans Rival Atbp. — Marfori\" \"Davao City\" Instagram public post location",
+      "leads": [],
+      "searchStatus": "completed",
+      "reviewedPosts": [],
+      "remaining": "An exact-place public post or a rights-cleared cover is still needed. Search results did not yield an eligible photograph."
+    },
+    {
+      "id": "iloilo-neighbor-atria",
+      "name": "Neighbor Coffee — Shops at Atria",
+      "city_municipality": "Iloilo City",
+      "destination_group": "Iloilo",
+      "display_category": "Food & drink",
+      "query": "\"Neighbor Coffee — Shops at Atria\" \"Iloilo City\" Instagram public post location",
+      "leads": [],
+      "searchStatus": "completed",
+      "reviewedPosts": [],
+      "remaining": "An exact-place public post or a rights-cleared cover is still needed. Search results did not yield an eligible photograph."
+    },
+    {
+      "id": "iloilo-bluejay-sm-city",
+      "name": "Bluejay Coffee & Company — SM City Iloilo",
+      "city_municipality": "Iloilo City",
+      "destination_group": "Iloilo",
+      "display_category": "Food & drink",
+      "query": "\"Bluejay Coffee & Company — SM City Iloilo\" \"Iloilo City\" Instagram public post location",
+      "leads": [],
+      "searchStatus": "completed",
+      "reviewedPosts": [],
+      "remaining": "An exact-place public post or a rights-cleared cover is still needed. Search results did not yield an eligible photograph."
+    },
+    {
+      "id": "iloilo-monkey-grounds",
+      "name": "Monkey Grounds Coffee — Benigno Aquino Avenue",
+      "city_municipality": "Iloilo City",
+      "destination_group": "Iloilo",
+      "display_category": "Food & drink",
+      "query": "\"Monkey Grounds Coffee — Benigno Aquino Avenue\" \"Iloilo City\" Instagram public post location",
+      "leads": [],
+      "searchStatus": "completed",
+      "reviewedPosts": [],
+      "remaining": "An exact-place public post or a rights-cleared cover is still needed. Search results did not yield an eligible photograph."
+    },
+    {
+      "id": "iloilo-loco-smallville",
+      "name": "LoCo Local Coffee — Smallville",
+      "city_municipality": "Iloilo City",
+      "destination_group": "Iloilo",
+      "display_category": "Food & drink",
+      "query": "\"LoCo Local Coffee — Smallville\" \"Iloilo City\" Instagram public post location",
+      "leads": [],
+      "searchStatus": "completed",
+      "reviewedPosts": [],
+      "remaining": "An exact-place public post or a rights-cleared cover is still needed. Search results did not yield an eligible photograph."
+    },
+    {
+      "id": "iloilo-netongs-la-paz",
+      "name": "Netong’s Original Special La Paz Batchoy — La Paz Market",
+      "city_municipality": "Iloilo City",
+      "destination_group": "Iloilo",
+      "display_category": "Food & drink",
+      "query": "\"Netong’s Original Special La Paz Batchoy — La Paz Market\" \"Iloilo City\" Instagram public post location",
+      "leads": [],
+      "searchStatus": "completed",
+      "reviewedPosts": [],
+      "remaining": "An exact-place public post or a rights-cleared cover is still needed. Search results did not yield an eligible photograph."
+    },
+    {
+      "id": "iloilo-carlos-dungon",
+      "name": "Carlo’s Bakery & Cafe — Dungon",
+      "city_municipality": "Iloilo City",
+      "destination_group": "Iloilo",
+      "display_category": "Food & drink",
+      "query": "\"Carlo’s Bakery & Cafe — Dungon\" \"Iloilo City\" Instagram public post location",
+      "leads": [],
+      "searchStatus": "completed",
+      "reviewedPosts": [],
+      "remaining": "An exact-place public post or a rights-cleared cover is still needed. Search results did not yield an eligible photograph."
+    }
+  ],
+  "totals": {
+    "searched": 15,
+    "reviewedPostsAvailable": 1,
+    "remainingWithoutReviewedPost": 14,
+    "approvedCoversAdded": 0
+  }
+}

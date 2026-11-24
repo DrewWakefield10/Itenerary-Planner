@@ -1,0 +1,36 @@
+{
+  "batchId": "instagram-gallery-cover-gap-follow-up",
+  "checkedOn": "2026-11-24",
+  "places": 2,
+  "posts": 2,
+  "outcomes": [
+    {
+      "placeId": "baguio-easter-weaving-room",
+      "posts": [
+        {
+          "url": "https://www.instagram.com/p/Br-VEbjlLOR/",
+          "presentation": "manual-embed",
+          "embedCheck": {
+            "status": "confirmed",
+            "checkedOn": "2026-11-24",
+            "note": "Official captioned widget showed the photograph, source account, place tag and Instagram controls."
+          }
+        }
+      ]
+    },
+    {
+      "placeId": "siargao-tayangban-cave-pool",
+      "posts": [
+        {
+          "url": "https://www.instagram.com/p/BIPl-oJj_4w/",
+          "presentation": "manual-embed",
+          "embedCheck": {
+            "status": "confirmed",
+            "checkedOn": "2026-11-24",
+            "note": "Official captioned widget showed the photograph, source account, place tag and Instagram controls."
+          }
+        }
+      ]
+    }
+  ]
+}

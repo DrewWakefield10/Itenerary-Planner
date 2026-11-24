@@ -1,0 +1,254 @@
+{
+  "date": "2026-11-24",
+  "scope": "One public search query per cover gap. Name and municipality are search context. Post and location-tag links are unverified leads until visually reviewed.",
+  "entries": [
+    {
+      "id": "el-nido-secret-lagoon",
+      "name": "Secret Lagoon",
+      "city_municipality": "El Nido",
+      "destination_group": "Palawan",
+      "display_category": "Nature",
+      "query": "\"Secret Lagoon\" \"El Nido\" Instagram public post location",
+      "leads": [],
+      "searchStatus": "completed",
+      "reviewedPosts": [],
+      "remaining": "An exact-place public post or a rights-cleared cover is still needed. Search results did not yield an eligible photograph."
+    },
+    {
+      "id": "el-nido-cudugnon-cave",
+      "name": "Cudugnon Cave",
+      "city_municipality": "El Nido",
+      "destination_group": "Palawan",
+      "display_category": "Culture",
+      "query": "\"Cudugnon Cave\" \"El Nido\" Instagram public post location",
+      "leads": [],
+      "searchStatus": "completed",
+      "reviewedPosts": [],
+      "remaining": "An exact-place public post or a rights-cleared cover is still needed. Search results did not yield an eligible photograph."
+    },
+    {
+      "id": "puerto-princesa-mendoza-park",
+      "name": "Mendoza Park",
+      "city_municipality": "Puerto Princesa City",
+      "destination_group": "Palawan",
+      "display_category": "Parks & markets",
+      "query": "\"Mendoza Park\" \"Puerto Princesa City\" Instagram public post location",
+      "leads": [],
+      "searchStatus": "completed",
+      "reviewedPosts": [],
+      "remaining": "An exact-place public post or a rights-cleared cover is still needed. Search results did not yield an eligible photograph."
+    },
+    {
+      "id": "puerto-princesa-princess-eulalia-park",
+      "name": "Princess Eulalia Park",
+      "city_municipality": "Puerto Princesa City",
+      "destination_group": "Palawan",
+      "display_category": "Parks & markets",
+      "query": "\"Princess Eulalia Park\" \"Puerto Princesa City\" Instagram public post location",
+      "leads": [],
+      "searchStatus": "completed",
+      "reviewedPosts": [],
+      "remaining": "An exact-place public post or a rights-cleared cover is still needed. Search results did not yield an eligible photograph."
+    },
+    {
+      "id": "puerto-princesa-world-war-ii-memorial-museum",
+      "name": "World War II Memorial Museum",
+      "city_municipality": "Puerto Princesa City",
+      "destination_group": "Palawan",
+      "display_category": "Culture",
+      "query": "\"World War II Memorial Museum\" \"Puerto Princesa City\" Instagram public post location",
+      "leads": [],
+      "searchStatus": "completed",
+      "reviewedPosts": [],
+      "remaining": "An exact-place public post or a rights-cleared cover is still needed. Search results did not yield an eligible photograph."
+    },
+    {
+      "id": "puerto-princesa-butterfly-ecological-garden",
+      "name": "Palawan Butterfly Ecological Garden",
+      "city_municipality": "Puerto Princesa City",
+      "destination_group": "Palawan",
+      "display_category": "Nature",
+      "query": "\"Palawan Butterfly Ecological Garden\" \"Puerto Princesa City\" Instagram public post location",
+      "leads": [],
+      "searchStatus": "completed",
+      "reviewedPosts": [],
+      "remaining": "An exact-place public post or a rights-cleared cover is still needed. Search results did not yield an eligible photograph."
+    },
+    {
+      "id": "coron-saint-augustine-parish",
+      "name": "Saint Augustine Parish Church",
+      "city_municipality": "Coron",
+      "destination_group": "Palawan",
+      "display_category": "Culture",
+      "query": "\"Saint Augustine Parish Church\" \"Coron\" Instagram public post location",
+      "leads": [],
+      "searchStatus": "completed",
+      "reviewedPosts": [],
+      "remaining": "An exact-place public post or a rights-cleared cover is still needed. Search results did not yield an eligible photograph."
+    },
+    {
+      "id": "siargao-catangnan-bridge",
+      "name": "Catangnan–Cabitoonan Bridge",
+      "city_municipality": "General Luna",
+      "destination_group": "Siargao",
+      "display_category": "Attractions",
+      "query": "\"Catangnan–Cabitoonan Bridge\" \"General Luna\" Instagram public post location",
+      "leads": [],
+      "searchStatus": "completed",
+      "reviewedPosts": [],
+      "remaining": "An exact-place public post or a rights-cleared cover is still needed. Search results did not yield an eligible photograph."
+    },
+    {
+      "id": "siargao-tayangban-cave-pool",
+      "name": "Tayangban Cave Pool",
+      "city_municipality": "Pilar",
+      "destination_group": "Siargao",
+      "display_category": "Attractions",
+      "query": "\"Tayangban Cave Pool\" \"Pilar\" Instagram public post location",
+      "leads": [],
+      "searchStatus": "completed",
+      "reviewedPosts": [
+        {
+          "url": "https://www.instagram.com/p/BIPl-oJj_4w/",
+          "account": "iameleimath",
+          "relevance": "A view into Tayangban Cave Pool in Pilar, with blue water beneath the rock walls and hanging greenery.",
+          "checkedOn": "2026-11-24",
+          "evidenceUrls": [
+            "https://www.instagram.com/p/BIPl-oJj_4w/",
+            "https://www.philippinesretreats.com/things-to-do-in-siargao-for-non-surfers/"
+          ],
+          "permissionStatus": "not-documented",
+          "review": "verified-public-post"
+        }
+      ],
+      "remaining": "Standalone photo permission or a reusable license and an approved image file are needed."
+    },
+    {
+      "id": "siargao-maasin-river",
+      "name": "Maasin River",
+      "city_municipality": "Pilar",
+      "destination_group": "Siargao",
+      "display_category": "Nature",
+      "query": "\"Maasin River\" \"Pilar\" Instagram public post location",
+      "leads": [],
+      "searchStatus": "completed",
+      "reviewedPosts": [],
+      "remaining": "An exact-place public post or a rights-cleared cover is still needed. Search results did not yield an eligible photograph."
+    },
+    {
+      "id": "siargao-pacifico-beach",
+      "name": "Pacifico Beach",
+      "city_municipality": "San Isidro",
+      "destination_group": "Siargao",
+      "display_category": "Nature",
+      "query": "\"Pacifico Beach\" \"San Isidro\" Instagram public post location",
+      "leads": [],
+      "searchStatus": "completed",
+      "reviewedPosts": [],
+      "remaining": "An exact-place public post or a rights-cleared cover is still needed. Search results did not yield an eligible photograph."
+    },
+    {
+      "id": "siargao-alegria-beach",
+      "name": "Alegria Beach",
+      "city_municipality": "Santa Monica",
+      "destination_group": "Siargao",
+      "display_category": "Nature",
+      "query": "\"Alegria Beach\" \"Santa Monica\" Instagram public post location",
+      "leads": [],
+      "searchStatus": "completed",
+      "reviewedPosts": [],
+      "remaining": "An exact-place public post or a rights-cleared cover is still needed. Search results did not yield an eligible photograph."
+    },
+    {
+      "id": "siargao-taktak-falls",
+      "name": "Taktak Falls",
+      "city_municipality": "Santa Monica",
+      "destination_group": "Siargao",
+      "display_category": "Nature",
+      "query": "\"Taktak Falls\" \"Santa Monica\" Instagram public post location",
+      "leads": [],
+      "searchStatus": "completed",
+      "reviewedPosts": [],
+      "remaining": "An exact-place public post or a rights-cleared cover is still needed. Search results did not yield an eligible photograph."
+    },
+    {
+      "id": "siargao-santa-monica-pier",
+      "name": "Santa Monica Pier",
+      "city_municipality": "Santa Monica",
+      "destination_group": "Siargao",
+      "display_category": "Culture",
+      "query": "\"Santa Monica Pier\" \"Santa Monica\" Instagram public post location",
+      "leads": [],
+      "searchStatus": "completed",
+      "reviewedPosts": [],
+      "remaining": "An exact-place public post or a rights-cleared cover is still needed. Search results did not yield an eligible photograph."
+    },
+    {
+      "id": "siargao-del-carmen-mangrove-viewdeck",
+      "name": "Del Carmen Mangrove Viewdeck",
+      "city_municipality": "Del Carmen",
+      "destination_group": "Siargao",
+      "display_category": "Nature",
+      "query": "\"Del Carmen Mangrove Viewdeck\" \"Del Carmen\" Instagram public post location",
+      "leads": [],
+      "searchStatus": "completed",
+      "reviewedPosts": [],
+      "remaining": "An exact-place public post or a rights-cleared cover is still needed. Search results did not yield an eligible photograph."
+    },
+    {
+      "id": "siargao-poneas-lake",
+      "name": "Poneas Lake",
+      "city_municipality": "San Benito",
+      "destination_group": "Siargao",
+      "display_category": "Nature",
+      "query": "\"Poneas Lake\" \"San Benito\" Instagram public post location",
+      "leads": [],
+      "searchStatus": "completed",
+      "reviewedPosts": [],
+      "remaining": "An exact-place public post or a rights-cleared cover is still needed. Search results did not yield an eligible photograph."
+    },
+    {
+      "id": "siargao-sohoton-cove",
+      "name": "Sohoton Cove",
+      "city_municipality": "Socorro",
+      "destination_group": "Siargao",
+      "display_category": "Nature",
+      "query": "\"Sohoton Cove\" \"Socorro\" Instagram public post location",
+      "leads": [],
+      "searchStatus": "completed",
+      "reviewedPosts": [
+        {
+          "url": "https://www.instagram.com/p/CwtGY0mSUbW/",
+          "account": "sohoton_cove",
+          "relevance": "The local tour operator names Sohoton in its completed-trip post. The linked article identifies this cove on Bucas Grande, matching the catalog’s Socorro municipality rather than General Luna.",
+          "checkedOn": "2026-10-22",
+          "evidenceUrls": [
+            "https://www.instagram.com/p/CwtGY0mSUbW/",
+            "https://philnews.ph/2023/11/01/siargao-tourist-spots-awesome-things-and-places-on-the-island/"
+          ],
+          "permissionStatus": "not-documented",
+          "review": "verified-public-post"
+        }
+      ],
+      "remaining": "Standalone photo permission or a reusable license and an approved image file are needed."
+    },
+    {
+      "id": "siargao-paghungawan-marsh",
+      "name": "Paghungawan Marsh",
+      "city_municipality": "Pilar",
+      "destination_group": "Siargao",
+      "display_category": "Nature",
+      "query": "\"Paghungawan Marsh\" \"Pilar\" Instagram public post location",
+      "leads": [],
+      "searchStatus": "completed",
+      "reviewedPosts": [],
+      "remaining": "An exact-place public post or a rights-cleared cover is still needed. Search results did not yield an eligible photograph."
+    }
+  ],
+  "totals": {
+    "searched": 18,
+    "reviewedPostsAvailable": 2,
+    "remainingWithoutReviewedPost": 16,
+    "approvedCoversAdded": 0
+  }
+}

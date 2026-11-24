@@ -1,0 +1,61 @@
+{
+  "mode": "instagram-only",
+  "batchId": "instagram-gallery-cover-gap-follow-up",
+  "checkedOn": "2026-11-24",
+  "entries": [
+    {
+      "placeId": "baguio-easter-weaving-room",
+      "decision": "approved",
+      "identityReviewed": true,
+      "posts": [
+        {
+          "placeId": "baguio-easter-weaving-room",
+          "url": "https://www.instagram.com/p/Br-VEbjlLOR/",
+          "account": "jennilizolarte",
+          "accountName": "Jenni O.",
+          "relevance": "A close view of woven UP Sablay fabric on a loom at Easter Weaving Room in Baguio City.",
+          "evidenceUrls": [
+            "https://www.instagram.com/p/Br-VEbjlLOR/",
+            "https://main.baguio.gov.ph/api/infoboard/tourist-spots/easter-weaving-room-inc"
+          ],
+          "checkedOn": "2026-11-24",
+          "review": "public-post",
+          "limitation": "The official public widget and initial photograph were visually reviewed with place evidence. This historical view does not establish current access. Standalone reuse permission is undocumented.",
+          "presentation": "manual-embed",
+          "embedCheck": {
+            "status": "confirmed",
+            "checkedOn": "2026-11-24",
+            "note": "Official captioned widget showed the photograph, source account, place tag and Instagram controls."
+          }
+        }
+      ]
+    },
+    {
+      "placeId": "siargao-tayangban-cave-pool",
+      "decision": "approved",
+      "identityReviewed": true,
+      "posts": [
+        {
+          "placeId": "siargao-tayangban-cave-pool",
+          "url": "https://www.instagram.com/p/BIPl-oJj_4w/",
+          "account": "iameleimath",
+          "accountName": "iameleimath",
+          "relevance": "A view into Tayangban Cave Pool in Pilar, with blue water beneath the rock walls and hanging greenery.",
+          "evidenceUrls": [
+            "https://www.instagram.com/p/BIPl-oJj_4w/",
+            "https://www.philippinesretreats.com/things-to-do-in-siargao-for-non-surfers/"
+          ],
+          "checkedOn": "2026-11-24",
+          "review": "public-post",
+          "limitation": "The official public widget and initial photograph were visually reviewed with place evidence. This historical view does not establish current access. Standalone reuse permission is undocumented.",
+          "presentation": "manual-embed",
+          "embedCheck": {
+            "status": "confirmed",
+            "checkedOn": "2026-11-24",
+            "note": "Official captioned widget showed the photograph, source account, place tag and Instagram controls."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,237 @@
+{
+  "date": "2026-11-24",
+  "scope": "One public search query per cover gap. Name and municipality are search context. Post and location-tag links are unverified leads until visually reviewed.",
+  "entries": [
+    {
+      "id": "iloilo-breakthrough-villa",
+      "name": "Breakthrough Restaurant - Villa",
+      "city_municipality": "Iloilo City",
+      "destination_group": "Iloilo",
+      "display_category": "Food & drink",
+      "query": "\"Breakthrough Restaurant - Villa\" \"Iloilo City\" Instagram public post location",
+      "leads": [],
+      "searchStatus": "completed",
+      "reviewedPosts": [],
+      "remaining": "An exact-place public post or a rights-cleared cover is still needed. Search results did not yield an eligible photograph."
+    },
+    {
+      "id": "iloilo-dapli-valeria",
+      "name": "Dapli by Breakthrough",
+      "city_municipality": "Iloilo City",
+      "destination_group": "Iloilo",
+      "display_category": "Food & drink",
+      "query": "\"Dapli by Breakthrough\" \"Iloilo City\" Instagram public post location",
+      "leads": [],
+      "searchStatus": "completed",
+      "reviewedPosts": [],
+      "remaining": "An exact-place public post or a rights-cleared cover is still needed. Search results did not yield an eligible photograph."
+    },
+    {
+      "id": "iloilo-ponsyon-plazuela",
+      "name": "Ponsyon by Breakthrough",
+      "city_municipality": "Iloilo City",
+      "destination_group": "Iloilo",
+      "display_category": "Food & drink",
+      "query": "\"Ponsyon by Breakthrough\" \"Iloilo City\" Instagram public post location",
+      "leads": [],
+      "searchStatus": "completed",
+      "reviewedPosts": [],
+      "remaining": "An exact-place public post or a rights-cleared cover is still needed. Search results did not yield an eligible photograph."
+    },
+    {
+      "id": "iloilo-taytay-tigre",
+      "name": "Taytay Tigre",
+      "city_municipality": "Guimbal",
+      "destination_group": "Iloilo",
+      "display_category": "Culture",
+      "query": "\"Taytay Tigre\" \"Guimbal\" Instagram public post location",
+      "leads": [],
+      "searchStatus": "completed",
+      "reviewedPosts": [],
+      "remaining": "An exact-place public post or a rights-cleared cover is still needed. Search results did not yield an eligible photograph."
+    },
+    {
+      "id": "iloilo-garin-farm",
+      "name": "Garin Farm",
+      "city_municipality": "San Joaquin",
+      "destination_group": "Iloilo",
+      "display_category": "Attractions",
+      "query": "\"Garin Farm\" \"San Joaquin\" Instagram public post location",
+      "leads": [
+        {
+          "url": "https://www.instagram.com/p/BwHAtjNB3e6/",
+          "evidence": "The post is tagged Garin Farm, but its portrait and indistinct background do not establish a view of the San Joaquin attraction.",
+          "permissionStatus": "not-documented",
+          "review": "rejected",
+          "account": "dreiautomatic",
+          "checkedOn": "2026-11-24"
+        }
+      ],
+      "searchStatus": "completed",
+      "reviewedPosts": [],
+      "remaining": "An exact-place public post or a rights-cleared cover is still needed. Search results did not yield an eligible photograph."
+    },
+    {
+      "id": "batanes-casa-napoli-town",
+      "name": "Casa Napoli Pizza and Pasta - Basco Town",
+      "city_municipality": "Basco",
+      "destination_group": "Batanes",
+      "display_category": "Food & drink",
+      "query": "\"Casa Napoli Pizza and Pasta - Basco Town\" \"Basco\" Instagram public post location",
+      "leads": [],
+      "searchStatus": "completed",
+      "reviewedPosts": [],
+      "remaining": "An exact-place public post or a rights-cleared cover is still needed. Search results did not yield an eligible photograph."
+    },
+    {
+      "id": "batanes-beehan",
+      "name": "Beehan Food Enterprise",
+      "city_municipality": "Basco",
+      "destination_group": "Batanes",
+      "display_category": "Food & drink",
+      "query": "\"Beehan Food Enterprise\" \"Basco\" Instagram public post location",
+      "leads": [],
+      "searchStatus": "completed",
+      "reviewedPosts": [],
+      "remaining": "An exact-place public post or a rights-cleared cover is still needed. Search results did not yield an eligible photograph."
+    },
+    {
+      "id": "batanes-harbour-cafe",
+      "name": "Harbour Cafe",
+      "city_municipality": "Basco",
+      "destination_group": "Batanes",
+      "display_category": "Food & drink",
+      "query": "\"Harbour Cafe\" \"Basco\" Instagram public post location",
+      "leads": [],
+      "searchStatus": "completed",
+      "reviewedPosts": [],
+      "remaining": "An exact-place public post or a rights-cleared cover is still needed. Search results did not yield an eligible photograph."
+    },
+    {
+      "id": "batanes-vunong-dinette",
+      "name": "Vunong Dinette",
+      "city_municipality": "Basco",
+      "destination_group": "Batanes",
+      "display_category": "Food & drink",
+      "query": "\"Vunong Dinette\" \"Basco\" Instagram public post location",
+      "leads": [],
+      "searchStatus": "completed",
+      "reviewedPosts": [],
+      "remaining": "An exact-place public post or a rights-cleared cover is still needed. Search results did not yield an eligible photograph."
+    },
+    {
+      "id": "batanes-honesty-coffee-shop",
+      "name": "Honesty Coffee Shop",
+      "city_municipality": "Ivana",
+      "destination_group": "Batanes",
+      "display_category": "Food & drink",
+      "query": "\"Honesty Coffee Shop\" \"Ivana\" Instagram public post location",
+      "leads": [],
+      "searchStatus": "completed",
+      "reviewedPosts": [],
+      "remaining": "An exact-place public post or a rights-cleared cover is still needed. Search results did not yield an eligible photograph."
+    },
+    {
+      "id": "batanes-rakuh-idi-spring",
+      "name": "Rakuh-a-Idi Spring",
+      "city_municipality": "Mahatao",
+      "destination_group": "Batanes",
+      "display_category": "Nature",
+      "query": "\"Rakuh-a-Idi Spring\" \"Mahatao\" Instagram public post location",
+      "leads": [],
+      "searchStatus": "completed",
+      "reviewedPosts": [],
+      "remaining": "An exact-place public post or a rights-cleared cover is still needed. Search results did not yield an eligible photograph."
+    },
+    {
+      "id": "batanes-chawa-viewdeck",
+      "name": "Chawa View Deck",
+      "city_municipality": "Mahatao",
+      "destination_group": "Batanes",
+      "display_category": "Nature",
+      "query": "\"Chawa View Deck\" \"Mahatao\" Instagram public post location",
+      "leads": [],
+      "searchStatus": "completed",
+      "reviewedPosts": [],
+      "remaining": "An exact-place public post or a rights-cleared cover is still needed. Search results did not yield an eligible photograph."
+    },
+    {
+      "id": "batanes-national-museum",
+      "name": "National Museum of the Philippines - Batanes",
+      "city_municipality": "Uyugan",
+      "destination_group": "Batanes",
+      "display_category": "Culture",
+      "query": "\"National Museum of the Philippines - Batanes\" \"Uyugan\" Instagram public post location",
+      "leads": [],
+      "searchStatus": "completed",
+      "reviewedPosts": [],
+      "remaining": "An exact-place public post or a rights-cleared cover is still needed. Search results did not yield an eligible photograph."
+    },
+    {
+      "id": "el-nido-grounded-town",
+      "name": "Grounded — El Nido Town",
+      "city_municipality": "El Nido",
+      "destination_group": "Palawan",
+      "display_category": "Food & drink",
+      "query": "\"Grounded — El Nido Town\" \"El Nido\" Instagram public post location",
+      "leads": [],
+      "searchStatus": "completed",
+      "reviewedPosts": [],
+      "remaining": "An exact-place public post or a rights-cleared cover is still needed. Search results did not yield an eligible photograph."
+    },
+    {
+      "id": "el-nido-janu-coffee-tea",
+      "name": "Janu Coffee & Tea",
+      "city_municipality": "El Nido",
+      "destination_group": "Palawan",
+      "display_category": "Food & drink",
+      "query": "\"Janu Coffee & Tea\" \"El Nido\" Instagram public post location",
+      "leads": [],
+      "searchStatus": "completed",
+      "reviewedPosts": [],
+      "remaining": "An exact-place public post or a rights-cleared cover is still needed. Search results did not yield an eligible photograph."
+    },
+    {
+      "id": "puerto-princesa-itoys-coffee-haus",
+      "name": "Itoy’s Coffee Haus",
+      "city_municipality": "Puerto Princesa City",
+      "destination_group": "Palawan",
+      "display_category": "Food & drink",
+      "query": "\"Itoy’s Coffee Haus\" \"Puerto Princesa City\" Instagram public post location",
+      "leads": [],
+      "searchStatus": "completed",
+      "reviewedPosts": [],
+      "remaining": "An exact-place public post or a rights-cleared cover is still needed. Search results did not yield an eligible photograph."
+    },
+    {
+      "id": "puerto-princesa-koffee-kat",
+      "name": "Koffee Kat Cafe",
+      "city_municipality": "Puerto Princesa City",
+      "destination_group": "Palawan",
+      "display_category": "Food & drink",
+      "query": "\"Koffee Kat Cafe\" \"Puerto Princesa City\" Instagram public post location",
+      "leads": [],
+      "searchStatus": "completed",
+      "reviewedPosts": [],
+      "remaining": "An exact-place public post or a rights-cleared cover is still needed. Search results did not yield an eligible photograph."
+    },
+    {
+      "id": "puerto-princesa-ka-inato-main",
+      "name": "Ka Inato — Tiniguiban",
+      "city_municipality": "Puerto Princesa City",
+      "destination_group": "Palawan",
+      "display_category": "Food & drink",
+      "query": "\"Ka Inato — Tiniguiban\" \"Puerto Princesa City\" Instagram public post location",
+      "leads": [],
+      "searchStatus": "completed",
+      "reviewedPosts": [],
+      "remaining": "An exact-place public post or a rights-cleared cover is still needed. Search results did not yield an eligible photograph."
+    }
+  ],
+  "totals": {
+    "searched": 18,
+    "reviewedPostsAvailable": 0,
+    "remainingWithoutReviewedPost": 18,
+    "approvedCoversAdded": 0
+  }
+}

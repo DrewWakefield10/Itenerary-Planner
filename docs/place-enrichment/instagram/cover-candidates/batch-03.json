@@ -1,0 +1,267 @@
+{
+  "date": "2026-11-24",
+  "scope": "One public search query per cover gap. Name and municipality are search context. Post and location-tag links are unverified leads until visually reviewed.",
+  "entries": [
+    {
+      "id": "boracay-balabag-wetland-park",
+      "name": "Balabag Wetland Park",
+      "city_municipality": "Malay",
+      "destination_group": "Boracay",
+      "display_category": "Parks & markets",
+      "query": "\"Balabag Wetland Park\" \"Malay\" Instagram public post location",
+      "leads": [],
+      "searchStatus": "completed",
+      "reviewedPosts": [],
+      "remaining": "An exact-place public post or a rights-cleared cover is still needed. Search results did not yield an eligible photograph."
+    },
+    {
+      "id": "boracay-dtalipapa-market",
+      "name": "D’Talipapa market",
+      "city_municipality": "Malay",
+      "destination_group": "Boracay",
+      "display_category": "Food & drink",
+      "query": "\"D’Talipapa market\" \"Malay\" Instagram public post location",
+      "leads": [],
+      "searchStatus": "completed",
+      "reviewedPosts": [],
+      "remaining": "An exact-place public post or a rights-cleared cover is still needed. Search results did not yield an eligible photograph."
+    },
+    {
+      "id": "boracay-nonies-ondus",
+      "name": "Nonie’s — Ondus Hotel",
+      "city_municipality": "Malay",
+      "destination_group": "Boracay",
+      "display_category": "Food & drink",
+      "query": "\"Nonie’s — Ondus Hotel\" \"Malay\" Instagram public post location",
+      "leads": [],
+      "searchStatus": "completed",
+      "reviewedPosts": [],
+      "remaining": "An exact-place public post or a rights-cleared cover is still needed. Search results did not yield an eligible photograph."
+    },
+    {
+      "id": "boracay-giuseppe-station-three",
+      "name": "Giuseppe Pizzeria & Sicilian Roast — Boracay",
+      "city_municipality": "Malay",
+      "destination_group": "Boracay",
+      "display_category": "Food & drink",
+      "query": "\"Giuseppe Pizzeria & Sicilian Roast — Boracay\" \"Malay\" Instagram public post location",
+      "leads": [],
+      "searchStatus": "completed",
+      "reviewedPosts": [],
+      "remaining": "An exact-place public post or a rights-cleared cover is still needed. Search results did not yield an eligible photograph."
+    },
+    {
+      "id": "boracay-little-taj",
+      "name": "Little Taj",
+      "city_municipality": "Malay",
+      "destination_group": "Boracay",
+      "display_category": "Food & drink",
+      "query": "\"Little Taj\" \"Malay\" Instagram public post location",
+      "leads": [],
+      "searchStatus": "completed",
+      "reviewedPosts": [
+        {
+          "url": "https://www.instagram.com/p/Cit_EdLuzL9/",
+          "account": "littletajboracay",
+          "relevance": "Little Taj’s account shares a stuffed-paratha post. The linked Boracay restaurant report identifies this venue; its historical hours and old address are not used as current practical guidance.",
+          "checkedOn": "2026-10-22",
+          "evidenceUrls": [
+            "https://www.instagram.com/p/Cit_EdLuzL9/",
+            "https://www.philstarlife.com/living/740359-newly-opened-boracay-cafes-and-restaurants"
+          ],
+          "permissionStatus": "not-documented",
+          "review": "verified-public-post"
+        }
+      ],
+      "remaining": "Standalone photo permission or a reusable license and an approved image file are needed."
+    },
+    {
+      "id": "boracay-station-x",
+      "name": "Station X",
+      "city_municipality": "Malay",
+      "destination_group": "Boracay",
+      "display_category": "Parks & markets",
+      "query": "\"Station X\" \"Malay\" Instagram public post location",
+      "leads": [],
+      "searchStatus": "completed",
+      "reviewedPosts": [],
+      "remaining": "An exact-place public post or a rights-cleared cover is still needed. Search results did not yield an eligible photograph."
+    },
+    {
+      "id": "iloilo-baking-studio-theos",
+      "name": "Baking Studio by Theo’s — North Grove",
+      "city_municipality": "Iloilo City",
+      "destination_group": "Iloilo",
+      "display_category": "Food & drink",
+      "query": "\"Baking Studio by Theo’s — North Grove\" \"Iloilo City\" Instagram public post location",
+      "leads": [],
+      "searchStatus": "completed",
+      "reviewedPosts": [],
+      "remaining": "An exact-place public post or a rights-cleared cover is still needed. Search results did not yield an eligible photograph."
+    },
+    {
+      "id": "cebu-omagieca-obo-ob-mangrove-garden",
+      "name": "Omagieca Obo-ob Mangrove Garden",
+      "city_municipality": "Bantayan",
+      "destination_group": "Cebu",
+      "display_category": "Nature",
+      "query": "\"Omagieca Obo-ob Mangrove Garden\" \"Bantayan\" Instagram public post location",
+      "leads": [],
+      "searchStatus": "completed",
+      "reviewedPosts": [],
+      "remaining": "An exact-place public post or a rights-cleared cover is still needed. Search results did not yield an eligible photograph."
+    },
+    {
+      "id": "baguio-easter-weaving-room",
+      "name": "Easter Weaving Room",
+      "city_municipality": "Baguio City",
+      "destination_group": "Baguio",
+      "display_category": "Culture",
+      "query": "\"Easter Weaving Room\" \"Baguio City\" Instagram public post location",
+      "leads": [],
+      "searchStatus": "completed",
+      "reviewedPosts": [
+        {
+          "url": "https://www.instagram.com/p/Br-VEbjlLOR/",
+          "account": "jennilizolarte",
+          "relevance": "A close view of woven UP Sablay fabric on a loom at Easter Weaving Room in Baguio City.",
+          "checkedOn": "2026-11-24",
+          "evidenceUrls": [
+            "https://www.instagram.com/p/Br-VEbjlLOR/",
+            "https://main.baguio.gov.ph/api/infoboard/tourist-spots/easter-weaving-room-inc"
+          ],
+          "permissionStatus": "not-documented",
+          "review": "verified-public-post"
+        }
+      ],
+      "remaining": "Standalone photo permission or a reusable license and an approved image file are needed."
+    },
+    {
+      "id": "baguio-ili-likha",
+      "name": "Ili-Likha Artists' Wateringhole",
+      "city_municipality": "Baguio City",
+      "destination_group": "Baguio",
+      "display_category": "Culture",
+      "query": "\"Ili-Likha Artists' Wateringhole\" \"Baguio City\" Instagram public post location",
+      "leads": [],
+      "searchStatus": "completed",
+      "reviewedPosts": [
+        {
+          "url": "https://www.instagram.com/p/DRoz8atiZVJ/",
+          "account": "ililikhaartistswateringhole",
+          "relevance": "The venue account describes the mosaic stairs and a shop inside Ili-Likha in Baguio. It offers context for the layered art and retail spaces; the historical pop-up is not confirmed current.",
+          "checkedOn": "2026-10-22",
+          "evidenceUrls": [
+            "https://www.instagram.com/p/DRoz8atiZVJ/",
+            "https://www.wheninmanila.com/10-things-must-do-baguio/"
+          ],
+          "permissionStatus": "not-documented",
+          "review": "verified-public-post"
+        }
+      ],
+      "remaining": "Standalone photo permission or a reusable license and an approved image file are needed."
+    },
+    {
+      "id": "baguio-aguinaldo-museum",
+      "name": "Emilio F. Aguinaldo Museum",
+      "city_municipality": "Baguio City",
+      "destination_group": "Baguio",
+      "display_category": "Culture",
+      "query": "\"Emilio F. Aguinaldo Museum\" \"Baguio City\" Instagram public post location",
+      "leads": [],
+      "searchStatus": "completed",
+      "reviewedPosts": [],
+      "remaining": "An exact-place public post or a rights-cleared cover is still needed. Search results did not yield an eligible photograph."
+    },
+    {
+      "id": "baguio-maryknoll-sanctuary",
+      "name": "Maryknoll Ecological Sanctuary",
+      "city_municipality": "Baguio City",
+      "destination_group": "Baguio",
+      "display_category": "Nature",
+      "query": "\"Maryknoll Ecological Sanctuary\" \"Baguio City\" Instagram public post location",
+      "leads": [],
+      "searchStatus": "completed",
+      "reviewedPosts": [],
+      "remaining": "An exact-place public post or a rights-cleared cover is still needed. Search results did not yield an eligible photograph."
+    },
+    {
+      "id": "sagada-balangagan-cave",
+      "name": "Balangagan Cave",
+      "city_municipality": "Sagada",
+      "destination_group": "Sagada",
+      "display_category": "Nature",
+      "query": "\"Balangagan Cave\" \"Sagada\" Instagram public post location",
+      "leads": [],
+      "searchStatus": "completed",
+      "reviewedPosts": [],
+      "remaining": "An exact-place public post or a rights-cleared cover is still needed. Search results did not yield an eligible photograph."
+    },
+    {
+      "id": "batanes-basco-plaza",
+      "name": "Basco Plaza",
+      "city_municipality": "Basco",
+      "destination_group": "Batanes",
+      "display_category": "Parks & markets",
+      "query": "\"Basco Plaza\" \"Basco\" Instagram public post location",
+      "leads": [],
+      "searchStatus": "completed",
+      "reviewedPosts": [],
+      "remaining": "An exact-place public post or a rights-cleared cover is still needed. Search results did not yield an eligible photograph."
+    },
+    {
+      "id": "el-nido-artcafe",
+      "name": "El Nido Boutique & Artcafe",
+      "city_municipality": "El Nido",
+      "destination_group": "Palawan",
+      "display_category": "Food & drink",
+      "query": "\"El Nido Boutique & Artcafe\" \"El Nido\" Instagram public post location",
+      "leads": [],
+      "searchStatus": "completed",
+      "reviewedPosts": [],
+      "remaining": "An exact-place public post or a rights-cleared cover is still needed. Search results did not yield an eligible photograph."
+    },
+    {
+      "id": "el-nido-trattoria-altrove",
+      "name": "Trattoria Altrove — El Nido",
+      "city_municipality": "El Nido",
+      "destination_group": "Palawan",
+      "display_category": "Food & drink",
+      "query": "\"Trattoria Altrove — El Nido\" \"El Nido\" Instagram public post location",
+      "leads": [],
+      "searchStatus": "completed",
+      "reviewedPosts": [],
+      "remaining": "An exact-place public post or a rights-cleared cover is still needed. Search results did not yield an eligible photograph."
+    },
+    {
+      "id": "coron-trattoria-altrove",
+      "name": "Trattoria Altrove — Coron",
+      "city_municipality": "Coron",
+      "destination_group": "Palawan",
+      "display_category": "Food & drink",
+      "query": "\"Trattoria Altrove — Coron\" \"Coron\" Instagram public post location",
+      "leads": [],
+      "searchStatus": "completed",
+      "reviewedPosts": [],
+      "remaining": "An exact-place public post or a rights-cleared cover is still needed. Search results did not yield an eligible photograph."
+    },
+    {
+      "id": "cebu-pig-and-palm",
+      "name": "The Pig & Palm",
+      "city_municipality": "Cebu City",
+      "destination_group": "Cebu",
+      "display_category": "Food & drink",
+      "query": "\"The Pig & Palm\" \"Cebu City\" Instagram public post location",
+      "leads": [],
+      "searchStatus": "completed",
+      "reviewedPosts": [],
+      "remaining": "An exact-place public post or a rights-cleared cover is still needed. Search results did not yield an eligible photograph."
+    }
+  ],
+  "totals": {
+    "searched": 18,
+    "reviewedPostsAvailable": 3,
+    "remainingWithoutReviewedPost": 15,
+    "approvedCoversAdded": 0
+  }
+}

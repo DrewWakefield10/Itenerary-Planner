@@ -1,5 +1,5 @@
 {
-  "updatedOn": "2026-10-23",
+  "updatedOn": "2026-11-24",
   "scope": "All existing catalog categories. Public publisher-reference audit is separate from exact-post approval.",
   "startingPhotoGaps": 212,
   "sourceAudit": {
@@ -13,23 +13,24 @@
     "locations": 426,
     "approvedPhotos": 216,
     "photoGaps": 210,
-    "locationsWithInstagram": 36,
-    "photoGapsWithInstagram": 9,
-    "resources": 37,
-    "manualEmbedResources": 37,
-    "confirmedWorkingEmbeds": 37,
+    "locationsWithInstagram": 39,
+    "photoGapsWithInstagram": 11,
+    "resources": 41,
+    "manualEmbedResources": 41,
+    "coverGapsWithoutInstagram": 199,
+    "confirmedWorkingEmbeds": 41,
     "externalLinkOnly": 0,
     "publisherAudited": 426,
-    "remainingWithoutApprovedInstagram": 390
+    "remainingWithoutApprovedInstagram": 387
   },
   "byDestination": {
     "Baguio": {
       "locations": 35,
       "approvedPhotos": 16,
       "photoGaps": 19,
-      "locationsWithInstagram": 5,
-      "photoGapsWithInstagram": 2,
-      "resources": 5
+      "locationsWithInstagram": 7,
+      "photoGapsWithInstagram": 3,
+      "resources": 8
     },
     "Batanes": {
       "locations": 32,
@@ -107,9 +108,9 @@
       "locations": 36,
       "approvedPhotos": 7,
       "photoGaps": 29,
-      "locationsWithInstagram": 3,
-      "photoGapsWithInstagram": 2,
-      "resources": 3
+      "locationsWithInstagram": 4,
+      "photoGapsWithInstagram": 3,
+      "resources": 4
     }
   },
   "byCategory": {
@@ -117,17 +118,17 @@
       "locations": 16,
       "approvedPhotos": 8,
       "photoGaps": 8,
-      "locationsWithInstagram": 1,
-      "photoGapsWithInstagram": 0,
-      "resources": 1
+      "locationsWithInstagram": 2,
+      "photoGapsWithInstagram": 1,
+      "resources": 2
     },
     "Culture": {
       "locations": 121,
       "approvedPhotos": 105,
       "photoGaps": 16,
-      "locationsWithInstagram": 12,
-      "photoGapsWithInstagram": 1,
-      "resources": 12
+      "locationsWithInstagram": 13,
+      "photoGapsWithInstagram": 2,
+      "resources": 13
     },
     "Food & drink": {
       "locations": 152,
@@ -149,9 +150,9 @@
       "locations": 32,
       "approvedPhotos": 15,
       "photoGaps": 17,
-      "locationsWithInstagram": 2,
+      "locationsWithInstagram": 3,
       "photoGapsWithInstagram": 0,
-      "resources": 2
+      "resources": 4
     }
   },
   "batches": [
@@ -206,18 +207,18 @@
     {
       "batchId": "instagram-007",
       "locations": 20,
-      "selected": 1,
+      "selected": 2,
       "publisherAudited": 20,
       "inaccessibleSources": 9,
-      "remainingExactPostReviews": 19
+      "remainingExactPostReviews": 18
     },
     {
       "batchId": "instagram-008",
       "locations": 20,
-      "selected": 2,
+      "selected": 3,
       "publisherAudited": 20,
       "inaccessibleSources": 6,
-      "remainingExactPostReviews": 18
+      "remainingExactPostReviews": 17
     },
     {
       "batchId": "instagram-009",
@@ -294,10 +295,10 @@
     {
       "batchId": "instagram-018",
       "locations": 20,
-      "selected": 5,
+      "selected": 6,
       "publisherAudited": 20,
       "inaccessibleSources": 1,
-      "remainingExactPostReviews": 15
+      "remainingExactPostReviews": 14
     },
     {
       "batchId": "instagram-019",
@@ -2585,14 +2586,14 @@
       "category": "Attractions",
       "hasApprovedPhoto": false,
       "batchId": "instagram-007",
-      "status": "publisher-search-complete-post-search-pending",
-      "instagramResources": 0,
-      "manualEmbeds": 0,
-      "confirmedEmbeds": 0,
+      "status": "selected",
+      "instagramResources": 1,
+      "manualEmbeds": 1,
+      "confirmedEmbeds": 1,
       "linkOnly": 0,
       "publisherSourcesChecked": 1,
       "inaccessibleSources": [],
-      "remaining": "Exact public-post identity review remains; no eligible post is inferred from an empty publisher search."
+      "remaining": "Individual embed availability can change."
     },
     {
       "placeId": "siargao-maasin-river",
@@ -3253,14 +3254,14 @@
       "category": "Culture",
       "hasApprovedPhoto": false,
       "batchId": "instagram-008",
-      "status": "publisher-search-complete-post-search-pending",
-      "instagramResources": 0,
-      "manualEmbeds": 0,
-      "confirmedEmbeds": 0,
+      "status": "selected",
+      "instagramResources": 1,
+      "manualEmbeds": 1,
+      "confirmedEmbeds": 1,
       "linkOnly": 0,
       "publisherSourcesChecked": 2,
       "inaccessibleSources": [],
-      "remaining": "Exact public-post identity review remains; no eligible post is inferred from an empty publisher search."
+      "remaining": "Individual embed availability can change."
     },
     {
       "placeId": "baguio-ili-likha",
@@ -6812,14 +6813,14 @@
       "category": "Parks & markets",
       "hasApprovedPhoto": true,
       "batchId": "instagram-018",
-      "status": "publisher-search-complete-post-search-pending",
-      "instagramResources": 0,
-      "manualEmbeds": 0,
-      "confirmedEmbeds": 0,
+      "status": "selected",
+      "instagramResources": 2,
+      "manualEmbeds": 2,
+      "confirmedEmbeds": 2,
       "linkOnly": 0,
       "publisherSourcesChecked": 2,
       "inaccessibleSources": [],
-      "remaining": "Exact public-post identity review remains; no eligible post is inferred from an empty publisher search."
+      "remaining": "Individual embed availability can change."
     },
     {
       "placeId": "baguio-botanical-garden",

@@ -40,8 +40,8 @@ import {unverifiedSource} from "@/lib/sources";
 import {foodForPlace,foodFilters} from "@/lib/catalog/food";
 import {BookmarkButton} from "./bookmarks";
 import {PlacePhoto,PlaceOverview,PlaceVideos,PlaceEditorialCredits} from "./place-media";
-const PlaceInstagram=lazy(()=>import('./place-instagram').then(module=>({default:module.PlaceInstagram})));
-const PlaceInstagramCover=lazy(()=>import('./place-instagram').then(module=>({default:module.PlaceInstagramCover})));
+import { instagramGalleryForPlace } from "@/lib/catalog/instagram";
+const InstagramGallery=lazy(()=>import('./place-instagram').then(module=>({default:module.InstagramGallery})));
 const AddDialog = lazy(() => import("./discovery-add-dialog"));
 const dayLabel = (date: string) =>
   new Date(date + "T12:00:00Z").toLocaleDateString("en-US", {
@@ -178,6 +178,9 @@ export function PlaceCard({
           <Link className="discovery-view" href={`/discover/${place.id}`}>
             View place
           </Link>
+          {!place.image && instagramGalleryForPlace(place.id).length>0 && (
+            <Link className="text-link" href={`/discover/${place.id}#instagram-photos`}>See more photos</Link>
+          )}
         </div>
       </div>
     </article>
@@ -888,11 +891,16 @@ function PlaceDetails({
           </p>
         </div>
         <figure>
-          {place.image?<PlacePhoto key={place.image.src} place={place} prominent/>:<Suspense fallback={<PlacePhoto place={place} prominent/>}><PlaceInstagramCover key={place.id} place={place}/></Suspense>}
+          <PlacePhoto key={place.image?.src || place.id} place={place} prominent/>
           {place.image&&<figcaption><a href="#place-sources">Photo source and reuse license</a></figcaption>}
         </figure>
       </div>
-      <PlaceOverview place={place}/>
+      {instagramGalleryForPlace(place.id,place.image).length>0 ? (
+        <div className="place-overview-with-gallery">
+          <Suspense fallback={null}><InstagramGallery key={place.id} place={place}/></Suspense>
+          <PlaceOverview place={place}/>
+        </div>
+      ) : <PlaceOverview place={place}/>}
       {foodForPlace(place.id)&&<section className="paper-note discovery-section" aria-label="Food and coffee">
         <h2>Food & <em>coffee.</em></h2>
         <p>{foodForPlace(place.id)!.primary==="cafe"?"Café":"Food spot"} · {foodForPlace(place.id)!.venueType.replaceAll("-"," ")}</p>
@@ -903,7 +911,6 @@ function PlaceDetails({
         {foodForPlace(place.id)!.officialUrl&&<a className="text-link" href={foodForPlace(place.id)!.officialUrl!} target="_blank" rel="noreferrer">Venue / tourism page ↗</a>}
       </section>}
       <PlaceVideos placeId={place.id}/>
-      <Suspense fallback={null}><PlaceInstagram key={place.id} placeId={place.id} excludeCover={!place.image}/></Suspense>
       <div className="place-practical">
         <section className="paper-note">
           <h2>

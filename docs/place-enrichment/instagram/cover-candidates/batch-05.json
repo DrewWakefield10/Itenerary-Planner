@@ -1,0 +1,241 @@
+{
+  "date": "2026-11-24",
+  "scope": "One public search query per cover gap. Name and municipality are search context. Post and location-tag links are unverified leads until visually reviewed.",
+  "entries": [
+    {
+      "id": "baguio-amare-outlook",
+      "name": "Amare La Cucina - Outlook Drive",
+      "city_municipality": "Baguio City",
+      "destination_group": "Baguio",
+      "display_category": "Food & drink",
+      "query": "\"Amare La Cucina - Outlook Drive\" \"Baguio City\" Instagram public post location",
+      "leads": [],
+      "searchStatus": "completed",
+      "reviewedPosts": [],
+      "remaining": "An exact-place public post or a rights-cleared cover is still needed. Search results did not yield an eligible photograph."
+    },
+    {
+      "id": "baguio-craft-brewery",
+      "name": "Baguio Craft Brewery",
+      "city_municipality": "Baguio City",
+      "destination_group": "Baguio",
+      "display_category": "Food & drink",
+      "query": "\"Baguio Craft Brewery\" \"Baguio City\" Instagram public post location",
+      "leads": [],
+      "searchStatus": "completed",
+      "reviewedPosts": [],
+      "remaining": "An exact-place public post or a rights-cleared cover is still needed. Search results did not yield an eligible photograph."
+    },
+    {
+      "id": "baguio-craft-1945",
+      "name": "Craft 1945",
+      "city_municipality": "Baguio City",
+      "destination_group": "Baguio",
+      "display_category": "Food & drink",
+      "query": "\"Craft 1945\" \"Baguio City\" Instagram public post location",
+      "leads": [],
+      "searchStatus": "completed",
+      "reviewedPosts": [
+        {
+          "url": "https://www.instagram.com/p/CYdLh_Ov6J3/",
+          "account": "craft.1945",
+          "relevance": "The Craft 1945 account describes its food, craft beer and live music in Baguio. This is the named restaurant, rather than the separate Baguio Craft Brewery. The event schedule is historical.",
+          "checkedOn": "2026-10-22",
+          "evidenceUrls": [
+            "https://www.instagram.com/p/CYdLh_Ov6J3/",
+            "https://www.philippinebeaches.org/baguio-tourist-spots-things-to-do/"
+          ],
+          "permissionStatus": "not-documented",
+          "review": "verified-public-post"
+        }
+      ],
+      "remaining": "Standalone photo permission or a reusable license and an approved image file are needed."
+    },
+    {
+      "id": "siargao-kermit-restaurant",
+      "name": "Kermit Restaurant — Siargao",
+      "city_municipality": "General Luna",
+      "destination_group": "Siargao",
+      "display_category": "Food & drink",
+      "query": "\"Kermit Restaurant — Siargao\" \"General Luna\" Instagram public post location",
+      "leads": [],
+      "searchStatus": "completed",
+      "reviewedPosts": [],
+      "remaining": "An exact-place public post or a rights-cleared cover is still needed. Search results did not yield an eligible photograph."
+    },
+    {
+      "id": "siargao-trattoria-altrove",
+      "name": "Trattoria Altrove — Siargao",
+      "city_municipality": "General Luna",
+      "destination_group": "Siargao",
+      "display_category": "Food & drink",
+      "query": "\"Trattoria Altrove — Siargao\" \"General Luna\" Instagram public post location",
+      "leads": [],
+      "searchStatus": "completed",
+      "reviewedPosts": [],
+      "remaining": "An exact-place public post or a rights-cleared cover is still needed. Search results did not yield an eligible photograph."
+    },
+    {
+      "id": "siargao-warung",
+      "name": "Warung — Siargao Island Villas",
+      "city_municipality": "General Luna",
+      "destination_group": "Siargao",
+      "display_category": "Food & drink",
+      "query": "\"Warung — Siargao Island Villas\" \"General Luna\" Instagram public post location",
+      "leads": [],
+      "searchStatus": "completed",
+      "reviewedPosts": [],
+      "remaining": "An exact-place public post or a rights-cleared cover is still needed. Search results did not yield an eligible photograph."
+    },
+    {
+      "id": "siargao-brunch-spot",
+      "name": "Brunch Spot Siargao",
+      "city_municipality": "General Luna",
+      "destination_group": "Siargao",
+      "display_category": "Food & drink",
+      "query": "\"Brunch Spot Siargao\" \"General Luna\" Instagram public post location",
+      "leads": [],
+      "searchStatus": "completed",
+      "reviewedPosts": [],
+      "remaining": "An exact-place public post or a rights-cleared cover is still needed. Search results did not yield an eligible photograph."
+    },
+    {
+      "id": "siargao-bravo-restaurant",
+      "name": "Bravo Restaurant — Siargao",
+      "city_municipality": "General Luna",
+      "destination_group": "Siargao",
+      "display_category": "Food & drink",
+      "query": "\"Bravo Restaurant — Siargao\" \"General Luna\" Instagram public post location",
+      "leads": [],
+      "searchStatus": "completed",
+      "reviewedPosts": [],
+      "remaining": "An exact-place public post or a rights-cleared cover is still needed. Search results did not yield an eligible photograph."
+    },
+    {
+      "id": "siargao-naga-restaurant",
+      "name": "NĀGA Siargao",
+      "city_municipality": "General Luna",
+      "destination_group": "Siargao",
+      "display_category": "Food & drink",
+      "query": "\"NĀGA Siargao\" \"General Luna\" Instagram public post location",
+      "leads": [],
+      "searchStatus": "completed",
+      "reviewedPosts": [],
+      "remaining": "An exact-place public post or a rights-cleared cover is still needed. Search results did not yield an eligible photograph."
+    },
+    {
+      "id": "siargao-malinao-beach",
+      "name": "Malinao Beach",
+      "city_municipality": "General Luna",
+      "destination_group": "Siargao",
+      "display_category": "Nature",
+      "query": "\"Malinao Beach\" \"General Luna\" Instagram public post location",
+      "leads": [],
+      "searchStatus": "completed",
+      "reviewedPosts": [],
+      "remaining": "An exact-place public post or a rights-cleared cover is still needed. Search results did not yield an eligible photograph."
+    },
+    {
+      "id": "siargao-paseo-de-cabuntog",
+      "name": "Paseo de Cabuntog",
+      "city_municipality": "General Luna",
+      "destination_group": "Siargao",
+      "display_category": "Parks & markets",
+      "query": "\"Paseo de Cabuntog\" \"General Luna\" Instagram public post location",
+      "leads": [],
+      "searchStatus": "completed",
+      "reviewedPosts": [],
+      "remaining": "An exact-place public post or a rights-cleared cover is still needed. Search results did not yield an eligible photograph."
+    },
+    {
+      "id": "siargao-lokal-hub-general-luna",
+      "name": "The Hub by Lokal Lab — General Luna",
+      "city_municipality": "General Luna",
+      "destination_group": "Siargao",
+      "display_category": "Culture",
+      "query": "\"The Hub by Lokal Lab — General Luna\" \"General Luna\" Instagram public post location",
+      "leads": [],
+      "searchStatus": "completed",
+      "reviewedPosts": [],
+      "remaining": "An exact-place public post or a rights-cleared cover is still needed. Search results did not yield an eligible photograph."
+    },
+    {
+      "id": "siargao-clubhouse-golf",
+      "name": "The Clubhouse Siargao",
+      "city_municipality": "General Luna",
+      "destination_group": "Siargao",
+      "display_category": "Attractions",
+      "query": "\"The Clubhouse Siargao\" \"General Luna\" Instagram public post location",
+      "leads": [],
+      "searchStatus": "completed",
+      "reviewedPosts": [],
+      "remaining": "An exact-place public post or a rights-cleared cover is still needed. Search results did not yield an eligible photograph."
+    },
+    {
+      "id": "davao-gap-farm",
+      "name": "GAP Farm Resort",
+      "city_municipality": "Davao City",
+      "destination_group": "Davao",
+      "display_category": "Nature",
+      "query": "\"GAP Farm Resort\" \"Davao City\" Instagram public post location",
+      "leads": [],
+      "searchStatus": "completed",
+      "reviewedPosts": [],
+      "remaining": "An exact-place public post or a rights-cleared cover is still needed. Search results did not yield an eligible photograph."
+    },
+    {
+      "id": "davao-dleonor-inland-resort",
+      "name": "D’Leonor Inland Resort and Adventure Park",
+      "city_municipality": "Davao City",
+      "destination_group": "Davao",
+      "display_category": "Attractions",
+      "query": "\"D’Leonor Inland Resort and Adventure Park\" \"Davao City\" Instagram public post location",
+      "leads": [],
+      "searchStatus": "completed",
+      "reviewedPosts": [],
+      "remaining": "An exact-place public post or a rights-cleared cover is still needed. Search results did not yield an eligible photograph."
+    },
+    {
+      "id": "davao-poblacion-market-central",
+      "name": "Poblacion Market Central",
+      "city_municipality": "Davao City",
+      "destination_group": "Davao",
+      "display_category": "Parks & markets",
+      "query": "\"Poblacion Market Central\" \"Davao City\" Instagram public post location",
+      "leads": [],
+      "searchStatus": "completed",
+      "reviewedPosts": [],
+      "remaining": "An exact-place public post or a rights-cleared cover is still needed. Search results did not yield an eligible photograph."
+    },
+    {
+      "id": "davao-bago-esplanade",
+      "name": "Bago Esplanade",
+      "city_municipality": "Davao City",
+      "destination_group": "Davao",
+      "display_category": "Parks & markets",
+      "query": "\"Bago Esplanade\" \"Davao City\" Instagram public post location",
+      "leads": [],
+      "searchStatus": "completed",
+      "reviewedPosts": [],
+      "remaining": "An exact-place public post or a rights-cleared cover is still needed. Search results did not yield an eligible photograph."
+    },
+    {
+      "id": "davao-gulf-view-esplanade",
+      "name": "Gulf View Esplanade",
+      "city_municipality": "Davao City",
+      "destination_group": "Davao",
+      "display_category": "Parks & markets",
+      "query": "\"Gulf View Esplanade\" \"Davao City\" Instagram public post location",
+      "leads": [],
+      "searchStatus": "completed",
+      "reviewedPosts": [],
+      "remaining": "An exact-place public post or a rights-cleared cover is still needed. Search results did not yield an eligible photograph."
+    }
+  ],
+  "totals": {
+    "searched": 18,
+    "reviewedPostsAvailable": 1,
+    "remainingWithoutReviewedPost": 17,
+    "approvedCoversAdded": 0
+  }
+}

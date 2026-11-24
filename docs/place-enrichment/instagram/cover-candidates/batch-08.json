@@ -1,0 +1,253 @@
+{
+  "date": "2026-11-24",
+  "scope": "One public search query per cover gap. Name and municipality are search context. Post and location-tag links are unverified leads until visually reviewed.",
+  "entries": [
+    {
+      "id": "cebu-north-cafe-citymall",
+      "name": "North Café & Co — CityMall Bacalso",
+      "city_municipality": "Cebu City",
+      "destination_group": "Cebu",
+      "display_category": "Food & drink",
+      "query": "\"North Café & Co — CityMall Bacalso\" \"Cebu City\" Instagram public post location",
+      "leads": [],
+      "searchStatus": "completed",
+      "reviewedPosts": [],
+      "remaining": "An exact-place public post or a rights-cleared cover is still needed. Search results did not yield an eligible photograph."
+    },
+    {
+      "id": "cebu-teamo-hotel-one",
+      "name": "Te’Amo Café — Hotel One",
+      "city_municipality": "Cebu City",
+      "destination_group": "Cebu",
+      "display_category": "Food & drink",
+      "query": "\"Te’Amo Café — Hotel One\" \"Cebu City\" Instagram public post location",
+      "leads": [],
+      "searchStatus": "completed",
+      "reviewedPosts": [],
+      "remaining": "An exact-place public post or a rights-cleared cover is still needed. Search results did not yield an eligible photograph."
+    },
+    {
+      "id": "el-nido-lick-roastery",
+      "name": "Lost Islands Center for Kape — Lio HQ",
+      "city_municipality": "El Nido",
+      "destination_group": "Palawan",
+      "display_category": "Food & drink",
+      "query": "\"Lost Islands Center for Kape — Lio HQ\" \"El Nido\" Instagram public post location",
+      "leads": [],
+      "searchStatus": "completed",
+      "reviewedPosts": [],
+      "remaining": "An exact-place public post or a rights-cleared cover is still needed. Search results did not yield an eligible photograph."
+    },
+    {
+      "id": "el-nido-la-moro-hill",
+      "name": "La Moro Hill Bakery — Lio",
+      "city_municipality": "El Nido",
+      "destination_group": "Palawan",
+      "display_category": "Food & drink",
+      "query": "\"La Moro Hill Bakery — Lio\" \"El Nido\" Instagram public post location",
+      "leads": [],
+      "searchStatus": "completed",
+      "reviewedPosts": [],
+      "remaining": "An exact-place public post or a rights-cleared cover is still needed. Search results did not yield an eligible photograph."
+    },
+    {
+      "id": "el-nido-huk-co",
+      "name": "HUK & Co. — C Hotel",
+      "city_municipality": "El Nido",
+      "destination_group": "Palawan",
+      "display_category": "Food & drink",
+      "query": "\"HUK & Co. — C Hotel\" \"El Nido\" Instagram public post location",
+      "leads": [],
+      "searchStatus": "completed",
+      "reviewedPosts": [],
+      "remaining": "An exact-place public post or a rights-cleared cover is still needed. Search results did not yield an eligible photograph."
+    },
+    {
+      "id": "el-nido-ver-de",
+      "name": "Ver De — H Hotel",
+      "city_municipality": "El Nido",
+      "destination_group": "Palawan",
+      "display_category": "Food & drink",
+      "query": "\"Ver De — H Hotel\" \"El Nido\" Instagram public post location",
+      "leads": [],
+      "searchStatus": "completed",
+      "reviewedPosts": [],
+      "remaining": "An exact-place public post or a rights-cleared cover is still needed. Search results did not yield an eligible photograph."
+    },
+    {
+      "id": "el-nido-piece-of-sky",
+      "name": "Piece of Sky",
+      "city_municipality": "El Nido",
+      "destination_group": "Palawan",
+      "display_category": "Food & drink",
+      "query": "\"Piece of Sky\" \"El Nido\" Instagram public post location",
+      "leads": [],
+      "searchStatus": "completed",
+      "reviewedPosts": [
+        {
+          "url": "https://www.instagram.com/reel/DApjBSuR3Dm/",
+          "account": "pieceofskyelnido",
+          "relevance": "The venue’s own site links this cocktail reel, whose public caption names Piece of Sky in El Nido. It offers a historical look at a drink served there.",
+          "checkedOn": "2026-10-22",
+          "evidenceUrls": [
+            "https://www.instagram.com/reel/DApjBSuR3Dm/",
+            "https://sites.google.com/view/pieceofskyelnido/home"
+          ],
+          "permissionStatus": "not-documented",
+          "review": "verified-public-post"
+        },
+        {
+          "url": "https://www.instagram.com/reel/DALBOrxxMcr/",
+          "account": "pieceofskyelnido",
+          "relevance": "The venue’s site links this reel describing Piece of Sky on the sixth floor of H Hotel in El Nido. The live-music announcement is historical, not a current event schedule.",
+          "checkedOn": "2026-10-22",
+          "evidenceUrls": [
+            "https://www.instagram.com/reel/DALBOrxxMcr/",
+            "https://sites.google.com/view/pieceofskyelnido/home"
+          ],
+          "permissionStatus": "not-documented",
+          "review": "verified-public-post"
+        }
+      ],
+      "remaining": "Standalone photo permission or a reusable license and an approved image file are needed."
+    },
+    {
+      "id": "el-nido-henris",
+      "name": "Henri’s — Lihim Resorts",
+      "city_municipality": "El Nido",
+      "destination_group": "Palawan",
+      "display_category": "Food & drink",
+      "query": "\"Henri’s — Lihim Resorts\" \"El Nido\" Instagram public post location",
+      "leads": [],
+      "searchStatus": "completed",
+      "reviewedPosts": [],
+      "remaining": "An exact-place public post or a rights-cleared cover is still needed. Search results did not yield an eligible photograph."
+    },
+    {
+      "id": "el-nido-lanai-amakan",
+      "name": "The Lanai at Amakan",
+      "city_municipality": "El Nido",
+      "destination_group": "Palawan",
+      "display_category": "Food & drink",
+      "query": "\"The Lanai at Amakan\" \"El Nido\" Instagram public post location",
+      "leads": [],
+      "searchStatus": "completed",
+      "reviewedPosts": [],
+      "remaining": "An exact-place public post or a rights-cleared cover is still needed. Search results did not yield an eligible photograph."
+    },
+    {
+      "id": "coron-baya-resto-lounge",
+      "name": "BAYA Resto Lounge",
+      "city_municipality": "Coron",
+      "destination_group": "Palawan",
+      "display_category": "Food & drink",
+      "query": "\"BAYA Resto Lounge\" \"Coron\" Instagram public post location",
+      "leads": [],
+      "searchStatus": "completed",
+      "reviewedPosts": [],
+      "remaining": "An exact-place public post or a rights-cleared cover is still needed. Search results did not yield an eligible photograph."
+    },
+    {
+      "id": "coron-hunt-funny-lion",
+      "name": "Hunt Restaurant — The Funny Lion Coron",
+      "city_municipality": "Coron",
+      "destination_group": "Palawan",
+      "display_category": "Food & drink",
+      "query": "\"Hunt Restaurant — The Funny Lion Coron\" \"Coron\" Instagram public post location",
+      "leads": [],
+      "searchStatus": "completed",
+      "reviewedPosts": [],
+      "remaining": "An exact-place public post or a rights-cleared cover is still needed. Search results did not yield an eligible photograph."
+    },
+    {
+      "id": "el-nido-sunmai-nacpan",
+      "name": "Sunmai Beach Bar and Restaurant",
+      "city_municipality": "El Nido",
+      "destination_group": "Palawan",
+      "display_category": "Food & drink",
+      "query": "\"Sunmai Beach Bar and Restaurant\" \"El Nido\" Instagram public post location",
+      "leads": [],
+      "searchStatus": "completed",
+      "reviewedPosts": [],
+      "remaining": "An exact-place public post or a rights-cleared cover is still needed. Search results did not yield an eligible photograph."
+    },
+    {
+      "id": "el-nido-calima-piece-lio",
+      "name": "CALIMA Restaurant — Piece Lio",
+      "city_municipality": "El Nido",
+      "destination_group": "Palawan",
+      "display_category": "Food & drink",
+      "query": "\"CALIMA Restaurant — Piece Lio\" \"El Nido\" Instagram public post location",
+      "leads": [],
+      "searchStatus": "completed",
+      "reviewedPosts": [],
+      "remaining": "An exact-place public post or a rights-cleared cover is still needed. Search results did not yield an eligible photograph."
+    },
+    {
+      "id": "el-nido-ocean-view-chinese",
+      "name": "Ocean View Chinese Restaurant — S Resort",
+      "city_municipality": "El Nido",
+      "destination_group": "Palawan",
+      "display_category": "Food & drink",
+      "query": "\"Ocean View Chinese Restaurant — S Resort\" \"El Nido\" Instagram public post location",
+      "leads": [],
+      "searchStatus": "completed",
+      "reviewedPosts": [],
+      "remaining": "An exact-place public post or a rights-cleared cover is still needed. Search results did not yield an eligible photograph."
+    },
+    {
+      "id": "puerto-princesa-divines-robinsons",
+      "name": "Divine’s Sweets Bakery & Cafe — Robinsons",
+      "city_municipality": "Puerto Princesa City",
+      "destination_group": "Palawan",
+      "display_category": "Food & drink",
+      "query": "\"Divine’s Sweets Bakery & Cafe — Robinsons\" \"Puerto Princesa City\" Instagram public post location",
+      "leads": [],
+      "searchStatus": "completed",
+      "reviewedPosts": [],
+      "remaining": "An exact-place public post or a rights-cleared cover is still needed. Search results did not yield an eligible photograph."
+    },
+    {
+      "id": "puerto-princesa-jeju-island-cafe",
+      "name": "Jeju Island Cafe",
+      "city_municipality": "Puerto Princesa City",
+      "destination_group": "Palawan",
+      "display_category": "Food & drink",
+      "query": "\"Jeju Island Cafe\" \"Puerto Princesa City\" Instagram public post location",
+      "leads": [],
+      "searchStatus": "completed",
+      "reviewedPosts": [],
+      "remaining": "An exact-place public post or a rights-cleared cover is still needed. Search results did not yield an eligible photograph."
+    },
+    {
+      "id": "puerto-princesa-kofilab",
+      "name": "Kofilab Cafe",
+      "city_municipality": "Puerto Princesa City",
+      "destination_group": "Palawan",
+      "display_category": "Food & drink",
+      "query": "\"Kofilab Cafe\" \"Puerto Princesa City\" Instagram public post location",
+      "leads": [],
+      "searchStatus": "completed",
+      "reviewedPosts": [],
+      "remaining": "An exact-place public post or a rights-cleared cover is still needed. Search results did not yield an eligible photograph."
+    },
+    {
+      "id": "cebu-good-cup-ramos",
+      "name": "Good Cup Café — F. Ramos",
+      "city_municipality": "Cebu City",
+      "destination_group": "Cebu",
+      "display_category": "Food & drink",
+      "query": "\"Good Cup Café — F. Ramos\" \"Cebu City\" Instagram public post location",
+      "leads": [],
+      "searchStatus": "completed",
+      "reviewedPosts": [],
+      "remaining": "An exact-place public post or a rights-cleared cover is still needed. Search results did not yield an eligible photograph."
+    }
+  ],
+  "totals": {
+    "searched": 18,
+    "reviewedPostsAvailable": 1,
+    "remainingWithoutReviewedPost": 17,
+    "approvedCoversAdded": 0
+  }
+}

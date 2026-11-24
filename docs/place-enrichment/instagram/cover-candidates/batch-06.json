@@ -1,0 +1,254 @@
+{
+  "date": "2026-11-24",
+  "scope": "One public search query per cover gap. Name and municipality are search context. Post and location-tag links are unverified leads until visually reviewed.",
+  "entries": [
+    {
+      "id": "davao-marfori-botanical-garden",
+      "name": "Davao City Botanical Park",
+      "city_municipality": "Davao City",
+      "destination_group": "Davao",
+      "display_category": "Parks & markets",
+      "query": "\"Davao City Botanical Park\" \"Davao City\" Instagram public post location",
+      "leads": [],
+      "searchStatus": "completed",
+      "reviewedPosts": [],
+      "remaining": "An exact-place public post or a rights-cleared cover is still needed. Search results did not yield an eligible photograph."
+    },
+    {
+      "id": "davao-toril-park",
+      "name": "Toril Park",
+      "city_municipality": "Davao City",
+      "destination_group": "Davao",
+      "display_category": "Parks & markets",
+      "query": "\"Toril Park\" \"Davao City\" Instagram public post location",
+      "leads": [],
+      "searchStatus": "completed",
+      "reviewedPosts": [],
+      "remaining": "An exact-place public post or a rights-cleared cover is still needed. Search results did not yield an eligible photograph."
+    },
+    {
+      "id": "davao-matina-linear-park",
+      "name": "Matina Linear Park",
+      "city_municipality": "Davao City",
+      "destination_group": "Davao",
+      "display_category": "Parks & markets",
+      "query": "\"Matina Linear Park\" \"Davao City\" Instagram public post location",
+      "leads": [],
+      "searchStatus": "completed",
+      "reviewedPosts": [],
+      "remaining": "An exact-place public post or a rights-cleared cover is still needed. Search results did not yield an eligible photograph."
+    },
+    {
+      "id": "davao-candelaria-park",
+      "name": "Candelaria Park",
+      "city_municipality": "Davao City",
+      "destination_group": "Davao",
+      "display_category": "Parks & markets",
+      "query": "\"Candelaria Park\" \"Davao City\" Instagram public post location",
+      "leads": [],
+      "searchStatus": "completed",
+      "reviewedPosts": [],
+      "remaining": "An exact-place public post or a rights-cleared cover is still needed. Search results did not yield an eligible photograph."
+    },
+    {
+      "id": "davao-communal-pocket-park",
+      "name": "Communal Pocket Park",
+      "city_municipality": "Davao City",
+      "destination_group": "Davao",
+      "display_category": "Parks & markets",
+      "query": "\"Communal Pocket Park\" \"Davao City\" Instagram public post location",
+      "leads": [],
+      "searchStatus": "completed",
+      "reviewedPosts": [],
+      "remaining": "An exact-place public post or a rights-cleared cover is still needed. Search results did not yield an eligible photograph."
+    },
+    {
+      "id": "davao-apo-ni-lola-matina",
+      "name": "Apo ni Lola Pasalubong Center — Matina",
+      "city_municipality": "Davao City",
+      "destination_group": "Davao",
+      "display_category": "Food & drink",
+      "query": "\"Apo ni Lola Pasalubong Center — Matina\" \"Davao City\" Instagram public post location",
+      "leads": [],
+      "searchStatus": "completed",
+      "reviewedPosts": [],
+      "remaining": "An exact-place public post or a rights-cleared cover is still needed. Search results did not yield an eligible photograph."
+    },
+    {
+      "id": "davao-marina-tuna-sandawa",
+      "name": "Marina Tuna — Sandawa Plaza",
+      "city_municipality": "Davao City",
+      "destination_group": "Davao",
+      "display_category": "Food & drink",
+      "query": "\"Marina Tuna — Sandawa Plaza\" \"Davao City\" Instagram public post location",
+      "leads": [],
+      "searchStatus": "completed",
+      "reviewedPosts": [],
+      "remaining": "An exact-place public post or a rights-cleared cover is still needed. Search results did not yield an eligible photograph."
+    },
+    {
+      "id": "boracay-muchos",
+      "name": "Muchos",
+      "city_municipality": "Malay",
+      "destination_group": "Boracay",
+      "display_category": "Food & drink",
+      "query": "\"Muchos\" \"Malay\" Instagram public post location",
+      "leads": [],
+      "searchStatus": "completed",
+      "reviewedPosts": [
+        {
+          "url": "https://www.instagram.com/p/CiY3DRYv1he/",
+          "account": "muchosboracay",
+          "relevance": "The venue account shares a Boracay sunset-and-food post with sangria and tacos. The linked report identifies Muchos in Boracay rather than a similarly named venue elsewhere.",
+          "checkedOn": "2026-10-22",
+          "evidenceUrls": [
+            "https://www.instagram.com/p/CiY3DRYv1he/",
+            "https://www.philstarlife.com/living/740359-newly-opened-boracay-cafes-and-restaurants"
+          ],
+          "permissionStatus": "not-documented",
+          "review": "verified-public-post"
+        }
+      ],
+      "remaining": "Standalone photo permission or a reusable license and an approved image file are needed."
+    },
+    {
+      "id": "boracay-jammers-beach-shack",
+      "name": "Jammers Beach Shack",
+      "city_municipality": "Malay",
+      "destination_group": "Boracay",
+      "display_category": "Food & drink",
+      "query": "\"Jammers Beach Shack\" \"Malay\" Instagram public post location",
+      "leads": [],
+      "searchStatus": "completed",
+      "reviewedPosts": [],
+      "remaining": "An exact-place public post or a rights-cleared cover is still needed. Search results did not yield an eligible photograph."
+    },
+    {
+      "id": "boracay-aria-cucina",
+      "name": "Aria Cucina Italiana",
+      "city_municipality": "Malay",
+      "destination_group": "Boracay",
+      "display_category": "Food & drink",
+      "query": "\"Aria Cucina Italiana\" \"Malay\" Instagram public post location",
+      "leads": [],
+      "searchStatus": "completed",
+      "reviewedPosts": [],
+      "remaining": "An exact-place public post or a rights-cleared cover is still needed. Search results did not yield an eligible photograph."
+    },
+    {
+      "id": "boracay-hama",
+      "name": "Hama Japanese Restaurant",
+      "city_municipality": "Malay",
+      "destination_group": "Boracay",
+      "display_category": "Food & drink",
+      "query": "\"Hama Japanese Restaurant\" \"Malay\" Instagram public post location",
+      "leads": [],
+      "searchStatus": "completed",
+      "reviewedPosts": [],
+      "remaining": "An exact-place public post or a rights-cleared cover is still needed. Search results did not yield an eligible photograph."
+    },
+    {
+      "id": "boracay-cafe-del-sol",
+      "name": "Cafe del Sol",
+      "city_municipality": "Malay",
+      "destination_group": "Boracay",
+      "display_category": "Food & drink",
+      "query": "\"Cafe del Sol\" \"Malay\" Instagram public post location",
+      "leads": [],
+      "searchStatus": "completed",
+      "reviewedPosts": [],
+      "remaining": "An exact-place public post or a rights-cleared cover is still needed. Search results did not yield an eligible photograph."
+    },
+    {
+      "id": "boracay-beach-truck",
+      "name": "Boracay Beach Truck",
+      "city_municipality": "Malay",
+      "destination_group": "Boracay",
+      "display_category": "Food & drink",
+      "query": "\"Boracay Beach Truck\" \"Malay\" Instagram public post location",
+      "leads": [],
+      "searchStatus": "completed",
+      "reviewedPosts": [],
+      "remaining": "An exact-place public post or a rights-cleared cover is still needed. Search results did not yield an eligible photograph."
+    },
+    {
+      "id": "boracay-dinibeach-bar",
+      "name": "Dinibeach Bar & Restaurant",
+      "city_municipality": "Malay",
+      "destination_group": "Boracay",
+      "display_category": "Food & drink",
+      "query": "\"Dinibeach Bar & Restaurant\" \"Malay\" Instagram public post location",
+      "leads": [],
+      "searchStatus": "completed",
+      "reviewedPosts": [
+        {
+          "url": "https://www.instagram.com/p/CfPoELGqO_5/",
+          "account": "dinibeachbar",
+          "relevance": "The venue account identifies Dinibeach Bar and Restaurant in Boracay. It offers historical context for food and its beach setting; the named DJ event is not a current schedule.",
+          "checkedOn": "2026-10-22",
+          "evidenceUrls": [
+            "https://www.instagram.com/p/CfPoELGqO_5/",
+            "https://www.taraletsanywhere.com/best-restaurants-in-boracay/"
+          ],
+          "permissionStatus": "not-documented",
+          "review": "verified-public-post"
+        }
+      ],
+      "remaining": "Standalone photo permission or a reusable license and an approved image file are needed."
+    },
+    {
+      "id": "boracay-citymall",
+      "name": "CityMall Boracay",
+      "city_municipality": "Malay",
+      "destination_group": "Boracay",
+      "display_category": "Parks & markets",
+      "query": "\"CityMall Boracay\" \"Malay\" Instagram public post location",
+      "leads": [],
+      "searchStatus": "completed",
+      "reviewedPosts": [],
+      "remaining": "An exact-place public post or a rights-cleared cover is still needed. Search results did not yield an eligible photograph."
+    },
+    {
+      "id": "boracay-sirena",
+      "name": "Sirena Restaurant & Clifftop Bar",
+      "city_municipality": "Malay",
+      "destination_group": "Boracay",
+      "display_category": "Food & drink",
+      "query": "\"Sirena Restaurant & Clifftop Bar\" \"Malay\" Instagram public post location",
+      "leads": [],
+      "searchStatus": "completed",
+      "reviewedPosts": [],
+      "remaining": "An exact-place public post or a rights-cleared cover is still needed. Search results did not yield an eligible photograph."
+    },
+    {
+      "id": "boracay-los-indios-bravos",
+      "name": "Los Indios Bravos",
+      "city_municipality": "Malay",
+      "destination_group": "Boracay",
+      "display_category": "Food & drink",
+      "query": "\"Los Indios Bravos\" \"Malay\" Instagram public post location",
+      "leads": [],
+      "searchStatus": "completed",
+      "reviewedPosts": [],
+      "remaining": "An exact-place public post or a rights-cleared cover is still needed. Search results did not yield an eligible photograph."
+    },
+    {
+      "id": "boracay-sands-bar-restaurant",
+      "name": "Sands Bar & Restaurant",
+      "city_municipality": "Malay",
+      "destination_group": "Boracay",
+      "display_category": "Food & drink",
+      "query": "\"Sands Bar & Restaurant\" \"Malay\" Instagram public post location",
+      "leads": [],
+      "searchStatus": "completed",
+      "reviewedPosts": [],
+      "remaining": "An exact-place public post or a rights-cleared cover is still needed. Search results did not yield an eligible photograph."
+    }
+  ],
+  "totals": {
+    "searched": 18,
+    "reviewedPostsAvailable": 2,
+    "remainingWithoutReviewedPost": 16,
+    "approvedCoversAdded": 0
+  }
+}

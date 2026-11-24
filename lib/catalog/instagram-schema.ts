@@ -1,4 +1,6 @@
 import {z} from 'zod/v3';
+import {placePhotoSchema} from './place-content-schema';
+export const maxInstagramPosts = 5;
 
 /** Accept post permalinks, never profiles, stories, arbitrary HTML or scripts. */
 export function canonicalInstagramUrl(value:string):string|null{
@@ -20,10 +22,24 @@ export const instagramRecordSchema=z.object({
  evidenceUrls:z.array(https).min(1).max(5),limitation:z.string().min(15).max(800),
  presentation:z.enum(['manual-embed','link-only']),
  embedCheck:z.object({status:z.enum(['confirmed','unconfirmed','unavailable']),checkedOn:date.nullable(),note:z.string().min(10)}).strict(),
+ photo:z.object({
+  asset:placePhotoSchema,
+  permission:z.enum(['documented-permission','reusable-license']),
+  evidence:z.string().min(25).max(600),
+ }).strict().optional(),
 }).strict().superRefine((p,ctx)=>{
  if(p.embedCheck.status==='confirmed'&&!p.embedCheck.checkedOn)ctx.addIssue({code:'custom',message:'A confirmed embed needs its actual check date'});
  if(p.presentation==='manual-embed'&&p.embedCheck.status==='unavailable')ctx.addIssue({code:'custom',message:'An unavailable embed must remain link-only'});
  if(p.presentation==='manual-embed'&&p.review!=='public-post')ctx.addIssue({code:'custom',message:'Manual embed needs a public-post eligibility review, not only a publisher reference'});
+ if(p.photo){
+  const {asset}=p.photo;
+  const local=(path:string)=>/^\/images\/[A-Za-z0-9/_-]+\.(webp|avif|jpe?g|png)$/i.test(path);
+  const origin=URL.parse(asset.originalUrl);
+  const unsafeOrigin=!origin||/(^|\.)(instagram\.com|cdninstagram\.com|fbcdn\.net)$/i.test(origin.hostname.replace(/\.$/,''));
+  if(asset.placeId!==p.placeId || canonicalInstagramUrl(asset.sourcePage)!==p.url || !local(asset.src) ||
+    (asset.srcSmall&&!local(asset.srcSmall)) || unsafeOrigin)
+   ctx.addIssue({code:'custom',message:'Instagram photo requires a reviewed local asset, a permitted original file and this exact post as its source page'});
+ }
 });
 export type InstagramRecord=z.infer<typeof instagramRecordSchema>;
 
@@ -32,11 +48,11 @@ export function validateInstagramRecords(input:unknown,knownIds?:ReadonlySet<str
  const records=z.array(instagramRecordSchema).parse(input),seen=new Set<string>(),counts=new Map<string,number>();
  for(const r of records){
   if(knownIds&&!knownIds.has(r.placeId))throw new Error(`Unknown Instagram place ID: ${r.placeId}`);
-  const key=`${r.placeId}:${r.url}`;
+  const key=`${r.placeId}:${r.url.split('/').at(-2)}`;
   if(seen.has(key))throw new Error(`Duplicate Instagram post: ${key}`);
   const count=(counts.get(r.placeId)||0)+1;
   seen.add(key);counts.set(r.placeId,count);
-  if(count>3)throw new Error(`At most three Instagram posts per place: ${r.placeId}`);
+  if(count>maxInstagramPosts)throw new Error(`At most five Instagram posts per place: ${r.placeId}`);
  }
  return records;
 }

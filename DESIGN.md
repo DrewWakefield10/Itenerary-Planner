@@ -30,9 +30,7 @@ omitted:
 
 # Lakbay design context
 
-Instagram resources use the existing paper section and text links after place videos. Official widgets load only after an explicit action, in one mobile or up to two desktop columns. Respect Instagram's 326 px minimum; narrower slots keep source links instead of clipping controls. Licensed covers, cards and photo-gap counts remain independent. The widget owns a dedicated DOM container so resizing and navigation can remove it without React reconciliation errors.
-
-For detail pages without an approved cover photograph, reuse the same widget as a named cover-preview variant. Keep its Load Instagram preview control compact and its original-post link visible. The widget keeps its natural full height, branding and controls; it is never styled as a cropped photograph or placed under overlays. Stack the cover area on smaller laptop/tablet widths when needed to fit the official minimum. Omit the chosen post from the lower Instagram section; other posts retain their own load action. Cards keep their existing photograph/art behavior.
+Use a narrow Instagram strip aligned under the place cover and its credit. It shares a desktop row with the overview, and precedes it on mobile. Keep the strip horizontally scrollable without moving the page. Use labeled link cards before opt-in and preserve the full official widget, including its natural height, attribution and controls. Slots below the 326 px minimum retain their original links. Approved photographs and the compass fallback stay in the cover. Avoid a duplicate Instagram section farther down the page.
 
 ## Overview
 
@@ -73,7 +71,7 @@ Explore owns destination understanding and practical advice. Its two URL-linked 
 | Directory cards, filters, details | `components/discover.tsx` and existing discovery CSS |
 | Destination/advice hub and guides | `components/explore.tsx`, `components/destination-card.tsx`, `lib/explore.ts` and `lib/travel-advice.ts` |
 | Incoming planner choices | Existing `components/planner.tsx`, shared `components/confirm-dialog.tsx`, `lib/planner-entry.ts` |
-| Original Instagram resources / detail-cover preview | `components/place-instagram.tsx`, shared opt-in loader; photographs remain preferred |
+| Instagram photo strip | `components/place-instagram.tsx`, shared opt-in loader; photographs remain preferred |
 | Food role filters and venue evidence | Same native selects and source indicators; preserve cream/teal notebook styling and card dimensions |
 | Source status and review explanation | `components/source-indicator.tsx` |
 | Add preview and explicit acceptance | `components/discovery-add-dialog.tsx`, `lib/discovery-planning.ts` |
@@ -83,7 +81,7 @@ Explore owns destination understanding and practical advice. Its two URL-linked 
 
 ## Do's and Don'ts
 
-Keep browsing groups distinct from municipalities and overnight bases. Reuse licensed local assets with their existing credits; use the compass fallback when no matching place photo exists, except for the explicitly requested opt-in Instagram detail-cover variant when an eligible original post is available. Do not let an accepted identity imply verified prices, hours, accessibility, or travel safety. Preserve source metadata in snapshots and require explicit acceptance for itinerary additions.
+Keep browsing groups distinct from municipalities and overnight bases. Reuse licensed local assets with their existing credits; use the compass fallback when no matching place photo exists, with reviewed Instagram posts available separately in the gallery. Do not let an accepted identity imply verified prices, hours, accessibility, or travel safety. Preserve source metadata in snapshots and require explicit acceptance for itinerary additions.
 
 The planner keeps precise place-type controls in an optional native disclosure below travel interests. Reuse labeled native checkboxes in the existing responsive form grid. Explain that types take priority over broad interests and shortages retain open time. Keep free time distinct from catalog venues; no decorative or structural redesign accompanies selection changes.
 

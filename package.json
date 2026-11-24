@@ -33,7 +33,7 @@
     "test:places:browser": "node tests/place-content-browser.mjs",
     "publish:instagram": "tsx scripts/publish-instagram-batch.ts",
     "progress:instagram": "tsx scripts/instagram-progress.ts",
-    "test:instagram:browser": "node tests/instagram-browser.mjs && node tests/instagram-cover-browser.mjs"
+    "test:instagram:browser": "node tests/instagram-browser.mjs"
   },
   "dependencies": {
     "@base-ui/react": "^1.7.0",

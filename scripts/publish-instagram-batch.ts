@@ -1,11 +1,11 @@
-import {readFile,writeFile,mkdir,rename} from 'node:fs/promises';
+import {access,readFile,writeFile,mkdir,rename} from 'node:fs/promises';
 import {z} from 'zod/v3';
-import {instagramRecordSchema,validateInstagramRecords} from '../lib/catalog/instagram-schema';
+import {instagramRecordSchema,maxInstagramPosts,validateInstagramRecords} from '../lib/catalog/instagram-schema';
 
 const decisionSchema=z.object({
  mode:z.literal('instagram-only'),batchId:z.string().regex(/^instagram-[a-z0-9-]+$/),
  checkedOn:instagramRecordSchema.innerType().shape.checkedOn,
- entries:z.array(z.object({placeId:z.string(),decision:z.literal('approved'),identityReviewed:z.literal(true),correctionReason:z.string().min(15).optional(),posts:z.array(instagramRecordSchema).min(1).max(3)}).strict()).min(1).max(20),
+ entries:z.array(z.object({placeId:z.string(),decision:z.literal('approved'),identityReviewed:z.literal(true),correctionReason:z.string().min(15).optional(),posts:z.array(instagramRecordSchema).min(1).max(maxInstagramPosts)}).strict()).min(1).max(20),
 }).strict();
 export async function publishInstagramBatch(input:unknown){
  const decision=decisionSchema.parse(input);
@@ -18,6 +18,10 @@ export async function publishInstagramBatch(input:unknown){
   seen.add(entry.placeId);
   for(const post of entry.posts){
    if(post.placeId!==entry.placeId||post.checkedOn!==decision.checkedOn)throw Error('Post identity and actual check date must match its decision');
+   if(post.photo){
+    await access('public'+post.photo.asset.src);
+    if(post.photo.asset.srcSmall)await access('public'+post.photo.asset.srcSmall);
+   }
    const old=result.find(r=>r.placeId===post.placeId&&r.url===post.url);
    if(old&&JSON.stringify(old)!==JSON.stringify(post)){
     if(!entry.correctionReason)throw Error('Existing reviewed post differs; an explicit correction reason is required');

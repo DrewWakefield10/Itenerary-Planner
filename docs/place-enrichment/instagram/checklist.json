@@ -2256,14 +2256,14 @@
       "category": "Attractions",
       "hasApprovedPhoto": false,
       "batchId": "instagram-007",
-      "status": "publisher-search-complete-post-search-pending",
-      "instagramResources": 0,
-      "manualEmbeds": 0,
-      "confirmedEmbeds": 0,
+      "status": "selected",
+      "instagramResources": 1,
+      "manualEmbeds": 1,
+      "confirmedEmbeds": 1,
       "linkOnly": 0,
       "publisherSourcesChecked": 1,
       "inaccessibleSources": [],
-      "remaining": "Exact public-post identity review remains; no eligible post is inferred from an empty publisher search."
+      "remaining": "Individual embed availability can change."
     },
     {
       "placeId": "siargao-maasin-river",
@@ -2924,14 +2924,14 @@
       "category": "Culture",
       "hasApprovedPhoto": false,
       "batchId": "instagram-008",
-      "status": "publisher-search-complete-post-search-pending",
-      "instagramResources": 0,
-      "manualEmbeds": 0,
-      "confirmedEmbeds": 0,
+      "status": "selected",
+      "instagramResources": 1,
+      "manualEmbeds": 1,
+      "confirmedEmbeds": 1,
       "linkOnly": 0,
       "publisherSourcesChecked": 2,
       "inaccessibleSources": [],
-      "remaining": "Exact public-post identity review remains; no eligible post is inferred from an empty publisher search."
+      "remaining": "Individual embed availability can change."
     },
     {
       "placeId": "baguio-ili-likha",
@@ -6483,14 +6483,14 @@
       "category": "Parks & markets",
       "hasApprovedPhoto": true,
       "batchId": "instagram-018",
-      "status": "publisher-search-complete-post-search-pending",
-      "instagramResources": 0,
-      "manualEmbeds": 0,
-      "confirmedEmbeds": 0,
+      "status": "selected",
+      "instagramResources": 2,
+      "manualEmbeds": 2,
+      "confirmedEmbeds": 2,
       "linkOnly": 0,
       "publisherSourcesChecked": 2,
       "inaccessibleSources": [],
-      "remaining": "Exact public-post identity review remains; no eligible post is inferred from an empty publisher search."
+      "remaining": "Individual embed availability can change."
     },
     {
       "placeId": "baguio-botanical-garden",
