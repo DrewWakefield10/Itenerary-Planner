@@ -11,7 +11,7 @@ import {
   discoveryStop,
   type DiscoveryPlace,
 } from "@/lib/discovery";
-import { destination, peso } from "@/lib/destinations";
+import { destination, peso, selectableDestinations } from "@/lib/destinations";
 import { blankActivity, endTime, uid } from "@/lib/engine";
 import {
   activityCostLabel,
@@ -36,6 +36,10 @@ import { PlacePhoto } from "./place-media";
 import { SourceIndicator } from "./source-indicator";
 import ConfirmDialog from "./confirm-dialog";
 import { updateActivityField } from "@/lib/activity-sources";
+
+const palawanBases = selectableDestinations.filter(
+  (base) => base.province === "Palawan",
+);
 
 type Window = NonNullable<TripDay["windows"]>[number];
 export type GapTarget = { dayId: string; windowId: string };
@@ -509,11 +513,14 @@ export function ManualItinerary({
   const currentPlace = discoveryPlace(preview || placeId || "");
   const catalogDay = previewDay >= 0 ? draft.days[previewDay] : day;
   const catalogIndex = previewDay >= 0 ? previewDay : dayIndex;
+  const baseFilter = palawanBases.find((base) => base.slug === draft.group);
   const found = filterDirectory({
-    group: draft.group,
+    group: baseFilter?.province ?? draft.group,
     category: draft.category,
     search: draft.search,
-  });
+  }).filter(
+    (place) => !baseFilter || place.itinerary_base_slug === baseFilter.slug,
+  );
   const page = Math.min(draft.page, Math.max(1, Math.ceil(found.length / 6)));
   const updateDay = (next: TripDay) =>
     change({
@@ -830,9 +837,20 @@ export function ManualItinerary({
               }
             >
               <option value="all">All destinations</option>
-              {destinationGroups.map((group) => (
-                <option key={group}>{group}</option>
-              ))}
+              {destinationGroups.map((group) =>
+                group === "Palawan" ? (
+                  <optgroup key={group} label={group}>
+                    <option value={group}>All Palawan</option>
+                    {palawanBases.map((base) => (
+                      <option key={base.slug} value={base.slug}>
+                        {base.name}
+                      </option>
+                    ))}
+                  </optgroup>
+                ) : (
+                  <option key={group}>{group}</option>
+                ),
+              )}
             </select>
           </label>
           <label>

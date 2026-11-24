@@ -55,10 +55,56 @@ try {
     await expect(
       page.getByLabel("Itinerary day").locator("option"),
     ).toHaveCount(5);
-    await page
-      .getByRole("searchbox", { name: "Search places" })
-      .fill("Burnham Park");
     const catalog = page.locator(".manual-catalog");
+    const destination = catalog.getByRole("combobox", {
+      name: "Destination",
+      exact: true,
+    });
+    const search = catalog.getByRole("searchbox", { name: "Search places" });
+    const palawan = destination.locator('optgroup[label="Palawan"]');
+    await expect(palawan.locator("option")).toHaveText([
+      "All Palawan",
+      "El Nido",
+      "Coron",
+      "Puerto Princesa",
+    ]);
+    const directory = await (
+      await page.request.get(origin + "/data/lakbay-locations.json")
+    ).json();
+    for (const base of ["el-nido", "coron", "puerto-princesa"]) {
+      await destination.selectOption(base);
+      const matches = directory.filter(
+        (place) => place.itinerary_base_slug === base,
+      );
+      await expect(catalog.getByRole("status")).toHaveText(
+        `${matches.length} places`,
+      );
+    }
+    await search.fill("Plaza Cuartel");
+    await catalog
+      .getByRole("combobox", { name: "Category", exact: true })
+      .selectOption("Culture");
+    await expect(
+      catalog.getByRole("heading", { name: "Plaza Cuartel", exact: true }),
+    ).toBeVisible();
+    await page.reload();
+    await expect(destination).toHaveValue("puerto-princesa");
+    await expect(search).toHaveValue("Plaza Cuartel");
+    await expect(
+      catalog.getByRole("combobox", { name: "Category", exact: true }),
+    ).toHaveValue("Culture");
+    await destination.selectOption("el-nido");
+    await expect(catalog.getByRole("status")).toHaveText("0 places");
+    await catalog
+      .getByRole("combobox", { name: "Category", exact: true })
+      .selectOption("all");
+    await destination.selectOption("Palawan");
+    await search.fill("Port Barton Beach");
+    await expect(
+      catalog.getByRole("heading", { name: "Port Barton Beach", exact: true }),
+    ).toBeVisible();
+    await destination.selectOption("all");
+    await search.fill("Burnham Park");
     await catalog.getByRole("button", { name: "Add to day…" }).first().click();
     let modal = page.getByRole("dialog");
     await expect(
