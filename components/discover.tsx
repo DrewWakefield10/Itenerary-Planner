@@ -39,7 +39,8 @@ import {directoryDetails} from "@/lib/catalog/directory-details";
 import {unverifiedSource} from "@/lib/sources";
 import {foodForPlace,foodFilters} from "@/lib/catalog/food";
 import {BookmarkButton} from "./bookmarks";
-import {PlacePhoto,PlaceOverview,PlaceVideos,PlaceEditorialCredits} from "./place-media";
+import {PlaceOverview,PlaceVideos,PlaceEditorialCredits} from "./place-media";
+import { PlaceCover } from "./place-cover";
 import { instagramGalleryForPlace } from "@/lib/catalog/instagram";
 const InstagramGallery=lazy(()=>import('./place-instagram').then(module=>({default:module.InstagramGallery})));
 const AddDialog = lazy(() => import("./discovery-add-dialog"));
@@ -83,14 +84,10 @@ export function PlaceCard({
 }) {
   const base = destination(place.baseSlug);
   const stop = discoveryStop(place);
+  const [photoUnavailable, setPhotoUnavailable] = useState(false);
   return (
     <article className="discovery-card">
-      <Link href={`/discover/${place.id}`} className="discovery-photo">
-        <PlacePhoto key={place.image?.src||place.id} place={place}/>
-        <span className="discovery-kind">
-          {place.kind === "base" ? "Overnight base" : "Individual stop"}
-        </span>
-      </Link>
+      <PlaceCover key={place.id} place={place} card onPhotoError={() => setPhotoUnavailable(true)}/>
       <div className="discovery-card-body">
         <p className="eyebrow">
           {place.directory?.city_municipality || base?.name}
@@ -180,8 +177,8 @@ export function PlaceCard({
           <Link className="discovery-view" href={`/discover/${place.id}`}>
             View place
           </Link>
-          {!place.image && instagramGalleryForPlace(place.id).length>0 && (
-            <Link className="text-link" href={`/discover/${place.id}#instagram-photos`}>See more photos</Link>
+          {(!place.image || photoUnavailable) && instagramGalleryForPlace(place.id, place.image).length>0 && (
+            <Link className="text-link" href={`/discover/${place.id}#instagram-photos`}>See photos</Link>
           )}
         </div>
       </div>
@@ -893,10 +890,7 @@ function PlaceDetails({
               : "A place to stay overnight, with its own local stops."}
           </p>
         </div>
-        <figure>
-          <PlacePhoto key={place.image?.src || place.id} place={place} prominent/>
-          {place.image&&<figcaption><a href="#place-sources">Photo source and reuse license</a></figcaption>}
-        </figure>
+        <PlaceCover key={place.id} place={place}/>
       </div>
       {instagramGalleryForPlace(place.id,place.image).length>0 ? (
         <div className="place-overview-with-gallery">

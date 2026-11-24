@@ -1,0 +1,520 @@
+{
+  "id": "06-remaining",
+  "checkedOn": "2026-11-25",
+  "records": [
+    {
+      "placeId": "boracay-hama",
+      "name": "Hama Japanese Restaurant",
+      "municipality": "Malay",
+      "destination": "Boracay",
+      "category": "Food & drink",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Hama+Japanese+Restaurant+Malay&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        },
+        {
+          "url": "https://api.openverse.org/v1/images/?q=Hama+Japanese+Restaurant+Malay&license=by%2Cby-sa%2Ccc0%2Cpdm&page_size=4",
+          "status": "HTTP 503"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-002-decisions.json",
+      "listingSource": "https://www.hama.com.ph/",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "boracay-cafe-del-sol",
+      "name": "Cafe del Sol",
+      "municipality": "Malay",
+      "destination": "Boracay",
+      "category": "Food & drink",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Cafe+del+Sol+Malay&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        },
+        {
+          "url": "https://api.openverse.org/v1/images/?q=Cafe+del+Sol+Malay&license=by%2Cby-sa%2Ccc0%2Cpdm&page_size=4",
+          "status": "HTTP 503"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-002-decisions.json",
+      "listingSource": "https://www.careers.aria.com.ph/",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "boracay-beach-truck",
+      "name": "Boracay Beach Truck",
+      "municipality": "Malay",
+      "destination": "Boracay",
+      "category": "Food & drink",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Boracay+Beach+Truck+Malay&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        },
+        {
+          "url": "https://api.openverse.org/v1/images/?q=Boracay+Beach+Truck+Malay&license=by%2Cby-sa%2Ccc0%2Cpdm&page_size=4",
+          "status": "TimeoutError"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-002-decisions.json",
+      "listingSource": "https://www.careers.aria.com.ph/",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "boracay-dinibeach-bar",
+      "name": "Dinibeach Bar & Restaurant",
+      "municipality": "Malay",
+      "destination": "Boracay",
+      "category": "Food & drink",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Dinibeach+Bar+%26+Restaurant+Malay&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        },
+        {
+          "url": "https://api.openverse.org/v1/images/?q=Dinibeach+Bar+%26+Restaurant+Malay&license=by%2Cby-sa%2Ccc0%2Cpdm&page_size=4",
+          "status": "HTTP 503"
+        }
+      ],
+      "candidates": [],
+      "instagramReferenceOnly": [
+        "https://www.instagram.com/p/CfPoELGqO_5/"
+      ],
+      "priorDecision": "cover-002-decisions.json",
+      "listingSource": "https://diniviewboracay.com/",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "boracay-citymall",
+      "name": "CityMall Boracay",
+      "municipality": "Malay",
+      "destination": "Boracay",
+      "category": "Parks & markets",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=CityMall+Boracay+Malay&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-002-decisions.json",
+      "listingSource": "https://www.doubledragon.com.ph/article/boracay-gets-first-real-mall",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "boracay-sirena",
+      "name": "Sirena Restaurant & Clifftop Bar",
+      "municipality": "Malay",
+      "destination": "Boracay",
+      "category": "Food & drink",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Sirena+Restaurant+%26+Clifftop+Bar+Malay&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        },
+        {
+          "url": "https://api.openverse.org/v1/images/?q=Sirena+Restaurant+%26+Clifftop+Bar+Malay&license=by%2Cby-sa%2Ccc0%2Cpdm&page_size=4",
+          "status": "TimeoutError"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-002-decisions.json",
+      "listingSource": "https://www.shangri-la.com/restaurants-bars/boracay/boracayresort/sirena/",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "boracay-los-indios-bravos",
+      "name": "Los Indios Bravos",
+      "municipality": "Malay",
+      "destination": "Boracay",
+      "category": "Food & drink",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Los+Indios+Bravos+Malay&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        },
+        {
+          "url": "https://api.openverse.org/v1/images/?q=Los+Indios+Bravos+Malay&license=by%2Cby-sa%2Ccc0%2Cpdm&page_size=4",
+          "status": "TimeoutError"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-002-decisions.json",
+      "listingSource": "https://www.losindiosbravos.com/",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "boracay-sands-bar-restaurant",
+      "name": "Sands Bar & Restaurant",
+      "municipality": "Malay",
+      "destination": "Boracay",
+      "category": "Food & drink",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Sands+Bar+%26+Restaurant+Malay&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        },
+        {
+          "url": "https://api.openverse.org/v1/images/?q=Sands+Bar+%26+Restaurant+Malay&license=by%2Cby-sa%2Ccc0%2Cpdm&page_size=4",
+          "status": "TimeoutError"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-003-decisions.json",
+      "listingSource": "https://boracaysands.com/amenities/",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "iloilo-breakthrough-villa",
+      "name": "Breakthrough Restaurant - Villa",
+      "municipality": "Iloilo City",
+      "destination": "Iloilo",
+      "category": "Food & drink",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Breakthrough+Restaurant+-+Villa+Iloilo&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        },
+        {
+          "url": "https://api.openverse.org/v1/images/?q=Breakthrough+Restaurant+-+Villa+Iloilo&license=by%2Cby-sa%2Ccc0%2Cpdm&page_size=4",
+          "status": "searched"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-007-decisions.json",
+      "listingSource": "https://breakthroughrestaurants.com/breakthrough-2/",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "iloilo-dapli-valeria",
+      "name": "Dapli by Breakthrough",
+      "municipality": "Iloilo City",
+      "destination": "Iloilo",
+      "category": "Food & drink",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Dapli+by+Breakthrough+Iloilo&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        },
+        {
+          "url": "https://api.openverse.org/v1/images/?q=Dapli+by+Breakthrough+Iloilo&license=by%2Cby-sa%2Ccc0%2Cpdm&page_size=4",
+          "status": "TimeoutError"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-007-decisions.json",
+      "listingSource": "https://breakthroughrestaurants.com/dapli-2/",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "iloilo-ponsyon-plazuela",
+      "name": "Ponsyon by Breakthrough",
+      "municipality": "Iloilo City",
+      "destination": "Iloilo",
+      "category": "Food & drink",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Ponsyon+by+Breakthrough+Iloilo&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        },
+        {
+          "url": "https://api.openverse.org/v1/images/?q=Ponsyon+by+Breakthrough+Iloilo&license=by%2Cby-sa%2Ccc0%2Cpdm&page_size=4",
+          "status": "TimeoutError"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-007-decisions.json",
+      "listingSource": "https://breakthroughrestaurants.com/ponsyon-2/",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "batanes-beehan",
+      "name": "Beehan Food Enterprise",
+      "municipality": "Basco",
+      "destination": "Batanes",
+      "category": "Food & drink",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Beehan+Food+Enterprise+Basco&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        },
+        {
+          "url": "https://api.openverse.org/v1/images/?q=Beehan+Food+Enterprise+Basco&license=by%2Cby-sa%2Ccc0%2Cpdm&page_size=4",
+          "status": "TimeoutError"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-005-decisions.json",
+      "listingSource": "https://breathtakingbatanes.com/foodmap.pdf",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "batanes-harbour-cafe",
+      "name": "Harbour Cafe",
+      "municipality": "Basco",
+      "destination": "Batanes",
+      "category": "Food & drink",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Harbour+Cafe+Basco&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        },
+        {
+          "url": "https://api.openverse.org/v1/images/?q=Harbour+Cafe+Basco&license=by%2Cby-sa%2Ccc0%2Cpdm&page_size=4",
+          "status": "searched"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-005-decisions.json",
+      "listingSource": "https://breathtakingbatanes.com/foodmap.pdf",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "batanes-vunong-dinette",
+      "name": "Vunong Dinette",
+      "municipality": "Basco",
+      "destination": "Batanes",
+      "category": "Food & drink",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Vunong+Dinette+Basco&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        },
+        {
+          "url": "https://api.openverse.org/v1/images/?q=Vunong+Dinette+Basco&license=by%2Cby-sa%2Ccc0%2Cpdm&page_size=4",
+          "status": "searched"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-005-decisions.json",
+      "listingSource": "https://breathtakingbatanes.com/foodmap.pdf",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "batanes-honesty-coffee-shop",
+      "name": "Honesty Coffee Shop",
+      "municipality": "Ivana",
+      "destination": "Batanes",
+      "category": "Food & drink",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Honesty+Coffee+Shop+Ivana&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        },
+        {
+          "url": "https://api.openverse.org/v1/images/?q=Honesty+Coffee+Shop+Ivana&license=by%2Cby-sa%2Ccc0%2Cpdm&page_size=4",
+          "status": "searched"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-005-decisions.json",
+      "listingSource": "https://www.region2fun.ph/official/batanes-2/",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "batanes-chawa-viewdeck",
+      "name": "Chawa View Deck",
+      "municipality": "Mahatao",
+      "destination": "Batanes",
+      "category": "Nature",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Chawa+View+Deck+Mahatao&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-005-decisions.json",
+      "listingSource": "https://bookings.breathtakingbatanes.com/",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "batanes-national-museum",
+      "name": "National Museum of the Philippines - Batanes",
+      "municipality": "Uyugan",
+      "destination": "Batanes",
+      "category": "Culture",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=National+Museum+of+the+Philippines+-+Batanes+Uyugan&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-005-decisions.json",
+      "listingSource": "https://www.nationalmuseum.gov.ph/contact-us/",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "el-nido-grounded-town",
+      "name": "Grounded — El Nido Town",
+      "municipality": "El Nido",
+      "destination": "Palawan",
+      "category": "Food & drink",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Grounded+El+Nido&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        },
+        {
+          "url": "https://api.openverse.org/v1/images/?q=Grounded+El+Nido&license=by%2Cby-sa%2Ccc0%2Cpdm&page_size=4",
+          "status": "TimeoutError"
+        }
+      ],
+      "candidates": [
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:El_Nido,_Grilled_sea_fish,_Palawan,_Philippines.jpg",
+          "title": "File:El Nido, Grilled sea fish, Palawan, Philippines.jpg",
+          "listedLicense": "CC BY 4.0"
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Once_a_bird_witnessing_the_beautiful_horizons.jpg",
+          "title": "File:Once a bird witnessing the beautiful horizons.jpg",
+          "listedLicense": "CC BY-SA 4.0"
+        }
+      ],
+      "priorDecision": "cover-006-decisions.json",
+      "listingSource": "https://grounded.ph/",
+      "outcome": "illustration",
+      "reviewReason": "Returned views did not identify the café."
+    },
+    {
+      "placeId": "el-nido-janu-coffee-tea",
+      "name": "Janu Coffee & Tea",
+      "municipality": "El Nido",
+      "destination": "Palawan",
+      "category": "Food & drink",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Janu+Coffee+%26+Tea+El+Nido&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        },
+        {
+          "url": "https://api.openverse.org/v1/images/?q=Janu+Coffee+%26+Tea+El+Nido&license=by%2Cby-sa%2Ccc0%2Cpdm&page_size=4",
+          "status": "searched"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-006-decisions.json",
+      "listingSource": "https://janu.ph/",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "puerto-princesa-itoys-coffee-haus",
+      "name": "Itoy’s Coffee Haus",
+      "municipality": "Puerto Princesa City",
+      "destination": "Palawan",
+      "category": "Food & drink",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Itoy%27s+Coffee+Haus+Puerto+Princesa&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        },
+        {
+          "url": "https://api.openverse.org/v1/images/?q=Itoy%27s+Coffee+Haus+Puerto+Princesa&license=by%2Cby-sa%2Ccc0%2Cpdm&page_size=4",
+          "status": "TimeoutError"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-006-decisions.json",
+      "listingSource": "https://www.puertoprincesatourism.com/restaurants",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "puerto-princesa-koffee-kat",
+      "name": "Koffee Kat Cafe",
+      "municipality": "Puerto Princesa City",
+      "destination": "Palawan",
+      "category": "Food & drink",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Koffee+Kat+Cafe+Puerto+Princesa&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        },
+        {
+          "url": "https://api.openverse.org/v1/images/?q=Koffee+Kat+Cafe+Puerto+Princesa&license=by%2Cby-sa%2Ccc0%2Cpdm&page_size=4",
+          "status": "TimeoutError"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-006-decisions.json",
+      "listingSource": "https://www.puertoprincesatourism.com/restaurants",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "puerto-princesa-ka-inato-main",
+      "name": "Ka Inato — Tiniguiban",
+      "municipality": "Puerto Princesa City",
+      "destination": "Palawan",
+      "category": "Food & drink",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Ka+Inato+Puerto+Princesa&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        },
+        {
+          "url": "https://api.openverse.org/v1/images/?q=Ka+Inato+Puerto+Princesa&license=by%2Cby-sa%2Ccc0%2Cpdm&page_size=4",
+          "status": "TimeoutError"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-006-decisions.json",
+      "listingSource": "https://www.puertoprincesatourism.com/restaurants",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    }
+  ],
+  "totals": {
+    "places": 22,
+    "reachedIndex": 22,
+    "withImageLeads": 1,
+    "approvedPhotos": 0
+  }
+}

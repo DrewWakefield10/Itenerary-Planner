@@ -1,0 +1,628 @@
+{
+  "id": "01-attractions",
+  "checkedOn": "2026-11-25",
+  "records": [
+    {
+      "placeId": "el-nido-secret-lagoon",
+      "name": "Secret Lagoon",
+      "municipality": "El Nido",
+      "destination": "Palawan",
+      "category": "Nature",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Secret+Lagoon+El+Nido&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        },
+        {
+          "url": "https://api.openverse.org/v1/images/?q=Secret+Lagoon+El+Nido&license=by%2Cby-sa%2Ccc0%2Cpdm&page_size=4",
+          "status": "searched"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-006-decisions.json",
+      "listingSource": "https://www.discoverelnido.com/tours/tour-a/",
+      "followUp": [
+        {
+          "url": "https://commons.wikimedia.org/wiki/File:Secret_lagoon_beach_on_Miniloc_island_-_panoramio_-_Tuderna.jpg",
+          "finding": "Usable CC BY 3.0 terms, but depicts the adjacent shore rather than the enclosed lagoon. No interior view cleared."
+        }
+      ],
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "siargao-catangnan-bridge",
+      "name": "Catangnan–Cabitoonan Bridge",
+      "municipality": "General Luna",
+      "destination": "Siargao",
+      "category": "Attractions",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Catangnan%E2%80%93Cabitoonan+Bridge+General+Luna&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        },
+        {
+          "url": "https://api.openverse.org/v1/images/?q=Catangnan%E2%80%93Cabitoonan+Bridge+General+Luna&license=by%2Cby-sa%2Ccc0%2Cpdm&page_size=4",
+          "status": "TimeoutError"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-001-decisions.json",
+      "listingSource": "https://www.gojavalava.com/siargaotours",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "davao-imin-museum",
+      "name": "IMIN Philippine–Japan Historical Museum",
+      "municipality": "Davao City",
+      "destination": "Davao",
+      "category": "Culture",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=IMIN+Philippine%E2%80%93Japan+Historical+Museum+Davao&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        },
+        {
+          "url": "https://api.openverse.org/v1/images/?q=IMIN+Philippine%E2%80%93Japan+Historical+Museum+Davao&license=by%2Cby-sa%2Ccc0%2Cpdm&page_size=4",
+          "status": "TimeoutError"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-003-decisions.json",
+      "listingSource": "https://tourism.davaocity.gov.ph/explore-the-city/attractions/musuems/imin-philippine-japan-historical-museum/",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "bohol-danao-beach-afternoon",
+      "name": "Danao Beach",
+      "municipality": "Panglao",
+      "destination": "Bohol",
+      "category": "Nature",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Danao+Beach+Panglao&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        },
+        {
+          "url": "https://api.openverse.org/v1/images/?q=Danao+Beach+Panglao&license=by%2Cby-sa%2Ccc0%2Cpdm&page_size=4",
+          "status": "TimeoutError"
+        }
+      ],
+      "candidates": [
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Coconut_trees_on_Panglao_Bita-Ug_beach_-_panoramio.jpg",
+          "title": "File:Coconut trees on Panglao Bita-Ug beach - panoramio.jpg",
+          "listedLicense": "CC BY 3.0"
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Danaos_Beach_Hotel_and_Apartments_-_panoramio.jpg",
+          "title": "File:Danaos Beach Hotel and Apartments - panoramio.jpg",
+          "listedLicense": "CC BY 3.0"
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Danaos_Beach_Hotel_and_Apartments_-_panoramio_(1).jpg",
+          "title": "File:Danaos Beach Hotel and Apartments - panoramio (1).jpg",
+          "listedLicense": "CC BY 3.0"
+        }
+      ],
+      "priorDecision": "cover-004-decisions.json",
+      "listingSource": "https://www.panglaotourism.com/beaches/danao-beach/",
+      "outcome": "illustration",
+      "reviewReason": "Titles match Bita-Ug beach or an unrelated hotel. Exact beach identity remains unresolved."
+    },
+    {
+      "placeId": "boracay-tambisaan-beach",
+      "name": "Tambisaan Beach",
+      "municipality": "Malay",
+      "destination": "Boracay",
+      "category": "Nature",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Tambisaan+Beach+Malay&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        },
+        {
+          "url": "https://api.openverse.org/v1/images/?q=Tambisaan+Beach+Malay&license=by%2Cby-sa%2Ccc0%2Cpdm&page_size=4",
+          "status": "TimeoutError"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-002-decisions.json",
+      "listingSource": "https://www.tpb.gov.ph/wp-content/uploads/2023/10/Boracay-Map.pdf",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "iloilo-taytay-tigre",
+      "name": "Taytay Tigre",
+      "municipality": "Guimbal",
+      "destination": "Iloilo",
+      "category": "Culture",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Taytay+Tigre+Guimbal&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        },
+        {
+          "url": "https://api.openverse.org/v1/images/?q=Taytay+Tigre+Guimbal&license=by%2Cby-sa%2Ccc0%2Cpdm&page_size=4",
+          "status": "searched"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-007-decisions.json",
+      "listingSource": "https://www.iloilo.gov.ph/1st-district",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "cebu-omagieca-obo-ob-mangrove-garden",
+      "name": "Omagieca Obo-ob Mangrove Garden",
+      "municipality": "Bantayan",
+      "destination": "Cebu",
+      "category": "Nature",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Omagieca+Obo-ob+Mangrove+Garden+Bantayan&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        },
+        {
+          "url": "https://api.openverse.org/v1/images/?q=Omagieca+Obo-ob+Mangrove+Garden+Bantayan&license=by%2Cby-sa%2Ccc0%2Cpdm&page_size=4",
+          "status": "searched"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-008-decisions.json",
+      "listingSource": "https://tourism.cebu.gov.ph/explore/bantayan/",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "baguio-easter-weaving-room",
+      "name": "Easter Weaving Room",
+      "municipality": "Baguio City",
+      "destination": "Baguio",
+      "category": "Culture",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Easter+Weaving+Room+Baguio&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        },
+        {
+          "url": "https://api.openverse.org/v1/images/?q=Easter+Weaving+Room+Baguio&license=by%2Cby-sa%2Ccc0%2Cpdm&page_size=4",
+          "status": "TimeoutError"
+        }
+      ],
+      "candidates": [],
+      "instagramReferenceOnly": [
+        "https://www.instagram.com/p/Br-VEbjlLOR/"
+      ],
+      "priorDecision": "cover-003-decisions.json",
+      "listingSource": "https://infoboard.baguio.gov.ph/tourists-spots",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "sagada-balangagan-cave",
+      "name": "Balangagan Cave",
+      "municipality": "Sagada",
+      "destination": "Sagada",
+      "category": "Nature",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Balangagan+Cave+Sagada&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        },
+        {
+          "url": "https://api.openverse.org/v1/images/?q=Balangagan+Cave+Sagada&license=by%2Cby-sa%2Ccc0%2Cpdm&page_size=4",
+          "status": "TimeoutError"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-009-decisions.json",
+      "listingSource": "https://umali-kayo.sagada.gov.ph/",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "batanes-basco-plaza",
+      "name": "Basco Plaza",
+      "municipality": "Basco",
+      "destination": "Batanes",
+      "category": "Parks & markets",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Basco+Plaza+Basco&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        },
+        {
+          "url": "https://api.openverse.org/v1/images/?q=Basco+Plaza+Basco&license=by%2Cby-sa%2Ccc0%2Cpdm&page_size=4",
+          "status": "TimeoutError"
+        }
+      ],
+      "candidates": [
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:02312jfAlmacen_de_Polvora_San_Juan_City_School_Plaza_Mayorfvf_19.jpg",
+          "title": "File:02312jfAlmacen de Polvora San Juan City School Plaza Mayorfvf 19.jpg",
+          "listedLicense": "Public domain"
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:02332jfPuregold_Agora_Public_Market_Plaza_Mayor_San_Juan_Cityfvf_06.jpg",
+          "title": "File:02332jfPuregold Agora Public Market Plaza Mayor San Juan Cityfvf 06.jpg",
+          "listedLicense": "Public domain"
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:02332jfPuregold_Agora_Public_Market_Plaza_Mayor_San_Juan_Cityfvf_20.jpg",
+          "title": "File:02332jfPuregold Agora Public Market Plaza Mayor San Juan Cityfvf 20.jpg",
+          "listedLicense": "Public domain"
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:02332jfPuregold_Agora_Public_Market_Plaza_Mayor_San_Juan_Cityfvf_25.jpg",
+          "title": "File:02332jfPuregold Agora Public Market Plaza Mayor San Juan Cityfvf 25.jpg",
+          "listedLicense": "Public domain"
+        }
+      ],
+      "priorDecision": "cover-005-decisions.json",
+      "listingSource": "https://en.wikivoyage.org/wiki/Basco",
+      "outcome": "illustration",
+      "reviewReason": "Returned results locate other plazas in San Juan City."
+    },
+    {
+      "placeId": "el-nido-cudugnon-cave",
+      "name": "Cudugnon Cave",
+      "municipality": "El Nido",
+      "destination": "Palawan",
+      "category": "Culture",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Cudugnon+Cave+El+Nido&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        },
+        {
+          "url": "https://api.openverse.org/v1/images/?q=Cudugnon+Cave+El+Nido&license=by%2Cby-sa%2Ccc0%2Cpdm&page_size=4",
+          "status": "TimeoutError"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-006-decisions.json",
+      "listingSource": "https://www.discoverelnido.com/tours/tour-b/",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "siargao-tayangban-cave-pool",
+      "name": "Tayangban Cave Pool",
+      "municipality": "Pilar",
+      "destination": "Siargao",
+      "category": "Attractions",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Tayangban+Cave+Pool+Pilar&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        },
+        {
+          "url": "https://api.openverse.org/v1/images/?q=Tayangban+Cave+Pool+Pilar&license=by%2Cby-sa%2Ccc0%2Cpdm&page_size=4",
+          "status": "TimeoutError"
+        }
+      ],
+      "candidates": [],
+      "instagramReferenceOnly": [
+        "https://www.instagram.com/p/BIPl-oJj_4w/"
+      ],
+      "priorDecision": "cover-001-decisions.json",
+      "listingSource": "https://www.gojavalava.com/siargaotours",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "davao-gap-farm",
+      "name": "GAP Farm Resort",
+      "municipality": "Davao City",
+      "destination": "Davao",
+      "category": "Nature",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=GAP+Farm+Resort+Davao&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        },
+        {
+          "url": "https://api.openverse.org/v1/images/?q=GAP+Farm+Resort+Davao&license=by%2Cby-sa%2Ccc0%2Cpdm&page_size=4",
+          "status": "searched"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-004-decisions.json",
+      "listingSource": "https://tourism.davaocity.gov.ph/explore-the-city/attractions/man-made-nature-parks/gap-farm-resort/",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "bohol-libaong-beach",
+      "name": "Libaong Beach",
+      "municipality": "Panglao",
+      "destination": "Bohol",
+      "category": "Nature",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Libaong+Beach+Panglao&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        },
+        {
+          "url": "https://api.openverse.org/v1/images/?q=Libaong+Beach+Panglao&license=by%2Cby-sa%2Ccc0%2Cpdm&page_size=4",
+          "status": "searched"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-004-decisions.json",
+      "listingSource": "https://tourism.bohol.gov.ph/visitbohol-panglao/",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "boracay-tulubhan-beach",
+      "name": "Tulubhan Beach",
+      "municipality": "Malay",
+      "destination": "Boracay",
+      "category": "Nature",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Tulubhan+Beach+Malay&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        },
+        {
+          "url": "https://api.openverse.org/v1/images/?q=Tulubhan+Beach+Malay&license=by%2Cby-sa%2Ccc0%2Cpdm&page_size=4",
+          "status": "searched"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-002-decisions.json",
+      "listingSource": "https://www.tpb.gov.ph/wp-content/uploads/2023/10/Boracay-Map.pdf",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "iloilo-garin-farm",
+      "name": "Garin Farm",
+      "municipality": "San Joaquin",
+      "destination": "Iloilo",
+      "category": "Attractions",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Garin+Farm+San+Joaquin&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        },
+        {
+          "url": "https://api.openverse.org/v1/images/?q=Garin+Farm+San+Joaquin&license=by%2Cby-sa%2Ccc0%2Cpdm&page_size=4",
+          "status": "TimeoutError"
+        }
+      ],
+      "candidates": [
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:San_Joaquin_town_center.jpg",
+          "title": "File:San Joaquin town center.jpg",
+          "listedLicense": "CC BY-SA 4.0"
+        }
+      ],
+      "priorDecision": "cover-007-decisions.json",
+      "listingSource": "https://www.pna.gov.ph/articles/1214613",
+      "outcome": "illustration",
+      "reviewReason": "The search result depicts the San Joaquin town center, a separate place."
+    },
+    {
+      "placeId": "baguio-ili-likha",
+      "name": "Ili-Likha Artists' Wateringhole",
+      "municipality": "Baguio City",
+      "destination": "Baguio",
+      "category": "Culture",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Ili-Likha+Artists%27+Wateringhole+Baguio&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        },
+        {
+          "url": "https://api.openverse.org/v1/images/?q=Ili-Likha+Artists%27+Wateringhole+Baguio&license=by%2Cby-sa%2Ccc0%2Cpdm&page_size=4",
+          "status": "TimeoutError"
+        }
+      ],
+      "candidates": [],
+      "instagramReferenceOnly": [
+        "https://www.instagram.com/p/DRoz8atiZVJ/"
+      ],
+      "priorDecision": "cover-003-decisions.json",
+      "listingSource": "https://infoboard.baguio.gov.ph/tourists-spots",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "batanes-rakuh-idi-spring",
+      "name": "Rakuh-a-Idi Spring",
+      "municipality": "Mahatao",
+      "destination": "Batanes",
+      "category": "Nature",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Rakuh-a-Idi+Spring+Mahatao&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        },
+        {
+          "url": "https://api.openverse.org/v1/images/?q=Rakuh-a-Idi+Spring+Mahatao&license=by%2Cby-sa%2Ccc0%2Cpdm&page_size=4",
+          "status": "searched"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-005-decisions.json",
+      "listingSource": "https://breathtakingbatanes.com/maps/",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "puerto-princesa-mendoza-park",
+      "name": "Mendoza Park",
+      "municipality": "Puerto Princesa City",
+      "destination": "Palawan",
+      "category": "Parks & markets",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Mendoza+Park+Puerto+Princesa&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        },
+        {
+          "url": "https://api.openverse.org/v1/images/?q=Mendoza+Park+Puerto+Princesa&license=by%2Cby-sa%2Ccc0%2Cpdm&page_size=4",
+          "status": "TimeoutError"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-006-decisions.json",
+      "listingSource": "https://citytourism.puertoprincesa.ph/historical-landmarks/",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "siargao-maasin-river",
+      "name": "Maasin River",
+      "municipality": "Pilar",
+      "destination": "Siargao",
+      "category": "Nature",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Maasin+River+Pilar&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        },
+        {
+          "url": "https://api.openverse.org/v1/images/?q=Maasin+River+Pilar&license=by%2Cby-sa%2Ccc0%2Cpdm&page_size=4",
+          "status": "TimeoutError"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-001-decisions.json",
+      "listingSource": "https://www.gojavalava.com/siargaotours",
+      "followUp": [
+        {
+          "url": "https://unsplash.com/photos/dense-palm-forest-surrounds-a-vibrant-blue-natural-pool-u9Hk82jdjeo",
+          "finding": "Indexed lead mentions Maasin River. No fresh individual visual and license review established; the prior source access was blocked."
+        }
+      ],
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "davao-dleonor-inland-resort",
+      "name": "D’Leonor Inland Resort and Adventure Park",
+      "municipality": "Davao City",
+      "destination": "Davao",
+      "category": "Attractions",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=D%27Leonor+Inland+Resort+and+Adventure+Park+Davao&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        },
+        {
+          "url": "https://api.openverse.org/v1/images/?q=D%27Leonor+Inland+Resort+and+Adventure+Park+Davao&license=by%2Cby-sa%2Ccc0%2Cpdm&page_size=4",
+          "status": "TimeoutError"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-004-decisions.json",
+      "listingSource": "https://tourism.davaocity.gov.ph/explore-the-city/attractions/man-made-nature-parks/dleonor-inland-resort/",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "bohol-loboc-eco-adventure-park",
+      "name": "Loboc Eco-Tourism Adventure Park",
+      "municipality": "Loboc",
+      "destination": "Bohol",
+      "category": "Attractions",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Loboc+Eco-Tourism+Adventure+Park+Loboc&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        },
+        {
+          "url": "https://api.openverse.org/v1/images/?q=Loboc+Eco-Tourism+Adventure+Park+Loboc&license=by%2Cby-sa%2Ccc0%2Cpdm&page_size=4",
+          "status": "searched"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-005-decisions.json",
+      "listingSource": "https://tourism.bohol.gov.ph/visitbohol-loboc/",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "boracay-newcoast-keyhole",
+      "name": "Boracay Newcoast Keyhole",
+      "municipality": "Malay",
+      "destination": "Boracay",
+      "category": "Attractions",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Boracay+Newcoast+Keyhole+Malay&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        },
+        {
+          "url": "https://api.openverse.org/v1/images/?q=Boracay+Newcoast+Keyhole+Malay&license=by%2Cby-sa%2Ccc0%2Cpdm&page_size=4",
+          "status": "TimeoutError"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-002-decisions.json",
+      "listingSource": "https://boracaynewcoastph.com/coves/",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "baguio-aguinaldo-museum",
+      "name": "Emilio F. Aguinaldo Museum",
+      "municipality": "Baguio City",
+      "destination": "Baguio",
+      "category": "Culture",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Emilio+F.+Aguinaldo+Museum+Baguio&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        },
+        {
+          "url": "https://api.openverse.org/v1/images/?q=Emilio+F.+Aguinaldo+Museum+Baguio&license=by%2Cby-sa%2Ccc0%2Cpdm&page_size=4",
+          "status": "TimeoutError"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-003-decisions.json",
+      "listingSource": "https://infoboard.baguio.gov.ph/tourists-spots",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    }
+  ],
+  "totals": {
+    "places": 24,
+    "reachedIndex": 24,
+    "withImageLeads": 3,
+    "approvedPhotos": 0
+  }
+}

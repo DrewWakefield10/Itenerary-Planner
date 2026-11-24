@@ -7,7 +7,7 @@ export function validatePhotoDecision(entry){
  if(entry.visuallyReviewed!==true||entry.licenseReviewed!==true||!entry.identityEvidence?.length)throw Error('Explicit visual, identity and license review is required');
  const p=entry.photo;
  if(!p?.creator?.trim()||!p.alt?.trim()||!p.attribution?.trim())throw Error('Missing attribution or alt text');
- for(const url of [p.sourcePage,p.originalUrl,p.licenseUrl,...entry.identityEvidence])if(new URL(url).protocol!=='https:')throw Error('Only HTTPS public evidence is accepted');
+ for(const url of [p.sourcePage,p.originalUrl,p.licenseUrl,...entry.identityEvidence,...(p.creatorUrl?[p.creatorUrl]:[])])if(new URL(url).protocol!=='https:')throw Error('Only HTTPS public evidence is accepted');
  const match=/^CC BY(-SA)? ([1-4]\.0)$/.exec(p.license);
  const expected=match?`https://creativecommons.org/licenses/by${match[1]?'-sa':''}/${match[2]}`:p.license==='CC0'?'https://creativecommons.org/publicdomain/zero/1.0':p.license==='Public domain'?null:undefined;
  if(expected===undefined||(expected&&p.licenseUrl.replace(/\/deed\.[a-z-]+\/?$/,'').replace(/\/$/,'')!==expected))throw Error('License and individual-image license URL require review');
@@ -15,14 +15,15 @@ export function validatePhotoDecision(entry){
  if(!['upload.wikimedia.org','thumb.wikimedia.org','live.staticflickr.com'].includes(new URL(entry.downloadUrl||p.originalUrl).hostname))throw Error('Unexpected image delivery host');
 }
 export async function publishPhotoBatch(decision){
- const followup=decision.mode==='cover-photos';
- const root=followup?'docs/place-enrichment/cover-completion':'docs/place-enrichment/photo-only';
- if(!(followup?/^cover-\d{3}$/:/^photo-\d{3}$/).test(decision.batchId)||(!followup&&decision.mode!=='photos-only')||decision.entries.length<20||decision.entries.length>25)throw Error('Use a saved batch of 20–25 photo-only decisions');
+ const followup=decision.mode==='cover-photos', visual=decision.mode==='visual-photos';
+ const root=visual?'docs/place-enrichment/visual-coverage':followup?'docs/place-enrichment/cover-completion':'docs/place-enrichment/photo-only';
+ if(!(visual?/^visual-\d{3}$/:followup?/^cover-\d{3}$/:/^photo-\d{3}$/).test(decision.batchId)||(!visual&&!followup&&decision.mode!=='photos-only')||decision.entries.length<(visual?1:20)||decision.entries.length>25)throw Error('Use a saved photo decision batch with the expected ID and size');
  if(!/^\d{4}-\d{2}-\d{2}$/.test(decision.checkedOn||'')||Number.isNaN(Date.parse(decision.checkedOn))||new Date(decision.checkedOn).toISOString().slice(0,10)!==decision.checkedOn||decision.checkedOn>today())throw Error('Record the actual valid source-review date');
  decision.entries.forEach(validatePhotoDecision);
  const read=async p=>JSON.parse(await readFile(p,'utf8')),save=(p,v)=>writeFile(p,JSON.stringify(v,null,2)+'\n');
  const contentPath='lib/catalog/place-content.json',content=await read(contentPath),checkPath=root+'/checklist.json',check=await read(checkPath);
  const progressPath='public/data/place-enrichment-progress.json',progress=await read(progressPath),outcomes=[];
+ if(new Set(decision.entries.map(entry=>entry.placeId)).size!==decision.entries.length)throw Error('A place can only appear once per batch');
  for(const entry of decision.entries){
   const row=content.find(c=>c.placeId===entry.placeId),record=check.records.find(r=>r.placeId===entry.placeId&&r.batch===decision.batchId);
   if(!row||!record)throw Error('Photo decision must belong to the original missing-photo checklist');

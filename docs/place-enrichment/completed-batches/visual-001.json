@@ -1,0 +1,108 @@
+{
+  "batchId": "visual-001",
+  "mode": "visual-photos",
+  "checkedOn": "2026-11-24",
+  "outcomes": [
+    {
+      "placeId": "siargao-sohoton-cove",
+      "checkedOn": "2026-11-24",
+      "sourcesSearched": [],
+      "rejections": [],
+      "notes": [
+        "The tour operator identifies Sohoton Cove in the original file. The same photo series locates it on Bucas Grande; the Tourism Promotions Board identifies the cove and its interconnected waters. The image shows open water in the cove."
+      ],
+      "status": "added",
+      "photo": {
+        "placeId": "siargao-sohoton-cove",
+        "src": "/images/places/siargao-sohoton-cove.jpg",
+        "srcSmall": "/images/places/siargao-sohoton-cove-640.jpg",
+        "sourcePage": "https://www.flickr.com/photos/93788068@N02/51959825160/",
+        "originalUrl": "https://live.staticflickr.com/65535/51959825160_b10cabe137_o.jpg",
+        "creator": "WayPH.com",
+        "creatorUrl": "https://wayph.com/",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "attribution": "WayPH.com / Flickr / CC BY 2.0. Resized and JPEG compressed.",
+        "alt": "An outrigger boat on the blue water of Sohoton Cove, framed by foliage on Bucas Grande",
+        "width": 1200,
+        "height": 795,
+        "checkedOn": "2026-11-24"
+      }
+    },
+    {
+      "placeId": "davao-bone-collector-museum",
+      "checkedOn": "2026-11-24",
+      "sourcesSearched": [],
+      "rejections": [],
+      "notes": [
+        "The photographer names the museum and Davao City on the individual file. The visual shows the indoor skeleton displays. Treat this as a historical exhibit view; the current display may have changed."
+      ],
+      "status": "added",
+      "photo": {
+        "placeId": "davao-bone-collector-museum",
+        "src": "/images/places/davao-bone-collector-museum.jpg",
+        "srcSmall": "/images/places/davao-bone-collector-museum-640.jpg",
+        "sourcePage": "https://www.flickr.com/photos/90412460@N00/16135543292/",
+        "originalUrl": "https://live.staticflickr.com/7481/16135543292_901efc64d9_o.jpg",
+        "creator": "Bro. Jeffrey  Pioquinto, SJ",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "attribution": "Bro. Jeffrey  Pioquinto, SJ / Flickr / CC BY 2.0. Resized and JPEG compressed.",
+        "alt": "Skeleton exhibits inside D’ Bone Collector Museum in Davao City",
+        "width": 1200,
+        "height": 800,
+        "checkedOn": "2026-11-24"
+      }
+    },
+    {
+      "placeId": "boracay-dtalipapa-market",
+      "checkedOn": "2026-11-24",
+      "sourcesSearched": [],
+      "rejections": [],
+      "notes": [
+        "The photographer identifies Talipapa market on Boracay Island. The image shows vendors and seafood displayed in the market. A current directory identifies D’Talipapa’s Station 2 seafood market. The historical image does not establish the current appearance of stands."
+      ],
+      "status": "added",
+      "photo": {
+        "placeId": "boracay-dtalipapa-market",
+        "src": "/images/places/boracay-dtalipapa-market.jpg",
+        "srcSmall": "/images/places/boracay-dtalipapa-market-640.jpg",
+        "sourcePage": "https://www.flickr.com/photos/bigberto/3572235470/",
+        "originalUrl": "https://live.staticflickr.com/2452/3572235470_2b83c59b33_o.jpg",
+        "creator": "Shubert Ciencia",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "attribution": "Shubert Ciencia / Flickr / CC BY 2.0. Resized and JPEG compressed.",
+        "alt": "A dated view of a seafood stall at D’Talipapa market on Boracay Island",
+        "width": 1200,
+        "height": 900,
+        "checkedOn": "2026-11-24"
+      }
+    },
+    {
+      "placeId": "davao-rizal-park",
+      "checkedOn": "2026-11-24",
+      "sourcesSearched": [],
+      "rejections": [],
+      "notes": [
+        "The file caption identifies the stage and photographer’s street location. The visible eagle figure corroborates the independently reported eagle stage at Rizal Park near San Pedro Square."
+      ],
+      "status": "added",
+      "photo": {
+        "placeId": "davao-rizal-park",
+        "src": "/images/places/davao-rizal-park.jpg",
+        "srcSmall": "/images/places/davao-rizal-park-640.jpg",
+        "sourcePage": "https://www.flickr.com/photos/shankaronline/9103454951/",
+        "originalUrl": "https://live.staticflickr.com/7335/9103454951_a14084f3d2_o.jpg",
+        "creator": "shankar s.",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "attribution": "shankar s. / Flickr / CC BY 2.0. Resized and JPEG compressed.",
+        "alt": "The eagle-topped Rizal Park stage on San Pedro Street in Davao City at night",
+        "width": 1200,
+        "height": 900,
+        "checkedOn": "2026-11-24"
+      }
+    }
+  ]
+}

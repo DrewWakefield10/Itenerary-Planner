@@ -30,7 +30,7 @@ omitted:
 
 # Lakbay design context
 
-Use a narrow Instagram strip aligned under the place cover and its credit. It shares a desktop row with the overview, and precedes it on mobile. Keep the strip horizontally scrollable without moving the page. Use labeled link cards before opt-in and preserve the full official widget, including its natural height, attribution and controls. Slots below the 326 px minimum retain their original links. Approved photographs and the compass fallback stay in the cover. Avoid a duplicate Instagram section farther down the page.
+Use a narrow Instagram strip aligned under the place cover and its credit. It shares a desktop row with the overview, and precedes it on mobile. Keep the strip horizontally scrollable without moving the page. Use labeled link cards before opt-in and preserve the full official widget, including its natural height, attribution and controls. Slots below the 326 px minimum retain their original links. Approved photographs and labeled category illustrations share a reserved cover frame. Avoid a duplicate Instagram section farther down the page.
 
 ## Overview
 
@@ -52,7 +52,7 @@ The existing `.page`, `.section`, `.discovery-grid`, `.paper-note`, and `.discov
 
 Explore Destinations buttons scroll the updated Spots to discover section into view with a small top inset. Keep the existing toggle and combined filters, retain button focus, and use an immediate scroll when reduced motion is requested. Restoring a URL does not initiate this scroll.
 
-Discover puts filtered, paginated Spots to discover before the unchanged readership section in DOM order. Place details lead with the actual municipality and a documentary photograph, followed by overview/highlights, place-specific videos, practical notes, and expandable sources/credits. The existing cream/teal notebook remains canonical. Video players use YouTube's own privacy-enhanced iframe surface in a two-column desktop, one-column mobile grid; controls are never recreated. Every player reserves 16:9 space and has an external fallback link. Photography reserves space and falls back to the compass without substituting another place's photo.
+Discover puts filtered, paginated Spots to discover before the unchanged readership section in DOM order. Place details lead with the actual municipality and a documentary photograph, followed by overview/highlights, place-specific videos, practical notes, and expandable sources/credits. The existing cream/teal notebook remains canonical. Video players use YouTube's own privacy-enhanced iframe surface in a two-column desktop, one-column mobile grid; controls are never recreated. Every player reserves 16:9 space and has an external fallback link. Covers reserve space. Reuse-approved promotional graphics and logos use neutral, uncropped frames. Original category illustrations use distinct colors and icons for cafés, dining, coast, parks, markets, heritage and nature. A visible Illustration label marks the art.
 
 ## Elevation & Depth
 
@@ -81,7 +81,7 @@ Explore owns destination understanding and practical advice. Its two URL-linked 
 
 ## Do's and Don'ts
 
-Keep browsing groups distinct from municipalities and overnight bases. Reuse licensed local assets with their existing credits; use the compass fallback when no matching place photo exists, with reviewed Instagram posts available separately in the gallery. Do not let an accepted identity imply verified prices, hours, accessibility, or travel safety. Preserve source metadata in snapshots and require explicit acceptance for itinerary additions.
+Keep browsing groups distinct from municipalities and overnight bases. Reuse licensed local assets with their existing credits; use the approved cover order and keep reviewed Instagram posts in the gallery. Do not let an accepted identity imply verified prices, hours, accessibility, or travel safety. Preserve source metadata in snapshots and require explicit acceptance for itinerary additions.
 
 The planner uses three plainly labeled steps. The active destinations and trip length stay visible from day planning through review. Day planning leads with a native day selector and its places, followed by optional free-time controls. Travel style, budget, pace and trip details sit within optional disclosures on review. Reuse labeled checkboxes for precise place types.
 

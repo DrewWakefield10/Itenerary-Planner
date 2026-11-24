@@ -1,0 +1,380 @@
+{
+  "id": "02-businesses",
+  "checkedOn": "2026-11-25",
+  "records": [
+    {
+      "placeId": "puerto-princesa-bakers-hill",
+      "name": "Baker’s Hill",
+      "municipality": "Puerto Princesa City",
+      "destination": "Palawan",
+      "category": "Food & drink",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Baker%27s+Hill+Puerto+Princesa&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        },
+        {
+          "url": "https://api.openverse.org/v1/images/?q=Baker%27s+Hill+Puerto+Princesa&license=by%2Cby-sa%2Ccc0%2Cpdm&page_size=4",
+          "status": "TimeoutError"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-006-decisions.json",
+      "listingSource": "https://citytourism.puertoprincesa.ph/bakers-hill/",
+      "publisherReview": {
+        "placeId": "puerto-princesa-bakers-hill",
+        "publisher": "https://citytourism.puertoprincesa.ph/bakers-hill/",
+        "status": 200,
+        "finalUrl": "https://citytourism.puertoprincesa.ph/bakers-hill/",
+        "termsMentions": [],
+        "termsLinks": [],
+        "decision": "No directory image reuse grant established."
+      },
+      "followUp": [
+        {
+          "url": "https://commons.wikimedia.org/wiki/File:Zipline_hut_at_Baker%27s_Hill_(9162927471).jpg",
+          "finding": "Prior review could not distinguish Baker’s Hill from the nearby Mitra Ranch. The city tourism listing supplies identity, without a photo reuse grant documented on the page."
+        }
+      ],
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "siargao-kermit-restaurant",
+      "name": "Kermit Restaurant — Siargao",
+      "municipality": "General Luna",
+      "destination": "Siargao",
+      "category": "Food & drink",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Kermit+Restaurant+General+Luna&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        },
+        {
+          "url": "https://api.openverse.org/v1/images/?q=Kermit+Restaurant+General+Luna&license=by%2Cby-sa%2Ccc0%2Cpdm&page_size=4",
+          "status": "TimeoutError"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-001-decisions.json",
+      "listingSource": "https://www.kermitsiargao.com/restaurant",
+      "publisherReview": {
+        "placeId": "siargao-kermit-restaurant",
+        "publisher": "https://www.kermitsiargao.com/restaurant",
+        "status": 200,
+        "finalUrl": "https://www.kermitsiargao.com/restaurant",
+        "termsMentions": [
+          "©️ 2026 Kermit Surf &amp; Dive Camp, Inc. All Rights Reserved. Kermit®️ and the Kermit logo are registered trademarks of"
+        ],
+        "termsLinks": [
+          "/press",
+          "/press"
+        ],
+        "decision": "No directory image reuse grant established."
+      },
+      "followUp": [
+        {
+          "url": "https://www.kermitsiargao.com/press",
+          "finding": "Official press page lists coverage and videos. The restaurant site reserves rights and the press page supplies no public-directory reuse grant."
+        }
+      ],
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "davao-apo-ni-lola-matina",
+      "name": "Apo ni Lola Pasalubong Center — Matina",
+      "municipality": "Davao City",
+      "destination": "Davao",
+      "category": "Food & drink",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Apo+ni+Lola+Pasalubong+Center+Davao&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        },
+        {
+          "url": "https://api.openverse.org/v1/images/?q=Apo+ni+Lola+Pasalubong+Center+Davao&license=by%2Cby-sa%2Ccc0%2Cpdm&page_size=4",
+          "status": "TimeoutError"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-004-decisions.json",
+      "listingSource": "https://dost.gov.ph/knowledge-resources/news/4560-from-micro-to-medium-dost-steps-up-assistance-to-apo-ni-lola-thrive-in-food-processing-business.html",
+      "publisherReview": {
+        "placeId": "davao-apo-ni-lola-matina",
+        "publisher": "https://dost.gov.ph/knowledge-resources/news/4560-from-micro-to-medium-dost-steps-up-assistance-to-apo-ni-lola-thrive-in-food-processing-business.html",
+        "status": 200,
+        "finalUrl": "https://dost.gov.ph/knowledge-resources/news/4560-from-micro-to-medium-dost-steps-up-assistance-to-apo-ni-lola-thrive-in-food-processing-business.html",
+        "termsMentions": [],
+        "termsLinks": [],
+        "decision": "No directory image reuse grant established."
+      },
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "bohol-common-crew",
+      "name": "Common Crew Coffee Roasters & Brewers",
+      "municipality": "Panglao",
+      "destination": "Bohol",
+      "category": "Food & drink",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Common+Crew+Coffee+Roasters+%26+Brewers+Panglao&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        },
+        {
+          "url": "https://api.openverse.org/v1/images/?q=Common+Crew+Coffee+Roasters+%26+Brewers+Panglao&license=by%2Cby-sa%2Ccc0%2Cpdm&page_size=4",
+          "status": "TimeoutError"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-004-decisions.json",
+      "listingSource": "https://www.commoncrewbohol.com/coffee-kombucha-brew-bar",
+      "publisherReview": {
+        "placeId": "bohol-common-crew",
+        "publisher": "https://www.commoncrewbohol.com/coffee-kombucha-brew-bar",
+        "status": 200,
+        "finalUrl": "https://www.commoncrewbohol.com/coffee-kombucha-brew-bar",
+        "termsMentions": [],
+        "termsLinks": [],
+        "decision": "No directory image reuse grant established."
+      },
+      "followUp": [
+        {
+          "url": "https://www.commoncrewbohol.com/coffee-kombucha-brew-bar",
+          "finding": "Official photos are visible in the venue’s directory. Public image reuse terms were not established."
+        }
+      ],
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "boracay-nonies-ondus",
+      "name": "Nonie’s — Ondus Hotel",
+      "municipality": "Malay",
+      "destination": "Boracay",
+      "category": "Food & drink",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Nonie%27s+Malay&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        },
+        {
+          "url": "https://api.openverse.org/v1/images/?q=Nonie%27s+Malay&license=by%2Cby-sa%2Ccc0%2Cpdm&page_size=4",
+          "status": "TimeoutError"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-002-decisions.json",
+      "listingSource": "https://www.nonies.com.ph/",
+      "publisherReview": {
+        "placeId": "boracay-nonies-ondus",
+        "publisher": "https://www.nonies.com.ph/",
+        "status": 200,
+        "finalUrl": "https://www.nonies.com.ph/",
+        "termsMentions": [],
+        "termsLinks": [
+          "/press",
+          "/press",
+          "#press"
+        ],
+        "decision": "No directory image reuse grant established."
+      },
+      "followUp": [
+        {
+          "url": "https://www.nonies.com.ph/press",
+          "finding": "Publisher press path did not open in the public index tool. No qualifying branch-specific asset permission established."
+        }
+      ],
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "iloilo-baking-studio-theos",
+      "name": "Baking Studio by Theo’s — North Grove",
+      "municipality": "Iloilo City",
+      "destination": "Iloilo",
+      "category": "Food & drink",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Baking+Studio+by+Theo%27s+Iloilo&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        },
+        {
+          "url": "https://api.openverse.org/v1/images/?q=Baking+Studio+by+Theo%27s+Iloilo&license=by%2Cby-sa%2Ccc0%2Cpdm&page_size=4",
+          "status": "TimeoutError"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-007-decisions.json",
+      "listingSource": "https://www.theosrestaurantandbakery.com/bakingstudiobytheos",
+      "publisherReview": {
+        "placeId": "iloilo-baking-studio-theos",
+        "publisher": "https://www.theosrestaurantandbakery.com/bakingstudiobytheos",
+        "status": 200,
+        "finalUrl": "https://www.theosrestaurantandbakery.com/bakingstudiobytheos",
+        "termsMentions": [],
+        "termsLinks": [],
+        "decision": "No directory image reuse grant established."
+      },
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "cebu-pig-and-palm",
+      "name": "The Pig & Palm",
+      "municipality": "Cebu City",
+      "destination": "Cebu",
+      "category": "Food & drink",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=The+Pig+%26+Palm+Cebu&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        },
+        {
+          "url": "https://api.openverse.org/v1/images/?q=The+Pig+%26+Palm+Cebu&license=by%2Cby-sa%2Ccc0%2Cpdm&page_size=4",
+          "status": "TimeoutError"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-008-decisions.json",
+      "listingSource": "https://thepigandpalm.ph/",
+      "publisherReview": {
+        "placeId": "cebu-pig-and-palm",
+        "publisher": "https://thepigandpalm.ph/",
+        "error": "CERT_HAS_EXPIRED",
+        "decision": "No directory image reuse grant established."
+      },
+      "followUp": [
+        {
+          "url": "https://thepigandpalm.ph/",
+          "finding": "Venue site confirms the Cebu address and has a press section with media mentions. No directory reuse grant was located."
+        }
+      ],
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "baguio-original-good-taste",
+      "name": "The Original Good Taste Restaurant",
+      "municipality": "Baguio City",
+      "destination": "Baguio",
+      "category": "Food & drink",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=The+Original+Good+Taste+Restaurant+Baguio&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        },
+        {
+          "url": "https://api.openverse.org/v1/images/?q=The+Original+Good+Taste+Restaurant+Baguio&license=by%2Cby-sa%2Ccc0%2Cpdm&page_size=4",
+          "status": "TimeoutError"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-003-decisions.json",
+      "listingSource": "https://goodtaste.ph/",
+      "publisherReview": {
+        "placeId": "baguio-original-good-taste",
+        "publisher": "https://goodtaste.ph/",
+        "error": "CERT_HAS_EXPIRED",
+        "identityOnly": "https://onlineservices.ipophil.gov.ph/tmgazette/Unlimited/Attachment/JO_20220124_National.PDF",
+        "decision": "No directory image reuse grant established."
+      },
+      "followUp": [
+        {
+          "url": "https://onlineservices.ipophil.gov.ph/tmgazette/Unlimited/Attachment/JO_20220124_National.PDF",
+          "finding": "The trade mark filing identifies the Otek venue and logo. It supplies no permission to reproduce the logo in Lakbay."
+        }
+      ],
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "sagada-cafe-bodega-rock-inn",
+      "name": "Café Bodega — Rock Inn",
+      "municipality": "Sagada",
+      "destination": "Sagada",
+      "category": "Food & drink",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Caf%C3%A9+Bodega+Sagada&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        },
+        {
+          "url": "https://api.openverse.org/v1/images/?q=Caf%C3%A9+Bodega+Sagada&license=by%2Cby-sa%2Ccc0%2Cpdm&page_size=4",
+          "status": "searched"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-009-decisions.json",
+      "listingSource": "https://nojuanisanisland.com/2026/06/02/an-ode-to-nostalgia-why-simply-showing-up-in-sagada-was-a-big-win/",
+      "publisherReview": {
+        "placeId": "sagada-cafe-bodega-rock-inn",
+        "publisher": "https://nojuanisanisland.com/2026/06/02/an-ode-to-nostalgia-why-simply-showing-up-in-sagada-was-a-big-win/",
+        "status": 200,
+        "finalUrl": "https://nojuanisanisland.com/2026/06/02/an-ode-to-nostalgia-why-simply-showing-up-in-sagada-was-a-big-win/",
+        "termsMentions": [],
+        "termsLinks": [
+          "https://roamulofied.wordpress.com/xmlrpc.php?rsd",
+          "https://public-api.wordpress.com/oembed/?format=json&amp;url=https%3A%2F%2Fnojuanisanisland.com%2F2026%2F06%2F02%2Fan-ode-to-nostalgia-why-simply-showing-up-in-sagada-was-a-big-win%2F&amp;for=wpcom-auto-discovery",
+          "https://public-api.wordpress.com/oembed/?format=xml&amp;url=https%3A%2F%2Fnojuanisanisland.com%2F2026%2F06%2F02%2Fan-ode-to-nostalgia-why-simply-showing-up-in-sagada-was-a-big-win%2F&amp;for=wpcom-auto-discovery",
+          "https://wordpress.com/?ref=footer_blog",
+          "https://wordpress.com/log-in?redirect_to=https%3A%2F%2Fr-login.wordpress.com%2Fremote-login.php%3Faction%3Dlink%26back%3Dhttps%253A%252F%252Fnojuanisanisland.com%252F2026%252F06%252F02%252Fan-ode-to-nostalgia-why-simply-showing-up-in-sagada-was-a-big-win%252F",
+          "https://wordpress.com/reader/blogs/86589406/posts/10361",
+          "https://subscribe.wordpress.com/",
+          "https://wordpress.com/start/"
+        ],
+        "decision": "No directory image reuse grant established."
+      },
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "batanes-casa-napoli-town",
+      "name": "Casa Napoli Pizza and Pasta - Basco Town",
+      "municipality": "Basco",
+      "destination": "Batanes",
+      "category": "Food & drink",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Casa+Napoli+Pizza+and+Pasta+-+Basco+Town+Basco&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        },
+        {
+          "url": "https://api.openverse.org/v1/images/?q=Casa+Napoli+Pizza+and+Pasta+-+Basco+Town+Basco&license=by%2Cby-sa%2Ccc0%2Cpdm&page_size=4",
+          "status": "TimeoutError"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-005-decisions.json",
+      "listingSource": "https://breathtakingbatanes.com/foodmap.pdf",
+      "publisherReview": {
+        "placeId": "batanes-casa-napoli-town",
+        "publisher": "https://breathtakingbatanes.com/foodmap.pdf",
+        "status": 404,
+        "finalUrl": "https://breathtakingbatanes.com/foodmap.pdf",
+        "format": "text/html; charset=UTF-8",
+        "decision": "No directory image reuse grant established."
+      },
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    }
+  ],
+  "totals": {
+    "places": 10,
+    "reachedIndex": 10,
+    "withImageLeads": 0,
+    "approvedPhotos": 0
+  }
+}

@@ -1,0 +1,478 @@
+{
+  "id": "04-remaining",
+  "checkedOn": "2026-11-25",
+  "records": [
+    {
+      "placeId": "baguio-maryknoll-sanctuary",
+      "name": "Maryknoll Ecological Sanctuary",
+      "municipality": "Baguio City",
+      "destination": "Baguio",
+      "category": "Nature",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Maryknoll+Ecological+Sanctuary+Baguio&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-003-decisions.json",
+      "listingSource": "https://infoboard.baguio.gov.ph/tourists-spots",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "el-nido-artcafe",
+      "name": "El Nido Boutique & Artcafe",
+      "municipality": "El Nido",
+      "destination": "Palawan",
+      "category": "Food & drink",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=El+Nido+Boutique+%26+Artcafe+El+Nido&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        },
+        {
+          "url": "https://api.openverse.org/v1/images/?q=El+Nido+Boutique+%26+Artcafe+El+Nido&license=by%2Cby-sa%2Ccc0%2Cpdm&page_size=4",
+          "status": "TimeoutError"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-006-decisions.json",
+      "listingSource": "https://elnidoboutiqueandartcafe.com/artcafe-restuarant/",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "el-nido-trattoria-altrove",
+      "name": "Trattoria Altrove — El Nido",
+      "municipality": "El Nido",
+      "destination": "Palawan",
+      "category": "Food & drink",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Trattoria+Altrove+El+Nido&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        },
+        {
+          "url": "https://api.openverse.org/v1/images/?q=Trattoria+Altrove+El+Nido&license=by%2Cby-sa%2Ccc0%2Cpdm&page_size=4",
+          "status": "searched"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-006-decisions.json",
+      "listingSource": "https://www.trattoriaaltrove.com/",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "coron-trattoria-altrove",
+      "name": "Trattoria Altrove — Coron",
+      "municipality": "Coron",
+      "destination": "Palawan",
+      "category": "Food & drink",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Trattoria+Altrove+Coron&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        },
+        {
+          "url": "https://api.openverse.org/v1/images/?q=Trattoria+Altrove+Coron&license=by%2Cby-sa%2Ccc0%2Cpdm&page_size=4",
+          "status": "TimeoutError"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-006-decisions.json",
+      "listingSource": "https://www.trattoriaaltrove.com/",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "cebu-turning-wheels-brewery",
+      "name": "Turning Wheels Brewery",
+      "municipality": "Cebu City",
+      "destination": "Cebu",
+      "category": "Food & drink",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Turning+Wheels+Brewery+Cebu&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        },
+        {
+          "url": "https://api.openverse.org/v1/images/?q=Turning+Wheels+Brewery+Cebu&license=by%2Cby-sa%2Ccc0%2Cpdm&page_size=4",
+          "status": "searched"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-008-decisions.json",
+      "listingSource": "https://turningwheelsbeer.com/",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "cebu-abaca-baking-crossroads",
+      "name": "Abaca Baking Company - Crossroads",
+      "municipality": "Cebu City",
+      "destination": "Cebu",
+      "category": "Food & drink",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Abaca+Baking+Company+-+Crossroads+Cebu&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        },
+        {
+          "url": "https://api.openverse.org/v1/images/?q=Abaca+Baking+Company+-+Crossroads+Cebu&license=by%2Cby-sa%2Ccc0%2Cpdm&page_size=4",
+          "status": "searched"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-008-decisions.json",
+      "listingSource": "https://crossroadscebu.com/eat-drink/",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "bohol-green-thumb-farm",
+      "name": "Green Thumb Farm",
+      "municipality": "Corella",
+      "destination": "Bohol",
+      "category": "Nature",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Green+Thumb+Farm+Corella&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-005-decisions.json",
+      "listingSource": "https://tourism.bohol.gov.ph/visitbohol-corella-3/",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "bohol-quinale-beach",
+      "name": "Quinale Beach",
+      "municipality": "Anda",
+      "destination": "Bohol",
+      "category": "Nature",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Quinale+Beach+Anda&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-005-decisions.json",
+      "listingSource": "https://tourism.bohol.gov.ph/visitbohol-anda/",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "bohol-cabagnow-cave-pool",
+      "name": "Cabagnow Cave Pool",
+      "municipality": "Anda",
+      "destination": "Bohol",
+      "category": "Nature",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Cabagnow+Cave+Pool+Anda&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-005-decisions.json",
+      "listingSource": "https://tourism.bohol.gov.ph/visitbohol-anda/",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "bohol-edith-grand-garden",
+      "name": "Edith Grand Garden Wellness Resort & Adventure Park",
+      "municipality": "Baclayon",
+      "destination": "Bohol",
+      "category": "Attractions",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Edith+Grand+Garden+Wellness+Resort+%26+Adventure+Park+Baclayon&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-005-decisions.json",
+      "listingSource": "https://baclayon.bohol.gov.ph/tourism/",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "bohol-saffron-restaurant",
+      "name": "Saffron Restaurant - Amorita Resort",
+      "municipality": "Panglao",
+      "destination": "Bohol",
+      "category": "Food & drink",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Saffron+Restaurant+-+Amorita+Resort+Panglao&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        },
+        {
+          "url": "https://api.openverse.org/v1/images/?q=Saffron+Restaurant+-+Amorita+Resort+Panglao&license=by%2Cby-sa%2Ccc0%2Cpdm&page_size=4",
+          "status": "TimeoutError"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-005-decisions.json",
+      "listingSource": "https://www.amoritaresort.com/saffron-menu",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "bohol-latavola-restaurant",
+      "name": "Latavola Italian Restaurant",
+      "municipality": "Panglao",
+      "destination": "Bohol",
+      "category": "Food & drink",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Latavola+Italian+Restaurant+Panglao&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        },
+        {
+          "url": "https://api.openverse.org/v1/images/?q=Latavola+Italian+Restaurant+Panglao&license=by%2Cby-sa%2Ccc0%2Cpdm&page_size=4",
+          "status": "TimeoutError"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-005-decisions.json",
+      "listingSource": "https://www.panglaotourism.com/directory/latavola-italian-restaurant/",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "bohol-prawn-farm-bolod",
+      "name": "The Prawn Farm Grill and Seafoods - Bolod",
+      "municipality": "Panglao",
+      "destination": "Bohol",
+      "category": "Food & drink",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=The+Prawn+Farm+Grill+and+Seafoods+-+Bolod+Panglao&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        },
+        {
+          "url": "https://api.openverse.org/v1/images/?q=The+Prawn+Farm+Grill+and+Seafoods+-+Bolod+Panglao&license=by%2Cby-sa%2Ccc0%2Cpdm&page_size=4",
+          "status": "TimeoutError"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-005-decisions.json",
+      "listingSource": "https://www.panglaotourism.com/directory/the-prawn-farm-grill-and-seafoods/",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "manila-eng-bee-tin-ongpin",
+      "name": "Eng Bee Tin - Ongpin Flagship",
+      "municipality": "Manila",
+      "destination": "Manila",
+      "category": "Food & drink",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Eng+Bee+Tin+-+Ongpin+Flagship+Manila&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        },
+        {
+          "url": "https://api.openverse.org/v1/images/?q=Eng+Bee+Tin+-+Ongpin+Flagship+Manila&license=by%2Cby-sa%2Ccc0%2Cpdm&page_size=4",
+          "status": "TimeoutError"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-008-decisions.json",
+      "listingSource": "https://www.engbeetin.com/",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "baguio-pink-sisters",
+      "name": "Pink Sisters' Convent and Chapel",
+      "municipality": "Baguio City",
+      "destination": "Baguio",
+      "category": "Culture",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Pink+Sisters%27+Convent+and+Chapel+Baguio&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-003-decisions.json",
+      "listingSource": "https://infoboard.baguio.gov.ph/tourists-spots",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "baguio-slu-museum",
+      "name": "SLU Museum of Igorot Cultures and Arts",
+      "municipality": "Baguio City",
+      "destination": "Baguio",
+      "category": "Culture",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=SLU+Museum+of+Igorot+Cultures+and+Arts+Baguio&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-003-decisions.json",
+      "listingSource": "https://infoboard.baguio.gov.ph/tourists-spots",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "baguio-bamboo-sanctuary",
+      "name": "St. Francis Xavier Bamboo Sanctuary",
+      "municipality": "Baguio City",
+      "destination": "Baguio",
+      "category": "Nature",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=St.+Francis+Xavier+Bamboo+Sanctuary+Baguio&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-003-decisions.json",
+      "listingSource": "https://infoboard.baguio.gov.ph/tourists-spots",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "baguio-pilak-silvercraft",
+      "name": "PILAK Silvercraft and Gift Shoppe",
+      "municipality": "Baguio City",
+      "destination": "Baguio",
+      "category": "Culture",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=PILAK+Silvercraft+and+Gift+Shoppe+Baguio&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-003-decisions.json",
+      "listingSource": "https://infoboard.baguio.gov.ph/tourists-spots",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "baguio-nardas-handwoven",
+      "name": "Narda's Handwoven Arts and Crafts",
+      "municipality": "Baguio City",
+      "destination": "Baguio",
+      "category": "Culture",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Narda%27s+Handwoven+Arts+and+Crafts+Baguio&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-003-decisions.json",
+      "listingSource": "https://infoboard.baguio.gov.ph/tourists-spots",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "baguio-hill-station",
+      "name": "Hill Station Restaurant",
+      "municipality": "Baguio City",
+      "destination": "Baguio",
+      "category": "Food & drink",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Hill+Station+Restaurant+Baguio&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        },
+        {
+          "url": "https://api.openverse.org/v1/images/?q=Hill+Station+Restaurant+Baguio&license=by%2Cby-sa%2Ccc0%2Cpdm&page_size=4",
+          "status": "searched"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-003-decisions.json",
+      "listingSource": "https://www.casavallejo.online/",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "baguio-amare-outlook",
+      "name": "Amare La Cucina - Outlook Drive",
+      "municipality": "Baguio City",
+      "destination": "Baguio",
+      "category": "Food & drink",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Amare+La+Cucina+-+Outlook+Drive+Baguio&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        },
+        {
+          "url": "https://api.openverse.org/v1/images/?q=Amare+La+Cucina+-+Outlook+Drive+Baguio&license=by%2Cby-sa%2Ccc0%2Cpdm&page_size=4",
+          "status": "searched"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-003-decisions.json",
+      "listingSource": "https://amarelacucina.com/contact-amare-la-cucina/",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "baguio-craft-brewery",
+      "name": "Baguio Craft Brewery",
+      "municipality": "Baguio City",
+      "destination": "Baguio",
+      "category": "Food & drink",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Baguio+Craft+Brewery+Baguio&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        },
+        {
+          "url": "https://api.openverse.org/v1/images/?q=Baguio+Craft+Brewery+Baguio&license=by%2Cby-sa%2Ccc0%2Cpdm&page_size=4",
+          "status": "searched"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-003-decisions.json",
+      "listingSource": "https://www.baguiocraftbrewery.net/",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    }
+  ],
+  "totals": {
+    "places": 22,
+    "reachedIndex": 22,
+    "withImageLeads": 0,
+    "approvedPhotos": 0
+  }
+}

@@ -233,21 +233,6 @@
       }
     },
     {
-      "placeId": "siargao-sohoton-cove",
-      "name": "Sohoton Cove",
-      "destination": "Siargao",
-      "notes": [
-        "Municipality-wide Bucas Grande article not used as cave-specific evidence; a Middle Bucas Grande/Dapa photograph was excluded.",
-        "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results."
-      ],
-      "photoResearch": {
-        "batchId": "cover-001",
-        "status": "needs-supplied-photo",
-        "checkedOn": "2026-10-23",
-        "record": "docs/place-enrichment/cover-completion/cover-001-decisions.json"
-      }
-    },
-    {
       "placeId": "siargao-paghungawan-marsh",
       "name": "Paghungawan Marsh",
       "destination": "Siargao",
@@ -260,37 +245,6 @@
         "status": "needs-supplied-photo",
         "checkedOn": "2026-10-23",
         "record": "docs/place-enrichment/cover-completion/cover-001-decisions.json"
-      }
-    },
-    {
-      "placeId": "davao-bone-collector-museum",
-      "name": "D’ Bone Collector Museum",
-      "destination": "Davao",
-      "notes": [
-        "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results."
-      ],
-      "photoResearch": {
-        "batchId": "cover-003",
-        "status": "needs-supplied-photo",
-        "checkedOn": "2026-10-23",
-        "record": "docs/place-enrichment/cover-completion/cover-003-decisions.json"
-      }
-    },
-    {
-      "placeId": "davao-rizal-park",
-      "name": "Rizal Park",
-      "destination": "Davao",
-      "notes": [
-        "Rejected Manila Rizal Park article and monument photograph. Original city PDF returned HTTP 404.",
-        "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results.",
-        "Video c0yNwXkuaFA: HTTP 401: https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dc0yNwXkuaFA&format=json",
-        "Video s_E7YoXLHuY: Official source does not currently confirm a playable, embeddable video with an accessible description"
-      ],
-      "photoResearch": {
-        "batchId": "cover-003",
-        "status": "needs-supplied-photo",
-        "checkedOn": "2026-10-23",
-        "record": "docs/place-enrichment/cover-completion/cover-003-decisions.json"
       }
     },
     {
@@ -531,21 +485,6 @@
       "destination": "Boracay",
       "notes": [
         "Original sustainability report URL returned HTTP 404; no new rehabilitation date or current facility claim added.",
-        "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results."
-      ],
-      "photoResearch": {
-        "batchId": "cover-002",
-        "status": "needs-supplied-photo",
-        "checkedOn": "2026-10-23",
-        "record": "docs/place-enrichment/cover-completion/cover-002-decisions.json"
-      }
-    },
-    {
-      "placeId": "boracay-dtalipapa-market",
-      "name": "D’Talipapa market",
-      "destination": "Boracay",
-      "notes": [
-        "A food photograph without a sufficiently clear market identity was not substituted.",
         "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results."
       ],
       "photoResearch": {
@@ -2182,18 +2121,6 @@
       }
     },
     {
-      "placeId": "cebu-ricos-mandaue",
-      "name": "Rico’s Lechon — Mandaue",
-      "destination": "Cebu",
-      "notes": [],
-      "photoResearch": {
-        "batchId": "cover-009",
-        "status": "needs-supplied-photo",
-        "checkedOn": "2026-10-23",
-        "record": "docs/place-enrichment/cover-completion/cover-009-decisions.json"
-      }
-    },
-    {
       "placeId": "cebu-punched-mabuhay",
       "name": "Punched Coffee — Mabuhay Tower",
       "destination": "Cebu",
@@ -3678,7 +3605,7 @@
       ]
     }
   ],
-  "photoUpdatedOn": "2026-10-23",
+  "photoUpdatedOn": "2026-11-24",
   "foodExpansion": {
     "records": 94,
     "record": "docs/food-directory/README.md",

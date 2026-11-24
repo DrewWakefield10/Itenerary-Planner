@@ -117,7 +117,8 @@ test('AI rejects excessive restaurant selections, wrong bases and incompatible n
 });
 test('photo decisions cover all additions; only explicitly licensed and visually approved exact venues are published',()=>{
  const decisions=read('docs/food-directory/media/decisions.json');assert.equal(decisions.entries.length,94);
- for(const d of decisions.entries){const photo=placeContents.find(p=>p.placeId===d.placeId)?.photo;
+ const originalPhotos=beforeCoverAdditions(placeContents);
+ for(const d of decisions.entries){const photo=originalPhotos.find(p=>p.placeId===d.placeId)?.photo;
   if(d.approved){assert.ok(d.visuallyReviewed&&d.licenseReviewed&&photo);assert.equal(photo.sourcePage,d.photo.sourcePage);assert.ok(d.identityEvidence.length>=2);}
   else{assert.equal(photo,undefined);assert.ok(d.reason&&d.sourcesSearched.length);}
  }

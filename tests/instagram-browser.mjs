@@ -77,6 +77,17 @@ try {
       await track.press("ArrowRight");
     }
     await expect(gallery.getByRole("status")).toHaveText("2 of 2");
+    // Wait for native touch momentum and snap before testing a separate click.
+    await expect
+      .poll(() =>
+        track.evaluate(
+          (element) =>
+            Math.abs(
+              element.scrollLeft - (element.scrollWidth - element.clientWidth),
+            ) < 1,
+        ),
+      )
+      .toBe(true);
     await gallery
       .getByRole("button", { name: "Previous Instagram post" })
       .click();
@@ -121,7 +132,7 @@ try {
       page.getByRole("searchbox", { name: "Search places" }),
     ).toHaveValue("Spotted Pig");
     const gridLink = page
-      .getByRole("link", { name: "See more photos", exact: true })
+      .getByRole("link", { name: "See photos", exact: true })
       .first();
     await expect(gridLink).toHaveAttribute(
       "href",

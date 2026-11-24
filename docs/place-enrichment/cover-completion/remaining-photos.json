@@ -1,6 +1,6 @@
 {
-  "updatedOn": "2026-10-23",
-  "count": 210,
+  "updatedOn": "2026-11-24",
+  "count": 205,
   "permissionGuide": "../photo-only/supplied-photo-guide.md",
   "records": [
     {
@@ -244,21 +244,6 @@
       }
     },
     {
-      "placeId": "siargao-sohoton-cove",
-      "name": "Sohoton Cove",
-      "destination": "Siargao",
-      "municipality": "Socorro",
-      "status": "download-blocked-awaiting-visual-review",
-      "reason": "Promising exact-place candidate has individually checked reusable license metadata, but the public image delivery endpoint timed out. Visual review remains incomplete; no photograph is copied. Resolve image delivery or supply an authorized photograph.",
-      "decision": "cover-001-decisions.json",
-      "requiredInformation": {
-        "imageFile": null,
-        "photographerOrRightsHolder": null,
-        "permissionForWebsitePublicationAndResizingCropping": null,
-        "attributionPreference": null
-      }
-    },
-    {
       "placeId": "siargao-paghungawan-marsh",
       "name": "Paghungawan Marsh",
       "destination": "Siargao",
@@ -266,36 +251,6 @@
       "status": "needs-authorized-photo-or-resolved-source",
       "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
       "decision": "cover-001-decisions.json",
-      "requiredInformation": {
-        "imageFile": null,
-        "photographerOrRightsHolder": null,
-        "permissionForWebsitePublicationAndResizingCropping": null,
-        "attributionPreference": null
-      }
-    },
-    {
-      "placeId": "davao-bone-collector-museum",
-      "name": "D’ Bone Collector Museum",
-      "destination": "Davao",
-      "municipality": "Davao City",
-      "status": "download-blocked-awaiting-visual-review",
-      "reason": "Promising exact-place candidate has individually checked reusable license metadata, but the public image delivery endpoint timed out. Visual review remains incomplete; no photograph is copied. Resolve image delivery or supply an authorized photograph.",
-      "decision": "cover-003-decisions.json",
-      "requiredInformation": {
-        "imageFile": null,
-        "photographerOrRightsHolder": null,
-        "permissionForWebsitePublicationAndResizingCropping": null,
-        "attributionPreference": null
-      }
-    },
-    {
-      "placeId": "davao-rizal-park",
-      "name": "Rizal Park",
-      "destination": "Davao",
-      "municipality": "Davao City",
-      "status": "download-blocked-awaiting-visual-review",
-      "reason": "Promising exact-place candidate has individually checked reusable license metadata, but the public image delivery endpoint timed out. Visual review remains incomplete; no photograph is copied. Resolve image delivery or supply an authorized photograph.",
-      "decision": "cover-003-decisions.json",
       "requiredInformation": {
         "imageFile": null,
         "photographerOrRightsHolder": null,
@@ -550,21 +505,6 @@
       "municipality": "Malay",
       "status": "needs-authorized-photo-or-resolved-source",
       "reason": "The expanded Flickr license search and any new Commons query returned no suitable exact-place photo. Earlier searches remain linked. Supply an authorized exact-place photograph or research another documented source.",
-      "decision": "cover-002-decisions.json",
-      "requiredInformation": {
-        "imageFile": null,
-        "photographerOrRightsHolder": null,
-        "permissionForWebsitePublicationAndResizingCropping": null,
-        "attributionPreference": null
-      }
-    },
-    {
-      "placeId": "boracay-dtalipapa-market",
-      "name": "D’Talipapa market",
-      "destination": "Boracay",
-      "municipality": "Malay",
-      "status": "download-blocked-awaiting-visual-review",
-      "reason": "Promising exact-place candidate has individually checked reusable license metadata, but the public image delivery endpoint timed out. Visual review remains incomplete; no photograph is copied. Resolve image delivery or supply an authorized photograph.",
       "decision": "cover-002-decisions.json",
       "requiredInformation": {
         "imageFile": null,
@@ -2303,21 +2243,6 @@
       "name": "Lantaw — Compostela",
       "destination": "Cebu",
       "municipality": "Compostela",
-      "status": "needs-authorized-photo-or-resolved-source",
-      "reason": "No candidate established an exact-place/branch photograph with individually reviewed compatible rights and a usable image. Name collisions and neighboring places are not substitutes. Supply an authorized exact-place photograph or resolve the linked candidate review.",
-      "decision": "cover-009-decisions.json",
-      "requiredInformation": {
-        "imageFile": null,
-        "photographerOrRightsHolder": null,
-        "permissionForWebsitePublicationAndResizingCropping": null,
-        "attributionPreference": null
-      }
-    },
-    {
-      "placeId": "cebu-ricos-mandaue",
-      "name": "Rico’s Lechon — Mandaue",
-      "destination": "Cebu",
-      "municipality": "Mandaue City",
       "status": "needs-authorized-photo-or-resolved-source",
       "reason": "No candidate established an exact-place/branch photograph with individually reviewed compatible rights and a usable image. Name collisions and neighboring places are not substitutes. Supply an authorized exact-place photograph or resolve the linked candidate review.",
       "decision": "cover-009-decisions.json",

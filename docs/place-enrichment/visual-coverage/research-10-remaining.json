@@ -1,0 +1,383 @@
+{
+  "id": "10-remaining",
+  "checkedOn": "2026-11-25",
+  "records": [
+    {
+      "placeId": "sagada-gaia-cafe",
+      "name": "Gaia Cafe & Crafts",
+      "municipality": "Sagada",
+      "destination": "Sagada",
+      "category": "Food & drink",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Gaia+Cafe+%26+Crafts+Sagada&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        },
+        {
+          "url": "https://api.openverse.org/v1/images/?q=Gaia+Cafe+%26+Crafts+Sagada&license=by%2Cby-sa%2Ccc0%2Cpdm&page_size=4",
+          "status": "searched"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-009-decisions.json",
+      "listingSource": "https://www.tripadvisor.ca/Restaurant_Review-g304053-d3512205-Reviews-Gaia_Cafe_Crafts-Sagada_Mountain_Province_Cordillera_Region_Luzon.html",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "sagada-banas-cafe",
+      "name": "Bana’s Coffee",
+      "municipality": "Sagada",
+      "destination": "Sagada",
+      "category": "Food & drink",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Bana%27s+Coffee+Sagada&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        },
+        {
+          "url": "https://api.openverse.org/v1/images/?q=Bana%27s+Coffee+Sagada&license=by%2Cby-sa%2Ccc0%2Cpdm&page_size=4",
+          "status": "TimeoutError"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-009-decisions.json",
+      "listingSource": "https://nojuanisanisland.com/2026/06/02/an-ode-to-nostalgia-why-simply-showing-up-in-sagada-was-a-big-win/",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "davao-purge-tulip",
+      "name": "Purge Coffee Roaster — Tulip Drive",
+      "municipality": "Davao City",
+      "destination": "Davao",
+      "category": "Food & drink",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Purge+Coffee+Roaster+Davao&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        },
+        {
+          "url": "https://api.openverse.org/v1/images/?q=Purge+Coffee+Roaster+Davao&license=by%2Cby-sa%2Ccc0%2Cpdm&page_size=4",
+          "status": "TimeoutError"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-004-decisions.json",
+      "listingSource": "https://tourism.davaocity.gov.ph/explore-the-city/restaurants/coffeeshops-2/purge-coffee-roaster/",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "davao-fourth-street-narra",
+      "name": "Fourth Street Cafe — Narra",
+      "municipality": "Davao City",
+      "destination": "Davao",
+      "category": "Food & drink",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Fourth+Street+Cafe+Davao&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        },
+        {
+          "url": "https://api.openverse.org/v1/images/?q=Fourth+Street+Cafe+Davao&license=by%2Cby-sa%2Ccc0%2Cpdm&page_size=4",
+          "status": "searched"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-004-decisions.json",
+      "listingSource": "https://www.findglocal.com/PH/Davao-City/161228178024723/Fourth-Street-Cafe",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "davao-glasshouse-oboza",
+      "name": "Glasshouse Coffee — Oboza Heritage House",
+      "municipality": "Davao City",
+      "destination": "Davao",
+      "category": "Food & drink",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Glasshouse+Coffee+Davao&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        },
+        {
+          "url": "https://api.openverse.org/v1/images/?q=Glasshouse+Coffee+Davao&license=by%2Cby-sa%2Ccc0%2Cpdm&page_size=4",
+          "status": "searched"
+        }
+      ],
+      "candidates": [],
+      "instagramReferenceOnly": [
+        "https://www.instagram.com/p/BsdGWygAtz9/"
+      ],
+      "priorDecision": "cover-004-decisions.json",
+      "listingSource": "https://www.sunstar.com.ph/amp/story/davao/kadayawan-2026-see-it-taste-it-live-it",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "davao-paramount-star-hotel",
+      "name": "Paramount Coffee — Star Hotel",
+      "municipality": "Davao City",
+      "destination": "Davao",
+      "category": "Food & drink",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Paramount+Coffee+Davao&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        },
+        {
+          "url": "https://api.openverse.org/v1/images/?q=Paramount+Coffee+Davao&license=by%2Cby-sa%2Ccc0%2Cpdm&page_size=4",
+          "status": "TimeoutError"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-004-decisions.json",
+      "listingSource": "https://www.paramountcoffeeph.com/cafe",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "davao-kapewenoz-v-mapa",
+      "name": "Kapeweñoz — V. Mapa",
+      "municipality": "Davao City",
+      "destination": "Davao",
+      "category": "Food & drink",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Kapewe%C3%B1oz+Davao&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        },
+        {
+          "url": "https://api.openverse.org/v1/images/?q=Kapewe%C3%B1oz+Davao&license=by%2Cby-sa%2Ccc0%2Cpdm&page_size=4",
+          "status": "searched"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-004-decisions.json",
+      "listingSource": "https://linktr.ee/kapewenozcoffee",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "davao-lamano-tulip",
+      "name": "Lamano Cocina & Bar",
+      "municipality": "Davao City",
+      "destination": "Davao",
+      "category": "Food & drink",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Lamano+Cocina+%26+Bar+Davao&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        },
+        {
+          "url": "https://api.openverse.org/v1/images/?q=Lamano+Cocina+%26+Bar+Davao&license=by%2Cby-sa%2Ccc0%2Cpdm&page_size=4",
+          "status": "searched"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-004-decisions.json",
+      "listingSource": "https://lamano.ph/",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "davao-capris-bajada",
+      "name": "Capri’s Restaurant and Deli",
+      "municipality": "Davao City",
+      "destination": "Davao",
+      "category": "Food & drink",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Capri%27s+Restaurant+and+Deli+Davao&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        },
+        {
+          "url": "https://api.openverse.org/v1/images/?q=Capri%27s+Restaurant+and+Deli+Davao&license=by%2Cby-sa%2Ccc0%2Cpdm&page_size=4",
+          "status": "searched"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-004-decisions.json",
+      "listingSource": "https://eatsmejax.com/2026/03/26/davao-capris-restaurant-and-deli-davao-food-and-resto-review/",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "davao-lachis-marfori",
+      "name": "Lachi’s Sans Rival Atbp. — Marfori",
+      "municipality": "Davao City",
+      "destination": "Davao",
+      "category": "Food & drink",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Lachi%27s+Sans+Rival+Atbp.+Davao&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        },
+        {
+          "url": "https://api.openverse.org/v1/images/?q=Lachi%27s+Sans+Rival+Atbp.+Davao&license=by%2Cby-sa%2Ccc0%2Cpdm&page_size=4",
+          "status": "searched"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-004-decisions.json",
+      "listingSource": "https://www.findglocal.com/PH/Davao-City/71022339832/Lachi%27s-Sans-Rival-Atbp",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "iloilo-neighbor-atria",
+      "name": "Neighbor Coffee — Shops at Atria",
+      "municipality": "Iloilo City",
+      "destination": "Iloilo",
+      "category": "Food & drink",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Neighbor+Coffee+Iloilo&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        },
+        {
+          "url": "https://api.openverse.org/v1/images/?q=Neighbor+Coffee+Iloilo&license=by%2Cby-sa%2Ccc0%2Cpdm&page_size=4",
+          "status": "searched"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-007-decisions.json",
+      "listingSource": "https://www.findglocal.com/PH/Iloilo-City/512507965554615/Shops-at-Atria%2C-Ayala-Malls",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "iloilo-bluejay-sm-city",
+      "name": "Bluejay Coffee & Company — SM City Iloilo",
+      "municipality": "Iloilo City",
+      "destination": "Iloilo",
+      "category": "Food & drink",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Bluejay+Coffee+%26+Company+Iloilo&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        },
+        {
+          "url": "https://api.openverse.org/v1/images/?q=Bluejay+Coffee+%26+Company+Iloilo&license=by%2Cby-sa%2Ccc0%2Cpdm&page_size=4",
+          "status": "searched"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-007-decisions.json",
+      "listingSource": "https://www.findglocal.com/PH/Iloilo-City/1549445962029867/Bluejay-Coffee-%26-Company-SM-City-Iloilo",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "iloilo-monkey-grounds",
+      "name": "Monkey Grounds Coffee — Benigno Aquino Avenue",
+      "municipality": "Iloilo City",
+      "destination": "Iloilo",
+      "category": "Food & drink",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Monkey+Grounds+Coffee+Iloilo&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        },
+        {
+          "url": "https://api.openverse.org/v1/images/?q=Monkey+Grounds+Coffee+Iloilo&license=by%2Cby-sa%2Ccc0%2Cpdm&page_size=4",
+          "status": "searched"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-007-decisions.json",
+      "listingSource": "https://www.foodpanda.ph/restaurant/r9rc/monkey-grounds-coffee-benigno-aquino-avenue",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "iloilo-loco-smallville",
+      "name": "LoCo Local Coffee — Smallville",
+      "municipality": "Iloilo City",
+      "destination": "Iloilo",
+      "category": "Food & drink",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=LoCo+Local+Coffee+Iloilo&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        },
+        {
+          "url": "https://api.openverse.org/v1/images/?q=LoCo+Local+Coffee+Iloilo&license=by%2Cby-sa%2Ccc0%2Cpdm&page_size=4",
+          "status": "searched"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-007-decisions.json",
+      "listingSource": "https://localcoffee.ph/pages/about-us",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "iloilo-netongs-la-paz",
+      "name": "Netong’s Original Special La Paz Batchoy — La Paz Market",
+      "municipality": "Iloilo City",
+      "destination": "Iloilo",
+      "category": "Food & drink",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Netong%27s+Original+Special+La+Paz+Batchoy+Iloilo&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        },
+        {
+          "url": "https://api.openverse.org/v1/images/?q=Netong%27s+Original+Special+La+Paz+Batchoy+Iloilo&license=by%2Cby-sa%2Ccc0%2Cpdm&page_size=4",
+          "status": "searched"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-007-decisions.json",
+      "listingSource": "https://www.bworldonline.com/bw-launchpad/2026/04/15/742817/netongs-eyes-partnerships-to-cushion-rising-costs/",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "iloilo-carlos-dungon",
+      "name": "Carlo’s Bakery & Cafe — Dungon",
+      "municipality": "Iloilo City",
+      "destination": "Iloilo",
+      "category": "Food & drink",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Carlo%27s+Bakery+%26+Cafe+Iloilo&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        },
+        {
+          "url": "https://api.openverse.org/v1/images/?q=Carlo%27s+Bakery+%26+Cafe+Iloilo&license=by%2Cby-sa%2Ccc0%2Cpdm&page_size=4",
+          "status": "TimeoutError"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-007-decisions.json",
+      "listingSource": "https://carlos-bakeshop.com/",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    }
+  ],
+  "totals": {
+    "places": 16,
+    "reachedIndex": 16,
+    "withImageLeads": 0,
+    "approvedPhotos": 0
+  }
+}

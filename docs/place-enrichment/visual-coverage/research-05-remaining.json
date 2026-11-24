@@ -1,0 +1,493 @@
+{
+  "id": "05-remaining",
+  "checkedOn": "2026-11-25",
+  "records": [
+    {
+      "placeId": "baguio-craft-1945",
+      "name": "Craft 1945",
+      "municipality": "Baguio City",
+      "destination": "Baguio",
+      "category": "Food & drink",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Craft+1945+Baguio&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        },
+        {
+          "url": "https://api.openverse.org/v1/images/?q=Craft+1945+Baguio&license=by%2Cby-sa%2Ccc0%2Cpdm&page_size=4",
+          "status": "searched"
+        }
+      ],
+      "candidates": [],
+      "instagramReferenceOnly": [
+        "https://www.instagram.com/p/CYdLh_Ov6J3/"
+      ],
+      "priorDecision": "cover-003-decisions.json",
+      "listingSource": "https://craft1945.com/",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "siargao-trattoria-altrove",
+      "name": "Trattoria Altrove — Siargao",
+      "municipality": "General Luna",
+      "destination": "Siargao",
+      "category": "Food & drink",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Trattoria+Altrove+General+Luna&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        },
+        {
+          "url": "https://api.openverse.org/v1/images/?q=Trattoria+Altrove+General+Luna&license=by%2Cby-sa%2Ccc0%2Cpdm&page_size=4",
+          "status": "searched"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-001-decisions.json",
+      "listingSource": "https://www.trattoriaaltrove.com/",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "siargao-warung",
+      "name": "Warung — Siargao Island Villas",
+      "municipality": "General Luna",
+      "destination": "Siargao",
+      "category": "Food & drink",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Warung+General+Luna&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        },
+        {
+          "url": "https://api.openverse.org/v1/images/?q=Warung+General+Luna&license=by%2Cby-sa%2Ccc0%2Cpdm&page_size=4",
+          "status": "searched"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-001-decisions.json",
+      "listingSource": "https://siargaoislandvillas.com/warung/",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "siargao-brunch-spot",
+      "name": "Brunch Spot Siargao",
+      "municipality": "General Luna",
+      "destination": "Siargao",
+      "category": "Food & drink",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Brunch+Spot+Siargao+General+Luna&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        },
+        {
+          "url": "https://api.openverse.org/v1/images/?q=Brunch+Spot+Siargao+General+Luna&license=by%2Cby-sa%2Ccc0%2Cpdm&page_size=4",
+          "status": "TimeoutError"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-001-decisions.json",
+      "listingSource": "https://bs-siargao.com/",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "siargao-bravo-restaurant",
+      "name": "Bravo Restaurant — Siargao",
+      "municipality": "General Luna",
+      "destination": "Siargao",
+      "category": "Food & drink",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Bravo+Restaurant+General+Luna&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        },
+        {
+          "url": "https://api.openverse.org/v1/images/?q=Bravo+Restaurant+General+Luna&license=by%2Cby-sa%2Ccc0%2Cpdm&page_size=4",
+          "status": "TimeoutError"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-001-decisions.json",
+      "listingSource": "https://www.bravosiargao.com/",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "siargao-naga-restaurant",
+      "name": "NĀGA Siargao",
+      "municipality": "General Luna",
+      "destination": "Siargao",
+      "category": "Food & drink",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=N%C4%80GA+Siargao+General+Luna&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        },
+        {
+          "url": "https://api.openverse.org/v1/images/?q=N%C4%80GA+Siargao+General+Luna&license=by%2Cby-sa%2Ccc0%2Cpdm&page_size=4",
+          "status": "searched"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-001-decisions.json",
+      "listingSource": "https://www.nagaconcepts.co/naga-siargao",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "siargao-malinao-beach",
+      "name": "Malinao Beach",
+      "municipality": "General Luna",
+      "destination": "Siargao",
+      "category": "Nature",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Malinao+Beach+General+Luna&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-001-decisions.json",
+      "listingSource": "https://rsis.ramsar.org/RISapp/files/57292175/documents/PH2553_mgt230606.pdf",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "siargao-paseo-de-cabuntog",
+      "name": "Paseo de Cabuntog",
+      "municipality": "General Luna",
+      "destination": "Siargao",
+      "category": "Parks & markets",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Paseo+de+Cabuntog+General+Luna&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-001-decisions.json",
+      "listingSource": "https://tieza.gov.ph/wp-content/uploads/2024/02/SUMMARY-OF-BID-5-1.pdf",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "siargao-lokal-hub-general-luna",
+      "name": "The Hub by Lokal Lab — General Luna",
+      "municipality": "General Luna",
+      "destination": "Siargao",
+      "category": "Culture",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=The+Hub+by+Lokal+Lab+General+Luna&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-001-decisions.json",
+      "listingSource": "https://www.lokallab.org/the-hub",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "siargao-clubhouse-golf",
+      "name": "The Clubhouse Siargao",
+      "municipality": "General Luna",
+      "destination": "Siargao",
+      "category": "Attractions",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=The+Clubhouse+Siargao+General+Luna&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-001-decisions.json",
+      "listingSource": "https://theclubhouse.ph/location",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "davao-poblacion-market-central",
+      "name": "Poblacion Market Central",
+      "municipality": "Davao City",
+      "destination": "Davao",
+      "category": "Parks & markets",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Poblacion+Market+Central+Davao&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-004-decisions.json",
+      "listingSource": "https://alsonsdev.com/alsons-dev-launches-poblacion-market-central-the-newest-lifestyle-destination-in-davao-where-heritage-meets-hip/",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "davao-bago-esplanade",
+      "name": "Bago Esplanade",
+      "municipality": "Davao City",
+      "destination": "Davao",
+      "category": "Parks & markets",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Bago+Esplanade+Davao&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-004-decisions.json",
+      "listingSource": "https://davaocity.gov.ph/sustainable-environment/city-to-open-more-green-spaces-parks/",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "davao-gulf-view-esplanade",
+      "name": "Gulf View Esplanade",
+      "municipality": "Davao City",
+      "destination": "Davao",
+      "category": "Parks & markets",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Gulf+View+Esplanade+Davao&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-004-decisions.json",
+      "listingSource": "https://davaocity.gov.ph/sustainable-environment/city-to-open-more-green-spaces-parks/",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "davao-marfori-botanical-garden",
+      "name": "Davao City Botanical Park",
+      "municipality": "Davao City",
+      "destination": "Davao",
+      "category": "Parks & markets",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Davao+City+Botanical+Park+Davao&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        }
+      ],
+      "candidates": [
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Guide_to_the_nature_treasures_of_New_York_city;_American_museum_of_natural_history,_New_York_aquarium,_New_York_zo%C3%B6logicl_park_and_Botanical_garden,_Brooklyn_museum,_Botanic_garden_and_Children%27s_(14800701333).jpg",
+          "title": "File:Guide to the nature treasures of New York city; American museum of natural history, New York aquarium, New York zoölogicl park and Botanical garden, Brooklyn museum, Botanic garden and Children's (14800701333).jpg",
+          "listedLicense": "No restrictions"
+        }
+      ],
+      "priorDecision": "cover-004-decisions.json",
+      "listingSource": "https://davaocity.gov.ph/environment/six-new-public-parks-to-open-in-davao-city/",
+      "outcome": "illustration",
+      "reviewReason": "The returned botanical garden is in New York."
+    },
+    {
+      "placeId": "davao-toril-park",
+      "name": "Toril Park",
+      "municipality": "Davao City",
+      "destination": "Davao",
+      "category": "Parks & markets",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Toril+Park+Davao&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        }
+      ],
+      "candidates": [
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Eden_Nature_Park_panorama.jpg",
+          "title": "File:Eden Nature Park panorama.jpg",
+          "listedLicense": "CC BY-SA 4.0"
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Cabin_in_Eden.jpg",
+          "title": "File:Cabin in Eden.jpg",
+          "listedLicense": "CC0"
+        }
+      ],
+      "priorDecision": "cover-004-decisions.json",
+      "listingSource": "https://davaocity.gov.ph/sustainable-environment/city-to-open-more-green-spaces-parks/",
+      "outcome": "illustration",
+      "reviewReason": "The results depict Eden Nature Park, a separate attraction."
+    },
+    {
+      "placeId": "davao-matina-linear-park",
+      "name": "Matina Linear Park",
+      "municipality": "Davao City",
+      "destination": "Davao",
+      "category": "Parks & markets",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Matina+Linear+Park+Davao&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-004-decisions.json",
+      "listingSource": "https://davaocity.gov.ph/sustainable-environment/city-to-open-more-green-spaces-parks/",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "davao-candelaria-park",
+      "name": "Candelaria Park",
+      "municipality": "Davao City",
+      "destination": "Davao",
+      "category": "Parks & markets",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Candelaria+Park+Davao&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-004-decisions.json",
+      "listingSource": "https://davaocity.gov.ph/sustainable-environment/city-to-open-more-green-spaces-parks/",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "davao-communal-pocket-park",
+      "name": "Communal Pocket Park",
+      "municipality": "Davao City",
+      "destination": "Davao",
+      "category": "Parks & markets",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Communal+Pocket+Park+Davao&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-004-decisions.json",
+      "listingSource": "https://davaocity.gov.ph/sustainable-environment/city-to-open-more-green-spaces-parks/",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "davao-marina-tuna-sandawa",
+      "name": "Marina Tuna — Sandawa Plaza",
+      "municipality": "Davao City",
+      "destination": "Davao",
+      "category": "Food & drink",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Marina+Tuna+Davao&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        },
+        {
+          "url": "https://api.openverse.org/v1/images/?q=Marina+Tuna+Davao&license=by%2Cby-sa%2Ccc0%2Cpdm&page_size=4",
+          "status": "searched"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-004-decisions.json",
+      "listingSource": "https://tourism.davaocity.gov.ph/explore-the-city/restaurants/restaurants/marina-tuna-2/",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "boracay-muchos",
+      "name": "Muchos",
+      "municipality": "Malay",
+      "destination": "Boracay",
+      "category": "Food & drink",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Muchos+Malay&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        },
+        {
+          "url": "https://api.openverse.org/v1/images/?q=Muchos+Malay&license=by%2Cby-sa%2Ccc0%2Cpdm&page_size=4",
+          "status": "searched"
+        }
+      ],
+      "candidates": [],
+      "instagramReferenceOnly": [
+        "https://www.instagram.com/p/CiY3DRYv1he/"
+      ],
+      "priorDecision": "cover-002-decisions.json",
+      "listingSource": "https://muchosboracay.com/",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "boracay-jammers-beach-shack",
+      "name": "Jammers Beach Shack",
+      "municipality": "Malay",
+      "destination": "Boracay",
+      "category": "Food & drink",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Jammers+Beach+Shack+Malay&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        },
+        {
+          "url": "https://api.openverse.org/v1/images/?q=Jammers+Beach+Shack+Malay&license=by%2Cby-sa%2Ccc0%2Cpdm&page_size=4",
+          "status": "searched"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-002-decisions.json",
+      "listingSource": "https://jammersbeachshack.com/",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "boracay-aria-cucina",
+      "name": "Aria Cucina Italiana",
+      "municipality": "Malay",
+      "destination": "Boracay",
+      "category": "Food & drink",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Aria+Cucina+Italiana+Malay&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        },
+        {
+          "url": "https://api.openverse.org/v1/images/?q=Aria+Cucina+Italiana+Malay&license=by%2Cby-sa%2Ccc0%2Cpdm&page_size=4",
+          "status": "TimeoutError"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-002-decisions.json",
+      "listingSource": "https://www.careers.aria.com.ph/",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    }
+  ],
+  "totals": {
+    "places": 22,
+    "reachedIndex": 22,
+    "withImageLeads": 2,
+    "approvedPhotos": 0
+  }
+}

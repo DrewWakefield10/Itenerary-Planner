@@ -1,26 +1,26 @@
 {
-  "updatedOn": "2026-10-23",
+  "updatedOn": "2026-11-24",
   "startingGaps": 212,
   "startingPhotos": 214,
   "reviewed": 212,
   "added": 2,
-  "photos": 216,
-  "remainingGaps": 210,
+  "photos": 221,
+  "remainingGaps": 205,
   "status": "reviewed-with-unresolved-photo-gaps",
   "coverage": [
     {
       "destination": "Siargao",
       "total": 36,
-      "photos": 7,
+      "photos": 8,
       "added": 0,
-      "gaps": 29
+      "gaps": 28
     },
     {
       "destination": "Boracay",
       "total": 28,
-      "photos": 8,
+      "photos": 9,
       "added": 0,
-      "gaps": 20
+      "gaps": 19
     },
     {
       "destination": "Baguio",
@@ -32,9 +32,9 @@
     {
       "destination": "Davao",
       "total": 39,
-      "photos": 16,
+      "photos": 18,
       "added": 1,
-      "gaps": 23
+      "gaps": 21
     },
     {
       "destination": "Bohol",
@@ -74,9 +74,9 @@
     {
       "destination": "Cebu",
       "total": 51,
-      "photos": 32,
+      "photos": 33,
       "added": 0,
-      "gaps": 19
+      "gaps": 18
     },
     {
       "destination": "Sagada",

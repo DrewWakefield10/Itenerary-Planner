@@ -13,15 +13,15 @@
       "baguio-wright-park"
     ]
   },
-  "updatedOn": "2026-10-23",
+  "updatedOn": "2026-11-24",
   "featureStatus": "implemented-and-verified",
   "stage": "B-complete-with-content-gaps",
   "totals": {
     "reviewed": 426,
     "descriptionsImproved": 426,
-    "photographsAdded": 210,
+    "photographsAdded": 215,
     "existingPhotographs": 6,
-    "photoGaps": 210,
+    "photoGaps": 205,
     "locationsWithVideos": 299,
     "videos": 515,
     "videoGaps": 127
@@ -1617,8 +1617,8 @@
       "image": "gap",
       "videos": "metadata-reviewed",
       "videoCount": 2,
-      "instagramResources": 0,
-      "instagramConfirmedEmbeds": 0,
+      "instagramResources": 1,
+      "instagramConfirmedEmbeds": 1,
       "descriptionStatus": "improved",
       "mediaReviewed": true,
       "photoResearch": {
@@ -1934,7 +1934,7 @@
       "destination": "Siargao",
       "municipality": "Socorro",
       "description": "improved",
-      "image": "gap",
+      "image": "added",
       "videos": "metadata-reviewed",
       "videoCount": 2,
       "instagramResources": 1,
@@ -1942,10 +1942,10 @@
       "descriptionStatus": "improved",
       "mediaReviewed": true,
       "photoResearch": {
-        "batchId": "cover-001",
-        "status": "needs-supplied-photo",
-        "checkedOn": "2026-10-23",
-        "record": "docs/place-enrichment/cover-completion/cover-001-decisions.json"
+        "batchId": "visual-001",
+        "status": "added",
+        "checkedOn": "2026-11-24",
+        "record": "docs/place-enrichment/visual-coverage/visual-001-decisions.json"
       },
       "existingSummaryWords": 7,
       "reviewedOn": "2026-10-22",
@@ -1963,8 +1963,7 @@
         }
       ],
       "notes": [
-        "Municipality-wide Bucas Grande article not used as cave-specific evidence; a Middle Bucas Grande/Dapa photograph was excluded.",
-        "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results."
+        "Municipality-wide Bucas Grande article not used as cave-specific evidence; a Middle Bucas Grande/Dapa photograph was excluded."
       ]
     },
     {
@@ -2201,7 +2200,7 @@
       "destination": "Davao",
       "municipality": "Davao City",
       "description": "improved",
-      "image": "gap",
+      "image": "added",
       "videos": "metadata-reviewed",
       "videoCount": 2,
       "instagramResources": 0,
@@ -2209,10 +2208,10 @@
       "descriptionStatus": "improved",
       "mediaReviewed": true,
       "photoResearch": {
-        "batchId": "cover-003",
-        "status": "needs-supplied-photo",
-        "checkedOn": "2026-10-23",
-        "record": "docs/place-enrichment/cover-completion/cover-003-decisions.json"
+        "batchId": "visual-001",
+        "status": "added",
+        "checkedOn": "2026-11-24",
+        "record": "docs/place-enrichment/visual-coverage/visual-001-decisions.json"
       },
       "existingSummaryWords": 5,
       "reviewedOn": "2026-10-22",
@@ -2230,9 +2229,7 @@
           "report": "batch-010-link-check.json"
         }
       ],
-      "notes": [
-        "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results."
-      ]
+      "notes": []
     },
     {
       "placeId": "davao-chinatown",
@@ -2263,7 +2260,7 @@
       "destination": "Davao",
       "municipality": "Davao City",
       "description": "improved",
-      "image": "gap",
+      "image": "added",
       "videos": "reviewed-gap",
       "videoCount": 0,
       "instagramResources": 0,
@@ -2271,10 +2268,10 @@
       "descriptionStatus": "improved",
       "mediaReviewed": true,
       "photoResearch": {
-        "batchId": "cover-003",
-        "status": "needs-supplied-photo",
-        "checkedOn": "2026-10-23",
-        "record": "docs/place-enrichment/cover-completion/cover-003-decisions.json"
+        "batchId": "visual-001",
+        "status": "added",
+        "checkedOn": "2026-11-24",
+        "record": "docs/place-enrichment/visual-coverage/visual-001-decisions.json"
       },
       "existingSummaryWords": 7,
       "reviewedOn": "2026-10-22",
@@ -2293,7 +2290,6 @@
       ],
       "notes": [
         "Rejected Manila Rizal Park article and monument photograph. Original city PDF returned HTTP 404.",
-        "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results.",
         "Video c0yNwXkuaFA: HTTP 401: https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dc0yNwXkuaFA&format=json",
         "Video s_E7YoXLHuY: Official source does not currently confirm a playable, embeddable video with an accessible description"
       ]
@@ -4296,7 +4292,7 @@
       "destination": "Boracay",
       "municipality": "Malay",
       "description": "improved",
-      "image": "gap",
+      "image": "added",
       "videos": "metadata-reviewed",
       "videoCount": 2,
       "instagramResources": 0,
@@ -4304,10 +4300,10 @@
       "descriptionStatus": "improved",
       "mediaReviewed": true,
       "photoResearch": {
-        "batchId": "cover-002",
-        "status": "needs-supplied-photo",
-        "checkedOn": "2026-10-23",
-        "record": "docs/place-enrichment/cover-completion/cover-002-decisions.json"
+        "batchId": "visual-001",
+        "status": "added",
+        "checkedOn": "2026-11-24",
+        "record": "docs/place-enrichment/visual-coverage/visual-001-decisions.json"
       },
       "existingSummaryWords": 6,
       "reviewedOn": "2026-10-22",
@@ -4318,8 +4314,7 @@
       ],
       "sourceReachabilityIssues": [],
       "notes": [
-        "A food photograph without a sufficiently clear market identity was not substituted.",
-        "Photo gap: No exact-place image with established reuse rights was identified in the reviewed Commons results."
+        "A food photograph without a sufficiently clear market identity was not substituted."
       ]
     },
     {
@@ -5051,8 +5046,8 @@
       "image": "gap",
       "videos": "metadata-reviewed",
       "videoCount": 2,
-      "instagramResources": 0,
-      "instagramConfirmedEmbeds": 0,
+      "instagramResources": 1,
+      "instagramConfirmedEmbeds": 1,
       "descriptionStatus": "improved",
       "mediaReviewed": true,
       "photoResearch": {
@@ -5279,8 +5274,8 @@
       "image": "retained-existing",
       "videos": "metadata-reviewed",
       "videoCount": 2,
-      "instagramResources": 0,
-      "instagramConfirmedEmbeds": 0,
+      "instagramResources": 2,
+      "instagramConfirmedEmbeds": 2,
       "descriptionStatus": "improved",
       "mediaReviewed": true,
       "existingSummaryWords": 7,
@@ -11456,7 +11451,7 @@
       "destination": "Cebu",
       "municipality": "Mandaue City",
       "description": "improved",
-      "image": "gap",
+      "image": "added",
       "videos": "pending",
       "videoCount": 0,
       "instagramResources": 0,
@@ -11464,10 +11459,10 @@
       "descriptionStatus": null,
       "mediaReviewed": false,
       "photoResearch": {
-        "batchId": "cover-009",
-        "status": "needs-supplied-photo",
-        "checkedOn": "2026-10-23",
-        "record": "docs/place-enrichment/cover-completion/cover-009-decisions.json"
+        "batchId": "visual-002",
+        "status": "added",
+        "checkedOn": "2026-11-24",
+        "record": "docs/place-enrichment/visual-coverage/visual-002-decisions.json"
       },
       "foodResearch": {
         "batchId": "food-003",
@@ -14219,36 +14214,36 @@
     "nextBatch": null
   },
   "instagramCoverage": {
-    "resources": 37,
-    "locations": 36,
-    "confirmedEmbeds": 37,
+    "resources": 41,
+    "locations": 39,
+    "confirmedEmbeds": 41,
     "linkOnly": 0,
     "progress": "public/data/instagram-progress.json",
     "photoCoverageIndependent": true
   },
   "coverPhotoPass": {
-    "updatedOn": "2026-10-23",
+    "updatedOn": "2026-11-24",
     "startingGaps": 212,
     "startingPhotos": 214,
     "reviewed": 212,
     "added": 2,
-    "photos": 216,
-    "remainingGaps": 210,
+    "photos": 221,
+    "remainingGaps": 205,
     "status": "reviewed-with-unresolved-photo-gaps",
     "coverage": [
       {
         "destination": "Siargao",
         "total": 36,
-        "photos": 7,
+        "photos": 8,
         "added": 0,
-        "gaps": 29
+        "gaps": 28
       },
       {
         "destination": "Boracay",
         "total": 28,
-        "photos": 8,
+        "photos": 9,
         "added": 0,
-        "gaps": 20
+        "gaps": 19
       },
       {
         "destination": "Baguio",
@@ -14260,9 +14255,9 @@
       {
         "destination": "Davao",
         "total": 39,
-        "photos": 16,
+        "photos": 18,
         "added": 1,
-        "gaps": 23
+        "gaps": 21
       },
       {
         "destination": "Bohol",
@@ -14302,9 +14297,9 @@
       {
         "destination": "Cebu",
         "total": 51,
-        "photos": 32,
+        "photos": 33,
         "added": 0,
-        "gaps": 19
+        "gaps": 18
       },
       {
         "destination": "Sagada",

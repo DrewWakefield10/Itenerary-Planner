@@ -4,7 +4,7 @@ const root='docs/place-enrichment/cover-completion';
 const baseline=JSON.parse(readFileSync(root+'/baseline.json','utf8'));
 // Keep older preservation snapshots intact while permitting only the later,
 // explicit approvals. Unapproved photos and changes to existing photos still fail.
-const approvals=readdirSync(root).filter(n=>n.endsWith('-decisions.json')).flatMap(name=>JSON.parse(readFileSync(root+'/'+name,'utf8')).entries.filter(e=>e.approved));
+const approvals=[root,'docs/place-enrichment/visual-coverage'].flatMap(folder=>readdirSync(folder).filter(name=>name.endsWith('-decisions.json')).flatMap(name=>JSON.parse(readFileSync(folder+'/'+name,'utf8')).entries.filter(e=>e.approved)));
 approvals.forEach(validatePhotoDecision);
 export const reviewedCoverAdditions=new Set(approvals.filter(e=>!baseline.photos[e.placeId]).map(e=>e.placeId));
 /** @template {{placeId:string, photo?:unknown}} T @param {T[]} rows @returns {T[]} */

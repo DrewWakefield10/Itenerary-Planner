@@ -1,0 +1,629 @@
+{
+  "id": "08-remaining",
+  "checkedOn": "2026-11-25",
+  "records": [
+    {
+      "placeId": "cebu-u-kitchen-lahug",
+      "name": "U Kitchen — Lahug",
+      "municipality": "Cebu City",
+      "destination": "Cebu",
+      "category": "Food & drink",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=U+Kitchen+Cebu&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        },
+        {
+          "url": "https://api.openverse.org/v1/images/?q=U+Kitchen+Cebu&license=by%2Cby-sa%2Ccc0%2Cpdm&page_size=4",
+          "status": "TimeoutError"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-009-decisions.json",
+      "listingSource": "https://lagunagroup.ph/u-kitchen/",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "cebu-pares-pares-escario",
+      "name": "Pares Pares — N. Escario Street",
+      "municipality": "Cebu City",
+      "destination": "Cebu",
+      "category": "Food & drink",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Pares+Pares+Cebu&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        },
+        {
+          "url": "https://api.openverse.org/v1/images/?q=Pares+Pares+Cebu&license=by%2Cby-sa%2Ccc0%2Cpdm&page_size=4",
+          "status": "TimeoutError"
+        }
+      ],
+      "candidates": [
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:The_abaca_footwear_from_Bantayan_Island,_Cebu_1.jpg",
+          "title": "File:The abaca footwear from Bantayan Island, Cebu 1.jpg",
+          "listedLicense": "CC0"
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:The_abaca_footwear_from_Bantayan_Island,_Cebu_2.jpg",
+          "title": "File:The abaca footwear from Bantayan Island, Cebu 2.jpg",
+          "listedLicense": "CC0"
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Pares_Batchoy_Food_House_at_the_Barracks_(2025-03-09).jpg",
+          "title": "File:Pares Batchoy Food House at the Barracks (2025-03-09).jpg",
+          "listedLicense": "CC BY 4.0"
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Batchoy_with_Bread_from_Pares_Batchoy_at_the_Barracks_(2025-03-09).jpg",
+          "title": "File:Batchoy with Bread from Pares Batchoy at the Barracks (2025-03-09).jpg",
+          "listedLicense": "CC BY 4.0"
+        }
+      ],
+      "priorDecision": "cover-009-decisions.json",
+      "listingSource": "https://guide.michelin.com/us/en/central-visayas/cebu-city_2340421/restaurant/pares-pares-n-escario-street",
+      "outcome": "illustration",
+      "reviewReason": "The results show a different venue in the Barracks or unrelated footwear."
+    },
+    {
+      "placeId": "cebu-abli",
+      "name": "Abli",
+      "municipality": "Cebu City",
+      "destination": "Cebu",
+      "category": "Food & drink",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Abli+Cebu&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        },
+        {
+          "url": "https://api.openverse.org/v1/images/?q=Abli+Cebu&license=by%2Cby-sa%2Ccc0%2Cpdm&page_size=4",
+          "status": "TimeoutError"
+        }
+      ],
+      "candidates": [
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Sisters_of_St._Paul_of_Chartres_Monument_02.jpg",
+          "title": "File:Sisters of St. Paul of Chartres Monument 02.jpg",
+          "listedLicense": "CC BY-SA 4.0"
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Sisters_of_St._Paul_of_Chartres_Monument_03.jpg",
+          "title": "File:Sisters of St. Paul of Chartres Monument 03.jpg",
+          "listedLicense": "CC BY-SA 4.0"
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Sisters_of_St._Paul_of_Chartres_Monument_01.jpg",
+          "title": "File:Sisters of St. Paul of Chartres Monument 01.jpg",
+          "listedLicense": "CC BY-SA 4.0"
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Fresh_Coconut_in_Cebu.jpg",
+          "title": "File:Fresh Coconut in Cebu.jpg",
+          "listedLicense": "CC BY-SA 4.0"
+        }
+      ],
+      "priorDecision": "cover-009-decisions.json",
+      "listingSource": "https://guide.michelin.com/us/en/central-visayas/cebu-city_2340421/restaurant/abli",
+      "outcome": "illustration",
+      "reviewReason": "Returned scenery and a monument do not identify the venue."
+    },
+    {
+      "placeId": "cebu-abaseria",
+      "name": "Abaseria Deli & Cafe",
+      "municipality": "Cebu City",
+      "destination": "Cebu",
+      "category": "Food & drink",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Abaseria+Deli+%26+Cafe+Cebu&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        },
+        {
+          "url": "https://api.openverse.org/v1/images/?q=Abaseria+Deli+%26+Cafe+Cebu&license=by%2Cby-sa%2Ccc0%2Cpdm&page_size=4",
+          "status": "TimeoutError"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-009-decisions.json",
+      "listingSource": "https://guide.michelin.com/us/en/central-visayas/cebu-city_2340421/restaurant/abaseria-deli-cafe",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "cebu-ato-ah",
+      "name": "ATO-AH",
+      "municipality": "Cebu City",
+      "destination": "Cebu",
+      "category": "Food & drink",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=ATO-AH+Cebu&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        },
+        {
+          "url": "https://api.openverse.org/v1/images/?q=ATO-AH+Cebu&license=by%2Cby-sa%2Ccc0%2Cpdm&page_size=4",
+          "status": "TimeoutError"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-009-decisions.json",
+      "listingSource": "https://guide.michelin.com/us/en/central-visayas/cebu-city_2340421/restaurant/ato-ah",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "cebu-lantaw-compostela",
+      "name": "Lantaw — Compostela",
+      "municipality": "Compostela",
+      "destination": "Cebu",
+      "category": "Food & drink",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Lantaw+Compostela&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        },
+        {
+          "url": "https://api.openverse.org/v1/images/?q=Lantaw+Compostela&license=by%2Cby-sa%2Ccc0%2Cpdm&page_size=4",
+          "status": "TimeoutError"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-009-decisions.json",
+      "listingSource": "https://guide.michelin.com/gb/en/central-visayas/cebu-city_2340421/restaurant/lantaw-compostela",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "cebu-ricos-mandaue",
+      "name": "Rico’s Lechon — Mandaue",
+      "municipality": "Mandaue City",
+      "destination": "Cebu",
+      "category": "Food & drink",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Rico%27s+Lechon+Mandaue&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        },
+        {
+          "url": "https://api.openverse.org/v1/images/?q=Rico%27s+Lechon+Mandaue&license=by%2Cby-sa%2Ccc0%2Cpdm&page_size=4",
+          "status": "TimeoutError"
+        }
+      ],
+      "candidates": [
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Rico%27s_Lechon_interior_(2023-05-28)_(01).jpg",
+          "title": "File:Rico's Lechon interior (2023-05-28) (01).jpg",
+          "listedLicense": "CC BY-SA 4.0"
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Rico%27s_Lechon_interior_(2023-05-28)_(02).jpg",
+          "title": "File:Rico's Lechon interior (2023-05-28) (02).jpg",
+          "listedLicense": "CC BY-SA 4.0"
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Rico%27s_Lechon_interior_(2023-05-28)_(03).jpg",
+          "title": "File:Rico's Lechon interior (2023-05-28) (03).jpg",
+          "listedLicense": "CC BY-SA 4.0"
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Rico%27s_Lechon_interior_(2023-05-28)_(04).jpg",
+          "title": "File:Rico's Lechon interior (2023-05-28) (04).jpg",
+          "listedLicense": "CC BY-SA 4.0"
+        }
+      ],
+      "priorDecision": "cover-009-decisions.json",
+      "listingSource": "https://ricoslechon.com/",
+      "outcome": "approved-photo",
+      "decision": "visual-002-decisions.json"
+    },
+    {
+      "placeId": "cebu-punched-mabuhay",
+      "name": "Punched Coffee — Mabuhay Tower",
+      "municipality": "Cebu City",
+      "destination": "Cebu",
+      "category": "Food & drink",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Punched+Coffee+Cebu&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        },
+        {
+          "url": "https://api.openverse.org/v1/images/?q=Punched+Coffee+Cebu&license=by%2Cby-sa%2Ccc0%2Cpdm&page_size=4",
+          "status": "searched"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-009-decisions.json",
+      "listingSource": "https://getpunched.com/locations",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "manila-yardstick-esteban",
+      "name": "Yardstick — Legazpi Village",
+      "municipality": "Makati",
+      "destination": "Manila",
+      "category": "Food & drink",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Yardstick+Makati&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        },
+        {
+          "url": "https://api.openverse.org/v1/images/?q=Yardstick+Makati&license=by%2Cby-sa%2Ccc0%2Cpdm&page_size=4",
+          "status": "TimeoutError"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-008-decisions.json",
+      "listingSource": "https://store.yardstickcoffee.com/pages/cafe/",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "manila-commune-poblacion",
+      "name": "Commune Café + Bar",
+      "municipality": "Makati",
+      "destination": "Manila",
+      "category": "Food & drink",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Commune+Caf%C3%A9+%2B+Bar+Makati&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        },
+        {
+          "url": "https://api.openverse.org/v1/images/?q=Commune+Caf%C3%A9+%2B+Bar+Makati&license=by%2Cby-sa%2Ccc0%2Cpdm&page_size=4",
+          "status": "TimeoutError"
+        }
+      ],
+      "candidates": [
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Sony_Xperia_XZ_Platinum_with_Style_Cover_Touch_case.jpg",
+          "title": "File:Sony Xperia XZ Platinum with Style Cover Touch case.jpg",
+          "listedLicense": "CC BY-SA 4.0"
+        }
+      ],
+      "priorDecision": "cover-008-decisions.json",
+      "listingSource": "https://commune.ph/",
+      "outcome": "illustration",
+      "reviewReason": "Returned consumer-electronics image does not show the café."
+    },
+    {
+      "placeId": "manila-exchange-alley-molito",
+      "name": "Exchange Alley Coffee House — Molito",
+      "municipality": "Muntinlupa",
+      "destination": "Manila",
+      "category": "Food & drink",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Exchange+Alley+Coffee+House+Muntinlupa&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        },
+        {
+          "url": "https://api.openverse.org/v1/images/?q=Exchange+Alley+Coffee+House+Muntinlupa&license=by%2Cby-sa%2Ccc0%2Cpdm&page_size=4",
+          "status": "searched"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-008-decisions.json",
+      "listingSource": "https://molito.com.ph/food_beverages/exchange-alley-coffee-house/",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "manila-group-boiler-molito",
+      "name": "Group & Boiler — Molito",
+      "municipality": "Muntinlupa",
+      "destination": "Manila",
+      "category": "Food & drink",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Group+%26+Boiler+Muntinlupa&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        },
+        {
+          "url": "https://api.openverse.org/v1/images/?q=Group+%26+Boiler+Muntinlupa&license=by%2Cby-sa%2Ccc0%2Cpdm&page_size=4",
+          "status": "searched"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-008-decisions.json",
+      "listingSource": "https://molito.com.ph/food_beverages/group-boiler/",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "manila-type-a-nbs",
+      "name": "Type A Coffee — NBS Park",
+      "municipality": "Mandaluyong",
+      "destination": "Manila",
+      "category": "Food & drink",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Type+A+Coffee+Mandaluyong&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        },
+        {
+          "url": "https://api.openverse.org/v1/images/?q=Type+A+Coffee+Mandaluyong&license=by%2Cby-sa%2Ccc0%2Cpdm&page_size=4",
+          "status": "TimeoutError"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-008-decisions.json",
+      "listingSource": "https://www.topgear.com.ph/features/feature-articles/type-a-coffee-run-2026-a962-20260603",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "manila-the-den-escolta",
+      "name": "The Den — Escolta",
+      "municipality": "Manila",
+      "destination": "Manila",
+      "category": "Food & drink",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=The+Den+Manila&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        },
+        {
+          "url": "https://api.openverse.org/v1/images/?q=The+Den+Manila&license=by%2Cby-sa%2Ccc0%2Cpdm&page_size=4",
+          "status": "TimeoutError"
+        }
+      ],
+      "candidates": [
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Makati,_Metro_Manila,_Philippines_-_panoramio.jpg",
+          "title": "File:Makati, Metro Manila, Philippines - panoramio.jpg",
+          "listedLicense": "CC BY-SA 3.0"
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:0340jfEast_Rembo_Barangays_Kalayaan_Avenue_Makati_City_Tunnelfvf_32.jpg",
+          "title": "File:0340jfEast Rembo Barangays Kalayaan Avenue Makati City Tunnelfvf 32.jpg",
+          "listedLicense": "CC0"
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Manila,_Makati,_Philippines.jpg",
+          "title": "File:Manila, Makati, Philippines.jpg",
+          "listedLicense": "CC BY 4.0"
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Iglesia_de_San_Miguel,_Manila,_Filipinas,_2023-08-27,_DD_29-31_HDR.jpg",
+          "title": "File:Iglesia de San Miguel, Manila, Filipinas, 2023-08-27, DD 29-31 HDR.jpg",
+          "listedLicense": "CC BY-SA 4.0"
+        }
+      ],
+      "priorDecision": "cover-008-decisions.json",
+      "listingSource": "https://thedenmanila.com/",
+      "outcome": "illustration",
+      "reviewReason": "Returned street and building photographs do not identify The Den in Escolta."
+    },
+    {
+      "placeId": "manila-saigon-coffee-arca",
+      "name": "Saigon Coffee — Arca South",
+      "municipality": "Taguig",
+      "destination": "Manila",
+      "category": "Food & drink",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Saigon+Coffee+Taguig&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        },
+        {
+          "url": "https://api.openverse.org/v1/images/?q=Saigon+Coffee+Taguig&license=by%2Cby-sa%2Ccc0%2Cpdm&page_size=4",
+          "status": "TimeoutError"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-008-decisions.json",
+      "listingSource": "https://saigoncoffee.ph/",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "manila-toyo-eatery",
+      "name": "Toyo Eatery",
+      "municipality": "Makati",
+      "destination": "Manila",
+      "category": "Food & drink",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Toyo+Eatery+Makati&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        },
+        {
+          "url": "https://api.openverse.org/v1/images/?q=Toyo+Eatery+Makati&license=by%2Cby-sa%2Ccc0%2Cpdm&page_size=4",
+          "status": "searched"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-008-decisions.json",
+      "listingSource": "https://www.tablecheck.com/tl/toyoeatery/reserve/landing",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "manila-gallery-by-chele",
+      "name": "Gallery by Chele",
+      "municipality": "Taguig",
+      "destination": "Manila",
+      "category": "Food & drink",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Gallery+by+Chele+Taguig&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        },
+        {
+          "url": "https://api.openverse.org/v1/images/?q=Gallery+by+Chele+Taguig&license=by%2Cby-sa%2Ccc0%2Cpdm&page_size=4",
+          "status": "searched"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-008-decisions.json",
+      "listingSource": "https://gallerybychele.com/about-us/",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "manila-your-local",
+      "name": "Your Local",
+      "municipality": "Makati",
+      "destination": "Manila",
+      "category": "Food & drink",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Your+Local+Makati&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        },
+        {
+          "url": "https://api.openverse.org/v1/images/?q=Your+Local+Makati&license=by%2Cby-sa%2Ccc0%2Cpdm&page_size=4",
+          "status": "TimeoutError"
+        }
+      ],
+      "candidates": [
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Kalayaan_Avenue,_Makati,_Nov_2026_(3).jpg",
+          "title": "File:Kalayaan Avenue, Makati, Nov 2026 (3).jpg",
+          "listedLicense": "CC BY-SA 4.0"
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Makati_Avenue,_Poblacion,_Makati,_Nov_2026.jpg",
+          "title": "File:Makati Avenue, Poblacion, Makati, Nov 2026.jpg",
+          "listedLicense": "CC BY-SA 4.0"
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Makati_City_Hall,_Nov_2026.jpg",
+          "title": "File:Makati City Hall, Nov 2026.jpg",
+          "listedLicense": "CC BY-SA 4.0"
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:St._Paul_College_of_Makati,_Makati_City,_Nov_2026.jpg",
+          "title": "File:St. Paul College of Makati, Makati City, Nov 2026.jpg",
+          "listedLicense": "CC BY-SA 4.0"
+        }
+      ],
+      "priorDecision": "cover-008-decisions.json",
+      "listingSource": "https://guide.michelin.com/en/metro-manila/makati-city_2329358/restaurant/your-local",
+      "outcome": "illustration",
+      "reviewReason": "Returned places are general Makati streets and unrelated businesses."
+    },
+    {
+      "placeId": "manila-sarsa-rada",
+      "name": "Sarsa — Rada Street",
+      "municipality": "Makati",
+      "destination": "Manila",
+      "category": "Food & drink",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Sarsa+Makati&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        },
+        {
+          "url": "https://api.openverse.org/v1/images/?q=Sarsa+Makati&license=by%2Cby-sa%2Ccc0%2Cpdm&page_size=4",
+          "status": "TimeoutError"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-008-decisions.json",
+      "listingSource": "https://guide.michelin.com/ph/en/metro-manila/makati-city_2329358/restaurant/sarsa",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "manila-metiz-karrivin",
+      "name": "Metiz",
+      "municipality": "Makati",
+      "destination": "Manila",
+      "category": "Food & drink",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Metiz+Makati&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        },
+        {
+          "url": "https://api.openverse.org/v1/images/?q=Metiz+Makati&license=by%2Cby-sa%2Ccc0%2Cpdm&page_size=4",
+          "status": "TimeoutError"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-008-decisions.json",
+      "listingSource": "https://guide.michelin.com/ph/en/metro-manila/makati-city_2329358/restaurant/metiz",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "manila-cirkulo",
+      "name": "Cirkulo",
+      "municipality": "Makati",
+      "destination": "Manila",
+      "category": "Food & drink",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Cirkulo+Makati&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        },
+        {
+          "url": "https://api.openverse.org/v1/images/?q=Cirkulo+Makati&license=by%2Cby-sa%2Ccc0%2Cpdm&page_size=4",
+          "status": "searched"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-008-decisions.json",
+      "listingSource": "https://guide.michelin.com/gb/en/metro-manila/makati-city_2329358/restaurant/cirkulo",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "manila-la-pita-poblacion",
+      "name": "La Pita — Poblacion",
+      "municipality": "Makati",
+      "destination": "Manila",
+      "category": "Food & drink",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=La+Pita+Makati&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        },
+        {
+          "url": "https://api.openverse.org/v1/images/?q=La+Pita+Makati&license=by%2Cby-sa%2Ccc0%2Cpdm&page_size=4",
+          "status": "searched"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-008-decisions.json",
+      "listingSource": "https://guide.michelin.com/sa/en/metro-manila/makati-city_2329358/restaurant/la-pita-poblacion",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    }
+  ],
+  "totals": {
+    "places": 22,
+    "reachedIndex": 22,
+    "withImageLeads": 6,
+    "approvedPhotos": 1
+  }
+}

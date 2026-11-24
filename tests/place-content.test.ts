@@ -12,7 +12,7 @@ test("place content keeps stable identity, reusable image metadata and separate 
   assert.equal(new Set(placeContents.map(p=>p.placeId)).size,placeContents.length);
   for(const p of placeContents){
     placeContentSchema.parse(p);assert.ok(directoryListings.some(d=>d.id===p.placeId));
-    if(p.photo){assert.equal(p.photo.placeId,p.placeId);assert.ok(existsSync("public"+p.photo.src));assert.ok(p.photo.creator);assert.ok(/CC|Public domain/.test(p.photo.license));assert.ok(new URL(p.photo.originalUrl).hostname.endsWith("wikimedia.org"));}
+    if(p.photo){assert.equal(p.photo.placeId,p.placeId);assert.ok(existsSync("public"+p.photo.src));assert.ok(p.photo.creator);assert.ok(/CC|Public domain/.test(p.photo.license));const hosts=[new URL(p.photo.sourcePage).hostname,new URL(p.photo.originalUrl).hostname];assert.ok(["commons.wikimedia.org/upload.wikimedia.org","www.flickr.com/live.staticflickr.com"].includes(hosts.join("/")));}
     assert.equal(discoveryPlace(p.placeId)!.description,p.summary);
     assert.equal(discoveryPlace(p.placeId)!.source.status,directoryListings.find(d=>d.id===p.placeId)!.sources.identity.status);
   }

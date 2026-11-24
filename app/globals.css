@@ -2784,6 +2784,37 @@ textarea {
 .place-photo-fallback { min-height:210px; padding:24px; text-align:center; }
 .place-photo-fallback small { font-family:var(--sans); font-size:11px; }
 .discovery-detail-hero .place-photo, .discovery-detail-hero .place-photo-fallback { width:100%; height:auto; aspect-ratio:4/3; object-fit:cover; }
+/* Category illustrations share the dimensions of photographs. */
+.place-cover-frame { position: relative; width: 100%; }
+.discovery-photo .place-cover-frame { aspect-ratio: 16 / 10; }
+.discovery-detail-hero .place-cover-frame { aspect-ratio: 4 / 3; }
+.place-cover-frame .place-photo { display:block; }
+.place-cover-frame[data-cover-kind="promotion"] .place-photo,
+.place-cover-frame[data-cover-kind="logo"] .place-photo { object-fit:contain; background:var(--paper); padding:12px; }
+.place-cover-frame[data-cover-kind="logo"] .place-photo { padding:clamp(20px,7%,48px); }
+.place-cover-art.place-photo-fallback {
+  --cover-paper: #e5eee1;
+  --cover-wash: #b8d5bd;
+  --cover-ink: #2b6251;
+  --cover-accent: #edaa68;
+  display:grid; place-items:center; height:100%; width:100%; min-height:0; padding:12px;
+  overflow:hidden; background:var(--cover-paper); color:var(--cover-ink);
+}
+.place-cover-art[data-illustration="cafe"], .place-cover-art[data-illustration="dining"] { --cover-paper:#fae9d4; --cover-wash:#f2c995; --cover-ink:#82492c; --cover-accent:#ede3ac; }
+.place-cover-art[data-illustration="coast"] { --cover-paper:#ddedf0; --cover-wash:#abd9df; --cover-ink:#256577; --cover-accent:#f1c878; }
+.place-cover-art[data-illustration="heritage"], .place-cover-art[data-illustration="market"] { --cover-paper:#f4e6d9; --cover-wash:#e8bdaa; --cover-ink:#824a3d; --cover-accent:#ecc770; }
+.place-cover-art[data-illustration="attraction"] { --cover-paper:#e7e9f2; --cover-wash:#c9d2e8; --cover-ink:#465477; --cover-accent:#f2c672; }
+.place-cover-drawing {
+  position:relative; display:grid; place-items:center; width:clamp(80px,42%,155px); aspect-ratio:1;
+  max-height:85%; border-radius:48% 52% 55% 45%; background:var(--cover-wash);
+  box-shadow:0 0 0 5px var(--cover-paper), 0 0 0 6px var(--cover-wash);
+  transform:rotate(-5deg);
+}
+.place-cover-primary { width:59%; height:59%; fill:var(--cover-paper); transform:translate(-5%,-2%); }
+.place-cover-detail { position:absolute; width:30%; height:30%; right:5%; bottom:10%; fill:var(--cover-accent); transform:rotate(13deg); }
+.place-cover-label { position:absolute; right:9px; bottom:9px; padding:4px 8px; border:1px solid var(--line); border-radius:3px; color:var(--ink); background:var(--paper); font:600 11px/1.2 var(--sans); }
+.cover-card-credit { padding:5px 12px; color:var(--muted); font-size:11px; overflow-wrap:anywhere; }
+.discovery-detail-hero .place-cover-art { border:8px solid var(--paper); box-shadow:3px 5px 0 #e8e1d4; }
 .place-municipality { color:var(--teal); font-size:14px; }
 .place-save-unavailable { display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-top:14px; }
 .place-save-unavailable .fine-print { max-width:36ch; }

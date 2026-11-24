@@ -5,15 +5,24 @@ import type {DiscoveryPlace} from "@/lib/discovery";
 import {videosForPlace,videoEmbedUrl} from "@/lib/catalog/place-content";
 import {SourceIndicator} from "./source-indicator";
 
+export function PlaceImage({image, prominent = false, onError}: {
+  image: NonNullable<DiscoveryPlace["image"]>;
+  prominent?: boolean;
+  onError: () => void;
+}) {
+  return <img className="place-photo" src={image.src} alt={image.alt}
+    ref={img=>{if(img?.complete&&img.naturalWidth===0)onError();}}
+    width={image.width||1200} height={image.height||800}
+    srcSet={image.srcSmall&&image.width&&image.width>640?`${image.srcSmall} 640w, ${image.src} ${image.width}w`:undefined}
+    sizes={image.srcSmall&&image.width&&image.width>640?prominent?"(max-width: 650px) 100vw, 48vw":"(max-width: 650px) 100vw, (max-width: 1000px) 50vw, 33vw":undefined}
+    loading={prominent?"eager":"lazy"} decoding="async" style={{objectPosition:image.objectPosition||"50% 50%"}}
+    onError={onError}/>;
+}
+
 export function PlacePhoto({place,prominent=false}:{place:DiscoveryPlace;prominent?:boolean}){
   const [failed,setFailed]=useState(false),photo=place.image;
-  return photo&&!failed?<img className="place-photo" src={photo.src} alt={photo.alt}
-    ref={img=>{if(img?.complete&&img.naturalWidth===0)setFailed(true);}}
-    width={photo.width||1200} height={photo.height||800}
-    srcSet={photo.srcSmall&&photo.width&&photo.width>640?`${photo.srcSmall} 640w, ${photo.src} ${photo.width}w`:undefined}
-    sizes={photo.srcSmall&&photo.width&&photo.width>640?prominent?"(max-width: 650px) 100vw, 48vw":"(max-width: 650px) 100vw, (max-width: 1000px) 50vw, 33vw":undefined}
-    loading={prominent?"eager":"lazy"} decoding="async" style={{objectPosition:photo.objectPosition||"50% 50%"}}
-    onError={()=>setFailed(true)}/>:<div className="discovery-art place-photo-fallback" role="img" aria-label={`Photograph unavailable for ${place.name}`}>
+  return photo&&!failed?<PlaceImage image={photo} prominent={prominent} onError={()=>setFailed(true)}/>
+    :<div className="discovery-art place-photo-fallback" role="img" aria-label={`Photograph unavailable for ${place.name}`}>
       <Compass size={62} strokeWidth={1} aria-hidden="true"/><span>{place.name}</span><small>Place photograph not available</small>
     </div>;
 }
@@ -47,7 +56,7 @@ export function PlaceEditorialCredits({place}:{place:DiscoveryPlace}){
   return <>
     {place.directory&&<div className="place-geography-sources">{Object.entries(place.directory.sources).map(([key,source])=><p key={key}><strong>{key==="municipality"?"Municipality":key[0].toUpperCase()+key.slice(1)}: </strong><SourceIndicator source={source} label={key==="municipality"?"Municipality":key}/></p>)}</div>}
     {!!content?.sources.length&&<ul className="place-source-list">{content.sources.map(s=><li key={s.url}><a href={s.url} target="_blank" rel="noreferrer">{s.name} ↗</a><p>{s.supports} · Reviewed {s.checkedOn}</p></li>)}</ul>}
-    {photo?<div className="place-image-credit"><h3>Photograph</h3><p>{photo.attribution}</p><p><a href={photo.sourcePage} target="_blank" rel="noreferrer">Source page</a> · <a href={photo.originalUrl} target="_blank" rel="noreferrer">Original image</a> · <a href={photo.licenseUrl} target="_blank" rel="noreferrer">{photo.license}</a></p><p className="fine-print">Photo associated with {place.name}; reuse metadata checked {photo.checkedOn}. Photographs do not establish current conditions.</p></div>
+    {photo?<div className="place-image-credit"><h3>Photograph</h3><p>{photo.attribution}{photo.creatorUrl&&<> · <a href={photo.creatorUrl} target="_blank" rel="noreferrer">Photographer’s website</a></>}</p><p><a href={photo.sourcePage} target="_blank" rel="noreferrer">Source page</a> · <a href={photo.originalUrl} target="_blank" rel="noreferrer">Original image</a> · <a href={photo.licenseUrl} target="_blank" rel="noreferrer">{photo.license}</a></p><p className="fine-print">Photo associated with {place.name}; reuse metadata checked {photo.checkedOn}. Photographs do not establish current conditions.</p></div>
       :place.image?<p><a href={place.image.creditUrl}>Existing photo source and reuse license ↗</a></p>:<p>No photograph with documented reuse rights has been added for this place.</p>}
   </>;
 }

@@ -1,0 +1,483 @@
+{
+  "id": "03-remaining",
+  "checkedOn": "2026-11-25",
+  "records": [
+    {
+      "placeId": "puerto-princesa-princess-eulalia-park",
+      "name": "Princess Eulalia Park",
+      "municipality": "Puerto Princesa City",
+      "destination": "Palawan",
+      "category": "Parks & markets",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Princess+Eulalia+Park+Puerto+Princesa&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-006-decisions.json",
+      "listingSource": "https://citytourism.puertoprincesa.ph/historical-landmarks/",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "puerto-princesa-world-war-ii-memorial-museum",
+      "name": "World War II Memorial Museum",
+      "municipality": "Puerto Princesa City",
+      "destination": "Palawan",
+      "category": "Culture",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=World+War+II+Memorial+Museum+Puerto+Princesa&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-006-decisions.json",
+      "listingSource": "https://citytourism.puertoprincesa.ph/destination-map/",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "puerto-princesa-butterfly-ecological-garden",
+      "name": "Palawan Butterfly Ecological Garden",
+      "municipality": "Puerto Princesa City",
+      "destination": "Palawan",
+      "category": "Nature",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Palawan+Butterfly+Ecological+Garden+Puerto+Princesa&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-006-decisions.json",
+      "listingSource": "https://citytourism.puertoprincesa.ph/destination-map/",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "coron-saint-augustine-parish",
+      "name": "Saint Augustine Parish Church",
+      "municipality": "Coron",
+      "destination": "Palawan",
+      "category": "Culture",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Saint+Augustine+Parish+Church+Coron&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-006-decisions.json",
+      "listingSource": "https://www.corontravel.com/coron",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "siargao-pacifico-beach",
+      "name": "Pacifico Beach",
+      "municipality": "San Isidro",
+      "destination": "Siargao",
+      "category": "Nature",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Pacifico+Beach+San+Isidro&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-001-decisions.json",
+      "listingSource": "https://itsmorefuninthephilippines.co.uk/wp-content/uploads/PDOTL_Siargao_Web.pdf",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "siargao-alegria-beach",
+      "name": "Alegria Beach",
+      "municipality": "Santa Monica",
+      "destination": "Siargao",
+      "category": "Nature",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Alegria+Beach+Santa+Monica&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-001-decisions.json",
+      "listingSource": "https://itsmorefuninthephilippines.co.uk/wp-content/uploads/PDOTL_Siargao_Web.pdf",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "siargao-taktak-falls",
+      "name": "Taktak Falls",
+      "municipality": "Santa Monica",
+      "destination": "Siargao",
+      "category": "Nature",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Taktak+Falls+Santa+Monica&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-001-decisions.json",
+      "listingSource": "https://itsmorefuninthephilippines.co.uk/wp-content/uploads/PDOTL_Siargao_Web.pdf",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "siargao-santa-monica-pier",
+      "name": "Santa Monica Pier",
+      "municipality": "Santa Monica",
+      "destination": "Siargao",
+      "category": "Culture",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Santa+Monica+Pier+Santa+Monica&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        }
+      ],
+      "candidates": [
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:USA_Santa_Monica_Beach_and_pier_CA.jpg",
+          "title": "File:USA Santa Monica Beach and pier CA.jpg",
+          "listedLicense": "CC BY-SA 2.5"
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Los_Angeles_(California,_USA),_Santa_Monica_Beach_--_2012_--_5301.jpg",
+          "title": "File:Los Angeles (California, USA), Santa Monica Beach -- 2012 -- 5301.jpg",
+          "listedLicense": "CC BY-SA 4.0"
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Santa_Monica_Beach_01.jpg",
+          "title": "File:Santa Monica Beach 01.jpg",
+          "listedLicense": "CC BY-SA 4.0"
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Santa_Monica_Wheel_in_Pier.jpg",
+          "title": "File:Santa Monica Wheel in Pier.jpg",
+          "listedLicense": "CC BY-SA 4.0"
+        }
+      ],
+      "priorDecision": "cover-001-decisions.json",
+      "listingSource": "https://itsmorefuninthephilippines.co.uk/wp-content/uploads/PDOTL_Siargao_Web.pdf",
+      "outcome": "illustration",
+      "reviewReason": "Returned photos depict the pier in California."
+    },
+    {
+      "placeId": "siargao-del-carmen-mangrove-viewdeck",
+      "name": "Del Carmen Mangrove Viewdeck",
+      "municipality": "Del Carmen",
+      "destination": "Siargao",
+      "category": "Nature",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Del+Carmen+Mangrove+Viewdeck+Del+Carmen&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-001-decisions.json",
+      "listingSource": "https://denr.gov.ph/wp-content/uploads/2023/07/DENR_News_Alerts_09_July_2023_Sunday_opt.pdf",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "siargao-poneas-lake",
+      "name": "Poneas Lake",
+      "municipality": "San Benito",
+      "destination": "Siargao",
+      "category": "Nature",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Poneas+Lake+San+Benito&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-001-decisions.json",
+      "listingSource": "https://denr.gov.ph/wp-content/uploads/2023/07/DENR_News_Alerts_09_July_2023_Sunday_opt.pdf",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "siargao-paghungawan-marsh",
+      "name": "Paghungawan Marsh",
+      "municipality": "Pilar",
+      "destination": "Siargao",
+      "category": "Nature",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Paghungawan+Marsh+Pilar&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-001-decisions.json",
+      "listingSource": "https://journals.carsu.edu.ph/JESEG/article/download/131/118/450",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "el-nido-nagkalit-kalit-falls",
+      "name": "Nagkalit-kalit Falls",
+      "municipality": "El Nido",
+      "destination": "Palawan",
+      "category": "Nature",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Nagkalit-kalit+Falls+El+Nido&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-006-decisions.json",
+      "listingSource": "https://pkp-new.pcsd.gov.ph/wp-content/uploads/2021/02/El-Nido-Planred.pdf",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "puerto-princesa-iwahig-firefly-watching",
+      "name": "Iwahig River — community firefly site",
+      "municipality": "Puerto Princesa City",
+      "destination": "Palawan",
+      "category": "Nature",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Iwahig+River+Puerto+Princesa&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        }
+      ],
+      "candidates": [
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Iwahig_River,_Puerto_Princesa.jpg",
+          "title": "File:Iwahig River, Puerto Princesa.jpg",
+          "listedLicense": "CC BY-SA 4.0"
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Iwahig_River,_Puerto_Princesa_City.jpg",
+          "title": "File:Iwahig River, Puerto Princesa City.jpg",
+          "listedLicense": "CC BY-SA 4.0"
+        }
+      ],
+      "priorDecision": "cover-006-decisions.json",
+      "listingSource": "https://citytourism.puertoprincesa.ph/cbst-destinations/",
+      "followUp": [
+        {
+          "url": "https://commons.wikimedia.org/wiki/File:Iwahig_River,_Puerto_Princesa_City.jpg",
+          "finding": "CC BY-SA 4.0 and correct watershed. The rapids are documented near the penal colony; the exact firefly-watching reach at the ferry area is unverified."
+        }
+      ],
+      "outcome": "illustration",
+      "reviewReason": "Neither image established the particular reach used by the firefly tours."
+    },
+    {
+      "placeId": "puerto-princesa-buenavista-viewdeck",
+      "name": "Buenavista Viewdeck",
+      "municipality": "Puerto Princesa City",
+      "destination": "Palawan",
+      "category": "Nature",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Buenavista+Viewdeck+Puerto+Princesa&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-006-decisions.json",
+      "listingSource": "https://citytourism.puertoprincesa.ph/cbst-destinations/",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "puerto-princesa-balayong-peoples-park",
+      "name": "Balayong People’s Park",
+      "municipality": "Puerto Princesa City",
+      "destination": "Palawan",
+      "category": "Parks & markets",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Balayong+People%27s+Park+Puerto+Princesa&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-006-decisions.json",
+      "listingSource": "https://puertoprincesa.ph/balayong-park/",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "siargao-somyot-cave",
+      "name": "Somyot Cave",
+      "municipality": "Burgos",
+      "destination": "Siargao",
+      "category": "Nature",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Somyot+Cave+Burgos&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-001-decisions.json",
+      "listingSource": "https://rsis.ramsar.org/RISapp/files/57292175/documents/PH2553_mgt230606.pdf",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "siargao-osmena-wetland",
+      "name": "Osmeña Wetland",
+      "municipality": "Dapa",
+      "destination": "Siargao",
+      "category": "Nature",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Osme%C3%B1a+Wetland+Dapa&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-001-decisions.json",
+      "listingSource": "https://businessmirror.com.ph/2023/07/08/saving-siargao-island-paradise-battling-environmental-woes/",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "bohol-shaka-panglao",
+      "name": "Shaka Cafes — Panglao",
+      "municipality": "Panglao",
+      "destination": "Bohol",
+      "category": "Food & drink",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Shaka+Cafes+Panglao&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        },
+        {
+          "url": "https://api.openverse.org/v1/images/?q=Shaka+Cafes+Panglao&license=by%2Cby-sa%2Ccc0%2Cpdm&page_size=4",
+          "status": "TimeoutError"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-004-decisions.json",
+      "listingSource": "https://www.linkedin.com/company/shaka-cafes",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "boracay-balabag-wetland-park",
+      "name": "Balabag Wetland Park",
+      "municipality": "Malay",
+      "destination": "Boracay",
+      "category": "Parks & markets",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Balabag+Wetland+Park+Malay&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-002-decisions.json",
+      "listingSource": "https://sustainability.aboitiz.com/wp-content/uploads/2023/11/2020-Annual-and-Sustainability-Report-1.pdf",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "boracay-giuseppe-station-three",
+      "name": "Giuseppe Pizzeria & Sicilian Roast — Boracay",
+      "municipality": "Malay",
+      "destination": "Boracay",
+      "category": "Food & drink",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Giuseppe+Pizzeria+%26+Sicilian+Roast+Malay&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        },
+        {
+          "url": "https://api.openverse.org/v1/images/?q=Giuseppe+Pizzeria+%26+Sicilian+Roast+Malay&license=by%2Cby-sa%2Ccc0%2Cpdm&page_size=4",
+          "status": "HTTP 500"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-002-decisions.json",
+      "listingSource": "https://giuseppe.ph/boracay/index.html",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "boracay-little-taj",
+      "name": "Little Taj",
+      "municipality": "Malay",
+      "destination": "Boracay",
+      "category": "Food & drink",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Little+Taj+Malay&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        },
+        {
+          "url": "https://api.openverse.org/v1/images/?q=Little+Taj+Malay&license=by%2Cby-sa%2Ccc0%2Cpdm&page_size=4",
+          "status": "searched"
+        }
+      ],
+      "candidates": [],
+      "instagramReferenceOnly": [
+        "https://www.instagram.com/p/Cit_EdLuzL9/"
+      ],
+      "priorDecision": "cover-002-decisions.json",
+      "listingSource": "https://www.littletaj.com/visit",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "boracay-station-x",
+      "name": "Station X",
+      "municipality": "Malay",
+      "destination": "Boracay",
+      "category": "Parks & markets",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Station+X+Malay&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-002-decisions.json",
+      "listingSource": "https://www.stationx.ph/tenants",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    }
+  ],
+  "totals": {
+    "places": 22,
+    "reachedIndex": 22,
+    "withImageLeads": 2,
+    "approvedPhotos": 0
+  }
+}

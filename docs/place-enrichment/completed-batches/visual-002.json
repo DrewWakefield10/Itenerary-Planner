@@ -1,0 +1,32 @@
+{
+  "batchId": "visual-002",
+  "mode": "visual-photos",
+  "checkedOn": "2026-11-24",
+  "outcomes": [
+    {
+      "placeId": "cebu-ricos-mandaue",
+      "checkedOn": "2026-11-24",
+      "sourcesSearched": [],
+      "rejections": [],
+      "notes": [
+        "The photographer’s individual caption locates this dining room in Mandaue. The first file in the same series visibly says Rico’s Mandaue. The venue website confirms the Mandaue branch at Jamestown. Selected the view of the tables and chairs, without the prominent guests or promotional wall in the other frames."
+      ],
+      "status": "added",
+      "photo": {
+        "placeId": "cebu-ricos-mandaue",
+        "src": "/images/places/cebu-ricos-mandaue.jpg",
+        "srcSmall": "/images/places/cebu-ricos-mandaue-640.jpg",
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Rico%27s_Lechon_interior_(2023-05-28)_(04).jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Rico%27s_Lechon_interior_%282023-05-28%29_%2804%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "PaulGorduiz106",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "PaulGorduiz106 / Wikimedia Commons / CC BY-SA 4.0. Resized and JPEG compressed.",
+        "alt": "Set tables and colorful chairs in the Rico’s Lechon dining room in Mandaue",
+        "width": 1200,
+        "height": 914,
+        "checkedOn": "2026-11-24"
+      }
+    }
+  ]
+}

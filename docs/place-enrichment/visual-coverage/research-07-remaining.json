@@ -1,0 +1,545 @@
+{
+  "id": "07-remaining",
+  "checkedOn": "2026-11-25",
+  "records": [
+    {
+      "placeId": "cebu-north-cafe-citymall",
+      "name": "North Café & Co — CityMall Bacalso",
+      "municipality": "Cebu City",
+      "destination": "Cebu",
+      "category": "Food & drink",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=North+Caf%C3%A9+%26+Co+Cebu&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        },
+        {
+          "url": "https://api.openverse.org/v1/images/?q=North+Caf%C3%A9+%26+Co+Cebu&license=by%2Cby-sa%2Ccc0%2Cpdm&page_size=4",
+          "status": "searched"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-008-decisions.json",
+      "listingSource": "https://www.northcafeandco.ph/",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "cebu-teamo-hotel-one",
+      "name": "Te’Amo Café — Hotel One",
+      "municipality": "Cebu City",
+      "destination": "Cebu",
+      "category": "Food & drink",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Te%27Amo+Caf%C3%A9+Cebu&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        },
+        {
+          "url": "https://api.openverse.org/v1/images/?q=Te%27Amo+Caf%C3%A9+Cebu&license=by%2Cby-sa%2Ccc0%2Cpdm&page_size=4",
+          "status": "TimeoutError"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-008-decisions.json",
+      "listingSource": "https://www.teamocafecebu.com/",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "el-nido-lick-roastery",
+      "name": "Lost Islands Center for Kape — Lio HQ",
+      "municipality": "El Nido",
+      "destination": "Palawan",
+      "category": "Food & drink",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Lost+Islands+Center+for+Kape+El+Nido&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        },
+        {
+          "url": "https://api.openverse.org/v1/images/?q=Lost+Islands+Center+for+Kape+El+Nido&license=by%2Cby-sa%2Ccc0%2Cpdm&page_size=4",
+          "status": "TimeoutError"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-006-decisions.json",
+      "listingSource": "https://lick.ph/pages/locations",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "el-nido-la-moro-hill",
+      "name": "La Moro Hill Bakery — Lio",
+      "municipality": "El Nido",
+      "destination": "Palawan",
+      "category": "Food & drink",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=La+Moro+Hill+Bakery+El+Nido&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        },
+        {
+          "url": "https://api.openverse.org/v1/images/?q=La+Moro+Hill+Bakery+El+Nido&license=by%2Cby-sa%2Ccc0%2Cpdm&page_size=4",
+          "status": "TimeoutError"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-006-decisions.json",
+      "listingSource": "https://lick.ph/pages/locations",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "el-nido-huk-co",
+      "name": "HUK & Co. — C Hotel",
+      "municipality": "El Nido",
+      "destination": "Palawan",
+      "category": "Food & drink",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=HUK+%26+Co.+El+Nido&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        },
+        {
+          "url": "https://api.openverse.org/v1/images/?q=HUK+%26+Co.+El+Nido&license=by%2Cby-sa%2Ccc0%2Cpdm&page_size=4",
+          "status": "TimeoutError"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-006-decisions.json",
+      "listingSource": "https://huk.ph/",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "el-nido-ver-de",
+      "name": "Ver De — H Hotel",
+      "municipality": "El Nido",
+      "destination": "Palawan",
+      "category": "Food & drink",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Ver+De+El+Nido&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        },
+        {
+          "url": "https://api.openverse.org/v1/images/?q=Ver+De+El+Nido&license=by%2Cby-sa%2Ccc0%2Cpdm&page_size=4",
+          "status": "TimeoutError"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-007-decisions.json",
+      "listingSource": "https://hhotelelnido.com/dining",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "el-nido-piece-of-sky",
+      "name": "Piece of Sky",
+      "municipality": "El Nido",
+      "destination": "Palawan",
+      "category": "Food & drink",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Piece+of+Sky+El+Nido&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        },
+        {
+          "url": "https://api.openverse.org/v1/images/?q=Piece+of+Sky+El+Nido&license=by%2Cby-sa%2Ccc0%2Cpdm&page_size=4",
+          "status": "TimeoutError"
+        }
+      ],
+      "candidates": [
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:White_stork_(Ciconia_ciconia)_in_flight_with_transmitter.jpg",
+          "title": "File:White stork (Ciconia ciconia) in flight with transmitter.jpg",
+          "listedLicense": "CC BY-SA 4.0"
+        }
+      ],
+      "instagramReferenceOnly": [
+        "https://www.instagram.com/reel/DApjBSuR3Dm/",
+        "https://www.instagram.com/reel/DALBOrxxMcr/"
+      ],
+      "priorDecision": "cover-007-decisions.json",
+      "listingSource": "https://sites.google.com/view/pieceofskyelnido/home",
+      "outcome": "illustration",
+      "reviewReason": "Returned wildlife image is unrelated."
+    },
+    {
+      "placeId": "el-nido-henris",
+      "name": "Henri’s — Lihim Resorts",
+      "municipality": "El Nido",
+      "destination": "Palawan",
+      "category": "Food & drink",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Henri%27s+El+Nido&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        },
+        {
+          "url": "https://api.openverse.org/v1/images/?q=Henri%27s+El+Nido&license=by%2Cby-sa%2Ccc0%2Cpdm&page_size=4",
+          "status": "TimeoutError"
+        }
+      ],
+      "candidates": [
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Psarocolius_wagleri_nests_(Henri_Pittier,_Venezuela).jpg",
+          "title": "File:Psarocolius wagleri nests (Henri Pittier, Venezuela).jpg",
+          "listedLicense": "CC BY-SA 4.0"
+        },
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Psarocolius_wagleri_and_nests_(Henri_Pittier,_Venezuela).jpg",
+          "title": "File:Psarocolius wagleri and nests (Henri Pittier, Venezuela).jpg",
+          "listedLicense": "CC BY-SA 4.0"
+        }
+      ],
+      "priorDecision": "cover-007-decisions.json",
+      "listingSource": "https://lihim.com/dining/henris/",
+      "outcome": "illustration",
+      "reviewReason": "Returned wildlife photography is from Venezuela."
+    },
+    {
+      "placeId": "el-nido-lanai-amakan",
+      "name": "The Lanai at Amakan",
+      "municipality": "El Nido",
+      "destination": "Palawan",
+      "category": "Food & drink",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=The+Lanai+at+Amakan+El+Nido&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        },
+        {
+          "url": "https://api.openverse.org/v1/images/?q=The+Lanai+at+Amakan+El+Nido&license=by%2Cby-sa%2Ccc0%2Cpdm&page_size=4",
+          "status": "TimeoutError"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-007-decisions.json",
+      "listingSource": "https://www.amakan.ph/",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "coron-baya-resto-lounge",
+      "name": "BAYA Resto Lounge",
+      "municipality": "Coron",
+      "destination": "Palawan",
+      "category": "Food & drink",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=BAYA+Resto+Lounge+Coron&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        },
+        {
+          "url": "https://api.openverse.org/v1/images/?q=BAYA+Resto+Lounge+Coron&license=by%2Cby-sa%2Ccc0%2Cpdm&page_size=4",
+          "status": "searched"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-007-decisions.json",
+      "listingSource": "https://twoseasonsresorts.com/corontown/dining/",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "coron-hunt-funny-lion",
+      "name": "Hunt Restaurant — The Funny Lion Coron",
+      "municipality": "Coron",
+      "destination": "Palawan",
+      "category": "Food & drink",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Hunt+Restaurant+Coron&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        },
+        {
+          "url": "https://api.openverse.org/v1/images/?q=Hunt+Restaurant+Coron&license=by%2Cby-sa%2Ccc0%2Cpdm&page_size=4",
+          "status": "TimeoutError"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-007-decisions.json",
+      "listingSource": "https://www.thefunnylion.com/the-funny-lion-coron-compendium",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "el-nido-sunmai-nacpan",
+      "name": "Sunmai Beach Bar and Restaurant",
+      "municipality": "El Nido",
+      "destination": "Palawan",
+      "category": "Food & drink",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Sunmai+Beach+Bar+and+Restaurant+El+Nido&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        },
+        {
+          "url": "https://api.openverse.org/v1/images/?q=Sunmai+Beach+Bar+and+Restaurant+El+Nido&license=by%2Cby-sa%2Ccc0%2Cpdm&page_size=4",
+          "status": "TimeoutError"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-007-decisions.json",
+      "listingSource": "https://hhospitality.group/dining-lio",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "el-nido-calima-piece-lio",
+      "name": "CALIMA Restaurant — Piece Lio",
+      "municipality": "El Nido",
+      "destination": "Palawan",
+      "category": "Food & drink",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=CALIMA+Restaurant+El+Nido&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        },
+        {
+          "url": "https://api.openverse.org/v1/images/?q=CALIMA+Restaurant+El+Nido&license=by%2Cby-sa%2Ccc0%2Cpdm&page_size=4",
+          "status": "searched"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-007-decisions.json",
+      "listingSource": "https://hhospitality.group/dining-lio",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "el-nido-ocean-view-chinese",
+      "name": "Ocean View Chinese Restaurant — S Resort",
+      "municipality": "El Nido",
+      "destination": "Palawan",
+      "category": "Food & drink",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Ocean+View+Chinese+Restaurant+El+Nido&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        },
+        {
+          "url": "https://api.openverse.org/v1/images/?q=Ocean+View+Chinese+Restaurant+El+Nido&license=by%2Cby-sa%2Ccc0%2Cpdm&page_size=4",
+          "status": "TimeoutError"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-007-decisions.json",
+      "listingSource": "https://hhospitality.group/dining-lio",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "puerto-princesa-divines-robinsons",
+      "name": "Divine’s Sweets Bakery & Cafe — Robinsons",
+      "municipality": "Puerto Princesa City",
+      "destination": "Palawan",
+      "category": "Food & drink",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Divine%27s+Sweets+Bakery+%26+Cafe+Puerto+Princesa&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        },
+        {
+          "url": "https://api.openverse.org/v1/images/?q=Divine%27s+Sweets+Bakery+%26+Cafe+Puerto+Princesa&license=by%2Cby-sa%2Ccc0%2Cpdm&page_size=4",
+          "status": "TimeoutError"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-007-decisions.json",
+      "listingSource": "https://www.puertoprincesatourism.com/restaurants",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "puerto-princesa-jeju-island-cafe",
+      "name": "Jeju Island Cafe",
+      "municipality": "Puerto Princesa City",
+      "destination": "Palawan",
+      "category": "Food & drink",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Jeju+Island+Cafe+Puerto+Princesa&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        },
+        {
+          "url": "https://api.openverse.org/v1/images/?q=Jeju+Island+Cafe+Puerto+Princesa&license=by%2Cby-sa%2Ccc0%2Cpdm&page_size=4",
+          "status": "TimeoutError"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-007-decisions.json",
+      "listingSource": "https://www.puertoprincesatourism.com/restaurants",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "puerto-princesa-kofilab",
+      "name": "Kofilab Cafe",
+      "municipality": "Puerto Princesa City",
+      "destination": "Palawan",
+      "category": "Food & drink",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Kofilab+Cafe+Puerto+Princesa&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        },
+        {
+          "url": "https://api.openverse.org/v1/images/?q=Kofilab+Cafe+Puerto+Princesa&license=by%2Cby-sa%2Ccc0%2Cpdm&page_size=4",
+          "status": "TimeoutError"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-007-decisions.json",
+      "listingSource": "https://www.puertoprincesatourism.com/restaurants",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "cebu-good-cup-ramos",
+      "name": "Good Cup Café — F. Ramos",
+      "municipality": "Cebu City",
+      "destination": "Cebu",
+      "category": "Food & drink",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Good+Cup+Caf%C3%A9+Cebu&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        },
+        {
+          "url": "https://api.openverse.org/v1/images/?q=Good+Cup+Caf%C3%A9+Cebu&license=by%2Cby-sa%2Ccc0%2Cpdm&page_size=4",
+          "status": "TimeoutError"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-009-decisions.json",
+      "listingSource": "https://goodcup.ph/pages/cafe",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "cebu-house-of-lechon-acacia",
+      "name": "House of Lechon — Acacia",
+      "municipality": "Cebu City",
+      "destination": "Cebu",
+      "category": "Food & drink",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=House+of+Lechon+Cebu&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        },
+        {
+          "url": "https://api.openverse.org/v1/images/?q=House+of+Lechon+Cebu&license=by%2Cby-sa%2Ccc0%2Cpdm&page_size=4",
+          "status": "TimeoutError"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-009-decisions.json",
+      "listingSource": "https://guide.michelin.com/us/en/central-visayas/cebu-city_2340421/restaurant/house-of-lechon",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "cebu-parilya-il-corso",
+      "name": "Parilya — Il Corso",
+      "municipality": "Cebu City",
+      "destination": "Cebu",
+      "category": "Food & drink",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Parilya+Cebu&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        },
+        {
+          "url": "https://api.openverse.org/v1/images/?q=Parilya+Cebu&license=by%2Cby-sa%2Ccc0%2Cpdm&page_size=4",
+          "status": "TimeoutError"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-009-decisions.json",
+      "listingSource": "https://lagunagroup.ph/parilya/",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    },
+    {
+      "placeId": "cebu-lemon-grass-ayala",
+      "name": "Lemon Grass — Ayala Center Cebu",
+      "municipality": "Cebu City",
+      "destination": "Cebu",
+      "category": "Food & drink",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Lemon+Grass+Cebu&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        },
+        {
+          "url": "https://api.openverse.org/v1/images/?q=Lemon+Grass+Cebu&license=by%2Cby-sa%2Ccc0%2Cpdm&page_size=4",
+          "status": "TimeoutError"
+        }
+      ],
+      "candidates": [
+        {
+          "sourcePage": "https://commons.wikimedia.org/wiki/File:Lemon_Grass_at_SM_Seaside_City_(2024-08-11).jpg",
+          "title": "File:Lemon Grass at SM Seaside City (2024-08-11).jpg",
+          "listedLicense": "CC BY 4.0"
+        }
+      ],
+      "priorDecision": "cover-009-decisions.json",
+      "listingSource": "https://lagunagroup.ph/lemon-grass/",
+      "outcome": "illustration",
+      "reviewReason": "The licensed Commons file shows SM Seaside, a different branch from Ayala Center."
+    },
+    {
+      "placeId": "cebu-ullis-ayala",
+      "name": "Ulli’s Streets of Asia — Ayala",
+      "municipality": "Cebu City",
+      "destination": "Cebu",
+      "category": "Food & drink",
+      "checkedOn": "2026-11-25",
+      "sources": [
+        {
+          "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&generator=search&gsrnamespace=6&gsrlimit=4&gsrsearch=Ulli%27s+Streets+of+Asia+Cebu&prop=imageinfo&iiprop=url%7Cextmetadata&iiextmetadatafilter=LicenseShortName%7CImageDescription",
+          "status": "searched"
+        },
+        {
+          "url": "https://api.openverse.org/v1/images/?q=Ulli%27s+Streets+of+Asia+Cebu&license=by%2Cby-sa%2Ccc0%2Cpdm&page_size=4",
+          "status": "TimeoutError"
+        }
+      ],
+      "candidates": [],
+      "priorDecision": "cover-009-decisions.json",
+      "listingSource": "https://lagunagroup.ph/ullis-streets-of-asia/",
+      "outcome": "illustration",
+      "reviewReason": "The reviewed sources did not yield an exact-place photograph or authorized supplemental image."
+    }
+  ],
+  "totals": {
+    "places": 22,
+    "reachedIndex": 22,
+    "withImageLeads": 3,
+    "approvedPhotos": 0
+  }
+}

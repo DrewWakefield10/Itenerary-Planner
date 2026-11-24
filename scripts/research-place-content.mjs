@@ -38,8 +38,8 @@ export async function optimizeApprovedPhoto(placeId,data,metadata){
   await mkdir("public/images/places",{recursive:true});
   const info=await sharp(data).rotate().resize({width:1200,withoutEnlargement:true}).jpeg({quality:82,mozjpeg:true}).toFile("public"+src);
   await sharp(data).rotate().resize({width:640,withoutEnlargement:true}).jpeg({quality:80,mozjpeg:true}).toFile("public"+srcSmall);
-  const {sourcePage,originalUrl,creator,license,licenseUrl,attribution,alt,objectPosition}=metadata;
-  return {placeId,src,srcSmall,sourcePage,originalUrl,creator,license,licenseUrl,attribution,alt,...(objectPosition?{objectPosition}:{}),width:info.width,height:info.height,checkedOn:new Date().toISOString().slice(0,10)};
+  const {sourcePage,originalUrl,creator,creatorUrl,license,licenseUrl,attribution,alt,objectPosition}=metadata;
+  return {placeId,src,srcSmall,sourcePage,originalUrl,creator,...(creatorUrl?{creatorUrl}:{}),license,licenseUrl,attribution,alt,...(objectPosition?{objectPosition}:{}),width:info.width,height:info.height,checkedOn:new Date().toISOString().slice(0,10)};
 }
 export async function videoCandidate(placeId,videoId){
   const url=`https://www.youtube.com/watch?v=${videoId}`;

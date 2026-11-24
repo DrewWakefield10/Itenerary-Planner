@@ -1,0 +1,2218 @@
+{
+  "startedOn": "2026-11-25",
+  "startingGaps": 210,
+  "startingPhotos": 216,
+  "records": [
+    {
+      "placeId": "el-nido-secret-lagoon",
+      "destination": "Palawan",
+      "name": "Secret Lagoon",
+      "municipality": "El Nido",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-01-attractions.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "el-nido-cudugnon-cave",
+      "destination": "Palawan",
+      "name": "Cudugnon Cave",
+      "municipality": "El Nido",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-01-attractions.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "puerto-princesa-mendoza-park",
+      "destination": "Palawan",
+      "name": "Mendoza Park",
+      "municipality": "Puerto Princesa City",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-01-attractions.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "puerto-princesa-princess-eulalia-park",
+      "destination": "Palawan",
+      "name": "Princess Eulalia Park",
+      "municipality": "Puerto Princesa City",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-03-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "puerto-princesa-world-war-ii-memorial-museum",
+      "destination": "Palawan",
+      "name": "World War II Memorial Museum",
+      "municipality": "Puerto Princesa City",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-03-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "puerto-princesa-butterfly-ecological-garden",
+      "destination": "Palawan",
+      "name": "Palawan Butterfly Ecological Garden",
+      "municipality": "Puerto Princesa City",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-03-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "coron-saint-augustine-parish",
+      "destination": "Palawan",
+      "name": "Saint Augustine Parish Church",
+      "municipality": "Coron",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-03-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "siargao-catangnan-bridge",
+      "destination": "Siargao",
+      "name": "Catangnan–Cabitoonan Bridge",
+      "municipality": "General Luna",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-01-attractions.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "siargao-tayangban-cave-pool",
+      "destination": "Siargao",
+      "name": "Tayangban Cave Pool",
+      "municipality": "Pilar",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-01-attractions.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "siargao-maasin-river",
+      "destination": "Siargao",
+      "name": "Maasin River",
+      "municipality": "Pilar",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-01-attractions.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "siargao-pacifico-beach",
+      "destination": "Siargao",
+      "name": "Pacifico Beach",
+      "municipality": "San Isidro",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-03-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "siargao-alegria-beach",
+      "destination": "Siargao",
+      "name": "Alegria Beach",
+      "municipality": "Santa Monica",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-03-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "siargao-taktak-falls",
+      "destination": "Siargao",
+      "name": "Taktak Falls",
+      "municipality": "Santa Monica",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-03-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "siargao-santa-monica-pier",
+      "destination": "Siargao",
+      "name": "Santa Monica Pier",
+      "municipality": "Santa Monica",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-03-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "siargao-del-carmen-mangrove-viewdeck",
+      "destination": "Siargao",
+      "name": "Del Carmen Mangrove Viewdeck",
+      "municipality": "Del Carmen",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-03-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "siargao-poneas-lake",
+      "destination": "Siargao",
+      "name": "Poneas Lake",
+      "municipality": "San Benito",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-03-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "siargao-sohoton-cove",
+      "destination": "Siargao",
+      "name": "Sohoton Cove",
+      "municipality": "Socorro",
+      "batch": "visual-001",
+      "status": "added",
+      "checkedOn": "2026-11-24",
+      "sourcesSearched": [],
+      "rejections": [],
+      "notes": [
+        "The tour operator identifies Sohoton Cove in the original file. The same photo series locates it on Bucas Grande; the Tourism Promotions Board identifies the cove and its interconnected waters. The image shows open water in the cove."
+      ],
+      "photo": {
+        "placeId": "siargao-sohoton-cove",
+        "src": "/images/places/siargao-sohoton-cove.jpg",
+        "srcSmall": "/images/places/siargao-sohoton-cove-640.jpg",
+        "sourcePage": "https://www.flickr.com/photos/93788068@N02/51959825160/",
+        "originalUrl": "https://live.staticflickr.com/65535/51959825160_b10cabe137_o.jpg",
+        "creator": "WayPH.com",
+        "creatorUrl": "https://wayph.com/",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "attribution": "WayPH.com / Flickr / CC BY 2.0. Resized and JPEG compressed.",
+        "alt": "An outrigger boat on the blue water of Sohoton Cove, framed by foliage on Bucas Grande",
+        "width": 1200,
+        "height": 795,
+        "checkedOn": "2026-11-24"
+      },
+      "researchBatch": "00-download-retries.json",
+      "realPhoto": true,
+      "cover": "photo"
+    },
+    {
+      "placeId": "siargao-paghungawan-marsh",
+      "destination": "Siargao",
+      "name": "Paghungawan Marsh",
+      "municipality": "Pilar",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-03-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "davao-bone-collector-museum",
+      "destination": "Davao",
+      "name": "D’ Bone Collector Museum",
+      "municipality": "Davao City",
+      "batch": "visual-001",
+      "status": "added",
+      "checkedOn": "2026-11-24",
+      "sourcesSearched": [],
+      "rejections": [],
+      "notes": [
+        "The photographer names the museum and Davao City on the individual file. The visual shows the indoor skeleton displays. Treat this as a historical exhibit view; the current display may have changed."
+      ],
+      "photo": {
+        "placeId": "davao-bone-collector-museum",
+        "src": "/images/places/davao-bone-collector-museum.jpg",
+        "srcSmall": "/images/places/davao-bone-collector-museum-640.jpg",
+        "sourcePage": "https://www.flickr.com/photos/90412460@N00/16135543292/",
+        "originalUrl": "https://live.staticflickr.com/7481/16135543292_901efc64d9_o.jpg",
+        "creator": "Bro. Jeffrey  Pioquinto, SJ",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "attribution": "Bro. Jeffrey  Pioquinto, SJ / Flickr / CC BY 2.0. Resized and JPEG compressed.",
+        "alt": "Skeleton exhibits inside D’ Bone Collector Museum in Davao City",
+        "width": 1200,
+        "height": 800,
+        "checkedOn": "2026-11-24"
+      },
+      "researchBatch": "00-download-retries.json",
+      "realPhoto": true,
+      "cover": "photo"
+    },
+    {
+      "placeId": "davao-rizal-park",
+      "destination": "Davao",
+      "name": "Rizal Park",
+      "municipality": "Davao City",
+      "batch": "visual-001",
+      "status": "added",
+      "checkedOn": "2026-11-24",
+      "sourcesSearched": [],
+      "rejections": [],
+      "notes": [
+        "The file caption identifies the stage and photographer’s street location. The visible eagle figure corroborates the independently reported eagle stage at Rizal Park near San Pedro Square."
+      ],
+      "photo": {
+        "placeId": "davao-rizal-park",
+        "src": "/images/places/davao-rizal-park.jpg",
+        "srcSmall": "/images/places/davao-rizal-park-640.jpg",
+        "sourcePage": "https://www.flickr.com/photos/shankaronline/9103454951/",
+        "originalUrl": "https://live.staticflickr.com/7335/9103454951_a14084f3d2_o.jpg",
+        "creator": "shankar s.",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "attribution": "shankar s. / Flickr / CC BY 2.0. Resized and JPEG compressed.",
+        "alt": "The eagle-topped Rizal Park stage on San Pedro Street in Davao City at night",
+        "width": 1200,
+        "height": 900,
+        "checkedOn": "2026-11-24"
+      },
+      "researchBatch": "00-download-retries.json",
+      "realPhoto": true,
+      "cover": "photo"
+    },
+    {
+      "placeId": "davao-imin-museum",
+      "destination": "Davao",
+      "name": "IMIN Philippine–Japan Historical Museum",
+      "municipality": "Davao City",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-01-attractions.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "el-nido-nagkalit-kalit-falls",
+      "destination": "Palawan",
+      "name": "Nagkalit-kalit Falls",
+      "municipality": "El Nido",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-03-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "puerto-princesa-iwahig-firefly-watching",
+      "destination": "Palawan",
+      "name": "Iwahig River — community firefly site",
+      "municipality": "Puerto Princesa City",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-03-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "puerto-princesa-buenavista-viewdeck",
+      "destination": "Palawan",
+      "name": "Buenavista Viewdeck",
+      "municipality": "Puerto Princesa City",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-03-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "puerto-princesa-bakers-hill",
+      "destination": "Palawan",
+      "name": "Baker’s Hill",
+      "municipality": "Puerto Princesa City",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-02-businesses.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "puerto-princesa-balayong-peoples-park",
+      "destination": "Palawan",
+      "name": "Balayong People’s Park",
+      "municipality": "Puerto Princesa City",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-03-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "siargao-somyot-cave",
+      "destination": "Siargao",
+      "name": "Somyot Cave",
+      "municipality": "Burgos",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-03-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "siargao-osmena-wetland",
+      "destination": "Siargao",
+      "name": "Osmeña Wetland",
+      "municipality": "Dapa",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-03-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "bohol-danao-beach-afternoon",
+      "destination": "Bohol",
+      "name": "Danao Beach",
+      "municipality": "Panglao",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-01-attractions.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "bohol-libaong-beach",
+      "destination": "Bohol",
+      "name": "Libaong Beach",
+      "municipality": "Panglao",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-01-attractions.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "bohol-common-crew",
+      "destination": "Bohol",
+      "name": "Common Crew Coffee Roasters & Brewers",
+      "municipality": "Panglao",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-02-businesses.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "bohol-shaka-panglao",
+      "destination": "Bohol",
+      "name": "Shaka Cafes — Panglao",
+      "municipality": "Panglao",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-03-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "bohol-loboc-eco-adventure-park",
+      "destination": "Bohol",
+      "name": "Loboc Eco-Tourism Adventure Park",
+      "municipality": "Loboc",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-01-attractions.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "boracay-tambisaan-beach",
+      "destination": "Boracay",
+      "name": "Tambisaan Beach",
+      "municipality": "Malay",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-01-attractions.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "boracay-tulubhan-beach",
+      "destination": "Boracay",
+      "name": "Tulubhan Beach",
+      "municipality": "Malay",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-01-attractions.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "boracay-newcoast-keyhole",
+      "destination": "Boracay",
+      "name": "Boracay Newcoast Keyhole",
+      "municipality": "Malay",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-01-attractions.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "boracay-balabag-wetland-park",
+      "destination": "Boracay",
+      "name": "Balabag Wetland Park",
+      "municipality": "Malay",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-03-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "boracay-dtalipapa-market",
+      "destination": "Boracay",
+      "name": "D’Talipapa market",
+      "municipality": "Malay",
+      "batch": "visual-001",
+      "status": "added",
+      "checkedOn": "2026-11-24",
+      "sourcesSearched": [],
+      "rejections": [],
+      "notes": [
+        "The photographer identifies Talipapa market on Boracay Island. The image shows vendors and seafood displayed in the market. A current directory identifies D’Talipapa’s Station 2 seafood market. The historical image does not establish the current appearance of stands."
+      ],
+      "photo": {
+        "placeId": "boracay-dtalipapa-market",
+        "src": "/images/places/boracay-dtalipapa-market.jpg",
+        "srcSmall": "/images/places/boracay-dtalipapa-market-640.jpg",
+        "sourcePage": "https://www.flickr.com/photos/bigberto/3572235470/",
+        "originalUrl": "https://live.staticflickr.com/2452/3572235470_2b83c59b33_o.jpg",
+        "creator": "Shubert Ciencia",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "attribution": "Shubert Ciencia / Flickr / CC BY 2.0. Resized and JPEG compressed.",
+        "alt": "A dated view of a seafood stall at D’Talipapa market on Boracay Island",
+        "width": 1200,
+        "height": 900,
+        "checkedOn": "2026-11-24"
+      },
+      "researchBatch": "00-download-retries.json",
+      "realPhoto": true,
+      "cover": "photo"
+    },
+    {
+      "placeId": "boracay-nonies-ondus",
+      "destination": "Boracay",
+      "name": "Nonie’s — Ondus Hotel",
+      "municipality": "Malay",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-02-businesses.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "boracay-giuseppe-station-three",
+      "destination": "Boracay",
+      "name": "Giuseppe Pizzeria & Sicilian Roast — Boracay",
+      "municipality": "Malay",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-03-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "boracay-little-taj",
+      "destination": "Boracay",
+      "name": "Little Taj",
+      "municipality": "Malay",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-03-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "boracay-station-x",
+      "destination": "Boracay",
+      "name": "Station X",
+      "municipality": "Malay",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-03-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "iloilo-baking-studio-theos",
+      "destination": "Iloilo",
+      "name": "Baking Studio by Theo’s — North Grove",
+      "municipality": "Iloilo City",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-02-businesses.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "cebu-omagieca-obo-ob-mangrove-garden",
+      "destination": "Cebu",
+      "name": "Omagieca Obo-ob Mangrove Garden",
+      "municipality": "Bantayan",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-01-attractions.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "baguio-easter-weaving-room",
+      "destination": "Baguio",
+      "name": "Easter Weaving Room",
+      "municipality": "Baguio City",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-01-attractions.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "baguio-ili-likha",
+      "destination": "Baguio",
+      "name": "Ili-Likha Artists' Wateringhole",
+      "municipality": "Baguio City",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-01-attractions.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "baguio-aguinaldo-museum",
+      "destination": "Baguio",
+      "name": "Emilio F. Aguinaldo Museum",
+      "municipality": "Baguio City",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-01-attractions.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "baguio-maryknoll-sanctuary",
+      "destination": "Baguio",
+      "name": "Maryknoll Ecological Sanctuary",
+      "municipality": "Baguio City",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-04-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "sagada-balangagan-cave",
+      "destination": "Sagada",
+      "name": "Balangagan Cave",
+      "municipality": "Sagada",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-01-attractions.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "batanes-basco-plaza",
+      "destination": "Batanes",
+      "name": "Basco Plaza",
+      "municipality": "Basco",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-01-attractions.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "el-nido-artcafe",
+      "destination": "Palawan",
+      "name": "El Nido Boutique & Artcafe",
+      "municipality": "El Nido",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-04-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "el-nido-trattoria-altrove",
+      "destination": "Palawan",
+      "name": "Trattoria Altrove — El Nido",
+      "municipality": "El Nido",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-04-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "coron-trattoria-altrove",
+      "destination": "Palawan",
+      "name": "Trattoria Altrove — Coron",
+      "municipality": "Coron",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-04-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "cebu-pig-and-palm",
+      "destination": "Cebu",
+      "name": "The Pig & Palm",
+      "municipality": "Cebu City",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-02-businesses.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "cebu-turning-wheels-brewery",
+      "destination": "Cebu",
+      "name": "Turning Wheels Brewery",
+      "municipality": "Cebu City",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-04-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "cebu-abaca-baking-crossroads",
+      "destination": "Cebu",
+      "name": "Abaca Baking Company - Crossroads",
+      "municipality": "Cebu City",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-04-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "bohol-green-thumb-farm",
+      "destination": "Bohol",
+      "name": "Green Thumb Farm",
+      "municipality": "Corella",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-04-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "bohol-quinale-beach",
+      "destination": "Bohol",
+      "name": "Quinale Beach",
+      "municipality": "Anda",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-04-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "bohol-cabagnow-cave-pool",
+      "destination": "Bohol",
+      "name": "Cabagnow Cave Pool",
+      "municipality": "Anda",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-04-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "bohol-edith-grand-garden",
+      "destination": "Bohol",
+      "name": "Edith Grand Garden Wellness Resort & Adventure Park",
+      "municipality": "Baclayon",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-04-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "bohol-saffron-restaurant",
+      "destination": "Bohol",
+      "name": "Saffron Restaurant - Amorita Resort",
+      "municipality": "Panglao",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-04-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "bohol-latavola-restaurant",
+      "destination": "Bohol",
+      "name": "Latavola Italian Restaurant",
+      "municipality": "Panglao",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-04-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "bohol-prawn-farm-bolod",
+      "destination": "Bohol",
+      "name": "The Prawn Farm Grill and Seafoods - Bolod",
+      "municipality": "Panglao",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-04-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "manila-eng-bee-tin-ongpin",
+      "destination": "Manila",
+      "name": "Eng Bee Tin - Ongpin Flagship",
+      "municipality": "Manila",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-04-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "baguio-pink-sisters",
+      "destination": "Baguio",
+      "name": "Pink Sisters' Convent and Chapel",
+      "municipality": "Baguio City",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-04-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "baguio-slu-museum",
+      "destination": "Baguio",
+      "name": "SLU Museum of Igorot Cultures and Arts",
+      "municipality": "Baguio City",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-04-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "baguio-bamboo-sanctuary",
+      "destination": "Baguio",
+      "name": "St. Francis Xavier Bamboo Sanctuary",
+      "municipality": "Baguio City",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-04-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "baguio-pilak-silvercraft",
+      "destination": "Baguio",
+      "name": "PILAK Silvercraft and Gift Shoppe",
+      "municipality": "Baguio City",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-04-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "baguio-nardas-handwoven",
+      "destination": "Baguio",
+      "name": "Narda's Handwoven Arts and Crafts",
+      "municipality": "Baguio City",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-04-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "baguio-original-good-taste",
+      "destination": "Baguio",
+      "name": "The Original Good Taste Restaurant",
+      "municipality": "Baguio City",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-02-businesses.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "baguio-choco-late-batirol",
+      "destination": "Baguio",
+      "name": "Choco-late de Batirol - Camp John Hay",
+      "municipality": "Baguio City",
+      "status": "needs-authorized-photo",
+      "researchBatch": "00-download-retries.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "baguio-hill-station",
+      "destination": "Baguio",
+      "name": "Hill Station Restaurant",
+      "municipality": "Baguio City",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-04-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "baguio-amare-outlook",
+      "destination": "Baguio",
+      "name": "Amare La Cucina - Outlook Drive",
+      "municipality": "Baguio City",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-04-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "baguio-craft-brewery",
+      "destination": "Baguio",
+      "name": "Baguio Craft Brewery",
+      "municipality": "Baguio City",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-04-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "baguio-craft-1945",
+      "destination": "Baguio",
+      "name": "Craft 1945",
+      "municipality": "Baguio City",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-05-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "siargao-kermit-restaurant",
+      "destination": "Siargao",
+      "name": "Kermit Restaurant — Siargao",
+      "municipality": "General Luna",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-02-businesses.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "siargao-trattoria-altrove",
+      "destination": "Siargao",
+      "name": "Trattoria Altrove — Siargao",
+      "municipality": "General Luna",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-05-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "siargao-warung",
+      "destination": "Siargao",
+      "name": "Warung — Siargao Island Villas",
+      "municipality": "General Luna",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-05-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "siargao-brunch-spot",
+      "destination": "Siargao",
+      "name": "Brunch Spot Siargao",
+      "municipality": "General Luna",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-05-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "siargao-bravo-restaurant",
+      "destination": "Siargao",
+      "name": "Bravo Restaurant — Siargao",
+      "municipality": "General Luna",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-05-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "siargao-naga-restaurant",
+      "destination": "Siargao",
+      "name": "NĀGA Siargao",
+      "municipality": "General Luna",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-05-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "siargao-malinao-beach",
+      "destination": "Siargao",
+      "name": "Malinao Beach",
+      "municipality": "General Luna",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-05-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "siargao-paseo-de-cabuntog",
+      "destination": "Siargao",
+      "name": "Paseo de Cabuntog",
+      "municipality": "General Luna",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-05-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "siargao-lokal-hub-general-luna",
+      "destination": "Siargao",
+      "name": "The Hub by Lokal Lab — General Luna",
+      "municipality": "General Luna",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-05-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "siargao-clubhouse-golf",
+      "destination": "Siargao",
+      "name": "The Clubhouse Siargao",
+      "municipality": "General Luna",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-05-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "davao-gap-farm",
+      "destination": "Davao",
+      "name": "GAP Farm Resort",
+      "municipality": "Davao City",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-01-attractions.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "davao-dleonor-inland-resort",
+      "destination": "Davao",
+      "name": "D’Leonor Inland Resort and Adventure Park",
+      "municipality": "Davao City",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-01-attractions.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "davao-poblacion-market-central",
+      "destination": "Davao",
+      "name": "Poblacion Market Central",
+      "municipality": "Davao City",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-05-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "davao-bago-esplanade",
+      "destination": "Davao",
+      "name": "Bago Esplanade",
+      "municipality": "Davao City",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-05-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "davao-gulf-view-esplanade",
+      "destination": "Davao",
+      "name": "Gulf View Esplanade",
+      "municipality": "Davao City",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-05-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "davao-marfori-botanical-garden",
+      "destination": "Davao",
+      "name": "Davao City Botanical Park",
+      "municipality": "Davao City",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-05-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "davao-toril-park",
+      "destination": "Davao",
+      "name": "Toril Park",
+      "municipality": "Davao City",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-05-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "davao-matina-linear-park",
+      "destination": "Davao",
+      "name": "Matina Linear Park",
+      "municipality": "Davao City",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-05-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "davao-candelaria-park",
+      "destination": "Davao",
+      "name": "Candelaria Park",
+      "municipality": "Davao City",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-05-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "davao-communal-pocket-park",
+      "destination": "Davao",
+      "name": "Communal Pocket Park",
+      "municipality": "Davao City",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-05-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "davao-apo-ni-lola-matina",
+      "destination": "Davao",
+      "name": "Apo ni Lola Pasalubong Center — Matina",
+      "municipality": "Davao City",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-02-businesses.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "davao-marina-tuna-sandawa",
+      "destination": "Davao",
+      "name": "Marina Tuna — Sandawa Plaza",
+      "municipality": "Davao City",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-05-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "boracay-muchos",
+      "destination": "Boracay",
+      "name": "Muchos",
+      "municipality": "Malay",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-05-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "boracay-jammers-beach-shack",
+      "destination": "Boracay",
+      "name": "Jammers Beach Shack",
+      "municipality": "Malay",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-05-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "boracay-aria-cucina",
+      "destination": "Boracay",
+      "name": "Aria Cucina Italiana",
+      "municipality": "Malay",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-05-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "boracay-hama",
+      "destination": "Boracay",
+      "name": "Hama Japanese Restaurant",
+      "municipality": "Malay",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-06-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "boracay-cafe-del-sol",
+      "destination": "Boracay",
+      "name": "Cafe del Sol",
+      "municipality": "Malay",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-06-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "boracay-beach-truck",
+      "destination": "Boracay",
+      "name": "Boracay Beach Truck",
+      "municipality": "Malay",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-06-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "boracay-dinibeach-bar",
+      "destination": "Boracay",
+      "name": "Dinibeach Bar & Restaurant",
+      "municipality": "Malay",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-06-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "boracay-citymall",
+      "destination": "Boracay",
+      "name": "CityMall Boracay",
+      "municipality": "Malay",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-06-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "boracay-sirena",
+      "destination": "Boracay",
+      "name": "Sirena Restaurant & Clifftop Bar",
+      "municipality": "Malay",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-06-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "boracay-los-indios-bravos",
+      "destination": "Boracay",
+      "name": "Los Indios Bravos",
+      "municipality": "Malay",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-06-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "boracay-sands-bar-restaurant",
+      "destination": "Boracay",
+      "name": "Sands Bar & Restaurant",
+      "municipality": "Malay",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-06-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "iloilo-breakthrough-villa",
+      "destination": "Iloilo",
+      "name": "Breakthrough Restaurant - Villa",
+      "municipality": "Iloilo City",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-06-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "iloilo-dapli-valeria",
+      "destination": "Iloilo",
+      "name": "Dapli by Breakthrough",
+      "municipality": "Iloilo City",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-06-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "iloilo-ponsyon-plazuela",
+      "destination": "Iloilo",
+      "name": "Ponsyon by Breakthrough",
+      "municipality": "Iloilo City",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-06-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "iloilo-taytay-tigre",
+      "destination": "Iloilo",
+      "name": "Taytay Tigre",
+      "municipality": "Guimbal",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-01-attractions.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "iloilo-garin-farm",
+      "destination": "Iloilo",
+      "name": "Garin Farm",
+      "municipality": "San Joaquin",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-01-attractions.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "batanes-casa-napoli-town",
+      "destination": "Batanes",
+      "name": "Casa Napoli Pizza and Pasta - Basco Town",
+      "municipality": "Basco",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-02-businesses.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "batanes-beehan",
+      "destination": "Batanes",
+      "name": "Beehan Food Enterprise",
+      "municipality": "Basco",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-06-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "batanes-harbour-cafe",
+      "destination": "Batanes",
+      "name": "Harbour Cafe",
+      "municipality": "Basco",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-06-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "batanes-vunong-dinette",
+      "destination": "Batanes",
+      "name": "Vunong Dinette",
+      "municipality": "Basco",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-06-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "batanes-honesty-coffee-shop",
+      "destination": "Batanes",
+      "name": "Honesty Coffee Shop",
+      "municipality": "Ivana",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-06-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "batanes-rakuh-idi-spring",
+      "destination": "Batanes",
+      "name": "Rakuh-a-Idi Spring",
+      "municipality": "Mahatao",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-01-attractions.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "batanes-chawa-viewdeck",
+      "destination": "Batanes",
+      "name": "Chawa View Deck",
+      "municipality": "Mahatao",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-06-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "batanes-national-museum",
+      "destination": "Batanes",
+      "name": "National Museum of the Philippines - Batanes",
+      "municipality": "Uyugan",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-06-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "el-nido-grounded-town",
+      "destination": "Palawan",
+      "name": "Grounded — El Nido Town",
+      "municipality": "El Nido",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-06-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "el-nido-janu-coffee-tea",
+      "destination": "Palawan",
+      "name": "Janu Coffee & Tea",
+      "municipality": "El Nido",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-06-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "puerto-princesa-itoys-coffee-haus",
+      "destination": "Palawan",
+      "name": "Itoy’s Coffee Haus",
+      "municipality": "Puerto Princesa City",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-06-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "puerto-princesa-koffee-kat",
+      "destination": "Palawan",
+      "name": "Koffee Kat Cafe",
+      "municipality": "Puerto Princesa City",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-06-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "puerto-princesa-ka-inato-main",
+      "destination": "Palawan",
+      "name": "Ka Inato — Tiniguiban",
+      "municipality": "Puerto Princesa City",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-06-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "cebu-north-cafe-citymall",
+      "destination": "Cebu",
+      "name": "North Café & Co — CityMall Bacalso",
+      "municipality": "Cebu City",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-07-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "cebu-teamo-hotel-one",
+      "destination": "Cebu",
+      "name": "Te’Amo Café — Hotel One",
+      "municipality": "Cebu City",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-07-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "el-nido-lick-roastery",
+      "destination": "Palawan",
+      "name": "Lost Islands Center for Kape — Lio HQ",
+      "municipality": "El Nido",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-07-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "el-nido-la-moro-hill",
+      "destination": "Palawan",
+      "name": "La Moro Hill Bakery — Lio",
+      "municipality": "El Nido",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-07-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "el-nido-huk-co",
+      "destination": "Palawan",
+      "name": "HUK & Co. — C Hotel",
+      "municipality": "El Nido",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-07-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "el-nido-ver-de",
+      "destination": "Palawan",
+      "name": "Ver De — H Hotel",
+      "municipality": "El Nido",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-07-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "el-nido-piece-of-sky",
+      "destination": "Palawan",
+      "name": "Piece of Sky",
+      "municipality": "El Nido",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-07-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "el-nido-henris",
+      "destination": "Palawan",
+      "name": "Henri’s — Lihim Resorts",
+      "municipality": "El Nido",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-07-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "el-nido-lanai-amakan",
+      "destination": "Palawan",
+      "name": "The Lanai at Amakan",
+      "municipality": "El Nido",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-07-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "coron-baya-resto-lounge",
+      "destination": "Palawan",
+      "name": "BAYA Resto Lounge",
+      "municipality": "Coron",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-07-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "coron-hunt-funny-lion",
+      "destination": "Palawan",
+      "name": "Hunt Restaurant — The Funny Lion Coron",
+      "municipality": "Coron",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-07-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "el-nido-sunmai-nacpan",
+      "destination": "Palawan",
+      "name": "Sunmai Beach Bar and Restaurant",
+      "municipality": "El Nido",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-07-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "el-nido-calima-piece-lio",
+      "destination": "Palawan",
+      "name": "CALIMA Restaurant — Piece Lio",
+      "municipality": "El Nido",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-07-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "el-nido-ocean-view-chinese",
+      "destination": "Palawan",
+      "name": "Ocean View Chinese Restaurant — S Resort",
+      "municipality": "El Nido",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-07-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "puerto-princesa-divines-robinsons",
+      "destination": "Palawan",
+      "name": "Divine’s Sweets Bakery & Cafe — Robinsons",
+      "municipality": "Puerto Princesa City",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-07-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "puerto-princesa-jeju-island-cafe",
+      "destination": "Palawan",
+      "name": "Jeju Island Cafe",
+      "municipality": "Puerto Princesa City",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-07-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "puerto-princesa-kofilab",
+      "destination": "Palawan",
+      "name": "Kofilab Cafe",
+      "municipality": "Puerto Princesa City",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-07-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "cebu-good-cup-ramos",
+      "destination": "Cebu",
+      "name": "Good Cup Café — F. Ramos",
+      "municipality": "Cebu City",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-07-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "cebu-house-of-lechon-acacia",
+      "destination": "Cebu",
+      "name": "House of Lechon — Acacia",
+      "municipality": "Cebu City",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-07-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "cebu-parilya-il-corso",
+      "destination": "Cebu",
+      "name": "Parilya — Il Corso",
+      "municipality": "Cebu City",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-07-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "cebu-lemon-grass-ayala",
+      "destination": "Cebu",
+      "name": "Lemon Grass — Ayala Center Cebu",
+      "municipality": "Cebu City",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-07-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "cebu-ullis-ayala",
+      "destination": "Cebu",
+      "name": "Ulli’s Streets of Asia — Ayala",
+      "municipality": "Cebu City",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-07-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "cebu-u-kitchen-lahug",
+      "destination": "Cebu",
+      "name": "U Kitchen — Lahug",
+      "municipality": "Cebu City",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-08-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "cebu-pares-pares-escario",
+      "destination": "Cebu",
+      "name": "Pares Pares — N. Escario Street",
+      "municipality": "Cebu City",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-08-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "cebu-abli",
+      "destination": "Cebu",
+      "name": "Abli",
+      "municipality": "Cebu City",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-08-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "cebu-abaseria",
+      "destination": "Cebu",
+      "name": "Abaseria Deli & Cafe",
+      "municipality": "Cebu City",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-08-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "cebu-ato-ah",
+      "destination": "Cebu",
+      "name": "ATO-AH",
+      "municipality": "Cebu City",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-08-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "cebu-lantaw-compostela",
+      "destination": "Cebu",
+      "name": "Lantaw — Compostela",
+      "municipality": "Compostela",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-08-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "cebu-ricos-mandaue",
+      "destination": "Cebu",
+      "name": "Rico’s Lechon — Mandaue",
+      "municipality": "Mandaue City",
+      "status": "added",
+      "batch": "visual-002",
+      "checkedOn": "2026-11-24",
+      "sourcesSearched": [],
+      "rejections": [],
+      "notes": [
+        "The photographer’s individual caption locates this dining room in Mandaue. The first file in the same series visibly says Rico’s Mandaue. The venue website confirms the Mandaue branch at Jamestown. Selected the view of the tables and chairs, without the prominent guests or promotional wall in the other frames."
+      ],
+      "photo": {
+        "placeId": "cebu-ricos-mandaue",
+        "src": "/images/places/cebu-ricos-mandaue.jpg",
+        "srcSmall": "/images/places/cebu-ricos-mandaue-640.jpg",
+        "sourcePage": "https://commons.wikimedia.org/wiki/File:Rico%27s_Lechon_interior_(2023-05-28)_(04).jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Rico%27s_Lechon_interior_%282023-05-28%29_%2804%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "creator": "PaulGorduiz106",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "attribution": "PaulGorduiz106 / Wikimedia Commons / CC BY-SA 4.0. Resized and JPEG compressed.",
+        "alt": "Set tables and colorful chairs in the Rico’s Lechon dining room in Mandaue",
+        "width": 1200,
+        "height": 914,
+        "checkedOn": "2026-11-24"
+      },
+      "researchBatch": "research-08-remaining.json",
+      "realPhoto": true,
+      "cover": "photo"
+    },
+    {
+      "placeId": "cebu-punched-mabuhay",
+      "destination": "Cebu",
+      "name": "Punched Coffee — Mabuhay Tower",
+      "municipality": "Cebu City",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-08-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "manila-yardstick-esteban",
+      "destination": "Manila",
+      "name": "Yardstick — Legazpi Village",
+      "municipality": "Makati",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-08-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "manila-commune-poblacion",
+      "destination": "Manila",
+      "name": "Commune Café + Bar",
+      "municipality": "Makati",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-08-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "manila-exchange-alley-molito",
+      "destination": "Manila",
+      "name": "Exchange Alley Coffee House — Molito",
+      "municipality": "Muntinlupa",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-08-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "manila-group-boiler-molito",
+      "destination": "Manila",
+      "name": "Group & Boiler — Molito",
+      "municipality": "Muntinlupa",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-08-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "manila-type-a-nbs",
+      "destination": "Manila",
+      "name": "Type A Coffee — NBS Park",
+      "municipality": "Mandaluyong",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-08-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "manila-the-den-escolta",
+      "destination": "Manila",
+      "name": "The Den — Escolta",
+      "municipality": "Manila",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-08-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "manila-saigon-coffee-arca",
+      "destination": "Manila",
+      "name": "Saigon Coffee — Arca South",
+      "municipality": "Taguig",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-08-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "manila-toyo-eatery",
+      "destination": "Manila",
+      "name": "Toyo Eatery",
+      "municipality": "Makati",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-08-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "manila-gallery-by-chele",
+      "destination": "Manila",
+      "name": "Gallery by Chele",
+      "municipality": "Taguig",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-08-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "manila-your-local",
+      "destination": "Manila",
+      "name": "Your Local",
+      "municipality": "Makati",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-08-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "manila-sarsa-rada",
+      "destination": "Manila",
+      "name": "Sarsa — Rada Street",
+      "municipality": "Makati",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-08-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "manila-metiz-karrivin",
+      "destination": "Manila",
+      "name": "Metiz",
+      "municipality": "Makati",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-08-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "manila-cirkulo",
+      "destination": "Manila",
+      "name": "Cirkulo",
+      "municipality": "Makati",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-08-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "manila-la-pita-poblacion",
+      "destination": "Manila",
+      "name": "La Pita — Poblacion",
+      "municipality": "Makati",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-08-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "manila-morning-sun-project-four",
+      "destination": "Manila",
+      "name": "Morning Sun Eatery",
+      "municipality": "Quezon City",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-09-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "manila-el-poco-malate",
+      "destination": "Manila",
+      "name": "El Poco Cantina — Malate",
+      "municipality": "Manila",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-09-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "manila-rodics-maginhawa",
+      "destination": "Manila",
+      "name": "Rodic’s Diner — Maginhawa",
+      "municipality": "Quezon City",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-09-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "siargao-spotted-pig-catangnan",
+      "destination": "Siargao",
+      "name": "Spotted Pig Cafe — Catangnan",
+      "municipality": "General Luna",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-09-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "siargao-weekend-cafe",
+      "destination": "Siargao",
+      "name": "/Week·End/ Cafe",
+      "municipality": "General Luna",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-09-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "siargao-sinag-snack-bar",
+      "destination": "Siargao",
+      "name": "Sinag Snack Bar",
+      "municipality": "General Luna",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-09-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "siargao-saint-thomas",
+      "destination": "Siargao",
+      "name": "Saint Thomas Coffee",
+      "municipality": "General Luna",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-09-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "siargao-sunset-coffee",
+      "destination": "Siargao",
+      "name": "Sunset Coffee Roasters",
+      "municipality": "General Luna",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-09-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "siargao-fin-fin",
+      "destination": "Siargao",
+      "name": "Fin & Fin Beach Shack",
+      "municipality": "General Luna",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-09-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "bohol-overgrown-panglao",
+      "destination": "Bohol",
+      "name": "Overgrown Café & Bar — Panglao",
+      "municipality": "Panglao",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-09-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "bohol-mosia-cafe",
+      "destination": "Bohol",
+      "name": "Mosia Cafe",
+      "municipality": "Tagbilaran City",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-09-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "bohol-slotide-danao",
+      "destination": "Bohol",
+      "name": "Slotide Coffee Club",
+      "municipality": "Panglao",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-09-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "bohol-smoque-bistro",
+      "destination": "Bohol",
+      "name": "Smoque Bistro + Cafe & Bar",
+      "municipality": "Tagbilaran City",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-09-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "bohol-mist-danao",
+      "destination": "Bohol",
+      "name": "MIST Cafe and Restaurant",
+      "municipality": "Panglao",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-09-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "bohol-tomar-amorita",
+      "destination": "Bohol",
+      "name": "Tomar Tapas x Bar — Amorita",
+      "municipality": "Panglao",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-09-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "baguio-rebel-irisan",
+      "destination": "Baguio",
+      "name": "Rebel Bakehouse — Irisan",
+      "municipality": "Baguio City",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-09-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "baguio-hatch-easter",
+      "destination": "Baguio",
+      "name": "Hatch Coffee — Easter Road",
+      "municipality": "Baguio City",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-09-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "baguio-hot-cat-yangco",
+      "destination": "Baguio",
+      "name": "Hot Cat Specialty Coffee — Yangco",
+      "municipality": "Baguio City",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-09-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "baguio-cafe-by-ruins",
+      "destination": "Baguio",
+      "name": "Café by the Ruins — Shuntug",
+      "municipality": "Baguio City",
+      "status": "needs-authorized-photo",
+      "researchBatch": "00-download-retries.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "batanes-cafe-du-tukon",
+      "destination": "Batanes",
+      "name": "Café du Tukon",
+      "municipality": "Basco",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-09-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "batanes-bunkers-bistro",
+      "destination": "Batanes",
+      "name": "Bunkers Bistro",
+      "municipality": "Basco",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-09-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "sagada-cafe-bodega-rock-inn",
+      "destination": "Sagada",
+      "name": "Café Bodega — Rock Inn",
+      "municipality": "Sagada",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-02-businesses.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "sagada-log-cabin",
+      "destination": "Sagada",
+      "name": "Log Cabin Sagada",
+      "municipality": "Sagada",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-09-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "sagada-cellar-door",
+      "destination": "Sagada",
+      "name": "Sagada Cellar Door",
+      "municipality": "Sagada",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-09-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "sagada-gaia-cafe",
+      "destination": "Sagada",
+      "name": "Gaia Cafe & Crafts",
+      "municipality": "Sagada",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-10-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "sagada-banas-cafe",
+      "destination": "Sagada",
+      "name": "Bana’s Coffee",
+      "municipality": "Sagada",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-10-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "davao-purge-tulip",
+      "destination": "Davao",
+      "name": "Purge Coffee Roaster — Tulip Drive",
+      "municipality": "Davao City",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-10-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "davao-fourth-street-narra",
+      "destination": "Davao",
+      "name": "Fourth Street Cafe — Narra",
+      "municipality": "Davao City",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-10-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "davao-glasshouse-oboza",
+      "destination": "Davao",
+      "name": "Glasshouse Coffee — Oboza Heritage House",
+      "municipality": "Davao City",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-10-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "davao-paramount-star-hotel",
+      "destination": "Davao",
+      "name": "Paramount Coffee — Star Hotel",
+      "municipality": "Davao City",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-10-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "davao-kapewenoz-v-mapa",
+      "destination": "Davao",
+      "name": "Kapeweñoz — V. Mapa",
+      "municipality": "Davao City",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-10-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "davao-lamano-tulip",
+      "destination": "Davao",
+      "name": "Lamano Cocina & Bar",
+      "municipality": "Davao City",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-10-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "davao-capris-bajada",
+      "destination": "Davao",
+      "name": "Capri’s Restaurant and Deli",
+      "municipality": "Davao City",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-10-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "davao-lachis-marfori",
+      "destination": "Davao",
+      "name": "Lachi’s Sans Rival Atbp. — Marfori",
+      "municipality": "Davao City",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-10-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "iloilo-neighbor-atria",
+      "destination": "Iloilo",
+      "name": "Neighbor Coffee — Shops at Atria",
+      "municipality": "Iloilo City",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-10-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "iloilo-bluejay-sm-city",
+      "destination": "Iloilo",
+      "name": "Bluejay Coffee & Company — SM City Iloilo",
+      "municipality": "Iloilo City",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-10-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "iloilo-monkey-grounds",
+      "destination": "Iloilo",
+      "name": "Monkey Grounds Coffee — Benigno Aquino Avenue",
+      "municipality": "Iloilo City",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-10-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "iloilo-loco-smallville",
+      "destination": "Iloilo",
+      "name": "LoCo Local Coffee — Smallville",
+      "municipality": "Iloilo City",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-10-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "iloilo-netongs-la-paz",
+      "destination": "Iloilo",
+      "name": "Netong’s Original Special La Paz Batchoy — La Paz Market",
+      "municipality": "Iloilo City",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-10-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    },
+    {
+      "placeId": "iloilo-carlos-dungon",
+      "destination": "Iloilo",
+      "name": "Carlo’s Bakery & Cafe — Dungon",
+      "municipality": "Iloilo City",
+      "status": "needs-authorized-photo",
+      "researchBatch": "research-10-remaining.json",
+      "realPhoto": false,
+      "cover": "illustration"
+    }
+  ]
+}

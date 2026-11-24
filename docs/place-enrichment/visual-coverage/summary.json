@@ -1,0 +1,180 @@
+{
+  "checkedOn": "2026-11-25",
+  "startingGaps": 210,
+  "totals": {
+    "places": 426,
+    "photos": 221,
+    "promotions": 0,
+    "logos": 0,
+    "illustrations": 205,
+    "instagramWithoutPhoto": 10,
+    "photosAdded": 5,
+    "placesWithInstagram": 39,
+    "placesWithoutPhoto": 205,
+    "placesWithoutPhotoOrInstagram": 195
+  },
+  "byDestination": {
+    "Palawan": {
+      "places": 66,
+      "photos": 31,
+      "promotions": 0,
+      "logos": 0,
+      "illustrations": 35,
+      "instagramWithoutPhoto": 1
+    },
+    "Siargao": {
+      "places": 36,
+      "photos": 8,
+      "promotions": 0,
+      "logos": 0,
+      "illustrations": 28,
+      "instagramWithoutPhoto": 2
+    },
+    "Davao": {
+      "places": 39,
+      "photos": 18,
+      "promotions": 0,
+      "logos": 0,
+      "illustrations": 21,
+      "instagramWithoutPhoto": 1
+    },
+    "Cebu": {
+      "places": 51,
+      "photos": 33,
+      "promotions": 0,
+      "logos": 0,
+      "illustrations": 18,
+      "instagramWithoutPhoto": 0
+    },
+    "Bohol": {
+      "places": 36,
+      "photos": 18,
+      "promotions": 0,
+      "logos": 0,
+      "illustrations": 18,
+      "instagramWithoutPhoto": 0
+    },
+    "Boracay": {
+      "places": 28,
+      "photos": 9,
+      "promotions": 0,
+      "logos": 0,
+      "illustrations": 19,
+      "instagramWithoutPhoto": 3
+    },
+    "Iloilo": {
+      "places": 38,
+      "photos": 26,
+      "promotions": 0,
+      "logos": 0,
+      "illustrations": 12,
+      "instagramWithoutPhoto": 0
+    },
+    "Baguio": {
+      "places": 35,
+      "photos": 16,
+      "promotions": 0,
+      "logos": 0,
+      "illustrations": 19,
+      "instagramWithoutPhoto": 3
+    },
+    "Sagada": {
+      "places": 16,
+      "photos": 10,
+      "promotions": 0,
+      "logos": 0,
+      "illustrations": 6,
+      "instagramWithoutPhoto": 0
+    },
+    "Batanes": {
+      "places": 32,
+      "photos": 21,
+      "promotions": 0,
+      "logos": 0,
+      "illustrations": 11,
+      "instagramWithoutPhoto": 0
+    },
+    "Manila": {
+      "places": 49,
+      "photos": 31,
+      "promotions": 0,
+      "logos": 0,
+      "illustrations": 18,
+      "instagramWithoutPhoto": 0
+    }
+  },
+  "researchBatches": [
+    {
+      "file": "research-01-attractions.json",
+      "places": 24,
+      "reachedIndex": 24,
+      "withImageLeads": 3,
+      "approvedPhotos": 0
+    },
+    {
+      "file": "research-02-businesses.json",
+      "places": 10,
+      "reachedIndex": 10,
+      "withImageLeads": 0,
+      "approvedPhotos": 0
+    },
+    {
+      "file": "research-03-remaining.json",
+      "places": 22,
+      "reachedIndex": 22,
+      "withImageLeads": 2,
+      "approvedPhotos": 0
+    },
+    {
+      "file": "research-04-remaining.json",
+      "places": 22,
+      "reachedIndex": 22,
+      "withImageLeads": 0,
+      "approvedPhotos": 0
+    },
+    {
+      "file": "research-05-remaining.json",
+      "places": 22,
+      "reachedIndex": 22,
+      "withImageLeads": 2,
+      "approvedPhotos": 0
+    },
+    {
+      "file": "research-06-remaining.json",
+      "places": 22,
+      "reachedIndex": 22,
+      "withImageLeads": 1,
+      "approvedPhotos": 0
+    },
+    {
+      "file": "research-07-remaining.json",
+      "places": 22,
+      "reachedIndex": 22,
+      "withImageLeads": 3,
+      "approvedPhotos": 0
+    },
+    {
+      "file": "research-08-remaining.json",
+      "places": 22,
+      "reachedIndex": 22,
+      "withImageLeads": 6,
+      "approvedPhotos": 1
+    },
+    {
+      "file": "research-09-remaining.json",
+      "places": 22,
+      "reachedIndex": 22,
+      "withImageLeads": 0,
+      "approvedPhotos": 0
+    },
+    {
+      "file": "research-10-remaining.json",
+      "places": 16,
+      "reachedIndex": 16,
+      "withImageLeads": 0,
+      "approvedPhotos": 0
+    }
+  ],
+  "downloadRetries": 6,
+  "limitation": "Public search results cover the entire original gap list. Searches and partial publisher checks cannot establish that no reusable image exists elsewhere. Individual permissions and exact-place reviews are separate."
+}

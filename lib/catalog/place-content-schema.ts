@@ -4,7 +4,7 @@ const https=z.string().url().refine(v=>new URL(v).protocol==="https:","Use an HT
 const date=z.string().regex(/^\d{4}-\d{2}-\d{2}$/).refine(v=>!Number.isNaN(Date.parse(v))&&new Date(v).toISOString().slice(0,10)===v&&v<=new Date().toISOString().slice(0,10),"Invalid review date");
 export const placePhotoSchema=z.object({
   placeId:id,src:z.string().startsWith("/images/"),srcSmall:z.string().startsWith("/images/").optional(),
-  sourcePage:https,originalUrl:https,creator:z.string().min(1),license:z.string().min(1),licenseUrl:https,
+  sourcePage:https,originalUrl:https,creator:z.string().min(1),creatorUrl:https.optional(),license:z.string().min(1),licenseUrl:https,
   attribution:z.string().min(1),alt:z.string().min(8),width:z.number().int().positive(),height:z.number().int().positive(),
   checkedOn:date,objectPosition:z.string().optional(),
 });
