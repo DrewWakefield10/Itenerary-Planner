@@ -82,7 +82,7 @@ try {
   await page.goto(`${origin}/planner?destinations=palawan&days=5`);
   await acceptRequestedBases();
   await expect(page.getByRole('status')).toContainText('older');
-  await page.getByRole('button',{name:'Next chapter'}).click();
+  await page.getByRole('button',{name:'Plan my days'}).click();
   await expect(page.getByText('Choose an explicit overnight base to replace the legacy Palawan selection for this new trip.',{exact:true})).toBeVisible();
   await page.getByRole('button',{name:'Coron',exact:true}).click();
   await expect(page.getByRole('button',{name:'Coron',exact:true})).toHaveAttribute('aria-pressed','true');

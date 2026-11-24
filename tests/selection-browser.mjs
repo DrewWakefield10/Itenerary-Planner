@@ -7,7 +7,9 @@ const errors=[];page.on("pageerror",e=>errors.push(e.message));
 try{
   await page.goto("http://127.0.0.1:5173/planner?destinations=siargao&days=3");
   await expect(page.getByLabel("Number of days")).toHaveValue("3");
-  await page.getByRole("button",{name:"Your travel style"}).click();
+  await page.getByRole("button",{name:"Review & save"}).click();
+  await page.getByText("Trip preferences (optional)",{exact:true}).click();
+  await page.locator(".planner-preferences summary").filter({hasText:/^Travel style$/}).click();
   await page.getByText("Choose specific place types (optional)",{exact:true}).click();
   await page.getByLabel("Cafés",{exact:true}).check();
   await expect(page.getByLabel("Cafés",{exact:true})).toBeChecked();

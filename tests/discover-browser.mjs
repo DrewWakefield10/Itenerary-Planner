@@ -187,9 +187,13 @@ try {
   ).toHaveAttribute("href", "/planner?destinations=baguio");
   // One real generated saved trip; clear one day's activities to test additions
   // without making the planner move or replace generated activities for us.
+  // Keep the fixture schedule stable so the garden is available to add.
   await page.goto(origin + "/planner?destinations=baguio&days=3");
   await expect(page.getByLabel("Number of days")).toHaveValue("3");
-  await openLegacyDemo(page);
+  await openLegacyDemo(page, {
+    startDate: "2026-12-10",
+    randomSeed: "discover-add-a",
+  });
   await expect(
     page.getByRole("heading", {
       name: "Baguio — my island story",

@@ -43,14 +43,15 @@ try{
   await expect(page.getByText(/Let.s Corp/)).toHaveCount(0);
   await expect(page.getByRole("button",{name:"Continue with Google",exact:true})).toBeVisible();
   await page.goto(origin+"/planner?destinations=baguio&days=3");await expect(page.getByLabel("Number of days")).toHaveValue("3");
-  await page.getByRole("button",{name:"Next chapter"}).click();
+  await page.getByRole("button",{name:"Plan my days"}).click();
+  await page.getByText("Add your own activity",{exact:true}).click();
   await page.getByRole("button",{name:"Add reservation",exact:true}).click();
   await page.getByLabel("Activity name").fill("Fixed guest dinner");
   await page.getByLabel("Start time (optional)").fill("18:30");
   await page.getByLabel("Visit length in minutes").fill("60");
   await page.getByRole("button",{name:"Save activity"}).click();
-  await page.getByRole("button",{name:"Go to Ready to wander"}).click();
-  await page.getByRole("button",{name:"Finish my itinerary"}).click();await expect(page.getByRole("heading",{name:"Baguio — my itinerary"})).toBeVisible();
+  await page.getByRole("button",{name:"Review trip"}).click();
+  await page.getByRole("button",{name:"Save my itinerary"}).click();await expect(page.getByRole("heading",{name:"Baguio — my itinerary"})).toBeVisible();
   const draft=await page.evaluate(()=>JSON.parse(localStorage.getItem("lakbay:trips"))[0]),tripUrl=origin+"/trips/"+draft.id;
   await expect(page.getByText("Browser draft · not saved to an account",{exact:true})).toBeVisible();
   await page.getByRole("button",{name:"Save Trip",exact:true}).click();

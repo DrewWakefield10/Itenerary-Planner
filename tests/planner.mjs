@@ -29,6 +29,11 @@ try {
       );
     });
     async function note(kind, name, time = "", duration = "", cost = "") {
+      const custom = page
+        .locator(".manual-extras")
+        .filter({ hasText: "Add your own activity" });
+      if ((await custom.getAttribute("open")) === null)
+        await custom.locator("summary").click();
       await page
         .getByRole("button", { name: `Add ${kind}`, exact: true })
         .click();
@@ -41,6 +46,11 @@ try {
       await dialog.getByRole("button", { name: "Save activity" }).click();
     }
     async function window(start, end, intent) {
+      const extra = page
+        .locator(".manual-extras")
+        .filter({ hasText: "Free time and suggestions" });
+      if ((await extra.getAttribute("open")) === null)
+        await extra.locator("summary").click();
       await page.getByRole("button", { name: "Add a time window" }).click();
       const modal = page.getByRole("dialog");
       await modal.getByLabel("Window start").fill(start);
@@ -48,62 +58,113 @@ try {
       await modal.getByLabel("Use this time for").selectOption(intent);
       await modal.getByRole("button", { name: "Save time window" }).click();
     }
+    await page.goto(origin + "/planner");
+    const steps = page.getByRole("navigation", { name: "Trip planning steps" });
+    await expect(steps.getByRole("button")).toHaveCount(3);
+    await expect(
+      page.getByRole("button", { name: "El Nido", exact: true }),
+    ).toHaveAttribute("aria-pressed", "false");
+    await page.getByRole("button", { name: "Plan my days" }).click();
+    await expect(
+      page.locator(".planner-paper").getByRole("alert"),
+    ).toContainText("Choose at least one place to stay.");
+    await page.getByRole("button", { name: "El Nido", exact: true }).click();
+    await page.getByLabel("Number of days").fill("5");
+    await page.getByRole("button", { name: "Plan my days" }).click();
+    const tripPlaces = page.getByRole("region", {
+      name: "Places for this day",
+    });
+    await expect(
+      tripPlaces.getByRole("heading", { name: "Places to visit in El Nido" }),
+    ).toBeVisible();
+    const directory = await (
+      await page.request.get(origin + "/data/lakbay-locations.json")
+    ).json();
+    const count = (base) =>
+      directory.filter((place) => place.itinerary_base_slug === base).length;
+    await expect(tripPlaces.getByRole("status")).toHaveText(
+      `${count("el-nido")} places`,
+    );
+    await expect(
+      tripPlaces.getByRole("combobox", { name: "Destination" }),
+    ).toHaveCount(0);
+    await tripPlaces.getByRole("searchbox").fill("Plaza Cuartel");
+    await expect(tripPlaces.getByRole("status")).toHaveText(
+      "No places found in El Nido.",
+    );
+    await page.getByRole("button", { name: "Clear filters" }).click();
+    await expect(tripPlaces.getByRole("status")).toHaveText(
+      `${count("el-nido")} places`,
+    );
+    await steps.getByRole("button", { name: "The basics" }).click();
+    await page
+      .getByRole("button", { name: "Puerto Princesa", exact: true })
+      .click();
+    await page.getByRole("button", { name: "Plan my days" }).click();
+    const itineraryDay = page.getByRole("combobox", { name: "Itinerary day" });
+    await itineraryDay.selectOption("2");
+    await expect(
+      page.getByText(/This day is set aside for travel/),
+    ).toBeVisible();
+    await expect(tripPlaces).toHaveCount(0);
+    await itineraryDay.selectOption("3");
+    await expect(tripPlaces.getByRole("status")).toHaveText(
+      `${count("puerto-princesa")} places`,
+    );
+    await page.reload();
+    await expect(itineraryDay).toHaveValue("3");
+    await expect(
+      tripPlaces.getByRole("heading", {
+        name: "Places to visit in Puerto Princesa",
+      }),
+    ).toBeVisible();
+    await itineraryDay.selectOption("0");
+    await page.goto(origin + "/planner?place=puerto-princesa-plaza-cuartel");
+    const visitDay = page
+      .getByRole("dialog")
+      .getByRole("combobox", { name: "Day for this visit" });
+    await expect(visitDay.locator("option")).toHaveCount(2);
+    await expect(visitDay).toHaveValue("3");
+    await expect(
+      page.getByRole("button", { name: "Set visit details" }),
+    ).toBeEnabled();
+    await page.keyboard.press("Escape");
+    await page.evaluate(() => {
+      const key = "lakbay:manual-planner";
+      const saved = JSON.parse(localStorage.getItem(key));
+      localStorage.setItem(
+        key,
+        JSON.stringify({ ...saved, step: 4, group: "All destinations" }),
+      );
+    });
+    await page.reload();
+    await expect(
+      page.getByRole("heading", { name: "Review & save", exact: true }),
+    ).toBeVisible();
+    await expect(page.locator(".manual-review li")).toHaveCount(5);
+    await steps
+      .getByRole("button", { name: "Your itinerary", exact: true })
+      .click();
+    await expect(
+      tripPlaces.getByRole("heading", { name: "Places to visit in El Nido" }),
+    ).toBeVisible();
+    await page.evaluate(() => {
+      localStorage.removeItem("lakbay:draft");
+      localStorage.removeItem("lakbay:manual-planner");
+    });
+
     await page.goto(origin + "/planner?destinations=baguio&days=5");
     await expect(page.getByLabel("Number of days")).toHaveValue("5");
     await page.getByLabel("Start date").fill("2026-12-10");
-    await page.getByRole("button", { name: "Next chapter" }).click();
+    await page.getByRole("button", { name: "Plan my days" }).click();
     await expect(
       page.getByLabel("Itinerary day").locator("option"),
     ).toHaveCount(5);
     const catalog = page.locator(".manual-catalog");
-    const destination = catalog.getByRole("combobox", {
-      name: "Destination",
-      exact: true,
-    });
     const search = catalog.getByRole("searchbox", { name: "Search places" });
-    const palawan = destination.locator('optgroup[label="Palawan"]');
-    await expect(palawan.locator("option")).toHaveText([
-      "All Palawan",
-      "El Nido",
-      "Coron",
-      "Puerto Princesa",
-    ]);
-    const directory = await (
-      await page.request.get(origin + "/data/lakbay-locations.json")
-    ).json();
-    for (const base of ["el-nido", "coron", "puerto-princesa"]) {
-      await destination.selectOption(base);
-      const matches = directory.filter(
-        (place) => place.itinerary_base_slug === base,
-      );
-      await expect(catalog.getByRole("status")).toHaveText(
-        `${matches.length} places`,
-      );
-    }
-    await search.fill("Plaza Cuartel");
-    await catalog
-      .getByRole("combobox", { name: "Category", exact: true })
-      .selectOption("Culture");
     await expect(
-      catalog.getByRole("heading", { name: "Plaza Cuartel", exact: true }),
+      catalog.getByRole("heading", { name: "Places to visit in Baguio" }),
     ).toBeVisible();
-    await page.reload();
-    await expect(destination).toHaveValue("puerto-princesa");
-    await expect(search).toHaveValue("Plaza Cuartel");
-    await expect(
-      catalog.getByRole("combobox", { name: "Category", exact: true }),
-    ).toHaveValue("Culture");
-    await destination.selectOption("el-nido");
-    await expect(catalog.getByRole("status")).toHaveText("0 places");
-    await catalog
-      .getByRole("combobox", { name: "Category", exact: true })
-      .selectOption("all");
-    await destination.selectOption("Palawan");
-    await search.fill("Port Barton Beach");
-    await expect(
-      catalog.getByRole("heading", { name: "Port Barton Beach", exact: true }),
-    ).toBeVisible();
-    await destination.selectOption("all");
     await search.fill("Burnham Park");
     await catalog.getByRole("button", { name: "Add to day…" }).first().click();
     let modal = page.getByRole("dialog");
@@ -133,10 +194,10 @@ try {
       .first()
       .click();
     await page.getByLabel("Number of days").fill("4");
-    await page.getByRole("button", { name: "Next chapter" }).click();
+    await page.getByRole("button", { name: "Plan my days" }).click();
     await expect(page.locator(".manual-items")).toContainText("Checkout");
     await expect(
-      page.getByText(/This day is outside your current duration/),
+      page.getByText(/This day is outside your trip dates/),
     ).toBeVisible();
     await page.getByLabel("Move Checkout to day").selectOption("3");
     await page
@@ -144,12 +205,12 @@ try {
       .first()
       .click();
     await page.getByLabel("Number of days").fill("5");
-    await page.getByRole("button", { name: "Next chapter" }).click();
+    await page.getByRole("button", { name: "Plan my days" }).click();
     await page.getByLabel("Itinerary day").selectOption("4");
     await note("personal activity", "Departure");
-    await page.getByRole("button", { name: "Go to Ready to wander" }).click();
+    await page.getByRole("button", { name: "Review trip" }).click();
     await expect(page.locator(".manual-review li")).toHaveCount(5);
-    await page.getByRole("button", { name: "Finish my itinerary" }).click();
+    await page.getByRole("button", { name: "Save my itinerary" }).click();
     await expect(
       page.getByRole("heading", { name: "Baguio — my itinerary", exact: true }),
     ).toBeVisible();
@@ -219,14 +280,21 @@ try {
       path: `work/manual-planner/itinerary-${width}.png`,
     });
     await page
-      .getByRole("button", { name: "Your budget", exact: false })
-      .first()
+      .getByRole("button", { name: "Review & save", exact: true })
+      .click();
+    await page
+      .getByText("Trip preferences (optional)", { exact: true })
+      .click();
+    await page
+      .locator(".planner-preferences summary")
+      .filter({ hasText: /^Budget$/ })
       .click();
     await page.getByLabel("Additional budget for suggestions (₱)").fill("0");
     await page
       .getByRole("button", { name: "Your itinerary", exact: false })
       .first()
       .click();
+    await page.getByText("Free time and suggestions", { exact: true }).click();
     await page
       .getByRole("button", { name: "Suggest a stop", exact: true })
       .click();
@@ -236,21 +304,28 @@ try {
     assert.equal(requests.length, 1);
     await page.getByRole("button", { name: "Done" }).click();
     await page
-      .getByRole("button", { name: "Your budget", exact: false })
-      .first()
+      .getByRole("button", { name: "Review & save", exact: true })
+      .click();
+    await page
+      .getByText("Trip preferences (optional)", { exact: true })
+      .click();
+    await page
+      .locator(".planner-preferences summary")
+      .filter({ hasText: /^Budget$/ })
       .click();
     await page.getByLabel("Additional budget for suggestions (₱)").fill("");
     await page
       .getByRole("button", { name: "Your itinerary", exact: false })
       .first()
       .click();
+    await page.getByText("Free time and suggestions", { exact: true }).click();
     providerFails = true;
     await page
       .getByRole("button", { name: "Suggest a stop", exact: true })
       .click();
     await expect(page.getByText(/AI ranking was unavailable/)).toBeVisible();
     await page.getByRole("button", { name: "Done" }).click();
-    await page.getByRole("button", { name: "Go to Ready to wander" }).click();
+    await page.getByRole("button", { name: "Review trip" }).click();
     await page.locator(".manual-help-disclosure summary").click();
     await expect(
       page.getByRole("checkbox", { name: /09:00–13:00/ }),

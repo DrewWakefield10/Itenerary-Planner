@@ -2,7 +2,7 @@ import { expect } from "@playwright/test";
 
 // The previous demo API supplies snapshots for legacy editor and import tests.
 export async function openLegacyDemo(page, overrides = {}) {
-  await expect(page.getByText("Draft saved on this browser")).toBeVisible();
+  await expect(page.getByText("Draft saved in this browser")).toBeVisible();
   const request = await page.evaluate(() =>
     JSON.parse(localStorage.getItem("lakbay:draft")),
   );

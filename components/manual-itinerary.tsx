@@ -3,7 +3,7 @@ import { useEffect, useRef, useState, type ReactNode } from "react";
 import Link from "next/link";
 import {
   directoryCategories,
-  destinationGroups,
+  groupForBase,
   filterDirectory,
 } from "@/lib/catalog/directory";
 import {
@@ -11,11 +11,12 @@ import {
   discoveryStop,
   type DiscoveryPlace,
 } from "@/lib/discovery";
-import { destination, peso, selectableDestinations } from "@/lib/destinations";
+import { destination, peso } from "@/lib/destinations";
 import { blankActivity, endTime, uid } from "@/lib/engine";
 import {
   activityCostLabel,
   catalogActivity,
+  catalogFitsDay,
   dayWindows,
   isTimed,
   manualBudgetTotals,
@@ -37,10 +38,6 @@ import { SourceIndicator } from "./source-indicator";
 import ConfirmDialog from "./confirm-dialog";
 import { updateActivityField } from "@/lib/activity-sources";
 
-const palawanBases = selectableDestinations.filter(
-  (base) => base.province === "Palawan",
-);
-
 type Window = NonNullable<TripDay["windows"]>[number];
 export type GapTarget = { dayId: string; windowId: string };
 type BoardProps = {
@@ -49,6 +46,7 @@ type BoardProps = {
   change: (draft: ManualDraft) => void;
   placeId?: string | null;
   closeIncoming?: () => void;
+  editBasics?: () => void;
   suggest?: (target: GapTarget) => void;
 };
 
@@ -498,6 +496,7 @@ export function ManualItinerary({
   change,
   placeId,
   closeIncoming,
+  editBasics,
   suggest,
 }: BoardProps) {
   const [preview, setPreview] = useState<string | null>(null),
@@ -511,16 +510,35 @@ export function ManualItinerary({
     day = draft.days[dayIndex];
   if (!day) return null;
   const currentPlace = discoveryPlace(preview || placeId || "");
-  const catalogDay = previewDay >= 0 ? draft.days[previewDay] : day;
-  const catalogIndex = previewDay >= 0 ? previewDay : dayIndex;
-  const baseFilter = palawanBases.find((base) => base.slug === draft.group);
-  const found = filterDirectory({
-    group: baseFilter?.province ?? draft.group,
-    category: draft.category,
-    search: draft.search,
-  }).filter(
-    (place) => !baseFilter || place.itinerary_base_slug === baseFilter.slug,
-  );
+  const activeDays = draft.days.slice(0, request.days);
+  const visitDays = currentPlace
+    ? activeDays.flatMap((candidate, index) =>
+        catalogFitsDay(currentPlace.baseSlug, candidate) &&
+        candidate.activities.length < 30
+          ? [index]
+          : [],
+      )
+    : [];
+  const catalogIndex =
+    [previewDay, dayIndex].find((index) => visitDays.includes(index)) ??
+    visitDays[0];
+  const showCatalog = dayIndex < request.days && !day.transfer;
+  const baseName = destination(day.destination)?.name;
+  const found = showCatalog
+    ? filterDirectory({
+        group: groupForBase(day.destination) ?? "all",
+        category: draft.category,
+        search: draft.search,
+      }).filter((place) => catalogFitsDay(place.itinerary_base_slug, day))
+    : [];
+  const selectDay = (index: number) => ({
+    ...draft,
+    ...(draft.days[index]?.destination !== day.destination
+      ? { search: "", category: "all" }
+      : {}),
+    selectedDay: index,
+    page: 1,
+  });
   const page = Math.min(draft.page, Math.max(1, Math.ceil(found.length / 6)));
   const updateDay = (next: TripDay) =>
     change({
@@ -533,15 +551,14 @@ export function ManualItinerary({
     setError("");
     closeIncoming?.();
   };
+  const canMoveTo = (activity: Activity, candidate: TripDay) =>
+    candidate.activities.length < 30 &&
+    (!(activity.manual?.placeId || activity.catalogStopId) ||
+      !misplaced(activity, candidate));
   const move = (activity: Activity, target: number) => {
-    const chosen = draft.days[target];
-    if (
-      !chosen ||
-      chosen.activities.length >= 30 ||
-      ((activity.manual?.placeId || activity.catalogStopId) &&
-        misplaced(activity, chosen))
-    ) {
-      setError("Choose a day with room at the place’s overnight base.");
+    const chosen = activeDays[target];
+    if (!chosen || !canMoveTo(activity, chosen)) {
+      setError("Choose a day with room at the place’s destination.");
       return;
     }
     change({
@@ -573,9 +590,13 @@ export function ManualItinerary({
   };
   const warnings = manualDayWarnings(day, request);
   let previewActivity: Activity | undefined;
-  if (currentPlace && catalogIndex < request.days) {
+  if (currentPlace && catalogIndex !== undefined) {
     try {
-      previewActivity = catalogActivity(currentPlace.id, request, catalogDay);
+      previewActivity = catalogActivity(
+        currentPlace.id,
+        request,
+        activeDays[catalogIndex],
+      );
     } catch {
       /* choose a compatible day in the preview */
     }
@@ -587,7 +608,7 @@ export function ManualItinerary({
         <select
           value={dayIndex}
           onChange={(e) => {
-            change({ ...draft, selectedDay: Number(e.target.value) });
+            change(selectDay(Number(e.target.value)));
             setError("");
           }}
         >
@@ -609,8 +630,8 @@ export function ManualItinerary({
         </h3>
         {dayIndex >= request.days && (
           <p className="notice">
-            This day is outside your current duration. Move or remove its
-            activities and time windows, or restore the day in The basics.
+            This day is outside your trip dates. Move or remove its activities
+            and time windows, or add the day back in The basics.
           </p>
         )}
         {!!warnings.length && (
@@ -623,7 +644,13 @@ export function ManualItinerary({
             <p>Edit a time or move a stop if you want to adjust this day.</p>
           </div>
         )}
-        {!day.activities.length && <p>This day is open.</p>}
+        {day.transfer && (
+          <p>
+            This day is set aside for travel. You can add your own transport or
+            meal plans below.
+          </p>
+        )}
+        {!day.transfer && !day.activities.length && <p>This day is open.</p>}
         <ol className="manual-items">
           {day.activities.map((a, i) => (
             <li key={a.id} id={`activity-${a.id}`}>
@@ -685,9 +712,10 @@ export function ManualItinerary({
                     }}
                   >
                     <option value="">Choose day</option>
-                    {draft.days.slice(0, request.days).map(
+                    {activeDays.map(
                       (d, j) =>
-                        j !== dayIndex && (
+                        j !== dayIndex &&
+                        canMoveTo(a, d) && (
                           <option key={d.id} value={j}>
                             Day {j + 1} · {destination(d.destination)?.name}
                           </option>
@@ -708,43 +736,133 @@ export function ManualItinerary({
           </p>
         )}
         {dayIndex < request.days && (
-          <div className="trip-toolbar">
-            {["Personal activity", "Meal", "Reservation", "Rest"].map(
-              (kind) => (
-                <button
-                  key={kind}
-                  className="button secondary small"
-                  disabled={day.activities.length >= 30}
-                  onClick={() => {
-                    setSnapshotDay(dayIndex);
-                    setEditor({
-                      ...blankActivity(
-                        "",
-                        "09:00",
-                        kind === "Meal" ? "Food" : kind,
-                      ),
-                      description: "",
-                      locked: kind === "Reservation",
-                      manual: {
-                        ...manualDefaults,
-                        base: day.transfer ? undefined : day.destination,
-                      },
-                    });
-                  }}
-                >
-                  Add {kind.toLowerCase()}
-                </button>
-              ),
-            )}
-          </div>
+          <details className="manual-extras">
+            <summary>Add your own activity</summary>
+            <div className="trip-toolbar">
+              {["Personal activity", "Meal", "Reservation", "Rest"].map(
+                (kind) => (
+                  <button
+                    key={kind}
+                    className="button secondary small"
+                    disabled={day.activities.length >= 30}
+                    onClick={() => {
+                      setSnapshotDay(dayIndex);
+                      setEditor({
+                        ...blankActivity(
+                          "",
+                          "09:00",
+                          kind === "Meal" ? "Food" : kind,
+                        ),
+                        description: "",
+                        locked: kind === "Reservation",
+                        manual: {
+                          ...manualDefaults,
+                          base: day.transfer ? undefined : day.destination,
+                        },
+                      });
+                    }}
+                  >
+                    Add {kind.toLowerCase()}
+                  </button>
+                ),
+              )}
+            </div>
+          </details>
         )}
       </div>
-      <div className="manual-day">
-        <h3>Time to leave open</h3>
+      {showCatalog && (
+        <section className="manual-catalog" aria-label="Places for this day">
+          <h3>Places to visit in {baseName}</h3>
+          <div className="form-grid">
+            <label>
+              Search places
+              <input
+                type="search"
+                value={draft.search}
+                onChange={(e) =>
+                  change({ ...draft, search: e.target.value, page: 1 })
+                }
+              />
+            </label>
+            <label>
+              Category
+              <select
+                value={draft.category}
+                onChange={(e) =>
+                  change({ ...draft, category: e.target.value, page: 1 })
+                }
+              >
+                <option value="all">All categories</option>
+                {directoryCategories.map((category) => (
+                  <option key={category}>{category}</option>
+                ))}
+              </select>
+            </label>
+          </div>
+          <p role="status">
+            {found.length
+              ? `${found.length} ${found.length === 1 ? "place" : "places"}`
+              : `No places found in ${baseName}.`}
+          </p>
+          {!found.length && (draft.search || draft.category !== "all") && (
+            <button
+              type="button"
+              className="text-link plain-button"
+              onClick={() =>
+                change({ ...draft, search: "", category: "all", page: 1 })
+              }
+            >
+              Clear filters
+            </button>
+          )}
+          <div className="manual-catalog-results">
+            {found.slice((page - 1) * 6, page * 6).map((p) => {
+              const place = discoveryPlace(p.id)!;
+              return (
+                <CatalogPreview key={p.id} place={place} request={request}>
+                  <button
+                    className="button secondary small"
+                    onClick={() => {
+                      setPreview(p.id);
+                      setPreviewDay(dayIndex);
+                      setError("");
+                    }}
+                  >
+                    Add to day…
+                  </button>
+                </CatalogPreview>
+              );
+            })}
+          </div>
+          {found.length > 6 && (
+            <div className="trip-toolbar">
+              <button
+                className="text-link"
+                disabled={page <= 1}
+                onClick={() => change({ ...draft, page: page - 1 })}
+              >
+                Previous places
+              </button>
+              <span>
+                Page {page} of {Math.max(1, Math.ceil(found.length / 6))}
+              </span>
+              <button
+                className="text-link"
+                disabled={page * 6 >= found.length}
+                onClick={() => change({ ...draft, page: page + 1 })}
+              >
+                Next places
+              </button>
+            </div>
+          )}
+        </section>
+      )}
+      <details className="manual-day manual-extras">
+        <summary>Free time and suggestions</summary>
         {day.activities.some((a) => !isTimed(a)) && (
           <p>
-            Some stops have flexible times. Set a time window before asking for
-            suggestions around them.
+            Some stops have flexible times. Choose specific hours if you want
+            suggestions for a gap.
           </p>
         )}
         {dayWindows(day).map((gap) => (
@@ -814,112 +932,15 @@ export function ManualItinerary({
             Add a time window
           </button>
         )}
-      </div>
-      <details className="manual-catalog" open>
-        <summary>Browse places</summary>
-        <div className="form-grid">
-          <label>
-            Search places
-            <input
-              type="search"
-              value={draft.search}
-              onChange={(e) =>
-                change({ ...draft, search: e.target.value, page: 1 })
-              }
-            />
-          </label>
-          <label>
-            Destination
-            <select
-              value={draft.group}
-              onChange={(e) =>
-                change({ ...draft, group: e.target.value, page: 1 })
-              }
-            >
-              <option value="all">All destinations</option>
-              {destinationGroups.map((group) =>
-                group === "Palawan" ? (
-                  <optgroup key={group} label={group}>
-                    <option value={group}>All Palawan</option>
-                    {palawanBases.map((base) => (
-                      <option key={base.slug} value={base.slug}>
-                        {base.name}
-                      </option>
-                    ))}
-                  </optgroup>
-                ) : (
-                  <option key={group}>{group}</option>
-                ),
-              )}
-            </select>
-          </label>
-          <label>
-            Category
-            <select
-              value={draft.category}
-              onChange={(e) =>
-                change({ ...draft, category: e.target.value, page: 1 })
-              }
-            >
-              <option value="all">All categories</option>
-              {directoryCategories.map((category) => (
-                <option key={category}>{category}</option>
-              ))}
-            </select>
-          </label>
-        </div>
-        <p role="status">{found.length} places</p>
-        <div className="manual-catalog-results">
-          {found.slice((page - 1) * 6, page * 6).map((p) => {
-            const place = discoveryPlace(p.id)!;
-            return (
-              <CatalogPreview key={p.id} place={place} request={request}>
-                <button
-                  className="button secondary small"
-                  onClick={() => {
-                    setPreview(p.id);
-                    setPreviewDay(dayIndex);
-                    setError("");
-                  }}
-                >
-                  Add to day…
-                </button>
-              </CatalogPreview>
-            );
-          })}
-        </div>
-        <div className="trip-toolbar">
-          <button
-            className="text-link"
-            disabled={page <= 1}
-            onClick={() => change({ ...draft, page: page - 1 })}
-          >
-            Previous places
-          </button>
-          <span>
-            Page {page} of {Math.max(1, Math.ceil(found.length / 6))}
-          </span>
-          <button
-            className="text-link"
-            disabled={page * 6 >= found.length}
-            onClick={() => change({ ...draft, page: page + 1 })}
-          >
-            Next places
-          </button>
-        </div>
       </details>
       {currentPlace && !editor && (
         <ConfirmDialog
           title={`Add ${currentPlace.name}?`}
           action="Set visit details"
+          confirmDisabled={!previewActivity}
           onClose={closePreview}
           onConfirm={() => {
-            if (!previewActivity) {
-              setError(
-                "Choose a compatible day within your trip. You can change overnight bases in The basics.",
-              );
-              return;
-            }
+            if (!previewActivity || catalogIndex === undefined) return;
             if (
               draft.days.some((d) =>
                 d.activities.some(
@@ -939,26 +960,44 @@ export function ManualItinerary({
           }}
         >
           <CatalogPreview place={currentPlace} request={request} />
-          <label>
-            Day for this visit
-            <select
-              value={catalogIndex}
-              onChange={(e) => {
-                setPreviewDay(Number(e.target.value));
-                setError("");
-              }}
-            >
-              {draft.days.slice(0, request.days).map((d, i) => (
-                <option key={d.id} value={i}>
-                  Day {i + 1} · {destination(d.destination)?.name}
-                </option>
-              ))}
-            </select>
-          </label>
-          {!currentPlace.baseSlug && (
-            <p className="fine-print">
-              Travel from your base and visiting hours need confirmation.
-            </p>
+          {catalogIndex !== undefined ? (
+            <label>
+              Day for this visit
+              <select
+                value={catalogIndex}
+                onChange={(e) => {
+                  setPreviewDay(Number(e.target.value));
+                  setError("");
+                }}
+              >
+                {visitDays.map((index) => (
+                  <option key={activeDays[index].id} value={index}>
+                    Day {index + 1} ·{" "}
+                    {destination(activeDays[index].destination)?.name}
+                  </option>
+                ))}
+              </select>
+            </label>
+          ) : (
+            <>
+              <p>
+                {currentPlace.baseSlug
+                  ? `There’s no available day in ${destination(currentPlace.baseSlug)?.name} for this visit.`
+                  : "Lakbay hasn’t assigned this place to a trip destination. If you’ve planned the visit, you can add it as your own activity."}
+              </p>
+              {currentPlace.baseSlug && editBasics && (
+                <button
+                  type="button"
+                  className="text-link plain-button"
+                  onClick={() => {
+                    closePreview();
+                    editBasics();
+                  }}
+                >
+                  Edit trip destinations
+                </button>
+              )}
+            </>
           )}
           {error && (
             <p className="notice error" role="alert">
@@ -1003,8 +1042,7 @@ export function ManualItinerary({
               },
             };
             change({
-              ...draft,
-              selectedDay: snapshotDay,
+              ...selectDay(snapshotDay),
               days: draft.days.map((row, i) =>
                 i === snapshotDay
                   ? {

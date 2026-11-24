@@ -1449,8 +1449,8 @@ textarea {
 }
 .planner-layout {
   display: grid;
-  grid-template-columns: 235px 1fr;
-  gap: 45px;
+  grid-template-columns: minmax(150px, 185px) minmax(0, 1fr);
+  gap: 32px;
   margin-top: 38px;
 }
 .planner-sidebar ol {
@@ -1487,23 +1487,6 @@ textarea {
   background: var(--teal);
   color: white;
   border-color: var(--teal);
-}
-.sidebar-note {
-  border-top: 1px dashed var(--line);
-  margin-top: 30px;
-  padding-top: 25px;
-}
-.sidebar-note > svg {
-  color: var(--teal);
-  margin-bottom: 12px;
-}
-.sidebar-note .handwritten {
-  display: block;
-  font-size: 24px;
-}
-.sidebar-note p {
-  font-size: 11px;
-  margin-top: 18px;
 }
 .planner-paper {
   background: var(--paper);
@@ -1633,6 +1616,14 @@ textarea {
 .place-google-map-frame { display: block; width: 100%; min-width: 200px; height: 380px; border: 0; margin-top: 20px; }
 .place-catalog-map { margin-top: 25px; }
 .place-map-links { flex-wrap: wrap; }
+/* Keep the trip context visible between the three planning steps. */
+.planner-page .paper-top { font-size: 12px; letter-spacing: 0; margin-bottom: 18px; }
+.planner-paper .planner-trip-summary { display: flex; flex-wrap: wrap; gap: 4px 18px; margin-bottom: 18px; padding: 10px 12px; background: var(--sand); }
+.planner-preferences { margin-top: 20px; }
+.planner-preferences > details { padding: 12px 0 0 12px; }
+.planner-preferences summary, .manual-extras summary { cursor: pointer; font-weight: 600; }
+.manual-extras .trip-toolbar { margin-top: 10px; }
+.manual-catalog h3 { margin-bottom: 10px; }
 .manual-board, .manual-help, .manual-catalog-results { display: grid; gap: 16px; min-width: 0; }
 .manual-board > label { max-width: 520px; }
 .manual-day, .manual-catalog, .manual-help-disclosure { border-top: 1px solid var(--line); padding-block: 18px; }
@@ -2035,16 +2026,15 @@ textarea {
     flex: 1;
   }
   .planner-sidebar li button {
-    font-size: 0;
-    gap: 0;
+    width: 100%;
+    flex-direction: column;
+    gap: 5px;
+    text-align: center;
   }
   .planner-sidebar li button span {
     font-size: 11px;
     width: 34px;
     height: 34px;
-  }
-  .sidebar-note {
-    display: none;
   }
   .planner-paper {
     padding: 23px 18px;

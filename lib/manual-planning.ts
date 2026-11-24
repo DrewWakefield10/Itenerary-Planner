@@ -1,6 +1,5 @@
 import { z } from "zod/v3";
 import { destination, peso } from "./destinations";
-import { groupForBase } from "./catalog/directory";
 import { discoveryPlace, discoveryStop } from "./discovery";
 import {
   blankActivity,
@@ -41,7 +40,6 @@ export const manualDraftSchema = z.object({
   selectedDay: z.number().int().min(0).max(20),
   step: z.number().int().min(0).max(6),
   search: z.string(),
-  group: z.string(),
   category: z.string(),
   page: z.number().int().min(1),
 });
@@ -52,7 +50,6 @@ export const emptyManualDraft: ManualDraft = {
   selectedDay: 0,
   step: 0,
   search: "",
-  group: "all",
   category: "all",
   page: 1,
 };
@@ -164,6 +161,10 @@ export function misplaced(a: Activity, day: TripDay) {
       (day.transfer && !!(a.manual.placeId || a.catalogStopId)))
   );
 }
+export function catalogFitsDay(base: string | null, day: TripDay) {
+  return !day.transfer && base === day.destination;
+}
+
 export function catalogActivity(
   id: string,
   request: TripRequest,
@@ -172,13 +173,8 @@ export function catalogActivity(
   const place = discoveryPlace(id);
   if (!place?.directory)
     throw new Error("This place is no longer in the directory.");
-  if (
-    day.transfer ||
-    (place.baseSlug
-      ? place.baseSlug !== day.destination
-      : place.directory.destination_group !== groupForBase(day.destination))
-  )
-    throw new Error("Choose an ordinary day at the compatible overnight base.");
+  if (!catalogFitsDay(place.baseSlug, day))
+    throw new Error("Choose a day at the place’s destination.");
   const stop = discoveryStop(place);
   const activity = stop
     ? fromStop(stop, request, "09:00")

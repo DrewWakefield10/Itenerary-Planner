@@ -175,7 +175,7 @@ export function PlaceCard({
               Add to my trip +
             </button>
           )}
-          {place.directory && (!stop || !place.baseSlug || !onAdd || reviewExpired(place) || !addableStop(stop)) &&
+          {place.directory && place.baseSlug && (!stop || !onAdd || reviewExpired(place) || !addableStop(stop)) &&
             <Link className="text-link" href={`/planner?place=${encodeURIComponent(place.id)}`}>Add to planner draft ＋</Link>}
           <Link className="discovery-view" href={`/discover/${place.id}`}>
             View place
@@ -882,7 +882,7 @@ function PlaceDetails({
                 Add to my trip
               </button>
             )}
-            {place.directory && (!stop || !place.baseSlug || reviewExpired(place) || !addableStop(stop)) &&
+            {place.directory && place.baseSlug && (!stop || reviewExpired(place) || !addableStop(stop)) &&
               <Link className="button secondary" href={`/planner?place=${encodeURIComponent(place.id)}`}>Add to planner draft</Link>}
           </div>
           <p className="fine-print">
