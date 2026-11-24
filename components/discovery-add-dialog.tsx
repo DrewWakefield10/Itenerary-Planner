@@ -18,6 +18,7 @@ import {useAccount} from "./account-provider";
 import {allAccountTrips,loadAccountTrip,saveAccountTrip} from "@/lib/account-client";
 import type {AccountTrip} from "@/lib/account-contract";
 import {uid} from "@/lib/engine";
+import {activityCostLabel,isTimed} from "@/lib/manual-planning";
 
 export default function DiscoveryAddDialog({
   placeId,
@@ -113,6 +114,7 @@ export default function DiscoveryAddDialog({
             Choose an ordinary day in {destination(place.baseSlug)?.name}.
             Preview the time and group allowance before accepting.
           </p>
+          {place.directory && <p><Link className="button secondary small" href={`/planner?place=${encodeURIComponent(place.id)}${place.baseSlug ? `&destinations=${place.baseSlug}` : ""}`} onClick={onClose}>Add to my planner draft</Link></p>}
           {!trips.length ? (
             <div className="paper-note">
               <p>
@@ -186,7 +188,7 @@ export default function DiscoveryAddDialog({
                   <ul>
                     {trip.days[dayIndex]?.activities.map((a) => (
                       <li key={a.id}>
-                        {a.start}–{endTime(a)} · {a.name}
+                        {isTimed(a)?`${a.start}–${endTime(a)}`:"Flexible"} · {a.name}
                         {a.locked ? " · Locked" : ""}
                       </li>
                     ))}
@@ -236,7 +238,7 @@ export default function DiscoveryAddDialog({
                     minutes
                   </p>
                   <p>
-                    Additional group allowance: {peso(preview.activity.cost)}{" "}
+                    Additional group allowance: {activityCostLabel(preview.activity)}{" "}
                     <SourceIndicator
                       source={preview.activity.sources.price}
                       label="Price"

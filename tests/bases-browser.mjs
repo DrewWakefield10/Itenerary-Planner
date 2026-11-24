@@ -1,3 +1,4 @@
+import { openLegacyDemo } from "./legacy-demo-fixture.mjs";
 import {chromium, expect} from '@playwright/test';
 import assert from 'node:assert/strict';
 import {readFile} from 'node:fs/promises';
@@ -43,8 +44,7 @@ try {
     const box=await b.boundingBox(); assert.ok(box.width>=44 && box.height>=44);
   }
   await page.screenshot({path:'tests/bases-mobile.png',fullPage:true});
-  for(let i=0;i<5;i++) await page.getByRole('button',{name:'Next chapter'}).click();
-  await page.getByRole('button',{name:'Generate demo itinerary'}).click();
+  await openLegacyDemo(page);
   await expect(page.getByRole('heading',{name:'El Nido & Coron & Puerto Princesa — my island story',exact:true})).toBeVisible({timeout:15000});
   const saved=await page.evaluate(()=>JSON.parse(localStorage.getItem('lakbay:trips'))[0]);
   assert.deepEqual(saved.request.destinations,['el-nido','coron','puerto-princesa']);

@@ -51,6 +51,7 @@ export default function TripMap({
       );
     return () => {
       cancelled = true;
+      map.current?.stop();
       map.current?.remove();
       map.current = null;
     };
@@ -80,20 +81,21 @@ export default function TripMap({
         }).addTo(layer.current!);
         const popup = document.createElement("span");
         popup.textContent = a.name;
-        marker.bindPopup(popup);
+        marker.bindPopup(popup, { autoPan: false });
         marker.on("click", () => click.current(a.id));
         markers.current.set(a.id, marker);
       });
       if (points.length)
         map.current.fitBounds(L.latLngBounds(points).pad(0.25), {
           maxZoom: 14,
+          animate: false,
         });
       else {
         map.current.setView(center || destinationCenter(slug!), 12);
       }
-      map.current.invalidateSize();
+      map.current.invalidateSize({ pan: false });
       const focused=markers.current.get(selected);
-      if(focused){map.current.panTo(focused.getLatLng());focused.openPopup();}
+      if(focused){map.current.panTo(focused.getLatLng(), { animate: false });focused.openPopup();}
     });
     return () => {
       cancelled = true;
@@ -102,7 +104,7 @@ export default function TripMap({
   useEffect(() => {
     const marker = markers.current.get(selected);
     if (marker && map.current) {
-      map.current.panTo(marker.getLatLng());
+      map.current.panTo(marker.getLatLng(), { animate: false });
       marker.openPopup();
     }
   }, [selected]);

@@ -1633,6 +1633,36 @@ textarea {
 .place-google-map-frame { display: block; width: 100%; min-width: 200px; height: 380px; border: 0; margin-top: 20px; }
 .place-catalog-map { margin-top: 25px; }
 .place-map-links { flex-wrap: wrap; }
+.manual-board, .manual-help, .manual-catalog-results { display: grid; gap: 16px; min-width: 0; }
+.manual-board > label { max-width: 520px; }
+.manual-day, .manual-catalog, .manual-help-disclosure { border-top: 1px solid var(--line); padding-block: 18px; }
+.manual-day h3, .manual-catalog summary, .manual-help-disclosure summary { margin-bottom: 12px; }
+.manual-catalog summary, .manual-help-disclosure summary { cursor: pointer; font-weight: 700; }
+.manual-place { display: grid; grid-template-columns: minmax(110px, 28%) minmax(0, 1fr); gap: 15px; border: 1px solid var(--line); padding: 12px; background: var(--paper); min-width: 0; }
+.manual-place .place-photo, .manual-place .place-photo-fallback { width: 100%; height: auto; min-height: 0; aspect-ratio: 4 / 3; object-fit: cover; }
+.manual-place .place-photo-fallback { padding: 8px; font-size: 11px; overflow-wrap: anywhere; }
+.manual-place .place-photo-fallback svg { width: 26px; height: 26px; }
+.manual-place h4 { font-family: var(--serif); font-size: 1.2rem; overflow-wrap: anywhere; }
+.manual-place p { margin-block: 4px; }
+.manual-items, .manual-review { display: grid; gap: 8px; padding: 0; list-style: none; }
+.manual-items > li, .manual-review > li { border-bottom: 1px solid var(--line); padding: 10px 0; overflow-wrap: anywhere; }
+.manual-item-actions, .manual-window { display: flex; gap: 10px; align-items: center; flex-wrap: wrap; }
+.manual-item-actions label { display: flex; flex-wrap: wrap; align-items: center; gap: 5px; margin: 0; }
+.manual-item-actions select { width: auto; max-width: 100%; }
+.manual-window { margin-block: 10px; }
+.manual-budget { margin-block: 18px; }
+.manual-budget dl > div { display: flex; gap: 12px; justify-content: space-between; padding: 6px 0; }
+.manual-budget dd { text-align: right; font-weight: 700; min-width: 5ch; }
+.manual-suggestion-group { min-width: 0; border: 1px solid var(--line); padding: 10px; display: grid; gap: 10px; }
+.manual-fit { flex: 1 0 100%; overflow-wrap: anywhere; }
+.manual-fit button + button { margin-inline-start: 10px; }
+.planner-actions { flex-wrap: wrap; }
+@media (max-width: 760px) {
+  .planner-sidebar li button { justify-content: center; min-height: 44px; }
+  .manual-place { grid-template-columns: minmax(0,1fr); }
+  .manual-board button, .manual-help button { min-height: 40px; }
+  .manual-budget dl > div { flex-wrap: wrap; }
+}
 #discover-spots { scroll-margin-top: 24px; }
 .discovery-section>p { margin-bottom: 25px; max-width: 760px; }
 .discovery-interest-section { padding: 30px; border: 1px solid var(--line); background: #eee9dc66; }
@@ -1998,7 +2028,7 @@ textarea {
   }
   .planner-sidebar ol {
     display: flex;
-    gap: 9px;
+    gap: 2px;
     margin: 0;
   }
   .planner-sidebar li {

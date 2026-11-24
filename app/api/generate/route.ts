@@ -1,5 +1,12 @@
 import { requestSchema } from "@/lib/trip";
-import { createProvider } from "@/lib/provider";
+import { createProvider, rankCatalogStops } from "@/lib/provider";
+import { z } from "zod/v3";
+import { destination } from "@/lib/destinations";
+const rankingSchema = z.object({
+  slug: z.string().max(100), ids: z.array(z.string().max(100)).min(1).max(12),
+  interests: z.array(z.string().max(50)).max(9), pace: z.enum(["Chill","Balanced","Packed"]),
+  categories: z.array(z.string().max(60)).max(40),
+});
 const recent = new Map<string, number[]>();
 export async function GET() {
   return Response.json({ mode: process.env.AI_API_KEY ? "ai" : "demo" });
@@ -16,7 +23,9 @@ export async function POST(req: Request) {
       return Response.json({ error: "Request is too large." }, { status: 413 });
     const body = JSON.parse(text);
     const parsed = requestSchema.safeParse(body.request);
-    if (!parsed.success)
+    const ranking = body.action === "rank-stops" ? rankingSchema.safeParse(body) : null;
+    if (ranking && !ranking.success) return Response.json({error:"Invalid stop choices."}, {status:400});
+    if (!ranking && !parsed.success)
       return Response.json(
         { error: parsed.error.issues.map((i) => i.message).join(" ") },
         { status: 400 },
@@ -32,6 +41,19 @@ export async function POST(req: Request) {
         { status: 429 },
       );
     recent.set(key, [...times, now]);
+    if (ranking?.success) {
+      const { slug, ids, interests, pace, categories } = ranking.data;
+      const stops = destination(slug)?.stops ?? [];
+      const selected = ids.map(id => stops.find(stop => stop.id === id));
+      if (selected.some(stop => !stop) || new Set(ids).size !== ids.length)
+        return Response.json({ error: "Unknown catalog choices." }, { status: 400 });
+      return Response.json(await rankCatalogStops(selected.map(stop => ({
+        id: stop!.id, name: stop!.name, category: stop!.category, minutes: stop!.minutes,
+      })), { interests, pace, categories }, {
+        key: process.env.AI_API_KEY, url: process.env.AI_CHAT_URL, model: process.env.AI_MODEL,
+      }));
+    }
+    if (!parsed.success) return Response.json({ error: "Invalid trip request." }, { status: 400 });
     const provider = createProvider(
       body.demo
         ? {}

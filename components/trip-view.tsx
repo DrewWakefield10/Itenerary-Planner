@@ -62,6 +62,8 @@ import {
   modifyBudget,
 } from "@/lib/engine";
 import ActivityEditor from "./activity-editor";
+import { ManualItinerary, ManualBudgetFields } from "./manual-itinerary";
+import { emptyManualDraft, activityCostLabel, isTimed } from "@/lib/manual-planning";
 import WeatherPanel from "./weather-panel";
 import {
   previewRainReplacement,
@@ -99,6 +101,7 @@ export default function TripView() {
   latestTrip.current=trip;
   const [loaded, setLoaded] = useState(false);
   const [dayIndex, setDayIndex] = useState(0);
+  const [manualBrowsing,setManualBrowsing] = useState(emptyManualDraft);
   const [tab, setTab] = useState<Tab>("Itinerary");
   const [history, setHistory] = useState<Trip[]>([]);
   const [selected, setSelected] = useState("");
@@ -308,7 +311,7 @@ export default function TripView() {
         </span>
       </div>
       <span className="eyebrow">
-        {trip.mode === "demo"
+        {trip.mode === "manual" ? "YOUR ITINERARY" : trip.mode === "demo"
           ? "DEMO-GENERATED ITINERARY"
           : "AI-PERSONALIZED JOURNAL · SEED ITINERARY"}
       </span>
@@ -425,7 +428,14 @@ export default function TripView() {
           );
         })}
       </div>
-      {(tab === "Itinerary" || tab === "Map") && (
+      {tab === "Itinerary" && trip.mode === "manual" && (
+        <>
+          <WeatherPanel slug={day.destination} date={day.date}/>
+          <ManualItinerary key={trip.id} request={trip.request} draft={{...manualBrowsing,days:trip.days,selectedDay:dayIndex,budget:trip.manualBudget ?? emptyManualDraft.budget}}
+            change={draft=>{setManualBrowsing({...draft,days:[]});setDayIndex(draft.selectedDay);if(JSON.stringify(draft.days)!==JSON.stringify(trip.days))commit({...trip,days:draft.days});}}/>
+        </>
+      )}
+      {((tab === "Itinerary" && trip.mode !== "manual") || tab === "Map") && (
         <>
           <div className="day-tabs">
             {trip.days.map((d, i) => (
@@ -705,7 +715,7 @@ export default function TripView() {
                     <div>
                       <span className="activity-time">
                         <Clock size={13} />
-                        {a.start}–{endTime(a)}
+                        {isTimed(a) ? `${a.start}–${endTime(a)}` : "Flexible"}
                         {a.locked && (
                           <span className="locked-label">
                             <LockKeyhole size={12} />
@@ -716,7 +726,7 @@ export default function TripView() {
                       <h3>{a.name}</h3>
                       <p>{a.description}</p>
                       <span className="activity-meta">
-                        {a.kind} · {peso(a.cost)} for the group{" "}
+                        {a.kind} · {activityCostLabel(a)} for the group{" "}
                         <SourceIndicator
                           source={a.sources.price}
                           label="Activity price"
@@ -970,7 +980,10 @@ export default function TripView() {
           </div>
         </>
       )}
-      {tab === "Budget" && (
+      {tab === "Budget" && trip.mode === "manual" && <ManualBudgetFields
+        draft={{...emptyManualDraft,days:trip.days,budget:trip.manualBudget ?? emptyManualDraft.budget}}
+        change={draft=>commit({...trip,manualBudget:draft.budget})}/>}
+      {tab === "Budget" && trip.mode !== "manual" && (
         <Budget trip={trip} readonly={readonly} commit={commit} />
       )}{" "}
       {tab === "Essentials" && (
@@ -1050,9 +1063,9 @@ export default function TripView() {
             {d.activities.map((a) => (
               <div key={a.id}>
                 <p>
-                  {a.start}–{endTime(a)} · {a.name} · {peso(a.cost)} ·{" "}
+                  {isTimed(a)?`${a.start}–${endTime(a)}`:"Flexible"} · {a.name} · {activityCostLabel(a)} ·{" "}
                   {a.description}{" "}
-                  <SourceIndicator source={a.sources.price} label="Price" />
+                  {(!a.manual || a.manual.price === "estimate") && <SourceIndicator source={a.sources.price} label="Price" />}
                 </p>
                 <p>
                   {a.locationDetails}{" "}
@@ -1090,7 +1103,9 @@ export default function TripView() {
                 <AdvisorySources links={a.advisories} />
               </div>
             ))}
-            <p>Day allowance: {peso(dayCost(d))}</p>
+            {trip.mode==="manual" && !d.activities.length && <p>Open day</p>}
+            {d.windows?.map(window=><p key={window.id}>{window.start}–{window.end} · {window.intent==="free"?"Keep free":window.intent==="open"?"Open to suggestions":"Unplanned"}</p>)}
+            <p>{trip.mode==="manual"?"Known group subtotal":"Day allowance"}: {peso(dayCost(d))}</p>
           </section>
         ))}
         <h3>Packing checklist</h3>
@@ -1101,7 +1116,7 @@ export default function TripView() {
         ))}
         <h3>Personal notes</h3>
         <p>{trip.notes}</p>
-        <p>All prices and travel times are estimates requiring confirmation.</p>
+        <p>{trip.mode==="manual"?"Confirm estimated prices and travel times. Unknown costs are excluded from subtotals.":"All prices and travel times are estimates requiring confirmation."}</p>
         <SourceReviewNote />
       </div>
     </section>

@@ -1,5 +1,5 @@
 "use client";
-import { useEffect, useState } from "react";
+import { useEffect, useRef, useState } from "react";
 import Link from 'next/link';
 import { useRouter,useSearchParams } from "next/navigation";
 import {
@@ -8,23 +8,16 @@ import {
   Check,
   Compass,
   Sparkles,
-  MapPin,
-  Wallet,
-  Users,
-  Calendar,
-  LoaderCircle,
 } from "lucide-react";
 import {
   selectableDestinations,
   destinationImage,
   personalities,
-  peso,
   destination,
 } from "@/lib/destinations";
 import {
   defaultRequest,
   requestSchema,
-  tripSchema,
   type TripRequest,
 } from "@/lib/trip";
 import { totalBudget, recommendDestinations, travelers } from "@/lib/engine";
@@ -33,8 +26,13 @@ import { saveTrip } from "@/lib/trip-storage";
 import {placeTypes,placeTypeLabels} from "@/lib/catalog/place-types";
 import {plannerEntry,readPlannerDraft,applyPlannerPrefill,clearPlannerPrefillQuery,type PlannerPrefill} from '@/lib/planner-entry';
 import ConfirmDialog from './confirm-dialog';
+import { discoveryPlace } from "@/lib/discovery";
+import { emptyManualDraft, finishManualTrip, isTimed, layoutManualDays, manualDayWarnings, manualDraftSchema, type ManualDraft } from "@/lib/manual-planning";
+import { ManualBudgetFields, ManualBudgetSummary, ManualItinerary, type GapTarget } from "./manual-itinerary";
+import ManualSuggestions from "./manual-suggestions";
 const steps = [
   "The basics",
+  "Your itinerary",
   "Your travel style",
   "Your budget",
   "Your pace",
@@ -48,9 +46,12 @@ export default function Planner() {
   const [step, setStep] = useState(0);
   const [loaded, setLoaded] = useState(false);
   const [draftSaved,setDraftSaved] = useState(false);
-  const [mode, setMode] = useState("demo");
+  const [draft, setDraft] = useState<ManualDraft>(emptyManualDraft);
+  const [incoming, setIncoming] = useState<string | null>(null);
+  const [direct, setDirect] = useState<GapTarget | null>(null);
+  const initialized = useRef(false);
   const [error, setError] = useState("");
-  const [busy, setBusy] = useState(false);
+
   const [pendingPrefill,setPendingPrefill]=useState<PlannerPrefill|null>(null);
   const [prefillMode,setPrefillMode]=useState<'replace'|'add'>('replace');
   const [useSuggestedDays,setUseSuggestedDays]=useState(false);
@@ -61,24 +62,38 @@ export default function Planner() {
     {name: "Other overnight bases", choices: selectableDestinations.filter(d => d.province !== "Palawan")},
   ];
   useEffect(() => {
+    if(initialized.current && !["place","destinations","days"].some(key=>new URLSearchParams(query).has(key))) return;
     const rawDraft=readPlannerDraft();
     const entry=plannerEntry(rawDraft,query,readLocal('preferred-pace','Balanced'));
-    setR(entry.request);
+    const parsedDraft=manualDraftSchema.safeParse(readLocal("manual-planner",null));
+    const place=discoveryPlace(new URLSearchParams(query).get("place") || "");
+    if(!initialized.current && entry.draftValid) {
+      initialized.current=true;
+      const saved=parsedDraft.success?parsedDraft.data:emptyManualDraft;
+      setDraft({...saved, days:layoutManualDays(entry.request,saved.days)});
+      setStep(place?.directory?1:saved.step);
+    }
+    if(place?.directory){setIncoming(place.id);setStep(1);}
+    setR(rawDraft===null?{...entry.request,interests:[]}:entry.request);
     setPendingPrefill(entry.draftValid?entry.proposal:null);
     setPrefillMode('replace');setUseSuggestedDays(false);setError('');
     setInvalidDraft(!entry.draftValid);
     setLoaded(entry.draftValid);
     if(rawDraft===null&&entry.draftValid&&(new URLSearchParams(query).has('destinations')||new URLSearchParams(query).has('days'))&&writeLocal('draft',entry.request))clearPlannerPrefillQuery(query);
   }, [query]);
-  useEffect(()=>{
-    fetch("/api/generate")
-      .then((r) => r.json() as Promise<{ mode: string }>)
-      .then((x) => setMode(x.mode))
-      .catch(() => setMode("demo"));
-  }, []);
   useEffect(() => {
-    if (loaded&&!pendingPrefill&&!invalidDraft) setDraftSaved(writeLocal("draft", r));
-  }, [r, loaded,pendingPrefill,invalidDraft]);
+    if (loaded && !pendingPrefill && !invalidDraft) {
+      const choices = requestSchema.safeParse(r);
+      const saved = writeLocal("manual-planner", {...draft,step});
+      setDraftSaved(choices.success && writeLocal("draft", choices.data) && saved);
+    }
+  }, [r, draft, step, loaded, pendingPrefill, invalidDraft]);
+  function closeIncoming() {
+    setIncoming(null);
+    const params=new URLSearchParams(window.location.search);
+    params.delete("place");
+    window.history.replaceState(null,"","/planner"+(params.size?"?"+params:""));
+  }
   function consumePrefill(){
     clearPlannerPrefillQuery(query);
   }
@@ -88,85 +103,39 @@ export default function Planner() {
     try{
       const next=applyPlannerPrefill(r,pendingPrefill,prefillMode,useSuggestedDays);
       if(!writeLocal('draft',next)){setError('Your draft could not be saved. Your previous choices have been kept.');return;}
-      setR(next);setPendingPrefill(null);setError('');consumePrefill();
+      setR(next);setDraft(current=>({...current,days:layoutManualDays(next,current.days)}));setPendingPrefill(null);setError('');consumePrefill();
     }catch(e){setError(e instanceof Error?('issues' in e?(e as {issues:{message:string}[]}).issues.map(i=>i.message).join(' '):e.message):'These choices do not fit the current trip. Check the number of bases and days.');}
   }
   function change<K extends keyof TripRequest>(key: K, value: TripRequest[K]) {
     setR({ ...r, [key]: value });
     setError("");
   }
-  function next() {
-    if (step === 0 && hasLegacyBase) {
-      setError("Choose an explicit overnight base to replace the legacy Palawan selection for this new trip.");
-      return;
-    }
-    const parsed = requestSchema.safeParse(r);
-    if (step === 0 && !parsed.success) {
-      const e = parsed.error.issues.filter((i) =>
-        [
-          "departure",
-          "destinations",
-          "startDate",
-          "days",
-          "adults",
-          "children",
-        ].includes(String(i.path[0])),
-      );
-      if (e.length) {
-        setError(e.map((x) => x.message).join(" "));
+  function goTo(target: number) {
+    if (target > 0 && (step === 0 || !draft.days.length)) {
+      if (hasLegacyBase) {
+        setError("Choose an explicit overnight base to replace the legacy Palawan selection for this new trip.");
         return;
       }
+      const parsed = requestSchema.safeParse(r);
+      if (!parsed.success) { setError(parsed.error.issues.map(issue=>issue.message).join(" ")); return; }
+      setDraft({...draft,days:layoutManualDays(parsed.data,draft.days)});
     }
-    if (
-      step === 2 &&
-      (!Number.isInteger(r.budget) || r.budget < 500 || r.budget > 2000000)
-    ) {
-      setError("Choose a budget from ₱500 to ₱2,000,000.");
-      return;
-    }
-    setStep(step + 1);
+    setStep(target);
+    setDirect(null);
     setError("");
-    window.scrollTo({ top: 0, behavior: "smooth" });
+    window.scrollTo({top:0});
+    requestAnimationFrame(()=>document.getElementById("planner-chapter")?.focus({preventScroll:true}));
   }
-  async function generate(demo = false) {
-    if (hasLegacyBase) {
-      setStep(0);
-      setError("Choose an explicit overnight base to replace the legacy Palawan selection for this new trip.");
-      return;
-    }
-    const parsed = requestSchema.safeParse(r);
-    if (!parsed.success) {
-      setError(parsed.error.issues.map((i) => i.message).join(" "));
-      return;
-    }
-    setBusy(true);
-    setError("");
+  function finish() {
     try {
-      const res = await fetch("/api/generate", {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ request: r, demo }),
-        signal: AbortSignal.timeout(35000),
-      });
-      const data = (await res.json()) as { error?: string; trip: unknown };
-      if (!res.ok) throw new Error(data.error || "Generation failed.");
-      const trip = tripSchema.parse(data.trip);
-      if (!saveTrip(trip))
-        throw new Error(
-          "This browser could not save the itinerary. Enable local storage and retry.",
-        );
+      const trip = finishManualTrip(r,draft);
+      if (!saveTrip(trip)) throw new Error("This browser could not save the itinerary. Your planner draft is still open.");
       router.push(`/trips/${trip.id}`);
-    } catch (e) {
-      setError(
-        e instanceof Error
-          ? e.message
-          : "Generation failed. Your draft is saved.",
-      );
-    } finally {
-      setBusy(false);
+    } catch (error) {
+      setError(error instanceof Error ? error.message : "Could not finish this draft.");
     }
   }
-  if(invalidDraft)return <section className="page section narrow"><h1 className="page-title">Your saved <em>planner draft.</em></h1><div className="paper-note" role="alert"><p>The saved draft could not be read or validated. It has not been overwritten. Saved itineraries are separate and remain in My Trips.</p><button className="button" onClick={()=>{const fresh=plannerEntry(null,query,readLocal('preferred-pace','Balanced')).request;if(writeLocal('draft',fresh)){setR(fresh);setInvalidDraft(false);setLoaded(true);consumePrefill();}else setError('Storage is unavailable. The existing draft has been kept.');}}>Start a new planner draft</button>{error&&<p>{error}</p>}<Link href="/my-trips" className="text-link">Open My Trips</Link></div></section>;
+  if(invalidDraft)return <section className="page section narrow"><h1 className="page-title">Your saved <em>planner draft.</em></h1><div className="paper-note" role="alert"><p>The saved draft could not be read or validated. It has not been overwritten. Saved itineraries are separate and remain in My Trips.</p><button className="button" onClick={()=>{const fresh=plannerEntry(null,query,readLocal('preferred-pace','Balanced')).request;if(writeLocal('draft',fresh)){setR(fresh);setStep(0);setDraft({...emptyManualDraft,days:layoutManualDays(fresh,[])});setInvalidDraft(false);setLoaded(true);consumePrefill();}else setError('Storage is unavailable. The existing draft has been kept.');}}>Start a new planner draft</button>{error&&<p>{error}</p>}<Link href="/my-trips" className="text-link">Open My Trips</Link></div></section>;
   return (
     <section className="page section planner-page">
       {pendingPrefill&&<ConfirmDialog title="Use these choices for your draft?" action="Apply to planner draft" cancelLabel="Keep my draft" onClose={keepDraft} onConfirm={acceptPrefill}>
@@ -189,12 +158,12 @@ export default function Planner() {
           <ol>
             {steps.map((s, i) => (
               <li
-                className={i === step ? "current" : i < step ? "complete" : ""}
+                className={i === step ? "current" : i === 0 && step > 0 ? "complete" : ""}
                 key={s}
               >
-                <button disabled={i > step || busy} onClick={() => setStep(i)}>
+                <button disabled={!loaded || !!pendingPrefill} aria-current={i===step?"step":undefined} onClick={() => goTo(i)}>
                   <span>
-                    {i < step ? (
+                    {i === 0 && step > 0 ? (
                       <Check size={15} />
                     ) : (
                       String(i + 1).padStart(2, "0")
@@ -213,17 +182,15 @@ export default function Planner() {
               with a little curiosity.
             </span>
             <p>
-              {mode === "demo"
-                ? "Demo mode is ready. Your plan uses curated places and estimated allowances."
-                : "AI can choose matching catalog places; the planner checks destinations, schedules and estimates."}
+              Plan each day yourself. Ask for suggestions when you want help with open time.
             </p>
           </div>
         </aside>
         <div className="planner-paper">
           <div className="paper-top">
-            <span>CHAPTER {String(step + 1).padStart(2, "0")} OF 06</span>
+            <span id="planner-chapter" tabIndex={-1}>CHAPTER {step + 1} OF 7 · {steps[step]}</span>
             <span>
-              {loaded ? draftSaved ? "Draft saved on this browser" : "Draft could not be saved" : "Opening your journal…"}
+              {loaded ? draftSaved ? "Draft saved on this browser" : "Complete valid trip basics to save these settings" : "Opening your journal…"}
             </span>
           </div>
           {step === 0 && (
@@ -339,13 +306,11 @@ export default function Planner() {
                 </div>
               </section>)}
               <p className="fine-print">
-                Arrival and departure buffers are included. A full connection
-                day is reserved between destinations; transport must be verified
-                separately.
+                A connection day is reserved between bases. Add your real arrival, departure and transfer arrangements.
               </p>
             </>
           )}
-          {step === 1 && (
+          {step === 2 && (
             <>
               <h2>
                 What makes you <em>feel alive?</em>
@@ -391,123 +356,19 @@ export default function Planner() {
               </details>
             </>
           )}
-          {step === 2 && (
-            <>
-              <h2>
-                Big memories.
-                <br />
-                <em>Your kind of budget.</em>
-              </h2>
-              <p>
-                Every amount is in Philippine pesos. We’ll keep the arithmetic
-                honest.
-              </p>
-              <div className="chips">
-                {(
-                  [
-                    "Backpacker",
-                    "Budget",
-                    "Comfortable",
-                    "Premium",
-                    "Custom",
-                  ] as const
-                ).map((t) => (
-                  <button
-                    className={r.tier === t ? "selected" : ""}
-                    key={t}
-                    onClick={() => {
-                      const amounts = {
-                        Backpacker: 1300,
-                        Budget: 1800,
-                        Comfortable: 3000,
-                        Premium: 6500,
-                        Custom: 0,
-                      };
-                      setR({
-                        ...r,
-                        tier: t,
-                        budget:
-                          t === "Custom"
-                            ? r.budget
-                            : amounts[t] *
-                              r.days *
-                              (r.budgetMode === "total" ? travelers(r) : 1),
-                      });
-                    }}
-                  >
-                    {t}
-                  </button>
-                ))}
-              </div>
-              <div className="form-grid">
-                <label>
-                  Budget amount (₱)
-                  <input
-                    type="number"
-                    min={500}
-                    max={2000000}
-                    step={1}
-                    value={r.budget}
-                    onChange={(e) => change("budget", Number(e.target.value))}
-                  />
-                </label>
-                <label>
-                  This amount is
-                  <select
-                    value={r.budgetMode}
-                    onChange={(e) =>
-                      change(
-                        "budgetMode",
-                        e.target.value as TripRequest["budgetMode"],
-                      )
-                    }
-                  >
-                    <option value="total">For the whole group</option>
-                    <option value="person">Per person</option>
-                  </select>
-                </label>
-                <label>
-                  Emergency reserve (%)
-                  <input
-                    type="number"
-                    min={0}
-                    max={40}
-                    value={r.reserve}
-                    onChange={(e) => change("reserve", Number(e.target.value))}
-                  />
-                </label>
-              </div>
-              <label className="check-label">
-                <input
-                  type="checkbox"
-                  checked={r.flights}
-                  onChange={(e) => change("flights", e.target.checked)}
-                />
-                Include a provisional return-flight allowance (₱7,000/person,
-                not a quote)
-              </label>
-              <label className="check-label">
-                <input
-                  type="checkbox"
-                  checked={r.accommodation}
-                  onChange={(e) => change("accommodation", e.target.checked)}
-                />
-                Include accommodation for {r.days - 1} nights
-              </label>
-              <div className="budget-ticket">
-                <Wallet size={24} />
-                <div>
-                  <small>YOUR GROUP’S PLANNING LIMIT</small>
-                  <strong>{peso(totalBudget(r))}</strong>
-                </div>
-                <span>
-                  including{" "}
-                  {peso(Math.round((totalBudget(r) * r.reserve) / 100))} reserve
-                </span>
-              </div>
-            </>
-          )}
-          {step === 3 && (
+          {step === 1 && <>
+            <h2>Your <em>itinerary.</em></h2>
+            <p>Fill in the days you want to plan. Leave the rest open.</p>
+            <ManualItinerary request={r} draft={draft} change={setDraft} placeId={pendingPrefill?null:incoming} closeIncoming={closeIncoming} suggest={setDirect}/>
+            {direct && <ConfirmDialog title="Suggestions for this gap" cancelLabel="Close" action="Done" onClose={()=>setDirect(null)} onConfirm={()=>setDirect(null)}>
+              <ManualSuggestions request={r} draft={draft} change={setDraft} direct={direct} editItinerary={()=>setDirect(null)}/>
+            </ConfirmDialog>}
+          </>}
+          {step === 3 && <>
+            <h2>Your <em>budget.</em></h2>
+            <ManualBudgetFields draft={draft} change={setDraft}/>
+          </>}
+          {step === 4 && (
             <>
               <h2>
                 Leave room to <em>breathe.</em>
@@ -545,7 +406,7 @@ export default function Planner() {
               <p className="fine-print">Opt in to reserve entire days for outlying visits. Routes, guides, permits and availability need confirmation; no booking is made.</p>
             </>
           )}
-          {step === 4 && (
+          {step === 5 && (
             <>
               <h2>
                 It’s the little things
@@ -585,122 +446,39 @@ export default function Planner() {
                 ))}
               </div>
               <p className="fine-print">
-                For exact booked times, add and lock the reservation in your
-                generated itinerary. Free-text reservations are retained as
-                notes, not automatically scheduled.
+                Add exact booked times as fixed reservations in Your itinerary. Free-text reservations are saved as notes.
               </p>
             </>
           )}
-          {step === 5 && (
-            <>
-              <h2>
-                Your next chapter
-                <br />
-                <em>is almost here.</em>
-              </h2>
-              <div className="review-list">
-                <div>
-                  <MapPin />
-                  <span>
-                    YOUR PLACES
-                    <strong>
-                      {r.destinations
-                        .map((s) => destination(s)?.name)
-                        .join(" → ")}
-                    </strong>
-                  </span>
-                </div>
-                <div>
-                  <Calendar />
-                  <span>
-                    YOUR TIME
-                    <strong>
-                      {r.days} days from {r.startDate}
-                    </strong>
-                  </span>
-                </div>
-                <div>
-                  <Users />
-                  <span>
-                    YOUR PEOPLE
-                    <strong>
-                      {r.adults} adults · {r.children} children · {r.pace} pace
-                    </strong>
-                  </span>
-                </div>
-                <div>
-                  <Wallet />
-                  <span>
-                    YOUR BUDGET
-                    <strong>
-                      {peso(totalBudget(r))} total · {r.reserve}% reserve
-                    </strong>
-                  </span>
-                </div>
-              </div>
-              <div className="notice">
-                {mode === "demo"
-                  ? "Demo generation: matching catalog places, varied choices, and estimated schedules and costs. No live AI or bookings are connected."
-                  : "AI selects from matching catalog places and personalizes journal text. The planner validates selections; schedules and costs remain estimates."}
-              </div>
-            </>
-          )}
+          {step === 6 && <>
+            <h2>Ready to <em>wander.</em></h2>
+            <p>{r.days} days from {r.startDate} · {travelers(r)} travelers</p>
+            {draft.days.slice(r.days).some(d=>d.activities.length || d.windows?.length) && <p className="notice">Review the days outside your current duration in Your itinerary before finishing.</p>}
+            <ol className="manual-review">
+              {draft.days.slice(0,r.days).map(d=><li key={d.id}>
+                <strong>{d.title} · {d.date}</strong>
+                <p>{d.activities.length?d.activities.map(a=>`${isTimed(a)?a.start+" ":""}${a.name}${a.locked?" (fixed)":""}`).join(" · "):"Open day"}</p>
+                {manualDayWarnings(d,r).map(warning=><p className="fine-print" key={warning}>{warning}</p>)}
+              </li>)}
+            </ol>
+            <button className="text-link" onClick={()=>goTo(1)}>Edit your itinerary</button>
+            <ManualBudgetSummary draft={draft}/>
+            <details className="manual-help-disclosure"><summary>Suggest additions</summary>
+              <ManualSuggestions request={r} draft={draft} change={setDraft} editItinerary={()=>goTo(1)}/>
+            </details>
+          </>}
           {error && (
             <div className="notice error" role="alert">
               {error}
             </div>
           )}
           <div className="planner-actions">
-            <button
-              className="text-link plain-button"
-              disabled={step === 0 || busy}
-              onClick={() => {
-                setStep(step - 1);
-                setError("");
-              }}
-            >
-              <ArrowLeft size={17} />
-              Back
-            </button>
-            {step < 5 ? (
-              <button className="button" disabled={!loaded} onClick={next}>
-                Next chapter <ArrowRight size={17} />
-              </button>
-            ) : (
-              <button
-                className="button"
-                disabled={busy}
-                onClick={() => generate()}
-              >
-                {busy ? (
-                  <LoaderCircle className="spin" size={18} />
-                ) : (
-                  <Sparkles size={18} />
-                )}{" "}
-                {busy
-                  ? "Building your itinerary…"
-                  : mode === "demo"
-                    ? "Generate demo itinerary"
-                    : "Generate my itinerary"}
-              </button>
-            )}
+            <button className="text-link plain-button" disabled={step===0} onClick={()=>goTo(step-1)}><ArrowLeft size={17}/> Back</button>
+            {step===1 && <button className="button secondary" onClick={()=>goTo(6)}>Go to Ready to wander</button>}
+            {step<6
+              ? <button className="button" disabled={!loaded || !!pendingPrefill} onClick={()=>goTo(step+1)}>Next chapter <ArrowRight size={17}/></button>
+              : <button className="button" disabled={!loaded || !!pendingPrefill} onClick={finish}>Finish my itinerary <ArrowRight size={17}/></button>}
           </div>
-          {busy && (
-            <p role="status" className="fine-print">
-              {mode === "demo"
-                ? "Selecting nearby stops and checking your budget."
-                : "Requesting journal personalization and validating the response."}
-            </p>
-          )}
-          {error && step === 5 && (
-            <button
-              className="text-link plain-button"
-              disabled={busy}
-              onClick={() => generate(true)}
-            >
-              Try catalog demo mode instead
-            </button>
-          )}
         </div>
       </div>
     </section>

@@ -3,6 +3,7 @@ import { activitySchema, tripSchema, type Activity, type Trip } from "./trip";
 import { discoveryPlace, discoveryStop, reviewExpired } from "./discovery";
 import {destination} from "./destinations";
 import {activityKeys,conflictsWithUsed,addableStop} from "./catalog/planning";
+import { catalogActivity, isTimed } from "./manual-planning";
 
 export function discoveryActivity(
   placeId: string,
@@ -44,7 +45,12 @@ export function previewDiscoveryAddition(
     throw new Error(
       "This stop or an overlapping package component is already in this trip. Edit it in your trip instead of adding a duplicate.",
     );
-  const activity = discoveryActivity(placeId, trip, start);
+  let activity = discoveryActivity(placeId, trip, start);
+  if (trip.mode === "manual" && place.directory) {
+    activity = catalogActivity(placeId,trip.request,day);
+    activity.start = start;
+    activity.manual!.flexible = false;
+  }
   if(activity.visitMode!=="local" && day.activities.length)throw new Error("An excursion or package needs a separate empty day. Edit this day first; no existing activities will be replaced.");
   if(day.activities.some(a=>a.visitMode!=="local"))throw new Error("This day already reserves a full excursion block. Choose another day.");
   const begins = minutes(start),
@@ -52,7 +58,10 @@ export function previewDiscoveryAddition(
   if (ends > 24 * 60) throw new Error("The visit must finish before midnight.");
   if (day.activities.length >= 30)
     throw new Error("This day already has the maximum number of activities.");
+  if(day.windows?.some(window=>window.intent==="free" && begins<minutes(window.end) && ends>minutes(window.start)))
+    throw new Error("This visit overlaps time marked Keep free. Choose another time.");
   for (const a of day.activities) {
+    if (!isTimed(a)) continue;
     const aStart = minutes(a.start),
       aEnd = aStart + a.duration;
     if (begins < aEnd + 45 && ends + 45 > aStart)
@@ -76,7 +85,8 @@ export function previewDiscoveryAddition(
   next.days[dayIndex].activities = [
     ...next.days[dayIndex].activities,
     activity,
-  ].sort((a, b) => minutes(a.start) - minutes(b.start));
+  ];
+  if(trip.mode!=="manual") next.days[dayIndex].activities.sort((a,b)=>minutes(a.start)-minutes(b.start));
   return {
     original: JSON.stringify(trip),
     placeId,
@@ -84,7 +94,7 @@ export function previewDiscoveryAddition(
     start,
     activity,
     next: tripSchema.parse(next),
-    warnings: validateDay(next.days[dayIndex]),
+    warnings: validateDay({...next.days[dayIndex],activities:next.days[dayIndex].activities.filter(isTimed).sort((a,b)=>a.start.localeCompare(b.start))}),
   };
 }
 export type DiscoveryAddition = ReturnType<typeof previewDiscoveryAddition>;

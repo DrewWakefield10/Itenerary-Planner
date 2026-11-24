@@ -1,3 +1,4 @@
+import { openLegacyDemo } from "./legacy-demo-fixture.mjs";
 import {chromium,expect} from '@playwright/test';
 import assert from 'node:assert/strict';
 import {readFile} from 'node:fs/promises';
@@ -6,7 +7,7 @@ try{
  const page=await browser.newPage({viewport:{width:1280,height:900}});
  const errors=[];page.on('pageerror',e=>errors.push(e.message));
  await page.goto('http://127.0.0.1:5173/destinations/baguio');
- const checked=page.getByRole('link',{name:'Burnham Park location context: Checked Oct. 2026 — City Government of Baguio — VISITA',exact:true});
+ const checked=page.getByRole('link',{name:'Destination location context: Checked Oct. 2026 — City Government of Baguio — VISITA',exact:true});
  await expect(checked).toHaveAttribute('href','https://visita.baguio.gov.ph/');
  await expect(page.locator('.detail-facts .source-estimate')).toHaveCount(2);
  await page.setViewportSize({width:390,height:844});
@@ -15,8 +16,7 @@ try{
  await page.screenshot({path:'tests/sources-destination-mobile.png',fullPage:true});
  await page.goto('http://127.0.0.1:5173/planner?destinations=baguio&days=3');
  await expect(page.getByLabel('Number of days')).toHaveValue('3');
- for(let i=0;i<5;i++)await page.getByRole('button',{name:'Next chapter'}).click();
- await page.getByRole('button',{name:'Generate demo itinerary'}).click();
+ await openLegacyDemo(page,{must:"Burnham Park",randomSeed:"legacy-sources"});
  await expect(page.getByRole('heading',{name:'Baguio — my island story'})).toBeVisible();
  const url=page.url();
  let park=page.locator('.activity-card').filter({has:page.getByRole('heading',{name:'Burnham Park',exact:true})});

@@ -1,3 +1,4 @@
+import { openLegacyDemo } from "./legacy-demo-fixture.mjs";
 import {chromium,expect} from '@playwright/test';
 import assert from 'node:assert/strict';
 const browser=await chromium.launch({channel:'chrome',headless:true});
@@ -6,8 +7,7 @@ const errors=[];page.on('pageerror',e=>errors.push(e.message));
 try{
 await page.goto('http://127.0.0.1:5173/planner?destinations=el-nido&days=5');
 await expect(page.getByLabel('Number of days')).toHaveValue('5');
-for(let i=0;i<5;i++)await page.getByRole('button',{name:'Next chapter'}).click();
-await page.getByRole('button',{name:'Generate demo itinerary'}).click();
+await openLegacyDemo(page);
 await expect(page.getByRole('heading',{name:'El Nido — my island story'})).toBeVisible();
 const savedURL=page.url();
 const downloadEvent=page.waitForEvent('download');

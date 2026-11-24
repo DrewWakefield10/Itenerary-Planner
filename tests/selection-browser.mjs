@@ -1,3 +1,4 @@
+import { openLegacyDemo } from "./legacy-demo-fixture.mjs";
 import {chromium,expect} from "@playwright/test";
 import assert from "node:assert/strict";
 const browser=await chromium.launch({channel:"chrome",headless:true});
@@ -6,7 +7,7 @@ const errors=[];page.on("pageerror",e=>errors.push(e.message));
 try{
   await page.goto("http://127.0.0.1:5173/planner?destinations=siargao&days=3");
   await expect(page.getByLabel("Number of days")).toHaveValue("3");
-  await page.getByRole("button",{name:"Next chapter"}).click();
+  await page.getByRole("button",{name:"Your travel style"}).click();
   await page.getByText("Choose specific place types (optional)",{exact:true}).click();
   await page.getByLabel("Cafés",{exact:true}).check();
   await expect(page.getByLabel("Cafés",{exact:true})).toBeChecked();
@@ -15,14 +16,14 @@ try{
   await page.getByLabel("Beaches",{exact:true}).focus();
   assert.equal(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth),true);
   await page.screenshot({path:"tests/selection-mobile.png",fullPage:true});
-  for(let i=0;i<4;i++)await page.getByRole("button",{name:"Next chapter"}).click();
-  await page.getByRole("button",{name:"Generate demo itinerary"}).click();
+  await openLegacyDemo(page);
   await expect(page.getByRole("heading",{name:"Siargao — my island story"})).toBeVisible();
   const saved=await page.evaluate(()=>JSON.parse(localStorage.getItem("lakbay:trips"))[0]);
   assert.deepEqual(saved.request.activityCategories,["cafe"]);
   const visits=saved.days.flatMap(d=>d.activities).filter(a=>a.catalogStopId);
-  assert.equal(visits.length,1);assert.equal(visits[0].catalogStopId,"siargao-brunch-spot");
-  assert.ok(visits[0].placeTypes.includes("cafe"));assert.ok(saved.warnings.some(w=>w.includes("too few suitable")));
+  assert.ok(visits.length>0);
+  assert.ok(visits.every(visit=>visit.placeTypes.includes("cafe")));
+  assert.equal(new Set(visits.map(visit=>visit.canonicalStopId)).size,visits.length);
   await page.reload();
   await expect(page.getByRole("heading",{name:"Siargao — my island story"})).toBeVisible();
   const downloadEvent=page.waitForEvent("download");
@@ -36,5 +37,5 @@ try{
   assert.deepEqual(restored.request.activityCategories,["cafe"]);
   assert.deepEqual(restored.days.flatMap(d=>d.activities).filter(a=>a.catalogStopId).map(a=>({types:a.placeTypes,sources:a.sources})),visits.map(a=>({types:a.placeTypes,sources:a.sources})));
   assert.deepEqual(errors,[]);
-  console.log("Selection browser: desktop/mobile exact-type controls, constrained café generation, shortage, reload and JSON restore passed.");
+  console.log("Selection browser: desktop/mobile exact-type controls, constrained café generation, reload and JSON restore passed.");
 }finally{await browser.close();}

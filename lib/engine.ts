@@ -21,6 +21,7 @@ export const clock = (n: number) =>
   `${String(Math.floor(n / 60)).padStart(2, "0")}:${String(n % 60).padStart(2, "0")}`;
 export const endTime = (a: Activity) => clock(minutes(a.start) + a.duration);
 export const travelers = (r: TripRequest) => r.adults + r.children;
+export const localTransportAllowance = (group: number, economy = false) => (economy ? 200 : 400) * group;
 export const totalBudget = (r: TripRequest) =>
   r.budget * (r.budgetMode === "person" ? travelers(r) : 1);
 export function dateOffset(date: string, n: number) {
@@ -246,7 +247,7 @@ export function makeDay(
   return {id:uid(),date,destination:slug,title:arrival?"Arrive, settle in, take it slow":departure?"One last look, then onward":`${d.name}, at your own pace`,transfer:false,
     activities:activities.sort((a,b)=>minutes(a.start)-minutes(b.start)),
     stay:r.accommodation&&!departure?(economy?800:r.tier==="Premium"?4500:2000)*Math.ceil(n/2):0,
-    food:Math.max(0,(economy?350:550)*n-activities.filter(a=>a.kind==="Food").reduce((sum,a)=>sum+a.cost,0)),transport:(economy?200:400)*n};
+    food:Math.max(0,(economy?350:550)*n-activities.filter(a=>a.kind==="Food").reduce((sum,a)=>sum+a.cost,0)),transport:localTransportAllowance(n,economy)};
 }
 export function hasSelectionShortage(days:TripDay[],r:TripRequest){
   return days.some((d,index)=>{
@@ -280,6 +281,23 @@ const checklist = [
   "Cash and payment backup",
   "Verified local emergency contacts",
 ];
+export function destinationSnapshots(slugs: string[]): Trip["destinationInfo"] {
+  return slugs.map((slug) => {
+    const d = destination(slug)!;
+    return structuredClone({
+      slug: d.slug,
+      name: d.name,
+      locationDetails: d.locationDetails,
+      transport: d.transport,
+      accessibility: d.accessibility,
+      lat: d.lat,
+      lng: d.lng,
+      daily: d.daily,
+      sources: d.sources,
+      advisories: d.advisories,
+    });
+  });
+}
 export function generateDemo(input: TripRequest): Trip {
   const r = requestSchema.parse(input);
   const k = r.destinations.length;
@@ -353,21 +371,7 @@ export function generateDemo(input: TripRequest): Trip {
     mode: "demo",
     request: r,
     days,
-    destinationInfo: r.destinations.map((slug) => {
-      const d = destination(slug)!;
-      return structuredClone({
-        slug: d.slug,
-        name: d.name,
-        locationDetails: d.locationDetails,
-        transport: d.transport,
-        accessibility: d.accessibility,
-        lat: d.lat,
-        lng: d.lng,
-        daily: d.daily,
-        sources: d.sources,
-        advisories: d.advisories,
-      });
-    }),
+    destinationInfo: destinationSnapshots(r.destinations),
     notes: "",
     checklist: checklist.map((text) => ({ id: uid(), text, done: false })),
     actual: {},
@@ -380,7 +384,7 @@ export function dayCost(day: TripDay) {
     day.stay +
     day.food +
     day.transport +
-    day.activities.reduce((sum, a) => sum + a.cost, 0)
+    day.activities.reduce((sum, a) => sum + (a.manual?.price === "unknown" ? 0 : a.cost), 0)
   );
 }
 export function budgetSummary(trip: Trip) {
@@ -392,11 +396,11 @@ export function budgetSummary(trip: Trip) {
     categories.Accommodation += d.stay;
     categories.Food += d.food;
     categories.Transportation += d.transport;
-    for (const a of d.activities) categories[a.category] += a.cost;
+    for (const a of d.activities) if(a.manual?.price !== "unknown") categories[a.category] += a.cost;
   }
   const planned = Object.values(categories).reduce((a, b) => a + b, 0);
-  const budget = totalBudget(trip.request);
-  const reserve = Math.round((budget * trip.request.reserve) / 100);
+  const budget = trip.mode === "manual" ? trip.manualBudget?.limit ?? planned : totalBudget(trip.request);
+  const reserve = trip.mode === "manual" ? 0 : Math.round((budget * trip.request.reserve) / 100);
   const total = planned + reserve;
   return {
     categories,

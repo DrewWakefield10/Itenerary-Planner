@@ -1,3 +1,4 @@
+import { openLegacyDemo } from "./legacy-demo-fixture.mjs";
 import { chromium, expect } from "@playwright/test";
 import assert from "node:assert/strict";
 
@@ -27,9 +28,7 @@ try {
   });
   await page.goto("http://127.0.0.1:5173/planner?destinations=baguio&days=3");
   await expect(page.getByLabel("Number of days")).toHaveValue("3");
-  for (let i = 0; i < 5; i++)
-    await page.getByRole("button", { name: "Next chapter" }).click();
-  await page.getByRole("button", { name: "Generate demo itinerary" }).click();
+  await openLegacyDemo(page, {must:"Burnham Park", startDate:"2026-12-10", randomSeed:"legacy-weather"});
   await expect(
     page.getByRole("heading", { name: "Baguio — my island story" }),
   ).toBeVisible();
@@ -184,6 +183,7 @@ try {
     "http://127.0.0.1:5173/api/generate",
     {
       data: {
+        demo: true,
         request: {
           ...accepted.request,
           destinations: ["cebu"],

@@ -70,7 +70,30 @@ export const expenseCategories = [
   "Miscellaneous",
 ] as const;
 const money = z.number().int().min(0).max(10000000);
+const time = z.string().regex(/^([01]\d|2[0-3]):[0-5]\d$/);
+export const planningWindowSchema = z.object({
+  id: z.string().max(100),
+  start: time,
+  end: time,
+  intent: z.enum(["free", "open", "unplanned"]),
+}).refine(window => window.start < window.end, "Choose a window with an end after its start.");
+export const manualBudgetSchema = z.object({
+  limit: money.nullable(),
+  additional: money.nullable(),
+});
+export const manualActivitySchema = z.object({
+  flexible: z.boolean(),
+  durationUnknown: z.boolean(),
+  price: z.enum(["unknown", "estimate", "confirmed"]),
+  placeId: z.string().max(100).optional(),
+  base: z.string().max(100).optional(),
+  suggestion: z.boolean().optional(),
+  entryUnknown: z.boolean().optional(),
+  groupSizeAtEstimate: z.number().int().min(1).max(30).optional(),
+  reviewedDate: date.optional(),
+});
 export const activitySchema = z.object({
+  manual: manualActivitySchema.optional(),
   placeTypes:z.array(placeTypeSchema).max(placeTypes.length).default([]),
   geography:geographySchema.nullable().default(null),
   id: z.string().min(1).max(100),
@@ -117,6 +140,7 @@ export const activitySchema = z.object({
 });
 export type Activity = z.infer<typeof activitySchema>;
 export const daySchema = z.object({
+  windows: z.array(planningWindowSchema).max(20).optional(),
   id: z.string(),
   date,
   destination: z
@@ -160,7 +184,8 @@ export const tripSchema = z
       .regex(/^[a-zA-Z0-9_-]+$/),
     title: z.string().min(1).max(160),
     createdAt: z.string(),
-    mode: z.enum(["demo", "ai"]),
+    mode: z.enum(["demo", "ai", "manual"]),
+    manualBudget: manualBudgetSchema.optional(),
     request: requestSchema,
     days: z.array(daySchema).min(2).max(21),
     destinationInfo: z.array(destinationInfoSchema).max(3).default([]),

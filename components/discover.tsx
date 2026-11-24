@@ -175,6 +175,8 @@ export function PlaceCard({
               Add to my trip +
             </button>
           )}
+          {place.directory && (!stop || !place.baseSlug || !onAdd || reviewExpired(place) || !addableStop(stop)) &&
+            <Link className="text-link" href={`/planner?place=${encodeURIComponent(place.id)}`}>Add to planner draft ＋</Link>}
           <Link className="discovery-view" href={`/discover/${place.id}`}>
             View place
           </Link>
@@ -235,6 +237,7 @@ export default function Discover({ placeId }: { placeId?: string }) {
   }, [destinationSelection, placeId]);
   useEffect(() => {
     const restore = () => {
+      if (window.location.pathname !== "/discover") return;
       const params = new URLSearchParams(window.location.search);
       const group =
         params.get("destination") || groupForBase(params.get("base"));
@@ -258,7 +261,7 @@ export default function Discover({ placeId }: { placeId?: string }) {
     return () => window.removeEventListener("popstate", restore);
   }, []);
   useEffect(() => {
-    if (!filtersReady || placeId) return;
+    if (!filtersReady || placeId || window.location.pathname !== "/discover") return;
     const params = new URLSearchParams();
     if (area !== "all") params.set("destination", area);
     if (category !== "all") params.set("category", category);
@@ -266,11 +269,9 @@ export default function Discover({ placeId }: { placeId?: string }) {
     if (foodType !== "all") params.set("food", foodType);
     if (search) params.set("q", search);
     if (page > 1) params.set("page", String(page));
-    window.history.replaceState(
-      null,
-      "",
-      `/discover${params.size ? `?${params}` : ""}`,
-    );
+    const url = `/discover${params.size ? `?${params}` : ""}`;
+    if (window.location.pathname + window.location.search !== url)
+      window.history.replaceState(null,"",url);
   }, [area, category, interestFilter, foodType, search, page, filtersReady, placeId]);
   const [nearBase, setNearBase] = useState("baguio"),
     [adding, setAdding] = useState<string | null>(null);
@@ -881,6 +882,8 @@ function PlaceDetails({
                 Add to my trip
               </button>
             )}
+            {place.directory && (!stop || !place.baseSlug || reviewExpired(place) || !addableStop(stop)) &&
+              <Link className="button secondary" href={`/planner?place=${encodeURIComponent(place.id)}`}>Add to planner draft</Link>}
           </div>
           <p className="fine-print">
             {place.kind === "spot"
